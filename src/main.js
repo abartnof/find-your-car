@@ -24,7 +24,7 @@ const audio = {
     for (let c = 0; c < 2; c++) { const d = imp.getChannelData(c); for (let i = 0; i < len; i++) d[i] = (Math.random() * 2 - 1) * Math.pow(1 - i / len, 2.6); }
     const conv = ctx.createConvolver(); conv.buffer = imp;
     this.verb = ctx.createGain(); this.verb.gain.value = 0.5; this.verb.connect(conv).connect(this.master);
-    this.ambience();
+    // (no ambient bed: the soundtrack carries the mood)
     for (const k of Object.keys(ASSETS).filter((k) => k.startsWith('sfx/'))) {
       try {
         const bin = atob(ASSETS[k].split(',')[1]); const u = new Uint8Array(bin.length);
@@ -114,9 +114,9 @@ const music = {
       const el = (this.el = new Audio()); el.preload = 'none';
       el.addEventListener('ended', () => this.next());
       try { // through the master gain so the mute button applies (iOS ignores element.volume)
-        this.gain = audio.ctx.createGain(); this.gain.gain.value = 0.22;
+        this.gain = audio.ctx.createGain(); this.gain.gain.value = 0.4;
         audio.ctx.createMediaElementSource(el).connect(this.gain); this.gain.connect(audio.master);
-      } catch { el.volume = 0.22; }
+      } catch { el.volume = 0.4; }
       el.src = ASSETS[this.tracks[this.at].key];
     }
     return this.el;
