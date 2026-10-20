@@ -1,0 +1,225 @@
+import { Lot, CHARACTERS, CARS, STEPS, wait } from './scene.js';
+import ASSETS from '../build/assets.js';
+import QUESTIONS from './questions.json';
+
+const $ = (id) => document.getElementById(id);
+const sheet = $('sheet');
+const store = {
+  get(k, d) { try { const v = localStorage.getItem('fyc.' + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v) { try { localStorage.setItem('fyc.' + k, JSON.stringify(v)); } catch {} },
+};
+
+// ---------- audio ----------
+const audio = {
+  ctx: null, buffers: {}, muted: store.get('muted', false),
+  async unlock() {
+    if (this.ctx) { if (this.ctx.state === 'suspended') this.ctx.resume(); return; }
+    const AC = window.AudioContext || window.webkitAudioContext; if (!AC) return;
+    this.ctx = new AC();
+    for (const k of Object.keys(ASSETS).filter((k) => k.startsWith('sfx/'))) {
+      try {
+        const bin = atob(ASSETS[k].split(',')[1]); const u = new Uint8Array(bin.length);
+        for (let i = 0; i < bin.length; i++) u[i] = bin.charCodeAt(i);
+        this.buffers[k.slice(4, -4)] = await new Promise((res, rej) => this.ctx.decodeAudioData(u.buffer, res, rej));
+      } catch {}
+    }
+  },
+  play(name, vol = 0.8) {
+    if (this.muted || !this.ctx || !this.buffers[name]) return;
+    const s = this.ctx.createBufferSource(), g = this.ctx.createGain();
+    s.buffer = this.buffers[name]; g.gain.value = vol; s.connect(g).connect(this.ctx.destination); s.start();
+  },
+  tone(freqs, dur = 0.12, type = 'triangle', vol = 0.15) {
+    if (this.muted || !this.ctx) return;
+    const t0 = this.ctx.currentTime;
+    freqs.forEach((f, i) => {
+      const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+      o.type = type; o.frequency.value = f; o.connect(g).connect(this.ctx.destination);
+      const t = t0 + i * dur; g.gain.setValueAtTime(vol, t); g.gain.exponentialRampToValueAtTime(0.001, t + dur * 1.6);
+      o.start(t); o.stop(t + dur * 1.7);
+    });
+  },
+};
+function renderMute() {
+  $('muteIcon').setAttribute('d', audio.muted
+    ? 'M16.5 12A4.5 4.5 0 0 0 14 8v2.2l2.5 2.5v-.7zM19 12c0 .9-.2 1.8-.5 2.6l1.5 1.5A8.9 8.9 0 0 0 21 12c0-4.3-3-7.9-7-8.8v2.1c2.9.9 5 3.5 5 6.7zM4.3 3 3 4.3 7.7 9H3v6h4l5 5v-6.7l4.3 4.3c-.7.5-1.4.9-2.3 1.2v2.1a9 9 0 0 0 3.6-1.8l2.1 2.1 1.3-1.3L4.3 3zM12 4 9.9 6.1 12 8.2V4z'
+    : 'M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1c2.9.9 5 3.5 5 6.7s-2.1 5.8-5 6.7v2.1c4-.9 7-4.5 7-8.8s-3-7.9-7-8.8z');
+}
+$('muteBtn').addEventListener('click', () => { audio.muted = !audio.muted; store.set('muted', audio.muted); renderMute(); audio.unlock(); });
+renderMute();
+
+// ---------- ripple on any .btn / .fchip / .icon-btn ----------
+document.addEventListener('pointerdown', (e) => {
+  audio.unlock();
+  const el = e.target.closest('.btn,.fchip,.icon-btn'); if (!el) return;
+  const r = el.getBoundingClientRect(), d = Math.max(r.width, r.height) * 2;
+  const s = document.createElement('span'); s.className = 'ripple';
+  s.style.cssText = `width:${d}px;height:${d}px;left:${e.clientX - r.left - d / 2}px;top:${e.clientY - r.top - d / 2}px`;
+  el.appendChild(s); setTimeout(() => s.remove(), 600);
+});
+
+let snackT;
+function snack(msg) { const s = $('snack'); s.textContent = msg; s.classList.add('show'); clearTimeout(snackT); snackT = setTimeout(() => s.classList.remove('show'), 2200); }
+
+// ---------- state ----------
+const shows = [...new Set(QUESTIONS.map((q) => q.show))];
+const showGroups = (() => { // collapse the long tail of one-off 90s sitcoms into one chip
+  const main = ['Friends', 'Will & Grace', 'Frasier'];
+  const other = shows.filter((s) => !main.includes(s));
+  return [...main.filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })), ...(other.length ? [{ label: '90s Sitcoms', shows: other }] : [])];
+})();
+const S = {
+  char: Math.min(store.get('char', 0), CHARACTERS.length - 1),
+  car: Math.min(store.get('car', 0), CARS.length - 1),
+  tex: store.get('tex', 0),
+  groups: new Set(store.get('groups', showGroups.map((g) => g.label))),
+  qs: [], i: 0, score: 0, answered: false, seen: new Set(),
+};
+let lot;
+
+const ESC = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const ICON = {
+  next: '<svg viewBox="0 0 24 24"><path d="M12 4l-1.4 1.4 5.6 5.6H4v2h12.2l-5.6 5.6L12 20l8-8z"/></svg>',
+  prev: '<svg viewBox="0 0 24 24"><path d="M15.4 7.4 14 6l-6 6 6 6 1.4-1.4L10.8 12z"/></svg>',
+  nxt: '<svg viewBox="0 0 24 24"><path d="M8.6 16.6 13.2 12 8.6 7.4 10 6l6 6-6 6z"/></svg>',
+};
+
+function pickQuestions() {
+  const allowed = new Set(showGroups.filter((g) => S.groups.has(g.label)).flatMap((g) => g.shows));
+  let pool = QUESTIONS.filter((q) => allowed.has(q.show));
+  let fresh = pool.filter((q) => !S.seen.has(q.q));
+  if (fresh.length < STEPS) { fresh = pool; S.seen.clear(); }
+  const shuf = (a) => { a = [...a]; for (let i = a.length - 1; i > 0; i--) { const j = (Math.random() * (i + 1)) | 0;[a[i], a[j]] = [a[j], a[i]]; } return a; };
+  const take = [];
+  for (const [d, n] of [[1, 3], [2, 4], [3, 3]]) take.push(...shuf(fresh.filter((q) => q.d === d)).slice(0, n));
+  const ids = new Set(take.map((q) => q.q));
+  for (const q of shuf(fresh)) { if (take.length >= STEPS) break; if (!ids.has(q.q)) { take.push(q); ids.add(q.q); } }
+  take.sort((a, b) => a.d - b.d || Math.random() - 0.5);
+  return take.slice(0, STEPS).map((q) => {
+    const opts = q.options.map((t, i) => ({ t, ok: i === q.answer })); const o = shuf(opts);
+    return { show: q.show, q: q.q, opts: o };
+  });
+}
+
+// ---------- screens ----------
+function renderMenu() {
+  lot.reset(); lot.mode = 'menu';
+  $('title').textContent = 'Find Your Car'; $('scoreChip').hidden = true; $('progress').hidden = true;
+  const car = CARS[S.car];
+  sheet.innerHTML = `
+    <p class="overline">Sitcom trivia</p>
+    <h1 class="headline">Where did you park?</h1>
+    <p class="body">Ten questions. Every right answer gets you one step closer to your car. Get all ten and you're driving home.</p>
+    <div class="label">YOU</div>
+    <div class="picker"><button class="icon-btn" data-a="char-" aria-label="Previous character">${ICON.prev}</button><div class="name">${CHARACTERS[S.char].name}</div><button class="icon-btn" data-a="char+" aria-label="Next character">${ICON.nxt}</button></div>
+    <div class="label">YOUR CAR</div>
+    <div class="picker"><button class="icon-btn" data-a="car-" aria-label="Previous car">${ICON.prev}</button><div class="name">${car.name}</div><button class="icon-btn" data-a="car+" aria-label="Next car">${ICON.nxt}</button></div>
+    <div class="swatches" aria-label="Paint">${Array.from({ length: car.tex }, (_, i) => `<button class="sw ${i === S.tex ? 'sel' : ''}" data-a="tex${i}" aria-label="Paint ${i + 1}" data-sw="${car.id}_${i}" style="background:${SWC[car.id + '_' + i] || '#888'}"></button>`).join('')}</div>
+    <div class="label">TOPICS</div>
+    <div class="chips">${showGroups.map((g) => `<button class="fchip ${S.groups.has(g.label) ? 'sel' : ''}" data-g="${ESC(g.label)}">${ESC(g.label)}</button>`).join('')}</div>
+    <div class="sticky"><button class="btn btn-filled btn-block" id="go">Start</button></div>`;
+  sheet.scrollTop = 0;
+}
+const SWC = {};
+function loadSwatches() {
+  for (const car of CARS) for (let i = 0; i < car.tex; i++) {
+    const img = new Image(); img.onload = () => {
+      const c = document.createElement('canvas'); c.width = c.height = 16; const x = c.getContext('2d'); x.drawImage(img, 0, 0, 16, 16);
+      const d = x.getImageData(0, 0, 16, 16).data; let r = 0, g = 0, b = 0, n = 0;
+      for (let k = 0; k < d.length; k += 4) if (d[k + 3] > 200) { r += d[k]; g += d[k + 1]; b += d[k + 2]; n++; }
+      SWC[`${car.id}_${i}`] = `rgb(${r / n | 0},${g / n | 0},${b / n | 0})`;
+      document.querySelectorAll(`[data-sw="${car.id}_${i}"]`).forEach((e) => (e.style.background = SWC[`${car.id}_${i}`]));
+    }; img.src = ASSETS[`cars/car${car.id}_${i}.png`];
+  }
+}
+
+sheet.addEventListener('click', (e) => {
+  const b = e.target.closest('[data-a],[data-g],#go,[data-opt],#next,#again'); if (!b) return;
+  if (b.dataset.a) {
+    const a = b.dataset.a;
+    if (a.startsWith('char')) { S.char = (S.char + (a.endsWith('+') ? 1 : -1) + CHARACTERS.length) % CHARACTERS.length; lot.setCharacter(CHARACTERS[S.char].id); }
+    else if (a.startsWith('car')) { S.car = (S.car + (a.endsWith('+') ? 1 : -1) + CARS.length) % CARS.length; S.tex = 0; lot.setCar(S.car, S.tex); }
+    else if (a.startsWith('tex')) { S.tex = +a.slice(3); lot.setCar(S.car, S.tex); }
+    store.set('char', S.char); store.set('car', S.car); store.set('tex', S.tex); renderMenu();
+  } else if (b.dataset.g) {
+    const g = b.dataset.g;
+    if (S.groups.has(g)) { if (S.groups.size > 1) S.groups.delete(g); else return snack('Keep at least one topic'); } else S.groups.add(g);
+    store.set('groups', [...S.groups]); renderMenu();
+  } else if (b.id === 'go') startGame();
+  else if (b.dataset.opt != null) answer(+b.dataset.opt);
+  else if (b.id === 'next') nextQ();
+  else if (b.id === 'again') { renderMenu(); }
+});
+
+function startGame() {
+  S.qs = pickQuestions(); S.qs.forEach((q) => S.seen.add(q.q)); S.i = 0; S.score = 0;
+  lot.reset(); lot.mode = 'play';
+  $('scoreChip').hidden = false; $('progress').hidden = false; updateHud();
+  renderQ();
+}
+function updateHud() {
+  $('scoreText').textContent = `${S.score} / ${STEPS}`;
+  $('progressBar').style.width = `${(S.score / STEPS) * 100}%`;
+  $('title').textContent = `Question ${Math.min(S.i + 1, STEPS)} of ${STEPS}`;
+}
+function renderQ() {
+  const q = S.qs[S.i]; S.answered = false; updateHud();
+  sheet.innerHTML = `
+    <p class="overline">${ESC(q.show)}</p>
+    <h2 class="question">${ESC(q.q)}</h2>
+    <div class="options">${q.opts.map((o, i) => `<button class="btn btn-opt" data-opt="${i}"><span class="key">${'ABCD'[i]}</span><span>${ESC(o.t)}</span></button>`).join('')}</div>
+    <div id="fb"></div>`;
+  sheet.scrollTop = 0;
+}
+function answer(i) {
+  if (S.answered) return; S.answered = true;
+  const q = S.qs[S.i], ok = q.opts[i].ok;
+  sheet.querySelectorAll('.btn-opt').forEach((el, k) => {
+    if (q.opts[k].ok) el.classList.add('correct'); else if (k === i) el.classList.add('wrong'); else el.classList.add('dim');
+  });
+  const last = S.i === STEPS - 1, win = ok && S.score + 1 === STEPS;
+  if (ok) {
+    S.score++; lot.advance(); lot.cheer(); audio.tone([523, 659, 784], 0.09); updateHud();
+    const left = STEPS - S.score; snack(left ? `Nice! ${left} more to go` : 'Your car is right there!');
+  } else {
+    lot.stumble(); audio.tone([220, 165], 0.16, 'sawtooth', 0.1); audio.play('Car_Horn', 0.35);
+    snack(`Nope — it's "${q.opts.find((o) => o.ok).t}"`);
+  }
+  $('fb').innerHTML = `<button class="btn fab-ext" id="next">${last ? (win ? 'Get in the car' : 'See results') : 'Next'}${ICON.next}</button>`;
+  sheet.scrollTo({ top: sheet.scrollHeight, behavior: 'smooth' });
+}
+function nextQ() {
+  if (!S.answered) return;
+  if (S.i === STEPS - 1) return finish();
+  S.i++; renderQ();
+}
+async function finish() {
+  const win = S.score === STEPS;
+  $('progress').hidden = true;
+  sheet.innerHTML = '';
+  if (win) {
+    $('title').textContent = 'You made it!';
+    await lot.drive(audio);
+    sheet.innerHTML = `<div class="result"><p class="overline">10 / 10</p><h1 class="headline">You found your car!</h1><p class="body">Flawless. Keys in hand, engine running, and a very nice ${CARS[S.car].name.toLowerCase()} to take you home.</p><div class="row"><button class="btn btn-filled" id="again">Play again</button></div></div>`;
+    audio.tone([523, 659, 784, 1047], 0.12);
+  } else {
+    $('title').textContent = 'Not quite…';
+    const left = STEPS - S.score;
+    sheet.innerHTML = `<div class="result"><p class="overline">Final score</p><p class="score-big">${S.score} / ${STEPS}</p><h1 class="headline">${S.score >= 7 ? 'So close!' : S.score >= 4 ? 'Still wandering the lot' : 'Where did you even park?'}</h1><p class="body">Your car is ${left} step${left > 1 ? 's' : ''} away. You need a perfect 10 to drive home.</p><div class="row"><button class="btn btn-filled" id="again">Try again</button></div></div>`;
+  }
+}
+
+// ---------- boot ----------
+(async function boot() {
+  lot = new Lot($('gl'));
+  lot.setCharacter(CHARACTERS[S.char].id);
+  lot.setCar(S.car, S.tex);
+  lot.start();
+  window.__lot = lot;
+  loadSwatches();
+  renderMenu();
+  const demo = /demo=(\d+)/.exec(location.hash);
+  if (demo) { startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } }
+  await wait(300);
+  $('loading').classList.add('done');
+})();

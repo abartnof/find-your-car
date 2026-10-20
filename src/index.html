@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+<meta name="theme-color" content="#1b1b21">
+<title>Find Your Car</title>
+<style>/*CSS*/</style>
+</head>
+<body>
+<div id="app">
+  <header class="appbar">
+    <div class="appbar-title" id="title">Find Your Car</div>
+    <div class="chip" id="scoreChip" hidden><span class="material-dot"></span><span id="scoreText">0 / 10</span></div>
+    <button class="icon-btn" id="muteBtn" aria-label="Toggle sound"><svg viewBox="0 0 24 24"><path id="muteIcon" d="M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4z"/></svg></button>
+  </header>
+  <div class="progress" id="progress" hidden><div class="progress-bar" id="progressBar"></div></div>
+  <main class="stage"><canvas id="gl"></canvas><div class="loading" id="loading"><div class="spinner"></div><div>Parking the cars…</div></div></main>
+  <section class="sheet" id="sheet"></section>
+</div>
+<div class="snackbar" id="snack" role="status"></div>
+<script>/*JS*/</script>
+</body>
+</html>
