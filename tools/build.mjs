@@ -5,7 +5,7 @@ import path from 'path';
 
 const mime = { '.fbx': 'application/octet-stream', '.obj': 'text/plain', '.png': 'image/png', '.jpg': 'image/jpeg', '.mp3': 'audio/mpeg' };
 const assets = {};
-for (const dir of ['chars', 'cars', 'sfx']) {
+for (const dir of ['chars', 'cars', 'sfx', 'music']) {
   for (const f of fs.readdirSync(`assets/${dir}`)) {
     const ext = path.extname(f);
     assets[`${dir}/${f}`] = `data:${mime[ext]};base64,${fs.readFileSync(`assets/${dir}/${f}`).toString('base64')}`;

@@ -81,6 +81,15 @@ const audio = {
     const sc = [523.25, 587.33, 659.25, 783.99, 880, 1046.5, 1174.7, 1318.5, 1568, 1760];
     const f = sc[Math.min(n, sc.length - 1)]; this.bell(f, 0, 0.12); this.bell(f * 1.5, 0.12, 0.05, 1.6);
   },
+  // a soft, distant thump with a little sparkle
+  boom() {
+    if (this.muted || !this.ctx) return;
+    const ctx = this.ctx, t = ctx.currentTime + 0.05, len = ctx.sampleRate * 0.5, b = ctx.createBuffer(1, len, ctx.sampleRate), d = b.getChannelData(0);
+    for (let i = 0; i < len; i++) d[i] = (Math.random() * 2 - 1) * Math.pow(1 - i / len, 2.5);
+    const s = ctx.createBufferSource(), f = ctx.createBiquadFilter(), g = ctx.createGain(); s.buffer = b; f.type = 'lowpass'; f.frequency.value = 260 + Math.random() * 120; g.gain.value = 0.22;
+    s.connect(f).connect(g); g.connect(this.master); g.connect(this.verb); s.start(t);
+    for (let k = 0; k < 3; k++) this.bell(1800 + Math.random() * 1800, 0.12 + k * 0.09, 0.018, 0.9);
+  },
   wrong() { this.bell(329.63, 0, 0.08, 1.8); this.bell(293.66, 0.22, 0.07, 2.2); },
   win() { [523.25, 659.25, 783.99, 1046.5, 1318.5].forEach((f, i) => this.bell(f, i * 0.28, 0.1, 3.2)); },
   step(alt) {
@@ -91,17 +100,54 @@ const audio = {
     s.connect(f).connect(g).connect(this.master); s.start();
   },
 };
+// ---------- background music: MIDI-derived clips (assets/music), decoded lazily by an <audio> element ----------
+const TITLES = { AddamsFamily: 'The Addams Family', Alf: 'ALF', BadMoonRising: 'Bad Moon Rising', BlackMagicWoman: 'Black Magic Woman', CanYouFeelTheLoveTonight: 'Can You Feel the Love Tonight', FreshPrinceOfBelAir: 'The Fresh Prince of Bel-Air', Friends: "I'll Be There for You", GangnamStyle: 'Gangnam Style', HeyJude: 'Hey Jude', HotelCalifornia: 'Hotel California', MyHumps: 'My Humps', NoWomanNoCry: 'No Woman, No Cry', PianoMan: 'Piano Man', PokerFace: 'Poker Face', Rollinginthedeep: 'Rolling in the Deep', TearsInHeaven: 'Tears in Heaven', YoureBeautiful: "You're Beautiful" };
+const music = {
+  tracks: Object.keys(ASSETS).filter((k) => k.startsWith('music/')).map((k) => ({ key: k, title: TITLES[k.slice(6, -4)] || k.slice(6, -4) })),
+  on: store.get('music', true), at: -1, el: null,
+  get title() { return this.at >= 0 ? this.tracks[this.at].title : ''; },
+  load() {
+    if (!this.tracks.length) return null;
+    if (!this.el) {
+      this.at = Math.floor(Math.random() * this.tracks.length);
+      const el = (this.el = new Audio()); el.preload = 'none';
+      el.addEventListener('ended', () => this.next());
+      try { // through the master gain so the mute button applies (iOS ignores element.volume)
+        this.gain = audio.ctx.createGain(); this.gain.gain.value = 0.22;
+        audio.ctx.createMediaElementSource(el).connect(this.gain); this.gain.connect(audio.master);
+      } catch { el.volume = 0.22; }
+      el.src = ASSETS[this.tracks[this.at].key];
+    }
+    return this.el;
+  },
+  // call after a user gesture (audio.ctx exists): play if on and not muted, else pause
+  sync() {
+    const want = this.on && !audio.muted && audio.ctx && document.visibilityState !== 'hidden';
+    if (!want) { this.el?.pause(); return; }
+    const el = this.load(); if (!el) return;
+    const r = el.play(); r?.catch?.(() => {});
+  },
+  next() {
+    if (!this.tracks.length) return;
+    if (!this.el) { this.sync(); if (!this.el) return; }
+    this.at = (this.at + 1) % this.tracks.length;
+    this.el.src = ASSETS[this.tracks[this.at].key]; this.sync();
+  },
+  set(on) { this.on = on; store.set('music', on); audio.unlock(); this.sync(); },
+};
+document.addEventListener('visibilitychange', () => music.sync());
+
 function renderMute() {
   $('muteIcon').setAttribute('d', audio.muted
     ? 'M16.5 12A4.5 4.5 0 0 0 14 8v2.2l2.5 2.5v-.7zM19 12c0 .9-.2 1.8-.5 2.6l1.5 1.5A8.9 8.9 0 0 0 21 12c0-4.3-3-7.9-7-8.8v2.1c2.9.9 5 3.5 5 6.7zM4.3 3 3 4.3 7.7 9H3v6h4l5 5v-6.7l4.3 4.3c-.7.5-1.4.9-2.3 1.2v2.1a9 9 0 0 0 3.6-1.8l2.1 2.1 1.3-1.3L4.3 3zM12 4 9.9 6.1 12 8.2V4z'
     : 'M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1c2.9.9 5 3.5 5 6.7s-2.1 5.8-5 6.7v2.1c4-.9 7-4.5 7-8.8s-3-7.9-7-8.8z');
 }
-$('muteBtn').addEventListener('click', () => { audio.unlock(); audio.setMuted(!audio.muted); store.set('muted', audio.muted); renderMute(); });
+$('muteBtn').addEventListener('click', () => { audio.unlock(); audio.setMuted(!audio.muted); store.set('muted', audio.muted); renderMute(); music.sync(); });
 renderMute();
 
 // ---------- ripple on any .btn / .fchip / .icon-btn ----------
 document.addEventListener('pointerdown', (e) => {
-  audio.unlock();
+  audio.unlock(); music.sync();
   const el = e.target.closest('.btn,.fchip,.icon-btn'); if (!el) return;
   const r = el.getBoundingClientRect(), d = Math.max(r.width, r.height) * 2;
   const s = document.createElement('span'); s.className = 'ripple';
@@ -173,6 +219,10 @@ function renderMenu() {
     <div class="swatches" aria-label="Paint">${Array.from({ length: car.tex }, (_, i) => `<button class="sw ${i === S.tex ? 'sel' : ''}" data-a="tex${i}" aria-label="Paint ${i + 1}" data-sw="${car.id}_${i}" style="background:${SWC[car.id + '_' + i] || '#888'}"></button>`).join('')}</div>
     <div class="label">TOPICS</div>
     <div class="chips">${showGroups.map((g) => `<button class="fchip ${S.groups.has(g.label) ? 'sel' : ''}" data-g="${ESC(g.label)}">${ESC(g.label)}</button>`).join('')}</div>
+    ${music.tracks.length ? `<div class="label">MUSIC</div>
+    <div class="musicrow"><button class="switch ${music.on ? 'on' : ''}" role="switch" aria-checked="${music.on}" data-m="toggle" aria-label="Background music"><span class="knob"></span></button>
+      <div class="mtitle">${music.on ? (music.title ? '♪ ' + ESC(music.title) : 'Background music') : 'Music off'}</div>
+      <button class="icon-btn" data-m="next" aria-label="Next song" ${music.on ? '' : 'disabled'}>${ICON.nxt}</button></div>` : ''}
     <div class="sticky"><button class="btn btn-filled btn-block" id="go">Start</button></div>`;
   sheet.scrollTop = 0;
 }
@@ -190,8 +240,9 @@ function loadSwatches() {
 }
 
 sheet.addEventListener('click', (e) => {
-  const b = e.target.closest('[data-a],[data-g],#go,[data-opt],#next,#again'); if (!b) return;
-  if (b.dataset.a) {
+  const b = e.target.closest('[data-m],[data-a],[data-g],#go,[data-opt],#next,#again'); if (!b) return;
+  if (b.dataset.m) { if (b.dataset.m === 'toggle') music.set(!music.on); else music.next(); renderMenu(); }
+  else if (b.dataset.a) {
     const a = b.dataset.a;
     if (a.startsWith('char')) { S.char = (S.char + (a.endsWith('+') ? 1 : -1) + CHARACTERS.length) % CHARACTERS.length; lot.setCharacter(CHARACTERS[S.char].id); }
     else if (a.startsWith('car')) { S.car = (S.car + (a.endsWith('+') ? 1 : -1) + CARS.length) % CARS.length; S.tex = 0; lot.setCar(S.car, S.tex); }
@@ -272,6 +323,7 @@ async function finish() {
   lot.setCar(S.car, S.tex);
   lot.start();
   window.__lot = lot;
+  lot.onBurst = () => audio.boom();
   let alt = 0; lot.onStep = () => { if (lot.mode !== 'menu') audio.step(alt ^= 1); };
   loadSwatches();
   if (/probe/.test(location.hash)) {   // dev: report foot/hand z at the phase where sin = 1
@@ -280,7 +332,6 @@ async function finish() {
     const d = document.createElement('div'); d.id = 'probe'; d.textContent = ['LeftFoot', 'RightFoot', 'LeftHand', 'RightHand', 'LeftLeg', 'LeftUpLeg'].map((n) => n + '=' + z(n)).join(' ');
     document.body.appendChild(d);
   }
-  { const v = /v=([-\d.,]+)/.exec(location.hash); if (v) { const a = v[1].split(',').map(Number); lot.setCharacter(CHARACTERS[a[0]].id); lot.pixel = 1; lot.resize(); lot.dev = { phase: a[1], mov: a[2], sh: a[3], ch: a[4], az: a[5], dist: a[6], h: a[7], lh: a[8] }; const st = document.createElement('style'); st.textContent = 'header,.sheet,.progress,.loading,.snackbar{display:none!important} .stage{position:fixed!important;inset:0!important;height:100%!important}'; document.head.appendChild(st); } }
   renderMenu();
   const demo = /demo=(\d+)/.exec(location.hash);
   if (demo) { lot.snap = true; startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } }

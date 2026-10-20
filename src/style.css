@@ -74,3 +74,11 @@ html,body{margin:0;height:100%;background:var(--md-surface);color:var(--md-on-su
 .picker .icon-btn{width:40px;height:40px}
 .picker{margin-bottom:6px}
 .sheet{max-height:55%}
+
+.musicrow{display:flex;align-items:center;gap:12px;margin-bottom:8px}
+.musicrow .mtitle{flex:1;min-width:0;font:400 14px var(--font);color:var(--md-on-surface-variant);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.switch{flex:none;position:relative;width:52px;height:32px;border-radius:16px;border:2px solid var(--md-outline);background:var(--md-surface-1);cursor:pointer;padding:0;transition:background .2s,border-color .2s}
+.switch .knob{position:absolute;top:50%;left:6px;width:16px;height:16px;margin-top:-8px;border-radius:50%;background:var(--md-outline);transition:left .2s,width .2s,height .2s,margin-top .2s,background .2s}
+.switch.on{background:var(--md-primary);border-color:var(--md-primary)}
+.switch.on .knob{left:24px;width:24px;height:24px;margin-top:-12px;background:var(--md-on-primary)}
+.icon-btn[disabled]{opacity:.38;pointer-events:none}

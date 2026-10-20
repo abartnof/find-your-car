@@ -12,8 +12,7 @@ export const CHARACTERS = [
 export const CARS = [
   { id: 1, name: 'Hatchback', tex: 4 }, { id: 2, name: 'Coupe', tex: 3 },
   { id: 3, name: 'Roadster', tex: 3 }, { id: 4, name: 'Wagon', tex: 4 },
-  { id: 5, name: 'Sedan', tex: 3 }, { id: 6, name: 'Van', tex: 1 },
-  { id: 7, name: 'Compact', tex: 6 }, { id: 8, name: 'Pickup', tex: 3 },
+  { id: 5, name: 'Sedan', tex: 3 }, { id: 7, name: 'Vintage', tex: 6 }, { id: 8, name: 'Pickup', tex: 3 },
 ];
 
 export const STEPS = 10;
@@ -80,6 +79,10 @@ class Walker {
       if (b.parent) b.parent.getWorldQuaternion(pq);
       this.rest[n] = { q0: b.quaternion.clone(), pq, pqi: pq.clone().invert() };
     }
+    // how far each upper arm already hangs below horizontal in the rest pose (rigs differ: T vs A pose)
+    const wp = (n) => this.bones[n].getWorldPosition(new THREE.Vector3());
+    const hang = (a, f, sx) => { const v = wp(f).sub(wp(a)); return Math.atan2(-v.y, v.x * sx); };
+    this.armRest = { L: hang('LeftArm', 'LeftForeArm', -1), R: hang('RightArm', 'RightForeArm', 1) };
     this.phase = 0; this.moving = 0; this.shrug = 0; this.cheer = 0;
     this.hipsY = this.bones.Hips.position.y;
   }
@@ -111,9 +114,9 @@ class Walker {
     this.rot('LeftLeg', [1, 0, 0, Math.max(0, -s) * 0.45 * m]);
     this.rot('RightLeg', [1, 0, 0, Math.max(0, s) * 0.45 * m]);
     // arms hang with a loose swing opposite the legs; a gentle lift for gestures
-    const down = 1.3 - ch * 0.55 - sh * 0.25 + breathe * 0.015;
-    this.rot('LeftArm', [0, 0, 1, down], [1, 0, 0, -s * 0.3 * m]);
-    this.rot('RightArm', [0, 0, 1, -down], [1, 0, 0, s * 0.3 * m]);
+    const down = 1.38 - ch * 0.7 - sh * 0.25 + breathe * 0.015;   // target angle below horizontal
+    this.rot('LeftArm', [0, 0, 1, down - this.armRest.L], [1, 0, 0, -s * 0.3 * m]);
+    this.rot('RightArm', [0, 0, 1, -(down - this.armRest.R)], [1, 0, 0, s * 0.3 * m]);
     this.rot('LeftForeArm', [1, 0, 0, -0.25 - 0.15 * m - ch * 0.3]);
     this.rot('RightForeArm', [1, 0, 0, -0.25 - 0.15 * m - ch * 0.3]);
     this.rot('Spine1', [0, 1, 0, s * 0.07 * m], [1, 0, 0, breathe * 0.012]);
@@ -224,6 +227,64 @@ class Sky {
   }
 }
 
+
+// ---------- fireworks: soft pastel rockets and bursts (additive points) ----------
+class Fireworks {
+  constructor(scene, glowTex, onBurst) {
+    this.N = 2600; this.onBurst = onBurst; this.active = false; this.next = 0; this.rockets = []; this.i = 0;
+    this.pos = new Float32Array(this.N * 3); this.col = new Float32Array(this.N * 3);
+    this.vel = new Float32Array(this.N * 3); this.life = new Float32Array(this.N); this.max = new Float32Array(this.N);
+    this.base = new Float32Array(this.N * 3);
+    const g = new THREE.BufferGeometry();
+    g.setAttribute('position', new THREE.BufferAttribute(this.pos, 3).setUsage(THREE.DynamicDrawUsage));
+    g.setAttribute('color', new THREE.BufferAttribute(this.col, 3).setUsage(THREE.DynamicDrawUsage));
+    this.pts = new THREE.Points(g, new THREE.PointsMaterial({ size: 1.5, map: glowTex, vertexColors: true, transparent: true, blending: THREE.AdditiveBlending, depthWrite: false, fog: false }));
+    this.pts.frustumCulled = false; this.pts.renderOrder = 3; scene.add(this.pts);
+    this.origin = new THREE.Vector3();
+    this.palette = [0xffd27a, 0xff9ec4, 0xa8d8ff, 0xc7b3ff, 0xb8ffd9, 0xffb38a].map((c) => new THREE.Color(c));
+  }
+  emit(x, y, z, vx, vy, vz, c, life) {
+    const i = this.i; this.i = (this.i + 1) % this.N;
+    this.pos.set([x, y, z], i * 3); this.vel.set([vx, vy, vz], i * 3); this.base.set([c.r, c.g, c.b], i * 3);
+    this.life[i] = this.max[i] = life;
+  }
+  burst(x, y, z) {
+    const c1 = this.palette[(Math.random() * this.palette.length) | 0], c2 = this.palette[(Math.random() * this.palette.length) | 0];
+    const n = 90, sp = 6 + Math.random() * 3;
+    for (let k = 0; k < n; k++) {
+      const u = Math.random() * 2 - 1, a = Math.random() * 6.283, r = Math.sqrt(1 - u * u), s = sp * (0.8 + Math.random() * 0.25);
+      this.emit(x, y, z, r * Math.cos(a) * s, u * s, r * Math.sin(a) * s, k % 3 ? c1 : c2, 2.0 + Math.random() * 0.9);
+    }
+    for (let k = 0; k < 25; k++) this.emit(x, y, z, (Math.random() - 0.5) * 3, (Math.random() - 0.5) * 3, (Math.random() - 0.5) * 3, c2, 1.2 + Math.random() * 0.8);
+    if (this.onBurst) this.onBurst();
+  }
+  launch() {
+    const o = this.origin;
+    this.rockets.push({ x: o.x + (Math.random() - 0.5) * 36, y: 1, z: o.z - 14 - Math.random() * 26, vx: (Math.random() - 0.5) * 2, vy: 19 + Math.random() * 4, vz: 0, t: 0 });
+  }
+  start(origin) { this.origin.copy(origin); this.active = true; this.next = 0; for (let k = 0; k < 3; k++) setTimeout(() => this.active && this.launch(), k * 350); }
+  stop() { this.active = false; this.rockets.length = 0; this.life.fill(0); this.col.fill(0); this.pts.geometry.attributes.color.needsUpdate = true; }
+  update(dt) {
+    if (this.active) { this.next -= dt; if (this.next <= 0) { this.launch(); this.next = 0.7 + Math.random() * 0.9; } }
+    for (let k = this.rockets.length - 1; k >= 0; k--) {
+      const r = this.rockets[k]; r.vy -= 9.8 * dt; r.x += r.vx * dt; r.y += r.vy * dt; r.t += dt;
+      this.emit(r.x, r.y, r.z, (Math.random() - 0.5), -1.5, (Math.random() - 0.5), this.palette[0], 0.45);
+      if (r.vy < 1.5) { this.burst(r.x, r.y, r.z); this.rockets.splice(k, 1); }
+    }
+    const drag = Math.exp(-0.9 * dt);
+    for (let i = 0; i < this.N; i++) {
+      const L = this.life[i];
+      if (L <= 0) { this.col[i * 3] = this.col[i * 3 + 1] = this.col[i * 3 + 2] = 0; continue; }
+      this.life[i] = L - dt;
+      const f = Math.max(0, L / this.max[i]), fade = f * f;
+      this.vel[i * 3] *= drag; this.vel[i * 3 + 1] = this.vel[i * 3 + 1] * drag - 3.2 * dt; this.vel[i * 3 + 2] *= drag;
+      this.pos[i * 3] += this.vel[i * 3] * dt; this.pos[i * 3 + 1] += this.vel[i * 3 + 1] * dt; this.pos[i * 3 + 2] += this.vel[i * 3 + 2] * dt;
+      this.col[i * 3] = this.base[i * 3] * fade; this.col[i * 3 + 1] = this.base[i * 3 + 1] * fade; this.col[i * 3 + 2] = this.base[i * 3 + 2] * fade;
+    }
+    this.pts.geometry.attributes.position.needsUpdate = true; this.pts.geometry.attributes.color.needsUpdate = true;
+  }
+}
+
 // ---------- the lot ----------
 export class Lot {
   constructor(canvas) {
@@ -314,6 +375,7 @@ export class Lot {
     const poleMat = new THREE.MeshLambertMaterial({ color: 0x2b2b35 });
     const glowTex = (() => { const c = document.createElement('canvas'); c.width = c.height = 64; const x = c.getContext('2d'); const gr = x.createRadialGradient(32, 32, 0, 32, 32, 32); gr.addColorStop(0, 'rgba(255,230,160,1)'); gr.addColorStop(0.3, 'rgba(255,200,110,.5)'); gr.addColorStop(1, 'rgba(255,180,90,0)'); x.fillStyle = gr; x.fillRect(0, 0, 64, 64); return new THREE.CanvasTexture(c); })();
     this.glowTex = glowTex;
+    this.fireworks = new Fireworks(sc, glowTex, () => this.onBurst && this.onBurst());
     for (let z = -4; z > -LOT_END - 30; z -= 16) for (const side of [-1, 1]) {
       const pole = new THREE.Mesh(new THREE.BoxGeometry(0.2, 7, 0.2), poleMat); pole.position.set(side * 10.6, 3.5, z); sc.add(pole);
       const arm = new THREE.Mesh(new THREE.BoxGeometry(1.6, 0.14, 0.14), poleMat); arm.position.set(side * 9.8, 7, z); sc.add(arm);
@@ -393,6 +455,7 @@ export class Lot {
     this.walkerHolder.position.set(0, 0, 0);
     this.walkerHolder.rotation.set(0, 0, 0);
     this.goal.position.set(0, 0, -LOT_END); this.driveSpeed = 0;
+    this.fireworks.stop();
     this.camLook.set(0, 1.4, -8);
   }
   advance() { this.stepZ -= stepLen(); }
@@ -405,6 +468,7 @@ export class Lot {
     this.mode = 'drive';
     this.stepZ = -LOT_END + 1.3;                 // walk alongside to the driver's door
     for (let i = 0; i < 80 && this.z - this.stepZ > 0.05; i++) await wait(100);
+    this.fireworks.start(new THREE.Vector3(0, 0, -LOT_END));   // she's at the car: celebrate
     await wait(300);
     audio.play('Car_Door_Open', 0.35); await wait(900);
     this.walkerHolder.visible = false;
@@ -428,7 +492,10 @@ export class Lot {
       this.walker.update(dt, spd);
       this.walkerHolder.position.z = this.z;
       
-      if (this.mode === 'drive' && this.walkerHolder.visible) { this.walkerHolder.position.x += (-1.7 - this.walkerHolder.position.x) * dt * 2; this.walker.pivot.rotation.y = Math.PI * 1.5; }
+      if (this.mode === 'drive' && this.walkerHolder.visible) { this.walkerHolder.position.x += (-1.7 - this.walkerHolder.position.x) * dt * 2;
+        // keep facing the way she walks, then ease round to face the driver's door (car is at +x of her)
+        const want = this.z - this.stepZ > 0.25 ? Math.PI : Math.PI / 2;
+        this.walker.pivot.rotation.y += (want - this.walker.pivot.rotation.y) * Math.min(1, dt * 2.5); }
       if (this.mode === 'play' && this.remaining < 0.05 && this.winWalkAside) { /* noop */ }
     }
     for (const w of this.extraWalkers) w.update(dt, 0);
@@ -452,7 +519,7 @@ export class Lot {
       tl = new THREE.Vector3(0, 1.1, this.z - 1.5);
     } else if (this.mode === 'drive') {
       tp = new THREE.Vector3(-2.6, 1.9, Math.max(this.goal.position.z + 11, this.z + 7));
-      tl = new THREE.Vector3(0, 1, this.goal.position.z - 3);
+      tl = new THREE.Vector3(0, 4.2, this.goal.position.z - 5);
       if (!this.walkerHolder.visible && !this.goalCar.userData.driving) this.goalCar.userData.driving = 1;
     } else {
       tp = new THREE.Vector3(1.1 + Math.sin(this.time * 0.4) * 0.25, 2.0 + Math.sin(this.time * 0.31) * 0.06, this.z + 4.6);
@@ -466,6 +533,7 @@ export class Lot {
     cam.lookAt(this.camLook);
     this.sky.position.copy(cam.position);
     this.skyLayers.update(dt, this.time, cam.position);
+    this.fireworks.update(dt);
     this.renderer.render(this.scene, cam);
   }
   start() { this.camPos.set(3, 1.7, 3.4); this.loop(); }
