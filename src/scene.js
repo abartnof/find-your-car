@@ -143,8 +143,8 @@ export class Lot {
 
   buildWorld() {
     const sc = this.scene;
-    sc.add(new THREE.HemisphereLight(0xffd2a8, 0x4a3a66, 1.35));
-    const sun = new THREE.DirectionalLight(0xffb27a, 1.6);
+    sc.add(new THREE.HemisphereLight(0xffe0c0, 0x6a5a88, 2.3));
+    const sun = new THREE.DirectionalLight(0xffc08a, 2.2);
     sun.position.set(-30, 18, -60); sc.add(sun);
 
     // sky dome with vertex-coloured sunset
@@ -296,6 +296,9 @@ export class Lot {
   async drive(audio) {
     // she hops in, the car pulls away
     this.mode = 'drive';
+    this.stepZ = -LOT_END + 1.3;                 // walk alongside to the driver's door
+    for (let i = 0; i < 80 && this.z - this.stepZ > 0.05; i++) await wait(100);
+    await wait(300);
     audio.play('Car_Door_Open'); await wait(700);
     this.walkerHolder.visible = false;
     await wait(300); audio.play('Car_Door_Close'); await wait(500);
@@ -318,7 +321,7 @@ export class Lot {
       this.walker.update(dt, spd);
       this.walkerHolder.position.z = this.z;
       if (this.mode === 'menu') { this.walker.moving *= 0.9; }
-      if (this.mode === 'drive' && this.walkerHolder.visible) { this.walkerHolder.position.x += (-1.5 - this.walkerHolder.position.x) * dt * 2; }
+      if (this.mode === 'drive' && this.walkerHolder.visible) { this.walkerHolder.position.x += (-1.7 - this.walkerHolder.position.x) * dt * 2; this.walker.pivot.rotation.y = Math.PI * 1.5; }
       if (this.mode === 'play' && this.remaining < 0.05 && this.winWalkAside) { /* noop */ }
     }
     for (const w of this.extraWalkers) w.update(dt, 0);
@@ -341,14 +344,14 @@ export class Lot {
       tp = new THREE.Vector3(Math.sin(a) * 3.4, 1.7, this.z + Math.cos(a) * 3.4);
       tl = new THREE.Vector3(0, 1.1, this.z - 1.5);
     } else if (this.mode === 'drive') {
-      tp = new THREE.Vector3(5.5, 2.4, this.goal.position.z + 11);
+      tp = new THREE.Vector3(-2.6, 1.9, Math.max(this.goal.position.z + 11, this.z + 7));
       tl = new THREE.Vector3(0, 1, this.goal.position.z - 3);
       if (!this.walkerHolder.visible && !this.goalCar.userData.driving) this.goalCar.userData.driving = 1;
     } else {
       tp = new THREE.Vector3(1.1, 2.0, this.z + 4.4);
       tl = new THREE.Vector3(0, 1.35, this.z - 7);
     }
-    const k = 1 - Math.exp(-dt * (this.mode === 'menu' ? 3 : 4));
+    const k = this.snap ? 1 : 1 - Math.exp(-dt * (this.mode === 'menu' ? 3 : 4));
     this.camPos.lerp(tp, this.camPos.lengthSq() ? k : 1);
     this.camLook.lerp(tl, k);
     cam.position.copy(this.camPos);

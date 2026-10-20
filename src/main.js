@@ -219,7 +219,8 @@ async function finish() {
   loadSwatches();
   renderMenu();
   const demo = /demo=(\d+)/.exec(location.hash);
-  if (demo) { startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } }
+  if (demo) { lot.snap = true; startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } }
+  if (/ans/.test(location.hash)) answer(0);
   await wait(300);
   $('loading').classList.add('done');
 })();
