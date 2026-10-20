@@ -228,62 +228,6 @@ class Sky {
 }
 
 
-// ---------- fireworks: soft pastel rockets and bursts (additive points) ----------
-class Fireworks {
-  constructor(scene, glowTex, onBurst) {
-    this.N = 2600; this.onBurst = onBurst; this.active = false; this.next = 0; this.rockets = []; this.i = 0;
-    this.pos = new Float32Array(this.N * 3); this.col = new Float32Array(this.N * 3);
-    this.vel = new Float32Array(this.N * 3); this.life = new Float32Array(this.N); this.max = new Float32Array(this.N);
-    this.base = new Float32Array(this.N * 3);
-    const g = new THREE.BufferGeometry();
-    g.setAttribute('position', new THREE.BufferAttribute(this.pos, 3).setUsage(THREE.DynamicDrawUsage));
-    g.setAttribute('color', new THREE.BufferAttribute(this.col, 3).setUsage(THREE.DynamicDrawUsage));
-    this.pts = new THREE.Points(g, new THREE.PointsMaterial({ size: 1.5, map: glowTex, vertexColors: true, transparent: true, blending: THREE.AdditiveBlending, depthWrite: false, fog: false }));
-    this.pts.frustumCulled = false; this.pts.renderOrder = 3; scene.add(this.pts);
-    this.origin = new THREE.Vector3();
-    this.palette = [0xffd27a, 0xff9ec4, 0xa8d8ff, 0xc7b3ff, 0xb8ffd9, 0xffb38a].map((c) => new THREE.Color(c));
-  }
-  emit(x, y, z, vx, vy, vz, c, life) {
-    const i = this.i; this.i = (this.i + 1) % this.N;
-    this.pos.set([x, y, z], i * 3); this.vel.set([vx, vy, vz], i * 3); this.base.set([c.r, c.g, c.b], i * 3);
-    this.life[i] = this.max[i] = life;
-  }
-  burst(x, y, z) {
-    const c1 = this.palette[(Math.random() * this.palette.length) | 0], c2 = this.palette[(Math.random() * this.palette.length) | 0];
-    const n = 90, sp = 6 + Math.random() * 3;
-    for (let k = 0; k < n; k++) {
-      const u = Math.random() * 2 - 1, a = Math.random() * 6.283, r = Math.sqrt(1 - u * u), s = sp * (0.8 + Math.random() * 0.25);
-      this.emit(x, y, z, r * Math.cos(a) * s, u * s, r * Math.sin(a) * s, k % 3 ? c1 : c2, 2.0 + Math.random() * 0.9);
-    }
-    for (let k = 0; k < 25; k++) this.emit(x, y, z, (Math.random() - 0.5) * 3, (Math.random() - 0.5) * 3, (Math.random() - 0.5) * 3, c2, 1.2 + Math.random() * 0.8);
-    if (this.onBurst) this.onBurst();
-  }
-  launch() {
-    const o = this.origin;
-    this.rockets.push({ x: o.x + (Math.random() - 0.5) * 36, y: 1, z: o.z - 14 - Math.random() * 26, vx: (Math.random() - 0.5) * 2, vy: 19 + Math.random() * 4, vz: 0, t: 0 });
-  }
-  start(origin) { this.origin.copy(origin); this.active = true; this.next = 0; for (let k = 0; k < 3; k++) setTimeout(() => this.active && this.launch(), k * 350); }
-  stop() { this.active = false; this.rockets.length = 0; this.life.fill(0); this.col.fill(0); this.pts.geometry.attributes.color.needsUpdate = true; }
-  update(dt) {
-    if (this.active) { this.next -= dt; if (this.next <= 0) { this.launch(); this.next = 0.7 + Math.random() * 0.9; } }
-    for (let k = this.rockets.length - 1; k >= 0; k--) {
-      const r = this.rockets[k]; r.vy -= 9.8 * dt; r.x += r.vx * dt; r.y += r.vy * dt; r.t += dt;
-      this.emit(r.x, r.y, r.z, (Math.random() - 0.5), -1.5, (Math.random() - 0.5), this.palette[0], 0.45);
-      if (r.vy < 1.5) { this.burst(r.x, r.y, r.z); this.rockets.splice(k, 1); }
-    }
-    const drag = Math.exp(-0.9 * dt);
-    for (let i = 0; i < this.N; i++) {
-      const L = this.life[i];
-      if (L <= 0) { this.col[i * 3] = this.col[i * 3 + 1] = this.col[i * 3 + 2] = 0; continue; }
-      this.life[i] = L - dt;
-      const f = Math.max(0, L / this.max[i]), fade = f * f;
-      this.vel[i * 3] *= drag; this.vel[i * 3 + 1] = this.vel[i * 3 + 1] * drag - 3.2 * dt; this.vel[i * 3 + 2] *= drag;
-      this.pos[i * 3] += this.vel[i * 3] * dt; this.pos[i * 3 + 1] += this.vel[i * 3 + 1] * dt; this.pos[i * 3 + 2] += this.vel[i * 3 + 2] * dt;
-      this.col[i * 3] = this.base[i * 3] * fade; this.col[i * 3 + 1] = this.base[i * 3 + 1] * fade; this.col[i * 3 + 2] = this.base[i * 3 + 2] * fade;
-    }
-    this.pts.geometry.attributes.position.needsUpdate = true; this.pts.geometry.attributes.color.needsUpdate = true;
-  }
-}
 
 // ---------- the lot ----------
 export class Lot {
@@ -375,7 +319,6 @@ export class Lot {
     const poleMat = new THREE.MeshLambertMaterial({ color: 0x2b2b35 });
     const glowTex = (() => { const c = document.createElement('canvas'); c.width = c.height = 64; const x = c.getContext('2d'); const gr = x.createRadialGradient(32, 32, 0, 32, 32, 32); gr.addColorStop(0, 'rgba(255,230,160,1)'); gr.addColorStop(0.3, 'rgba(255,200,110,.5)'); gr.addColorStop(1, 'rgba(255,180,90,0)'); x.fillStyle = gr; x.fillRect(0, 0, 64, 64); return new THREE.CanvasTexture(c); })();
     this.glowTex = glowTex;
-    this.fireworks = new Fireworks(sc, glowTex, () => this.onBurst && this.onBurst());
     for (let z = -4; z > -LOT_END - 30; z -= 16) for (const side of [-1, 1]) {
       const pole = new THREE.Mesh(new THREE.BoxGeometry(0.2, 7, 0.2), poleMat); pole.position.set(side * 10.6, 3.5, z); sc.add(pole);
       const arm = new THREE.Mesh(new THREE.BoxGeometry(1.6, 0.14, 0.14), poleMat); arm.position.set(side * 9.8, 7, z); sc.add(arm);
@@ -455,7 +398,6 @@ export class Lot {
     this.walkerHolder.position.set(0, 0, 0);
     this.walkerHolder.rotation.set(0, 0, 0);
     this.goal.position.set(0, 0, -LOT_END); this.driveSpeed = 0;
-    this.fireworks.stop();
     this.camLook.set(0, 1.4, -8);
   }
   advance() { this.stepZ -= stepLen(); }
@@ -468,7 +410,7 @@ export class Lot {
     this.mode = 'drive';
     this.stepZ = -LOT_END + 1.3;                 // walk alongside to the driver's door
     for (let i = 0; i < 80 && this.z - this.stepZ > 0.05; i++) await wait(100);
-    this.fireworks.start(new THREE.Vector3(0, 0, -LOT_END));   // she's at the car: celebrate
+    if (this.onArrive) this.onArrive();   // she is at the car: celebrate
     await wait(300);
     audio.play('Car_Door_Open', 0.35); await wait(900);
     this.walkerHolder.visible = false;
@@ -533,7 +475,6 @@ export class Lot {
     cam.lookAt(this.camLook);
     this.sky.position.copy(cam.position);
     this.skyLayers.update(dt, this.time, cam.position);
-    this.fireworks.update(dt);
     this.renderer.render(this.scene, cam);
   }
   start() { this.camPos.set(3, 1.7, 3.4); this.loop(); }

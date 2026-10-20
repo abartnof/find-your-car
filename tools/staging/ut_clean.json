@@ -1,0 +1,688 @@
+[
+ {
+  "show": "UT Austin",
+  "section": "History",
+  "q": "In what year did The University of Texas at Austin first open its doors?",
+  "options": [
+   "1901",
+   "1920",
+   "1883",
+   "1865"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "UT opened on September 15, 1883."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Mascot",
+  "q": "What kind of animal is Bevo, the UT mascot?",
+  "options": [
+   "A Longhorn steer",
+   "A Bison",
+   "A Mustang",
+   "An Armadillo"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "Bevo is a Texas Longhorn steer, and the name debuted in 1916."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "What are the University of Texas at Austin's official colors?",
+  "options": [
+   "Crimson and gray",
+   "Orange and blue",
+   "Maroon and gold",
+   "Burnt orange and white"
+  ],
+  "answer": 3,
+  "d": 1,
+  "fact": "The Tower glows burnt orange after major Longhorn victories."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "Roughly how tall is the iconic UT Austin Tower?",
+  "options": [
+   "357 feet",
+   "307 feet",
+   "257 feet",
+   "207 feet"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "UT's own 'Tower by the Numbers' lists 307 feet and 27 floors."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Traditions",
+  "q": "In what year was the 'Hook 'em Horns' hand sign introduced at UT Austin?",
+  "options": [
+   "1995",
+   "1975",
+   "1955",
+   "1925"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "Head cheerleader Harley Clark introduced the sign in 1955."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Traditions",
+  "q": "'The Eyes of Texas' is sung to the tune of which song?",
+  "options": [
+   "I've Been Working on the Railroad",
+   "Oh My Darling, Clementine",
+   "Yankee Doodle",
+   "Camptown Races"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "The Eyes of Texas lyrics date to around 1903."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Traditions",
+  "q": "What is the nickname of the UT Austin Longhorn Band?",
+  "options": [
+   "The Lone Star Legion",
+   "The Tower Tooters",
+   "The Burnt Orange Brigade",
+   "The Showband of the Southwest"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Big Bertha, the band's giant bass drum, is part of the Showband."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Traditions",
+  "q": "About how wide (in diameter) is Big Bertha, the UT Longhorn Band's giant bass drum?",
+  "options": [
+   "4 feet",
+   "8 feet",
+   "12 feet",
+   "6 feet"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "Big Bertha is billed as the world's largest bass drum."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "Which UT Austin research library houses a Gutenberg Bible?",
+  "options": [
+   "Perry-Castaneda Library",
+   "Briscoe Center",
+   "Harry Ransom Center",
+   "Benson Latin American Collection"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "The Ransom Center's copy is a complete Gutenberg Bible printed in the 1450s."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "The world's oldest surviving photograph is kept at which UT Austin institution?",
+  "options": [
+   "Harry Ransom Center",
+   "Blanton Museum of Art",
+   "Texas Union",
+   "LBJ Library"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "The photo is Nicephore Niepce's 'View from the Window at Le Gras' from about 1826."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "The replica Oval Office at the LBJ Presidential Library on the UT Austin campus is built to what scale?",
+  "options": [
+   "Full scale",
+   "1/2 scale",
+   "3/4 scale",
+   "7/8 scale"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "The replica Oval Office is built at 7/8 scale."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "Which artist designed the chapel-like building 'Austin' at UT Austin's Blanton Museum of Art?",
+  "options": [
+   "Andy Warhol",
+   "Ellsworth Kelly",
+   "Georgia O'Keeffe",
+   "Mark Rothko"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "'Austin' (2018) is the only building Ellsworth Kelly designed."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Mascot",
+  "q": "Which group branded '13-0' onto Bevo I in a famous 1917 rivalry prank?",
+  "options": [
+   "Baylor students",
+   "Rice students",
+   "Texas A&M students",
+   "Oklahoma fans"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "A&M students branded Bevo in 1917; Texas students then altered the brand to read BEVO."
+ },
+ {
+  "show": "UT Austin",
+  "section": "People",
+  "q": "Which Oscar-winning actor and UT alumnus is a professor of practice at UT Austin?",
+  "options": [
+   "Matthew McConaughey",
+   "Dennis Quaid",
+   "Tommy Lee Jones",
+   "Ethan Hawke"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "McConaughey, a UT alumnus, won Best Actor for Dallas Buyers Club."
+ },
+ {
+  "show": "UT Austin",
+  "section": "People",
+  "q": "Which First Lady earned a journalism degree from UT Austin in 1934?",
+  "options": [
+   "Rosalynn Carter",
+   "Barbara Bush",
+   "Laura Bush",
+   "Lady Bird Johnson"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Lady Bird Johnson earned a journalism degree in 1934, after a history degree in 1933."
+ },
+ {
+  "show": "UT Austin",
+  "section": "People",
+  "q": "Which tech founder started his computer company from a UT Austin dorm room?",
+  "options": [
+   "Jeff Bezos",
+   "Michael Dell",
+   "Larry Ellison",
+   "Bill Gates"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "Michael Dell started his company in his UT dorm room in 1984."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Football",
+  "q": "Which Longhorn running back won the Heisman Trophy in 1977?",
+  "options": [
+   "Vince Young",
+   "Roosevelt Leaks",
+   "Earl Campbell",
+   "Colt McCoy"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "Earl Campbell was Texas's first Heisman Trophy winner."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Football",
+  "q": "In the January 2006 Rose Bowl, which team did Texas beat to win the 2005 national title?",
+  "options": [
+   "USC",
+   "Michigan",
+   "Alabama",
+   "Ohio State"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "Vince Young led Texas to a 41-38 win over USC."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Football",
+  "q": "How many consensus football national championships does Texas officially claim?",
+  "options": [
+   "2",
+   "6",
+   "9",
+   "4"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "Texas's consensus titles came in 1963, 1969, 1970 and 2005."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Football",
+  "q": "In what year did Texas officially join the SEC?",
+  "options": [
+   "2022",
+   "2024",
+   "2016",
+   "2011"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "Texas and Oklahoma joined the SEC together on July 1, 2024."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Football",
+  "q": "In what year did ESPN launch the Longhorn Network for Texas?",
+  "options": [
+   "2005",
+   "2014",
+   "2011",
+   "2008"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "The Longhorn Network launched in September 2011 under a 20-year ESPN deal."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Baseball",
+  "q": "How many NCAA baseball national championships has Texas won (through 2026)?",
+  "options": [
+   "6",
+   "2",
+   "4",
+   "8"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "Texas won its titles in 1949, 1950, 1975, 1983, 2002 and 2005."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Football",
+  "q": "Darrell K Royal-Texas Memorial Stadium is named in part for which legendary Texas football coach?",
+  "options": [
+   "Mack Brown",
+   "Bear Bryant",
+   "Tom Landry",
+   "Darrell K Royal"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Royal won three national titles at Texas: 1963, 1969 and 1970."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "What was the nickname of UT's old Frank Erwin Center arena?",
+  "options": [
+   "The Bevo Bowl",
+   "The Drum",
+   "The Horn",
+   "The Burnt Barn"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "The Moody Center replaced the Erwin Center in 2022."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "What is the nickname for UT's original campus site?",
+  "options": [
+   "The Longhorn Lot",
+   "The Orange Square",
+   "The Forty Acres",
+   "The Tower Tract"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "The name comes from the roughly 40-acre plot of the original campus site."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "Which Austin creek runs along the east side of the UT campus?",
+  "options": [
+   "Waller Creek",
+   "Barton Creek",
+   "Onion Creek",
+   "Shoal Creek"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "Waller Creek is named for Edwin Waller, who laid out the city of Austin."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "Guadalupe Street along the west edge of the UT campus goes by what nickname?",
+  "options": [
+   "The Row",
+   "The Strip",
+   "The Loop",
+   "The Drag"
+  ],
+  "answer": 3,
+  "d": 1,
+  "fact": "The Drag is lined with shops and restaurants right beside campus."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Science",
+  "q": "UT Austin operates which famous observatory in the Davis Mountains of West Texas?",
+  "options": [
+   "Griffith Observatory",
+   "McDonald Observatory",
+   "Lowell Observatory",
+   "Yerkes Observatory"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "McDonald Observatory sits near Fort Davis in West Texas."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Science",
+  "q": "The Texas Advanced Computing Center (TACC) is best known for hosting what?",
+  "options": [
+   "A particle accelerator",
+   "A wind tunnel",
+   "Supercomputers",
+   "A radio telescope"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "TACC has housed supercomputers such as Stampede and Frontera."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "How many bells are in the Kniker Carillon of the UT Austin Tower?",
+  "options": [
+   "56",
+   "72",
+   "24",
+   "36"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "UT says the heaviest bell weighs 7,350 pounds and the lightest 20 pounds."
+ },
+ {
+  "show": "UT Austin",
+  "section": "History",
+  "q": "Which architect designed the UT Tower and much of the campus plan?",
+  "options": [
+   "Frank Lloyd Wright",
+   "Eero Saarinen",
+   "I. M. Pei",
+   "Paul Cret"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "Paul Cret was a French-born architect based in Philadelphia."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Traditions",
+  "q": "When Texas wins a national championship, what does the UT Tower light up with?",
+  "options": [
+   "A giant longhorn",
+   "A big number 1",
+   "Flashing white",
+   "Green lights"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "The Tower shows a lit-up No. 1 after Texas wins a national championship."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Mascot",
+  "q": "Which student service organization takes care of Bevo today?",
+  "options": [
+   "The Longhorn Wranglers",
+   "The Texas Cowboys",
+   "The Silver Spurs",
+   "The Orange Jackets"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "The Silver Spurs were formed in 1937 to care for Bevo."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "What is the name of UT Austin's student newspaper?",
+  "options": [
+   "The Daily Texan",
+   "The Longhorn Times",
+   "The Tower Tribune",
+   "The Austin Orange"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "The Daily Texan is a student-run newspaper."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "What is the name of UT Austin's yearbook?",
+  "options": [
+   "The Longhorn",
+   "The Bluebonnet",
+   "The Tower",
+   "The Cactus"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "The first Cactus yearbook was published in 1894."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "What is UT's alumni association called?",
+  "options": [
+   "Longhorn Legacy",
+   "Texas Exes",
+   "The Burnt Orange Club",
+   "Forty Acres Alumni"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "Texas Exes is the alumni association of UT Austin."
+ },
+ {
+  "show": "UT Austin",
+  "section": "People",
+  "q": "Which legendary CBS news anchor attended UT Austin?",
+  "options": [
+   "Dan Rather",
+   "Tom Brokaw",
+   "Walter Cronkite",
+   "Peter Jennings"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "Cronkite worked at The Daily Texan before leaving UT in 1935 to pursue journalism."
+ },
+ {
+  "show": "UT Austin",
+  "section": "People",
+  "q": "Which 'Charlie's Angels' star attended UT Austin?",
+  "options": [
+   "Farrah Fawcett",
+   "Kate Jackson",
+   "Cheryl Ladd",
+   "Jaclyn Smith"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "Farrah Fawcett attended UT Austin before becoming a star of Charlie's Angels."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "The Texas State Capitol, just south of the UT Austin campus, is how tall compared to the U.S. Capitol?",
+  "options": [
+   "Shorter",
+   "The exact same height",
+   "Half as tall",
+   "Taller"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "The Texas Capitol is about 302.64 feet tall versus about 288 feet for the U.S. Capitol."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "Which of these is UT Austin's well-known slogan?",
+  "options": [
+   "Eyes on the horizon.",
+   "What starts here changes the world.",
+   "Forty acres of greatness.",
+   "Think big, Texas."
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "'What starts here changes the world' is UT Austin's well-known slogan."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "Which giant pterosaur has a replica hanging in UT's Texas Science & Natural History Museum?",
+  "options": [
+   "Rhamphorhynchus",
+   "Pteranodon",
+   "Quetzalcoatlus",
+   "Dimorphodon"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "Quetzalcoatlus fossils were found in Big Bend National Park."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Mascot",
+  "q": "In what year did Bevo I first appear as the UT mascot?",
+  "options": [
+   "1916",
+   "1927",
+   "1893",
+   "1948"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "Bevo I first appeared at the Thanksgiving 1916 game against Texas A&M."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Traditions",
+  "q": "Who was the head cheerleader credited with creating the 'Hook 'em' sign?",
+  "options": [
+   "Darrell Royal",
+   "Hal Sutton",
+   "Frank Erwin",
+   "Harley Clark"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Harley Clark made the sign at a 1955 pep rally."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Football",
+  "q": "In what year did Texas Memorial Stadium first open?",
+  "options": [
+   "1903",
+   "1924",
+   "1950",
+   "1937"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "The stadium was dedicated in 1924 as a memorial to Texans who died in World War I."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "How many floors does the UT Austin Tower have?",
+  "options": [
+   "40",
+   "17",
+   "27",
+   "12"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "UT lists 27 floors in the Tower, plus extra stairs to the clock and bells."
+ },
+ {
+  "show": "UT Austin",
+  "section": "History",
+  "q": "The Littlefield Fountain on the UT campus honors those who served in which conflict?",
+  "options": [
+   "World War I",
+   "World War II",
+   "The Korean War",
+   "The Civil War"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "The fountain, dedicated in 1933, honors those who served in World War I."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "What does 'PCL' stand for at UT Austin?",
+  "options": [
+   "Peterson Collection Library",
+   "Presidential Campus Library",
+   "Public Campus Library",
+   "Perry-Castaneda Library"
+  ],
+  "answer": 3,
+  "d": 1,
+  "fact": "PCL is the library on campus that most students just call 'PCL'."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Football",
+  "q": "The Texas-Oklahoma football rivalry game awards which trophy?",
+  "options": [
+   "The Floyd of Rosedale",
+   "The Golden Hat",
+   "The Iron Skillet",
+   "The Old Oaken Bucket"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "The Golden Hat goes to the winner of the Texas-Oklahoma Red River Rivalry."
+ },
+ {
+  "show": "UT Austin",
+  "section": "Campus",
+  "q": "The UT Tower is part of which campus building?",
+  "options": [
+   "Gregory Gym",
+   "The Texas Union",
+   "The Main Building",
+   "Hogg Auditorium"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "The Tower rises from the Main Building."
+ }
+]

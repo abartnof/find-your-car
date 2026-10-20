@@ -1,4 +1,5 @@
 import { Lot, CHARACTERS, CARS, STEPS, wait } from './scene.js';
+import { initEffects, clearEffects } from './effects.js';
 import ASSETS from '../build/assets.js';
 import QUESTIONS from './questions.json';
 
@@ -142,6 +143,9 @@ function renderMute() {
     ? 'M16.5 12A4.5 4.5 0 0 0 14 8v2.2l2.5 2.5v-.7zM19 12c0 .9-.2 1.8-.5 2.6l1.5 1.5A8.9 8.9 0 0 0 21 12c0-4.3-3-7.9-7-8.8v2.1c2.9.9 5 3.5 5 6.7zM4.3 3 3 4.3 7.7 9H3v6h4l5 5v-6.7l4.3 4.3c-.7.5-1.4.9-2.3 1.2v2.1a9 9 0 0 0 3.6-1.8l2.1 2.1 1.3-1.3L4.3 3zM12 4 9.9 6.1 12 8.2V4z'
     : 'M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1c2.9.9 5 3.5 5 6.7s-2.1 5.8-5 6.7v2.1c4-.9 7-4.5 7-8.8s-3-7.9-7-8.8z');
 }
+function renderMusicBtn() { $('musicBtn').classList.toggle('off', !music.on); }
+$('musicBtn').addEventListener('click', () => { music.set(!music.on); renderMusicBtn(); if ($('sheet').querySelector('#go')) renderMenu(); });
+renderMusicBtn();
 $('muteBtn').addEventListener('click', () => { audio.unlock(); audio.setMuted(!audio.muted); store.set('muted', audio.muted); renderMute(); music.sync(); });
 renderMute();
 
@@ -160,13 +164,14 @@ function snack(msg) { const s = $('snack'); s.textContent = msg; s.classList.add
 
 // ---------- state ----------
 const shows = [...new Set(QUESTIONS.map((q) => q.show))];
-const showGroups = (() => { // chips: the three big shows, movie/TV comedies by decade, and the long tail of 90s sitcoms
-  const main = ['Friends', 'Will & Grace', 'Frasier'];
+const showGroups = (() => { // chips: each big topic on its own, plus the long tail of one-off 90s sitcoms
+  const named = ['Friends', 'Will & Grace', 'Frasier', 'Stand-Up Comedy', 'Dallas', 'UT Austin', 'Fruits & Veggies'];
   const isComedy = (s) => s.startsWith('Comedy');
-  const other = shows.filter((s) => !main.includes(s) && !isComedy(s));
+  const other = shows.filter((s) => !named.includes(s) && !isComedy(s));
   const comedy = shows.filter(isComedy);
-  return [...main.filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
+  return [...['Friends', 'Will & Grace', 'Frasier'].filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
     ...(comedy.length ? [{ label: 'Comedy Classics', shows: comedy }] : []),
+    ...['Stand-Up Comedy', 'Dallas', 'UT Austin', 'Fruits & Veggies'].filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
     ...(other.length ? [{ label: '90s Sitcoms', shows: other }] : [])];
 })();
 const S = {
@@ -199,13 +204,13 @@ function pickQuestions() {
   take.sort((a, b) => a.d - b.d || Math.random() - 0.5);
   return take.slice(0, STEPS).map((q) => {
     const opts = q.options.map((t, i) => ({ t, ok: i === q.answer })); const o = shuf(opts);
-    return { show: q.show, q: q.q, opts: o };
+    return { show: q.show, q: q.q, opts: o, fact: q.fact };
   });
 }
 
 // ---------- screens ----------
 function renderMenu() {
-  lot.reset(); lot.mode = 'menu';
+  clearEffects(); lot.reset(); lot.mode = 'menu';
   $('title').textContent = 'Find Your Car'; $('scoreChip').hidden = true; $('progress').hidden = true;
   const car = CARS[S.car];
   sheet.innerHTML = `
@@ -241,7 +246,7 @@ function loadSwatches() {
 
 sheet.addEventListener('click', (e) => {
   const b = e.target.closest('[data-m],[data-a],[data-g],#go,[data-opt],#next,#again'); if (!b) return;
-  if (b.dataset.m) { if (b.dataset.m === 'toggle') music.set(!music.on); else music.next(); renderMenu(); }
+  if (b.dataset.m) { if (b.dataset.m === 'toggle') { music.set(!music.on); renderMusicBtn(); } else music.next(); renderMenu(); }
   else if (b.dataset.a) {
     const a = b.dataset.a;
     if (a.startsWith('char')) { S.char = (S.char + (a.endsWith('+') ? 1 : -1) + CHARACTERS.length) % CHARACTERS.length; lot.setCharacter(CHARACTERS[S.char].id); }
@@ -260,7 +265,7 @@ sheet.addEventListener('click', (e) => {
 
 function startGame() {
   S.qs = pickQuestions(); S.qs.forEach((q) => S.seen.add(q.q)); S.i = 0; S.score = 0;
-  lot.reset(); lot.mode = 'play';
+  clearEffects(); lot.reset(); lot.mode = 'play';
   $('scoreChip').hidden = false; $('progress').hidden = false; updateHud();
   renderQ();
 }
@@ -292,7 +297,7 @@ function answer(i) {
     lot.stumble(); audio.wrong();
     snack(`Nope — it's "${q.opts.find((o) => o.ok).t}"`);
   }
-  $('fb').innerHTML = `<button class="btn fab-ext" id="next">${last ? (win ? 'Get in the car' : 'See results') : 'Next'}${ICON.next}</button>`;
+  $('fb').innerHTML = `${q.fact ? `<p class="body fact">${ESC(q.fact)}</p>` : ''}<button class="btn fab-ext" id="next">${last ? (win ? 'Get in the car' : 'See results') : 'Next'}${ICON.next}</button>`;
   sheet.scrollTo({ top: sheet.scrollHeight, behavior: 'smooth' });
 }
 function nextQ() {
@@ -300,6 +305,7 @@ function nextQ() {
   if (S.i === STEPS - 1) return finish();
   S.i++; renderQ();
 }
+let fx;
 async function finish() {
   const win = S.score === STEPS;
   $('progress').hidden = true;
@@ -310,7 +316,7 @@ async function finish() {
     sheet.innerHTML = `<div class="result"><p class="overline">10 / 10</p><h1 class="headline">You found your car!</h1><p class="body">Flawless. Keys in hand, engine running, and a very nice ${CARS[S.car].name.toLowerCase()} to take you home.</p><div class="row"><button class="btn btn-filled" id="again">Play again</button></div></div>`;
     audio.win();
   } else {
-    $('title').textContent = 'Not quite…';
+    $('title').textContent = 'Not quite…'; fx.rain.start(audio);
     const left = STEPS - S.score;
     sheet.innerHTML = `<div class="result"><p class="overline">Final score</p><p class="score-big">${S.score} / ${STEPS}</p><h1 class="headline">${S.score >= 7 ? 'So close!' : S.score >= 4 ? 'Still wandering the lot' : 'Where did you even park?'}</h1><p class="body">Your car is ${left} step${left > 1 ? 's' : ''} away. You need a perfect 10 to drive home.</p><div class="row"><button class="btn btn-filled" id="again">Try again</button></div></div>`;
   }
@@ -323,7 +329,8 @@ async function finish() {
   lot.setCar(S.car, S.tex);
   lot.start();
   window.__lot = lot;
-  lot.onBurst = () => audio.boom();
+  fx = initEffects();
+  lot.onArrive = () => fx.fireworks.start(() => audio.boom());
   let alt = 0; lot.onStep = () => { if (lot.mode !== 'menu') audio.step(alt ^= 1); };
   loadSwatches();
   if (/probe/.test(location.hash)) {   // dev: report foot/hand z at the phase where sin = 1
@@ -334,7 +341,7 @@ async function finish() {
   }
   renderMenu();
   const demo = /demo=(\d+)/.exec(location.hash);
-  if (demo) { lot.snap = true; startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } }
+  if (demo) { lot.snap = true; startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } else if (/fail/.test(location.hash)) finish(); }
   if (/ans/.test(location.hash)) answer(0);
   await wait(300);
   $('loading').classList.add('done');

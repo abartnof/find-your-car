@@ -4018,5 +4018,8724 @@
 ],
 "answer": 3,
 "d": 2
+},
+{
+"show": "Dallas",
+"q": "Who founded Dallas in 1841 at a crossing of the Trinity River?",
+"options": [
+"John Neely Bryan",
+"Mirabeau B. Lamar",
+"Sam Houston",
+"Stephen F. Austin"
+],
+"answer": 0,
+"d": 1,
+"fact": "John Neely Bryan built a cabin on the Trinity River's east bank and is credited as the city's founder.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "In 1855, European settlers founded La Réunion near Dallas. What was it?",
+"options": [
+"A cattle-drive depot",
+"A utopian socialist colony",
+"A frontier army fort",
+"A Spanish mission"
+],
+"answer": 1,
+"d": 2,
+"fact": "The mostly French, Belgian and Swiss colonists followed Charles Fourier's ideas, and the colony folded within a few years.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "In what year did a great fire destroy much of Dallas's downtown square?",
+"options": [
+"1893",
+"1871",
+"1860",
+"1849"
+],
+"answer": 2,
+"d": 3,
+"fact": "The July 1860 fire was blamed on prairie-fire panic and rumored abolitionist arson, leading to harsh reprisals.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Which railroad reached Dallas in 1872, followed a year later by the Texas and Pacific, making the city a rail crossroads?",
+"options": [
+"Santa Fe",
+"Union Pacific",
+"Katy Railroad",
+"Houston and Texas Central"
+],
+"answer": 3,
+"d": 3,
+"fact": "The crossing of two rail lines turned Dallas from a small town into a commercial hub.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Dallas grew rich in the late 1800s as a major inland market for which crop?",
+"options": [
+"Cotton",
+"Tobacco",
+"Rice",
+"Sugar cane"
+],
+"answer": 0,
+"d": 1,
+"fact": "Dallas became one of the largest inland cotton markets in the world, and its banks and insurance firms grew alongside it.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "The State Fair of Texas, held at Fair Park, first opened in which year?",
+"options": [
+"1936",
+"1886",
+"1912",
+"1856"
+],
+"answer": 1,
+"d": 2,
+"fact": "It is among the largest annual state fairs in the United States.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Which newspaper, founded in 1885, is Dallas's major daily?",
+"options": [
+"The Dallas Times Herald",
+"The Texas Tribune",
+"The Dallas Morning News",
+"The Dallas Gazette"
+],
+"answer": 2,
+"d": 2,
+"fact": "It was launched by A.H. Belo and Company, and its later publisher George Dealey became a major civic booster.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "In what year was the department store Neiman Marcus founded in Dallas?",
+"options": [
+"1925",
+"1887",
+"1946",
+"1907"
+],
+"answer": 3,
+"d": 2,
+"fact": "It was founded by Herbert Marcus, his sister Carrie Marcus Neiman and her husband Al Neiman.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "The Adolphus Hotel, opened in 1912, was built by a man famous for what product?",
+"options": [
+"Budweiser beer",
+"Dr Pepper",
+"Colt revolvers",
+"Stetson hats"
+],
+"answer": 0,
+"d": 2,
+"fact": "Adolphus Busch, the St. Louis brewer, built it, and it is still a downtown landmark.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "The Dallas neighborhood of Oak Cliff was annexed by Dallas in which year?",
+"options": [
+"1948",
+"1903",
+"1925",
+"1873"
+],
+"answer": 1,
+"d": 3,
+"fact": "Oak Cliff was once its own city, and today it is home to the Bishop Arts District.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Highland Park Village, opened in 1931, is notable as one of the first of what in the United States?",
+"options": [
+"Drive-in theaters",
+"Skyscrapers",
+"Planned shopping centers",
+"Public libraries"
+],
+"answer": 2,
+"d": 3,
+"fact": "Its Spanish Revival design made it a model for the modern shopping center.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "The Federal Reserve Bank of Dallas serves which numbered Federal Reserve District?",
+"options": [
+"Twelfth",
+"Fourth",
+"Seventh",
+"Eleventh"
+],
+"answer": 3,
+"d": 2,
+"fact": "Dallas was chosen as one of 12 cities for a Reserve Bank in 1914.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Dallas Love Field is named for Moss L. Love, who was what?",
+"options": [
+"An Army aviator killed in a 1913 crash",
+"A Texas Ranger",
+"A Dallas mayor",
+"A cotton broker"
+],
+"answer": 0,
+"d": 3,
+"fact": "Love Field opened as an Army training airfield in 1917.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Which wildcatter's 1930 East Texas oil strike, whose leases H.L. Hunt then bought, helped make Dallas an oil-finance center?",
+"options": [
+"Howard Hughes",
+"Dad Joiner",
+"Sid Richardson",
+"J. Paul Getty"
+],
+"answer": 1,
+"d": 3,
+"fact": "Hunt made a fortune from the field and based his empire in Dallas.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Fair Park hosted what major event in 1936?",
+"options": [
+"The Olympic Trials",
+"The Pan-American Exposition",
+"The Texas Centennial Exposition",
+"The Democratic National Convention"
+],
+"answer": 2,
+"d": 2,
+"fact": "Its Art Deco buildings from that event are the largest collection of 1930s exposition architecture in the U.S.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Southern Methodist University opened in which year?",
+"options": [
+"1885",
+"1932",
+"1948",
+"1915"
+],
+"answer": 3,
+"d": 2,
+"fact": "SMU's Dallas Hall was modeled on Thomas Jefferson's Rotunda at the University of Virginia.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Dallas Union Station, next to Reunion Tower, opened in which year?",
+"options": [
+"1916",
+"1889",
+"1952",
+"1934"
+],
+"answer": 0,
+"d": 3,
+"fact": "It was built to consolidate the city's several rail lines into one depot.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Which area code was assigned to Dallas when area codes began in 1947?",
+"options": [
+"512",
+"214",
+"972",
+"713"
+],
+"answer": 1,
+"d": 1,
+"fact": "214 was one of the original area codes, and 972 and 469 were later added as overlays.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "The 1892 Dallas County Courthouse, built of red sandstone, is known by what nickname?",
+"options": [
+"The Red Barn",
+"Big Red",
+"Old Red",
+"The Pink Palace"
+],
+"answer": 2,
+"d": 2,
+"fact": "It now houses the Old Red Museum of Dallas County History and Culture.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "The Dallas Zoo, opened in 1888, is the oldest zoo in which state?",
+"options": [
+"Oklahoma",
+"Louisiana",
+"Arkansas",
+"Texas"
+],
+"answer": 3,
+"d": 2,
+"fact": "The Dallas Zoo is billed as the oldest and largest zoo in Texas.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "White Rock Lake was created as a reservoir in what year?",
+"options": [
+"1911",
+"1861",
+"1958",
+"1936"
+],
+"answer": 0,
+"d": 3,
+"fact": "It is now a popular recreation spot, and local lore holds that a ghostly Lady of the Lake haunts its shores.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "The song \"Big D\" popularized Dallas's nickname. In which musical was it introduced?",
+"options": [
+"West Side Story",
+"The Most Happy Fella",
+"Oklahoma!",
+"Annie Get Your Gun"
+],
+"answer": 1,
+"d": 2,
+"fact": "Frank Loesser's 1956 musical helped popularize the city's 'Big D' nickname.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "El Fenix, founded in Dallas in 1918, claims to be the oldest chain of what kind of restaurant in the U.S.?",
+"options": [
+"Steakhouse",
+"Barbecue",
+"Mexican",
+"Diner"
+],
+"answer": 2,
+"d": 2,
+"fact": "Founded by Miguel Martinez, El Fenix helped popularize Tex-Mex cooking nationwide.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "7-Eleven grew out of the Southland Ice Company, which started in what Dallas neighborhood in 1927?",
+"options": [
+"Lakewood",
+"Deep Ellum",
+"Preston Hollow",
+"Oak Cliff"
+],
+"answer": 3,
+"d": 3,
+"fact": "The ice dock began selling milk, bread and eggs, and was renamed 7-Eleven in 1946 for its 7 a.m. to 11 p.m. hours.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Braniff International Airways, based at Love Field, shocked the airline world in 1965 by doing what?",
+"options": [
+"Painting its planes bright colors",
+"Serving full meals for free",
+"Flying only at night",
+"Banning checked luggage"
+],
+"answer": 0,
+"d": 2,
+"fact": "The \"End of the Plain Plane\" campaign used designer Alexander Girard and colorful aircraft.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Dallas/Fort Worth International Airport began operations in which year?",
+"options": [
+"1954",
+"1974",
+"1996",
+"1984"
+],
+"answer": 1,
+"d": 2,
+"fact": "Dallas and Fort Worth jointly built DFW after decades of rivalry.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Who was Dallas's first elected woman mayor, serving from 1987?",
+"options": [
+"Kay Bailey Hutchison",
+"Sarah T. Hughes",
+"Annette Strauss",
+"Laura Miller"
+],
+"answer": 2,
+"d": 3,
+"fact": "Strauss was a popular civic booster whose name is now on a downtown arts square.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "Who became Dallas's first African American mayor in 1995?",
+"options": [
+"Tom Leppert",
+"Starke Taylor",
+"Eddie Bernice Johnson",
+"Ron Kirk"
+],
+"answer": 3,
+"d": 2,
+"fact": "Kirk later served as U.S. Trade Representative under President Obama.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "When Dallas was founded in 1841, Texas was what?",
+"options": [
+"An independent republic",
+"A Spanish colony",
+"A Mexican state",
+"A U.S. territory"
+],
+"answer": 0,
+"d": 1,
+"fact": "Texas joined the United States in 1845.",
+"section": "History"
+},
+{
+"show": "Dallas",
+"q": "On what date was President John F. Kennedy assassinated in Dallas?",
+"options": [
+"December 7, 1963",
+"November 22, 1963",
+"October 24, 1963",
+"November 25, 1963"
+],
+"answer": 1,
+"d": 1,
+"fact": "He was shot while riding in a motorcade through Dealey Plaza.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "Dealey Plaza is named after the publisher of which newspaper?",
+"options": [
+"The Houston Chronicle",
+"The Dallas Times Herald",
+"The Dallas Morning News",
+"The Fort Worth Star-Telegram"
+],
+"answer": 2,
+"d": 2,
+"fact": "George Bannerman Dealey was a longtime civic leader, and the plaza was dedicated in 1940.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "Which Dallas museum, opened in 1989, occupies the building's sixth floor where the shots were fired from?",
+"options": [
+"The Perot Museum",
+"The Old Red Museum",
+"The Dallas Heritage Museum",
+"The Sixth Floor Museum"
+],
+"answer": 3,
+"d": 1,
+"fact": "It occupies the former Texas School Book Depository.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "Who filmed the assassination in the famous 26-second home movie?",
+"options": [
+"Abraham Zapruder",
+"Clint Hill",
+"Jack Ruby",
+"Lee Harvey Oswald"
+],
+"answer": 0,
+"d": 1,
+"fact": "Zapruder was a Dallas clothing manufacturer, and his film is among the most studied in history.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "Where were President Kennedy and later Lee Harvey Oswald both pronounced dead?",
+"options": [
+"Methodist Hospital",
+"Parkland Hospital",
+"Presbyterian Hospital",
+"Baylor Hospital"
+],
+"answer": 1,
+"d": 1,
+"fact": "Parkland is a major Dallas public hospital.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "Who swore in Lyndon B. Johnson aboard Air Force One at Love Field, becoming the first woman to swear in a president?",
+"options": [
+"Lady Bird Johnson",
+"Ruth Bader Ginsburg",
+"Judge Sarah T. Hughes",
+"Barbara Jordan"
+],
+"answer": 2,
+"d": 2,
+"fact": "The ceremony was held in the stifling heat of the grounded plane.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "Oswald was arrested in which Oak Cliff movie theater?",
+"options": [
+"The Palace",
+"The Majestic",
+"The Lakewood",
+"The Texas Theatre"
+],
+"answer": 3,
+"d": 2,
+"fact": "The theater still stands and now hosts films and events.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "Where was Oswald shot by Jack Ruby on November 24, 1963?",
+"options": [
+"In the basement of Dallas police headquarters",
+"At the Dallas County jail",
+"Outside Parkland Hospital",
+"At Love Field"
+],
+"answer": 0,
+"d": 1,
+"fact": "The shooting was carried live on television.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "What nightclub did Jack Ruby own?",
+"options": [
+"The Longhorn Room",
+"The Carousel Club",
+"The Cattleman's Club",
+"The Silver Spur"
+],
+"answer": 1,
+"d": 2,
+"fact": "Ruby ran it on Commerce Street.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "President Kennedy was on his way to a luncheon at which Dallas venue when he was shot?",
+"options": [
+"The Adolphus Hotel",
+"Fair Park Music Hall",
+"The Dallas Trade Mart",
+"Dallas City Hall"
+],
+"answer": 2,
+"d": 2,
+"fact": "The Trade Mart was a wholesale showroom center, and the motorcade was headed there when it passed through Dealey Plaza.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "The John F. Kennedy Memorial near Dealey Plaza, a cenotaph, was designed by which architect?",
+"options": [
+"Renzo Piano",
+"Frank Lloyd Wright",
+"I. M. Pei",
+"Philip Johnson"
+],
+"answer": 3,
+"d": 3,
+"fact": "Johnson's open-roofed concrete memorial was dedicated in 1970.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "What marks the spots on Elm Street where President Kennedy was struck?",
+"options": [
+"Two white X's",
+"Small flags",
+"Bronze plaques",
+"Red paint stripes"
+],
+"answer": 0,
+"d": 2,
+"fact": "Tourists often dart into traffic to photograph the marks, which is dangerous.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "A month before JFK's visit, which U.S. ambassador to the UN was struck by a protester's sign in Dallas?",
+"options": [
+"Dean Rusk",
+"Adlai Stevenson",
+"Henry Cabot Lodge",
+"Arthur Goldberg"
+],
+"answer": 1,
+"d": 3,
+"fact": "The October 1963 incident was a sign of the tense political climate in the city.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "Dealey Plaza was designated what in 1993?",
+"options": [
+"A UNESCO site",
+"A state park",
+"A National Historic Landmark District",
+"A federal courthouse"
+],
+"answer": 2,
+"d": 3,
+"fact": "The plaza and surrounding buildings are protected for their role in the assassination.",
+"section": "JFK Assassination"
+},
+{
+"show": "Dallas",
+"q": "How tall is Reunion Tower, whose geodesic ball opened in 1978?",
+"options": [
+"921 feet",
+"740 feet",
+"301 feet",
+"561 feet"
+],
+"answer": 3,
+"d": 2,
+"fact": "Its geodesic ball holds an observation deck and has been a skyline icon since 1978.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "Bank of America Plaza, long the tallest building in Dallas, stands how many feet tall?",
+"options": [
+"921",
+"1,050",
+"780",
+"561"
+],
+"answer": 0,
+"d": 2,
+"fact": "The skyscraper is outlined in green lights at night.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "Fountain Place, a glass prism skyscraper downtown, was designed by the firm of which architect?",
+"options": [
+"Frank Gehry",
+"I. M. Pei",
+"Philip Johnson",
+"Mies van der Rohe"
+],
+"answer": 1,
+"d": 3,
+"fact": "Pei also designed Dallas City Hall and the Meyerson Symphony Center.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The red neon Pegasus sign atop the Magnolia Hotel was the logo of which oil company?",
+"options": [
+"Shell",
+"Gulf",
+"Mobil",
+"Texaco"
+],
+"answer": 2,
+"d": 2,
+"fact": "Magnolia Petroleum later became Mobil, and the flying horse has been a Dallas icon ever since.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "Dallas City Hall, opened in 1978, features a dramatic what?",
+"options": [
+"Clock tower",
+"Glass pyramid",
+"Domed roof",
+"Inverted triangular facade"
+],
+"answer": 3,
+"d": 2,
+"fact": "I. M. Pei designed the building, whose facade leans outward like a tilted wall.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Meyerson Symphony Center, opened in 1989, is home to which orchestra?",
+"options": [
+"Dallas Symphony Orchestra",
+"Dallas Opera Orchestra",
+"Texas Philharmonic",
+"Southwest Chamber Orchestra"
+],
+"answer": 0,
+"d": 2,
+"fact": "It was designed by I. M. Pei and is known for its acoustics.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Dallas Arts District is billed as the largest contiguous what in the United States?",
+"options": [
+"Public garden",
+"Urban arts district",
+"Shopping complex",
+"University campus"
+],
+"answer": 1,
+"d": 2,
+"fact": "It hosts the Dallas Museum of Art, the Nasher, the Winspear Opera House and more.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Nasher Sculpture Center, opened in 2003, was designed by which architect?",
+"options": [
+"Frank Gehry",
+"Zaha Hadid",
+"Renzo Piano",
+"Santiago Calatrava"
+],
+"answer": 2,
+"d": 2,
+"fact": "Piano also designed the Kimbell Art Museum's addition across the Metroplex in Fort Worth.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Perot Museum of Nature and Science, opened in 2012, was designed by which architect?",
+"options": [
+"Daniel Libeskind",
+"Norman Foster",
+"Frank Gehry",
+"Thom Mayne"
+],
+"answer": 3,
+"d": 3,
+"fact": "Its cube shape appears to float above the ground.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "Which Spanish architect designed the Margaret Hunt Hill Bridge over the Trinity River?",
+"options": [
+"Santiago Calatrava",
+"Antoni Gaudí",
+"Rafael Moneo",
+"Ricardo Bofill"
+],
+"answer": 0,
+"d": 2,
+"fact": "The bridge's giant white arch is a signature of the Dallas skyline.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "Klyde Warren Park, opened in 2012, was built over what?",
+"options": [
+"A parking garage",
+"A freeway",
+"A railroad yard",
+"A river"
+],
+"answer": 1,
+"d": 2,
+"fact": "It is a deck park over Woodall Rodgers Freeway connecting downtown and Uptown.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "Thanks-Giving Square's chapel, designed by Philip Johnson, has a spiral stained-glass window called what?",
+"options": [
+"Rose Window",
+"Stars of Texas",
+"Glory Window",
+"Lone Star Window"
+],
+"answer": 2,
+"d": 3,
+"fact": "The window by French artist Gabriel Loire spirals upward toward the sun.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "Pioneer Plaza in downtown Dallas features how many bronze longhorn steers?",
+"options": [
+"12",
+"75",
+"100",
+"49"
+],
+"answer": 3,
+"d": 3,
+"fact": "The steers and three trail hands recall the cattle drives that passed through Texas in the 1800s.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "In 2013 the Dallas Museum of Art dropped its general admission fee, making entry what?",
+"options": [
+"Free",
+"Seasonal",
+"Five dollars",
+"Members-only"
+],
+"answer": 0,
+"d": 1,
+"fact": "The museum also launched a free membership program called DMA Friends.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Kalita Humphreys Theater in Dallas is the only freestanding theater designed by which architect?",
+"options": [
+"Eero Saarinen",
+"Frank Lloyd Wright",
+"Louis Sullivan",
+"Le Corbusier"
+],
+"answer": 1,
+"d": 3,
+"fact": "Wright designed it for the Dallas Theater Center, and it sits beside Turtle Creek.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "How tall is the current Big Tex, the State Fair of Texas's cowboy mascot?",
+"options": [
+"100 feet",
+"35 feet",
+"55 feet",
+"75 feet"
+],
+"answer": 2,
+"d": 3,
+"fact": "The original Big Tex was a Santa Claus built in Kerens, Texas, and the State Fair of Texas bought him around 1951.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "In what year did Big Tex burn in an electrical fire at the State Fair?",
+"options": [
+"2018",
+"2005",
+"1999",
+"2012"
+],
+"answer": 3,
+"d": 2,
+"fact": "A new Big Tex was unveiled in 2013.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "What fried treat was introduced at the State Fair of Texas in 1942?",
+"options": [
+"The corny dog",
+"Fried butter",
+"The turkey leg",
+"The funnel cake"
+],
+"answer": 0,
+"d": 2,
+"fact": "Fletcher's Corny Dogs are still sold at the fair.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Texas Star at Fair Park is a famed what?",
+"options": [
+"Observation tower",
+"Giant Ferris wheel",
+"Roller coaster",
+"Hot-air balloon"
+],
+"answer": 1,
+"d": 1,
+"fact": "The Texas Star stands 212 feet tall at the State Fair of Texas.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Dallas Arboretum is on the shore of which lake?",
+"options": [
+"Lake Lewisville",
+"Lake Ray Hubbard",
+"White Rock Lake",
+"Joe Pool Lake"
+],
+"answer": 2,
+"d": 2,
+"fact": "The garden covers about 66 acres.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "Deep Ellum gets its name from a pronunciation of which street?",
+"options": [
+"Main Street",
+"Ervay Street",
+"Commerce Street",
+"Elm Street"
+],
+"answer": 3,
+"d": 2,
+"fact": "Locals shortened \"Deep Elm\" to \"Deep Ellum\".",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Bishop Arts District, known for shops and restaurants, is in what Dallas area?",
+"options": [
+"Oak Cliff",
+"Uptown",
+"Lake Highlands",
+"Preston Hollow"
+],
+"answer": 0,
+"d": 2,
+"fact": "The district is named for Bishop Avenue, and its restored storefronts are now a hub for local shops and restaurants.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Wyly Theatre in the Dallas Arts District is known for being what kind of theater?",
+"options": [
+"A floating theater",
+"A vertical, flexible theater",
+"A rotating theater",
+"An outdoor amphitheater"
+],
+"answer": 1,
+"d": 3,
+"fact": "Designed by REX/OMA, its stage tower can be rearranged into many configurations.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "Dallas's \"Mixmaster\" refers to what?",
+"options": [
+"A music festival",
+"A cement factory",
+"A freeway interchange downtown",
+"A pie-making contest"
+],
+"answer": 2,
+"d": 3,
+"fact": "It sits where several highways come together near downtown.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The SMU Meadows Museum is known for having one of the largest collections of what outside Spain?",
+"options": [
+"Asian ceramics",
+"Impressionist paintings",
+"Western art",
+"Spanish art"
+],
+"answer": 3,
+"d": 3,
+"fact": "It was founded by oilman Algur H. Meadows.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "In what year was the red neon Pegasus first installed atop the Magnolia Building?",
+"options": [
+"1934",
+"1974",
+"1914",
+"1954"
+],
+"answer": 0,
+"d": 3,
+"fact": "The flying horse was Magnolia Petroleum's trademark, later adopted by Mobil.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Majestic Theatre, opened in 1921 in downtown Dallas, originally hosted what kind of shows?",
+"options": [
+"Opera",
+"Vaudeville",
+"Circus",
+"Rodeo"
+],
+"answer": 1,
+"d": 3,
+"fact": "It was part of the Interstate Amusement circuit.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Hall of State at Fair Park, built for the 1936 Centennial, celebrates what?",
+"options": [
+"World religions",
+"American presidents",
+"Texas history",
+"Dallas sports"
+],
+"answer": 2,
+"d": 1,
+"fact": "Its murals and statues honor figures from the state's past.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Cotton Bowl stadium at Fair Park was built in which year?",
+"options": [
+"1970",
+"1950",
+"1900",
+"1930"
+],
+"answer": 3,
+"d": 3,
+"fact": "It was originally called Fair Park Stadium.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "Which sculptor's \"Dallas Piece\" stands outside Dallas City Hall?",
+"options": [
+"Henry Moore",
+"Auguste Rodin",
+"Isamu Noguchi",
+"Alexander Calder"
+],
+"answer": 0,
+"d": 3,
+"fact": "The abstract bronze was installed in 1978.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "The Winspear Opera House was designed by the firm of which British architect?",
+"options": [
+"Zaha Hadid",
+"Norman Foster",
+"Richard Rogers",
+"Renzo Piano"
+],
+"answer": 1,
+"d": 3,
+"fact": "It is home to the Dallas Opera and the Texas Ballet Theater.",
+"section": "Landmarks & Culture"
+},
+{
+"show": "Dallas",
+"q": "Who was the first head coach of the Dallas Cowboys?",
+"options": [
+"Don Shula",
+"Bud Grant",
+"Tom Landry",
+"Vince Lombardi"
+],
+"answer": 2,
+"d": 1,
+"fact": "Landry coached the team for 29 seasons, from 1960 through 1988.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "What was the Cowboys' record in their first season in 1960?",
+"options": [
+"8-4-0",
+"5-7-0",
+"1-13-0",
+"0-11-1"
+],
+"answer": 3,
+"d": 3,
+"fact": "They became a perennial contender within a few years.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Cowboys got the nickname \"America's Team\" in which year?",
+"options": [
+"1978",
+"1995",
+"1966",
+"1960"
+],
+"answer": 0,
+"d": 3,
+"fact": "It came from an NFL Films highlight reel that year.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The term \"Hail Mary\" for a desperate pass was popularized by Roger Staubach's 1975 playoff throw to whom?",
+"options": [
+"Michael Irvin",
+"Drew Pearson",
+"Tony Dorsett",
+"Bob Hayes"
+],
+"answer": 1,
+"d": 2,
+"fact": "Staubach said he closed his eyes and said a Hail Mary.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Which Cowboy holds the NFL career rushing record with 18,355 yards?",
+"options": [
+"Tony Dorsett",
+"Walter Payton",
+"Emmitt Smith",
+"Eric Dickerson"
+],
+"answer": 2,
+"d": 1,
+"fact": "Smith broke the record in 2002.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "How many Super Bowls have the Cowboys won?",
+"options": [
+"7",
+"3",
+"2",
+"5"
+],
+"answer": 3,
+"d": 1,
+"fact": "They won Super Bowls VI, XII, XXVII, XXVIII and XXX.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Cowboys' 1990s dynasty was powered by \"The Triplets,\" Troy Aikman, Emmitt Smith and which receiver?",
+"options": [
+"Michael Irvin",
+"Dez Bryant",
+"Terrell Owens",
+"Drew Pearson"
+],
+"answer": 0,
+"d": 2,
+"fact": "The trio led Dallas to three titles in four years.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Jerry Jones bought the Cowboys in 1989 for about how much?",
+"options": [
+"$20 million",
+"$140 million",
+"$500 million",
+"$1 billion"
+],
+"answer": 1,
+"d": 3,
+"fact": "He then replaced Landry with Jimmy Johnson.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Texas Stadium, the Cowboys' old home, was famous for having what in its roof?",
+"options": [
+"A skylight dome",
+"A giant star",
+"A hole",
+"A retractable panel"
+],
+"answer": 2,
+"d": 1,
+"fact": "Texas Stadium opened in 1971 in Irving.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "AT&T Stadium, which opened in 2009, is in which city?",
+"options": [
+"Dallas",
+"Plano",
+"Irving",
+"Arlington"
+],
+"answer": 3,
+"d": 1,
+"fact": "It is often nicknamed \"Jerry World\".",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Cowboys' practice facility and headquarters, The Star, is in which city?",
+"options": [
+"Frisco",
+"Plano",
+"Fort Worth",
+"Garland"
+],
+"answer": 0,
+"d": 2,
+"fact": "It opened in 2016 and includes a hotel and an indoor stadium.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The original Dallas Texans of the AFL, owned by Lamar Hunt, later became which team?",
+"options": [
+"Houston Oilers",
+"Kansas City Chiefs",
+"San Diego Chargers",
+"Oakland Raiders"
+],
+"answer": 1,
+"d": 2,
+"fact": "They moved to Missouri in 1963.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Lamar Hunt coined the name \"Super Bowl\" after seeing his kids play with what toy?",
+"options": [
+"A pinball machine",
+"A football helmet",
+"A Super Ball",
+"A Frisbee"
+],
+"answer": 2,
+"d": 2,
+"fact": "He suggested it jokingly, and it stuck.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Dallas Tornado won which championship in 1971?",
+"options": [
+"MLS Cup",
+"NCAA title",
+"U.S. Open Cup",
+"North American Soccer League"
+],
+"answer": 3,
+"d": 3,
+"fact": "They were one of the league's early powerhouses.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Dallas Mavericks entered the NBA in which year?",
+"options": [
+"1980",
+"1995",
+"1988",
+"1970"
+],
+"answer": 0,
+"d": 2,
+"fact": "Their name came from the TV western Maverick.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Mark Cuban bought the Mavericks in 2000 for about how much?",
+"options": [
+"$800 million",
+"$285 million",
+"$50 million",
+"$1 billion"
+],
+"answer": 1,
+"d": 3,
+"fact": "He became one of the NBA's most visible owners.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "In 2011 the Mavericks won the NBA championship over which team?",
+"options": [
+"Boston Celtics",
+"Chicago Bulls",
+"Miami Heat",
+"Los Angeles Lakers"
+],
+"answer": 2,
+"d": 1,
+"fact": "Dirk Nowitzki was the Finals MVP.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Dirk Nowitzki was born in which country?",
+"options": [
+"Sweden",
+"Croatia",
+"Poland",
+"Germany"
+],
+"answer": 3,
+"d": 1,
+"fact": "He spent his entire 21-year career with Dallas.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The American Airlines Center, home of the Mavericks and Stars, opened in which year?",
+"options": [
+"2001",
+"2009",
+"1995",
+"1980"
+],
+"answer": 0,
+"d": 2,
+"fact": "It is located in Victory Park.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Dallas Stars moved to Dallas in 1993 from which state or province?",
+"options": [
+"Quebec",
+"Minnesota",
+"Hartford",
+"Winnipeg"
+],
+"answer": 1,
+"d": 2,
+"fact": "They had been the Minnesota North Stars.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "In 1999 the Stars won the Stanley Cup over which team?",
+"options": [
+"Detroit Red Wings",
+"Philadelphia Flyers",
+"Buffalo Sabres",
+"Colorado Avalanche"
+],
+"answer": 2,
+"d": 2,
+"fact": "The series ended in controversy over Brett Hull's skate in the crease.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Which Stars legend, whose statue stands outside American Airlines Center, retired as the NHL's all-time leading U.S.-born goal scorer?",
+"options": [
+"Joe Nieuwendyk",
+"Sergei Zubov",
+"Brett Hull",
+"Mike Modano"
+],
+"answer": 3,
+"d": 2,
+"fact": "Mike Modano scored 561 goals in his career.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Texas Rangers, who play in Arlington, were formerly which team?",
+"options": [
+"Washington Senators",
+"Montreal Expos",
+"Houston Colt .45s",
+"Kansas City Athletics"
+],
+"answer": 0,
+"d": 2,
+"fact": "They moved to Texas in 1972.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Rangers won their first World Series in 2023 against which team?",
+"options": [
+"Atlanta Braves",
+"Arizona Diamondbacks",
+"Philadelphia Phillies",
+"Houston Astros"
+],
+"answer": 1,
+"d": 1,
+"fact": "Texas went 11-0 on the road in the 2023 postseason, a record.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Texas-Oklahoma football rivalry is traditionally played at which Dallas stadium?",
+"options": [
+"Texas Stadium",
+"AT&T Stadium",
+"The Cotton Bowl at Fair Park",
+"Reunion Arena"
+],
+"answer": 2,
+"d": 2,
+"fact": "The stadium is split down the middle between burnt orange and crimson fans.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "In 1987 SMU football received what unprecedented NCAA penalty?",
+"options": [
+"A bowl ban",
+"Probation",
+"A fine",
+"The death penalty"
+],
+"answer": 3,
+"d": 2,
+"fact": "SMU's 1987 season was canceled after the program was caught paying players.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Which SMU running back won the 1948 Heisman Trophy?",
+"options": [
+"Doak Walker",
+"Eric Dickerson",
+"Roger Staubach",
+"Don Meredith"
+],
+"answer": 0,
+"d": 2,
+"fact": "The Doak Walker Award for top running backs is named for him.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The SMU \"Pony Express\" backfield of the early 1980s featured Eric Dickerson and which other runner?",
+"options": [
+"Herschel Walker",
+"Craig James",
+"Tony Dorsett",
+"Earl Campbell"
+],
+"answer": 1,
+"d": 3,
+"fact": "Both later played in the NFL.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Which golfer grew up in Dallas and won the 1968 and 1971 U.S. Opens?",
+"options": [
+"Arnold Palmer",
+"Byron Nelson",
+"Lee Trevino",
+"Ben Hogan"
+],
+"answer": 2,
+"d": 2,
+"fact": "Trevino was known for his humor and his unorthodox swing.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Jordan Spieth, a Dallas native, won which major in 2015?",
+"options": [
+"The Open Championship",
+"The Players",
+"The PGA Championship",
+"The Masters"
+],
+"answer": 3,
+"d": 2,
+"fact": "He also won the U.S. Open that year.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Dallas native Michael Johnson became the first man to win which Olympic double in 1996?",
+"options": [
+"200m and 400m",
+"100m and 200m",
+"Long jump and 200m",
+"400m and 800m"
+],
+"answer": 0,
+"d": 2,
+"fact": "He ran a then-world-record 19.32 in the 200 meters.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Byron Nelson set the PGA Tour record of how many consecutive victories in 1945?",
+"options": [
+"7",
+"11",
+"20",
+"15"
+],
+"answer": 1,
+"d": 3,
+"fact": "He won 18 times that year, and Dallas's tour stop bears his name.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "FC Dallas began play in 1996 under what original name?",
+"options": [
+"Dallas Sidekicks",
+"Dallas Toros",
+"Dallas Burn",
+"Dallas Tornado"
+],
+"answer": 2,
+"d": 3,
+"fact": "The team was renamed in 2005.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Cowboys' defense of the late 1960s and 1970s was nicknamed what?",
+"options": [
+"Purple People Eaters",
+"Steel Curtain",
+"Orange Crush",
+"Doomsday Defense"
+],
+"answer": 3,
+"d": 2,
+"fact": "Bob Lilly and Randy White were among its stars.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Reunion Arena, former home of the Mavericks and Stars, was demolished in which year?",
+"options": [
+"2009",
+"2001",
+"1995",
+"2015"
+],
+"answer": 0,
+"d": 3,
+"fact": "It opened in 1980.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Cotton Bowl Classic moved from Dallas to which stadium in 2010?",
+"options": [
+"Rose Bowl",
+"Cowboys Stadium in Arlington",
+"Superdome",
+"Reliant Stadium"
+],
+"answer": 1,
+"d": 3,
+"fact": "It had been played at the Cotton Bowl since 1937.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Cotton Bowl hosted matches during which international tournament in 1994?",
+"options": [
+"The Olympic Games",
+"The Pan American Games",
+"The FIFA World Cup",
+"The Copa America"
+],
+"answer": 2,
+"d": 3,
+"fact": "Cotton Bowl games in 1994 included Germany's 3-2 win over South Korea.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Cowboys won Super Bowl XXVII over which team?",
+"options": [
+"Miami Dolphins",
+"Denver Broncos",
+"Pittsburgh Steelers",
+"Buffalo Bills"
+],
+"answer": 3,
+"d": 2,
+"fact": "Dallas won 52-17.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Which Naval Academy Heisman winner quarterbacked the Cowboys to two Super Bowl wins in the 1970s?",
+"options": [
+"Roger Staubach",
+"Don Meredith",
+"Danny White",
+"Craig Morton"
+],
+"answer": 0,
+"d": 1,
+"fact": "Nicknamed \"Captain America,\" he served in Vietnam before his NFL career.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Tony Dorsett set an NFL record in January 1983 with a run of how many yards?",
+"options": [
+"85",
+"99",
+"91",
+"100"
+],
+"answer": 1,
+"d": 3,
+"fact": "It was against the Vikings, and it is the longest possible run, which can only be tied, never broken.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "In what year was Texas Stadium imploded?",
+"options": [
+"2012",
+"2005",
+"2010",
+"2016"
+],
+"answer": 2,
+"d": 3,
+"fact": "The Cowboys had moved to their new stadium in Arlington the year before.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The WNBA's Dallas Wings moved to Arlington in 2016 from which city?",
+"options": [
+"Seattle",
+"Minneapolis",
+"Houston",
+"Tulsa"
+],
+"answer": 3,
+"d": 3,
+"fact": "They had been the Tulsa Shock.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "In February 2025, the Mavericks traded Luka Doncic to which team?",
+"options": [
+"Los Angeles Lakers",
+"Miami Heat",
+"Golden State Warriors",
+"Boston Celtics"
+],
+"answer": 0,
+"d": 1,
+"fact": "The trade stunned fans, and Anthony Davis went to Dallas in the deal.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "In which round of the 2016 NFL Draft did the Cowboys select Dak Prescott?",
+"options": [
+"First",
+"Fourth",
+"Second",
+"Seventh"
+],
+"answer": 1,
+"d": 2,
+"fact": "He took over when Tony Romo was injured.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "What was the signature accessory of Tom Landry on the sidelines?",
+"options": [
+"A cowboy hat",
+"A clipboard",
+"A fedora",
+"A headset"
+],
+"answer": 2,
+"d": 1,
+"fact": "He rarely showed much emotion, and the hat became part of his image.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Cowboys won Super Bowl XXX in 1996 over which team?",
+"options": [
+"Denver Broncos",
+"Green Bay Packers",
+"Buffalo Bills",
+"Pittsburgh Steelers"
+],
+"answer": 3,
+"d": 2,
+"fact": "Larry Brown, a Cowboys cornerback, was the game's MVP.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Who was the Cowboys' first-ever first-round draft pick (1961) and later their first player in the Pro Football Hall of Fame?",
+"options": [
+"Bob Lilly",
+"Roger Staubach",
+"Tony Dorsett",
+"Troy Aikman"
+],
+"answer": 0,
+"d": 3,
+"fact": "Bob Lilly was nicknamed 'Mr. Cowboy.'",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "The Texas Rangers' Globe Life Field, with a retractable roof, opened in which year?",
+"options": [
+"2010",
+"2020",
+"2000",
+"2024"
+],
+"answer": 1,
+"d": 2,
+"fact": "It replaced Globe Life Park next door in Arlington.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "In 2024, the Mavericks reached the NBA Finals and lost to which team?",
+"options": [
+"Golden State Warriors",
+"Denver Nuggets",
+"Boston Celtics",
+"Miami Heat"
+],
+"answer": 2,
+"d": 1,
+"fact": "It was Dallas's first Finals trip since 2011.",
+"section": "Sports"
+},
+{
+"show": "Dallas",
+"q": "Dallas restaurateur Mariano Martinez invented what in 1971?",
+"options": [
+"Queso",
+"The breakfast taco",
+"The fajita",
+"The frozen margarita machine"
+],
+"answer": 3,
+"d": 2,
+"fact": "He adapted a soft-serve ice cream machine, and the original is in the Smithsonian.",
+"section": "Food & Business"
+},
+{
+"show": "Dallas",
+"q": "Chili's was founded on Greenville Avenue in Dallas in which year?",
+"options": [
+"1975",
+"1985",
+"1955",
+"1995"
+],
+"answer": 0,
+"d": 2,
+"fact": "It started as a small burger joint.",
+"section": "Food & Business"
+},
+{
+"show": "Dallas",
+"q": "Sonny Bryan's Smokehouse, a Dallas barbecue institution, opened in which year?",
+"options": [
+"1938",
+"1958",
+"1998",
+"1978"
+],
+"answer": 1,
+"d": 3,
+"fact": "The original Inwood Road location was a tiny shack.",
+"section": "Food & Business"
+},
+{
+"show": "Dallas",
+"q": "Half Price Books, founded in Dallas in 1972, started in what kind of place?",
+"options": [
+"A bus station",
+"A warehouse",
+"A laundromat",
+"A church basement"
+],
+"answer": 2,
+"d": 3,
+"fact": "The first store opened in a converted Dallas laundromat.",
+"section": "Food & Business"
+},
+{
+"show": "Dallas",
+"q": "Frito-Lay is headquartered in which Dallas suburb?",
+"options": [
+"Mesquite",
+"Garland",
+"Irving",
+"Plano"
+],
+"answer": 3,
+"d": 2,
+"fact": "It is a PepsiCo company.",
+"section": "Food & Business"
+},
+{
+"show": "Dallas",
+"q": "Dave & Buster's opened its first location in which year?",
+"options": [
+"1982",
+"1962",
+"1992",
+"1972"
+],
+"answer": 0,
+"d": 3,
+"fact": "The first location opened in a former Dallas warehouse in 1982.",
+"section": "Food & Business"
+},
+{
+"show": "Dallas",
+"q": "Mary Kay Cosmetics, founded in Dallas in 1963, is known for rewarding top sellers with what?",
+"options": [
+"Free cruises",
+"Pink Cadillacs",
+"Pink Mercedes",
+"Gold watches"
+],
+"answer": 1,
+"d": 1,
+"fact": "The first pink Cadillac was given in 1969.",
+"section": "Food & Business"
+},
+{
+"show": "Dallas",
+"q": "Dr Pepper, a Texas favorite, was invented in which Texas city in 1885?",
+"options": [
+"Houston",
+"Dallas",
+"Waco",
+"Austin"
+],
+"answer": 2,
+"d": 2,
+"fact": "It was created at the Old Corner Drug Store in Waco by pharmacist Charles Alderton.",
+"section": "Food & Business"
+},
+{
+"show": "Dallas",
+"q": "The Big Tex Choice Awards at the State Fair honor what?",
+"options": [
+"Best quilts",
+"Best livestock",
+"Best cowboy hats",
+"Creative fried foods"
+],
+"answer": 3,
+"d": 2,
+"fact": "Past winners include Fried Coke and Fried Butter.",
+"section": "Food & Business"
+},
+{
+"show": "Dallas",
+"q": "Which blues legend performed in Deep Ellum and recorded for Paramount in the 1920s?",
+"options": [
+"Blind Lemon Jefferson",
+"Howlin' Wolf",
+"Muddy Waters",
+"B.B. King"
+],
+"answer": 0,
+"d": 2,
+"fact": "He is known as the \"Father of Texas Blues\".",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which folk-blues singer, famed for \"Goodnight, Irene,\" played Deep Ellum with Blind Lemon Jefferson?",
+"options": [
+"Woody Guthrie",
+"Lead Belly",
+"Pete Seeger",
+"Lightnin' Hopkins"
+],
+"answer": 1,
+"d": 2,
+"fact": "He later became a prominent folk singer in New York.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Robert Johnson's final recording sessions took place in Dallas in what year?",
+"options": [
+"1957",
+"1927",
+"1937",
+"1947"
+],
+"answer": 2,
+"d": 3,
+"fact": "They were held at 508 Park Avenue.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which pioneer of the electric blues grew up in Dallas and once led Blind Lemon Jefferson around the streets?",
+"options": [
+"Buddy Guy",
+"Albert King",
+"Freddie King",
+"T-Bone Walker"
+],
+"answer": 3,
+"d": 3,
+"fact": "His song \"Stormy Monday\" became a standard.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Stevie Ray Vaughan grew up in which Dallas neighborhood?",
+"options": [
+"Oak Cliff",
+"Deep Ellum",
+"Highland Park",
+"Preston Hollow"
+],
+"answer": 0,
+"d": 2,
+"fact": "His older brother Jimmie Vaughan also became a famed guitarist.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which neo-soul singer born in Dallas attended Booker T. Washington High School for the Performing and Visual Arts?",
+"options": [
+"Macy Gray",
+"Erykah Badu",
+"Ledisi",
+"Beyoncé"
+],
+"answer": 1,
+"d": 2,
+"fact": "Norah Jones attended the same school.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Meat Loaf, who sang \"Bat Out of Hell,\" was born in which city?",
+"options": [
+"Memphis",
+"Nashville",
+"Dallas",
+"Houston"
+],
+"answer": 2,
+"d": 2,
+"fact": "His birth name was Marvin Lee Aday.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which band, fronted by Edie Brickell, released the 1988 hit \"What I Am\"?",
+"options": [
+"The Polyphonic Spree",
+"Toadies",
+"Spoon",
+"The New Bohemians"
+],
+"answer": 3,
+"d": 2,
+"fact": "They formed in Dallas.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Rapper Vanilla Ice, who had a hit with \"Ice Ice Baby,\" was born in which city?",
+"options": [
+"Dallas",
+"Miami",
+"Atlanta",
+"Los Angeles"
+],
+"answer": 0,
+"d": 2,
+"fact": "It was the first hip hop single to top the Billboard Hot 100.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "The choral rock band The Polyphonic Spree formed in which city in 2000?",
+"options": [
+"Houston",
+"Dallas",
+"Austin",
+"Denton"
+],
+"answer": 1,
+"d": 3,
+"fact": "They typically perform in white robes.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which actress and singer was born in Grand Prairie, Texas?",
+"options": [
+"Ariana Grande",
+"Demi Lovato",
+"Selena Gomez",
+"Miley Cyrus"
+],
+"answer": 2,
+"d": 1,
+"fact": "She is from the Dallas area.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which actor was born in Dallas in 1968?",
+"options": [
+"Dennis Quaid",
+"Matthew McConaughey",
+"Woody Harrelson",
+"Owen Wilson"
+],
+"answer": 3,
+"d": 2,
+"fact": "He grew up in Dallas with his brothers Luke and Andrew.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "The TV series Dallas, about the Ewing oil family, premiered in which year?",
+"options": [
+"1978",
+"1968",
+"1985",
+"1991"
+],
+"answer": 0,
+"d": 2,
+"fact": "It ran until 1991.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "In the 1980 cliffhanger, who shot J.R. Ewing?",
+"options": [
+"Cliff Barnes",
+"Kristin Shepard",
+"Bobby Ewing",
+"Sue Ellen Ewing"
+],
+"answer": 1,
+"d": 1,
+"fact": "The episode revealing the shooter drew about 83 million viewers.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Southfork Ranch, where the TV show Dallas was filmed, is in which town?",
+"options": [
+"Plano",
+"Dallas",
+"Parker",
+"Garland"
+],
+"answer": 2,
+"d": 2,
+"fact": "It is near Dallas and now a tourist attraction.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which actor played J.R. Ewing in Dallas?",
+"options": [
+"Ken Kercheval",
+"Jim Davis",
+"Patrick Duffy",
+"Larry Hagman"
+],
+"answer": 3,
+"d": 1,
+"fact": "He was also the star of I Dream of Jeannie.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "The film Dallas Buyers Club won Matthew McConaughey which Oscar?",
+"options": [
+"Best Actor",
+"Best Picture",
+"Best Supporting Actor",
+"Best Director"
+],
+"answer": 0,
+"d": 1,
+"fact": "It is set in Dallas in the 1980s.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which sci-fi film used Dallas City Hall as the headquarters of OCP?",
+"options": [
+"Total Recall",
+"RoboCop",
+"Blade Runner",
+"Terminator"
+],
+"answer": 1,
+"d": 2,
+"fact": "Though the film is set in Detroit, it was shot in Dallas.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which TV action series starring Chuck Norris was filmed in the Dallas area?",
+"options": [
+"Dallas Cops",
+"The Rockford Files",
+"Walker, Texas Ranger",
+"Texas Justice"
+],
+"answer": 2,
+"d": 1,
+"fact": "It ran from 1993 to 2001.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which Dallas-area complex served as the Great Hall setting in the 1976 film Logan's Run?",
+"options": [
+"Love Field",
+"Reunion Tower",
+"Meyerson Symphony Center",
+"Dallas Market Center"
+],
+"answer": 3,
+"d": 3,
+"fact": "Much of the sci-fi film was shot around the Dallas-Fort Worth area in 1975.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which metal band formed in Arlington in 1981?",
+"options": [
+"Pantera",
+"Slayer",
+"Megadeth",
+"Metallica"
+],
+"answer": 0,
+"d": 2,
+"fact": "Dimebag Darrell was one of its founders.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which country group, formed in Dallas in 1989, dropped 'Dixie' from its name in 2020?",
+"options": [
+"The Judds",
+"The Chicks",
+"Lady A",
+"Little Big Town"
+],
+"answer": 1,
+"d": 2,
+"fact": "The group is known for hits like 'Wide Open Spaces'.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which outlaw couple met in West Dallas in 1930?",
+"options": [
+"Butch and Sundance",
+"Sonny and Cher",
+"Bonnie and Clyde",
+"Jesse and Frank James"
+],
+"answer": 2,
+"d": 1,
+"fact": "Their crime spree ended in an ambush in Louisiana in 1934.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Norah Jones, who attended a Dallas arts high school, was raised in which Dallas suburb?",
+"options": [
+"Garland",
+"Richardson",
+"Plano",
+"Grapevine"
+],
+"answer": 3,
+"d": 3,
+"fact": "She was born in New York but grew up in Texas.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which Oscar-winning actor was born in Terrell, east of Dallas?",
+"options": [
+"Jamie Foxx",
+"Will Smith",
+"Denzel Washington",
+"Morgan Freeman"
+],
+"answer": 0,
+"d": 2,
+"fact": "He won Best Actor for Ray.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Which alt-country band led by Rhett Miller formed in Dallas in 1993?",
+"options": [
+"Uncle Tupelo",
+"Old 97's",
+"Wilco",
+"Drive-By Truckers"
+],
+"answer": 1,
+"d": 3,
+"fact": "They are known for their energetic live shows.",
+"section": "Music, Film & TV"
+},
+{
+"show": "Dallas",
+"q": "Jack Kilby invented the integrated circuit at which Dallas company in 1958?",
+"options": [
+"IBM",
+"Intel",
+"Texas Instruments",
+"Hewlett-Packard"
+],
+"answer": 2,
+"d": 2,
+"fact": "He won the Nobel Prize in Physics in 2000 for it.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Kilby's first integrated circuit was built on which material?",
+"options": [
+"Copper",
+"Silicon",
+"Gold",
+"Germanium"
+],
+"answer": 3,
+"d": 3,
+"fact": "Silicon became the standard later.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Texas Instruments introduced the first commercial silicon transistor in which year?",
+"options": [
+"1954",
+"1934",
+"1964",
+"1974"
+],
+"answer": 0,
+"d": 3,
+"fact": "It was developed by Gordon Teal.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Texas Instruments began as a seismic exploration company called what?",
+"options": [
+"Trinity Oil Services",
+"Geophysical Service Inc.",
+"Lone Star Geo",
+"Texas Seismic"
+],
+"answer": 1,
+"d": 3,
+"fact": "It was renamed Texas Instruments in 1951.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Which TI toy debuted in 1978 and appeared in E.T.?",
+"options": [
+"Etch A Sketch",
+"Merlin",
+"Speak & Spell",
+"Simon"
+],
+"answer": 2,
+"d": 2,
+"fact": "It used a speech synthesis chip.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Ross Perot founded which Dallas data-processing company in 1962?",
+"options": [
+"IBM Dallas",
+"Compaq",
+"Dell",
+"Electronic Data Systems"
+],
+"answer": 3,
+"d": 2,
+"fact": "He sold it to General Motors in 1984.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Ross Perot received about what share of the vote in the 1992 presidential election?",
+"options": [
+"19 percent",
+"3 percent",
+"35 percent",
+"50 percent"
+],
+"answer": 0,
+"d": 2,
+"fact": "It was the best showing for an independent in decades.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Which company moved its headquarters from San Antonio to Dallas in 2008?",
+"options": [
+"Microsoft",
+"AT&T",
+"Exxon",
+"Walmart"
+],
+"answer": 1,
+"d": 2,
+"fact": "The telecom giant came from San Antonio.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Which bank moved its headquarters from Detroit to Dallas in 2007?",
+"options": [
+"Chase",
+"Wells Fargo",
+"Comerica",
+"Citibank"
+],
+"answer": 2,
+"d": 3,
+"fact": "The move was meant to reflect its growing Texas base.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Which game studio in Mesquite, near Dallas, released Doom in 1993?",
+"options": [
+"Valve",
+"Epic",
+"Blizzard",
+"id Software"
+],
+"answer": 3,
+"d": 2,
+"fact": "The studio helped define the first-person shooter.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Which game studio, founded in Dallas in 1996 by John Romero and Tom Hall, made Daikatana?",
+"options": [
+"Ion Storm",
+"Ritual",
+"Apogee",
+"Gearbox"
+],
+"answer": 0,
+"d": 3,
+"fact": "It was known for ambitious ideas and a famously troubled launch.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Which Garland-based studio released Duke Nukem 3D in 1996?",
+"options": [
+"Bungie",
+"3D Realms",
+"Valve",
+"id Software"
+],
+"answer": 1,
+"d": 3,
+"fact": "It was formerly known as Apogee.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Which video game retailer is headquartered in Grapevine?",
+"options": [
+"Best Buy",
+"Walmart",
+"GameStop",
+"Toys R Us"
+],
+"answer": 2,
+"d": 2,
+"fact": "It is one of the world's biggest video game retailers.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Kenneth Cooper, the \"father of aerobics,\" founded his clinic in which city?",
+"options": [
+"Houston",
+"San Antonio",
+"Austin",
+"Dallas"
+],
+"answer": 3,
+"d": 2,
+"fact": "His 1968 book Aerobics inspired a fitness boom.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "UT Southwestern Medical Center's Brown and Goldstein shared a 1985 Nobel Prize for work on what?",
+"options": [
+"Cholesterol metabolism",
+"Insulin",
+"DNA sequencing",
+"Polio vaccines"
+],
+"answer": 0,
+"d": 2,
+"fact": "UT Southwestern has had several Nobel laureates.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Southwest Airlines was founded by Herb Kelleher and which cofounder?",
+"options": [
+"Gordon Bethune",
+"Rollin King",
+"Howard Hughes",
+"Robert Crandall"
+],
+"answer": 1,
+"d": 2,
+"fact": "Its first flights began in 1971.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "The Wright Amendment, which limited flights from Love Field, was passed in which year?",
+"options": [
+"1984",
+"1999",
+"1979",
+"1964"
+],
+"answer": 2,
+"d": 3,
+"fact": "It was fully repealed in 2014.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Dallas Love Field's airport code is what?",
+"options": [
+"DLF",
+"LOV",
+"DFW",
+"DAL"
+],
+"answer": 3,
+"d": 2,
+"fact": "DFW belongs to the larger airport.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "Which Irving-based company makes Kleenex tissues?",
+"options": [
+"Kimberly-Clark",
+"Georgia-Pacific",
+"Colgate",
+"Procter & Gamble"
+],
+"answer": 0,
+"d": 2,
+"fact": "Irving is a Dallas suburb that is home to several large corporations.",
+"section": "Tech & Business"
+},
+{
+"show": "Dallas",
+"q": "According to the 2020 census, about how many people lived in the city of Dallas?",
+"options": [
+"About 3 million",
+"About 1.3 million",
+"About 2 million",
+"About 800,000"
+],
+"answer": 1,
+"d": 2,
+"fact": "Dallas ranked ninth-largest among U.S. cities in 2020.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "Where did the Dallas-Fort Worth metroplex rank among U.S. metro areas by population in the 2020 census?",
+"options": [
+"Tenth",
+"Eighth",
+"Fourth",
+"Second"
+],
+"answer": 2,
+"d": 2,
+"fact": "The metroplex has roughly 8 million people.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "DFW Airport covers about 27 square miles. Which of these places is smaller than it?",
+"options": [
+"Rhode Island",
+"Houston",
+"Austin",
+"Manhattan"
+],
+"answer": 3,
+"d": 2,
+"fact": "DFW covers more land than Manhattan.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "In 2011, DFW hit 100 degrees or more on how many days?",
+"options": [
+"71",
+"40",
+"30",
+"100"
+],
+"answer": 0,
+"d": 2,
+"fact": "The 71 days of 100 degrees or more in 2011 remains the annual record.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "In October 2019, a damaging tornado struck which part of Dallas?",
+"options": [
+"Oak Cliff",
+"North Dallas",
+"Southeast Dallas",
+"Downtown"
+],
+"answer": 1,
+"d": 2,
+"fact": "It was rated EF3 and left a long damage path.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "Which river runs through Dallas?",
+"options": [
+"Red",
+"Brazos",
+"Trinity",
+"Rio Grande"
+],
+"answer": 2,
+"d": 1,
+"fact": "The Elm Fork and West Fork join near downtown.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "I-635 in Dallas is also known as what?",
+"options": [
+"Tom Landry Highway",
+"Central Expressway",
+"Stemmons Freeway",
+"LBJ Freeway"
+],
+"answer": 3,
+"d": 2,
+"fact": "It is named for Lyndon B. Johnson.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "Dallas hosted which political convention in 1984?",
+"options": [
+"The Republican National Convention",
+"The Libertarian Convention",
+"The Green Party Convention",
+"The Democratic National Convention"
+],
+"answer": 0,
+"d": 3,
+"fact": "Ronald Reagan was renominated.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "The George W. Bush Presidential Center is located on which campus?",
+"options": [
+"Baylor University",
+"Southern Methodist University",
+"Texas Christian University",
+"University of Texas at Dallas"
+],
+"answer": 1,
+"d": 2,
+"fact": "It opened in 2013.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "Highland Park, an enclave inside Dallas, was incorporated in which year?",
+"options": [
+"1983",
+"1943",
+"1913",
+"1873"
+],
+"answer": 2,
+"d": 3,
+"fact": "It is one of the wealthiest areas in Texas.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "How much does it cost to ride the McKinney Avenue Trolley (M-Line) in Uptown?",
+"options": [
+"$1",
+"$5",
+"$10",
+"Nothing, it's free"
+],
+"answer": 3,
+"d": 3,
+"fact": "It runs vintage-style trolleys along McKinney Avenue.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "The Great Trinity Forest in Dallas is the largest urban what in the U.S.?",
+"options": [
+"Bottomland hardwood forest",
+"Pine forest",
+"Redwood grove",
+"Botanic garden"
+],
+"answer": 0,
+"d": 3,
+"fact": "It covers thousands of acres along the river.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "Dallas is the county seat of which county?",
+"options": [
+"Tarrant County",
+"Dallas County",
+"Collin County",
+"Denton County"
+],
+"answer": 1,
+"d": 1,
+"fact": "The county was created in 1846.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "Which Texas city is Dallas's neighbor to the west?",
+"options": [
+"Austin",
+"Waco",
+"Fort Worth",
+"Houston"
+],
+"answer": 2,
+"d": 1,
+"fact": "The two cities form the metroplex.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "What nickname is often used for the DFW area?",
+"options": [
+"The Panhandle",
+"The Gulf Coast",
+"The Triangle",
+"The Metroplex"
+],
+"answer": 3,
+"d": 1,
+"fact": "The term combines metropolis and complex.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "In which time zone is Dallas located?",
+"options": [
+"Central",
+"Eastern",
+"Pacific",
+"Mountain"
+],
+"answer": 0,
+"d": 1,
+"fact": "It observes daylight saving time like the rest of Texas.",
+"section": "Geography & Weather"
+},
+{
+"show": "Dallas",
+"q": "What is the all-time record high temperature at DFW Airport?",
+"options": [
+"120°F",
+"113°F",
+"108°F",
+"102°F"
+],
+"answer": 1,
+"d": 3,
+"fact": "It was reached in June 1980 during a brutal heat wave.",
+"section": "Geography & Weather"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian mistakenly announced the wrong Miss Universe winner in 2015?",
+"options": [
+"Steve Harvey",
+"Dane Cook",
+"Steven Wright",
+"Dave Attell"
+],
+"answer": 0,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Red, White and Brown?",
+"options": [
+"Dave Chappelle",
+"Russell Peters",
+"Chris Tucker",
+"Michael McIntyre"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian addressed the Oscars slap in the Netflix special Selective Outrage?",
+"options": [
+"Lewis Black",
+"Margaret Cho",
+"Chris Rock",
+"Steve Harvey"
+],
+"answer": 2,
+"d": 1,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian starred in the sitcom Everybody Loves Raymond?",
+"options": [
+"Dave Attell",
+"George Lopez",
+"Russell Peters",
+"Ray Romano"
+],
+"answer": 3,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played Rick James in a famous sketch, shouting \"I'm Rick James, bitch!\"?",
+"options": [
+"Dave Chappelle",
+"Chris Rock",
+"Marc Maron",
+"Bernie Mac"
+],
+"answer": 0,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosts the Monday Morning Podcast?",
+"options": [
+"John Mulaney",
+"Bill Burr",
+"Russell Peters",
+"Iliza Shlesinger"
+],
+"answer": 1,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian joked that the average person is stupid, and half of everyone is stupider than that?",
+"options": [
+"Jerry Seinfeld",
+"Peter Kay",
+"George Carlin",
+"Bob Saget"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian was banned by MTV after hosting its 1989 Video Music Awards?",
+"options": [
+"Emo Philips",
+"Jack Benny",
+"Sam Kinison",
+"Andrew Dice Clay"
+],
+"answer": 3,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian voiced Mr. Potato Head in the Toy Story films?",
+"options": [
+"Don Rickles",
+"Mort Sahl",
+"Harry Hill",
+"Jay Leno"
+],
+"answer": 0,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian was arrested for obscenity in 1964 after a Greenwich Village show?",
+"options": [
+"Henny Youngman",
+"Lenny Bruce",
+"Bob Newhart",
+"Rodney Dangerfield"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special Make Happy?",
+"options": [
+"Patton Oswalt",
+"Mitch Hedberg",
+"Bo Burnham",
+"Jerrod Carmichael"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Stay Hungry?",
+"options": [
+"Trevor Noah",
+"Tig Notaro",
+"Ray Romano",
+"Sebastian Maniscalco"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's signature theme song was \"Thanks for the Memory\"?",
+"options": [
+"Bob Hope",
+"Anthony Jeselnik",
+"Steve Martin",
+"Jack Benny"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Annihilation?",
+"options": [
+"Iliza Shlesinger",
+"Patton Oswalt",
+"Ali Wong",
+"Garry Shandling"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for using a large pad of drawings in his act?",
+"options": [
+"Jay Leno",
+"Hannah Gadsby",
+"Demetri Martin",
+"Aziz Ansari"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played Eddie Cheng in Crazy Rich Asians?",
+"options": [
+"Bill Bailey",
+"Amy Schumer",
+"Patton Oswalt",
+"Ronny Chieng"
+],
+"answer": 3,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the HBO special Sick and Tired?",
+"options": [
+"Wanda Sykes",
+"Brian Regan",
+"Robin Williams",
+"Zach Galifianakis"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian co-created The Larry Sanders Show?",
+"options": [
+"Bob Newhart",
+"Garry Shandling",
+"Frankie Boyle",
+"Don Rickles"
+],
+"answer": 1,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian delivered angry rants on The Daily Show in a segment called \"Back in Black\"?",
+"options": [
+"Kevin Hart",
+"Don Rickles",
+"Lewis Black",
+"Dane Cook"
+],
+"answer": 2,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special New in Town?",
+"options": [
+"Russell Peters",
+"Ali Wong",
+"Amy Schumer",
+"John Mulaney"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Dress to Kill?",
+"options": [
+"Eddie Izzard",
+"Whitney Cummings",
+"Lee Evans",
+"Peter Kay"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played Bernard in the sitcom Black Books?",
+"options": [
+"Ricky Gervais",
+"Dylan Moran",
+"Bill Bailey",
+"Lee Mack"
+],
+"answer": 1,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Aren't You Embarrassed?",
+"options": [
+"Dave Chappelle",
+"Hannah Gadsby",
+"Sebastian Maniscalco",
+"Ali Wong"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian joked that at a funeral, most people would rather be in the casket than giving the eulogy?",
+"options": [
+"Denis Leary",
+"Rita Rudner",
+"Gilbert Gottfried",
+"Jerry Seinfeld"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian took over as host of The Tonight Show in 1992, with a recurring \"Headlines\" segment?",
+"options": [
+"Jay Leno",
+"Henny Youngman",
+"John Leguizamo",
+"Bob Newhart"
+],
+"answer": 0,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian wrote the long palindrome poem \"Dammit I'm Mad\"?",
+"options": [
+"Tiffany Haddish",
+"Demetri Martin",
+"Maria Bamford",
+"Bert Kreischer"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for the bit telling marketers to kill themselves?",
+"options": [
+"Nate Bargatze",
+"Eddie Murphy",
+"Bill Hicks",
+"Steven Wright"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special She Ready!?",
+"options": [
+"Tom Segura",
+"Iliza Shlesinger",
+"Marc Maron",
+"Tiffany Haddish"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian built a career on the line \"Take my wife... please\"?",
+"options": [
+"Henny Youngman",
+"Jackie Mason",
+"Sebastian Maniscalco",
+"Garry Shandling"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Have It All?",
+"options": [
+"Iliza Shlesinger",
+"Taylor Tomlinson",
+"Mitch Hedberg",
+"Sebastian Maniscalco"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian starred in the 1998 film Dirty Work?",
+"options": [
+"Sarah Silverman",
+"Tiffany Haddish",
+"Norm Macdonald",
+"Frankie Boyle"
+],
+"answer": 2,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played Alan in The Hangover?",
+"options": [
+"Chris Tucker",
+"Phyllis Diller",
+"Jeff Dunham",
+"Zach Galifianakis"
+],
+"answer": 3,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Single Lady?",
+"options": [
+"Ali Wong",
+"Bob Saget",
+"Ronny Chieng",
+"Hannah Gadsby"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played John Brown opposite Judi Dench in the film Mrs Brown?",
+"options": [
+"Sebastian Maniscalco",
+"Billy Connolly",
+"Bill Bailey",
+"Frankie Boyle"
+],
+"answer": 1,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian was a long-time Las Vegas headliner known for gentle one-liners about marriage?",
+"options": [
+"Andrew Dice Clay",
+"Richard Pryor",
+"Rita Rudner",
+"Bill Burr"
+],
+"answer": 2,
+"d": 3,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the Academy Awards more times than anyone else?",
+"options": [
+"Steve Martin",
+"Jackie Mason",
+"Kumail Nanjiani",
+"Bob Hope"
+],
+"answer": 3,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian co-created the sitcom Phoenix Nights?",
+"options": [
+"Peter Kay",
+"Hannah Gadsby",
+"Jimmy Carr",
+"Frankie Boyle"
+],
+"answer": 0,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian starred in the series Lady Dynamite?",
+"options": [
+"Bill Bailey",
+"Maria Bamford",
+"Amy Schumer",
+"Demetri Martin"
+],
+"answer": 1,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special I'm Sorry You Feel That Way?",
+"options": [
+"Bo Burnham",
+"Jerrod Carmichael",
+"Bill Burr",
+"Michael McIntyre"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is nicknamed \"The Big Yin\"?",
+"options": [
+"Lee Mack",
+"Hasan Minhaj",
+"Harry Hill",
+"Billy Connolly"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for rapid-fire puns?",
+"options": [
+"Tim Vine",
+"Lee Evans",
+"Jay Leno",
+"Billy Connolly"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian starred as psychologist Bob Hartley in a 1970s sitcom?",
+"options": [
+"Garry Shandling",
+"Bob Newhart",
+"Bill Hicks",
+"Don Rickles"
+],
+"answer": 1,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian created the puppet Achmed the Dead Terrorist, who shouts \"Silence! I kill you!\"?",
+"options": [
+"Marc Maron",
+"Chris Rock",
+"Jeff Dunham",
+"Jim Gaffigan"
+],
+"answer": 2,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the game show Are You Smarter Than a 5th Grader?",
+"options": [
+"Kevin Hart",
+"Russell Peters",
+"Dennis Miller",
+"Jeff Foxworthy"
+],
+"answer": 3,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which of these comedians was a member of the Blue Collar Comedy Tour?",
+"options": [
+"Jeff Foxworthy",
+"Steve Harvey",
+"Cedric the Entertainer",
+"Amy Schumer"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian walked on stage with a rolled-up newspaper to deliver political satire?",
+"options": [
+"Garry Shandling",
+"Mort Sahl",
+"Henny Youngman",
+"Bernie Mac"
+],
+"answer": 1,
+"d": 3,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian insulted Frank Sinatra to his face and got away with it?",
+"options": [
+"Garry Shandling",
+"Gilbert Gottfried",
+"Don Rickles",
+"Bob Newhart"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian wrote and starred in the film Sleepwalk With Me?",
+"options": [
+"Lenny Bruce",
+"Tom Segura",
+"Bill Burr",
+"Mike Birbiglia"
+],
+"answer": 3,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the specials Jammin' in New York and Life Is Worth Losing?",
+"options": [
+"George Carlin",
+"Iliza Shlesinger",
+"Bill Hicks",
+"Tim Allen"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played obnoxious golfer Al Czervik in Caddyshack?",
+"options": [
+"Joan Rivers",
+"Rodney Dangerfield",
+"George Burns",
+"Jeff Dunham"
+],
+"answer": 1,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special A Speck of Dust?",
+"options": [
+"Richard Pryor",
+"Bo Burnham",
+"Sarah Silverman",
+"Hasan Minhaj"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian recorded the 1979 concert film Live in Concert?",
+"options": [
+"Emo Philips",
+"Jimmy Carr",
+"Bob Saget",
+"Richard Pryor"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian was posthumously pardoned by the governor of New York in 2003?",
+"options": [
+"Lenny Bruce",
+"George Burns",
+"Bob Newhart",
+"Johnny Carson"
+],
+"answer": 0,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian famously imitates the stern accents of Indian dads?",
+"options": [
+"Wanda Sykes",
+"Russell Peters",
+"Dane Cook",
+"Bert Kreischer"
+],
+"answer": 1,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special His Dark Material?",
+"options": [
+"Frankie Boyle",
+"Jack Benny",
+"Jimmy Carr",
+"Ricky Gervais"
+],
+"answer": 2,
+"d": 3,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Happy & Glorious?",
+"options": [
+"Chris Rock",
+"Frankie Boyle",
+"Jimmy Carr",
+"Michael McIntyre"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for sound effects, voices and Hawaiian shirts?",
+"options": [
+"Gabriel Iglesias",
+"Mort Sahl",
+"Marc Maron",
+"Chris Tucker"
+],
+"answer": 0,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian performed a song called \"Asshole\" on his album No Cure for Cancer?",
+"options": [
+"Tim Allen",
+"Denis Leary",
+"Ellen DeGeneres",
+"Bill Hicks"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian won an Oscar for the short film The Appointments of Dennis Jennings?",
+"options": [
+"Dennis Miller",
+"Sam Kinison",
+"Steven Wright",
+"Emo Philips"
+],
+"answer": 2,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian created the series After Life?",
+"options": [
+"Gallagher",
+"Michael McIntyre",
+"Billy Connolly",
+"Ricky Gervais"
+],
+"answer": 3,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special My Girlfriend's Boyfriend?",
+"options": [
+"Mike Birbiglia",
+"Bill Burr",
+"Trevor Noah",
+"Gary Gulman"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's catchphrase is \"Here's your sign\"?",
+"options": [
+"Chris Tucker",
+"Bill Engvall",
+"Gary Gulman",
+"Bernie Mac"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the film Jesus Is Magic?",
+"options": [
+"Eddie Izzard",
+"Tiffany Haddish",
+"Sarah Silverman",
+"Anthony Jeselnik"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian calls himself \"fluffy\" rather than fat?",
+"options": [
+"Chris Tucker",
+"Steve Harvey",
+"Dylan Moran",
+"Gabriel Iglesias"
+],
+"answer": 3,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for the catchphrase \"You might be a redneck if...\"?",
+"options": [
+"Jeff Foxworthy",
+"Rita Rudner",
+"Chris Rock",
+"Ron White"
+],
+"answer": 0,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for voices of people in her head and her mental health bits?",
+"options": [
+"Denis Leary",
+"Maria Bamford",
+"Bill Burr",
+"Gary Gulman"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for angry Boston rants?",
+"options": [
+"Sarah Silverman",
+"Jim Jefferies",
+"Bill Burr",
+"Bill Bailey"
+],
+"answer": 2,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian starred in the Netflix series Beef?",
+"options": [
+"Taylor Tomlinson",
+"John Mulaney",
+"Jeff Foxworthy",
+"Ali Wong"
+],
+"answer": 3,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian starred in the sitcom Not Going Out?",
+"options": [
+"Lee Mack",
+"Milton Jones",
+"Dylan Moran",
+"Lewis Black"
+],
+"answer": 0,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special Walk Your Way Out?",
+"options": [
+"Lee Evans",
+"Bill Burr",
+"Jerrod Carmichael",
+"John Oliver"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for the bit telling people in hunger-stricken Africa to move to where the food is?",
+"options": [
+"Jerrod Carmichael",
+"Dennis Miller",
+"Sam Kinison",
+"Roseanne Barr"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian delivered deadpan jokes while wearing sunglasses and long hair?",
+"options": [
+"Maria Bamford",
+"George Lopez",
+"Russell Peters",
+"Mitch Hedberg"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's rants usually ended with \"Of course, that's just my opinion. I could be wrong.\"?",
+"options": [
+"Dennis Miller",
+"Emo Philips",
+"Tim Allen",
+"Bill Engvall"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian wrote the music for Matilda the Musical?",
+"options": [
+"Roseanne Barr",
+"Tim Minchin",
+"Peter Kay",
+"Dara Ó Briain"
+],
+"answer": 1,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for jokes about raising five kids in a small apartment?",
+"options": [
+"Ali Wong",
+"Dane Cook",
+"Jim Gaffigan",
+"Zach Galifianakis"
+],
+"answer": 2,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special Tamborine?",
+"options": [
+"Johnny Carson",
+"Ron White",
+"Jim Gaffigan",
+"Chris Rock"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian won Last Comic Standing in 2008?",
+"options": [
+"Iliza Shlesinger",
+"Ronny Chieng",
+"John Mulaney",
+"Zach Galifianakis"
+],
+"answer": 0,
+"d": 3,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian performs in a high nasal voice with a bowl haircut?",
+"options": [
+"Ellen DeGeneres",
+"Emo Philips",
+"Richard Pryor",
+"Kumail Nanjiani"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played Thornton Melon, a rich dad who goes to college, in Back to School?",
+"options": [
+"Phyllis Diller",
+"Johnny Carson",
+"Rodney Dangerfield",
+"Don Rickles"
+],
+"answer": 2,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian said \"Reality, what a concept!\"?",
+"options": [
+"Emo Philips",
+"Tim Allen",
+"Jackie Mason",
+"Robin Williams"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian anchored Weekend Update on SNL from 1985 to 1991?",
+"options": [
+"Dennis Miller",
+"Eddie Murphy",
+"Robin Williams",
+"Russell Peters"
+],
+"answer": 0,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Total Blackout?",
+"options": [
+"Margaret Cho",
+"Chris Rock",
+"Jay Leno",
+"Mitch Hedberg"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosts the mock talk show Between Two Ferns?",
+"options": [
+"Dennis Miller",
+"Cedric the Entertainer",
+"Zach Galifianakis",
+"Gabriel Iglesias"
+],
+"answer": 2,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played the alien Mork, who said \"Nanu nanu\"?",
+"options": [
+"Bob Saget",
+"Brian Regan",
+"Tim Allen",
+"Robin Williams"
+],
+"answer": 3,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian came out as gay on her sitcom in 1997?",
+"options": [
+"Ellen DeGeneres",
+"Whitney Cummings",
+"Eddie Murphy",
+"Sam Kinison"
+],
+"answer": 0,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian joked that he thought the brain was the greatest organ until he realized who was telling him that?",
+"options": [
+"Milton Berle",
+"Emo Philips",
+"Bill Hicks",
+"Andrew Dice Clay"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian opened a famous 2012 set with \"Hello. I have cancer.\"?",
+"options": [
+"Jerrod Carmichael",
+"Ray Romano",
+"Tig Notaro",
+"Jo Koy"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's debut album The Button-Down Mind won the Grammy for Album of the Year?",
+"options": [
+"Jackie Mason",
+"Phyllis Diller",
+"John Leguizamo",
+"Bob Newhart"
+],
+"answer": 3,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for a bit about the Crucifixion?",
+"options": [
+"Billy Connolly",
+"Peter Kay",
+"Frankie Boyle",
+"Richard Pryor"
+],
+"answer": 0,
+"d": 3,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian voiced Iago in Aladdin?",
+"options": [
+"Andrew Dice Clay",
+"Gilbert Gottfried",
+"Jim Jefferies",
+"Bob Saget"
+],
+"answer": 1,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian was the longtime host of Mock the Week?",
+"options": [
+"Billy Connolly",
+"Eddie Izzard",
+"Dara Ó Briain",
+"Milton Berle"
+],
+"answer": 2,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian performed the 1983 special Delirious in a red leather suit?",
+"options": [
+"Jerry Seinfeld",
+"John Mulaney",
+"Tim Allen",
+"Eddie Murphy"
+],
+"answer": 3,
+"d": 1,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for telling the dirty joke in The Aristocrats?",
+"options": [
+"Gilbert Gottfried",
+"Rita Rudner",
+"Patton Oswalt",
+"Roseanne Barr"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian was known for screaming \"AAAAAH!\" mid-bit?",
+"options": [
+"Richard Pryor",
+"Sam Kinison",
+"Gilbert Gottfried",
+"Billy Connolly"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Werewolves and Lollipops?",
+"options": [
+"John Oliver",
+"Bill Burr",
+"Patton Oswalt",
+"Nate Bargatze"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special Bare?",
+"options": [
+"Anthony Jeselnik",
+"Dennis Miller",
+"Ali Wong",
+"Jim Jefferies"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which chain-smoking dark satirist died aged 32 in 1994?",
+"options": [
+"Bill Hicks",
+"Gilbert Gottfried",
+"Gallagher",
+"Denis Leary"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian wrote and starred in the film Trainwreck?",
+"options": [
+"Whitney Cummings",
+"Amy Schumer",
+"Gary Gulman",
+"Margaret Cho"
+],
+"answer": 1,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian did an ice-cream-truck bit in the special Delirious?",
+"options": [
+"Ron White",
+"Denis Leary",
+"Eddie Murphy",
+"Gilbert Gottfried"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian delivers surreal one-liners in a deadpan monotone?",
+"options": [
+"Tim Allen",
+"Robin Williams",
+"Dane Cook",
+"Steven Wright"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's Broadway show was titled The New One?",
+"options": [
+"Mike Birbiglia",
+"Sebastian Maniscalco",
+"John Mulaney",
+"Russell Peters"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's catchphrase was \"Well, excuuuse me!\"?",
+"options": [
+"Steve Harvey",
+"Steve Martin",
+"Milton Berle",
+"Bob Newhart"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the web series Comedians in Cars Getting Coffee?",
+"options": [
+"Richard Pryor",
+"Bill Engvall",
+"Jerry Seinfeld",
+"Andrew Dice Clay"
+],
+"answer": 2,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian set a record of 499 jokes in one hour?",
+"options": [
+"Michael McIntyre",
+"Peter Kay",
+"Harry Hill",
+"Tim Vine"
+],
+"answer": 3,
+"d": 3,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the TV show TV Burp?",
+"options": [
+"Harry Hill",
+"Lee Evans",
+"Ricky Gervais",
+"Margaret Cho"
+],
+"answer": 0,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian stepped down as Oscars host in 2018 after old tweets resurfaced?",
+"options": [
+"Ron White",
+"Kevin Hart",
+"Russell Peters",
+"Chris Tucker"
+],
+"answer": 1,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for an eye-exam bit about struggling to pick between A and B?",
+"options": [
+"Dave Attell",
+"Kevin Hart",
+"Brian Regan",
+"Anthony Jeselnik"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian opened a New York comedy club that bore his own name?",
+"options": [
+"Jack Benny",
+"Bob Hope",
+"Johnny Carson",
+"Rodney Dangerfield"
+],
+"answer": 3,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special Funny Business?",
+"options": [
+"Jimmy Carr",
+"Tiffany Haddish",
+"Lee Evans",
+"Lee Mack"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian ended shows by smashing watermelons with a Sledge-O-Matic?",
+"options": [
+"Zach Galifianakis",
+"Gallagher",
+"Jerry Seinfeld",
+"Denis Leary"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian famously greeted audience members with the insult \"hockey puck\"?",
+"options": [
+"Bob Newhart",
+"Lenny Bruce",
+"Don Rickles",
+"Dave Attell"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian voiced Anger in Inside Out?",
+"options": [
+"Milton Berle",
+"Bernie Mac",
+"Russell Peters",
+"Lewis Black"
+],
+"answer": 3,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special War Paint?",
+"options": [
+"Iliza Shlesinger",
+"John Leguizamo",
+"Tom Segura",
+"Robin Williams"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian voices a whispering inner audience member commenting on his own jokes?",
+"options": [
+"Aziz Ansari",
+"Jim Gaffigan",
+"Gabriel Iglesias",
+"Mitch Hedberg"
+],
+"answer": 1,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian starred in the series Life & Beth?",
+"options": [
+"Bill Burr",
+"Hannah Gadsby",
+"Amy Schumer",
+"Kumail Nanjiani"
+],
+"answer": 2,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for the monologue \"It's Just a Ride\"?",
+"options": [
+"Denis Leary",
+"Frankie Boyle",
+"Robin Williams",
+"Bill Hicks"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special Elder Millennial?",
+"options": [
+"Iliza Shlesinger",
+"Gary Gulman",
+"Nate Bargatze",
+"Lee Mack"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the Golden Globes in 2024?",
+"options": [
+"Trevor Noah",
+"Jo Koy",
+"Ali Wong",
+"Henny Youngman"
+],
+"answer": 1,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for a routine comparing the language of baseball and football?",
+"options": [
+"Jerry Seinfeld",
+"Gilbert Gottfried",
+"George Carlin",
+"Jimmy Carr"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian wrote the song \"Welcome to the Internet\"?",
+"options": [
+"Hannah Gadsby",
+"Bill Burr",
+"Iliza Shlesinger",
+"Bo Burnham"
+],
+"answer": 3,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special SuperNature?",
+"options": [
+"Ricky Gervais",
+"Mitch Hedberg",
+"Sarah Millican",
+"Lee Mack"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian included a banjo and balloon animals in his stand-up act?",
+"options": [
+"Roseanne Barr",
+"Steve Martin",
+"Bob Hope",
+"Don Rickles"
+],
+"answer": 1,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Part Troll?",
+"options": [
+"Harry Hill",
+"Marc Maron",
+"Bill Bailey",
+"Tim Minchin"
+],
+"answer": 2,
+"d": 3,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian joked that he used to do drugs, and still does, but used to, too?",
+"options": [
+"Chris Rock",
+"Jeff Dunham",
+"Bob Saget",
+"Mitch Hedberg"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosts the panel show 8 Out of 10 Cats?",
+"options": [
+"Jimmy Carr",
+"Milton Jones",
+"Bill Bailey",
+"Mike Birbiglia"
+],
+"answer": 0,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Outsourced?",
+"options": [
+"Jay Leno",
+"Russell Peters",
+"Wanda Sykes",
+"Margaret Cho"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special Look at You?",
+"options": [
+"Jo Koy",
+"Kumail Nanjiani",
+"Taylor Tomlinson",
+"Iliza Shlesinger"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian co-created the sitcom Car Share?",
+"options": [
+"Dylan Moran",
+"Ray Romano",
+"Frankie Boyle",
+"Peter Kay"
+],
+"answer": 3,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is a senior correspondent on The Daily Show?",
+"options": [
+"Ronny Chieng",
+"Steve Harvey",
+"Demetri Martin",
+"Sarah Silverman"
+],
+"answer": 0,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Kid Gorgeous at Radio City?",
+"options": [
+"Mort Sahl",
+"John Mulaney",
+"Hasan Minhaj",
+"Tig Notaro"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian joked that you must be asleep to believe in the American Dream?",
+"options": [
+"Eddie Murphy",
+"Mitch Hedberg",
+"George Carlin",
+"Bill Hicks"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Beyond the Pale?",
+"options": [
+"Margaret Cho",
+"Brian Regan",
+"Dane Cook",
+"Jim Gaffigan"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special Sticks & Stones?",
+"options": [
+"Dave Chappelle",
+"Brian Regan",
+"Dylan Moran",
+"Dave Attell"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's stand-up albums include Let's Get Small and A Wild and Crazy Guy?",
+"options": [
+"Joan Rivers",
+"Steve Martin",
+"Jackie Mason",
+"George Burns"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Why Would You Do That?",
+"options": [
+"Jim Jefferies",
+"Lee Evans",
+"Sebastian Maniscalco",
+"Nate Bargatze"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian performed on decades of USO tours for American troops?",
+"options": [
+"Joan Rivers",
+"Bob Newhart",
+"Chris Tucker",
+"Bob Hope"
+],
+"answer": 3,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the platinum-selling album and special both titled Retaliation?",
+"options": [
+"Dane Cook",
+"Jeff Dunham",
+"Bernie Mac",
+"Kevin Hart"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian earned the nickname \"The Thief of Bad Gags\"?",
+"options": [
+"Jay Leno",
+"Milton Berle",
+"George Burns",
+"Ronny Chieng"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian was called \"Mr. Television\" and \"Uncle Miltie\"?",
+"options": [
+"Jay Leno",
+"Garry Shandling",
+"Milton Berle",
+"Kumail Nanjiani"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosts the game show Family Feud?",
+"options": [
+"Mitch Hedberg",
+"Ron White",
+"Dane Cook",
+"Steve Harvey"
+],
+"answer": 3,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the late-night show After Midnight on CBS?",
+"options": [
+"Taylor Tomlinson",
+"Hannah Gadsby",
+"Tig Notaro",
+"Henny Youngman"
+],
+"answer": 0,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian starred in the 1987 stand-up film Raw, wearing a purple leather suit?",
+"options": [
+"Aziz Ansari",
+"Eddie Murphy",
+"Gallagher",
+"Gilbert Gottfried"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian called herself a \"domestic goddess\" in her stand-up?",
+"options": [
+"Larry the Cable Guy",
+"Denis Leary",
+"Roseanne Barr",
+"Gilbert Gottfried"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian voiced Remy in Ratatouille?",
+"options": [
+"Jerrod Carmichael",
+"Ellen DeGeneres",
+"Sarah Silverman",
+"Patton Oswalt"
+],
+"answer": 3,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the Netflix live special Everybody's in LA?",
+"options": [
+"John Mulaney",
+"Maria Bamford",
+"Bert Kreischer",
+"Jim Jefferies"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian tugged at his collar and red tie while complaining about getting no respect?",
+"options": [
+"Dylan Moran",
+"Rodney Dangerfield",
+"Phyllis Diller",
+"Johnny Carson"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for the viral \"The Machine\" story about a Russian train?",
+"options": [
+"Frankie Boyle",
+"Hasan Minhaj",
+"Bert Kreischer",
+"Bill Burr"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian became the first woman invited to sit on Johnny Carson's couch after her set?",
+"options": [
+"Sam Kinison",
+"Tim Vine",
+"Robin Williams",
+"Ellen DeGeneres"
+],
+"answer": 3,
+"d": 3,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for the sentence-ending \"Why you crying?\"?",
+"options": [
+"George Lopez",
+"Tim Minchin",
+"Dave Chappelle",
+"Dane Cook"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for the \"garlic bread\" bit?",
+"options": [
+"Rodney Dangerfield",
+"Peter Kay",
+"Jimmy Carr",
+"Lee Evans"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for bits about his Filipino mom?",
+"options": [
+"Maria Bamford",
+"Bill Burr",
+"Jo Koy",
+"Ali Wong"
+],
+"answer": 2,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for a bit about state abbreviations?",
+"options": [
+"Anthony Jeselnik",
+"Bill Burr",
+"Joan Rivers",
+"Gary Gulman"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian has a famous bit about \"A Place for My Stuff\"?",
+"options": [
+"George Carlin",
+"Rita Rudner",
+"Peter Kay",
+"Jerry Seinfeld"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian was fired as the voice of the Aflac duck in 2011?",
+"options": [
+"Aziz Ansari",
+"Gilbert Gottfried",
+"Rita Rudner",
+"Emo Philips"
+],
+"answer": 1,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian announced she was quitting comedy in the Netflix special Nanette?",
+"options": [
+"Iliza Shlesinger",
+"Ali Wong",
+"Hannah Gadsby",
+"Emo Philips"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian recorded the concert film Live on the Sunset Strip in 1982?",
+"options": [
+"Dennis Miller",
+"Tiffany Haddish",
+"Gilbert Gottfried",
+"Richard Pryor"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Hot & Fluffy?",
+"options": [
+"Gabriel Iglesias",
+"Taylor Tomlinson",
+"Larry the Cable Guy",
+"Dave Chappelle"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played director Sam Sylvia in the series GLOW?",
+"options": [
+"Margaret Cho",
+"Marc Maron",
+"Gary Gulman",
+"Dave Attell"
+],
+"answer": 1,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian co-created the sitcom 2 Broke Girls?",
+"options": [
+"Kumail Nanjiani",
+"Tiffany Haddish",
+"Whitney Cummings",
+"Demetri Martin"
+],
+"answer": 2,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special The Greatest Average American?",
+"options": [
+"Eddie Izzard",
+"Jo Koy",
+"Sebastian Maniscalco",
+"Nate Bargatze"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian claimed for decades to be \"39 years old\"?",
+"options": [
+"Jack Benny",
+"George Burns",
+"Bob Saget",
+"Garry Shandling"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Kill the Messenger?",
+"options": [
+"Kevin Hart",
+"Chris Rock",
+"Chris Tucker",
+"Larry the Cable Guy"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian created the Hippy-Dippy Weatherman, Al Sleet?",
+"options": [
+"Sebastian Maniscalco",
+"Emo Philips",
+"George Carlin",
+"Bob Saget"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the Oscars in 2005 and 2016?",
+"options": [
+"Cedric the Entertainer",
+"Ray Romano",
+"Gilbert Gottfried",
+"Chris Rock"
+],
+"answer": 3,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Asian Comedian Destroys America!?",
+"options": [
+"Ronny Chieng",
+"Hannah Gadsby",
+"Dane Cook",
+"Jim Jefferies"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian, known as the \"King of the One-Liners\", often played a violin on stage?",
+"options": [
+"Bob Newhart",
+"Henny Youngman",
+"Johnny Carson",
+"Garry Shandling"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian wrote and starred in the one-man show Freak?",
+"options": [
+"Tig Notaro",
+"Bo Burnham",
+"John Leguizamo",
+"Dane Cook"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Quarter-Life Crisis?",
+"options": [
+"Sebastian Maniscalco",
+"Bo Burnham",
+"Bill Burr",
+"Taylor Tomlinson"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for high-energy, sweaty, physical comedy?",
+"options": [
+"Lee Evans",
+"Ricky Gervais",
+"Russell Howard",
+"Sarah Millican"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian was an ex-preacher who performed in a trench coat with long hair?",
+"options": [
+"Billy Connolly",
+"Sam Kinison",
+"Robin Williams",
+"Jerry Seinfeld"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special Douglas?",
+"options": [
+"Emo Philips",
+"Jo Koy",
+"Hannah Gadsby",
+"Tom Segura"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Ball Hog?",
+"options": [
+"Iliza Shlesinger",
+"Tim Minchin",
+"Ronny Chieng",
+"Tom Segura"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played Tom Haverford on Parks and Recreation?",
+"options": [
+"Aziz Ansari",
+"Hasan Minhaj",
+"Patton Oswalt",
+"Lewis Black"
+],
+"answer": 0,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the HBO special The Great Depresh?",
+"options": [
+"John Oliver",
+"Gary Gulman",
+"Tiffany Haddish",
+"Wanda Sykes"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Hello Wembley!?",
+"options": [
+"Gallagher",
+"Peter Kay",
+"Michael McIntyre",
+"Tim Minchin"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Craic Dealer?",
+"options": [
+"Harry Hill",
+"Bill Bailey",
+"Jimmy Carr",
+"Dara Ó Briain"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian smoked cigars, partnered with Gracie Allen and played God in Oh, God!?",
+"options": [
+"George Burns",
+"Joan Rivers",
+"Brian Regan",
+"Henny Youngman"
+],
+"answer": 0,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played Mayfeld in The Mandalorian?",
+"options": [
+"Aziz Ansari",
+"Bill Burr",
+"Whitney Cummings",
+"Ronny Chieng"
+],
+"answer": 1,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for gentle, clean comedy with a soft Tennessee delivery?",
+"options": [
+"Richard Pryor",
+"Mike Birbiglia",
+"Nate Bargatze",
+"Demetri Martin"
+],
+"answer": 2,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famously credited with joking that after reading about the evils of drinking, he gave up reading?",
+"options": [
+"Joan Rivers",
+"Billy Connolly",
+"Jackie Mason",
+"Henny Youngman"
+],
+"answer": 3,
+"d": 3,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian created the character Tyrone Biggums?",
+"options": [
+"Dave Chappelle",
+"Kevin Hart",
+"Larry the Cable Guy",
+"George Carlin"
+],
+"answer": 0,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian co-created a sitcom famously \"about nothing\"?",
+"options": [
+"Steven Wright",
+"Jerry Seinfeld",
+"Gilbert Gottfried",
+"Rita Rudner"
+],
+"answer": 1,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian performed the beat poem \"Storm\"?",
+"options": [
+"Jerrod Carmichael",
+"Milton Jones",
+"Tim Minchin",
+"Jimmy Carr"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian starred as Dinesh in Silicon Valley?",
+"options": [
+"Amy Schumer",
+"Hannah Gadsby",
+"Roseanne Barr",
+"Kumail Nanjiani"
+],
+"answer": 3,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Afraid of the Dark?",
+"options": [
+"Trevor Noah",
+"Sebastian Maniscalco",
+"Peter Kay",
+"Iliza Shlesinger"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played Tim \"The Tool Man\" Taylor, who grunted for \"more power\"?",
+"options": [
+"Bill Hicks",
+"Tim Allen",
+"Robin Williams",
+"Hannah Gadsby"
+],
+"answer": 1,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian co-created The Office and played David Brent?",
+"options": [
+"Aziz Ansari",
+"Sarah Millican",
+"Ricky Gervais",
+"Lee Mack"
+],
+"answer": 2,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for the \"Cake or Death?\" routine?",
+"options": [
+"Jack Benny",
+"Lee Evans",
+"Jimmy Carr",
+"Eddie Izzard"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's catchphrase is \"Git-R-Done!\"?",
+"options": [
+"Larry the Cable Guy",
+"Norm Macdonald",
+"Kevin Hart",
+"Cedric the Entertainer"
+],
+"answer": 0,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for his \"man drawer\" bit?",
+"options": [
+"Brian Regan",
+"Michael McIntyre",
+"Jimmy Carr",
+"Russell Howard"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian co-wrote and starred in The Big Sick?",
+"options": [
+"Bo Burnham",
+"Ronny Chieng",
+"Kumail Nanjiani",
+"Chris Rock"
+],
+"answer": 2,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's breakout stand-up film was I'm the One That I Want?",
+"options": [
+"Chris Rock",
+"Rita Rudner",
+"Chris Tucker",
+"Margaret Cho"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian built a persona around being extremely stingy?",
+"options": [
+"Jack Benny",
+"Anthony Jeselnik",
+"Mort Sahl",
+"Jay Leno"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is a team captain on Would I Lie to You?",
+"options": [
+"Bill Bailey",
+"Lee Mack",
+"Milton Jones",
+"Steve Harvey"
+],
+"answer": 1,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian co-created Extras with Stephen Merchant?",
+"options": [
+"Michael McIntyre",
+"Russell Howard",
+"Ricky Gervais",
+"Sarah Silverman"
+],
+"answer": 2,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosts HBO's Last Week Tonight?",
+"options": [
+"Zach Galifianakis",
+"Ali Wong",
+"Amy Schumer",
+"John Oliver"
+],
+"answer": 3,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Skanks for the Memories?",
+"options": [
+"Dave Attell",
+"Bernie Mac",
+"Dave Chappelle",
+"Ellen DeGeneres"
+],
+"answer": 0,
+"d": 3,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Never Scared?",
+"options": [
+"Dave Attell",
+"Chris Rock",
+"Wanda Sykes",
+"Jeff Dunham"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian was fired from Weekend Update after repeated O.J. Simpson jokes?",
+"options": [
+"Ricky Gervais",
+"Ronny Chieng",
+"Norm Macdonald",
+"Bo Burnham"
+],
+"answer": 2,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Confirmed Kills?",
+"options": [
+"Mort Sahl",
+"Mike Birbiglia",
+"Jim Jefferies",
+"Iliza Shlesinger"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian made the special Inside, filmed alone in one room?",
+"options": [
+"Bo Burnham",
+"Ali Wong",
+"Tiffany Haddish",
+"Bert Kreischer"
+],
+"answer": 0,
+"d": 1,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Thoughts and Prayers?",
+"options": [
+"Gary Gulman",
+"Anthony Jeselnik",
+"Dara Ó Briain",
+"Sarah Silverman"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian voiced Mater in the Cars films?",
+"options": [
+"Johnny Carson",
+"Brian Regan",
+"Larry the Cable Guy",
+"Ron White"
+],
+"answer": 2,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the stand-up film Laugh at My Pain?",
+"options": [
+"Dave Chappelle",
+"Ray Romano",
+"Dara Ó Briain",
+"Kevin Hart"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the White House Correspondents' Dinner in 2017?",
+"options": [
+"Hasan Minhaj",
+"Patton Oswalt",
+"Sebastian Maniscalco",
+"Anthony Jeselnik"
+],
+"answer": 0,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for the \"moth joke\" on a Conan talk show appearance?",
+"options": [
+"Garry Shandling",
+"Norm Macdonald",
+"Jo Koy",
+"Ali Wong"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian performed the sketch segment \"The Racial Draft\"?",
+"options": [
+"Cedric the Entertainer",
+"Zach Galifianakis",
+"Dave Chappelle",
+"Frankie Boyle"
+],
+"answer": 2,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the White House Correspondents' Dinner in 2009?",
+"options": [
+"Chris Rock",
+"Tim Vine",
+"George Lopez",
+"Wanda Sykes"
+],
+"answer": 3,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the Netflix show Patriot Act?",
+"options": [
+"Hasan Minhaj",
+"Ronny Chieng",
+"Tim Minchin",
+"Kumail Nanjiani"
+],
+"answer": 0,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Terrifying Times?",
+"options": [
+"Kumail Nanjiani",
+"John Oliver",
+"Jim Jefferies",
+"Mitch Hedberg"
+],
+"answer": 1,
+"d": 3,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the specials I'm Telling You for the Last Time and 23 Hours to Kill?",
+"options": [
+"Steven Wright",
+"Jimmy Carr",
+"Jerry Seinfeld",
+"Robin Williams"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Completely Normal?",
+"options": [
+"Demetri Martin",
+"Tiffany Haddish",
+"Mike Birbiglia",
+"Tom Segura"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special I Walked on the Moon?",
+"options": [
+"Brian Regan",
+"Dave Attell",
+"Jeff Foxworthy",
+"Chris Tucker"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which ventriloquist comedian's puppet characters include Walter, Peanut and Bubba J?",
+"options": [
+"Bernie Mac",
+"Jeff Dunham",
+"Dane Cook",
+"Wanda Sykes"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian wrote the Christmas song \"White Wine in the Sun\"?",
+"options": [
+"Russell Howard",
+"Kumail Nanjiani",
+"Tim Minchin",
+"Peter Kay"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's 1996 HBO special Bring the Pain made him a star?",
+"options": [
+"Tim Vine",
+"Dave Chappelle",
+"Bill Engvall",
+"Chris Rock"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Right Now?",
+"options": [
+"Aziz Ansari",
+"Don Rickles",
+"Nate Bargatze",
+"Bill Burr"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian directed the film Eighth Grade?",
+"options": [
+"Tig Notaro",
+"Bo Burnham",
+"Henny Youngman",
+"Ronny Chieng"
+],
+"answer": 1,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian did the bit that goes \"Do you have a flag?\"?",
+"options": [
+"Frankie Boyle",
+"Tim Vine",
+"Eddie Izzard",
+"Trevor Noah"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian voiced Vanellope von Schweetz in Wreck-It Ralph?",
+"options": [
+"John Oliver",
+"Chris Tucker",
+"Bill Burr",
+"Sarah Silverman"
+],
+"answer": 3,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Buried Alive?",
+"options": [
+"Aziz Ansari",
+"Anthony Jeselnik",
+"Bill Engvall",
+"Nate Bargatze"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian shouted \"Good Morning, Vietnam!\" on film?",
+"options": [
+"Denis Leary",
+"Robin Williams",
+"Dennis Miller",
+"Sam Kinison"
+],
+"answer": 1,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Cosmic Jam?",
+"options": [
+"Jim Jefferies",
+"Sarah Millican",
+"Bill Bailey",
+"Ricky Gervais"
+],
+"answer": 2,
+"d": 3,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for observational bits about airline food?",
+"options": [
+"Emo Philips",
+"Eddie Murphy",
+"Rodney Dangerfield",
+"Jerry Seinfeld"
+],
+"answer": 3,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted America's Funniest Home Videos?",
+"options": [
+"Bob Saget",
+"Kumail Nanjiani",
+"Gilbert Gottfried",
+"Bill Hicks"
+],
+"answer": 0,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian notoriously sang the national anthem at a 1990 Padres game?",
+"options": [
+"John Oliver",
+"Roseanne Barr",
+"Robin Williams",
+"Jerry Seinfeld"
+],
+"answer": 1,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Thank God for Jokes?",
+"options": [
+"Norm Macdonald",
+"Ali Wong",
+"Mike Birbiglia",
+"Lee Evans"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is nicknamed \"Mr. Warmth\" for his insult comedy?",
+"options": [
+"Mort Sahl",
+"Gabriel Iglesias",
+"Jack Benny",
+"Don Rickles"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for the KFC Famous Bowl \"failure pile\" bit?",
+"options": [
+"Patton Oswalt",
+"Ronny Chieng",
+"Jay Leno",
+"Norm Macdonald"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's stand-up specials include Weapons of Self-Destruction and Live on Broadway?",
+"options": [
+"Jerry Seinfeld",
+"Robin Williams",
+"Bill Bailey",
+"Ellen DeGeneres"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian became the first permanent guest host of The Tonight Show in 1983?",
+"options": [
+"George Lopez",
+"Garry Shandling",
+"Joan Rivers",
+"Jay Leno"
+],
+"answer": 2,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special The Tennessee Kid?",
+"options": [
+"Bert Kreischer",
+"John Oliver",
+"Bill Bailey",
+"Nate Bargatze"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian has hosted the Grammy Awards several times?",
+"options": [
+"Trevor Noah",
+"Wanda Sykes",
+"Tiffany Haddish",
+"Hannah Gadsby"
+],
+"answer": 0,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for performing barefoot at a piano?",
+"options": [
+"Bill Bailey",
+"Tim Minchin",
+"John Mulaney",
+"Milton Jones"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian co-hosted the Broadway show Oh, Hello?",
+"options": [
+"Jim Jefferies",
+"Jerrod Carmichael",
+"John Mulaney",
+"Hannah Gadsby"
+],
+"answer": 2,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian joked that cocaine is God's way of telling you that you're making too much money?",
+"options": [
+"Ellen DeGeneres",
+"Richard Pryor",
+"Gallagher",
+"Robin Williams"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for the grapefruit scene in Girls Trip?",
+"options": [
+"Tiffany Haddish",
+"Bill Burr",
+"Mike Birbiglia",
+"Harry Hill"
+],
+"answer": 0,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for the bit about the Death Star canteen?",
+"options": [
+"Peter Kay",
+"Eddie Izzard",
+"Frankie Boyle",
+"Gary Gulman"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Red, White and Screwed?",
+"options": [
+"Taylor Tomlinson",
+"Bill Engvall",
+"Lewis Black",
+"Russell Peters"
+],
+"answer": 2,
+"d": 3,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Freedumb?",
+"options": [
+"Bert Kreischer",
+"Jerrod Carmichael",
+"Jimmy Carr",
+"Jim Jefferies"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Can I Touch It?",
+"options": [
+"Whitney Cummings",
+"Sebastian Maniscalco",
+"Bert Kreischer",
+"Jack Benny"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's Netflix special The Closer drew controversy in 2021?",
+"options": [
+"Zach Galifianakis",
+"Dave Chappelle",
+"Henny Youngman",
+"Jeff Foxworthy"
+],
+"answer": 1,
+"d": 1,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the HBO special Rothaniel, which included his coming-out?",
+"options": [
+"Tim Minchin",
+"Tig Notaro",
+"Jerrod Carmichael",
+"Aziz Ansari"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian became famous with comedy songs posted on YouTube as a teenager?",
+"options": [
+"Ronny Chieng",
+"Ray Romano",
+"Norm Macdonald",
+"Bo Burnham"
+],
+"answer": 3,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Comin' in Hot?",
+"options": [
+"Jo Koy",
+"Steven Wright",
+"Trevor Noah",
+"Maria Bamford"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for surreal one-liners and Hawaiian shirts?",
+"options": [
+"Maria Bamford",
+"Milton Jones",
+"Bill Bailey",
+"Billy Connolly"
+],
+"answer": 1,
+"d": 3,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian joked about having a huge seashell collection scattered on beaches around the world?",
+"options": [
+"Bob Saget",
+"Brian Regan",
+"Steven Wright",
+"Ellen DeGeneres"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played the turban-wearing mind-reader Carnac the Magnificent?",
+"options": [
+"Gilbert Gottfried",
+"George Burns",
+"Bob Newhart",
+"Johnny Carson"
+],
+"answer": 3,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played blind white supremacist Clayton Bigsby?",
+"options": [
+"Dave Chappelle",
+"Ron White",
+"Dane Cook",
+"George Lopez"
+],
+"answer": 0,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian was a member of the Blue Collar Comedy Tour alongside Jeff Foxworthy?",
+"options": [
+"Margaret Cho",
+"Bill Engvall",
+"Russell Peters",
+"Kevin Hart"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Paper Tiger?",
+"options": [
+"Sebastian Maniscalco",
+"John Leguizamo",
+"Bill Burr",
+"Bill Engvall"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Homecoming King?",
+"options": [
+"Mike Birbiglia",
+"George Lopez",
+"Whitney Cummings",
+"Hasan Minhaj"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian voiced Dory in Finding Nemo?",
+"options": [
+"Ellen DeGeneres",
+"Henny Youngman",
+"Rita Rudner",
+"Gallagher"
+],
+"answer": 0,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Hard Knock Wife?",
+"options": [
+"Trevor Noah",
+"Ali Wong",
+"Maria Bamford",
+"Jeff Foxworthy"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian co-created the series Master of None?",
+"options": [
+"Whitney Cummings",
+"Patton Oswalt",
+"Aziz Ansari",
+"Zach Galifianakis"
+],
+"answer": 2,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Live at the Top of the Tower?",
+"options": [
+"Lee Evans",
+"Billy Connolly",
+"Jack Benny",
+"Peter Kay"
+],
+"answer": 3,
+"d": 3,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for his \"Welly Boot Song\"?",
+"options": [
+"Billy Connolly",
+"Peter Kay",
+"Dara Ó Briain",
+"Zach Galifianakis"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian joked about setting himself on fire in a 1980 incident?",
+"options": [
+"Robin Williams",
+"Richard Pryor",
+"George Carlin",
+"Dennis Miller"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian wrote and starred in the series Tramadol Nights?",
+"options": [
+"Ali Wong",
+"Tim Vine",
+"Frankie Boyle",
+"Dara Ó Briain"
+],
+"answer": 2,
+"d": 3,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the Netflix special Humanity?",
+"options": [
+"Garry Shandling",
+"Harry Hill",
+"Bill Bailey",
+"Ricky Gervais"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian delivered the Rush Hour line \"Do you understand the words that are coming out of my mouth?\"?",
+"options": [
+"Chris Tucker",
+"Marc Maron",
+"Larry the Cable Guy",
+"Dave Attell"
+],
+"answer": 0,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which clean comedian released the Netflix special Nunchucks and Flamethrowers?",
+"options": [
+"Kevin Hart",
+"Brian Regan",
+"George Lopez",
+"Joan Rivers"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for one-sided telephone routines like the Abe Lincoln press-agent call?",
+"options": [
+"Johnny Carson",
+"John Oliver",
+"Bob Newhart",
+"George Burns"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Men Are Pigs?",
+"options": [
+"Steven Wright",
+"John Mulaney",
+"Andrew Dice Clay",
+"Tim Allen"
+],
+"answer": 3,
+"d": 3,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Baby Cobra, filmed while she was pregnant?",
+"options": [
+"Ali Wong",
+"Sarah Silverman",
+"Patton Oswalt",
+"Aziz Ansari"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special What Now?, filmed in a football stadium?",
+"options": [
+"Bob Newhart",
+"Kevin Hart",
+"Steve Harvey",
+"Lewis Black"
+],
+"answer": 1,
+"d": 1,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian performed the \"Seven Words You Can Never Say on Television\" routine?",
+"options": [
+"Sam Kinison",
+"Andrew Dice Clay",
+"George Carlin",
+"Trevor Noah"
+],
+"answer": 2,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian succeeded Jon Stewart as host of The Daily Show?",
+"options": [
+"John Oliver",
+"Bill Burr",
+"Norm Macdonald",
+"Trevor Noah"
+],
+"answer": 3,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played Buckwheat and Gumby on Saturday Night Live?",
+"options": [
+"Eddie Murphy",
+"Roseanne Barr",
+"Amy Schumer",
+"Andrew Dice Clay"
+],
+"answer": 0,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's Broadway show was titled Latin History for Morons?",
+"options": [
+"John Oliver",
+"John Leguizamo",
+"Dave Chappelle",
+"Taylor Tomlinson"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian coined the line \"Treat yo self\" on Parks and Recreation?",
+"options": [
+"Hannah Gadsby",
+"Tiffany Haddish",
+"Aziz Ansari",
+"Ronny Chieng"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for Borscht Belt humor and a notorious Ed Sullivan Show feud?",
+"options": [
+"Milton Berle",
+"Lenny Bruce",
+"Bob Hope",
+"Jackie Mason"
+],
+"answer": 3,
+"d": 3,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian walked away from a reported $50 million deal in 2005?",
+"options": [
+"Dave Chappelle",
+"Bernie Mac",
+"Lenny Bruce",
+"Russell Peters"
+],
+"answer": 0,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian has a famous bit about a salt-and-pepper diner?",
+"options": [
+"Ronny Chieng",
+"John Mulaney",
+"Maria Bamford",
+"Taylor Tomlinson"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played Patrick Kuby on Breaking Bad?",
+"options": [
+"Gary Gulman",
+"Bert Kreischer",
+"Bill Burr",
+"Michael McIntyre"
+],
+"answer": 2,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian created the elderly storyteller character Mudbone?",
+"options": [
+"Rita Rudner",
+"Andrew Dice Clay",
+"Robin Williams",
+"Richard Pryor"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian wrote the memoir Born a Crime?",
+"options": [
+"Trevor Noah",
+"John Leguizamo",
+"Iliza Shlesinger",
+"Kumail Nanjiani"
+],
+"answer": 0,
+"d": 1,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian mixes musical comedy and shaggy hair?",
+"options": [
+"Dylan Moran",
+"Bill Bailey",
+"Bill Burr",
+"Jimmy Carr"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Monster?",
+"options": [
+"Norm Macdonald",
+"Lee Mack",
+"Dylan Moran",
+"Harry Hill"
+],
+"answer": 2,
+"d": 3,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special The Comeback Kid?",
+"options": [
+"Lewis Black",
+"Gary Gulman",
+"Bert Kreischer",
+"John Mulaney"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for the line \"You can't fix stupid\"?",
+"options": [
+"Ron White",
+"Whitney Cummings",
+"Zach Galifianakis",
+"Marc Maron"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Chatterbox?",
+"options": [
+"Dylan Moran",
+"Sarah Millican",
+"Joan Rivers",
+"Jimmy Carr"
+],
+"answer": 1,
+"d": 3,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for a bit about a horse in a hospital?",
+"options": [
+"Norm Macdonald",
+"Ali Wong",
+"John Mulaney",
+"Ellen DeGeneres"
+],
+"answer": 2,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for the stand-up bit about a phone call from God?",
+"options": [
+"Rita Rudner",
+"Jack Benny",
+"Jerry Seinfeld",
+"Ellen DeGeneres"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's catchphrase is \"I don't get no respect\"?",
+"options": [
+"Rodney Dangerfield",
+"Roseanne Barr",
+"Lenny Bruce",
+"Milton Berle"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian came out as gay at a 2008 same-sex marriage rally in Las Vegas?",
+"options": [
+"Russell Peters",
+"Wanda Sykes",
+"Bernie Mac",
+"Jo Koy"
+],
+"answer": 1,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Growing, filmed while pregnant?",
+"options": [
+"Ray Romano",
+"Norm Macdonald",
+"Amy Schumer",
+"Ronny Chieng"
+],
+"answer": 2,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian joked that an escalator can never break, it can only become stairs?",
+"options": [
+"Lee Evans",
+"Bernie Mac",
+"Russell Peters",
+"Mitch Hedberg"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Caligula?",
+"options": [
+"Anthony Jeselnik",
+"Sebastian Maniscalco",
+"Tom Segura",
+"Sarah Millican"
+],
+"answer": 0,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for wine, cigarettes and messy hair on stage?",
+"options": [
+"Lee Evans",
+"Dylan Moran",
+"Eddie Izzard",
+"Sarah Silverman"
+],
+"answer": 1,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian played Danny Tanner on Full House while performing very raunchy stand-up?",
+"options": [
+"Tim Allen",
+"Roseanne Barr",
+"Bob Saget",
+"George Burns"
+],
+"answer": 2,
+"d": 1,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian ran 43 marathons in 51 days in 2009?",
+"options": [
+"Harry Hill",
+"Lee Evans",
+"Jimmy Carr",
+"Eddie Izzard"
+],
+"answer": 3,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the red-carpet show Fashion Police?",
+"options": [
+"Joan Rivers",
+"George Burns",
+"Bob Newhart",
+"Tim Allen"
+],
+"answer": 0,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian joked that science doesn't know everything, otherwise it would stop?",
+"options": [
+"Harry Hill",
+"Dara Ó Briain",
+"Tim Vine",
+"Russell Howard"
+],
+"answer": 1,
+"d": 3,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which Australian comedian created the series Legit?",
+"options": [
+"Jo Koy",
+"Gilbert Gottfried",
+"Jim Jefferies",
+"John Leguizamo"
+],
+"answer": 2,
+"d": 2,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is famous for bits about Hot Pockets and bacon?",
+"options": [
+"Dave Attell",
+"Dave Chappelle",
+"Jeff Dunham",
+"Jim Gaffigan"
+],
+"answer": 3,
+"d": 1,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian performs with a glass of scotch and a cigar, telling the \"Tater Salad\" story?",
+"options": [
+"Ron White",
+"Russell Peters",
+"Ricky Gervais",
+"Zach Galifianakis"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian invented a fictional, long-suffering husband named Fang?",
+"options": [
+"Bob Hope",
+"Phyllis Diller",
+"Jay Leno",
+"Jack Benny"
+],
+"answer": 1,
+"d": 3,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian was famous for a wild hairdo, cigarette holder and cackling laugh?",
+"options": [
+"Bob Hope",
+"George Burns",
+"Phyllis Diller",
+"Cedric the Entertainer"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian is known for a machine-gun laugh and dark one-liners?",
+"options": [
+"Lee Evans",
+"Sarah Silverman",
+"Milton Jones",
+"Jimmy Carr"
+],
+"answer": 3,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian mocked euphemisms like \"shell shock\" turning into \"post-traumatic stress disorder\"?",
+"options": [
+"George Carlin",
+"Steven Wright",
+"Milton Berle",
+"Andrew Dice Clay"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the Golden Globes five times?",
+"options": [
+"Maria Bamford",
+"Ricky Gervais",
+"Peter Kay",
+"Dylan Moran"
+],
+"answer": 1,
+"d": 2,
+"section": "Hosting & Awards"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian performed the Wino and Junkie characters in his routines?",
+"options": [
+"Denis Leary",
+"Jay Leno",
+"Richard Pryor",
+"Emo Philips"
+],
+"answer": 2,
+"d": 3,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's specials include Relentless and Revelations?",
+"options": [
+"Roseanne Barr",
+"Tim Allen",
+"Michael McIntyre",
+"Bill Hicks"
+],
+"answer": 3,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian hosted the Comedy Central late-night bar-crawl series Insomniac?",
+"options": [
+"Dave Attell",
+"Dane Cook",
+"Marc Maron",
+"Chris Rock"
+],
+"answer": 0,
+"d": 3,
+"section": "TV & Film"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian released the special Killin' Them Softly?",
+"options": [
+"Tiffany Haddish",
+"Dave Chappelle",
+"Steve Harvey",
+"Brian Regan"
+],
+"answer": 1,
+"d": 2,
+"section": "Specials"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian opened bits with \"Can we talk?\"?",
+"options": [
+"Ronny Chieng",
+"Jack Benny",
+"Joan Rivers",
+"Milton Berle"
+],
+"answer": 2,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian told a famous bit about a Scotsman inventing golf?",
+"options": [
+"Bill Hicks",
+"Cedric the Entertainer",
+"Denis Leary",
+"Robin Williams"
+],
+"answer": 3,
+"d": 3,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "Stand-Up Comedy",
+"q": "Which comedian's catchphrase is \"There's only one way to find out... FIGHT!\"?",
+"options": [
+"Harry Hill",
+"Dara Ó Briain",
+"Tim Minchin",
+"Patton Oswalt"
+],
+"answer": 0,
+"d": 2,
+"section": "Catchphrases & Bits"
+},
+{
+"show": "UT Austin",
+"q": "In what year did The University of Texas at Austin first open its doors?",
+"options": [
+"1901",
+"1920",
+"1883",
+"1865"
+],
+"answer": 2,
+"d": 1,
+"fact": "UT opened on September 15, 1883.",
+"section": "History"
+},
+{
+"show": "UT Austin",
+"q": "What kind of animal is Bevo, the UT mascot?",
+"options": [
+"A Longhorn steer",
+"A Bison",
+"A Mustang",
+"An Armadillo"
+],
+"answer": 0,
+"d": 1,
+"fact": "Bevo is a Texas Longhorn steer, and the name debuted in 1916.",
+"section": "Mascot"
+},
+{
+"show": "UT Austin",
+"q": "What are the University of Texas at Austin's official colors?",
+"options": [
+"Crimson and gray",
+"Orange and blue",
+"Maroon and gold",
+"Burnt orange and white"
+],
+"answer": 3,
+"d": 1,
+"fact": "The Tower glows burnt orange after major Longhorn victories.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "Roughly how tall is the iconic UT Austin Tower?",
+"options": [
+"357 feet",
+"307 feet",
+"257 feet",
+"207 feet"
+],
+"answer": 1,
+"d": 2,
+"fact": "UT's own 'Tower by the Numbers' lists 307 feet and 27 floors.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "In what year was the 'Hook 'em Horns' hand sign introduced at UT Austin?",
+"options": [
+"1995",
+"1975",
+"1955",
+"1925"
+],
+"answer": 2,
+"d": 2,
+"fact": "Head cheerleader Harley Clark introduced the sign in 1955.",
+"section": "Traditions"
+},
+{
+"show": "UT Austin",
+"q": "'The Eyes of Texas' is sung to the tune of which song?",
+"options": [
+"I've Been Working on the Railroad",
+"Oh My Darling, Clementine",
+"Yankee Doodle",
+"Camptown Races"
+],
+"answer": 0,
+"d": 2,
+"fact": "The Eyes of Texas lyrics date to around 1903.",
+"section": "Traditions"
+},
+{
+"show": "UT Austin",
+"q": "What is the nickname of the UT Austin Longhorn Band?",
+"options": [
+"The Lone Star Legion",
+"The Tower Tooters",
+"The Burnt Orange Brigade",
+"The Showband of the Southwest"
+],
+"answer": 3,
+"d": 2,
+"fact": "Big Bertha, the band's giant bass drum, is part of the Showband.",
+"section": "Traditions"
+},
+{
+"show": "UT Austin",
+"q": "About how wide (in diameter) is Big Bertha, the UT Longhorn Band's giant bass drum?",
+"options": [
+"4 feet",
+"8 feet",
+"12 feet",
+"6 feet"
+],
+"answer": 1,
+"d": 3,
+"fact": "Big Bertha is billed as the world's largest bass drum.",
+"section": "Traditions"
+},
+{
+"show": "UT Austin",
+"q": "Which UT Austin research library houses a Gutenberg Bible?",
+"options": [
+"Perry-Castaneda Library",
+"Briscoe Center",
+"Harry Ransom Center",
+"Benson Latin American Collection"
+],
+"answer": 2,
+"d": 2,
+"fact": "The Ransom Center's copy is a complete Gutenberg Bible printed in the 1450s.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "The world's oldest surviving photograph is kept at which UT Austin institution?",
+"options": [
+"Harry Ransom Center",
+"Blanton Museum of Art",
+"Texas Union",
+"LBJ Library"
+],
+"answer": 0,
+"d": 2,
+"fact": "The photo is Nicephore Niepce's 'View from the Window at Le Gras' from about 1826.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "The replica Oval Office at the LBJ Presidential Library on the UT Austin campus is built to what scale?",
+"options": [
+"Full scale",
+"1/2 scale",
+"3/4 scale",
+"7/8 scale"
+],
+"answer": 3,
+"d": 3,
+"fact": "The replica Oval Office is built at 7/8 scale.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "Which artist designed the chapel-like building 'Austin' at UT Austin's Blanton Museum of Art?",
+"options": [
+"Andy Warhol",
+"Ellsworth Kelly",
+"Georgia O'Keeffe",
+"Mark Rothko"
+],
+"answer": 1,
+"d": 2,
+"fact": "'Austin' (2018) is the only building Ellsworth Kelly designed.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "Which group branded '13-0' onto Bevo I in a famous 1917 rivalry prank?",
+"options": [
+"Baylor students",
+"Rice students",
+"Texas A&M students",
+"Oklahoma fans"
+],
+"answer": 2,
+"d": 3,
+"fact": "A&M students branded Bevo in 1917; Texas students then altered the brand to read BEVO.",
+"section": "Mascot"
+},
+{
+"show": "UT Austin",
+"q": "Which Oscar-winning actor and UT alumnus is a professor of practice at UT Austin?",
+"options": [
+"Matthew McConaughey",
+"Dennis Quaid",
+"Tommy Lee Jones",
+"Ethan Hawke"
+],
+"answer": 0,
+"d": 1,
+"fact": "McConaughey, a UT alumnus, won Best Actor for Dallas Buyers Club.",
+"section": "People"
+},
+{
+"show": "UT Austin",
+"q": "Which First Lady earned a journalism degree from UT Austin in 1934?",
+"options": [
+"Rosalynn Carter",
+"Barbara Bush",
+"Laura Bush",
+"Lady Bird Johnson"
+],
+"answer": 3,
+"d": 2,
+"fact": "Lady Bird Johnson earned a journalism degree in 1934, after a history degree in 1933.",
+"section": "People"
+},
+{
+"show": "UT Austin",
+"q": "Which tech founder started his computer company from a UT Austin dorm room?",
+"options": [
+"Jeff Bezos",
+"Michael Dell",
+"Larry Ellison",
+"Bill Gates"
+],
+"answer": 1,
+"d": 1,
+"fact": "Michael Dell started his company in his UT dorm room in 1984.",
+"section": "People"
+},
+{
+"show": "UT Austin",
+"q": "Which Longhorn running back won the Heisman Trophy in 1977?",
+"options": [
+"Vince Young",
+"Roosevelt Leaks",
+"Earl Campbell",
+"Colt McCoy"
+],
+"answer": 2,
+"d": 2,
+"fact": "Earl Campbell was Texas's first Heisman Trophy winner.",
+"section": "Football"
+},
+{
+"show": "UT Austin",
+"q": "In the January 2006 Rose Bowl, which team did Texas beat to win the 2005 national title?",
+"options": [
+"USC",
+"Michigan",
+"Alabama",
+"Ohio State"
+],
+"answer": 0,
+"d": 2,
+"fact": "Vince Young led Texas to a 41-38 win over USC.",
+"section": "Football"
+},
+{
+"show": "UT Austin",
+"q": "How many consensus football national championships does Texas officially claim?",
+"options": [
+"2",
+"6",
+"9",
+"4"
+],
+"answer": 3,
+"d": 3,
+"fact": "Texas's consensus titles came in 1963, 1969, 1970 and 2005.",
+"section": "Football"
+},
+{
+"show": "UT Austin",
+"q": "In what year did Texas officially join the SEC?",
+"options": [
+"2022",
+"2024",
+"2016",
+"2011"
+],
+"answer": 1,
+"d": 1,
+"fact": "Texas and Oklahoma joined the SEC together on July 1, 2024.",
+"section": "Football"
+},
+{
+"show": "UT Austin",
+"q": "In what year did ESPN launch the Longhorn Network for Texas?",
+"options": [
+"2005",
+"2014",
+"2011",
+"2008"
+],
+"answer": 2,
+"d": 2,
+"fact": "The Longhorn Network launched in September 2011 under a 20-year ESPN deal.",
+"section": "Football"
+},
+{
+"show": "UT Austin",
+"q": "How many NCAA baseball national championships has Texas won (through 2026)?",
+"options": [
+"6",
+"2",
+"4",
+"8"
+],
+"answer": 0,
+"d": 3,
+"fact": "Texas won its titles in 1949, 1950, 1975, 1983, 2002 and 2005.",
+"section": "Baseball"
+},
+{
+"show": "UT Austin",
+"q": "Darrell K Royal-Texas Memorial Stadium is named in part for which legendary Texas football coach?",
+"options": [
+"Mack Brown",
+"Bear Bryant",
+"Tom Landry",
+"Darrell K Royal"
+],
+"answer": 3,
+"d": 2,
+"fact": "Royal won three national titles at Texas: 1963, 1969 and 1970.",
+"section": "Football"
+},
+{
+"show": "UT Austin",
+"q": "What was the nickname of UT's old Frank Erwin Center arena?",
+"options": [
+"The Bevo Bowl",
+"The Drum",
+"The Horn",
+"The Burnt Barn"
+],
+"answer": 1,
+"d": 2,
+"fact": "The Moody Center replaced the Erwin Center in 2022.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "What is the nickname for UT's original campus site?",
+"options": [
+"The Longhorn Lot",
+"The Orange Square",
+"The Forty Acres",
+"The Tower Tract"
+],
+"answer": 2,
+"d": 1,
+"fact": "The name comes from the roughly 40-acre plot of the original campus site.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "Which Austin creek runs along the east side of the UT campus?",
+"options": [
+"Waller Creek",
+"Barton Creek",
+"Onion Creek",
+"Shoal Creek"
+],
+"answer": 0,
+"d": 2,
+"fact": "Waller Creek is named for Edwin Waller, who laid out the city of Austin.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "Guadalupe Street along the west edge of the UT campus goes by what nickname?",
+"options": [
+"The Row",
+"The Strip",
+"The Loop",
+"The Drag"
+],
+"answer": 3,
+"d": 1,
+"fact": "The Drag is lined with shops and restaurants right beside campus.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "UT Austin operates which famous observatory in the Davis Mountains of West Texas?",
+"options": [
+"Griffith Observatory",
+"McDonald Observatory",
+"Lowell Observatory",
+"Yerkes Observatory"
+],
+"answer": 1,
+"d": 1,
+"fact": "McDonald Observatory sits near Fort Davis in West Texas.",
+"section": "Science"
+},
+{
+"show": "UT Austin",
+"q": "The Texas Advanced Computing Center (TACC) is best known for hosting what?",
+"options": [
+"A particle accelerator",
+"A wind tunnel",
+"Supercomputers",
+"A radio telescope"
+],
+"answer": 2,
+"d": 2,
+"fact": "TACC has housed supercomputers such as Stampede and Frontera.",
+"section": "Science"
+},
+{
+"show": "UT Austin",
+"q": "How many bells are in the Kniker Carillon of the UT Austin Tower?",
+"options": [
+"56",
+"72",
+"24",
+"36"
+],
+"answer": 0,
+"d": 3,
+"fact": "UT says the heaviest bell weighs 7,350 pounds and the lightest 20 pounds.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "Which architect designed the UT Tower and much of the campus plan?",
+"options": [
+"Frank Lloyd Wright",
+"Eero Saarinen",
+"I. M. Pei",
+"Paul Cret"
+],
+"answer": 3,
+"d": 3,
+"fact": "Paul Cret was a French-born architect based in Philadelphia.",
+"section": "History"
+},
+{
+"show": "UT Austin",
+"q": "When Texas wins a national championship, what does the UT Tower light up with?",
+"options": [
+"A giant longhorn",
+"A big number 1",
+"Flashing white",
+"Green lights"
+],
+"answer": 1,
+"d": 2,
+"fact": "The Tower shows a lit-up No. 1 after Texas wins a national championship.",
+"section": "Traditions"
+},
+{
+"show": "UT Austin",
+"q": "Which student service organization takes care of Bevo today?",
+"options": [
+"The Longhorn Wranglers",
+"The Texas Cowboys",
+"The Silver Spurs",
+"The Orange Jackets"
+],
+"answer": 2,
+"d": 2,
+"fact": "The Silver Spurs were formed in 1937 to care for Bevo.",
+"section": "Mascot"
+},
+{
+"show": "UT Austin",
+"q": "What is the name of UT Austin's student newspaper?",
+"options": [
+"The Daily Texan",
+"The Longhorn Times",
+"The Tower Tribune",
+"The Austin Orange"
+],
+"answer": 0,
+"d": 1,
+"fact": "The Daily Texan is a student-run newspaper.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "What is the name of UT Austin's yearbook?",
+"options": [
+"The Longhorn",
+"The Bluebonnet",
+"The Tower",
+"The Cactus"
+],
+"answer": 3,
+"d": 2,
+"fact": "The first Cactus yearbook was published in 1894.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "What is UT's alumni association called?",
+"options": [
+"Longhorn Legacy",
+"Texas Exes",
+"The Burnt Orange Club",
+"Forty Acres Alumni"
+],
+"answer": 1,
+"d": 1,
+"fact": "Texas Exes is the alumni association of UT Austin.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "Which legendary CBS news anchor attended UT Austin?",
+"options": [
+"Dan Rather",
+"Tom Brokaw",
+"Walter Cronkite",
+"Peter Jennings"
+],
+"answer": 2,
+"d": 2,
+"fact": "Cronkite worked at The Daily Texan before leaving UT in 1935 to pursue journalism.",
+"section": "People"
+},
+{
+"show": "UT Austin",
+"q": "Which 'Charlie's Angels' star attended UT Austin?",
+"options": [
+"Farrah Fawcett",
+"Kate Jackson",
+"Cheryl Ladd",
+"Jaclyn Smith"
+],
+"answer": 0,
+"d": 2,
+"fact": "Farrah Fawcett attended UT Austin before becoming a star of Charlie's Angels.",
+"section": "People"
+},
+{
+"show": "UT Austin",
+"q": "The Texas State Capitol, just south of the UT Austin campus, is how tall compared to the U.S. Capitol?",
+"options": [
+"Shorter",
+"The exact same height",
+"Half as tall",
+"Taller"
+],
+"answer": 3,
+"d": 3,
+"fact": "The Texas Capitol is about 302.64 feet tall versus about 288 feet for the U.S. Capitol.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "Which of these is UT Austin's well-known slogan?",
+"options": [
+"Eyes on the horizon.",
+"What starts here changes the world.",
+"Forty acres of greatness.",
+"Think big, Texas."
+],
+"answer": 1,
+"d": 1,
+"fact": "'What starts here changes the world' is UT Austin's well-known slogan.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "Which giant pterosaur has a replica hanging in UT's Texas Science & Natural History Museum?",
+"options": [
+"Rhamphorhynchus",
+"Pteranodon",
+"Quetzalcoatlus",
+"Dimorphodon"
+],
+"answer": 2,
+"d": 3,
+"fact": "Quetzalcoatlus fossils were found in Big Bend National Park.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "In what year did Bevo I first appear as the UT mascot?",
+"options": [
+"1916",
+"1927",
+"1893",
+"1948"
+],
+"answer": 0,
+"d": 3,
+"fact": "Bevo I first appeared at the Thanksgiving 1916 game against Texas A&M.",
+"section": "Mascot"
+},
+{
+"show": "UT Austin",
+"q": "Who was the head cheerleader credited with creating the 'Hook 'em' sign?",
+"options": [
+"Darrell Royal",
+"Hal Sutton",
+"Frank Erwin",
+"Harley Clark"
+],
+"answer": 3,
+"d": 2,
+"fact": "Harley Clark made the sign at a 1955 pep rally.",
+"section": "Traditions"
+},
+{
+"show": "UT Austin",
+"q": "In what year did Texas Memorial Stadium first open?",
+"options": [
+"1903",
+"1924",
+"1950",
+"1937"
+],
+"answer": 1,
+"d": 3,
+"fact": "The stadium was dedicated in 1924 as a memorial to Texans who died in World War I.",
+"section": "Football"
+},
+{
+"show": "UT Austin",
+"q": "How many floors does the UT Austin Tower have?",
+"options": [
+"40",
+"17",
+"27",
+"12"
+],
+"answer": 2,
+"d": 3,
+"fact": "UT lists 27 floors in the Tower, plus extra stairs to the clock and bells.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "The Littlefield Fountain on the UT campus honors those who served in which conflict?",
+"options": [
+"World War I",
+"World War II",
+"The Korean War",
+"The Civil War"
+],
+"answer": 0,
+"d": 2,
+"fact": "The fountain, dedicated in 1933, honors those who served in World War I.",
+"section": "History"
+},
+{
+"show": "UT Austin",
+"q": "What does 'PCL' stand for at UT Austin?",
+"options": [
+"Peterson Collection Library",
+"Presidential Campus Library",
+"Public Campus Library",
+"Perry-Castaneda Library"
+],
+"answer": 3,
+"d": 1,
+"fact": "PCL is the library on campus that most students just call 'PCL'.",
+"section": "Campus"
+},
+{
+"show": "UT Austin",
+"q": "The Texas-Oklahoma football rivalry game awards which trophy?",
+"options": [
+"The Floyd of Rosedale",
+"The Golden Hat",
+"The Iron Skillet",
+"The Old Oaken Bucket"
+],
+"answer": 1,
+"d": 1,
+"fact": "The Golden Hat goes to the winner of the Texas-Oklahoma Red River Rivalry.",
+"section": "Football"
+},
+{
+"show": "UT Austin",
+"q": "The UT Tower is part of which campus building?",
+"options": [
+"Gregory Gym",
+"The Texas Union",
+"The Main Building",
+"Hogg Auditorium"
+],
+"answer": 2,
+"d": 1,
+"fact": "The Tower rises from the Main Building.",
+"section": "Campus"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which fruit is nicknamed the \"king of fruits\" in Southeast Asia?",
+"options": [
+"Rambutan",
+"Durian",
+"Lychee",
+"Papaya"
+],
+"answer": 1,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Botanically, a tomato is classified as a:",
+"options": [
+"Root",
+"Berry",
+"Tuber",
+"Leaf"
+],
+"answer": 1,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which vegetable is the main ingredient in traditional sauerkraut?",
+"options": [
+"Cucumber",
+"Turnip",
+"Radish",
+"Cabbage"
+],
+"answer": 3,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which fruit has its seeds on the outside?",
+"options": [
+"Strawberry",
+"Raspberry",
+"Blueberry",
+"Cherry"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Citrus fruits are especially famous for being a good source of which vitamin?",
+"options": [
+"Vitamin D",
+"Vitamin B12",
+"Vitamin C",
+"Vitamin K"
+],
+"answer": 2,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which vegetable is traditionally used to make kimchi?",
+"options": [
+"Iceberg lettuce",
+"Napa cabbage",
+"Kale",
+"Spinach"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which country is the world's largest producer of mangoes?",
+"options": [
+"Brazil",
+"India",
+"Mexico",
+"Thailand"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Guacamole is made primarily from which fruit?",
+"options": [
+"Cucumber",
+"Avocado",
+"Zucchini",
+"Honeydew melon"
+],
+"answer": 1,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which vegetable gives traditional borscht its deep red color?",
+"options": [
+"Radishes",
+"Red onions",
+"Beets",
+"Turnips"
+],
+"answer": 2,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which of these is a cruciferous vegetable?",
+"options": [
+"Carrot",
+"Broccoli",
+"Onion",
+"Potato"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "What is a dried plum called?",
+"options": [
+"Raisin",
+"Currant",
+"Prune",
+"Sultana"
+],
+"answer": 2,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Raisins are made by drying which fruit?",
+"options": [
+"Grapes",
+"Plums",
+"Cherries",
+"Figs"
+],
+"answer": 0,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which vegetable is most likely to make you cry when you cut it?",
+"options": [
+"Garlic",
+"Onion",
+"Carrot",
+"Celery"
+],
+"answer": 1,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Pumpkins belong to which plant family?",
+"options": [
+"Nightshade family",
+"Gourd family",
+"Mustard family",
+"Legume family"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Potatoes belong to which plant family?",
+"options": [
+"Nightshade family",
+"Mint family",
+"Grass family",
+"Rose family"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which fruit is the primary ingredient in most wine?",
+"options": [
+"Plums",
+"Grapes",
+"Pears",
+"Apricots"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which fruit is famously linked to the story of Isaac Newton and gravity?",
+"options": [
+"Pear",
+"Orange",
+"Apple",
+"Peach"
+],
+"answer": 2,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Edamame are the immature pods of which plant?",
+"options": [
+"Soybean",
+"Chickpea",
+"Lima bean",
+"Peanut"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "French fries are traditionally made from which vegetable?",
+"options": [
+"Potato",
+"Parsnip",
+"Cassava",
+"Turnip"
+],
+"answer": 0,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which compound gives chili peppers their heat?",
+"options": [
+"Piperine",
+"Allicin",
+"Curcumin",
+"Capsaicin"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "The Scoville scale measures what?",
+"options": [
+"Sweetness of fruit",
+"Acidity of juice",
+"Ripeness of produce",
+"Spiciness of peppers"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which pepper has a Scoville rating of zero?",
+"options": [
+"Jalapeño",
+"Habanero",
+"Bell pepper",
+"Serrano"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which fruit is about 25% air, which is why it floats in water?",
+"options": [
+"Grape",
+"Plum",
+"Fig",
+"Apple"
+],
+"answer": 3,
+"d": 3,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "The kiwi fruit originated in which country?",
+"options": [
+"New Zealand",
+"Australia",
+"China",
+"Chile"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Kiwi fruit was originally known as the:",
+"options": [
+"Lychee melon",
+"Persimmon plum",
+"Chinese gooseberry",
+"Dragon berry"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Plantains are most closely related to which fruit?",
+"options": [
+"Banana",
+"Pineapple",
+"Papaya",
+"Mango"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Before pumpkins, the original Irish jack-o'-lanterns were carved from which vegetable?",
+"options": [
+"Pumpkins",
+"Squash",
+"Turnips",
+"Beets"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which leafy green is Popeye famous for eating?",
+"options": [
+"Spinach",
+"Kale",
+"Lettuce",
+"Collard greens"
+],
+"answer": 0,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which vegetable is used in the snack \"ants on a log\"?",
+"options": [
+"Celery",
+"Cucumber",
+"Carrot",
+"Zucchini"
+],
+"answer": 0,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Granny Smith and Fuji are varieties of which fruit?",
+"options": [
+"Pear",
+"Peach",
+"Apple",
+"Plum"
+],
+"answer": 2,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which fruit is notably high in pectin, the substance used to set jams?",
+"options": [
+"Banana",
+"Apple",
+"Watermelon",
+"Cucumber"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which part of the rhubarb plant is the part people eat?",
+"options": [
+"Leaves",
+"Stalks",
+"Roots",
+"Seeds"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which part of the broccoli plant do we mainly eat?",
+"options": [
+"Roots",
+"Seeds",
+"Flower buds",
+"Fruit"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "An artichoke is the edible portion of which part of a thistle-like plant?",
+"options": [
+"Root",
+"Seed pod",
+"Stem",
+"Flower bud"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which fruit is the controversial topping on a Hawaiian pizza?",
+"options": [
+"Pineapple",
+"Mango",
+"Papaya",
+"Coconut"
+],
+"answer": 0,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Pineapples are native to which region?",
+"options": [
+"Hawaii",
+"Southeast Asia",
+"South America",
+"Africa"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which is the largest fruit that grows on a tree?",
+"options": [
+"Coconut",
+"Papaya",
+"Jackfruit",
+"Pomelo"
+],
+"answer": 2,
+"d": 3,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Botanically, a banana is classified as a:",
+"options": [
+"Drupe",
+"Nut",
+"Pome",
+"Berry"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which of these is NOT a true berry, botanically?",
+"options": [
+"Banana",
+"Strawberry",
+"Grape",
+"Tomato"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Sweet oranges are a hybrid of a pomelo and which other citrus?",
+"options": [
+"Citron",
+"Mandarin",
+"Lime",
+"Yuzu"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Why is the grapefruit called a grapefruit?",
+"options": [
+"It grows in clusters like grapes",
+"It tastes like grape",
+"It was first grown in vineyards",
+"It is a hybrid with grapes"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Limoncello, the Italian liqueur, is made from the peels of which fruit?",
+"options": [
+"Limes",
+"Oranges",
+"Grapefruit",
+"Lemons"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Key lime pie is most closely associated with which U.S. state?",
+"options": [
+"California",
+"Hawaii",
+"Florida",
+"Texas"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which of these fruits is a drupe (a stone fruit)?",
+"options": [
+"Peach",
+"Banana",
+"Strawberry",
+"Grape"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Maraschino garnishes for cocktails and sundaes are made from which fruit?",
+"options": [
+"Plums",
+"Grapes",
+"Cranberries",
+"Cherries"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "The potato was first domesticated in the Andes region of which country?",
+"options": [
+"Ireland",
+"Peru",
+"Germany",
+"Russia"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "The sweet potato is more closely related to which plant?",
+"options": [
+"Potato",
+"Carrot",
+"Yam",
+"Morning glory"
+],
+"answer": 3,
+"d": 3,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Before orange carrots became popular, most carrots were:",
+"options": [
+"Bright green",
+"Black",
+"Pink",
+"Purple or yellow"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "The beta-carotene in carrots is converted by the body into which vitamin?",
+"options": [
+"Vitamin A",
+"Vitamin C",
+"Vitamin E",
+"Vitamin B6"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Hummus is traditionally made primarily from which legume?",
+"options": [
+"Lentils",
+"Black beans",
+"Chickpeas",
+"Soybeans"
+],
+"answer": 2,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "What is the British name for an eggplant?",
+"options": [
+"Marrow",
+"Aubergine",
+"Courgette",
+"Gourd"
+],
+"answer": 1,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "What do people in the UK call zucchini?",
+"options": [
+"Cucumber",
+"Aubergine",
+"Courgette",
+"Leek"
+],
+"answer": 2,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which leafy green is called \"rocket\" in the UK?",
+"options": [
+"Radicchio",
+"Endive",
+"Arugula",
+"Watercress"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Brussels sprouts are closely related to which vegetable?",
+"options": [
+"Lettuce",
+"Leek",
+"Onion",
+"Cabbage"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Broccoli, cauliflower, kale, and cabbage are all cultivars of which species?",
+"options": [
+"Brassica oleracea",
+"Allium cepa",
+"Solanum tuberosum",
+"Daucus carota"
+],
+"answer": 0,
+"d": 3,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Real wasabi is most closely related to which plant?",
+"options": [
+"Horseradish",
+"Chili pepper",
+"Ginger",
+"Garlic"
+],
+"answer": 0,
+"d": 3,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which gas released by ripe fruit helps speed up the ripening of nearby fruit?",
+"options": [
+"Ethylene",
+"Oxygen",
+"Methane",
+"Nitrogen"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Avocados are native to which region?",
+"options": [
+"Southeast Asia",
+"Africa",
+"The Mediterranean",
+"Mexico and Central America"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Botanically, an olive is a:",
+"options": [
+"Nut",
+"Legume",
+"Pome",
+"Drupe"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which fruit is actually an inverted cluster of tiny flowers?",
+"options": [
+"Fig",
+"Pear",
+"Date",
+"Plum"
+],
+"answer": 0,
+"d": 3,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Dates grow on which type of plant?",
+"options": [
+"Shrubs",
+"Vines",
+"Cacti",
+"Palm trees"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which fruit contains juicy seed coverings called arils?",
+"options": [
+"Pomegranate",
+"Fig",
+"Kiwi",
+"Cherry"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Perry is an alcoholic drink made from fermented:",
+"options": [
+"Apples",
+"Plums",
+"Peaches",
+"Pears"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which fruit is the national fruit of Jamaica?",
+"options": [
+"Mango",
+"Guava",
+"Papaya",
+"Ackee"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "The Hawaiian dish poi is made from which root?",
+"options": [
+"Cassava",
+"Yam",
+"Sweet potato",
+"Taro"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Tapioca is made from which plant?",
+"options": [
+"Taro",
+"Corn",
+"Cassava",
+"Rice"
+],
+"answer": 2,
+"d": 3,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Daikon is a large variety of which vegetable?",
+"options": [
+"Radish",
+"Turnip",
+"Carrot",
+"Parsnip"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which fruit was once called the \"love apple\" in parts of Europe?",
+"options": [
+"Pomegranate",
+"Tomato",
+"Strawberry",
+"Cherry"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which antioxidant pigment gives tomatoes their red color?",
+"options": [
+"Chlorophyll",
+"Lycopene",
+"Anthocyanin",
+"Curcumin"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which pigment gives blueberries their blue-purple color?",
+"options": [
+"Lycopene",
+"Anthocyanin",
+"Chlorophyll",
+"Xanthophyll"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which is the largest citrus fruit?",
+"options": [
+"Grapefruit",
+"Tangerine",
+"Pomelo",
+"Lemon"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which citrus fruit is a cross between a mandarin and a pomelo or grapefruit?",
+"options": [
+"Kumquat",
+"Citron",
+"Lime",
+"Tangelo"
+],
+"answer": 3,
+"d": 3,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Kumquats are usually eaten:",
+"options": [
+"Peeled, like an orange",
+"Whole, including the peel",
+"Only the seeds",
+"Only dried"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Bing is a popular variety of which fruit?",
+"options": [
+"Plum",
+"Cherry",
+"Apple",
+"Grape"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Bartlett is a popular variety of which fruit?",
+"options": [
+"Pear",
+"Apple",
+"Peach",
+"Plum"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Yukon Gold is a variety of which crop?",
+"options": [
+"Apple",
+"Pear",
+"Squash",
+"Potato"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Valencia is a popular variety of which fruit?",
+"options": [
+"Orange",
+"Lemon",
+"Pear",
+"Peach"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "The classic French flavor base mirepoix is made of onion, carrot, and what?",
+"options": [
+"Garlic",
+"Celery",
+"Bell pepper",
+"Tomato"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Salsa verde in Mexican cuisine is traditionally made with which fruit?",
+"options": [
+"Kiwis",
+"Green grapes",
+"Tomatillos",
+"Cucumbers"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which U.S. state is most famous for its potatoes?",
+"options": [
+"Florida",
+"Oregon",
+"Idaho",
+"Georgia"
+],
+"answer": 2,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which country is the world's largest exporter of bananas?",
+"options": [
+"India",
+"Ecuador",
+"China",
+"Brazil"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "The Cavendish is the most common commercial variety of which fruit?",
+"options": [
+"Mango",
+"Papaya",
+"Banana",
+"Pear"
+],
+"answer": 2,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which smelly fruit is banned on public transport and in many hotels in Singapore?",
+"options": [
+"Durian",
+"Jackfruit",
+"Lychee",
+"Mangosteen"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Cranberries are commonly harvested by:",
+"options": [
+"Climbing tall ladders",
+"Flooding the bog so the berries float",
+"Digging them up",
+"Shaking them from trees"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Botanically, peanuts are:",
+"options": [
+"True nuts",
+"Roots",
+"Berries",
+"Legumes"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which of these is a legume?",
+"options": [
+"Carrots",
+"Beets",
+"Turnips",
+"Peas"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "The small buds on a potato that can sprout new plants are called:",
+"options": [
+"Eyes",
+"Nodes",
+"Seeds",
+"Roots"
+],
+"answer": 0,
+"d": 3,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Gazpacho, the cold Spanish soup, is based primarily on which fruit or vegetable?",
+"options": [
+"Beets",
+"Cabbage",
+"Carrots",
+"Tomatoes"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which lettuce is traditionally used in a Caesar salad?",
+"options": [
+"Romaine",
+"Iceberg",
+"Arugula",
+"Butterhead"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Gherkins are small pickled:",
+"options": [
+"Zucchini",
+"Okra",
+"Green beans",
+"Cucumbers"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Traditional British marmalade is classically made from:",
+"options": [
+"Navel oranges",
+"Blood oranges",
+"Bitter Seville oranges",
+"Clementines"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Okra is sometimes called:",
+"options": [
+"King's fingers",
+"Queen's buttons",
+"Lady's fingers",
+"Farmer's thumbs"
+],
+"answer": 2,
+"d": 3,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Okra is commonly used to thicken which Louisiana dish?",
+"options": [
+"Gumbo",
+"Paella",
+"Ratatouille",
+"Minestrone"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Which leafy green is especially rich in vitamin K?",
+"options": [
+"Kale",
+"Iceberg lettuce",
+"Cucumber",
+"Corn"
+],
+"answer": 0,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Hass is the most common variety of which fruit?",
+"options": [
+"Mango",
+"Avocado",
+"Pear",
+"Fig"
+],
+"answer": 1,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Papain, an enzyme used as a meat tenderizer, comes from which fruit?",
+"options": [
+"Pineapple",
+"Kiwi",
+"Papaya",
+"Mango"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Bromelain, an enzyme that can break down proteins, is found in which fruit?",
+"options": [
+"Banana",
+"Grape",
+"Cherry",
+"Pineapple"
+],
+"answer": 3,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Baba ghanoush is a dip made from roasted:",
+"options": [
+"Zucchini",
+"Chickpeas",
+"Eggplant",
+"Beets"
+],
+"answer": 2,
+"d": 2,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "Lychees are native to southern:",
+"options": [
+"Brazil",
+"Mexico",
+"Kenya",
+"China"
+],
+"answer": 3,
+"d": 3,
+"section": "FRUITS & VEGETABLES"
+},
+{
+"show": "Fruits & Veggies",
+"q": "The Great Irish Famine of the 1840s was caused by blight on which crop?",
+"options": [
+"Wheat",
+"Potato",
+"Corn",
+"Turnip"
+],
+"answer": 1,
+"d": 1,
+"section": "FRUITS & VEGETABLES"
 }
 ]

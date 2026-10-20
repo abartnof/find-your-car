@@ -1,0 +1,14 @@
+# UT Austin review log
+- Q45 (student enrollment): dropped, time-sensitive.
+- All kept: dropped `n`, section set to short labels, d and fact added, options re-shuffled (answers spread 0-3).
+- Verified unchanged: 1883 opening, Tower 307 ft / 27 floors, 56 carillon bells, Hook 'em 1955 (Harley Clark), SEC 2024, LHN 2011, Texas baseball titles = 6 (2026 CWS won by Oklahoma, Texas eliminated), Capitol 302.64 ft vs US Capitol 288 ft, Cactus yearbook est. 1894.
+- Q3,4,5,7,8,10,11,12,14,16,18,21,24,26-28,40,41,43,44,46,47,49: reworded to be self-contained.
+- Q13: added year (1917) to the A&M brand prank.
+- Q14: added "and UT alumnus" to Oscar-winning actor wording.
+- Q15: reworded to "journalism degree in 1934" (she also earned a 1933 history degree, so "bachelor's in 1934" was ambiguous).
+- Q19: "claims" -> "consensus ... officially claims" (4 titles: 1963, 1969, 1970, 2005).
+- Q22: added "(through 2026)" since the count is time-bound; still 6.
+- Q23/Q44: stadium name corrected to "Darrell K Royal-Texas Memorial Stadium", "named in part for".
+- Q33: "today" added (Silver Spurs, formed 1937).
+- Q41: pterosaur replica attributed to the Texas Science & Natural History Museum (formerly Texas Memorial Museum).
+- Q39: question made explicit; Capitol is taller (302.64 vs 288 ft).

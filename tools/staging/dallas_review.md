@@ -1,0 +1,200 @@
+- Q0 FIXED: fact simplified (dropped unverified birthplace)
+- Q1 DROPPED: ambiguous: name origin is debated
+- Q2 FIXED: fact shortened
+- Q3 FIXED: fact shortened
+- Q4 kept: verified, kept
+- Q5 kept: verified, kept
+- Q6 kept: verified, kept
+- Q7 FIXED: fact changed to avoid duplicate with Dealey Plaza question
+- Q8 kept: verified, kept
+- Q9 kept: verified, kept
+- Q10 kept: verified, kept
+- Q11 FIXED: fact reworded
+- Q12 kept: verified, kept
+- Q13 kept: verified, kept
+- Q14 FIXED: fixed odd distractor (Pattillo Higgins/Spindletop is a different oilfield)
+- Q15 FIXED: replaced ambiguous 'A World's Fair' distractor
+- Q16 kept: verified, kept
+- Q17 kept: verified, kept
+- Q18 FIXED: reworded
+- Q19 kept: verified, kept
+- Q20 FIXED: question was mangled; rewrote with state options
+- Q21 kept: verified, kept
+- Q22 FIXED: fact softened (nickname predates song)
+- Q23 FIXED: clarified question/options
+- Q24 FIXED: fact corrected (Joe Thompson era, renamed 1946)
+- Q25 kept: verified, kept
+- Q26 FIXED: fact changed to avoid duplicate with DFW size question
+- Q27 kept: verified, kept
+- Q28 kept: verified, kept
+- Q29 kept: verified, kept
+- Q30 kept: verified, kept
+- Q31 kept: verified, kept
+- Q32 FIXED: reworded for clarity
+- Q33 FIXED: fact: dressmaker -> clothing manufacturer
+- Q34 kept: verified, kept
+- Q35 kept: verified, kept
+- Q36 kept: verified, kept
+- Q37 kept: verified, kept
+- Q38 kept: verified, kept
+- Q39 kept: verified, kept
+- Q40 FIXED: fact changed (removed giveaway for cenotaph meaning)
+- Q41 FIXED: reworded
+- Q42 kept: verified, kept
+- Q43 kept: verified, kept
+- Q44 DROPPED: duplicate/filler (cenotaph definition)
+- Q45 FIXED: fact reworded (removed time-sensitive restaurant claim)
+- Q46 FIXED: removed time-sensitive 'is the tallest'
+- Q47 kept: verified, kept
+- Q48 FIXED: fact changed to avoid duplicate with Pegasus-year question
+- Q49 FIXED: fact changed (removed RoboCop giveaway for later question)
+- Q50 kept: verified, kept
+- Q51 FIXED: question grammar fixed
+- Q52 kept: verified, kept
+- Q53 kept: verified, kept
+- Q54 kept: verified, kept
+- Q55 kept: verified, kept
+- Q56 kept: verified, kept
+- Q57 kept: verified, kept
+- Q58 FIXED: reworded to be timeless
+- Q59 FIXED: fact corrected (unverified opening year removed)
+- Q60 FIXED: reworded
+- Q61 kept: verified, kept
+- Q62 kept: verified, kept
+- Q63 FIXED: fact corrected (tallest-Ferris claim time-sensitive)
+- Q64 kept: verified, kept
+- Q65 kept: verified, kept
+- Q66 kept: verified, kept
+- Q67 FIXED: fact enhanced
+- Q68 kept: verified, kept
+- Q69 DROPPED: ambiguous/redundant with Trade Mart question
+- Q70 kept: verified, kept
+- Q71 FIXED: fact changed
+- Q72 kept: verified, kept
+- Q73 kept: verified, kept
+- Q74 kept: verified, kept
+- Q75 kept: verified, kept
+- Q76 kept: verified, kept
+- Q77 kept: verified, kept
+- Q78 kept: verified, kept
+- Q79 kept: verified, kept
+- Q80 kept: verified, kept
+- Q81 kept: verified, kept
+- Q82 kept: verified, kept
+- Q83 kept: verified, kept
+- Q84 kept: verified, kept
+- Q85 kept: verified, kept
+- Q86 FIXED: removed 'current'
+- Q87 kept: verified, kept
+- Q88 kept: verified, kept
+- Q89 kept: verified, kept
+- Q90 kept: verified, kept
+- Q91 kept: verified, kept
+- Q92 kept: verified, kept
+- Q93 kept: verified, kept
+- Q94 kept: verified, kept
+- Q95 kept: verified, kept
+- Q96 FIXED: clarified odd option
+- Q97 FIXED: removed time-sensitive 'only'
+- Q98 FIXED: removed time-sensitive record claim
+- Q99 kept: verified, kept
+- Q100 FIXED: fact replaced with verified record
+- Q101 FIXED: reworded
+- Q102 FIXED: fact corrected (violations were pay-for-play)
+- Q103 kept: verified, kept
+- Q104 kept: verified, kept
+- Q105 kept: verified, kept
+- Q106 kept: verified, kept
+- Q107 kept: verified, kept
+- Q108 kept: verified, kept
+- Q109 kept: verified, kept
+- Q110 kept: verified, kept
+- Q111 kept: verified, kept
+- Q112 kept: verified, kept
+- Q113 FIXED: fact replaced
+- Q114 kept: verified, kept
+- Q115 kept: verified, kept
+- Q116 FIXED: clarified date
+- Q117 kept: verified, kept
+- Q118 kept: verified, kept
+- Q119 DROPPED: duplicate of 2011 Finals question
+- Q120 kept: verified, kept
+- Q121 kept: verified, kept
+- Q122 kept: verified, kept
+- Q123 kept: verified, kept
+- Q124 FIXED: first-ever draft pick ambiguous (Meredith rights 1960); reworded to unambiguous
+- Q125 kept: verified, kept
+- Q126 kept: verified, kept
+- Q127 kept: verified, kept
+- Q128 kept: verified, kept
+- Q129 kept: verified, kept
+- Q130 FIXED: fact corrected
+- Q131 kept: verified, kept
+- Q132 FIXED: fact corrected (first location was a former warehouse, not Market Center)
+- Q133 kept: verified, kept
+- Q134 FIXED: fact fine; Waco clarification
+- Q135 FIXED: fact corrected to verified winners
+- Q136 kept: verified, kept
+- Q137 kept: verified, kept
+- Q138 kept: verified, kept
+- Q139 kept: verified, kept
+- Q140 FIXED: reworded (born in Dallas, raised in Oak Cliff)
+- Q141 kept: verified, kept
+- Q142 kept: verified, kept
+- Q143 kept: verified, kept
+- Q144 kept: verified, kept
+- Q145 kept: verified, kept
+- Q146 kept: verified, kept
+- Q147 kept: verified, kept
+- Q148 kept: verified, kept
+- Q149 kept: verified, kept
+- Q150 kept: verified, kept
+- Q151 kept: verified, kept
+- Q152 kept: verified, kept
+- Q153 kept: verified, kept
+- Q154 kept: verified, kept
+- Q155 FIXED: wrong/unverified: filming site was Dallas Market Center (Great Hall); changed answer
+- Q156 kept: verified, kept
+- Q157 FIXED: reworded (formed as a quartet)
+- Q158 kept: verified, kept
+- Q159 kept: verified, kept
+- Q160 DROPPED: duplicate of Kalita Humphreys question
+- Q161 kept: verified, kept
+- Q162 kept: verified, kept
+- Q163 kept: verified, kept
+- Q164 kept: verified, kept
+- Q165 kept: verified, kept
+- Q166 kept: verified, kept
+- Q167 kept: verified, kept
+- Q168 kept: verified, kept
+- Q169 kept: verified, kept
+- Q170 FIXED: reworded
+- Q171 kept: verified, kept
+- Q172 kept: verified, kept
+- Q173 kept: verified, kept
+- Q174 kept: verified, kept
+- Q175 FIXED: fact softened
+- Q176 kept: verified, kept
+- Q177 kept: verified, kept
+- Q178 kept: verified, kept
+- Q179 kept: verified, kept
+- Q180 DROPPED: time-sensitive/disputed 'longest light rail' claim; weak options
+- Q181 kept: verified, kept
+- Q182 kept: verified, kept
+- Q183 FIXED: question mangled; rewrote
+- Q184 FIXED: fixed 'which-largest' grammar
+- Q185 FIXED: two correct options (Central Park also smaller); rewrote
+- Q186 FIXED: WRONG ANSWER: 2011 had 71 days (NWS record), not 40
+- Q187 kept: verified, kept
+- Q188 kept: verified, kept
+- Q189 kept: verified, kept
+- Q190 kept: verified, kept
+- Q191 kept: verified, kept
+- Q192 kept: verified, kept
+- Q193 FIXED: 'Electric' was also true; rewrote
+- Q194 kept: verified, kept
+- Q195 kept: verified, kept
+- Q196 kept: verified, kept
+- Q197 kept: verified, kept
+- Q198 kept: verified, kept
+- Q199 kept: verified, kept

@@ -1,0 +1,2718 @@
+[
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Who founded Dallas in 1841 at a crossing of the Trinity River?",
+  "options": [
+   "John Neely Bryan",
+   "Mirabeau B. Lamar",
+   "Sam Houston",
+   "Stephen F. Austin"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "John Neely Bryan built a cabin on the Trinity River's east bank and is credited as the city's founder."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "In 1855, European settlers founded La Réunion near Dallas. What was it?",
+  "options": [
+   "A cattle-drive depot",
+   "A utopian socialist colony",
+   "A frontier army fort",
+   "A Spanish mission"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "The mostly French, Belgian and Swiss colonists followed Charles Fourier's ideas, and the colony folded within a few years."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "In what year did a great fire destroy much of Dallas's downtown square?",
+  "options": [
+   "1893",
+   "1871",
+   "1860",
+   "1849"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "The July 1860 fire was blamed on prairie-fire panic and rumored abolitionist arson, leading to harsh reprisals."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Which railroad reached Dallas in 1872, followed a year later by the Texas and Pacific, making the city a rail crossroads?",
+  "options": [
+   "Santa Fe",
+   "Union Pacific",
+   "Katy Railroad",
+   "Houston and Texas Central"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "The crossing of two rail lines turned Dallas from a small town into a commercial hub."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Dallas grew rich in the late 1800s as a major inland market for which crop?",
+  "options": [
+   "Cotton",
+   "Tobacco",
+   "Rice",
+   "Sugar cane"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "Dallas became one of the largest inland cotton markets in the world, and its banks and insurance firms grew alongside it."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "The State Fair of Texas, held at Fair Park, first opened in which year?",
+  "options": [
+   "1936",
+   "1886",
+   "1912",
+   "1856"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "It is among the largest annual state fairs in the United States."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Which newspaper, founded in 1885, is Dallas's major daily?",
+  "options": [
+   "The Dallas Times Herald",
+   "The Texas Tribune",
+   "The Dallas Morning News",
+   "The Dallas Gazette"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "It was launched by A.H. Belo and Company, and its later publisher George Dealey became a major civic booster."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "In what year was the department store Neiman Marcus founded in Dallas?",
+  "options": [
+   "1925",
+   "1887",
+   "1946",
+   "1907"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "It was founded by Herbert Marcus, his sister Carrie Marcus Neiman and her husband Al Neiman."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "The Adolphus Hotel, opened in 1912, was built by a man famous for what product?",
+  "options": [
+   "Budweiser beer",
+   "Dr Pepper",
+   "Colt revolvers",
+   "Stetson hats"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "Adolphus Busch, the St. Louis brewer, built it, and it is still a downtown landmark."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "The Dallas neighborhood of Oak Cliff was annexed by Dallas in which year?",
+  "options": [
+   "1948",
+   "1903",
+   "1925",
+   "1873"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "Oak Cliff was once its own city, and today it is home to the Bishop Arts District."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Highland Park Village, opened in 1931, is notable as one of the first of what in the United States?",
+  "options": [
+   "Drive-in theaters",
+   "Skyscrapers",
+   "Planned shopping centers",
+   "Public libraries"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "Its Spanish Revival design made it a model for the modern shopping center."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "The Federal Reserve Bank of Dallas serves which numbered Federal Reserve District?",
+  "options": [
+   "Twelfth",
+   "Fourth",
+   "Seventh",
+   "Eleventh"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Dallas was chosen as one of 12 cities for a Reserve Bank in 1914."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Dallas Love Field is named for Moss L. Love, who was what?",
+  "options": [
+   "An Army aviator killed in a 1913 crash",
+   "A Texas Ranger",
+   "A Dallas mayor",
+   "A cotton broker"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "Love Field opened as an Army training airfield in 1917."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Which wildcatter's 1930 East Texas oil strike, whose leases H.L. Hunt then bought, helped make Dallas an oil-finance center?",
+  "options": [
+   "Howard Hughes",
+   "Dad Joiner",
+   "Sid Richardson",
+   "J. Paul Getty"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "Hunt made a fortune from the field and based his empire in Dallas."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Fair Park hosted what major event in 1936?",
+  "options": [
+   "The Olympic Trials",
+   "The Pan-American Exposition",
+   "The Texas Centennial Exposition",
+   "The Democratic National Convention"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "Its Art Deco buildings from that event are the largest collection of 1930s exposition architecture in the U.S."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Southern Methodist University opened in which year?",
+  "options": [
+   "1885",
+   "1932",
+   "1948",
+   "1915"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "SMU's Dallas Hall was modeled on Thomas Jefferson's Rotunda at the University of Virginia."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Dallas Union Station, next to Reunion Tower, opened in which year?",
+  "options": [
+   "1916",
+   "1889",
+   "1952",
+   "1934"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "It was built to consolidate the city's several rail lines into one depot."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Which area code was assigned to Dallas when area codes began in 1947?",
+  "options": [
+   "512",
+   "214",
+   "972",
+   "713"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "214 was one of the original area codes, and 972 and 469 were later added as overlays."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "The 1892 Dallas County Courthouse, built of red sandstone, is known by what nickname?",
+  "options": [
+   "The Red Barn",
+   "Big Red",
+   "Old Red",
+   "The Pink Palace"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "It now houses the Old Red Museum of Dallas County History and Culture."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "The Dallas Zoo, opened in 1888, is the oldest zoo in which state?",
+  "options": [
+   "Oklahoma",
+   "Louisiana",
+   "Arkansas",
+   "Texas"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "The Dallas Zoo is billed as the oldest and largest zoo in Texas."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "White Rock Lake was created as a reservoir in what year?",
+  "options": [
+   "1911",
+   "1861",
+   "1958",
+   "1936"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "It is now a popular recreation spot, and local lore holds that a ghostly Lady of the Lake haunts its shores."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "The song \"Big D\" popularized Dallas's nickname. In which musical was it introduced?",
+  "options": [
+   "West Side Story",
+   "The Most Happy Fella",
+   "Oklahoma!",
+   "Annie Get Your Gun"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "Frank Loesser's 1956 musical helped popularize the city's 'Big D' nickname."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "El Fenix, founded in Dallas in 1918, claims to be the oldest chain of what kind of restaurant in the U.S.?",
+  "options": [
+   "Steakhouse",
+   "Barbecue",
+   "Mexican",
+   "Diner"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "Founded by Miguel Martinez, El Fenix helped popularize Tex-Mex cooking nationwide."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "7-Eleven grew out of the Southland Ice Company, which started in what Dallas neighborhood in 1927?",
+  "options": [
+   "Lakewood",
+   "Deep Ellum",
+   "Preston Hollow",
+   "Oak Cliff"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "The ice dock began selling milk, bread and eggs, and was renamed 7-Eleven in 1946 for its 7 a.m. to 11 p.m. hours."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Braniff International Airways, based at Love Field, shocked the airline world in 1965 by doing what?",
+  "options": [
+   "Painting its planes bright colors",
+   "Serving full meals for free",
+   "Flying only at night",
+   "Banning checked luggage"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "The \"End of the Plain Plane\" campaign used designer Alexander Girard and colorful aircraft."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Dallas/Fort Worth International Airport began operations in which year?",
+  "options": [
+   "1954",
+   "1974",
+   "1996",
+   "1984"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "Dallas and Fort Worth jointly built DFW after decades of rivalry."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Who was Dallas's first elected woman mayor, serving from 1987?",
+  "options": [
+   "Kay Bailey Hutchison",
+   "Sarah T. Hughes",
+   "Annette Strauss",
+   "Laura Miller"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "Strauss was a popular civic booster whose name is now on a downtown arts square."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "Who became Dallas's first African American mayor in 1995?",
+  "options": [
+   "Tom Leppert",
+   "Starke Taylor",
+   "Eddie Bernice Johnson",
+   "Ron Kirk"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Kirk later served as U.S. Trade Representative under President Obama."
+ },
+ {
+  "show": "Dallas",
+  "section": "History",
+  "q": "When Dallas was founded in 1841, Texas was what?",
+  "options": [
+   "An independent republic",
+   "A Spanish colony",
+   "A Mexican state",
+   "A U.S. territory"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "Texas joined the United States in 1845."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "On what date was President John F. Kennedy assassinated in Dallas?",
+  "options": [
+   "December 7, 1963",
+   "November 22, 1963",
+   "October 24, 1963",
+   "November 25, 1963"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "He was shot while riding in a motorcade through Dealey Plaza."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "Dealey Plaza is named after the publisher of which newspaper?",
+  "options": [
+   "The Houston Chronicle",
+   "The Dallas Times Herald",
+   "The Dallas Morning News",
+   "The Fort Worth Star-Telegram"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "George Bannerman Dealey was a longtime civic leader, and the plaza was dedicated in 1940."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "Which Dallas museum, opened in 1989, occupies the building's sixth floor where the shots were fired from?",
+  "options": [
+   "The Perot Museum",
+   "The Old Red Museum",
+   "The Dallas Heritage Museum",
+   "The Sixth Floor Museum"
+  ],
+  "answer": 3,
+  "d": 1,
+  "fact": "It occupies the former Texas School Book Depository."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "Who filmed the assassination in the famous 26-second home movie?",
+  "options": [
+   "Abraham Zapruder",
+   "Clint Hill",
+   "Jack Ruby",
+   "Lee Harvey Oswald"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "Zapruder was a Dallas clothing manufacturer, and his film is among the most studied in history."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "Where were President Kennedy and later Lee Harvey Oswald both pronounced dead?",
+  "options": [
+   "Methodist Hospital",
+   "Parkland Hospital",
+   "Presbyterian Hospital",
+   "Baylor Hospital"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "Parkland is a major Dallas public hospital."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "Who swore in Lyndon B. Johnson aboard Air Force One at Love Field, becoming the first woman to swear in a president?",
+  "options": [
+   "Lady Bird Johnson",
+   "Ruth Bader Ginsburg",
+   "Judge Sarah T. Hughes",
+   "Barbara Jordan"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "The ceremony was held in the stifling heat of the grounded plane."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "Oswald was arrested in which Oak Cliff movie theater?",
+  "options": [
+   "The Palace",
+   "The Majestic",
+   "The Lakewood",
+   "The Texas Theatre"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "The theater still stands and now hosts films and events."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "Where was Oswald shot by Jack Ruby on November 24, 1963?",
+  "options": [
+   "In the basement of Dallas police headquarters",
+   "At the Dallas County jail",
+   "Outside Parkland Hospital",
+   "At Love Field"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "The shooting was carried live on television."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "What nightclub did Jack Ruby own?",
+  "options": [
+   "The Longhorn Room",
+   "The Carousel Club",
+   "The Cattleman's Club",
+   "The Silver Spur"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "Ruby ran it on Commerce Street."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "President Kennedy was on his way to a luncheon at which Dallas venue when he was shot?",
+  "options": [
+   "The Adolphus Hotel",
+   "Fair Park Music Hall",
+   "The Dallas Trade Mart",
+   "Dallas City Hall"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "The Trade Mart was a wholesale showroom center, and the motorcade was headed there when it passed through Dealey Plaza."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "The John F. Kennedy Memorial near Dealey Plaza, a cenotaph, was designed by which architect?",
+  "options": [
+   "Renzo Piano",
+   "Frank Lloyd Wright",
+   "I. M. Pei",
+   "Philip Johnson"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "Johnson's open-roofed concrete memorial was dedicated in 1970."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "What marks the spots on Elm Street where President Kennedy was struck?",
+  "options": [
+   "Two white X's",
+   "Small flags",
+   "Bronze plaques",
+   "Red paint stripes"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "Tourists often dart into traffic to photograph the marks, which is dangerous."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "A month before JFK's visit, which U.S. ambassador to the UN was struck by a protester's sign in Dallas?",
+  "options": [
+   "Dean Rusk",
+   "Adlai Stevenson",
+   "Henry Cabot Lodge",
+   "Arthur Goldberg"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "The October 1963 incident was a sign of the tense political climate in the city."
+ },
+ {
+  "show": "Dallas",
+  "section": "JFK Assassination",
+  "q": "Dealey Plaza was designated what in 1993?",
+  "options": [
+   "A UNESCO site",
+   "A state park",
+   "A National Historic Landmark District",
+   "A federal courthouse"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "The plaza and surrounding buildings are protected for their role in the assassination."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "How tall is Reunion Tower, whose geodesic ball opened in 1978?",
+  "options": [
+   "921 feet",
+   "740 feet",
+   "301 feet",
+   "561 feet"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Its geodesic ball holds an observation deck and has been a skyline icon since 1978."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "Bank of America Plaza, long the tallest building in Dallas, stands how many feet tall?",
+  "options": [
+   "921",
+   "1,050",
+   "780",
+   "561"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "The skyscraper is outlined in green lights at night."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "Fountain Place, a glass prism skyscraper downtown, was designed by the firm of which architect?",
+  "options": [
+   "Frank Gehry",
+   "I. M. Pei",
+   "Philip Johnson",
+   "Mies van der Rohe"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "Pei also designed Dallas City Hall and the Meyerson Symphony Center."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The red neon Pegasus sign atop the Magnolia Hotel was the logo of which oil company?",
+  "options": [
+   "Shell",
+   "Gulf",
+   "Mobil",
+   "Texaco"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "Magnolia Petroleum later became Mobil, and the flying horse has been a Dallas icon ever since."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "Dallas City Hall, opened in 1978, features a dramatic what?",
+  "options": [
+   "Clock tower",
+   "Glass pyramid",
+   "Domed roof",
+   "Inverted triangular facade"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "I. M. Pei designed the building, whose facade leans outward like a tilted wall."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Meyerson Symphony Center, opened in 1989, is home to which orchestra?",
+  "options": [
+   "Dallas Symphony Orchestra",
+   "Dallas Opera Orchestra",
+   "Texas Philharmonic",
+   "Southwest Chamber Orchestra"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "It was designed by I. M. Pei and is known for its acoustics."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Dallas Arts District is billed as the largest contiguous what in the United States?",
+  "options": [
+   "Public garden",
+   "Urban arts district",
+   "Shopping complex",
+   "University campus"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "It hosts the Dallas Museum of Art, the Nasher, the Winspear Opera House and more."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Nasher Sculpture Center, opened in 2003, was designed by which architect?",
+  "options": [
+   "Frank Gehry",
+   "Zaha Hadid",
+   "Renzo Piano",
+   "Santiago Calatrava"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "Piano also designed the Kimbell Art Museum's addition across the Metroplex in Fort Worth."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Perot Museum of Nature and Science, opened in 2012, was designed by which architect?",
+  "options": [
+   "Daniel Libeskind",
+   "Norman Foster",
+   "Frank Gehry",
+   "Thom Mayne"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "Its cube shape appears to float above the ground."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "Which Spanish architect designed the Margaret Hunt Hill Bridge over the Trinity River?",
+  "options": [
+   "Santiago Calatrava",
+   "Antoni Gaudí",
+   "Rafael Moneo",
+   "Ricardo Bofill"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "The bridge's giant white arch is a signature of the Dallas skyline."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "Klyde Warren Park, opened in 2012, was built over what?",
+  "options": [
+   "A parking garage",
+   "A freeway",
+   "A railroad yard",
+   "A river"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "It is a deck park over Woodall Rodgers Freeway connecting downtown and Uptown."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "Thanks-Giving Square's chapel, designed by Philip Johnson, has a spiral stained-glass window called what?",
+  "options": [
+   "Rose Window",
+   "Stars of Texas",
+   "Glory Window",
+   "Lone Star Window"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "The window by French artist Gabriel Loire spirals upward toward the sun."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "Pioneer Plaza in downtown Dallas features how many bronze longhorn steers?",
+  "options": [
+   "12",
+   "75",
+   "100",
+   "49"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "The steers and three trail hands recall the cattle drives that passed through Texas in the 1800s."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "In 2013 the Dallas Museum of Art dropped its general admission fee, making entry what?",
+  "options": [
+   "Free",
+   "Seasonal",
+   "Five dollars",
+   "Members-only"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "The museum also launched a free membership program called DMA Friends."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Kalita Humphreys Theater in Dallas is the only freestanding theater designed by which architect?",
+  "options": [
+   "Eero Saarinen",
+   "Frank Lloyd Wright",
+   "Louis Sullivan",
+   "Le Corbusier"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "Wright designed it for the Dallas Theater Center, and it sits beside Turtle Creek."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "How tall is the current Big Tex, the State Fair of Texas's cowboy mascot?",
+  "options": [
+   "100 feet",
+   "35 feet",
+   "55 feet",
+   "75 feet"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "The original Big Tex was a Santa Claus built in Kerens, Texas, and the State Fair of Texas bought him around 1951."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "In what year did Big Tex burn in an electrical fire at the State Fair?",
+  "options": [
+   "2018",
+   "2005",
+   "1999",
+   "2012"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "A new Big Tex was unveiled in 2013."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "What fried treat was introduced at the State Fair of Texas in 1942?",
+  "options": [
+   "The corny dog",
+   "Fried butter",
+   "The turkey leg",
+   "The funnel cake"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "Fletcher's Corny Dogs are still sold at the fair."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Texas Star at Fair Park is a famed what?",
+  "options": [
+   "Observation tower",
+   "Giant Ferris wheel",
+   "Roller coaster",
+   "Hot-air balloon"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "The Texas Star stands 212 feet tall at the State Fair of Texas."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Dallas Arboretum is on the shore of which lake?",
+  "options": [
+   "Lake Lewisville",
+   "Lake Ray Hubbard",
+   "White Rock Lake",
+   "Joe Pool Lake"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "The garden covers about 66 acres."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "Deep Ellum gets its name from a pronunciation of which street?",
+  "options": [
+   "Main Street",
+   "Ervay Street",
+   "Commerce Street",
+   "Elm Street"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Locals shortened \"Deep Elm\" to \"Deep Ellum\"."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Bishop Arts District, known for shops and restaurants, is in what Dallas area?",
+  "options": [
+   "Oak Cliff",
+   "Uptown",
+   "Lake Highlands",
+   "Preston Hollow"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "The district is named for Bishop Avenue, and its restored storefronts are now a hub for local shops and restaurants."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Wyly Theatre in the Dallas Arts District is known for being what kind of theater?",
+  "options": [
+   "A floating theater",
+   "A vertical, flexible theater",
+   "A rotating theater",
+   "An outdoor amphitheater"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "Designed by REX/OMA, its stage tower can be rearranged into many configurations."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "Dallas's \"Mixmaster\" refers to what?",
+  "options": [
+   "A music festival",
+   "A cement factory",
+   "A freeway interchange downtown",
+   "A pie-making contest"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "It sits where several highways come together near downtown."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The SMU Meadows Museum is known for having one of the largest collections of what outside Spain?",
+  "options": [
+   "Asian ceramics",
+   "Impressionist paintings",
+   "Western art",
+   "Spanish art"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "It was founded by oilman Algur H. Meadows."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "In what year was the red neon Pegasus first installed atop the Magnolia Building?",
+  "options": [
+   "1934",
+   "1974",
+   "1914",
+   "1954"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "The flying horse was Magnolia Petroleum's trademark, later adopted by Mobil."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Majestic Theatre, opened in 1921 in downtown Dallas, originally hosted what kind of shows?",
+  "options": [
+   "Opera",
+   "Vaudeville",
+   "Circus",
+   "Rodeo"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "It was part of the Interstate Amusement circuit."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Hall of State at Fair Park, built for the 1936 Centennial, celebrates what?",
+  "options": [
+   "World religions",
+   "American presidents",
+   "Texas history",
+   "Dallas sports"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "Its murals and statues honor figures from the state's past."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Cotton Bowl stadium at Fair Park was built in which year?",
+  "options": [
+   "1970",
+   "1950",
+   "1900",
+   "1930"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "It was originally called Fair Park Stadium."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "Which sculptor's \"Dallas Piece\" stands outside Dallas City Hall?",
+  "options": [
+   "Henry Moore",
+   "Auguste Rodin",
+   "Isamu Noguchi",
+   "Alexander Calder"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "The abstract bronze was installed in 1978."
+ },
+ {
+  "show": "Dallas",
+  "section": "Landmarks & Culture",
+  "q": "The Winspear Opera House was designed by the firm of which British architect?",
+  "options": [
+   "Zaha Hadid",
+   "Norman Foster",
+   "Richard Rogers",
+   "Renzo Piano"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "It is home to the Dallas Opera and the Texas Ballet Theater."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Who was the first head coach of the Dallas Cowboys?",
+  "options": [
+   "Don Shula",
+   "Bud Grant",
+   "Tom Landry",
+   "Vince Lombardi"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "Landry coached the team for 29 seasons, from 1960 through 1988."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "What was the Cowboys' record in their first season in 1960?",
+  "options": [
+   "8-4-0",
+   "5-7-0",
+   "1-13-0",
+   "0-11-1"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "They became a perennial contender within a few years."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Cowboys got the nickname \"America's Team\" in which year?",
+  "options": [
+   "1978",
+   "1995",
+   "1966",
+   "1960"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "It came from an NFL Films highlight reel that year."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The term \"Hail Mary\" for a desperate pass was popularized by Roger Staubach's 1975 playoff throw to whom?",
+  "options": [
+   "Michael Irvin",
+   "Drew Pearson",
+   "Tony Dorsett",
+   "Bob Hayes"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "Staubach said he closed his eyes and said a Hail Mary."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Which Cowboy holds the NFL career rushing record with 18,355 yards?",
+  "options": [
+   "Tony Dorsett",
+   "Walter Payton",
+   "Emmitt Smith",
+   "Eric Dickerson"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "Smith broke the record in 2002."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "How many Super Bowls have the Cowboys won?",
+  "options": [
+   "7",
+   "3",
+   "2",
+   "5"
+  ],
+  "answer": 3,
+  "d": 1,
+  "fact": "They won Super Bowls VI, XII, XXVII, XXVIII and XXX."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Cowboys' 1990s dynasty was powered by \"The Triplets,\" Troy Aikman, Emmitt Smith and which receiver?",
+  "options": [
+   "Michael Irvin",
+   "Dez Bryant",
+   "Terrell Owens",
+   "Drew Pearson"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "The trio led Dallas to three titles in four years."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Jerry Jones bought the Cowboys in 1989 for about how much?",
+  "options": [
+   "$20 million",
+   "$140 million",
+   "$500 million",
+   "$1 billion"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "He then replaced Landry with Jimmy Johnson."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Texas Stadium, the Cowboys' old home, was famous for having what in its roof?",
+  "options": [
+   "A skylight dome",
+   "A giant star",
+   "A hole",
+   "A retractable panel"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "Texas Stadium opened in 1971 in Irving."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "AT&T Stadium, which opened in 2009, is in which city?",
+  "options": [
+   "Dallas",
+   "Plano",
+   "Irving",
+   "Arlington"
+  ],
+  "answer": 3,
+  "d": 1,
+  "fact": "It is often nicknamed \"Jerry World\"."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Cowboys' practice facility and headquarters, The Star, is in which city?",
+  "options": [
+   "Frisco",
+   "Plano",
+   "Fort Worth",
+   "Garland"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "It opened in 2016 and includes a hotel and an indoor stadium."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The original Dallas Texans of the AFL, owned by Lamar Hunt, later became which team?",
+  "options": [
+   "Houston Oilers",
+   "Kansas City Chiefs",
+   "San Diego Chargers",
+   "Oakland Raiders"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "They moved to Missouri in 1963."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Lamar Hunt coined the name \"Super Bowl\" after seeing his kids play with what toy?",
+  "options": [
+   "A pinball machine",
+   "A football helmet",
+   "A Super Ball",
+   "A Frisbee"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "He suggested it jokingly, and it stuck."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Dallas Tornado won which championship in 1971?",
+  "options": [
+   "MLS Cup",
+   "NCAA title",
+   "U.S. Open Cup",
+   "North American Soccer League"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "They were one of the league's early powerhouses."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Dallas Mavericks entered the NBA in which year?",
+  "options": [
+   "1980",
+   "1995",
+   "1988",
+   "1970"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "Their name came from the TV western Maverick."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Mark Cuban bought the Mavericks in 2000 for about how much?",
+  "options": [
+   "$800 million",
+   "$285 million",
+   "$50 million",
+   "$1 billion"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "He became one of the NBA's most visible owners."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "In 2011 the Mavericks won the NBA championship over which team?",
+  "options": [
+   "Boston Celtics",
+   "Chicago Bulls",
+   "Miami Heat",
+   "Los Angeles Lakers"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "Dirk Nowitzki was the Finals MVP."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Dirk Nowitzki was born in which country?",
+  "options": [
+   "Sweden",
+   "Croatia",
+   "Poland",
+   "Germany"
+  ],
+  "answer": 3,
+  "d": 1,
+  "fact": "He spent his entire 21-year career with Dallas."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The American Airlines Center, home of the Mavericks and Stars, opened in which year?",
+  "options": [
+   "2001",
+   "2009",
+   "1995",
+   "1980"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "It is located in Victory Park."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Dallas Stars moved to Dallas in 1993 from which state or province?",
+  "options": [
+   "Quebec",
+   "Minnesota",
+   "Hartford",
+   "Winnipeg"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "They had been the Minnesota North Stars."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "In 1999 the Stars won the Stanley Cup over which team?",
+  "options": [
+   "Detroit Red Wings",
+   "Philadelphia Flyers",
+   "Buffalo Sabres",
+   "Colorado Avalanche"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "The series ended in controversy over Brett Hull's skate in the crease."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Which Stars legend, whose statue stands outside American Airlines Center, retired as the NHL's all-time leading U.S.-born goal scorer?",
+  "options": [
+   "Joe Nieuwendyk",
+   "Sergei Zubov",
+   "Brett Hull",
+   "Mike Modano"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Mike Modano scored 561 goals in his career."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Texas Rangers, who play in Arlington, were formerly which team?",
+  "options": [
+   "Washington Senators",
+   "Montreal Expos",
+   "Houston Colt .45s",
+   "Kansas City Athletics"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "They moved to Texas in 1972."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Rangers won their first World Series in 2023 against which team?",
+  "options": [
+   "Atlanta Braves",
+   "Arizona Diamondbacks",
+   "Philadelphia Phillies",
+   "Houston Astros"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "Texas went 11-0 on the road in the 2023 postseason, a record."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Texas-Oklahoma football rivalry is traditionally played at which Dallas stadium?",
+  "options": [
+   "Texas Stadium",
+   "AT&T Stadium",
+   "The Cotton Bowl at Fair Park",
+   "Reunion Arena"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "The stadium is split down the middle between burnt orange and crimson fans."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "In 1987 SMU football received what unprecedented NCAA penalty?",
+  "options": [
+   "A bowl ban",
+   "Probation",
+   "A fine",
+   "The death penalty"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "SMU's 1987 season was canceled after the program was caught paying players."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Which SMU running back won the 1948 Heisman Trophy?",
+  "options": [
+   "Doak Walker",
+   "Eric Dickerson",
+   "Roger Staubach",
+   "Don Meredith"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "The Doak Walker Award for top running backs is named for him."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The SMU \"Pony Express\" backfield of the early 1980s featured Eric Dickerson and which other runner?",
+  "options": [
+   "Herschel Walker",
+   "Craig James",
+   "Tony Dorsett",
+   "Earl Campbell"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "Both later played in the NFL."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Which golfer grew up in Dallas and won the 1968 and 1971 U.S. Opens?",
+  "options": [
+   "Arnold Palmer",
+   "Byron Nelson",
+   "Lee Trevino",
+   "Ben Hogan"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "Trevino was known for his humor and his unorthodox swing."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Jordan Spieth, a Dallas native, won which major in 2015?",
+  "options": [
+   "The Open Championship",
+   "The Players",
+   "The PGA Championship",
+   "The Masters"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "He also won the U.S. Open that year."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Dallas native Michael Johnson became the first man to win which Olympic double in 1996?",
+  "options": [
+   "200m and 400m",
+   "100m and 200m",
+   "Long jump and 200m",
+   "400m and 800m"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "He ran a then-world-record 19.32 in the 200 meters."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Byron Nelson set the PGA Tour record of how many consecutive victories in 1945?",
+  "options": [
+   "7",
+   "11",
+   "20",
+   "15"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "He won 18 times that year, and Dallas's tour stop bears his name."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "FC Dallas began play in 1996 under what original name?",
+  "options": [
+   "Dallas Sidekicks",
+   "Dallas Toros",
+   "Dallas Burn",
+   "Dallas Tornado"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "The team was renamed in 2005."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Cowboys' defense of the late 1960s and 1970s was nicknamed what?",
+  "options": [
+   "Purple People Eaters",
+   "Steel Curtain",
+   "Orange Crush",
+   "Doomsday Defense"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Bob Lilly and Randy White were among its stars."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Reunion Arena, former home of the Mavericks and Stars, was demolished in which year?",
+  "options": [
+   "2009",
+   "2001",
+   "1995",
+   "2015"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "It opened in 1980."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Cotton Bowl Classic moved from Dallas to which stadium in 2010?",
+  "options": [
+   "Rose Bowl",
+   "Cowboys Stadium in Arlington",
+   "Superdome",
+   "Reliant Stadium"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "It had been played at the Cotton Bowl since 1937."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Cotton Bowl hosted matches during which international tournament in 1994?",
+  "options": [
+   "The Olympic Games",
+   "The Pan American Games",
+   "The FIFA World Cup",
+   "The Copa America"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "Cotton Bowl games in 1994 included Germany's 3-2 win over South Korea."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Cowboys won Super Bowl XXVII over which team?",
+  "options": [
+   "Miami Dolphins",
+   "Denver Broncos",
+   "Pittsburgh Steelers",
+   "Buffalo Bills"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Dallas won 52-17."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Which Naval Academy Heisman winner quarterbacked the Cowboys to two Super Bowl wins in the 1970s?",
+  "options": [
+   "Roger Staubach",
+   "Don Meredith",
+   "Danny White",
+   "Craig Morton"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "Nicknamed \"Captain America,\" he served in Vietnam before his NFL career."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Tony Dorsett set an NFL record in January 1983 with a run of how many yards?",
+  "options": [
+   "85",
+   "99",
+   "91",
+   "100"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "It was against the Vikings, and it is the longest possible run, which can only be tied, never broken."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "In what year was Texas Stadium imploded?",
+  "options": [
+   "2012",
+   "2005",
+   "2010",
+   "2016"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "The Cowboys had moved to their new stadium in Arlington the year before."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The WNBA's Dallas Wings moved to Arlington in 2016 from which city?",
+  "options": [
+   "Seattle",
+   "Minneapolis",
+   "Houston",
+   "Tulsa"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "They had been the Tulsa Shock."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "In February 2025, the Mavericks traded Luka Doncic to which team?",
+  "options": [
+   "Los Angeles Lakers",
+   "Miami Heat",
+   "Golden State Warriors",
+   "Boston Celtics"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "The trade stunned fans, and Anthony Davis went to Dallas in the deal."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "In which round of the 2016 NFL Draft did the Cowboys select Dak Prescott?",
+  "options": [
+   "First",
+   "Fourth",
+   "Second",
+   "Seventh"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "He took over when Tony Romo was injured."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "What was the signature accessory of Tom Landry on the sidelines?",
+  "options": [
+   "A cowboy hat",
+   "A clipboard",
+   "A fedora",
+   "A headset"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "He rarely showed much emotion, and the hat became part of his image."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Cowboys won Super Bowl XXX in 1996 over which team?",
+  "options": [
+   "Denver Broncos",
+   "Green Bay Packers",
+   "Buffalo Bills",
+   "Pittsburgh Steelers"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Larry Brown, a Cowboys cornerback, was the game's MVP."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "Who was the Cowboys' first-ever first-round draft pick (1961) and later their first player in the Pro Football Hall of Fame?",
+  "options": [
+   "Bob Lilly",
+   "Roger Staubach",
+   "Tony Dorsett",
+   "Troy Aikman"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "Bob Lilly was nicknamed 'Mr. Cowboy.'"
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "The Texas Rangers' Globe Life Field, with a retractable roof, opened in which year?",
+  "options": [
+   "2010",
+   "2020",
+   "2000",
+   "2024"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "It replaced Globe Life Park next door in Arlington."
+ },
+ {
+  "show": "Dallas",
+  "section": "Sports",
+  "q": "In 2024, the Mavericks reached the NBA Finals and lost to which team?",
+  "options": [
+   "Golden State Warriors",
+   "Denver Nuggets",
+   "Boston Celtics",
+   "Miami Heat"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "It was Dallas's first Finals trip since 2011."
+ },
+ {
+  "show": "Dallas",
+  "section": "Food & Business",
+  "q": "Dallas restaurateur Mariano Martinez invented what in 1971?",
+  "options": [
+   "Queso",
+   "The breakfast taco",
+   "The fajita",
+   "The frozen margarita machine"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "He adapted a soft-serve ice cream machine, and the original is in the Smithsonian."
+ },
+ {
+  "show": "Dallas",
+  "section": "Food & Business",
+  "q": "Chili's was founded on Greenville Avenue in Dallas in which year?",
+  "options": [
+   "1975",
+   "1985",
+   "1955",
+   "1995"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "It started as a small burger joint."
+ },
+ {
+  "show": "Dallas",
+  "section": "Food & Business",
+  "q": "Sonny Bryan's Smokehouse, a Dallas barbecue institution, opened in which year?",
+  "options": [
+   "1938",
+   "1958",
+   "1998",
+   "1978"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "The original Inwood Road location was a tiny shack."
+ },
+ {
+  "show": "Dallas",
+  "section": "Food & Business",
+  "q": "Half Price Books, founded in Dallas in 1972, started in what kind of place?",
+  "options": [
+   "A bus station",
+   "A warehouse",
+   "A laundromat",
+   "A church basement"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "The first store opened in a converted Dallas laundromat."
+ },
+ {
+  "show": "Dallas",
+  "section": "Food & Business",
+  "q": "Frito-Lay is headquartered in which Dallas suburb?",
+  "options": [
+   "Mesquite",
+   "Garland",
+   "Irving",
+   "Plano"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "It is a PepsiCo company."
+ },
+ {
+  "show": "Dallas",
+  "section": "Food & Business",
+  "q": "Dave & Buster's opened its first location in which year?",
+  "options": [
+   "1982",
+   "1962",
+   "1992",
+   "1972"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "The first location opened in a former Dallas warehouse in 1982."
+ },
+ {
+  "show": "Dallas",
+  "section": "Food & Business",
+  "q": "Mary Kay Cosmetics, founded in Dallas in 1963, is known for rewarding top sellers with what?",
+  "options": [
+   "Free cruises",
+   "Pink Cadillacs",
+   "Pink Mercedes",
+   "Gold watches"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "The first pink Cadillac was given in 1969."
+ },
+ {
+  "show": "Dallas",
+  "section": "Food & Business",
+  "q": "Dr Pepper, a Texas favorite, was invented in which Texas city in 1885?",
+  "options": [
+   "Houston",
+   "Dallas",
+   "Waco",
+   "Austin"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "It was created at the Old Corner Drug Store in Waco by pharmacist Charles Alderton."
+ },
+ {
+  "show": "Dallas",
+  "section": "Food & Business",
+  "q": "The Big Tex Choice Awards at the State Fair honor what?",
+  "options": [
+   "Best quilts",
+   "Best livestock",
+   "Best cowboy hats",
+   "Creative fried foods"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "Past winners include Fried Coke and Fried Butter."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which blues legend performed in Deep Ellum and recorded for Paramount in the 1920s?",
+  "options": [
+   "Blind Lemon Jefferson",
+   "Howlin' Wolf",
+   "Muddy Waters",
+   "B.B. King"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "He is known as the \"Father of Texas Blues\"."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which folk-blues singer, famed for \"Goodnight, Irene,\" played Deep Ellum with Blind Lemon Jefferson?",
+  "options": [
+   "Woody Guthrie",
+   "Lead Belly",
+   "Pete Seeger",
+   "Lightnin' Hopkins"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "He later became a prominent folk singer in New York."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Robert Johnson's final recording sessions took place in Dallas in what year?",
+  "options": [
+   "1957",
+   "1927",
+   "1937",
+   "1947"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "They were held at 508 Park Avenue."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which pioneer of the electric blues grew up in Dallas and once led Blind Lemon Jefferson around the streets?",
+  "options": [
+   "Buddy Guy",
+   "Albert King",
+   "Freddie King",
+   "T-Bone Walker"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "His song \"Stormy Monday\" became a standard."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Stevie Ray Vaughan grew up in which Dallas neighborhood?",
+  "options": [
+   "Oak Cliff",
+   "Deep Ellum",
+   "Highland Park",
+   "Preston Hollow"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "His older brother Jimmie Vaughan also became a famed guitarist."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which neo-soul singer born in Dallas attended Booker T. Washington High School for the Performing and Visual Arts?",
+  "options": [
+   "Macy Gray",
+   "Erykah Badu",
+   "Ledisi",
+   "Beyoncé"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "Norah Jones attended the same school."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Meat Loaf, who sang \"Bat Out of Hell,\" was born in which city?",
+  "options": [
+   "Memphis",
+   "Nashville",
+   "Dallas",
+   "Houston"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "His birth name was Marvin Lee Aday."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which band, fronted by Edie Brickell, released the 1988 hit \"What I Am\"?",
+  "options": [
+   "The Polyphonic Spree",
+   "Toadies",
+   "Spoon",
+   "The New Bohemians"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "They formed in Dallas."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Rapper Vanilla Ice, who had a hit with \"Ice Ice Baby,\" was born in which city?",
+  "options": [
+   "Dallas",
+   "Miami",
+   "Atlanta",
+   "Los Angeles"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "It was the first hip hop single to top the Billboard Hot 100."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "The choral rock band The Polyphonic Spree formed in which city in 2000?",
+  "options": [
+   "Houston",
+   "Dallas",
+   "Austin",
+   "Denton"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "They typically perform in white robes."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which actress and singer was born in Grand Prairie, Texas?",
+  "options": [
+   "Ariana Grande",
+   "Demi Lovato",
+   "Selena Gomez",
+   "Miley Cyrus"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "She is from the Dallas area."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which actor was born in Dallas in 1968?",
+  "options": [
+   "Dennis Quaid",
+   "Matthew McConaughey",
+   "Woody Harrelson",
+   "Owen Wilson"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "He grew up in Dallas with his brothers Luke and Andrew."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "The TV series Dallas, about the Ewing oil family, premiered in which year?",
+  "options": [
+   "1978",
+   "1968",
+   "1985",
+   "1991"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "It ran until 1991."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "In the 1980 cliffhanger, who shot J.R. Ewing?",
+  "options": [
+   "Cliff Barnes",
+   "Kristin Shepard",
+   "Bobby Ewing",
+   "Sue Ellen Ewing"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "The episode revealing the shooter drew about 83 million viewers."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Southfork Ranch, where the TV show Dallas was filmed, is in which town?",
+  "options": [
+   "Plano",
+   "Dallas",
+   "Parker",
+   "Garland"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "It is near Dallas and now a tourist attraction."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which actor played J.R. Ewing in Dallas?",
+  "options": [
+   "Ken Kercheval",
+   "Jim Davis",
+   "Patrick Duffy",
+   "Larry Hagman"
+  ],
+  "answer": 3,
+  "d": 1,
+  "fact": "He was also the star of I Dream of Jeannie."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "The film Dallas Buyers Club won Matthew McConaughey which Oscar?",
+  "options": [
+   "Best Actor",
+   "Best Picture",
+   "Best Supporting Actor",
+   "Best Director"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "It is set in Dallas in the 1980s."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which sci-fi film used Dallas City Hall as the headquarters of OCP?",
+  "options": [
+   "Total Recall",
+   "RoboCop",
+   "Blade Runner",
+   "Terminator"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "Though the film is set in Detroit, it was shot in Dallas."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which TV action series starring Chuck Norris was filmed in the Dallas area?",
+  "options": [
+   "Dallas Cops",
+   "The Rockford Files",
+   "Walker, Texas Ranger",
+   "Texas Justice"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "It ran from 1993 to 2001."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which Dallas-area complex served as the Great Hall setting in the 1976 film Logan's Run?",
+  "options": [
+   "Love Field",
+   "Reunion Tower",
+   "Meyerson Symphony Center",
+   "Dallas Market Center"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "Much of the sci-fi film was shot around the Dallas-Fort Worth area in 1975."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which metal band formed in Arlington in 1981?",
+  "options": [
+   "Pantera",
+   "Slayer",
+   "Megadeth",
+   "Metallica"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "Dimebag Darrell was one of its founders."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which country group, formed in Dallas in 1989, dropped 'Dixie' from its name in 2020?",
+  "options": [
+   "The Judds",
+   "The Chicks",
+   "Lady A",
+   "Little Big Town"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "The group is known for hits like 'Wide Open Spaces'."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which outlaw couple met in West Dallas in 1930?",
+  "options": [
+   "Butch and Sundance",
+   "Sonny and Cher",
+   "Bonnie and Clyde",
+   "Jesse and Frank James"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "Their crime spree ended in an ambush in Louisiana in 1934."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Norah Jones, who attended a Dallas arts high school, was raised in which Dallas suburb?",
+  "options": [
+   "Garland",
+   "Richardson",
+   "Plano",
+   "Grapevine"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "She was born in New York but grew up in Texas."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which Oscar-winning actor was born in Terrell, east of Dallas?",
+  "options": [
+   "Jamie Foxx",
+   "Will Smith",
+   "Denzel Washington",
+   "Morgan Freeman"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "He won Best Actor for Ray."
+ },
+ {
+  "show": "Dallas",
+  "section": "Music, Film & TV",
+  "q": "Which alt-country band led by Rhett Miller formed in Dallas in 1993?",
+  "options": [
+   "Uncle Tupelo",
+   "Old 97's",
+   "Wilco",
+   "Drive-By Truckers"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "They are known for their energetic live shows."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Jack Kilby invented the integrated circuit at which Dallas company in 1958?",
+  "options": [
+   "IBM",
+   "Intel",
+   "Texas Instruments",
+   "Hewlett-Packard"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "He won the Nobel Prize in Physics in 2000 for it."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Kilby's first integrated circuit was built on which material?",
+  "options": [
+   "Copper",
+   "Silicon",
+   "Gold",
+   "Germanium"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "Silicon became the standard later."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Texas Instruments introduced the first commercial silicon transistor in which year?",
+  "options": [
+   "1954",
+   "1934",
+   "1964",
+   "1974"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "It was developed by Gordon Teal."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Texas Instruments began as a seismic exploration company called what?",
+  "options": [
+   "Trinity Oil Services",
+   "Geophysical Service Inc.",
+   "Lone Star Geo",
+   "Texas Seismic"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "It was renamed Texas Instruments in 1951."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Which TI toy debuted in 1978 and appeared in E.T.?",
+  "options": [
+   "Etch A Sketch",
+   "Merlin",
+   "Speak & Spell",
+   "Simon"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "It used a speech synthesis chip."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Ross Perot founded which Dallas data-processing company in 1962?",
+  "options": [
+   "IBM Dallas",
+   "Compaq",
+   "Dell",
+   "Electronic Data Systems"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "He sold it to General Motors in 1984."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Ross Perot received about what share of the vote in the 1992 presidential election?",
+  "options": [
+   "19 percent",
+   "3 percent",
+   "35 percent",
+   "50 percent"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "It was the best showing for an independent in decades."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Which company moved its headquarters from San Antonio to Dallas in 2008?",
+  "options": [
+   "Microsoft",
+   "AT&T",
+   "Exxon",
+   "Walmart"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "The telecom giant came from San Antonio."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Which bank moved its headquarters from Detroit to Dallas in 2007?",
+  "options": [
+   "Chase",
+   "Wells Fargo",
+   "Comerica",
+   "Citibank"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "The move was meant to reflect its growing Texas base."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Which game studio in Mesquite, near Dallas, released Doom in 1993?",
+  "options": [
+   "Valve",
+   "Epic",
+   "Blizzard",
+   "id Software"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "The studio helped define the first-person shooter."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Which game studio, founded in Dallas in 1996 by John Romero and Tom Hall, made Daikatana?",
+  "options": [
+   "Ion Storm",
+   "Ritual",
+   "Apogee",
+   "Gearbox"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "It was known for ambitious ideas and a famously troubled launch."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Which Garland-based studio released Duke Nukem 3D in 1996?",
+  "options": [
+   "Bungie",
+   "3D Realms",
+   "Valve",
+   "id Software"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "It was formerly known as Apogee."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Which video game retailer is headquartered in Grapevine?",
+  "options": [
+   "Best Buy",
+   "Walmart",
+   "GameStop",
+   "Toys R Us"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "It is one of the world's biggest video game retailers."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Kenneth Cooper, the \"father of aerobics,\" founded his clinic in which city?",
+  "options": [
+   "Houston",
+   "San Antonio",
+   "Austin",
+   "Dallas"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "His 1968 book Aerobics inspired a fitness boom."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "UT Southwestern Medical Center's Brown and Goldstein shared a 1985 Nobel Prize for work on what?",
+  "options": [
+   "Cholesterol metabolism",
+   "Insulin",
+   "DNA sequencing",
+   "Polio vaccines"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "UT Southwestern has had several Nobel laureates."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Southwest Airlines was founded by Herb Kelleher and which cofounder?",
+  "options": [
+   "Gordon Bethune",
+   "Rollin King",
+   "Howard Hughes",
+   "Robert Crandall"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "Its first flights began in 1971."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "The Wright Amendment, which limited flights from Love Field, was passed in which year?",
+  "options": [
+   "1984",
+   "1999",
+   "1979",
+   "1964"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "It was fully repealed in 2014."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Dallas Love Field's airport code is what?",
+  "options": [
+   "DLF",
+   "LOV",
+   "DFW",
+   "DAL"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "DFW belongs to the larger airport."
+ },
+ {
+  "show": "Dallas",
+  "section": "Tech & Business",
+  "q": "Which Irving-based company makes Kleenex tissues?",
+  "options": [
+   "Kimberly-Clark",
+   "Georgia-Pacific",
+   "Colgate",
+   "Procter & Gamble"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "Irving is a Dallas suburb that is home to several large corporations."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "According to the 2020 census, about how many people lived in the city of Dallas?",
+  "options": [
+   "About 3 million",
+   "About 1.3 million",
+   "About 2 million",
+   "About 800,000"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "Dallas ranked ninth-largest among U.S. cities in 2020."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "Where did the Dallas-Fort Worth metroplex rank among U.S. metro areas by population in the 2020 census?",
+  "options": [
+   "Tenth",
+   "Eighth",
+   "Fourth",
+   "Second"
+  ],
+  "answer": 2,
+  "d": 2,
+  "fact": "The metroplex has roughly 8 million people."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "DFW Airport covers about 27 square miles. Which of these places is smaller than it?",
+  "options": [
+   "Rhode Island",
+   "Houston",
+   "Austin",
+   "Manhattan"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "DFW covers more land than Manhattan."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "In 2011, DFW hit 100 degrees or more on how many days?",
+  "options": [
+   "71",
+   "40",
+   "30",
+   "100"
+  ],
+  "answer": 0,
+  "d": 2,
+  "fact": "The 71 days of 100 degrees or more in 2011 remains the annual record."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "In October 2019, a damaging tornado struck which part of Dallas?",
+  "options": [
+   "Oak Cliff",
+   "North Dallas",
+   "Southeast Dallas",
+   "Downtown"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "It was rated EF3 and left a long damage path."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "Which river runs through Dallas?",
+  "options": [
+   "Red",
+   "Brazos",
+   "Trinity",
+   "Rio Grande"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "The Elm Fork and West Fork join near downtown."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "I-635 in Dallas is also known as what?",
+  "options": [
+   "Tom Landry Highway",
+   "Central Expressway",
+   "Stemmons Freeway",
+   "LBJ Freeway"
+  ],
+  "answer": 3,
+  "d": 2,
+  "fact": "It is named for Lyndon B. Johnson."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "Dallas hosted which political convention in 1984?",
+  "options": [
+   "The Republican National Convention",
+   "The Libertarian Convention",
+   "The Green Party Convention",
+   "The Democratic National Convention"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "Ronald Reagan was renominated."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "The George W. Bush Presidential Center is located on which campus?",
+  "options": [
+   "Baylor University",
+   "Southern Methodist University",
+   "Texas Christian University",
+   "University of Texas at Dallas"
+  ],
+  "answer": 1,
+  "d": 2,
+  "fact": "It opened in 2013."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "Highland Park, an enclave inside Dallas, was incorporated in which year?",
+  "options": [
+   "1983",
+   "1943",
+   "1913",
+   "1873"
+  ],
+  "answer": 2,
+  "d": 3,
+  "fact": "It is one of the wealthiest areas in Texas."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "How much does it cost to ride the McKinney Avenue Trolley (M-Line) in Uptown?",
+  "options": [
+   "$1",
+   "$5",
+   "$10",
+   "Nothing, it's free"
+  ],
+  "answer": 3,
+  "d": 3,
+  "fact": "It runs vintage-style trolleys along McKinney Avenue."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "The Great Trinity Forest in Dallas is the largest urban what in the U.S.?",
+  "options": [
+   "Bottomland hardwood forest",
+   "Pine forest",
+   "Redwood grove",
+   "Botanic garden"
+  ],
+  "answer": 0,
+  "d": 3,
+  "fact": "It covers thousands of acres along the river."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "Dallas is the county seat of which county?",
+  "options": [
+   "Tarrant County",
+   "Dallas County",
+   "Collin County",
+   "Denton County"
+  ],
+  "answer": 1,
+  "d": 1,
+  "fact": "The county was created in 1846."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "Which Texas city is Dallas's neighbor to the west?",
+  "options": [
+   "Austin",
+   "Waco",
+   "Fort Worth",
+   "Houston"
+  ],
+  "answer": 2,
+  "d": 1,
+  "fact": "The two cities form the metroplex."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "What nickname is often used for the DFW area?",
+  "options": [
+   "The Panhandle",
+   "The Gulf Coast",
+   "The Triangle",
+   "The Metroplex"
+  ],
+  "answer": 3,
+  "d": 1,
+  "fact": "The term combines metropolis and complex."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "In which time zone is Dallas located?",
+  "options": [
+   "Central",
+   "Eastern",
+   "Pacific",
+   "Mountain"
+  ],
+  "answer": 0,
+  "d": 1,
+  "fact": "It observes daylight saving time like the rest of Texas."
+ },
+ {
+  "show": "Dallas",
+  "section": "Geography & Weather",
+  "q": "What is the all-time record high temperature at DFW Airport?",
+  "options": [
+   "120°F",
+   "113°F",
+   "108°F",
+   "102°F"
+  ],
+  "answer": 1,
+  "d": 3,
+  "fact": "It was reached in June 1980 during a brutal heat wave."
+ }
+]
