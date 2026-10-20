@@ -1,0 +1,7 @@
+{
+  "name": "find-your-car-quiz",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node tools/build.mjs" },
+  "devDependencies": { "esbuild": "0.28.2", "three": "0.160.0" }
+}
