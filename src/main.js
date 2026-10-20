@@ -165,13 +165,13 @@ function snack(msg) { const s = $('snack'); s.textContent = msg; s.classList.add
 // ---------- state ----------
 const shows = [...new Set(QUESTIONS.map((q) => q.show))];
 const showGroups = (() => { // chips: each big topic on its own, plus the long tail of one-off 90s sitcoms
-  const named = ['Friends', 'Will & Grace', 'Frasier', 'Stand-Up Comedy', 'Dallas', 'UT Austin', 'Fruits & Veggies'];
+  const named = ['Friends', 'Will & Grace', 'Frasier', 'Stand-Up Comedy', 'Dallas', 'UT Austin', 'Fruits & Veggies', 'Late Night TV'];
   const isComedy = (s) => s.startsWith('Comedy');
   const other = shows.filter((s) => !named.includes(s) && !isComedy(s));
   const comedy = shows.filter(isComedy);
   return [...['Friends', 'Will & Grace', 'Frasier'].filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
     ...(comedy.length ? [{ label: 'Comedy Classics', shows: comedy }] : []),
-    ...['Stand-Up Comedy', 'Dallas', 'UT Austin', 'Fruits & Veggies'].filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
+    ...['Stand-Up Comedy', 'Dallas', 'UT Austin', 'Fruits & Veggies', 'Late Night TV'].filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
     ...(other.length ? [{ label: '90s Sitcoms', shows: other }] : [])];
 })();
 const S = {
@@ -210,7 +210,9 @@ function pickQuestions() {
 
 // ---------- screens ----------
 function renderMenu() {
-  clearEffects(); lot.reset(); lot.mode = 'menu';
+  clearEffects();
+  if (lot.mode !== 'menu') lot.reset();   // re-rendering the menu (picking a car/colour/topic) keeps the camera where it is
+  lot.mode = 'menu';
   $('title').textContent = 'Find Your Car'; $('scoreChip').hidden = true; $('progress').hidden = true;
   const car = CARS[S.car];
   sheet.innerHTML = `
