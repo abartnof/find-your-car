@@ -1,2870 +1,4022 @@
 [
- {
-  "show": "Friends",
-  "q": "How many seasons does Friends have?",
-  "options": [
-   "10",
-   "9",
-   "8",
-   "12"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which soap opera role made Joey famous?",
-  "options": [
-   "Dr. Doug Ross",
-   "Dr. Drake Ramoray",
-   "Dr. Rick Hunter",
-   "Dr. Mark Sloan"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which soap opera did Joey's character Dr. Drake Ramoray appear on?",
-  "options": [
-   "Passions",
-   "The Young and the Restless",
-   "Days of Our Lives",
-   "General Hospital"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "How many times was Ross divorced?",
-  "options": [
-   "Once",
-   "Four times",
-   "Twice",
-   "Three"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which shop does Phoebe famously hate?",
-  "options": [
-   "Pottery Barn",
-   "Bed Bath & Beyond",
-   "Williams-Sonoma",
-   "Crate & Barrel"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which fashion company offers Rachel a job in Paris?",
-  "options": [
-   "Gucci",
-   "Louis Vuitton",
-   "Dior",
-   "Chanel"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What are the first names of Ross and Monica's parents?",
-  "options": [
-   "Frank and Judy",
-   "Jack and Nora",
-   "Jack and Judy",
-   "Ben and Sandra"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What was Rachel's ex-fiancé Barry Farber's profession?",
-  "options": [
-   "Podiatrist",
-   "Dentist",
-   "Plastic surgeon",
-   "Orthodontist"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Who is the maid of honor at Monica and Chandler's wedding?",
-  "options": [
-   "Rachel",
-   "Ursula",
-   "Phoebe",
-   "Janice"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "In which city does Phoebe's scientist boyfriend David go to work?",
-  "options": [
-   "Prague",
-   "Minsk",
-   "Moscow",
-   "Warsaw"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What was the profession of Monica's older boyfriend Richard?",
-  "options": [
-   "Podiatrist",
-   "Orthodontist",
-   "Ophthalmologist",
-   "Cardiologist"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is Chandler Bing's middle name?",
-  "options": [
-   "Marvin",
-   "Martin",
-   "Michael",
-   "Muriel"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Who pees on Monica after she is stung by a jellyfish?",
-  "options": [
-   "Chandler",
-   "Ross",
-   "Joey",
-   "Phoebe"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Phoebe's twin sister?",
-  "options": [
-   "Regina",
-   "Ursula",
-   "Mary Angela",
-   "Jill"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Whose name does Ross mistakenly say at the altar when marrying Emily?",
-  "options": [
-   "Julie",
-   "Charlie",
-   "Rachel",
-   "Carol"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which member of the British royal family appeared on Friends?",
-  "options": [
-   "Camilla Parker Bowles",
-   "Princess Diana",
-   "Princess Anne",
-   "Sarah Ferguson"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Brad Pitt and David Schwimmer's characters cofounded which club in high school?",
-  "options": [
-   "The I Hate Rachel Green Club",
-   "The Monica Geller Fan Club",
-   "The Anti-Prom Club",
-   "The Science Boy Club"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which of Joey's sisters did Chandler fool around with?",
-  "options": [
-   "Cookie",
-   "Mary Angela",
-   "Dina",
-   "Gina"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What was the name of Joey's imaginary childhood friend?",
-  "options": [
-   "Mickey",
-   "Morris",
-   "Maurice",
-   "Marcel"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What was the profession of Joey's imaginary childhood friend Maurice?",
-  "options": [
-   "Pirate",
-   "Astronaut",
-   "Magician",
-   "Space cowboy"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What was Monica's nickname when she was a field hockey goalie?",
-  "options": [
-   "Big Fat Goalie",
-   "Slap Shot Monica",
-   "Fat Monica",
-   "Goalie Girl"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "In the trivia game, what job does Rachel guess Chandler has?",
-  "options": [
-   "Data reconfigurator",
-   "Transponster",
-   "Statistician",
-   "Transmogrifier"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Joey's agent?",
-  "options": [
-   "Dorothy",
-   "Gloria",
-   "Estelle",
-   "Barbara"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What was the name of Chandler and Ross's college band?",
-  "options": [
-   "Hold the Mayo",
-   "No Way Out",
-   "The Gellers",
-   "Way, No Way"
-  ],
-  "answer": 3,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "How many categories of towels does Monica have?",
-  "options": [
-   "11",
-   "9",
-   "14",
-   "7"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What name is on the TV Guide addressed to Chandler and Joey's apartment?",
-  "options": [
-   "Miss Chanandler Tribbiani",
-   "Miss Chanandler Bong",
-   "Mr. Chandler Bing",
-   "Miss Joey Bing"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Ross's pet monkey?",
-  "options": [
-   "Mandy",
-   "Bubbles",
-   "Marcel",
-   "Mr. Monkey"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What name does Phoebe legally change to after her wedding?",
-  "options": [
-   "Regina Phalange",
-   "Phoebe Buffay-Hannigan",
-   "Princess Banana Hammock Buffay",
-   "Princess Consuela Bananahammock"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What self-defense technique does Ross try to teach Rachel and Phoebe?",
-  "options": [
-   "Unagi",
-   "Krav Maga",
-   "Judo",
-   "Karate"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which song makes baby Emma laugh for the first time?",
-  "options": [
-   "I Will Survive",
-   "Baby Got Back",
-   "Smelly Cat",
-   "Hey Ya"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Joey's stuffed penguin?",
-  "options": [
-   "Pingu",
-   "Mr. Peanut",
-   "Hugsy",
-   "Waddles"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What color is Monica's apartment?",
-  "options": [
-   "Pink",
-   "Green",
-   "Yellow",
-   "Purple"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "How many sisters does Joey have?",
-  "options": [
-   "Seven",
-   "Five",
-   "Three",
-   "Nine"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What do Monica and Chandler name their twins?",
-  "options": [
-   "Jack and Judy",
-   "Erica and Jack",
-   "Estelle and Charles",
-   "Emma and Ben"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Who does Ross's first wife, Carol, leave him for?",
-  "options": [
-   "Janice Hosenstein",
-   "Charlie Wheeler",
-   "Susan Bunch",
-   "Emily Waltham"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Chandler's father's Las Vegas drag revue?",
-  "options": [
-   "Viva Las Vegas",
-   "Cabaret Bing",
-   "The Gay Gaygas",
-   "Viva Las Gaygas"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What did Chick Jr. and Duck Jr. get stuck in?",
-  "options": [
-   "A foosball table",
-   "A couch",
-   "A dryer",
-   "A bathtub drain"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which Friend marries a supposedly gay Canadian ice dancer named Duncan?",
-  "options": [
-   "Rachel",
-   "Phoebe",
-   "Monica",
-   "Joey"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What are the names of Rachel's sisters?",
-  "options": [
-   "Amy and Mona",
-   "Jill and Mindy",
-   "Jill and Amy",
-   "Ursula and Jill"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which Friend famously yells 'PIVOT!' while moving a couch?",
-  "options": [
-   "Chandler",
-   "Joey",
-   "Monica",
-   "Ross"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What does Phoebe find in her soda can?",
-  "options": [
-   "A human thumb",
-   "A key",
-   "A tooth",
-   "A ring"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "In which city does Rachel go on Ross's honeymoon alone?",
-  "options": [
-   "Paris",
-   "Athens, Greece",
-   "Rome",
-   "Barcelona"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which holiday does Chandler hate?",
-  "options": [
-   "Valentine's Day",
-   "Christmas",
-   "Thanksgiving",
-   "Halloween"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Who was Rachel's prom date?",
-  "options": [
-   "Barry Farber",
-   "Tag Jones",
-   "Roy Gublik",
-   "Chip Matthews"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What was the name of Ross and Monica's childhood dog?",
-  "options": [
-   "Chi-Chi",
-   "Chip",
-   "Lucky",
-   "Clunkers"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which actor played Phoebe's husband Mike Hannigan?",
-  "options": [
-   "Tom Selleck",
-   "Paul Rudd",
-   "Hank Azaria",
-   "Bruce Willis"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Where did Ross and Rachel have their first date?",
-  "options": [
-   "A movie theater",
-   "A jazz bar",
-   "The planetarium",
-   "A museum"
-  ],
-  "answer": 2,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "How many roses did Ross send Emily?",
-  "options": [
-   "12",
-   "100",
-   "36",
-   "72"
-  ],
-  "answer": 3,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "How many pages long was Rachel's letter to Ross, front and back?",
-  "options": [
-   "18",
-   "5",
-   "25",
-   "12"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "In what year did Friends first premiere?",
-  "options": [
-   "1992",
-   "1994",
-   "1998",
-   "1996"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Joey's Cabbage Patch Kid?",
-  "options": [
-   "Emily May Brown",
-   "Betty Lou Tribbiani",
-   "Alicia May Emory",
-   "Mary Sue Smith"
-  ],
-  "answer": 2,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What is the name of the made-up game Chandler invents to give Joey money?",
-  "options": [
-   "Dice",
-   "Bamboozled",
-   "Pyramid",
-   "Cups"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What does Monica start making obsessively to get over Richard?",
-  "options": [
-   "Jam",
-   "Pies",
-   "Candy",
-   "Wine"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which fruit is Ross allergic to?",
-  "options": [
-   "Strawberry",
-   "Kiwi",
-   "Mango",
-   "Pineapple"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "In which TV show does Joey compete as a contestant?",
-  "options": [
-   "Jeopardy!",
-   "Wheel of Fortune",
-   "Pyramid",
-   "Family Feud"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What was the name of Ross and Rachel's male nanny?",
-  "options": [
-   "Randy",
-   "Brian",
-   "Mike",
-   "Sandy"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which diner did Monica briefly work at as a waitress, in a 1950s costume?",
-  "options": [
-   "The Moondance Diner",
-   "Mama's Diner",
-   "Central Perk",
-   "Alessandro's"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "At which university does Ross work as a professor?",
-  "options": [
-   "Yale",
-   "NYU",
-   "Columbia",
-   "Princeton"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What are the names of the triplets Phoebe carries?",
-  "options": [
-   "Emma, Leslie and Jack",
-   "Frank Jr., Phoebe and Chandler",
-   "Frank Jr. Jr., Leslie and Chandler",
-   "Frank, Alice and Ben"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Who says 'See, he's her lobster!'?",
-  "options": [
-   "Rachel",
-   "Joey",
-   "Monica",
-   "Phoebe"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "In which city is Friends set?",
-  "options": [
-   "New York City",
-   "Boston",
-   "Los Angeles",
-   "Chicago"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What mistaken ingredient does Rachel put in her Thanksgiving trifle?",
-  "options": [
-   "Onions",
-   "Beef",
-   "Fish",
-   "Peas"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Joey's BarcaLounger?",
-  "options": [
-   "Rachel",
-   "Ruth",
-   "Rosita",
-   "Rhonda"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Who was the last of the friends to find out about Monica and Chandler's relationship?",
-  "options": [
-   "Joey",
-   "Rachel",
-   "Phoebe",
-   "Ross"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Chandler and Joey both dated an actress named what?",
-  "options": [
-   "Kathy",
-   "Janine",
-   "Katie",
-   "Kate"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Who is Santa's friend that Ross invents to teach Ben about Hanukkah?",
-  "options": [
-   "The Holiday Squirrel",
-   "The Holiday Armadillo",
-   "The Hanukkah Hedgehog",
-   "The Menorah Monkey"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Where does Chandler tell Janice he is moving to avoid her?",
-  "options": [
-   "Siberia",
-   "Antarctica",
-   "Yemen",
-   "Tulsa"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is Phoebe's grandmother's secret cookie recipe actually named after?",
-  "options": [
-   "Betty Crocker",
-   "Mrs. Fields",
-   "Hershey Kiss",
-   "Nestle Toulouse"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which actress played Joey's stalker Erika Ford?",
-  "options": [
-   "Brooke Shields",
-   "Jennifer Love Hewitt",
-   "Winona Ryder",
-   "Julia Roberts"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which of Monica's boyfriends wanted to become an Ultimate Fighting Champion?",
-  "options": [
-   "Fun Bobby",
-   "Pete Becker",
-   "Richard Burke",
-   "Alan"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "In which city did Monica and Chandler first get together?",
-  "options": [
-   "Barbados",
-   "New York",
-   "London",
-   "Las Vegas"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "For which game show audition do Chandler and Ross help Joey practice?",
-  "options": [
-   "Jeopardy!",
-   "Pyramid",
-   "Match Game",
-   "Bamboozled"
-  ],
-  "answer": 3,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What is Rachel's actual favorite movie?",
-  "options": [
-   "Weekend at Bernie's",
-   "Dangerous Liaisons",
-   "Dirty Dancing",
-   "Pretty Woman"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What did Ross create as a comic book hero?",
-  "options": [
-   "Captain Paleo",
-   "Science Boy",
-   "Fossil Kid",
-   "Dino Man"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What is Monica's biggest pet peeve?",
-  "options": [
-   "Loud chewing",
-   "Messy kitchens",
-   "Animals dressed as humans",
-   "Crooked pictures"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which book does Joey keep in the freezer when he is scared?",
-  "options": [
-   "It",
-   "Dracula",
-   "Misery",
-   "The Shining"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Ross and Monica's maternal grandmother?",
-  "options": [
-   "Althea",
-   "Edna",
-   "Judith",
-   "Ida"
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Joey served as the butt double for which famous actor?",
-  "options": [
-   "Tom Cruise",
-   "Al Pacino",
-   "Robert De Niro",
-   "Marlon Brando"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Phoebe's alter ego?",
-  "options": [
-   "Ursula Buffay",
-   "Phoebe Abbott",
-   "Regina Phalange",
-   "Princess Consuela"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "In what year did the Friends series finale air?",
-  "options": [
-   "2003",
-   "2006",
-   "2002",
-   "2004"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Monica and Rachel's building superintendent?",
-  "options": [
-   "Mr. Treeger",
-   "Mr. Heckles",
-   "Mr. Waltham",
-   "Mr. Zelner"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What is Joey's ATM PIN, which spells out his name on a keypad?",
-  "options": [
-   "1234",
-   "5639",
-   "4567",
-   "2468"
-  ],
-  "answer": 1,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Which state is the last one Ross can't remember when naming all 50?",
-  "options": [
-   "Nevada",
-   "Vermont",
-   "Delaware",
-   "Maine"
-  ],
-  "answer": 2,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What was the name of Chandler's roommate before Joey?",
-  "options": [
-   "Eddie",
-   "Ross",
-   "Tim",
-   "Kip"
-  ],
-  "answer": 3,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Rachel's hairless cat?",
-  "options": [
-   "Mrs. Whiskerson",
-   "Sphynxy",
-   "Princess Naked",
-   "Mr. Fluffles"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which balloon escapes during the Macy's Thanksgiving Day Parade in Season 1?",
-  "options": [
-   "Bullwinkle",
-   "Underdog",
-   "Garfield",
-   "Snoopy"
-  ],
-  "answer": 1,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Which friend once mugged Ross?",
-  "options": [
-   "Chandler",
-   "Monica",
-   "Phoebe",
-   "Rachel"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which high school did Monica, Ross and Rachel attend?",
-  "options": [
-   "Westfield High",
-   "Central High School",
-   "Roosevelt High School",
-   "Lincoln High School"
-  ],
-  "answer": 3,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What was the name of Monica's senior prom date?",
-  "options": [
-   "Roy Gublik",
-   "Fun Bobby",
-   "Barry Farber",
-   "Chip Matthews"
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Who is Ross jealous of at Rachel's workplace?",
-  "options": [
-   "Joshua",
-   "Mark",
-   "Paolo",
-   "Tag"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of the 'hot girl from the Xerox place' Ross sleeps with, leading to 'we were on a break'?",
-  "options": [
-   "Bonnie",
-   "Cassie",
-   "Chloe",
-   "Elizabeth"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Who is the first Friend to speak in the pilot episode?",
-  "options": [
-   "Ross",
-   "Rachel",
-   "Joey",
-   "Monica"
-  ],
-  "answer": 3,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Which band sings the Friends theme 'I'll Be There for You'?",
-  "options": [
-   "The Rembrandts",
-   "Hootie & the Blowfish",
-   "The Cars",
-   "The Monkees"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Rachel kissed a sorority sister in college played by which actress?",
-  "options": [
-   "Lisa Kudrow",
-   "Winona Ryder",
-   "Reese Witherspoon",
-   "Julia Roberts"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What is the age gap between Monica and Richard?",
-  "options": [
-   "30 years",
-   "10 years",
-   "21 years",
-   "15 years"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which language is Gunther inexplicably fluent in?",
-  "options": [
-   "Swedish",
-   "German",
-   "Russian",
-   "Dutch"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "How much does Joey receive for donating his sperm?",
-  "options": [
-   "$700",
-   "$200",
-   "$7,000",
-   "$70"
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "How old was Chandler when he started smoking?",
-  "options": [
-   "Fifteen",
-   "Nine",
-   "Twelve",
-   "Seven"
-  ],
-  "answer": 1,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Which actor plays Phoebe's brother Frank Jr.?",
-  "options": [
-   "Hank Azaria",
-   "Paul Rudd",
-   "Giovanni Ribisi",
-   "Matt LeBlanc"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which episode of Friends takes place in real time?",
-  "options": [
-   "The One with the Football",
-   "The One with the Prom Video",
-   "The One with the Embryos",
-   "The One Where No One's Ready"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which actress plays the young woman from Ohio whose baby Chandler and Monica hope to adopt?",
-  "options": [
-   "Anna Faris",
-   "Reese Witherspoon",
-   "Jennifer Coolidge",
-   "Kristen Wiig"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What item do Monica and Rachel fight over when Rachel moves out?",
-  "options": [
-   "A lamp",
-   "Candlesticks",
-   "A blender",
-   "A coffee table"
-  ],
-  "answer": 1,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Why does Chandler hate Thanksgiving?",
-  "options": [
-   "He lost a toe",
-   "He once burned the turkey",
-   "His parents announced their divorce that day",
-   "His girlfriend dumped him"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which actress plays Rachel's sister Jill?",
-  "options": [
-   "Winona Ryder",
-   "Julia Roberts",
-   "Brooke Shields",
-   "Reese Witherspoon"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What song does Rachel sing at Barry and Mindy's wedding?",
-  "options": [
-   "Copacabana",
-   "I Will Survive",
-   "Dancing Queen",
-   "Y.M.C.A."
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What relationship milestone do Chandler and Monica reach while she has a turkey on her head?",
-  "options": [
-   "They get married",
-   "He tells her he loves her",
-   "They move in together",
-   "They get engaged"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "In the series finale, where do Chandler and Monica move with their twins?",
-  "options": [
-   "Brooklyn",
-   "Connecticut",
-   "Westchester",
-   "Long Island"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which actress plays Joey's agent Estelle Leonard?",
-  "options": [
-   "Anita Barone",
-   "Christine Taylor",
-   "Estelle Getty",
-   "June Gable"
-  ],
-  "answer": 3,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What is the name of the restaurant where Monica works as head chef for much of the series?",
-  "options": [
-   "Alessandro's",
-   "Moondance Diner",
-   "Pizza Hut",
-   "Javu"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which actress originally played Carol before Jane Sibbett?",
-  "options": [
-   "Elle Macpherson",
-   "Anita Barone",
-   "Reese Witherspoon",
-   "Jane Lynch"
-  ],
-  "answer": 1,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Who is the character played by Adam Goldberg who briefly lives with Chandler?",
-  "options": [
-   "Pete Becker",
-   "Kip",
-   "Eddie Menuek",
-   "Tag Jones"
-  ],
-  "answer": 2,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Who plays Phoebe's very enthusiastic date Parker?",
-  "options": [
-   "Tom Selleck",
-   "Billy Crystal",
-   "Bruce Willis",
-   "Alec Baldwin"
-  ],
-  "answer": 3,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What is Phoebe's most famous song?",
-  "options": [
-   "Smelly Cat",
-   "Hairy Cat",
-   "Stinky Dog",
-   "Hot Cat"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Ross's second wife's father?",
-  "options": [
-   "Richard Burke",
-   "Stephen Waltham",
-   "Jack Geller",
-   "Charles Bing"
-  ],
-  "answer": 1,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "How does Dr. Drake Ramoray's character die on Days of Our Lives?",
-  "options": [
-   "He drowns",
-   "He is hit by a bus",
-   "He falls down an elevator shaft",
-   "He is poisoned"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which wedding gift makes Rachel walk out on her wedding to Barry?",
-  "options": [
-   "A toaster",
-   "A tray",
-   "A salt shaker",
-   "A gravy boat"
-  ],
-  "answer": 3,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Chandler's mother?",
-  "options": [
-   "Nora",
-   "Judy",
-   "Sandra",
-   "Althea"
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "In which season are Ross and Rachel 'on a break'?",
-  "options": [
-   "Season 1",
-   "Season 3",
-   "Season 5",
-   "Season 7"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What is the Geller Cup contested over?",
-  "options": [
-   "A tennis match",
-   "A trivia contest",
-   "A touch football game",
-   "A cooking competition"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What does Phoebe decide to name Frank Jr.'s third baby?",
-  "options": [
-   "Rachel",
-   "Ross",
-   "Joey",
-   "Chandler"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Who says 'Come on, Ross, you're a paleontologist; dig a little deeper'?",
-  "options": [
-   "Phoebe",
-   "Rachel",
-   "Joey",
-   "Monica"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What does Monica get Chandler as a gift in Season 6?",
-  "options": [
-   "A watch",
-   "A water purifier",
-   "A gym membership",
-   "A bowling ball"
-  ],
-  "answer": 1,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Who ends up keeping the chick and the duck?",
-  "options": [
-   "Chandler",
-   "Phoebe",
-   "Joey",
-   "Monica"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which Friend gives birth first: Phoebe or Rachel?",
-  "options": [
-   "Monica",
-   "Rachel",
-   "They give birth at the same time",
-   "Phoebe"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What name does Phoebe want her friends to call her after she changes her name to Princess Consuela?",
-  "options": [
-   "Valerie",
-   "Regina",
-   "Consuela",
-   "Ursula"
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What name does Jack Geller accidentally call Chandler?",
-  "options": [
-   "Chet",
-   "Chauncey",
-   "Chester",
-   "Charles"
-  ],
-  "answer": 1,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What accent does Ross fake in front of his students?",
-  "options": [
-   "Italian",
-   "French",
-   "British",
-   "Australian"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Who speaks the very last line of the series?",
-  "options": [
-   "Ross",
-   "Monica",
-   "Rachel",
-   "Chandler"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What was Monica's apartment number changed to after it was originally 5?",
-  "options": [
-   "20",
-   "25",
-   "10",
-   "15"
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What is Rachel's mother's first name?",
-  "options": [
-   "Judy",
-   "Sandra",
-   "Phyllis",
-   "Nora"
-  ],
-  "answer": 1,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Who said 'Welcome to the real world. It sucks. You're gonna love it.'?",
-  "options": [
-   "Ross",
-   "Rachel",
-   "Monica",
-   "Phoebe"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Who said 'We were on a break!'?",
-  "options": [
-   "Chandler",
-   "Joey",
-   "Monica",
-   "Ross"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Who is famous for the pickup line 'How you doin'?'",
-  "options": [
-   "Joey",
-   "Ross",
-   "Chandler",
-   "Mike"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which Friend says 'I KNOW!'",
-  "options": [
-   "Janice",
-   "Monica",
-   "Rachel",
-   "Phoebe"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Who says 'Could I BE wearing any more clothes?'",
-  "options": [
-   "Joey",
-   "Gunther",
-   "Chandler",
-   "Ross"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Who says 'They don't know that we know they know we know'?",
-  "options": [
-   "Monica",
-   "Rachel",
-   "Chandler",
-   "Phoebe"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Who says 'I'm not great at the advice. Can I interest you in a sarcastic comment?'",
-  "options": [
-   "Chandler",
-   "Monica",
-   "Rachel",
-   "Ross"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Who sings 'Smelly cat, smelly cat, what are they feeding you?'",
-  "options": [
-   "Ross",
-   "Phoebe",
-   "Rachel",
-   "Joey"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Who says 'My sandwich? MY SANDWICH?!'",
-  "options": [
-   "Chandler",
-   "Rachel",
-   "Ross",
-   "Joey"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Who says 'I wish I could, but I don't want to'?",
-  "options": [
-   "Joey",
-   "Janice",
-   "Mike",
-   "Phoebe"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What bakery made the cheesecake that Rachel and Chandler ate off the floor?",
-  "options": [
-   "Mama's Little Bakery",
-   "Sara Lee",
-   "Monica's Bakery",
-   "Gunther's Bakery"
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What is Emma's first word?",
-  "options": [
-   "Dada",
-   "Gleba",
-   "Hugsy",
-   "Mama"
-  ],
-  "answer": 1,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Phoebe accidentally gives Monica a haircut in the style of which actress?",
-  "options": [
-   "Meg Ryan",
-   "Princess Diana",
-   "Demi Moore",
-   "Winona Ryder"
-  ],
-  "answer": 2,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "Where is Erica, the birth mother of Monica and Chandler's twins, from?",
-  "options": [
-   "Nebraska",
-   "Texas",
-   "Maine",
-   "Ohio"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which letter volume of the encyclopedia does Joey buy?",
-  "options": [
-   "V",
-   "Z",
-   "J",
-   "A"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Which Friends actress plays Rachel Green?",
-  "options": [
-   "Reese Witherspoon",
-   "Jennifer Aniston",
-   "Lisa Kudrow",
-   "Courteney Cox"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which actor plays Chandler Bing?",
-  "options": [
-   "David Schwimmer",
-   "Paul Rudd",
-   "Matthew Perry",
-   "Matt LeBlanc"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which actor plays Joey Tribbiani?",
-  "options": [
-   "Giovanni Ribisi",
-   "Matthew Perry",
-   "David Schwimmer",
-   "Matt LeBlanc"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which actress plays Phoebe Buffay?",
-  "options": [
-   "Lisa Kudrow",
-   "Jennifer Aniston",
-   "Courteney Cox",
-   "Anna Faris"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which actress plays Monica Geller?",
-  "options": [
-   "Elle Macpherson",
-   "Courteney Cox",
-   "Lisa Kudrow",
-   "Jennifer Aniston"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which actor plays Ross Geller?",
-  "options": [
-   "Matthew Perry",
-   "Matt LeBlanc",
-   "David Schwimmer",
-   "Hank Azaria"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of the coffee shop where the friends hang out?",
-  "options": [
-   "The Grind",
-   "Java Joe's",
-   "Perky's",
-   "Central Perk"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of the Central Perk barista who adores Rachel?",
-  "options": [
-   "Gunther",
-   "Mike",
-   "Eddie",
-   "Ben"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is Ross's profession?",
-  "options": [
-   "Biologist",
-   "Paleontologist",
-   "Geologist",
-   "Archaeologist"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is Rachel's job when the series begins?",
-  "options": [
-   "Fashion buyer",
-   "Teacher",
-   "Waitress at Central Perk",
-   "Nurse"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is Monica's profession?",
-  "options": [
-   "Waitress",
-   "Baker",
-   "Nurse",
-   "Chef"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is Joey's last name?",
-  "options": [
-   "Tribbiani",
-   "Bing",
-   "Buffay",
-   "Geller"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is Ross and Rachel's daughter's name?",
-  "options": [
-   "Michelle",
-   "Emma",
-   "Ben",
-   "Erica"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is Ross and Carol's son's name?",
-  "options": [
-   "Jack",
-   "Cole",
-   "Ben",
-   "Frank"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which Friend is Ross's sister?",
-  "options": [
-   "Janice",
-   "Rachel",
-   "Phoebe",
-   "Monica"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Chandler's father's drag stage name?",
-  "options": [
-   "Helena Handbasket",
-   "Helena Highheels",
-   "Lola Lipstick",
-   "Charlene Bing"
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Phoebe's half-brother?",
-  "options": [
-   "Frank Sr.",
-   "Frank Jr.",
-   "Jack",
-   "Ben"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Phoebe's husband in the final seasons?",
-  "options": [
-   "David",
-   "Mike Biggs",
-   "Mike Hannigan",
-   "Duncan"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Whose last name is Hosenstein, famous for a distinct laugh?",
-  "options": [
-   "Kathy",
-   "Mona",
-   "Emily",
-   "Janice"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "What is the name of Ross's British second wife?",
-  "options": [
-   "Emily Waltham",
-   "Charlie Wheeler",
-   "Carol Willick",
-   "Julie"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "What is the name of the paleontology professor Ross dates and Joey also dates?",
-  "options": [
-   "Emily Waltham",
-   "Charlie Wheeler",
-   "Elizabeth Stevens",
-   "Kathy"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Friends",
-  "q": "Phoebe performs her original songs at Central Perk on which instrument?",
-  "options": [
-   "Drums",
-   "Violin",
-   "Guitar",
-   "Piano"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Friends",
-  "q": "Which company gave Rachel her first fashion job after she left Central Perk?",
-  "options": [
-   "Louis Vuitton",
-   "Barneys",
-   "Ralph Lauren",
-   "Fortunata Fashions"
-  ],
-  "answer": 3,
-  "d": 3
- },
- {
-  "show": "Friends",
-  "q": "What is the 'Joey Special'?",
-  "options": [
-   "Two pizzas",
-   "A pizza with a sandwich",
-   "Pizza with extra cheese",
-   "A giant sub"
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Will & Grace",
-  "q": "What is Grace Adler's profession?",
-  "options": [
-   "Pastry chef",
-   "Interior designer",
-   "Fashion buyer",
-   "Lawyer"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Will & Grace",
-  "q": "What is Will Truman's profession?",
-  "options": [
-   "Architect",
-   "Talk show host",
-   "Lawyer",
-   "Doctor"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Will & Grace",
-  "q": "Which actor plays Will Truman?",
-  "options": [
-   "Harry Connick Jr.",
-   "Sean Hayes",
-   "Leslie Jordan",
-   "Eric McCormack"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Will & Grace",
-  "q": "Which actress plays Karen Walker?",
-  "options": [
-   "Megan Mullally",
-   "Shelley Morrison",
-   "Minnie Driver",
-   "Debra Messing"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Will & Grace",
-  "q": "Which actor plays Jack McFarland?",
-  "options": [
-   "Eric McCormack",
-   "Sean Hayes",
-   "Michael Angarano",
-   "Leslie Jordan"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Will & Grace",
-  "q": "What is the name of Karen Walker's husband?",
-  "options": [
-   "Harlin",
-   "Leo Markus",
-   "Stan Walker",
-   "Lorne Walker"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Will & Grace",
-  "q": "Who is Karen's maid?",
-  "options": [
-   "Lorraine Finster",
-   "Bobbi Adler",
-   "Anastasia Beaverhausen",
-   "Rosario Salazar"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Will & Grace",
-  "q": "Which actress played Rosario Salazar?",
-  "options": [
-   "Shelley Morrison",
-   "Megan Mullally",
-   "Minnie Driver",
-   "Rosie O'Donnell"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Will & Grace",
-  "q": "Which actor played Karen's nemesis Beverley Leslie?",
-  "options": [
-   "Eric McCormack",
-   "Leslie Jordan",
-   "Sean Hayes",
-   "Harry Connick Jr."
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Will & Grace",
-  "q": "Which actor plays Grace's husband Leo Markus?",
-  "options": [
-   "Patrick Dempsey",
-   "Bobby Cannavale",
-   "Harry Connick Jr.",
-   "Eric McCormack"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Will & Grace",
-  "q": "Who plays Grace's mother, Bobbi Adler?",
-  "options": [
-   "Rosie O'Donnell",
-   "Minnie Driver",
-   "Cher",
-   "Debbie Reynolds"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Will & Grace",
-  "q": "What is the name of Jack's one-man show and talk show?",
-  "options": [
-   "Just Jack",
-   "Jack of All Trades",
-   "The Jack Hour",
-   "Jack Attack"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Will & Grace",
-  "q": "What is the name of Jack's son?",
-  "options": [
-   "Harlin",
-   "Elliott",
-   "Mason",
-   "Leo"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Will & Grace",
-  "q": "What is Karen's signature term of address for Grace and others?",
-  "options": [
-   "Darling",
-   "Sugar",
-   "Honey",
-   "Doll"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Will & Grace",
-  "q": "What name does Karen use as her 'fake name' when somewhere incognito?",
-  "options": [
-   "Lorraine Finster",
-   "Shu Shu Fontana",
-   "Bobbi Adler",
-   "Anastasia Beaverhausen"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Will & Grace",
-  "q": "What does Karen often call Will instead of his real name?",
-  "options": [
-   "Wilma",
-   "Willy",
-   "Willa",
-   "Wilbur"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Will & Grace",
-  "q": "In which city is Will & Grace set?",
-  "options": [
-   "Boston",
-   "New York City",
-   "Chicago",
-   "Los Angeles"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Will & Grace",
-  "q": "In what year did the original Will & Grace premiere?",
-  "options": [
-   "1996",
-   "1995",
-   "1998",
-   "2001"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Will & Grace",
-  "q": "How many seasons did the original run of Will & Grace have?",
-  "options": [
-   "7",
-   "10",
-   "6",
-   "8"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Will & Grace",
-  "q": "What is the title of the Will & Grace pilot episode?",
-  "options": [
-   "Love and Marriage",
-   "Will Meets Grace",
-   "Pilot Light",
-   "Boy Meets Girl"
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Will & Grace",
-  "q": "What is the name of Grace's design firm?",
-  "options": [
-   "Walker Interiors",
-   "Grace Adler Designs",
-   "Adler & Truman",
-   "Grace Notes"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Will & Grace",
-  "q": "What is Karen Walker's drink of choice?",
-  "options": [
-   "Mimosa",
-   "Cosmopolitan",
-   "Martini",
-   "Margarita"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Will & Grace",
-  "q": "Whom did Grace date in college before Will came out?",
-  "options": [
-   "Leo Markus",
-   "Rob",
-   "Jack McFarland",
-   "Will Truman"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Will & Grace",
-  "q": "What is the name of Grace and Leo's daughter in the finale?",
-  "options": [
-   "Lila",
-   "Bobbi",
-   "Karen",
-   "Olivia"
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Will & Grace",
-  "q": "Which director-actor played Will's father, George Truman?",
-  "options": [
-   "Harry Connick Jr.",
-   "Sydney Pollack",
-   "Sean Hayes",
-   "Rob Reiner"
-  ],
-  "answer": 1,
-  "d": 3
- },
- {
-  "show": "Frasier",
-  "q": "Frasier thinks he is reciting a Hebrew blessing at Frederick's bar mitzvah, but Noel has secretly translated it into which language?",
-  "options": [
-   "German",
-   "Elvish",
-   "Klingon",
-   "Yiddish"
-  ],
-  "answer": 2,
-  "d": 3
- },
- {
-  "show": "Frasier",
-  "q": "What are the call letters of the Seattle radio station where Frasier works?",
-  "options": [
-   "KRAP",
-   "KBBL",
-   "KATZ",
-   "KACL"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Frasier",
-  "q": "What is Frasier's main hangout coffee shop?",
-  "options": [
-   "Café Nervosa",
-   "Bubba Gump's Shrimpin' Hut",
-   "Le Cigar Volant",
-   "McGinty's"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Frasier",
-  "q": "What English city is Daphne Moon from?",
-  "options": [
-   "Belfast",
-   "Manchester",
-   "York",
-   "London"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Frasier",
-  "q": "Who sings the Frasier theme song, 'Tossed Salad and Scrambled Eggs'?",
-  "options": [
-   "Scatman Crothers",
-   "David Hyde Pierce",
-   "Kelsey Grammer",
-   "John Mahoney"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Frasier",
-  "q": "What is Martin Crane's favorite brand of beer?",
-  "options": [
-   "Budweiser",
-   "Coors",
-   "Henry Weinhard's",
-   "Ballantine"
-  ],
-  "answer": 3,
-  "d": 3
- },
- {
-  "show": "Frasier",
-  "q": "What is Frasier Crane's profession?",
-  "options": [
-   "Psychiatrist",
-   "Cardiologist",
-   "Social worker",
-   "Neurologist"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Frasier",
-  "q": "What was Martin Crane's job before he retired?",
-  "options": [
-   "Postal worker",
-   "Police detective",
-   "Security guard",
-   "Firefighter"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Frasier",
-  "q": "What breed is Martin's dog, Eddie?",
-  "options": [
-   "Border Collie",
-   "Beagle",
-   "Jack Russell Terrier",
-   "Corgi"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Frasier",
-  "q": "What is the name of Frasier's radio producer?",
-  "options": [
-   "Kenny Daly",
-   "Daphne Moon",
-   "Lilith Sternin",
-   "Roz Doyle"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Frasier",
-  "q": "What is the name of Frasier's snobbish younger brother?",
-  "options": [
-   "Niles",
-   "Giles",
-   "Wiles",
-   "Miles"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Frasier",
-  "q": "Who is Frasier's ex-wife, the icy psychiatrist who is Frederick's mother?",
-  "options": [
-   "Maris",
-   "Lilith",
-   "Roz",
-   "Diane"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Frasier",
-  "q": "What is the name of Niles's unseen, famously thin wife?",
-  "options": [
-   "Mavis",
-   "Lilith",
-   "Maris",
-   "Marlene"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Frasier",
-  "q": "What is Daphne Moon's profession when she first arrives?",
-  "options": [
-   "Chef",
-   "Nurse",
-   "Dog trainer",
-   "Physical therapist"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Frasier",
-  "q": "Which show did Frasier spin off from?",
-  "options": [
-   "Cheers",
-   "Taxi",
-   "Wings",
-   "Seinfeld"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Frasier",
-  "q": "In which city is Frasier set?",
-  "options": [
-   "Chicago",
-   "Seattle",
-   "Portland",
-   "Boston"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Frasier",
-  "q": "What is the name of the radio show Frasier hosts?",
-  "options": [
-   "Ask Dr. Frasier",
-   "Crane Talk",
-   "The Dr. Frasier Crane Show",
-   "The Frasier Hour"
-  ],
-  "answer": 2,
-  "d": 3
- },
- {
-  "show": "Frasier",
-  "q": "What is Frasier's famous radio sign-on line?",
-  "options": [
-   "'Talk to me.'",
-   "'Go ahead, caller.'",
-   "'Tell me everything.'",
-   "'I'm listening.'"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Frasier",
-  "q": "What is the name of the pompous food critic who is a friend of the Crane brothers on Frasier?",
-  "options": [
-   "Gil Chesterton",
-   "Gil Grissom",
-   "Gil Fitzgerald",
-   "Gil Gunderson"
-  ],
-  "answer": 0,
-  "d": 3
- },
- {
-  "show": "Frasier",
-  "q": "What is the name of Frasier and Lilith's son?",
-  "options": [
-   "Gilbert",
-   "Frederick",
-   "Nigel",
-   "Eddie"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Cheers",
-  "q": "Which Boston bar, where everybody knows your name, is the setting of its own sitcom?",
-  "options": [
-   "The Regal Beagle",
-   "MacLaren's",
-   "Cheers",
-   "Paddy's Pub"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "The Fresh Prince of Bel-Air",
-  "q": "Who played Uncle Phil on The Fresh Prince of Bel-Air?",
-  "options": [
-   "Philip Baker Hall",
-   "Bernie Mac",
-   "John Witherspoon",
-   "James Avery"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Seinfeld",
-  "q": "What city is Seinfeld set in?",
-  "options": [
-   "New York City",
-   "Boston",
-   "Chicago",
-   "Los Angeles"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Full House",
-  "q": "On Full House, what were the Tanner sisters' names?",
-  "options": [
-   "Mallory, Jennifer, and Alex",
-   "D.J., Stephanie, and Michelle",
-   "Becky, Darlene, and Jackie",
-   "Kelly, Lisa, and Jessica"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Home Improvement",
-  "q": "What was Tim Taylor's TV show called on Home Improvement?",
-  "options": [
-   "The Toolman Show",
-   "Fix It Up",
-   "Tool Time",
-   "Home Time"
-  ],
-  "answer": 2,
-  "d": 1
- },
- {
-  "show": "Seinfeld",
-  "q": "What is the name of the diner where Jerry and friends hang out on Seinfeld?",
-  "options": [
-   "Jerry's Café",
-   "Tom's Restaurant",
-   "Sal's Diner",
-   "Monk's Café"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "The Nanny",
-  "q": "On The Nanny, what was Fran Fine's job before she became a nanny?",
-  "options": [
-   "Bridal shop saleswoman",
-   "Makeup artist",
-   "Department store clerk",
-   "Hair stylist"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "The Drew Carey Show",
-  "q": "On The Drew Carey Show, what is the name of the Cleveland department store where Drew works?",
-  "options": [
-   "Kessler & Sons",
-   "Winfred-Louder",
-   "Halsted & Hale",
-   "Wagner's"
-  ],
-  "answer": 1,
-  "d": 3
- },
- {
-  "show": "3rd Rock from the Sun",
-  "q": "On 3rd Rock from the Sun, what is the alien family's mission on Earth?",
-  "options": [
-   "To retrieve stolen technology",
-   "To conquer Earth",
-   "To study human behavior",
-   "To find a new home planet"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "NewsRadio",
-  "q": "On NewsRadio, what is the call sign of the fictional New York radio station?",
-  "options": [
-   "WNYC",
-   "WXRK",
-   "WNEW",
-   "WNYX"
-  ],
-  "answer": 3,
-  "d": 3
- },
- {
-  "show": "The Simpsons",
-  "q": "What instrument does Lisa Simpson play?",
-  "options": [
-   "Saxophone",
-   "Trumpet",
-   "Clarinet",
-   "Flute"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Boy Meets World",
-  "q": "On Boy Meets World, what is the name of Cory's older brother?",
-  "options": [
-   "Shawn",
-   "Eric",
-   "Joshua",
-   "Morgan"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Married... with Children",
-  "q": "On Married... with Children, what were the names of the Bundys' next-door neighbors?",
-  "options": [
-   "The Kramdens",
-   "The Jeffersons",
-   "The Rhoades/D'Arcys",
-   "The Flanders"
-  ],
-  "answer": 2,
-  "d": 3
- },
- {
-  "show": "Seinfeld",
-  "q": "What was the name of George Costanza's fiancée who died from licking toxic envelopes?",
-  "options": [
-   "Sarah",
-   "Sharon",
-   "Sandra",
-   "Susan"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Family Matters",
-  "q": "On Family Matters, what is the name of Steve Urkel's suave alter ego?",
-  "options": [
-   "Stefan Urquelle",
-   "Slick Steve",
-   "Cool Carl",
-   "Smooth Stanley"
-  ],
-  "answer": 0,
-  "d": 1
- },
- {
-  "show": "Mad About You",
-  "q": "On Mad About You, what is Paul Buchman's profession?",
-  "options": [
-   "Architect",
-   "Documentary filmmaker",
-   "Advertising executive",
-   "Writer"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Living Single",
-  "q": "On Living Single, what is the name of the magazine Khadijah James publishes?",
-  "options": [
-   "Essence",
-   "Urban Style",
-   "Flavor",
-   "Vibe"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "A Different World",
-  "q": "On A Different World, what is Dwayne Wayne's signature accessory?",
-  "options": [
-   "A bow tie",
-   "Round sunglasses",
-   "Aviator sunglasses",
-   "Flip-up sunglasses"
-  ],
-  "answer": 3,
-  "d": 1
- },
- {
-  "show": "Spin City",
-  "q": "On Spin City, what is Mike Flaherty's job in New York City government?",
-  "options": [
-   "Deputy mayor",
-   "City council member",
-   "Chief of staff",
-   "Press secretary"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Roseanne",
-  "q": "On Roseanne, what is the name of the Conners' youngest child and only son?",
-  "options": [
-   "Jerry",
-   "D.J.",
-   "David",
-   "Andy"
-  ],
-  "answer": 1,
-  "d": 1
- },
- {
-  "show": "Coach",
-  "q": "In Coach, which college football team does Hayden Fox lead for most of the series?",
-  "options": [
-   "Penn State",
-   "Michigan Tech",
-   "Minnesota State University",
-   "Ohio State"
-  ],
-  "answer": 2,
-  "d": 2
- },
- {
-  "show": "Just Shoot Me!",
-  "q": "On Just Shoot Me!, what is the name of the fashion magazine where the characters work?",
-  "options": [
-   "Vogue",
-   "Runway",
-   "Mode",
-   "Blush"
-  ],
-  "answer": 3,
-  "d": 2
- },
- {
-  "show": "Step by Step",
-  "q": "On Step by Step, which two families merge into one blended household?",
-  "options": [
-   "Foster and Lambert",
-   "Tanner and Foster",
-   "Winslow and Lambert",
-   "Brady and Martin"
-  ],
-  "answer": 0,
-  "d": 2
- },
- {
-  "show": "Seinfeld",
-  "q": "What is Kramer's first name on Seinfeld?",
-  "options": [
-   "Kenny",
-   "Cosmo",
-   "Newman",
-   "Jackson"
-  ],
-  "answer": 1,
-  "d": 2
- },
- {
-  "show": "Home Improvement",
-  "q": "On Home Improvement, what is the name of Tim's wise, always half-hidden neighbor?",
-  "options": [
-   "Willis",
-   "Warren",
-   "Wilson",
-   "Walter"
-  ],
-  "answer": 2,
-  "d": 1
- }
+{
+"show": "Friends",
+"q": "How many seasons does Friends have?",
+"options": [
+"10",
+"9",
+"8",
+"12"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which soap opera role made Joey famous?",
+"options": [
+"Dr. Doug Ross",
+"Dr. Drake Ramoray",
+"Dr. Rick Hunter",
+"Dr. Mark Sloan"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which soap opera did Joey's character Dr. Drake Ramoray appear on?",
+"options": [
+"Passions",
+"The Young and the Restless",
+"Days of Our Lives",
+"General Hospital"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "How many times was Ross divorced?",
+"options": [
+"Once",
+"Four times",
+"Twice",
+"Three"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which shop does Phoebe famously hate?",
+"options": [
+"Pottery Barn",
+"Bed Bath & Beyond",
+"Williams-Sonoma",
+"Crate & Barrel"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which fashion company offers Rachel a job in Paris?",
+"options": [
+"Gucci",
+"Louis Vuitton",
+"Dior",
+"Chanel"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What are the first names of Ross and Monica's parents?",
+"options": [
+"Frank and Judy",
+"Jack and Nora",
+"Jack and Judy",
+"Ben and Sandra"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What was Rachel's ex-fiancé Barry Farber's profession?",
+"options": [
+"Podiatrist",
+"Dentist",
+"Plastic surgeon",
+"Orthodontist"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Who is the maid of honor at Monica and Chandler's wedding?",
+"options": [
+"Rachel",
+"Ursula",
+"Phoebe",
+"Janice"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "In which city does Phoebe's scientist boyfriend David go to work?",
+"options": [
+"Prague",
+"Minsk",
+"Moscow",
+"Warsaw"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What was the profession of Monica's older boyfriend Richard?",
+"options": [
+"Podiatrist",
+"Orthodontist",
+"Ophthalmologist",
+"Cardiologist"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is Chandler Bing's middle name?",
+"options": [
+"Marvin",
+"Martin",
+"Michael",
+"Muriel"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Who pees on Monica after she is stung by a jellyfish?",
+"options": [
+"Chandler",
+"Ross",
+"Joey",
+"Phoebe"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of Phoebe's twin sister?",
+"options": [
+"Regina",
+"Ursula",
+"Mary Angela",
+"Jill"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Whose name does Ross mistakenly say at the altar when marrying Emily?",
+"options": [
+"Julie",
+"Charlie",
+"Rachel",
+"Carol"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which member of the British royal family appeared on Friends?",
+"options": [
+"Camilla Parker Bowles",
+"Princess Diana",
+"Princess Anne",
+"Sarah Ferguson"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Brad Pitt and David Schwimmer's characters cofounded which club in high school?",
+"options": [
+"The I Hate Rachel Green Club",
+"The Monica Geller Fan Club",
+"The Anti-Prom Club",
+"The Science Boy Club"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which of Joey's sisters did Chandler fool around with?",
+"options": [
+"Cookie",
+"Mary Angela",
+"Dina",
+"Gina"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What was the name of Joey's imaginary childhood friend?",
+"options": [
+"Mickey",
+"Morris",
+"Maurice",
+"Marcel"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What was the profession of Joey's imaginary childhood friend Maurice?",
+"options": [
+"Pirate",
+"Astronaut",
+"Magician",
+"Space cowboy"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What was Monica's nickname when she was a field hockey goalie?",
+"options": [
+"Big Fat Goalie",
+"Slap Shot Monica",
+"Fat Monica",
+"Goalie Girl"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "In the trivia game, what job does Rachel guess Chandler has?",
+"options": [
+"Data reconfigurator",
+"Transponster",
+"Statistician",
+"Transmogrifier"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of Joey's agent?",
+"options": [
+"Dorothy",
+"Gloria",
+"Estelle",
+"Barbara"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What was the name of Chandler and Ross's college band?",
+"options": [
+"Hold the Mayo",
+"No Way Out",
+"The Gellers",
+"Way, No Way"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "How many categories of towels does Monica have?",
+"options": [
+"11",
+"9",
+"14",
+"7"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What name is on the TV Guide addressed to Chandler and Joey's apartment?",
+"options": [
+"Miss Chanandler Tribbiani",
+"Miss Chanandler Bong",
+"Mr. Chandler Bing",
+"Miss Joey Bing"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of Ross's pet monkey?",
+"options": [
+"Mandy",
+"Bubbles",
+"Marcel",
+"Mr. Monkey"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What name does Phoebe legally change to after her wedding?",
+"options": [
+"Regina Phalange",
+"Phoebe Buffay-Hannigan",
+"Princess Banana Hammock Buffay",
+"Princess Consuela Bananahammock"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What self-defense technique does Ross try to teach Rachel and Phoebe?",
+"options": [
+"Unagi",
+"Krav Maga",
+"Judo",
+"Karate"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which song makes baby Emma laugh for the first time?",
+"options": [
+"I Will Survive",
+"Baby Got Back",
+"Smelly Cat",
+"Hey Ya"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What is the name of Joey's stuffed penguin?",
+"options": [
+"Pingu",
+"Mr. Peanut",
+"Hugsy",
+"Waddles"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What color is Monica's apartment?",
+"options": [
+"Pink",
+"Green",
+"Yellow",
+"Purple"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "How many sisters does Joey have?",
+"options": [
+"Seven",
+"Five",
+"Three",
+"Nine"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What do Monica and Chandler name their twins?",
+"options": [
+"Jack and Judy",
+"Erica and Jack",
+"Estelle and Charles",
+"Emma and Ben"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Who does Ross's first wife, Carol, leave him for?",
+"options": [
+"Janice Hosenstein",
+"Charlie Wheeler",
+"Susan Bunch",
+"Emily Waltham"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of Chandler's father's Las Vegas drag revue?",
+"options": [
+"Viva Las Vegas",
+"Cabaret Bing",
+"The Gay Gaygas",
+"Viva Las Gaygas"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What did Chick Jr. and Duck Jr. get stuck in?",
+"options": [
+"A foosball table",
+"A couch",
+"A dryer",
+"A bathtub drain"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which Friend marries a supposedly gay Canadian ice dancer named Duncan?",
+"options": [
+"Rachel",
+"Phoebe",
+"Monica",
+"Joey"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What are the names of Rachel's sisters?",
+"options": [
+"Amy and Mona",
+"Jill and Mindy",
+"Jill and Amy",
+"Ursula and Jill"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which Friend famously yells 'PIVOT!' while moving a couch?",
+"options": [
+"Chandler",
+"Joey",
+"Monica",
+"Ross"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What does Phoebe find in her soda can?",
+"options": [
+"A human thumb",
+"A key",
+"A tooth",
+"A ring"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "In which city does Rachel go on Ross's honeymoon alone?",
+"options": [
+"Paris",
+"Athens, Greece",
+"Rome",
+"Barcelona"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which holiday does Chandler hate?",
+"options": [
+"Valentine's Day",
+"Christmas",
+"Thanksgiving",
+"Halloween"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Who was Rachel's prom date?",
+"options": [
+"Barry Farber",
+"Tag Jones",
+"Roy Gublik",
+"Chip Matthews"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What was the name of Ross and Monica's childhood dog?",
+"options": [
+"Chi-Chi",
+"Chip",
+"Lucky",
+"Clunkers"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which actor played Phoebe's husband Mike Hannigan?",
+"options": [
+"Tom Selleck",
+"Paul Rudd",
+"Hank Azaria",
+"Bruce Willis"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Where did Ross and Rachel have their first date?",
+"options": [
+"A movie theater",
+"A jazz bar",
+"The planetarium",
+"A museum"
+],
+"answer": 2,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "How many roses did Ross send Emily?",
+"options": [
+"12",
+"100",
+"36",
+"72"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "How many pages long was Rachel's letter to Ross, front and back?",
+"options": [
+"18",
+"5",
+"25",
+"12"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "In what year did Friends first premiere?",
+"options": [
+"1992",
+"1994",
+"1998",
+"1996"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of Joey's Cabbage Patch Kid?",
+"options": [
+"Emily May Brown",
+"Betty Lou Tribbiani",
+"Alicia May Emory",
+"Mary Sue Smith"
+],
+"answer": 2,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What is the name of the made-up game Chandler invents to give Joey money?",
+"options": [
+"Dice",
+"Bamboozled",
+"Pyramid",
+"Cups"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What does Monica start making obsessively to get over Richard?",
+"options": [
+"Jam",
+"Pies",
+"Candy",
+"Wine"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which fruit is Ross allergic to?",
+"options": [
+"Strawberry",
+"Kiwi",
+"Mango",
+"Pineapple"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "In which TV show does Joey compete as a contestant?",
+"options": [
+"Jeopardy!",
+"Wheel of Fortune",
+"Pyramid",
+"Family Feud"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What was the name of Ross and Rachel's male nanny?",
+"options": [
+"Randy",
+"Brian",
+"Mike",
+"Sandy"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which diner did Monica briefly work at as a waitress, in a 1950s costume?",
+"options": [
+"The Moondance Diner",
+"Mama's Diner",
+"Central Perk",
+"Alessandro's"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "At which university does Ross work as a professor?",
+"options": [
+"Yale",
+"NYU",
+"Columbia",
+"Princeton"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What are the names of the triplets Phoebe carries?",
+"options": [
+"Emma, Leslie and Jack",
+"Frank Jr., Phoebe and Chandler",
+"Frank Jr. Jr., Leslie and Chandler",
+"Frank, Alice and Ben"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Who says 'See, he's her lobster!'?",
+"options": [
+"Rachel",
+"Joey",
+"Monica",
+"Phoebe"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "In which city is Friends set?",
+"options": [
+"New York City",
+"Boston",
+"Los Angeles",
+"Chicago"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What mistaken ingredient does Rachel put in her Thanksgiving trifle?",
+"options": [
+"Onions",
+"Beef",
+"Fish",
+"Peas"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of Joey's BarcaLounger?",
+"options": [
+"Rachel",
+"Ruth",
+"Rosita",
+"Rhonda"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Who was the last of the friends to find out about Monica and Chandler's relationship?",
+"options": [
+"Joey",
+"Rachel",
+"Phoebe",
+"Ross"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Chandler and Joey both dated an actress named what?",
+"options": [
+"Kathy",
+"Janine",
+"Katie",
+"Kate"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Who is Santa's friend that Ross invents to teach Ben about Hanukkah?",
+"options": [
+"The Holiday Squirrel",
+"The Holiday Armadillo",
+"The Hanukkah Hedgehog",
+"The Menorah Monkey"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Where does Chandler tell Janice he is moving to avoid her?",
+"options": [
+"Siberia",
+"Antarctica",
+"Yemen",
+"Tulsa"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is Phoebe's grandmother's secret cookie recipe actually named after?",
+"options": [
+"Betty Crocker",
+"Mrs. Fields",
+"Hershey Kiss",
+"Nestle Toulouse"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which actress played Joey's stalker Erika Ford?",
+"options": [
+"Brooke Shields",
+"Jennifer Love Hewitt",
+"Winona Ryder",
+"Julia Roberts"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which of Monica's boyfriends wanted to become an Ultimate Fighting Champion?",
+"options": [
+"Fun Bobby",
+"Pete Becker",
+"Richard Burke",
+"Alan"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "In which city did Monica and Chandler first get together?",
+"options": [
+"Barbados",
+"New York",
+"London",
+"Las Vegas"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "For which game show audition do Chandler and Ross help Joey practice?",
+"options": [
+"Jeopardy!",
+"Pyramid",
+"Match Game",
+"Bamboozled"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What is Rachel's actual favorite movie?",
+"options": [
+"Weekend at Bernie's",
+"Dangerous Liaisons",
+"Dirty Dancing",
+"Pretty Woman"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What did Ross create as a comic book hero?",
+"options": [
+"Captain Paleo",
+"Science Boy",
+"Fossil Kid",
+"Dino Man"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What is Monica's biggest pet peeve?",
+"options": [
+"Loud chewing",
+"Messy kitchens",
+"Animals dressed as humans",
+"Crooked pictures"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which book does Joey keep in the freezer when he is scared?",
+"options": [
+"It",
+"Dracula",
+"Misery",
+"The Shining"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of Ross and Monica's maternal grandmother?",
+"options": [
+"Althea",
+"Edna",
+"Judith",
+"Ida"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Joey served as the butt double for which famous actor?",
+"options": [
+"Tom Cruise",
+"Al Pacino",
+"Robert De Niro",
+"Marlon Brando"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What is the name of Phoebe's alter ego?",
+"options": [
+"Ursula Buffay",
+"Phoebe Abbott",
+"Regina Phalange",
+"Princess Consuela"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "In what year did the Friends series finale air?",
+"options": [
+"2003",
+"2006",
+"2002",
+"2004"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What is the name of Monica and Rachel's building superintendent?",
+"options": [
+"Mr. Treeger",
+"Mr. Heckles",
+"Mr. Waltham",
+"Mr. Zelner"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What is Joey's ATM PIN, which spells out his name on a keypad?",
+"options": [
+"1234",
+"5639",
+"4567",
+"2468"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Which state is the last one Ross can't remember when naming all 50?",
+"options": [
+"Nevada",
+"Vermont",
+"Delaware",
+"Maine"
+],
+"answer": 2,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What was the name of Chandler's roommate before Joey?",
+"options": [
+"Eddie",
+"Ross",
+"Tim",
+"Kip"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What is the name of Rachel's hairless cat?",
+"options": [
+"Mrs. Whiskerson",
+"Sphynxy",
+"Princess Naked",
+"Mr. Fluffles"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which balloon escapes during the Macy's Thanksgiving Day Parade in Season 1?",
+"options": [
+"Bullwinkle",
+"Underdog",
+"Garfield",
+"Snoopy"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Which friend once mugged Ross?",
+"options": [
+"Chandler",
+"Monica",
+"Phoebe",
+"Rachel"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which high school did Monica, Ross and Rachel attend?",
+"options": [
+"Westfield High",
+"Central High School",
+"Roosevelt High School",
+"Lincoln High School"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What was the name of Monica's senior prom date?",
+"options": [
+"Roy Gublik",
+"Fun Bobby",
+"Barry Farber",
+"Chip Matthews"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Who is Ross jealous of at Rachel's workplace?",
+"options": [
+"Joshua",
+"Mark",
+"Paolo",
+"Tag"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of the 'hot girl from the Xerox place' Ross sleeps with, leading to 'we were on a break'?",
+"options": [
+"Bonnie",
+"Cassie",
+"Chloe",
+"Elizabeth"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Who is the first Friend to speak in the pilot episode?",
+"options": [
+"Ross",
+"Rachel",
+"Joey",
+"Monica"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Which band sings the Friends theme 'I'll Be There for You'?",
+"options": [
+"The Rembrandts",
+"Hootie & the Blowfish",
+"The Cars",
+"The Monkees"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Rachel kissed a sorority sister in college played by which actress?",
+"options": [
+"Lisa Kudrow",
+"Winona Ryder",
+"Reese Witherspoon",
+"Julia Roberts"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What is the age gap between Monica and Richard?",
+"options": [
+"30 years",
+"10 years",
+"21 years",
+"15 years"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which language is Gunther inexplicably fluent in?",
+"options": [
+"Swedish",
+"German",
+"Russian",
+"Dutch"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "How much does Joey receive for donating his sperm?",
+"options": [
+"$700",
+"$200",
+"$7,000",
+"$70"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "How old was Chandler when he started smoking?",
+"options": [
+"Fifteen",
+"Nine",
+"Twelve",
+"Seven"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Which actor plays Phoebe's brother Frank Jr.?",
+"options": [
+"Hank Azaria",
+"Paul Rudd",
+"Giovanni Ribisi",
+"Matt LeBlanc"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which episode of Friends takes place in real time?",
+"options": [
+"The One with the Football",
+"The One with the Prom Video",
+"The One with the Embryos",
+"The One Where No One's Ready"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which actress plays the young woman from Ohio whose baby Chandler and Monica hope to adopt?",
+"options": [
+"Anna Faris",
+"Reese Witherspoon",
+"Jennifer Coolidge",
+"Kristen Wiig"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What item do Monica and Rachel fight over when Rachel moves out?",
+"options": [
+"A lamp",
+"Candlesticks",
+"A blender",
+"A coffee table"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Why does Chandler hate Thanksgiving?",
+"options": [
+"He lost a toe",
+"He once burned the turkey",
+"His parents announced their divorce that day",
+"His girlfriend dumped him"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which actress plays Rachel's sister Jill?",
+"options": [
+"Winona Ryder",
+"Julia Roberts",
+"Brooke Shields",
+"Reese Witherspoon"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What song does Rachel sing at Barry and Mindy's wedding?",
+"options": [
+"Copacabana",
+"I Will Survive",
+"Dancing Queen",
+"Y.M.C.A."
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What relationship milestone do Chandler and Monica reach while she has a turkey on her head?",
+"options": [
+"They get married",
+"He tells her he loves her",
+"They move in together",
+"They get engaged"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "In the series finale, where do Chandler and Monica move with their twins?",
+"options": [
+"Brooklyn",
+"Connecticut",
+"Westchester",
+"Long Island"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which actress plays Joey's agent Estelle Leonard?",
+"options": [
+"Anita Barone",
+"Christine Taylor",
+"Estelle Getty",
+"June Gable"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What is the name of the restaurant where Monica works as head chef for much of the series?",
+"options": [
+"Alessandro's",
+"Moondance Diner",
+"Pizza Hut",
+"Javu"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which actress originally played Carol before Jane Sibbett?",
+"options": [
+"Elle Macpherson",
+"Anita Barone",
+"Reese Witherspoon",
+"Jane Lynch"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Who is the character played by Adam Goldberg who briefly lives with Chandler?",
+"options": [
+"Pete Becker",
+"Kip",
+"Eddie Menuek",
+"Tag Jones"
+],
+"answer": 2,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Who plays Phoebe's very enthusiastic date Parker?",
+"options": [
+"Tom Selleck",
+"Billy Crystal",
+"Bruce Willis",
+"Alec Baldwin"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What is Phoebe's most famous song?",
+"options": [
+"Smelly Cat",
+"Hairy Cat",
+"Stinky Dog",
+"Hot Cat"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of Ross's second wife's father?",
+"options": [
+"Richard Burke",
+"Stephen Waltham",
+"Jack Geller",
+"Charles Bing"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "How does Dr. Drake Ramoray's character die on Days of Our Lives?",
+"options": [
+"He drowns",
+"He is hit by a bus",
+"He falls down an elevator shaft",
+"He is poisoned"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which wedding gift makes Rachel walk out on her wedding to Barry?",
+"options": [
+"A toaster",
+"A tray",
+"A salt shaker",
+"A gravy boat"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What is the name of Chandler's mother?",
+"options": [
+"Nora",
+"Judy",
+"Sandra",
+"Althea"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "In which season are Ross and Rachel 'on a break'?",
+"options": [
+"Season 1",
+"Season 3",
+"Season 5",
+"Season 7"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What is the Geller Cup contested over?",
+"options": [
+"A tennis match",
+"A trivia contest",
+"A touch football game",
+"A cooking competition"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What does Phoebe decide to name Frank Jr.'s third baby?",
+"options": [
+"Rachel",
+"Ross",
+"Joey",
+"Chandler"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Who says 'Come on, Ross, you're a paleontologist; dig a little deeper'?",
+"options": [
+"Phoebe",
+"Rachel",
+"Joey",
+"Monica"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What does Monica get Chandler as a gift in Season 6?",
+"options": [
+"A watch",
+"A water purifier",
+"A gym membership",
+"A bowling ball"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Who ends up keeping the chick and the duck?",
+"options": [
+"Chandler",
+"Phoebe",
+"Joey",
+"Monica"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which Friend gives birth first: Phoebe or Rachel?",
+"options": [
+"Monica",
+"Rachel",
+"They give birth at the same time",
+"Phoebe"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What name does Phoebe want her friends to call her after she changes her name to Princess Consuela?",
+"options": [
+"Valerie",
+"Regina",
+"Consuela",
+"Ursula"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What name does Jack Geller accidentally call Chandler?",
+"options": [
+"Chet",
+"Chauncey",
+"Chester",
+"Charles"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What accent does Ross fake in front of his students?",
+"options": [
+"Italian",
+"French",
+"British",
+"Australian"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Who speaks the very last line of the series?",
+"options": [
+"Ross",
+"Monica",
+"Rachel",
+"Chandler"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What was Monica's apartment number changed to after it was originally 5?",
+"options": [
+"20",
+"25",
+"10",
+"15"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What is Rachel's mother's first name?",
+"options": [
+"Judy",
+"Sandra",
+"Phyllis",
+"Nora"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Who said 'Welcome to the real world. It sucks. You're gonna love it.'?",
+"options": [
+"Ross",
+"Rachel",
+"Monica",
+"Phoebe"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Who said 'We were on a break!'?",
+"options": [
+"Chandler",
+"Joey",
+"Monica",
+"Ross"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Who is famous for the pickup line 'How you doin'?'",
+"options": [
+"Joey",
+"Ross",
+"Chandler",
+"Mike"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which Friend says 'I KNOW!'",
+"options": [
+"Janice",
+"Monica",
+"Rachel",
+"Phoebe"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Who says 'Could I BE wearing any more clothes?'",
+"options": [
+"Joey",
+"Gunther",
+"Chandler",
+"Ross"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Who says 'They don't know that we know they know we know'?",
+"options": [
+"Monica",
+"Rachel",
+"Chandler",
+"Phoebe"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Who says 'I'm not great at the advice. Can I interest you in a sarcastic comment?'",
+"options": [
+"Chandler",
+"Monica",
+"Rachel",
+"Ross"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Who sings 'Smelly cat, smelly cat, what are they feeding you?'",
+"options": [
+"Ross",
+"Phoebe",
+"Rachel",
+"Joey"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Who says 'My sandwich? MY SANDWICH?!'",
+"options": [
+"Chandler",
+"Rachel",
+"Ross",
+"Joey"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Who says 'I wish I could, but I don't want to'?",
+"options": [
+"Joey",
+"Janice",
+"Mike",
+"Phoebe"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What bakery made the cheesecake that Rachel and Chandler ate off the floor?",
+"options": [
+"Mama's Little Bakery",
+"Sara Lee",
+"Monica's Bakery",
+"Gunther's Bakery"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What is Emma's first word?",
+"options": [
+"Dada",
+"Gleba",
+"Hugsy",
+"Mama"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Phoebe accidentally gives Monica a haircut in the style of which actress?",
+"options": [
+"Meg Ryan",
+"Princess Diana",
+"Demi Moore",
+"Winona Ryder"
+],
+"answer": 2,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "Where is Erica, the birth mother of Monica and Chandler's twins, from?",
+"options": [
+"Nebraska",
+"Texas",
+"Maine",
+"Ohio"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which letter volume of the encyclopedia does Joey buy?",
+"options": [
+"V",
+"Z",
+"J",
+"A"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Which Friends actress plays Rachel Green?",
+"options": [
+"Reese Witherspoon",
+"Jennifer Aniston",
+"Lisa Kudrow",
+"Courteney Cox"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which actor plays Chandler Bing?",
+"options": [
+"David Schwimmer",
+"Paul Rudd",
+"Matthew Perry",
+"Matt LeBlanc"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which actor plays Joey Tribbiani?",
+"options": [
+"Giovanni Ribisi",
+"Matthew Perry",
+"David Schwimmer",
+"Matt LeBlanc"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which actress plays Phoebe Buffay?",
+"options": [
+"Lisa Kudrow",
+"Jennifer Aniston",
+"Courteney Cox",
+"Anna Faris"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which actress plays Monica Geller?",
+"options": [
+"Elle Macpherson",
+"Courteney Cox",
+"Lisa Kudrow",
+"Jennifer Aniston"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which actor plays Ross Geller?",
+"options": [
+"Matthew Perry",
+"Matt LeBlanc",
+"David Schwimmer",
+"Hank Azaria"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of the coffee shop where the friends hang out?",
+"options": [
+"The Grind",
+"Java Joe's",
+"Perky's",
+"Central Perk"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of the Central Perk barista who adores Rachel?",
+"options": [
+"Gunther",
+"Mike",
+"Eddie",
+"Ben"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is Ross's profession?",
+"options": [
+"Biologist",
+"Paleontologist",
+"Geologist",
+"Archaeologist"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is Rachel's job when the series begins?",
+"options": [
+"Fashion buyer",
+"Teacher",
+"Waitress at Central Perk",
+"Nurse"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is Monica's profession?",
+"options": [
+"Waitress",
+"Baker",
+"Nurse",
+"Chef"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is Joey's last name?",
+"options": [
+"Tribbiani",
+"Bing",
+"Buffay",
+"Geller"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is Ross and Rachel's daughter's name?",
+"options": [
+"Michelle",
+"Emma",
+"Ben",
+"Erica"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is Ross and Carol's son's name?",
+"options": [
+"Jack",
+"Cole",
+"Ben",
+"Frank"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which Friend is Ross's sister?",
+"options": [
+"Janice",
+"Rachel",
+"Phoebe",
+"Monica"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of Chandler's father's drag stage name?",
+"options": [
+"Helena Handbasket",
+"Helena Highheels",
+"Lola Lipstick",
+"Charlene Bing"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What is the name of Phoebe's half-brother?",
+"options": [
+"Frank Sr.",
+"Frank Jr.",
+"Jack",
+"Ben"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What is the name of Phoebe's husband in the final seasons?",
+"options": [
+"David",
+"Mike Biggs",
+"Mike Hannigan",
+"Duncan"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Whose last name is Hosenstein, famous for a distinct laugh?",
+"options": [
+"Kathy",
+"Mona",
+"Emily",
+"Janice"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "What is the name of Ross's British second wife?",
+"options": [
+"Emily Waltham",
+"Charlie Wheeler",
+"Carol Willick",
+"Julie"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "What is the name of the paleontology professor Ross dates and Joey also dates?",
+"options": [
+"Emily Waltham",
+"Charlie Wheeler",
+"Elizabeth Stevens",
+"Kathy"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Friends",
+"q": "Phoebe performs her original songs at Central Perk on which instrument?",
+"options": [
+"Drums",
+"Violin",
+"Guitar",
+"Piano"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Friends",
+"q": "Which company gave Rachel her first fashion job after she left Central Perk?",
+"options": [
+"Louis Vuitton",
+"Barneys",
+"Ralph Lauren",
+"Fortunata Fashions"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Friends",
+"q": "What is the 'Joey Special'?",
+"options": [
+"Two pizzas",
+"A pizza with a sandwich",
+"Pizza with extra cheese",
+"A giant sub"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Will & Grace",
+"q": "What is Grace Adler's profession?",
+"options": [
+"Pastry chef",
+"Interior designer",
+"Fashion buyer",
+"Lawyer"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Will & Grace",
+"q": "What is Will Truman's profession?",
+"options": [
+"Architect",
+"Talk show host",
+"Lawyer",
+"Doctor"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Will & Grace",
+"q": "Which actor plays Will Truman?",
+"options": [
+"Harry Connick Jr.",
+"Sean Hayes",
+"Leslie Jordan",
+"Eric McCormack"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Will & Grace",
+"q": "Which actress plays Karen Walker?",
+"options": [
+"Megan Mullally",
+"Shelley Morrison",
+"Minnie Driver",
+"Debra Messing"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Will & Grace",
+"q": "Which actor plays Jack McFarland?",
+"options": [
+"Eric McCormack",
+"Sean Hayes",
+"Michael Angarano",
+"Leslie Jordan"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Will & Grace",
+"q": "What is the name of Karen Walker's husband?",
+"options": [
+"Harlin",
+"Leo Markus",
+"Stan Walker",
+"Lorne Walker"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Will & Grace",
+"q": "Who is Karen's maid?",
+"options": [
+"Lorraine Finster",
+"Bobbi Adler",
+"Anastasia Beaverhausen",
+"Rosario Salazar"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Will & Grace",
+"q": "Which actress played Rosario Salazar?",
+"options": [
+"Shelley Morrison",
+"Megan Mullally",
+"Minnie Driver",
+"Rosie O'Donnell"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Will & Grace",
+"q": "Which actor played Karen's nemesis Beverley Leslie?",
+"options": [
+"Eric McCormack",
+"Leslie Jordan",
+"Sean Hayes",
+"Harry Connick Jr."
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Will & Grace",
+"q": "Which actor plays Grace's husband Leo Markus?",
+"options": [
+"Patrick Dempsey",
+"Bobby Cannavale",
+"Harry Connick Jr.",
+"Eric McCormack"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Will & Grace",
+"q": "Who plays Grace's mother, Bobbi Adler?",
+"options": [
+"Rosie O'Donnell",
+"Minnie Driver",
+"Cher",
+"Debbie Reynolds"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Will & Grace",
+"q": "What is the name of Jack's one-man show and talk show?",
+"options": [
+"Just Jack",
+"Jack of All Trades",
+"The Jack Hour",
+"Jack Attack"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Will & Grace",
+"q": "What is the name of Jack's son?",
+"options": [
+"Harlin",
+"Elliott",
+"Mason",
+"Leo"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Will & Grace",
+"q": "What is Karen's signature term of address for Grace and others?",
+"options": [
+"Darling",
+"Sugar",
+"Honey",
+"Doll"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Will & Grace",
+"q": "What name does Karen use as her 'fake name' when somewhere incognito?",
+"options": [
+"Lorraine Finster",
+"Shu Shu Fontana",
+"Bobbi Adler",
+"Anastasia Beaverhausen"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Will & Grace",
+"q": "What does Karen often call Will instead of his real name?",
+"options": [
+"Wilma",
+"Willy",
+"Willa",
+"Wilbur"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Will & Grace",
+"q": "In which city is Will & Grace set?",
+"options": [
+"Boston",
+"New York City",
+"Chicago",
+"Los Angeles"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Will & Grace",
+"q": "In what year did the original Will & Grace premiere?",
+"options": [
+"1996",
+"1995",
+"1998",
+"2001"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Will & Grace",
+"q": "How many seasons did the original run of Will & Grace have?",
+"options": [
+"7",
+"10",
+"6",
+"8"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Will & Grace",
+"q": "What is the title of the Will & Grace pilot episode?",
+"options": [
+"Love and Marriage",
+"Will Meets Grace",
+"Pilot Light",
+"Boy Meets Girl"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Will & Grace",
+"q": "What is the name of Grace's design firm?",
+"options": [
+"Walker Interiors",
+"Grace Adler Designs",
+"Adler & Truman",
+"Grace Notes"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Will & Grace",
+"q": "What is Karen Walker's drink of choice?",
+"options": [
+"Mimosa",
+"Cosmopolitan",
+"Martini",
+"Margarita"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Will & Grace",
+"q": "Whom did Grace date in college before Will came out?",
+"options": [
+"Leo Markus",
+"Rob",
+"Jack McFarland",
+"Will Truman"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Will & Grace",
+"q": "What is the name of Grace and Leo's daughter in the finale?",
+"options": [
+"Lila",
+"Bobbi",
+"Karen",
+"Olivia"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Will & Grace",
+"q": "Which director-actor played Will's father, George Truman?",
+"options": [
+"Harry Connick Jr.",
+"Sydney Pollack",
+"Sean Hayes",
+"Rob Reiner"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Frasier",
+"q": "Frasier thinks he is reciting a Hebrew blessing at Frederick's bar mitzvah, but Noel has secretly translated it into which language?",
+"options": [
+"German",
+"Elvish",
+"Klingon",
+"Yiddish"
+],
+"answer": 2,
+"d": 3
+},
+{
+"show": "Frasier",
+"q": "What are the call letters of the Seattle radio station where Frasier works?",
+"options": [
+"KRAP",
+"KBBL",
+"KATZ",
+"KACL"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Frasier",
+"q": "What is Frasier's main hangout coffee shop?",
+"options": [
+"Café Nervosa",
+"Bubba Gump's Shrimpin' Hut",
+"Le Cigar Volant",
+"McGinty's"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Frasier",
+"q": "What English city is Daphne Moon from?",
+"options": [
+"Belfast",
+"Manchester",
+"York",
+"London"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Frasier",
+"q": "Who sings the Frasier theme song, 'Tossed Salad and Scrambled Eggs'?",
+"options": [
+"Scatman Crothers",
+"David Hyde Pierce",
+"Kelsey Grammer",
+"John Mahoney"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Frasier",
+"q": "What is Martin Crane's favorite brand of beer?",
+"options": [
+"Budweiser",
+"Coors",
+"Henry Weinhard's",
+"Ballantine"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Frasier",
+"q": "What is Frasier Crane's profession?",
+"options": [
+"Psychiatrist",
+"Cardiologist",
+"Social worker",
+"Neurologist"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Frasier",
+"q": "What was Martin Crane's job before he retired?",
+"options": [
+"Postal worker",
+"Police detective",
+"Security guard",
+"Firefighter"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Frasier",
+"q": "What breed is Martin's dog, Eddie?",
+"options": [
+"Border Collie",
+"Beagle",
+"Jack Russell Terrier",
+"Corgi"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Frasier",
+"q": "What is the name of Frasier's radio producer?",
+"options": [
+"Kenny Daly",
+"Daphne Moon",
+"Lilith Sternin",
+"Roz Doyle"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Frasier",
+"q": "What is the name of Frasier's snobbish younger brother?",
+"options": [
+"Niles",
+"Giles",
+"Wiles",
+"Miles"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Frasier",
+"q": "Who is Frasier's ex-wife, the icy psychiatrist who is Frederick's mother?",
+"options": [
+"Maris",
+"Lilith",
+"Roz",
+"Diane"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Frasier",
+"q": "What is the name of Niles's unseen, famously thin wife?",
+"options": [
+"Mavis",
+"Lilith",
+"Maris",
+"Marlene"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Frasier",
+"q": "What is Daphne Moon's profession when she first arrives?",
+"options": [
+"Chef",
+"Nurse",
+"Dog trainer",
+"Physical therapist"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Frasier",
+"q": "Which show did Frasier spin off from?",
+"options": [
+"Cheers",
+"Taxi",
+"Wings",
+"Seinfeld"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Frasier",
+"q": "In which city is Frasier set?",
+"options": [
+"Chicago",
+"Seattle",
+"Portland",
+"Boston"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Frasier",
+"q": "What is the name of the radio show Frasier hosts?",
+"options": [
+"Ask Dr. Frasier",
+"Crane Talk",
+"The Dr. Frasier Crane Show",
+"The Frasier Hour"
+],
+"answer": 2,
+"d": 3
+},
+{
+"show": "Frasier",
+"q": "What is Frasier's famous radio sign-on line?",
+"options": [
+"'Talk to me.'",
+"'Go ahead, caller.'",
+"'Tell me everything.'",
+"'I'm listening.'"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Frasier",
+"q": "What is the name of the pompous food critic who is a friend of the Crane brothers on Frasier?",
+"options": [
+"Gil Chesterton",
+"Gil Grissom",
+"Gil Fitzgerald",
+"Gil Gunderson"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Frasier",
+"q": "What is the name of Frasier and Lilith's son?",
+"options": [
+"Gilbert",
+"Frederick",
+"Nigel",
+"Eddie"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Cheers",
+"q": "Which Boston bar, where everybody knows your name, is the setting of its own sitcom?",
+"options": [
+"The Regal Beagle",
+"MacLaren's",
+"Cheers",
+"Paddy's Pub"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "The Fresh Prince of Bel-Air",
+"q": "Who played Uncle Phil on The Fresh Prince of Bel-Air?",
+"options": [
+"Philip Baker Hall",
+"Bernie Mac",
+"John Witherspoon",
+"James Avery"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Seinfeld",
+"q": "What city is Seinfeld set in?",
+"options": [
+"New York City",
+"Boston",
+"Chicago",
+"Los Angeles"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Full House",
+"q": "On Full House, what were the Tanner sisters' names?",
+"options": [
+"Mallory, Jennifer, and Alex",
+"D.J., Stephanie, and Michelle",
+"Becky, Darlene, and Jackie",
+"Kelly, Lisa, and Jessica"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Home Improvement",
+"q": "What was Tim Taylor's TV show called on Home Improvement?",
+"options": [
+"The Toolman Show",
+"Fix It Up",
+"Tool Time",
+"Home Time"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Seinfeld",
+"q": "What is the name of the diner where Jerry and friends hang out on Seinfeld?",
+"options": [
+"Jerry's Café",
+"Tom's Restaurant",
+"Sal's Diner",
+"Monk's Café"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "The Nanny",
+"q": "On The Nanny, what was Fran Fine's job before she became a nanny?",
+"options": [
+"Bridal shop saleswoman",
+"Makeup artist",
+"Department store clerk",
+"Hair stylist"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "The Drew Carey Show",
+"q": "On The Drew Carey Show, what is the name of the Cleveland department store where Drew works?",
+"options": [
+"Kessler & Sons",
+"Winfred-Louder",
+"Halsted & Hale",
+"Wagner's"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "3rd Rock from the Sun",
+"q": "On 3rd Rock from the Sun, what is the alien family's mission on Earth?",
+"options": [
+"To retrieve stolen technology",
+"To conquer Earth",
+"To study human behavior",
+"To find a new home planet"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "NewsRadio",
+"q": "On NewsRadio, what is the call sign of the fictional New York radio station?",
+"options": [
+"WNYC",
+"WXRK",
+"WNEW",
+"WNYX"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "The Simpsons",
+"q": "What instrument does Lisa Simpson play?",
+"options": [
+"Saxophone",
+"Trumpet",
+"Clarinet",
+"Flute"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Boy Meets World",
+"q": "On Boy Meets World, what is the name of Cory's older brother?",
+"options": [
+"Shawn",
+"Eric",
+"Joshua",
+"Morgan"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Married... with Children",
+"q": "On Married... with Children, what were the names of the Bundys' next-door neighbors?",
+"options": [
+"The Kramdens",
+"The Jeffersons",
+"The Rhoades/D'Arcys",
+"The Flanders"
+],
+"answer": 2,
+"d": 3
+},
+{
+"show": "Seinfeld",
+"q": "What was the name of George Costanza's fiancée who died from licking toxic envelopes?",
+"options": [
+"Sarah",
+"Sharon",
+"Sandra",
+"Susan"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Family Matters",
+"q": "On Family Matters, what is the name of Steve Urkel's suave alter ego?",
+"options": [
+"Stefan Urquelle",
+"Slick Steve",
+"Cool Carl",
+"Smooth Stanley"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Mad About You",
+"q": "On Mad About You, what is Paul Buchman's profession?",
+"options": [
+"Architect",
+"Documentary filmmaker",
+"Advertising executive",
+"Writer"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Living Single",
+"q": "On Living Single, what is the name of the magazine Khadijah James publishes?",
+"options": [
+"Essence",
+"Urban Style",
+"Flavor",
+"Vibe"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "A Different World",
+"q": "On A Different World, what is Dwayne Wayne's signature accessory?",
+"options": [
+"A bow tie",
+"Round sunglasses",
+"Aviator sunglasses",
+"Flip-up sunglasses"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Spin City",
+"q": "On Spin City, what is Mike Flaherty's job in New York City government?",
+"options": [
+"Deputy mayor",
+"City council member",
+"Chief of staff",
+"Press secretary"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Roseanne",
+"q": "On Roseanne, what is the name of the Conners' youngest child and only son?",
+"options": [
+"Jerry",
+"D.J.",
+"David",
+"Andy"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Coach",
+"q": "In Coach, which college football team does Hayden Fox lead for most of the series?",
+"options": [
+"Penn State",
+"Michigan Tech",
+"Minnesota State University",
+"Ohio State"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Just Shoot Me!",
+"q": "On Just Shoot Me!, what is the name of the fashion magazine where the characters work?",
+"options": [
+"Vogue",
+"Runway",
+"Mode",
+"Blush"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Step by Step",
+"q": "On Step by Step, which two families merge into one blended household?",
+"options": [
+"Foster and Lambert",
+"Tanner and Foster",
+"Winslow and Lambert",
+"Brady and Martin"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Seinfeld",
+"q": "What is Kramer's first name on Seinfeld?",
+"options": [
+"Kenny",
+"Cosmo",
+"Newman",
+"Jackson"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Home Improvement",
+"q": "On Home Improvement, what is the name of Tim's wise, always half-hidden neighbor?",
+"options": [
+"Willis",
+"Warren",
+"Wilson",
+"Walter"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Comedy · 1960s",
+"q": "Who directed the 1960 comedy-drama The Apartment?",
+"options": [
+"Blake Edwards",
+"Frank Capra",
+"Billy Wilder",
+"Howard Hawks"
+],
+"answer": 2,
+"d": 3
+},
+{
+"show": "Comedy · 1960s",
+"q": "How many roles does Peter Sellers play in Dr. Strangelove (1964)?",
+"options": [
+"Three",
+"One",
+"Two",
+"Four"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 1960s",
+"q": "Dr. Strangelove's subtitle: \"How I Learned to Stop Worrying and Love the ___\"",
+"options": [
+"Pentagon",
+"Russians",
+"Bomb",
+"Dark"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Comedy · 1960s",
+"q": "What fictional North Carolina town is the setting of The Andy Griffith Show?",
+"options": [
+"Walton's Mountain",
+"Hooterville",
+"Mayfield",
+"Mayberry"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Comedy · 1960s",
+"q": "What is Maxwell Smart's agent number in Get Smart?",
+"options": [
+"77",
+"99",
+"13",
+"86"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Comedy · 1960s",
+"q": "What is the name of the doomed ship in Gilligan's Island?",
+"options": [
+"S.S. Minnow",
+"S.S. Neptune",
+"S.S. Anita",
+"S.S. Skipper"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Comedy · 1960s",
+"q": "In The Producers (1967), what is the title of the intentionally terrible musical?",
+"options": [
+"Springtime for Hitler",
+"Heil Broadway",
+"Springtime in Berlin",
+"Hitler on Ice"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 1960s",
+"q": "Who composed the famous theme for The Pink Panther (1963)?",
+"options": [
+"Quincy Jones",
+"Henry Mancini",
+"John Barry",
+"Burt Bacharach"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Comedy · 1960s",
+"q": "What is the name of Samantha's mortal husband in Bewitched?",
+"options": [
+"Darrin",
+"Walter",
+"Larry",
+"Alex"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 1960s",
+"q": "What does Jed Clampett discover that makes the Beverly Hillbillies rich?",
+"options": [
+"Gold",
+"Oil",
+"Silver",
+"Diamonds"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Comedy · 1960s",
+"q": "What is the name of the Addams Family's towering butler?",
+"options": [
+"Igor",
+"Cadwallader",
+"Lurch",
+"Jeeves"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Comedy · 1960s",
+"q": "What piece of furniture does Rob Petrie often trip over in The Dick Van Dyke Show's opening?",
+"options": [
+"A rug",
+"An ottoman",
+"A dog bed",
+"A coat rack"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Comedy · 1960s",
+"q": "Who directed the Beatles' comedy film A Hard Day's Night (1964)?",
+"options": [
+"Mel Brooks",
+"Ken Russell",
+"Tony Richardson",
+"Richard Lester"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Comedy · 1960s",
+"q": "Which duo wrote and performed the songs for The Graduate (1967)?",
+"options": [
+"Simon & Garfunkel",
+"Sonny & Cher",
+"The Everly Brothers",
+"The Righteous Brothers"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Comedy · 1970s",
+"q": "In Monty Python and the Holy Grail (1975), what do the Knights Who Say \"Ni\" demand?",
+"options": [
+"The Holy Grail",
+"A shrubbery",
+"A herring",
+"A cow"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Comedy · 1970s",
+"q": "In Holy Grail, what do the knights' servants bang together to simulate horses?",
+"options": [
+"Pots",
+"Wooden spoons",
+"Coconuts",
+"Bells"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 1970s",
+"q": "Blazing Saddles (1974) takes place in which town?",
+"options": [
+"Tombstone",
+"Dodge City",
+"Rock Ridge",
+"Deadwood"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Comedy · 1970s",
+"q": "What visual style was Young Frankenstein (1974) filmed in?",
+"options": [
+"Silent with title cards",
+"Technicolor",
+"Sepia-toned color",
+"Black and white"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Comedy · 1970s",
+"q": "Which Annie Hall star's real surname is Hall?",
+"options": [
+"Diane Keaton",
+"Carol Kane",
+"Meryl Streep",
+"Shelley Duvall"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 1970s",
+"q": "What is Archie Bunker's nickname for his son-in-law Mike in All in the Family?",
+"options": [
+"Meathead",
+"Pinhead",
+"Stretch",
+"Lunkhead"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 1970s",
+"q": "In which city does Mary Richards work at WJM-TV in The Mary Tyler Moore Show?",
+"options": [
+"Chicago",
+"Milwaukee",
+"Minneapolis",
+"Cleveland"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 1970s",
+"q": "What is the name of the hangout diner in Happy Days?",
+"options": [
+"Monk's",
+"Arnold's",
+"Al's",
+"Mel's"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Comedy · 1970s",
+"q": "Fawlty Towers is set in which English seaside town?",
+"options": [
+"Blackpool",
+"Torquay",
+"Bournemouth",
+"Brighton"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Comedy · 1970s",
+"q": "In Life of Brian (1979), Brian is born in the stable next door to whom?",
+"options": [
+"John the Baptist",
+"Pontius Pilate",
+"Judas",
+"Jesus"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Comedy · 1970s",
+"q": "Which comedian played Latka Gravas on Taxi?",
+"options": [
+"Tony Danza",
+"Danny DeVito",
+"Andy Kaufman",
+"Christopher Lloyd"
+],
+"answer": 2,
+"d": 3
+},
+{
+"show": "Comedy · 1970s",
+"q": "National Lampoon's Animal House (1978) is set at which fictional college?",
+"options": [
+"Faber College",
+"Whiteman College",
+"Hudson University",
+"Delta College"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Comedy · 1970s",
+"q": "Which two grumpy hecklers sit in the balcony of The Muppet Show?",
+"options": [
+"Statler and Waldorf",
+"Pepe and Sam",
+"Beaker and Bunsen",
+"Rowlf and Fozzie"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 1970s",
+"q": "Who played Sheriff Bart in Blazing Saddles?",
+"options": [
+"Cleavon Little",
+"Redd Foxx",
+"Gene Wilder",
+"Richard Pryor"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 1980s",
+"q": "Which actor, known for dramas, played Dr. Rumack in Airplane! (1980)?",
+"options": [
+"Lloyd Bridges",
+"Robert Stack",
+"Peter Graves",
+"Leslie Nielsen"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Comedy · 1980s",
+"q": "What is the name of the Ghostbusters' modified Cadillac?",
+"options": [
+"Slime-1",
+"Ecto-1",
+"Ghost-1",
+"Proton-1"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Comedy · 1980s",
+"q": "At what speed must the DeLorean travel to time travel in Back to the Future (1985)?",
+"options": [
+"66 mph",
+"99 mph",
+"88 mph",
+"100 mph"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Comedy · 1980s",
+"q": "In which city is Ferris Bueller's Day Off (1986) set?",
+"options": [
+"Cleveland",
+"Milwaukee",
+"Chicago",
+"Detroit"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 1980s",
+"q": "Which parade does Ferris Bueller crash?",
+"options": [
+"Von Steuben Day Parade",
+"Thanksgiving Day Parade",
+"Pulaski Day Parade",
+"Fourth of July Parade"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 1980s",
+"q": "What was Sam Malone's profession before he owned the bar in Cheers?",
+"options": [
+"Boston Celtics guard",
+"Boston Red Sox relief pitcher",
+"Boston Bruins goalie",
+"New England Patriots quarterback"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Comedy · 1980s",
+"q": "What do The Golden Girls famously eat late at night at the kitchen table?",
+"options": [
+"Apple pie",
+"Cheesecake",
+"Ice cream",
+"Pizza"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Comedy · 1980s",
+"q": "Axel Foley of Beverly Hills Cop is a police detective from which city?",
+"options": [
+"Philadelphia",
+"Detroit",
+"Chicago",
+"New York"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Comedy · 1980s",
+"q": "What animal does groundskeeper Carl Spackler battle in Caddyshack (1980)?",
+"options": [
+"A groundhog",
+"A raccoon",
+"A mole",
+"A gopher"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Comedy · 1980s",
+"q": "Who directed The Princess Bride (1987)?",
+"options": [
+"John Hughes",
+"Ivan Reitman",
+"Rob Reiner",
+"Mel Brooks"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 1980s",
+"q": "What is the fictional African nation in Coming to America (1988)?",
+"options": [
+"Genovia",
+"Zamunda",
+"Sokovia",
+"Wakanda"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Comedy · 1980s",
+"q": "In This Is Spinal Tap, how high do the amps go?",
+"options": [
+"12",
+"10",
+"11",
+"15"
+],
+"answer": 2,
+"d": 1
+},
+{
+"show": "Comedy · 1980s",
+"q": "How many times must you say his name to summon the title character of Beetlejuice (1988)?",
+"options": [
+"Seven",
+"Five",
+"Two",
+"Three"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Comedy · 1980s",
+"q": "In Big (1988), what giant instrument do Josh and Mr. MacMillan play in the toy store?",
+"options": [
+"A drum kit",
+"A floor piano",
+"A pipe organ",
+"A xylophone"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Comedy · 1990s",
+"q": "What holiday does Frank Costanza invent in Seinfeld?",
+"options": [
+"Airing of Grievances Day",
+"Kramerica Day",
+"Frankmas",
+"Festivus"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Comedy · 1990s",
+"q": "In Groundhog Day (1993), Phil Connors covers the festival in which Pennsylvania town?",
+"options": [
+"Punxsutawney",
+"Gettysburg",
+"Altoona",
+"Scranton"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Comedy · 1990s",
+"q": "Which two actors star in Dumb and Dumber (1994)?",
+"options": [
+"Mike Myers and Dana Carvey",
+"Jim Carrey and Jeff Daniels",
+"Chris Farley and David Spade",
+"Adam Sandler and Rob Schneider"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Comedy · 1990s",
+"q": "What is The Dude's drink of choice in The Big Lebowski (1998)?",
+"options": [
+"Black Russian",
+"Old Fashioned",
+"White Russian",
+"Gin fizz"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 1990s",
+"q": "Which Queen song do Wayne and friends headbang to in Wayne's World (1992)?",
+"options": [
+"Bohemian Rhapsody",
+"Somebody to Love",
+"Don't Stop Me Now",
+"We Will Rock You"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Comedy · 1990s",
+"q": "Clueless (1995) is loosely based on which Jane Austen novel?",
+"options": [
+"Sense and Sensibility",
+"Persuasion",
+"Emma",
+"Pride and Prejudice"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 1990s",
+"q": "In Austin Powers: International Man of Mystery (1997), which decade is Austin frozen in?",
+"options": [
+"The 1950s",
+"The 1970s",
+"The 1980s",
+"The 1960s"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Comedy · 1990s",
+"q": "In The Fresh Prince of Bel-Air's theme song, Will is from which neighborhood?",
+"options": [
+"West Philadelphia",
+"Germantown",
+"North Philadelphia",
+"South Philadelphia"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 1990s",
+"q": "What do the employees do to the malfunctioning printer in Office Space (1999)?",
+"options": [
+"Throw it out a window",
+"Shoot it",
+"Smash it with baseball bats",
+"Set it on fire"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 1990s",
+"q": "What is Ace Ventura's profession in the 1994 film?",
+"options": [
+"Zookeeper",
+"Veterinarian",
+"Animal trainer",
+"Pet detective"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Comedy · 2000s",
+"q": "In the US version of The Office, in which Pennsylvania city is Dunder Mifflin's branch?",
+"options": [
+"Harrisburg",
+"Scranton",
+"Philadelphia",
+"Allentown"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Comedy · 2000s",
+"q": "In which English town is the original UK version of The Office set?",
+"options": [
+"Slough",
+"Croydon",
+"Swindon",
+"Reading"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Comedy · 2000s",
+"q": "Who narrates Arrested Development?",
+"options": [
+"Ron Howard",
+"Danny DeVito",
+"Rob Reiner",
+"Morgan Freeman"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Comedy · 2000s",
+"q": "What do the Bluths famously sell from a stand in Arrested Development?",
+"options": [
+"Hot dogs",
+"Lemonade",
+"Frozen bananas",
+"Ice cream"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 2000s",
+"q": "Who created and starred as Liz Lemon in 30 Rock?",
+"options": [
+"Amy Poehler",
+"Tina Fey",
+"Kristen Wiig",
+"Maya Rudolph"
+],
+"answer": 1,
+"d": 1
+},
+{
+"show": "Comedy · 2000s",
+"q": "What name appears on Fogell's fake ID in Superbad (2007)?",
+"options": [
+"McFly",
+"MacGruber",
+"McSteamy",
+"McLovin"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Comedy · 2000s",
+"q": "In Anchorman (2004), in which city does Ron Burgundy anchor the news?",
+"options": [
+"Phoenix",
+"San Diego",
+"Seattle",
+"Los Angeles"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Comedy · 2000s",
+"q": "Borat (2006) claims to be a journalist from which country?",
+"options": [
+"Kazakhstan",
+"Uzbekistan",
+"Kyrgyzstan",
+"Turkmenistan"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Comedy · 2000s",
+"q": "What is the name of the pub in Shaun of the Dead (2004)?",
+"options": [
+"The Crown",
+"The Queen Vic",
+"The Winchester",
+"The Red Lion"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 2000s",
+"q": "In Napoleon Dynamite (2004), whose name is on the \"Vote for ___\" campaign?",
+"options": [
+"Uncle Rico",
+"Tina",
+"Kip",
+"Pedro"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Comedy · 2000s",
+"q": "On which day of the week do the girls wear pink in Mean Girls (2004)?",
+"options": [
+"Wednesday",
+"Friday",
+"Monday",
+"Thursday"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Comedy · 2000s",
+"q": "To which city does Buddy travel from the North Pole in Elf (2003)?",
+"options": [
+"Los Angeles",
+"Boston",
+"Chicago",
+"New York City"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Comedy · 2000s",
+"q": "What is the name of the bar in How I Met Your Mother?",
+"options": [
+"Central Perk",
+"MacLaren's",
+"Moe's",
+"The Drunken Clam"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Comedy · 2000s",
+"q": "How many times does Sheldon knock on a door in The Big Bang Theory?",
+"options": [
+"Two",
+"Four",
+"Five",
+"Three"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Comedy · 2010s",
+"q": "Which star co-wrote the screenplay for Bridesmaids (2011)?",
+"options": [
+"Melissa McCarthy",
+"Rose Byrne",
+"Kristen Wiig",
+"Maya Rudolph"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 2010s",
+"q": "Leslie Knope works for the parks department of which fictional town?",
+"options": [
+"Pawnee",
+"Stars Hollow",
+"Eagleton",
+"Springfield"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Comedy · 2010s",
+"q": "Which actor plays Ron Swanson in Parks and Recreation?",
+"options": [
+"Chris Pratt",
+"Rob Lowe",
+"Adam Scott",
+"Nick Offerman"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Comedy · 2010s",
+"q": "Which actor plays Phil Dunphy in Modern Family?",
+"options": [
+"Ty Burrell",
+"Ed O'Neill",
+"Eric Stonestreet",
+"Jesse Tyler Ferguson"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 2010s",
+"q": "What is the name of Captain Holt's corgi in Brooklyn Nine-Nine?",
+"options": [
+"Cheddar",
+"Waffles",
+"Biscuit",
+"Pancake"
+],
+"answer": 0,
+"d": 3
+},
+{
+"show": "Comedy · 2010s",
+"q": "What office does Selina Meyer hold at the start of Veep?",
+"options": [
+"Vice President",
+"Senator",
+"Secretary of State",
+"Governor"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 2010s",
+"q": "What was Chidi Anagonye's profession in The Good Place?",
+"options": [
+"Lawyer",
+"Moral philosophy professor",
+"Architect",
+"Priest"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Comedy · 2010s",
+"q": "Which actress plays Moira Rose in Schitt's Creek?",
+"options": [
+"Catherine O'Hara",
+"Sarah Levy",
+"Eugene Levy",
+"Annie Murphy"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 2010s",
+"q": "What is the Rose family's one remaining asset, bought as a joke, in Schitt's Creek?",
+"options": [
+"A video store",
+"A winery",
+"A motel",
+"The town itself"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Comedy · 2010s",
+"q": "In which city does The Hangover (2009) take place?",
+"options": [
+"Las Vegas",
+"Miami",
+"Reno",
+"Atlantic City"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 2010s",
+"q": "What storytelling technique is Fleabag famous for?",
+"options": [
+"Silent scenes",
+"Flashbacks",
+"Breaking the fourth wall",
+"Voiceover only"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 2010s",
+"q": "Who directed The Grand Budapest Hotel (2014)?",
+"options": [
+"The Coen brothers",
+"Wes Anderson",
+"Taika Waititi",
+"Yorgos Lanthimos"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Comedy · 2010s",
+"q": "The vampires of the TV series What We Do in the Shadows live in which New York borough?",
+"options": [
+"Brooklyn",
+"Queens",
+"Staten Island",
+"The Bronx"
+],
+"answer": 2,
+"d": 3
+},
+{
+"show": "Comedy · 2010s",
+"q": "Which college do the study group attend in Community?",
+"options": [
+"Sunnydale High",
+"Greendale Community College",
+"Rydell High",
+"Shermer High"
+],
+"answer": 1,
+"d": 2
+},
+{
+"show": "Comedy · 2010s",
+"q": "What does Rick turn himself into in the Rick and Morty episode \"Pickle Rick\"?",
+"options": [
+"A fish",
+"A pancake",
+"A robot",
+"A pickle"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Comedy · 2020s",
+"q": "Before coaching AFC Richmond, Ted Lasso coached which sport?",
+"options": [
+"Baseball",
+"Hockey",
+"Basketball",
+"American football"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Comedy · 2020s",
+"q": "Which actor plays Roy Kent in Ted Lasso?",
+"options": [
+"Juno Temple",
+"Hannah Waddingham",
+"Brett Goldstein",
+"Jason Sudeikis"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 2020s",
+"q": "In which city is Abbott Elementary set?",
+"options": [
+"Philadelphia",
+"Baltimore",
+"Detroit",
+"Chicago"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 2020s",
+"q": "Who created and stars in Abbott Elementary?",
+"options": [
+"Tracee Ellis Ross",
+"Quinta Brunson",
+"Mindy Kaling",
+"Issa Rae"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Comedy · 2020s",
+"q": "In which city is The Bear set?",
+"options": [
+"Chicago",
+"Philadelphia",
+"Boston",
+"New York"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 2020s",
+"q": "What is the name of the building in Only Murders in the Building?",
+"options": [
+"The Ansonia",
+"The Arconia",
+"The Belnord",
+"The Dakota"
+],
+"answer": 1,
+"d": 3
+},
+{
+"show": "Comedy · 2020s",
+"q": "Who directed Barbie (2023)?",
+"options": [
+"Greta Gerwig",
+"Sofia Coppola",
+"Taika Waititi",
+"Nora Ephron"
+],
+"answer": 0,
+"d": 1
+},
+{
+"show": "Comedy · 2020s",
+"q": "Which Oscar-nominated song does Ryan Gosling perform in Barbie?",
+"options": [
+"What Was I Made For?",
+"Speed Drive",
+"Dance the Night",
+"I'm Just Ken"
+],
+"answer": 3,
+"d": 2
+},
+{
+"show": "Comedy · 2020s",
+"q": "In Everything Everywhere All at Once, what object is described as containing everything?",
+"options": [
+"A donut",
+"A rock",
+"An everything bagel",
+"A black hole"
+],
+"answer": 2,
+"d": 2
+},
+{
+"show": "Comedy · 2020s",
+"q": "In which city does comedian Deborah Vance perform in Hacks?",
+"options": [
+"Las Vegas",
+"New York",
+"Los Angeles",
+"Atlantic City"
+],
+"answer": 0,
+"d": 2
+},
+{
+"show": "Comedy · 2020s",
+"q": "How many of the jurors are real participants in Jury Duty (2023)?",
+"options": [
+"Two",
+"Three",
+"One",
+"All of them"
+],
+"answer": 2,
+"d": 3
+},
+{
+"show": "Comedy · 2020s",
+"q": "What is Adam Brody's character's job in Nobody Wants This?",
+"options": [
+"Chef",
+"Priest",
+"Lawyer",
+"Rabbi"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Comedy · 2020s",
+"q": "Which actor plays Wolverine in Deadpool & Wolverine (2024)?",
+"options": [
+"Christian Bale",
+"Ryan Reynolds",
+"Taron Egerton",
+"Hugh Jackman"
+],
+"answer": 3,
+"d": 1
+},
+{
+"show": "Comedy · 2020s",
+"q": "What is Jason Segel's character's profession in Shrinking?",
+"options": [
+"Doctor",
+"Teacher",
+"Lawyer",
+"Therapist"
+],
+"answer": 3,
+"d": 3
+},
+{
+"show": "Comedy · 2020s",
+"q": "Which actor stars in the time-loop comedy Palm Springs (2020)?",
+"options": [
+"Seth Rogen",
+"Paul Rudd",
+"Jason Bateman",
+"Andy Samberg"
+],
+"answer": 3,
+"d": 2
+}
 ]

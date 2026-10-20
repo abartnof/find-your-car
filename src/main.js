@@ -114,19 +114,24 @@ function snack(msg) { const s = $('snack'); s.textContent = msg; s.classList.add
 
 // ---------- state ----------
 const shows = [...new Set(QUESTIONS.map((q) => q.show))];
-const showGroups = (() => { // collapse the long tail of one-off 90s sitcoms into one chip
+const showGroups = (() => { // chips: the three big shows, movie/TV comedies by decade, and the long tail of 90s sitcoms
   const main = ['Friends', 'Will & Grace', 'Frasier'];
-  const other = shows.filter((s) => !main.includes(s));
-  return [...main.filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })), ...(other.length ? [{ label: '90s Sitcoms', shows: other }] : [])];
+  const isComedy = (s) => s.startsWith('Comedy');
+  const other = shows.filter((s) => !main.includes(s) && !isComedy(s));
+  const comedy = shows.filter(isComedy);
+  return [...main.filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
+    ...(comedy.length ? [{ label: 'Comedy Classics', shows: comedy }] : []),
+    ...(other.length ? [{ label: '90s Sitcoms', shows: other }] : [])];
 })();
 const S = {
   char: Math.min(store.get('char', 0), CHARACTERS.length - 1),
   car: Math.min(store.get('car', 0), CARS.length - 1),
   tex: store.get('tex', 0),
-  groups: new Set(store.get('groups', showGroups.map((g) => g.label))),
+  groups: new Set(store.get('groups', []).filter((l) => showGroups.some((g) => g.label === l))),
   qs: [], i: 0, score: 0, answered: false, seen: new Set(),
 };
 let lot;
+if (!S.groups.size) showGroups.forEach((g) => S.groups.add(g.label));
 
 const ESC = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const ICON = {
@@ -275,6 +280,7 @@ async function finish() {
     const d = document.createElement('div'); d.id = 'probe'; d.textContent = ['LeftFoot', 'RightFoot', 'LeftHand', 'RightHand', 'LeftLeg', 'LeftUpLeg'].map((n) => n + '=' + z(n)).join(' ');
     document.body.appendChild(d);
   }
+  { const v = /v=([-\d.,]+)/.exec(location.hash); if (v) { const a = v[1].split(',').map(Number); lot.setCharacter(CHARACTERS[a[0]].id); lot.pixel = 1; lot.resize(); lot.dev = { phase: a[1], mov: a[2], sh: a[3], ch: a[4], az: a[5], dist: a[6], h: a[7], lh: a[8] }; const st = document.createElement('style'); st.textContent = 'header,.sheet,.progress,.loading,.snackbar{display:none!important} .stage{position:fixed!important;inset:0!important;height:100%!important}'; document.head.appendChild(st); } }
   renderMenu();
   const demo = /demo=(\d+)/.exec(location.hash);
   if (demo) { lot.snap = true; startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } }
