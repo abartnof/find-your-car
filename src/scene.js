@@ -398,7 +398,7 @@ export class Lot {
     this.walkerHolder.position.set(0, 0, 0);
     this.walkerHolder.rotation.set(0, 0, 0);
     this.goal.position.set(0, 0, -LOT_END); this.driveSpeed = 0;
-    this.camLook.set(0, 1.4, -8);
+    this.camLook.set(0, 11, -10);
   }
   advance() { this.stepZ -= stepLen(); }
   get remaining() { return Math.abs(this.z - this.stepZ); }
@@ -456,9 +456,9 @@ export class Lot {
     const cam = this.camera;
     let tp, tl;
     if (this.mode === 'menu') {
-      // a fixed, still three-quarter view so changing character/car/paint never moves the camera
-      tp = new THREE.Vector3(1.9, 1.5, this.z - 3.4);
-      tl = new THREE.Vector3(0, 1.0, this.z);
+      // menu: a still camera tilted up at the sky (clouds, birds, plane drift past); it settles on her when the game starts
+      tp = new THREE.Vector3(1.1, 2.0, this.z + 4.6);
+      tl = new THREE.Vector3(0, 11, this.z - 10);
     } else if (this.mode === 'drive') {
       tp = new THREE.Vector3(-2.6, 1.9, Math.max(this.goal.position.z + 11, this.z + 7));
       tl = new THREE.Vector3(0, 4.2, this.goal.position.z - 5);
@@ -467,7 +467,7 @@ export class Lot {
       tp = new THREE.Vector3(1.1 + Math.sin(this.time * 0.4) * 0.25, 2.0 + Math.sin(this.time * 0.31) * 0.06, this.z + 4.6);
       tl = new THREE.Vector3(0, 1.35, this.z - 7);
     }
-    const k = this.snap || this.mode === 'menu' ? 1 : 1 - Math.exp(-dt * (this.mode === 'menu' ? 1.2 : 1.6));
+    const k = this.snap ? 1 : 1 - Math.exp(-dt * (this.mode === 'menu' ? 2.2 : 1.6));
     this.camPos.lerp(tp, this.camPos.lengthSq() ? k : 1);
     this.camLook.lerp(tl, k);
     cam.position.copy(this.camPos);
@@ -477,6 +477,6 @@ export class Lot {
     this.skyLayers.update(dt, this.time, cam.position);
     this.renderer.render(this.scene, cam);
   }
-  start() { this.camPos.set(3, 1.7, 3.4); this.loop(); }
+  start() { this.camPos.set(1.1, 2.0, 4.6); this.camLook.set(0, 11, -10); this.loop(); }
 }
 export const wait = (ms) => new Promise((r) => setTimeout(r, ms));
