@@ -83,39 +83,144 @@ class Walker {
     this.phase = 0; this.moving = 0; this.shrug = 0; this.cheer = 0;
     this.hipsY = this.bones.Hips.position.y;
   }
-  // rotate bone by a world-space axis/angle relative to its rest pose
-  rot(name, ax, ay, az, ang) {
+  // rotate bone by world-space axis/angle pairs [[ax,ay,az,ang],...] relative to its rest pose
+  rot(name, ...rs) {
     const b = this.bones[name]; if (!b) return;
     const r = this.rest[name];
-    const R = new THREE.Quaternion().setFromAxisAngle(new THREE.Vector3(ax, ay, az), ang);
+    const R = new THREE.Quaternion(), t = new THREE.Quaternion();
+    for (const [ax, ay, az, ang] of rs) R.multiply(t.setFromAxisAngle(new THREE.Vector3(ax, ay, az), ang));
     b.quaternion.copy(r.pqi).multiply(R).multiply(r.pq).multiply(r.q0);
   }
   update(dt, speed) {
-    const target = Math.min(speed / 3, 1);
-    this.moving += (target - this.moving) * Math.min(1, dt * 8);
-    this.phase += dt * speed * 2.6;
-    const m = this.moving, s = Math.sin(this.phase), c = Math.cos(this.phase);
+    // everything eases: no snapping between idle, walking and gestures
+    const target = Math.min(speed / 2.2, 1);
+    this.moving += (target - this.moving) * Math.min(1, dt * 3);
+    this.t = (this.t || 0) + dt;
+    const prev = this.phase;
+    this.phase += dt * (0.6 + speed) * 2.0 * (this.moving > 0.02 ? 1 : 0);
+    if (this.onStep && Math.floor(prev / Math.PI) !== Math.floor(this.phase / Math.PI)) this.onStep();
+    const m = this.moving, s = Math.sin(this.phase), c = Math.cos(this.phase), T = this.t;
     this.shrug = Math.max(0, this.shrug - dt); this.cheer = Math.max(0, this.cheer - dt);
-    const sh = this.shrug > 0 ? Math.sin((1 - this.shrug / 1.2) * Math.PI) : 0;
-    const ch = this.cheer > 0 ? Math.sin((1 - this.cheer / 1.0) * Math.PI) : 0;
-    const A = 0.55 * m;
-    // legs swing about world X
-    this.rot('LeftUpLeg', 1, 0, 0, s * A);
-    this.rot('RightUpLeg', 1, 0, 0, -s * A);
-    this.rot('LeftLeg', 1, 0, 0, Math.max(0, -s) * 0.9 * m);
-    this.rot('RightLeg', 1, 0, 0, Math.max(0, s) * 0.9 * m);
-    // arms: down from T-pose about Z, then swing about X; shrug/cheer lift them
-    const down = 1.28 - sh * 0.5 - ch * 1.8;
-    this.rot('LeftArm', 0, 0, 1, down);
-    this.rot('RightArm', 0, 0, 1, -down);
-    this.rot('LeftForeArm', 0, 1, 0, 0.0);
-    this.rot('RightForeArm', 0, 1, 0, 0.0);
-    const sw = 0.35 * m;
-    this.bones.LeftArm.quaternion.premultiply(new THREE.Quaternion().setFromAxisAngle(new THREE.Vector3(1, 0, 0), -s * sw * 0.0));
-    this.rot('Spine1', 0, 1, 0, s * 0.08 * m);
-    this.rot('Head', 0, 1, 0, sh * Math.sin(this.phase * 0.0 + performance.now() / 70) * 0.5);
-    // bounce
-    this.bones.Hips.position.y = this.hipsY + Math.abs(c) * 3.2 * m - ch * 0 + (ch > 0 ? Math.abs(Math.sin(performance.now() / 90)) * 6 : 0);
+    const ease = (x) => Math.sin(Math.max(0, Math.min(1, x)) * Math.PI);   // 0 → 1 → 0
+    const sh = this.shrug > 0 ? ease(1 - this.shrug / 2.4) : 0;
+    const ch = this.cheer > 0 ? ease(1 - this.cheer / 2.0) : 0;
+    const breathe = Math.sin(T * 1.4) * (1 - m);
+    const A = 0.36 * m;
+    this.rot('LeftUpLeg', [1, 0, 0, s * A]);
+    this.rot('RightUpLeg', [1, 0, 0, -s * A]);
+    this.rot('LeftLeg', [1, 0, 0, Math.max(0, -s) * 0.45 * m]);
+    this.rot('RightLeg', [1, 0, 0, Math.max(0, s) * 0.45 * m]);
+    // arms hang with a loose swing opposite the legs; a gentle lift for gestures
+    const down = 1.3 - ch * 0.55 - sh * 0.25 + breathe * 0.015;
+    this.rot('LeftArm', [0, 0, 1, down], [1, 0, 0, -s * 0.3 * m]);
+    this.rot('RightArm', [0, 0, 1, -down], [1, 0, 0, s * 0.3 * m]);
+    this.rot('LeftForeArm', [1, 0, 0, -0.25 - 0.15 * m - ch * 0.3]);
+    this.rot('RightForeArm', [1, 0, 0, -0.25 - 0.15 * m - ch * 0.3]);
+    this.rot('Spine1', [0, 1, 0, s * 0.07 * m], [1, 0, 0, breathe * 0.012]);
+    this.rot('Spine2', [0, 1, 0, -s * 0.05 * m]);
+    // a slow, curious head tilt when she gets one wrong; otherwise a drifting look
+    this.rot('Head', [0, 0, 1, sh * 0.22], [0, 1, 0, Math.sin(T * 0.5) * 0.06 * (1 - m) - sh * 0.25]);
+    // soft vertical bob + hip sway
+    this.bones.Hips.position.y = this.hipsY + (1 - Math.cos(2 * this.phase)) * 0.5 * 1.1 * m;
+    this.rot('Hips', [0, 1, 0, -s * 0.06 * m], [0, 0, 1, s * 0.025 * m]);
+  }
+}
+
+
+// ---------- 2D parallax sky: drifting pixel clouds, birds, a plane, stars and a moon ----------
+function pixelCanvas(w, h, draw, threshold = 90) {
+  const c = document.createElement('canvas'); c.width = w; c.height = h;
+  const x = c.getContext('2d'); draw(x, w, h);
+  const im = x.getImageData(0, 0, w, h), d = im.data;      // crisp PSX-style alpha edges
+  for (let i = 3; i < d.length; i += 4) d[i] = d[i] > threshold ? 255 : 0;
+  x.putImageData(im, 0, 0);
+  const t = new THREE.CanvasTexture(c); t.magFilter = t.minFilter = THREE.NearestFilter; t.generateMipmaps = false; t.colorSpace = THREE.SRGBColorSpace;
+  return t;
+}
+function cloudTexture(seed) {
+  let r = seed * 9301 + 49297; const rnd = () => ((r = (r * 9301 + 49297) % 233280) / 233280);
+  return pixelCanvas(64, 20, (x, w, h) => {
+    const blobs = 5 + (rnd() * 4 | 0);
+    const spots = [];
+    for (let i = 0; i < blobs; i++) spots.push([10 + rnd() * (w - 20), 9 + rnd() * 4, 6 + rnd() * 8, 3 + rnd() * 4]);
+    for (const [col, dy, shrink] of [['#8a5a8f', 2, 0], ['#ffffff', 0, 0], ['#ffe9f0', -1.5, 1]]) {
+      x.fillStyle = col;
+      for (const [cx, cy, rx, ry] of spots) { x.beginPath(); x.ellipse(cx, cy + dy, rx - shrink, ry - shrink * 0.5, 0, 0, 7); x.fill(); }
+    }
+  });
+}
+const birdFrame = (flap) => pixelCanvas(14, 8, (x) => {
+  x.strokeStyle = '#2a1a3a'; x.lineWidth = 1.6; x.beginPath();
+  x.moveTo(1, flap ? 1 : 3); x.lineTo(5, flap ? 4 : 5); x.lineTo(7, 4); x.lineTo(9, flap ? 4 : 5); x.lineTo(13, flap ? 1 : 3); x.stroke();
+}, 70);
+const planeTex = () => pixelCanvas(32, 10, (x) => {
+  x.fillStyle = '#e9d7e6'; x.fillRect(4, 4, 24, 2); x.fillRect(26, 3, 3, 1); x.fillRect(12, 2, 4, 1); x.fillRect(12, 7, 4, 1);
+  x.fillStyle = '#b79ab8'; x.fillRect(24, 1, 3, 3);
+});
+const dotTex = (rgb) => { const c = document.createElement('canvas'); c.width = c.height = 16; const x = c.getContext('2d'); const g = x.createRadialGradient(8, 8, 0, 8, 8, 8); g.addColorStop(0, `rgba(${rgb},1)`); g.addColorStop(1, `rgba(${rgb},0)`); x.fillStyle = g; x.fillRect(0, 0, 16, 16); return new THREE.CanvasTexture(c); };
+const moonTex = () => pixelCanvas(24, 24, (x) => {
+  x.fillStyle = '#fff3d0'; x.beginPath(); x.arc(12, 12, 8, 0, 7); x.fill();
+  x.globalCompositeOperation = 'destination-out'; x.beginPath(); x.arc(16, 9, 7.5, 0, 7); x.fill();
+});
+
+class Sky {
+  constructor(scene) {
+    this.layers = [];
+    const mk = (f, drift) => { const g = new THREE.Group(); g.renderOrder = 1; scene.add(g); const L = { g, f, drift, items: [] }; this.layers.push(L); return L; };
+    const spr = (L, map, R, az, el, w, h, color = 0xffffff, op = 1) => {
+      const m = new THREE.SpriteMaterial({ map, color, fog: false, transparent: true, opacity: op, depthWrite: false });
+      const s = new THREE.Sprite(m); s.scale.set(w, h, 1); s.renderOrder = 1; L.g.add(s);
+      const it = { s, R, az, el }; L.items.push(it); return it;
+    };
+    this.spr = spr;
+    const clouds = [1, 2, 3, 4, 5].map(cloudTexture);
+    let seed = 11; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+    // stars + moon: nearly fixed (f ≈ 1) so they barely parallax
+    const far = mk(0.995, 0.0004);
+    const star = dotTex('255,240,220');
+    for (let i = 0; i < 46; i++) { const it = spr(far, star, 290, (rnd() - 0.5) * 7, 0.3 + rnd() * 0.6, 2.2, 2.2, 0xffffff, 0.35 + rnd() * 0.5); it.tw = rnd() * 6; }
+    this.stars = far.items.slice();
+    spr(far, moonTex(), 285, -0.55, 0.5, 26, 26, 0xfff3d0, 0.95);
+    // three cloud decks, nearer = faster + stronger parallax + warmer
+    const decks = [[0.99, 0.0035, 270, 0.14, 0.42, 74, 0xb78ac4, 7], [0.95, 0.007, 190, 0.15, 0.45, 56, 0xe58fb0, 7], [0.86, 0.012, 120, 0.2, 0.5, 42, 0xffb09a, 6]];
+    for (const [f, drift, R, e0, e1, w, tint, n] of decks) {
+      const L = mk(f, drift);
+      for (let i = 0; i < n; i++) spr(L, clouds[(rnd() * 5) | 0], R, (i / n) * 6.28 - 3.14 + rnd() * 0.4, e0 + rnd() * (e1 - e0), w * (0.7 + rnd() * 0.6), w * 0.31 * (0.7 + rnd() * 0.6), tint, 0.9);
+    }
+    // birds: a loose flock crossing in the mid-ground, gently flapping
+    this.birdL = mk(0.9, 0);
+    this.birdTex = [birdFrame(false), birdFrame(true)];
+    this.birds = [];
+    for (let i = 0; i < 6; i++) {
+      const it = spr(this.birdL, this.birdTex[0], 95, -2.6 + i * 0.05, 0.2 + rnd() * 0.08 + (i % 2) * 0.04, 3.2, 1.8);
+      it.ph = rnd() * 6; it.v = 0.045 + rnd() * 0.006; this.birds.push(it);
+    }
+    // a plane, high and far, with a soft contrail and slow blinking light
+    this.planeL = mk(0.985, 0);
+    this.plane = spr(this.planeL, planeTex(), 262, 1.6, 0.4, 13, 4);
+    this.trail = [];
+    for (let i = 1; i <= 9; i++) this.trail.push(spr(this.planeL, dotTex('255,225,235'), 262, 1.6 + i * 0.012, 0.4, 4.5, 2.2, 0xffffff, 0.5 - i * 0.045));
+    this.light = spr(this.planeL, dotTex('255,70,70'), 262, 1.6, 0.4, 3.2, 3.2, 0xffffff, 1);
+  }
+  update(dt, t, camPos) {
+    for (const L of this.layers) {
+      L.g.position.copy(camPos).multiplyScalar(L.f);
+      for (const it of L.items) {
+        if (!it.own) it.az += L.drift * dt;
+        if (it.az > 3.14159 * 1.0 && L.drift > 0.001) it.az -= 6.2832;
+        const ce = Math.cos(it.el);
+        it.s.position.set(Math.sin(it.az) * ce * it.R, Math.sin(it.el) * it.R, -Math.cos(it.az) * ce * it.R);
+      }
+    }
+    for (const st of this.stars) st.s.material.opacity = 0.3 + 0.35 * (0.5 + 0.5 * Math.sin(t * 0.8 + st.tw));
+    for (const b of this.birds) {
+      b.own = true; b.az += b.v * dt; if (b.az > 3.0) b.az = -3.0;
+      b.s.material.map = this.birdTex[Math.sin(t * 5 + b.ph) > 0.2 ? 1 : 0];
+      b.el += Math.sin(t * 0.7 + b.ph) * 0.00008;
+    }
+    this.plane.own = true; this.plane.az += 0.0085 * dt; if (this.plane.az > 3.0) this.plane.az = -3.0;
+    this.trail.forEach((p, i) => { p.own = true; p.az = this.plane.az - (i + 1) * 0.012 * 1.0; });
+    this.light.own = true; this.light.az = this.plane.az + 0.012; this.light.s.material.opacity = Math.sin(t * 3) > 0.6 ? 1 : 0.05;
   }
 }
 
@@ -159,6 +264,7 @@ export class Lot {
     sky.setAttribute('color', new THREE.Float32BufferAttribute(cols, 3));
     const skyMesh = new THREE.Mesh(sky, new THREE.MeshBasicMaterial({ vertexColors: true, side: THREE.BackSide, fog: false }));
     sc.add(skyMesh); this.sky = skyMesh;
+    this.skyLayers = new Sky(sc);
     sc.fog.color.set(0xb0658a);
 
     // ground: asphalt with noise
@@ -252,13 +358,14 @@ export class Lot {
     const ex = [['m04', 5.4, -22, 0.6], ['m11', -5.6, -38, -0.8], ['m04', 5.0, -52, 2.4]];
     this.extraWalkers = [];
     for (const [id, x, z, ry] of ex) {
-      const w = new Walker(id); w.pivot.position.set(x, 0, z); w.pivot.rotation.y = ry; w.update(0, 0); this.extras.add(w.pivot); this.extraWalkers.push(w);
+      const w = new Walker(id); w.pivot.position.set(x, 0, z); w.pivot.rotation.y = ry; w.t = Math.random() * 20; w.update(0, 0); this.extras.add(w.pivot); this.extraWalkers.push(w);
     }
   }
 
   setCharacter(id) {
     while (this.walkerHolder.children.length) this.walkerHolder.remove(this.walkerHolder.children[0]);
     this.walker = new Walker(id);
+    this.walker.onStep = () => this.onStep && this.onStep();
     this.walkerHolder.add(this.walker.pivot);
     this.walker.pivot.rotation.y = Math.PI;
     this.walkerHolder.position.set(0, 0, this.z);
@@ -290,8 +397,8 @@ export class Lot {
   }
   advance() { this.stepZ -= stepLen(); }
   get remaining() { return Math.abs(this.z - this.stepZ); }
-  stumble() { this.walker.shrug = 1.2; this.shake = 0.35; }
-  cheer() { this.walker.cheer = 1.0; }
+  stumble() { this.walker.shrug = 2.4; }
+  cheer() { this.walker.cheer = 2.0; }
   progress() { return -this.stepZ / stepLen(); }
   async drive(audio) {
     // she hops in, the car pulls away
@@ -299,12 +406,12 @@ export class Lot {
     this.stepZ = -LOT_END + 1.3;                 // walk alongside to the driver's door
     for (let i = 0; i < 80 && this.z - this.stepZ > 0.05; i++) await wait(100);
     await wait(300);
-    audio.play('Car_Door_Open'); await wait(700);
+    audio.play('Car_Door_Open', 0.35); await wait(900);
     this.walkerHolder.visible = false;
-    await wait(300); audio.play('Car_Door_Close'); await wait(500);
-    audio.play('Car_Engine_Start_Up'); await wait(1400);
-    audio.play('Car_Acceleration'); this.driveSpeed = 0.01;
-    await wait(2600);
+    await wait(300); audio.play('Car_Door_Close', 0.35); await wait(700);
+    audio.play('Car_Engine_Start_Up', 0.3); await wait(1800);
+    audio.play('Car_Acceleration', 0.25); this.driveSpeed = 0.01;
+    await wait(3600);
   }
 
   loop() {
@@ -315,23 +422,23 @@ export class Lot {
     let spd = 0;
     if (this.mode !== 'drive' || this.walkerHolder.visible) {
       const d = this.z - this.stepZ;
-      if (d > 0.02) { spd = Math.min(3.4, 0.6 + d * 2.5); this.z -= Math.min(d, spd * dt); }
+      if (d > 0.02) { spd = Math.min(1.9, 0.5 + d * 0.6); this.z -= Math.min(d, spd * dt); }
     }
     if (this.walker) {
       this.walker.update(dt, spd);
       this.walkerHolder.position.z = this.z;
-      if (this.mode === 'menu') { this.walker.moving *= 0.9; }
+      
       if (this.mode === 'drive' && this.walkerHolder.visible) { this.walkerHolder.position.x += (-1.7 - this.walkerHolder.position.x) * dt * 2; this.walker.pivot.rotation.y = Math.PI * 1.5; }
       if (this.mode === 'play' && this.remaining < 0.05 && this.winWalkAside) { /* noop */ }
     }
     for (const w of this.extraWalkers) w.update(dt, 0);
     // goal car + hazards
-    const blink = Math.sin(this.time * 7) > 0 ? 1 : 0.15;
+    const blink = 0.55 + 0.45 * Math.sin(this.time * 2.2);
     for (const h of this.goalHaz) h.material.opacity = blink;
     const near = Math.max(0, Math.min(1, (this.z + LOT_END - 8) / 40));
-    this.beam.material.opacity = 0.05 + 0.2 * near;
+    this.beam.material.opacity = (0.05 + 0.16 * near) * (0.8 + 0.2 * Math.sin(this.time * 0.9));
     if (this.mode === 'drive' && this.driveSpeed > 0) {
-      this.driveSpeed = Math.min(14, this.driveSpeed + dt * 6);
+      this.driveSpeed = Math.min(9, this.driveSpeed + dt * 1.6);
       this.goal.position.z -= this.driveSpeed * dt;
       this.beam.visible = false;
     } else this.beam.visible = true;
@@ -340,7 +447,7 @@ export class Lot {
     const cam = this.camera;
     let tp, tl;
     if (this.mode === 'menu') {
-      const a = this.time * 0.35;
+      const a = this.time * 0.18;
       tp = new THREE.Vector3(Math.sin(a) * 3.4, 1.7, this.z + Math.cos(a) * 3.4);
       tl = new THREE.Vector3(0, 1.1, this.z - 1.5);
     } else if (this.mode === 'drive') {
@@ -348,16 +455,17 @@ export class Lot {
       tl = new THREE.Vector3(0, 1, this.goal.position.z - 3);
       if (!this.walkerHolder.visible && !this.goalCar.userData.driving) this.goalCar.userData.driving = 1;
     } else {
-      tp = new THREE.Vector3(1.1, 2.0, this.z + 4.4);
+      tp = new THREE.Vector3(1.1 + Math.sin(this.time * 0.4) * 0.25, 2.0 + Math.sin(this.time * 0.31) * 0.06, this.z + 4.6);
       tl = new THREE.Vector3(0, 1.35, this.z - 7);
     }
-    const k = this.snap ? 1 : 1 - Math.exp(-dt * (this.mode === 'menu' ? 3 : 4));
+    const k = this.snap ? 1 : 1 - Math.exp(-dt * (this.mode === 'menu' ? 1.2 : 1.6));
     this.camPos.lerp(tp, this.camPos.lengthSq() ? k : 1);
     this.camLook.lerp(tl, k);
     cam.position.copy(this.camPos);
     if (this.shake > 0) { this.shake -= dt; cam.position.x += (Math.random() - 0.5) * 0.12; cam.position.y += (Math.random() - 0.5) * 0.1; }
     cam.lookAt(this.camLook);
     this.sky.position.copy(cam.position);
+    this.skyLayers.update(dt, this.time, cam.position);
     this.renderer.render(this.scene, cam);
   }
   start() { this.camPos.set(3, 1.7, 3.4); this.loop(); }

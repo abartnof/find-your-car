@@ -9,35 +9,86 @@ const store = {
   set(k, v) { try { localStorage.setItem('fyc.' + k, JSON.stringify(v)); } catch {} },
 };
 
-// ---------- audio ----------
+// ---------- audio: soft, reverberant, mostly synthesised ----------
 const audio = {
-  ctx: null, buffers: {}, muted: store.get('muted', false),
+  ctx: null, buffers: {}, muted: store.get('muted', false), master: null, verb: null,
   async unlock() {
     if (this.ctx) { if (this.ctx.state === 'suspended') this.ctx.resume(); return; }
     const AC = window.AudioContext || window.webkitAudioContext; if (!AC) return;
-    this.ctx = new AC();
+    const ctx = (this.ctx = new AC());
+    this.master = ctx.createGain(); this.master.gain.value = this.muted ? 0 : 0.8;
+    const comp = ctx.createDynamicsCompressor(); this.master.connect(comp).connect(ctx.destination);
+    // cheap reverb: decaying noise impulse
+    const len = ctx.sampleRate * 2.8, imp = ctx.createBuffer(2, len, ctx.sampleRate);
+    for (let c = 0; c < 2; c++) { const d = imp.getChannelData(c); for (let i = 0; i < len; i++) d[i] = (Math.random() * 2 - 1) * Math.pow(1 - i / len, 2.6); }
+    const conv = ctx.createConvolver(); conv.buffer = imp;
+    this.verb = ctx.createGain(); this.verb.gain.value = 0.5; this.verb.connect(conv).connect(this.master);
+    this.ambience();
     for (const k of Object.keys(ASSETS).filter((k) => k.startsWith('sfx/'))) {
       try {
         const bin = atob(ASSETS[k].split(',')[1]); const u = new Uint8Array(bin.length);
         for (let i = 0; i < bin.length; i++) u[i] = bin.charCodeAt(i);
-        this.buffers[k.slice(4, -4)] = await new Promise((res, rej) => this.ctx.decodeAudioData(u.buffer, res, rej));
+        this.buffers[k.slice(4, -4)] = await new Promise((res, rej) => ctx.decodeAudioData(u.buffer, res, rej));
       } catch {}
     }
   },
-  play(name, vol = 0.8) {
+  setMuted(m) { this.muted = m; if (this.master) this.master.gain.setTargetAtTime(m ? 0 : 0.8, this.ctx.currentTime, 0.15); },
+  // a warm drone, a breath of wind and the odd far-off cricket
+  ambience() {
+    const ctx = this.ctx, out = ctx.createGain(); out.gain.value = 0; out.connect(this.master); out.connect(this.verb);
+    out.gain.setTargetAtTime(1, ctx.currentTime, 3);
+    const lp = ctx.createBiquadFilter(); lp.type = 'lowpass'; lp.frequency.value = 520; lp.connect(out);
+    [130.81, 196.0, 261.63, 329.63].forEach((f, i) => {
+      for (const det of [-3, 3]) {
+        const o = ctx.createOscillator(), g = ctx.createGain(); o.type = 'sine'; o.frequency.value = f; o.detune.value = det;
+        g.gain.value = 0.014; const lfo = ctx.createOscillator(), lg = ctx.createGain(); lfo.frequency.value = 0.05 + i * 0.031; lg.gain.value = 0.008;
+        lfo.connect(lg).connect(g.gain); o.connect(g).connect(lp); o.start(); lfo.start();
+      }
+    });
+    const nb = ctx.createBuffer(1, ctx.sampleRate * 4, ctx.sampleRate), nd = nb.getChannelData(0); let b0 = 0;
+    for (let i = 0; i < nd.length; i++) { b0 = b0 * 0.985 + (Math.random() * 2 - 1) * 0.1; nd[i] = b0; }
+    const ns = ctx.createBufferSource(); ns.buffer = nb; ns.loop = true;
+    const bp = ctx.createBiquadFilter(); bp.type = 'bandpass'; bp.frequency.value = 380; bp.Q.value = 0.4;
+    const wg = ctx.createGain(); wg.gain.value = 0.35; const wl = ctx.createOscillator(), wlg = ctx.createGain(); wl.frequency.value = 0.07; wlg.gain.value = 0.2;
+    wl.connect(wlg).connect(wg.gain); ns.connect(bp).connect(wg).connect(out); ns.start(); wl.start();
+    const cricket = () => {
+      if (!this.muted && ctx.state === 'running') {
+        const t = ctx.currentTime, f = 4200 + Math.random() * 500;
+        for (let i = 0; i < 3; i++) { const o = ctx.createOscillator(), g = ctx.createGain(); o.frequency.value = f; o.connect(g).connect(out); g.gain.setValueAtTime(0, t + i * 0.09); g.gain.linearRampToValueAtTime(0.006, t + i * 0.09 + 0.02); g.gain.linearRampToValueAtTime(0, t + i * 0.09 + 0.07); o.start(t + i * 0.09); o.stop(t + i * 0.09 + 0.1); }
+      }
+      setTimeout(cricket, 2500 + Math.random() * 5000);
+    };
+    cricket();
+  },
+  play(name, vol = 0.4) {
     if (this.muted || !this.ctx || !this.buffers[name]) return;
     const s = this.ctx.createBufferSource(), g = this.ctx.createGain();
-    s.buffer = this.buffers[name]; g.gain.value = vol; s.connect(g).connect(this.ctx.destination); s.start();
+    s.buffer = this.buffers[name]; g.gain.value = vol; s.connect(g); g.connect(this.master); g.connect(this.verb); s.start();
   },
-  tone(freqs, dur = 0.12, type = 'triangle', vol = 0.15) {
+  // one soft bell note: sine + quiet octave, slow bloom, long tail
+  bell(freq, when = 0, vol = 0.12, dur = 2.2) {
     if (this.muted || !this.ctx) return;
-    const t0 = this.ctx.currentTime;
-    freqs.forEach((f, i) => {
-      const o = this.ctx.createOscillator(), g = this.ctx.createGain();
-      o.type = type; o.frequency.value = f; o.connect(g).connect(this.ctx.destination);
-      const t = t0 + i * dur; g.gain.setValueAtTime(vol, t); g.gain.exponentialRampToValueAtTime(0.001, t + dur * 1.6);
-      o.start(t); o.stop(t + dur * 1.7);
-    });
+    const ctx = this.ctx, t = ctx.currentTime + when;
+    for (const [m, v] of [[1, 1], [2, 0.18], [3, 0.05]]) {
+      const o = ctx.createOscillator(), g = ctx.createGain(); o.type = 'sine'; o.frequency.value = freq * m;
+      o.connect(g); g.connect(this.master); g.connect(this.verb);
+      g.gain.setValueAtTime(0, t); g.gain.linearRampToValueAtTime(vol * v, t + 0.015); g.gain.exponentialRampToValueAtTime(0.0008, t + dur / m);
+      o.start(t); o.stop(t + dur + 0.1);
+    }
+  },
+  // each right answer rises one step up a pentatonic scale
+  correct(n) {
+    const sc = [523.25, 587.33, 659.25, 783.99, 880, 1046.5, 1174.7, 1318.5, 1568, 1760];
+    const f = sc[Math.min(n, sc.length - 1)]; this.bell(f, 0, 0.12); this.bell(f * 1.5, 0.12, 0.05, 1.6);
+  },
+  wrong() { this.bell(329.63, 0, 0.08, 1.8); this.bell(293.66, 0.22, 0.07, 2.2); },
+  win() { [523.25, 659.25, 783.99, 1046.5, 1318.5].forEach((f, i) => this.bell(f, i * 0.28, 0.1, 3.2)); },
+  step(alt) {
+    if (this.muted || !this.ctx) return;
+    const ctx = this.ctx, len = ctx.sampleRate * 0.07, b = ctx.createBuffer(1, len, ctx.sampleRate), d = b.getChannelData(0);
+    for (let i = 0; i < len; i++) d[i] = (Math.random() * 2 - 1) * Math.pow(1 - i / len, 3);
+    const s = ctx.createBufferSource(), f = ctx.createBiquadFilter(), g = ctx.createGain(); s.buffer = b; f.type = 'lowpass'; f.frequency.value = alt ? 420 : 520; g.gain.value = 0.07;
+    s.connect(f).connect(g).connect(this.master); s.start();
   },
 };
 function renderMute() {
@@ -45,7 +96,7 @@ function renderMute() {
     ? 'M16.5 12A4.5 4.5 0 0 0 14 8v2.2l2.5 2.5v-.7zM19 12c0 .9-.2 1.8-.5 2.6l1.5 1.5A8.9 8.9 0 0 0 21 12c0-4.3-3-7.9-7-8.8v2.1c2.9.9 5 3.5 5 6.7zM4.3 3 3 4.3 7.7 9H3v6h4l5 5v-6.7l4.3 4.3c-.7.5-1.4.9-2.3 1.2v2.1a9 9 0 0 0 3.6-1.8l2.1 2.1 1.3-1.3L4.3 3zM12 4 9.9 6.1 12 8.2V4z'
     : 'M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1c2.9.9 5 3.5 5 6.7s-2.1 5.8-5 6.7v2.1c4-.9 7-4.5 7-8.8s-3-7.9-7-8.8z');
 }
-$('muteBtn').addEventListener('click', () => { audio.muted = !audio.muted; store.set('muted', audio.muted); renderMute(); audio.unlock(); });
+$('muteBtn').addEventListener('click', () => { audio.unlock(); audio.setMuted(!audio.muted); store.set('muted', audio.muted); renderMute(); });
 renderMute();
 
 // ---------- ripple on any .btn / .fchip / .icon-btn ----------
@@ -179,10 +230,10 @@ function answer(i) {
   });
   const last = S.i === STEPS - 1, win = ok && S.score + 1 === STEPS;
   if (ok) {
-    S.score++; lot.advance(); lot.cheer(); audio.tone([523, 659, 784], 0.09); updateHud();
+    S.score++; lot.advance(); lot.cheer(); audio.correct(S.score - 1); updateHud();
     const left = STEPS - S.score; snack(left ? `Nice! ${left} more to go` : 'Your car is right there!');
   } else {
-    lot.stumble(); audio.tone([220, 165], 0.16, 'sawtooth', 0.1); audio.play('Car_Horn', 0.35);
+    lot.stumble(); audio.wrong();
     snack(`Nope — it's "${q.opts.find((o) => o.ok).t}"`);
   }
   $('fb').innerHTML = `<button class="btn fab-ext" id="next">${last ? (win ? 'Get in the car' : 'See results') : 'Next'}${ICON.next}</button>`;
@@ -201,7 +252,7 @@ async function finish() {
     $('title').textContent = 'You made it!';
     await lot.drive(audio);
     sheet.innerHTML = `<div class="result"><p class="overline">10 / 10</p><h1 class="headline">You found your car!</h1><p class="body">Flawless. Keys in hand, engine running, and a very nice ${CARS[S.car].name.toLowerCase()} to take you home.</p><div class="row"><button class="btn btn-filled" id="again">Play again</button></div></div>`;
-    audio.tone([523, 659, 784, 1047], 0.12);
+    audio.win();
   } else {
     $('title').textContent = 'Not quite…';
     const left = STEPS - S.score;
@@ -216,7 +267,14 @@ async function finish() {
   lot.setCar(S.car, S.tex);
   lot.start();
   window.__lot = lot;
+  let alt = 0; lot.onStep = () => { if (lot.mode !== 'menu') audio.step(alt ^= 1); };
   loadSwatches();
+  if (/probe/.test(location.hash)) {   // dev: report foot/hand z at the phase where sin = 1
+    const w = lot.walker; w.moving = 1; w.phase = Math.PI / 2; w.update(0.0001, 2.2); lot.walkerHolder.updateMatrixWorld(true);
+    const z = (n) => { const v = new w.model.position.constructor(); w.bones[n].getWorldPosition(v); return v.z.toFixed(3); };
+    const d = document.createElement('div'); d.id = 'probe'; d.textContent = ['LeftFoot', 'RightFoot', 'LeftHand', 'RightHand', 'LeftLeg', 'LeftUpLeg'].map((n) => n + '=' + z(n)).join(' ');
+    document.body.appendChild(d);
+  }
   renderMenu();
   const demo = /demo=(\d+)/.exec(location.hash);
   if (demo) { lot.snap = true; startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } }
