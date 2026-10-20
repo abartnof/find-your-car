@@ -159,6 +159,31 @@ document.addEventListener('pointerdown', (e) => {
   el.appendChild(s); setTimeout(() => s.remove(), 600);
 });
 
+
+// ---------- leaderboard (stored on this device) ----------
+const board = {
+  all() { const a = store.get('scores', []); return Array.isArray(a) ? a : []; },
+  add(e) { store.set('scores', [...this.all(), e].slice(-200)); },
+  top(n = 25) { return this.all().slice().sort((a, b) => b.score - a.score || b.t - a.t).slice(0, n); },
+};
+const fmtWhen = (t) => { try { return new Date(t).toLocaleString(undefined, { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' }); } catch { return ''; } };
+function showBoard(hiT) {
+  closeBoard();
+  const rows = board.top();
+  const d = document.createElement('div'); d.className = 'scrim'; d.id = 'board';
+  d.innerHTML = `<div class="dialog" role="dialog" aria-modal="true" aria-label="Leaderboard">
+    <h2 class="dlg-title">Leaderboard</h2>
+    ${rows.length ? `<ol class="lb">${rows.map((r, i) => `<li class="${r.t === hiT ? 'me' : ''}"><span class="rk">${i + 1}</span><span class="nm">${ESC(r.name || 'Player')}${r.score === STEPS ? ' <span class="win">🏆</span>' : ''}<small>${ESC(fmtWhen(r.t))}</small></span><span class="sc">${r.score}/${STEPS}</span></li>`).join('')}</ol>` : '<p class="body">No scores yet. Finish a game to get on the board.</p>'}
+    <div class="dlg-actions">${rows.length ? '<button class="btn btn-text" id="lbClear">Clear</button>' : ''}<button class="btn btn-filled" id="lbClose">Close</button></div></div>`;
+  d.addEventListener('click', (e) => {
+    if (e.target === d || e.target.id === 'lbClose') closeBoard();
+    else if (e.target.id === 'lbClear') { if (e.target.dataset.sure) { store.set('scores', []); showBoard(); } else { e.target.dataset.sure = 1; e.target.textContent = 'Tap again to clear'; } }
+  });
+  document.body.appendChild(d);
+}
+function closeBoard() { const d = document.getElementById('board'); if (d) d.remove(); }
+$('lbBtn').addEventListener('click', () => showBoard());
+
 let snackT;
 function snack(msg) { const s = $('snack'); s.textContent = msg; s.classList.add('show'); clearTimeout(snackT); snackT = setTimeout(() => s.classList.remove('show'), 2200); }
 
@@ -175,6 +200,7 @@ const showGroups = (() => { // chips: each big topic on its own, plus the long t
     ...(other.length ? [{ label: '90s Sitcoms', shows: other }] : [])];
 })();
 const S = {
+  name: store.get('name', ''),
   char: Math.min(store.get('char', 0), CHARACTERS.length - 1),
   car: Math.min(store.get('car', 0), CARS.length - 1),
   tex: store.get('tex', 0),
@@ -219,6 +245,7 @@ function renderMenu() {
     <p class="overline">Sitcom trivia</p>
     <h1 class="headline">Where did you park?</h1>
     <p class="body">Ten questions. Every right answer gets you one step closer to your car. Get all ten and you're driving home.</p>
+    <label class="field"><input id="name" maxlength="16" placeholder=" " autocomplete="nickname" value="${ESC(S.name)}"><span>Your name (for the leaderboard)</span></label>
     <div class="label">YOU</div>
     <div class="picker"><button class="icon-btn" data-a="char-" aria-label="Previous character">${ICON.prev}</button><div class="name">${CHARACTERS[S.char].name}</div><button class="icon-btn" data-a="char+" aria-label="Next character">${ICON.nxt}</button></div>
     <div class="label">YOUR CAR</div>
@@ -247,7 +274,7 @@ function loadSwatches() {
 }
 
 sheet.addEventListener('click', (e) => {
-  const b = e.target.closest('[data-m],[data-a],[data-g],#go,[data-opt],#next,#again'); if (!b) return;
+  const b = e.target.closest('[data-m],[data-a],[data-g],#go,[data-opt],#next,#again,#lb'); if (!b) return;
   if (b.dataset.m) { if (b.dataset.m === 'toggle') { music.set(!music.on); renderMusicBtn(); } else music.next(); renderMenu(); }
   else if (b.dataset.a) {
     const a = b.dataset.a;
@@ -263,6 +290,7 @@ sheet.addEventListener('click', (e) => {
   else if (b.dataset.opt != null) answer(+b.dataset.opt);
   else if (b.id === 'next') nextQ();
   else if (b.id === 'again') { renderMenu(); }
+  else if (b.id === 'lb') showBoard(S.lastT);
 });
 
 function startGame() {
@@ -307,20 +335,22 @@ function nextQ() {
   if (S.i === STEPS - 1) return finish();
   S.i++; renderQ();
 }
+document.addEventListener('input', (e) => { if (e.target.id === 'name') { S.name = e.target.value; store.set('name', S.name); } });
 let fx;
 async function finish() {
   const win = S.score === STEPS;
+  S.lastT = Date.now(); board.add({ name: S.name.trim() || 'Player', score: S.score, t: S.lastT });
   $('progress').hidden = true;
   sheet.innerHTML = '';
   if (win) {
     $('title').textContent = 'You made it!';
     await lot.drive(audio);
-    sheet.innerHTML = `<div class="result"><p class="overline">10 / 10</p><h1 class="headline">You found your car!</h1><p class="body">Flawless. Keys in hand, engine running, and a very nice ${CARS[S.car].name.toLowerCase()} to take you home.</p><div class="row"><button class="btn btn-filled" id="again">Play again</button></div></div>`;
+    sheet.innerHTML = `<div class="result"><p class="overline">10 / 10</p><h1 class="headline">You found your car!</h1><p class="body">Flawless. Keys in hand, engine running, and a very nice ${CARS[S.car].name.toLowerCase()} to take you home.</p><div class="row"><button class="btn btn-tonal" id="lb">Leaderboard</button><button class="btn btn-filled" id="again">Play again</button></div></div>`;
     audio.win();
   } else {
     $('title').textContent = 'Not quite…'; fx.rain.start(audio);
     const left = STEPS - S.score;
-    sheet.innerHTML = `<div class="result"><p class="overline">Final score</p><p class="score-big">${S.score} / ${STEPS}</p><h1 class="headline">${S.score >= 7 ? 'So close!' : S.score >= 4 ? 'Still wandering the lot' : 'Where did you even park?'}</h1><p class="body">Your car is ${left} step${left > 1 ? 's' : ''} away. You need a perfect 10 to drive home.</p><div class="row"><button class="btn btn-filled" id="again">Try again</button></div></div>`;
+    sheet.innerHTML = `<div class="result"><p class="overline">Final score</p><p class="score-big">${S.score} / ${STEPS}</p><h1 class="headline">${S.score >= 7 ? 'So close!' : S.score >= 4 ? 'Still wandering the lot' : 'Where did you even park?'}</h1><p class="body">Your car is ${left} step${left > 1 ? 's' : ''} away. You need a perfect 10 to drive home.</p><div class="row"><button class="btn btn-tonal" id="lb">Leaderboard</button><button class="btn btn-filled" id="again">Try again</button></div></div>`;
   }
 }
 
@@ -345,6 +375,7 @@ async function finish() {
   const demo = /demo=(\d+)/.exec(location.hash);
   if (demo) { lot.snap = true; startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } else if (/fail/.test(location.hash)) finish(); }
   if (/ans/.test(location.hash)) answer(0);
+  if (/board/.test(location.hash)) { for (const sc of [10, 7, 3]) board.add({ name: 'Test ' + sc, score: sc, t: Date.now() - sc * 3.6e6 }); showBoard(); }
   await wait(300);
   $('loading').classList.add('done');
 })();
