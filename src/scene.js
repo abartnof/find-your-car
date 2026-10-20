@@ -456,9 +456,9 @@ export class Lot {
     const cam = this.camera;
     let tp, tl;
     if (this.mode === 'menu') {
-      const a = this.time * 0.18;
-      tp = new THREE.Vector3(Math.sin(a) * 3.4, 1.7, this.z + Math.cos(a) * 3.4);
-      tl = new THREE.Vector3(0, 1.1, this.z - 1.5);
+      // a fixed, still three-quarter view so changing character/car/paint never moves the camera
+      tp = new THREE.Vector3(1.9, 1.5, this.z - 3.4);
+      tl = new THREE.Vector3(0, 1.0, this.z);
     } else if (this.mode === 'drive') {
       tp = new THREE.Vector3(-2.6, 1.9, Math.max(this.goal.position.z + 11, this.z + 7));
       tl = new THREE.Vector3(0, 4.2, this.goal.position.z - 5);
@@ -467,7 +467,7 @@ export class Lot {
       tp = new THREE.Vector3(1.1 + Math.sin(this.time * 0.4) * 0.25, 2.0 + Math.sin(this.time * 0.31) * 0.06, this.z + 4.6);
       tl = new THREE.Vector3(0, 1.35, this.z - 7);
     }
-    const k = this.snap ? 1 : 1 - Math.exp(-dt * (this.mode === 'menu' ? 1.2 : 1.6));
+    const k = this.snap || this.mode === 'menu' ? 1 : 1 - Math.exp(-dt * (this.mode === 'menu' ? 1.2 : 1.6));
     this.camPos.lerp(tp, this.camPos.lengthSq() ? k : 1);
     this.camLook.lerp(tl, k);
     cam.position.copy(this.camPos);
