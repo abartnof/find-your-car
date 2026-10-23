@@ -79,6 +79,14 @@ html,body{margin:0;height:100%;background:var(--md-surface);color:var(--md-on-su
 
 .musicrow{display:flex;align-items:center;gap:12px;margin-bottom:8px}
 .musicrow .mtitle{flex:1;min-width:0;font:400 14px var(--font);color:var(--md-on-surface-variant);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.music-dropdown{position:absolute;top:calc(56px + env(safe-area-inset-top));right:12px;z-index:50;background:var(--md-surface-3);border:1px solid var(--md-outline-variant);border-radius:var(--r-md);box-shadow:0 6px 20px rgba(0,0,0,0.6);padding:12px 14px;min-width:240px;max-width:300px;display:flex;flex-direction:column;gap:10px;animation:fbFadeIn .18s ease-out}
+.music-dropdown[hidden]{display:none}
+.music-track-info{display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--md-on-surface);min-width:0}
+.music-note-icon{font-size:16px;color:var(--md-primary);flex:none;line-height:1}
+.music-track-title{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1;min-width:0}
+.music-ctrls{display:flex;align-items:center;justify-content:flex-end;gap:8px}
+.music-ctrls .icon-btn{width:40px;height:40px;flex:none;background:var(--md-surface-2);color:var(--md-on-surface);transition:background .15s ease,color .15s ease}
+.music-ctrls .icon-btn:hover{background:var(--md-secondary-container);color:var(--md-on-secondary-container)}
 .switch{flex:none;position:relative;width:52px;height:32px;border-radius:16px;border:2px solid var(--md-outline);background:var(--md-surface-1);cursor:pointer;padding:0;transition:background .2s,border-color .2s}
 .switch .knob{position:absolute;top:50%;left:6px;width:16px;height:16px;margin-top:-8px;border-radius:50%;background:var(--md-outline);transition:left .2s,width .2s,height .2s,margin-top .2s,background .2s}
 .switch.on{background:var(--md-primary);border-color:var(--md-primary)}

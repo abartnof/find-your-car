@@ -158,7 +158,7 @@ const music = {
     if (!this.el) {
       this.at = Math.floor(Math.random() * this.tracks.length);
       const el = (this.el = new Audio()); el.preload = 'none';
-      el.addEventListener('ended', () => this.next());
+      el.addEventListener('ended', () => { this.next(); renderMusicDropdown(); if ($('sheet')?.querySelector('#go')) renderMenu(); });
       try { // through the master gain so the mute button applies (iOS ignores element.volume)
         this.gain = audio.ctx.createGain(); this.gain.gain.value = 0.4;
         audio.ctx.createMediaElementSource(el).connect(this.gain); this.gain.connect(audio.master);
@@ -189,9 +189,59 @@ function renderMute() {
     ? 'M16.5 12A4.5 4.5 0 0 0 14 8v2.2l2.5 2.5v-.7zM19 12c0 .9-.2 1.8-.5 2.6l1.5 1.5A8.9 8.9 0 0 0 21 12c0-4.3-3-7.9-7-8.8v2.1c2.9.9 5 3.5 5 6.7zM4.3 3 3 4.3 7.7 9H3v6h4l5 5v-6.7l4.3 4.3c-.7.5-1.4.9-2.3 1.2v2.1a9 9 0 0 0 3.6-1.8l2.1 2.1 1.3-1.3L4.3 3zM12 4 9.9 6.1 12 8.2V4z'
     : 'M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1c2.9.9 5 3.5 5 6.7s-2.1 5.8-5 6.7v2.1c4-.9 7-4.5 7-8.8s-3-7.9-7-8.8z');
 }
+function renderMusicDropdown() {
+  const dd = $('musicDropdown');
+  if (!dd) return;
+  const title = $('musicDropdownTitle');
+  if (title) title.textContent = music.title || 'Background music';
+  const toggleIcon = $('musicToggleIcon');
+  if (toggleIcon) {
+    const path = toggleIcon.querySelector('path');
+    if (path) path.setAttribute('d', music.on ? 'M6 19h4V5H6v14zm8-14v14h4V5h-4z' : 'M8 5v14l11-7z');
+  }
+  const toggleBtn = $('musicToggleBtn');
+  if (toggleBtn) toggleBtn.setAttribute('aria-label', music.on ? 'Pause' : 'Play');
+}
 function renderMusicBtn() { $('musicBtn').classList.toggle('off', !music.on); }
-$('musicBtn').addEventListener('click', () => { music.set(!music.on); renderMusicBtn(); if ($('sheet').querySelector('#go')) renderMenu(); });
+$('musicBtn').addEventListener('click', () => {
+  const dd = $('musicDropdown');
+  if (!dd) return;
+  const opening = dd.hasAttribute('hidden') || dd.hidden;
+  if (opening) {
+    dd.removeAttribute('hidden');
+    dd.hidden = false;
+    audio.unlock();
+    if (!music.el) music.load();
+    renderMusicDropdown();
+  } else {
+    dd.setAttribute('hidden', '');
+    dd.hidden = true;
+  }
+});
+$('musicToggleBtn')?.addEventListener('click', () => {
+  music.set(!music.on);
+  renderMusicDropdown();
+  renderMusicBtn();
+  if ($('sheet')?.querySelector('#go')) renderMenu();
+});
+$('musicSkipBtn')?.addEventListener('click', () => {
+  music.next();
+  if (!music.on) music.set(true);
+  renderMusicDropdown();
+  renderMusicBtn();
+  if ($('sheet')?.querySelector('#go')) renderMenu();
+});
+document.addEventListener('pointerdown', (e) => {
+  if (!e.target.closest('#musicDropdown') && !e.target.closest('#musicBtn')) {
+    const dd = $('musicDropdown');
+    if (dd) {
+      dd.setAttribute('hidden', '');
+      dd.hidden = true;
+    }
+  }
+});
 renderMusicBtn();
+renderMusicDropdown();
 $('muteBtn').addEventListener('click', () => { audio.unlock(); audio.setMuted(!audio.muted); store.set('muted', audio.muted); renderMute(); music.sync(); });
 renderMute();
 
@@ -350,7 +400,7 @@ function loadSwatches() {
 
 sheet.addEventListener('click', (e) => {
   const b = e.target.closest('[data-m],[data-a],[data-g],#go,[data-opt],#next,#again,#lb'); if (!b) return;
-  if (b.dataset.m) { if (b.dataset.m === 'toggle') { music.set(!music.on); renderMusicBtn(); } else music.next(); renderMenu(); }
+  if (b.dataset.m) { if (b.dataset.m === 'toggle') { music.set(!music.on); renderMusicBtn(); } else music.next(); renderMusicDropdown(); renderMenu(); }
   else if (b.dataset.a) {
     const a = b.dataset.a;
     if (a.startsWith('char')) { S.char = (S.char + (a.endsWith('+') ? 1 : -1) + CHARACTERS.length) % CHARACTERS.length; lot.setCharacter(CHARACTERS[S.char].id); }
