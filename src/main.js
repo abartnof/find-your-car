@@ -415,7 +415,11 @@ function answer(i) {
     </button>`;
   const nextBtn = $('next');
   if (nextBtn) {
-    sheet.scrollTo({ top: sheet.scrollHeight, behavior: 'smooth' });
+    const sRect = sheet.getBoundingClientRect();
+    const bRect = nextBtn.getBoundingClientRect();
+    if (bRect.bottom > sRect.bottom) {
+      nextBtn.scrollIntoView({ behavior: 'smooth', block: 'end' });
+    }
     nextBtn.focus();
   }
 }
