@@ -1,0 +1,3902 @@
+[
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australia and New Zealand, what does it mean if someone says they are \"flat out like a lizard drinking\"?",
+    "options": [
+      "Extremely lazy or resting",
+      "Severely dehydrated",
+      "Extremely busy or working at full speed",
+      "Lying down sunbathing"
+    ],
+    "answer": 2,
+    "d": 1,
+    "fact": "[Australia/NZ] - Flat out like a lizard drinking = working flat out / extremely busy"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British and Irish slang, if someone is described as \"chuffed\", how do they feel?",
+    "options": [
+      "Delighted and very pleased",
+      "Disappointed and slighted",
+      "Out of breath from running",
+      "Slightly intoxicated"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[UK/Ireland] - Chuffed = delighted, proud, pleased"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian Pidgin / Nigerian English, what does the popular phrase \"no wahala\" mean?",
+    "options": [
+      "No money",
+      "No problem / No worries",
+      "Don't go there",
+      "Absolutely not"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - No wahala = no problem, no trouble"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaica, what does the expression \"Wah gwaan?\" literally translate to or mean?",
+    "options": [
+      "What are you buying?",
+      "Where are you going?",
+      "What's going on? / What's up?",
+      "Who is talking?"
+    ],
+    "answer": 2,
+    "d": 1,
+    "fact": "[Jamaica] - Wah gwaan = what's going on / what's up"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South Africa, what are \"tekkies\"?",
+    "options": [
+      "Technical support workers",
+      "Sneakers or athletic trainers",
+      "Small pickup trucks",
+      "Local bar snacks"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Tekkies = sneakers, athletic shoes"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is a \"toonie\"?",
+    "options": [
+      "A two-dollar coin",
+      "A cartoon character",
+      "A double espresso",
+      "A knitted winter hat"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Canada] - Toonie = Canadian two-dollar coin"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does the word \"bairn\" refer to?",
+    "options": [
+      "A barn or shed",
+      "A child or baby",
+      "A pint of heavy ale",
+      "A stream or brook"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Scotland] - Bairn = child or baby"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, if something was \"pure gas\", what was it?",
+    "options": [
+      "Very expensive",
+      "Toxic or unpleasant",
+      "Hilarious or very entertaining",
+      "Fast and energetic"
+    ],
+    "answer": 2,
+    "d": 1,
+    "fact": "[Ireland] - Pure gas = hilarious, great fun"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Singaporean/Malaysian English (Singlish), what does \"chope\" mean?",
+    "options": [
+      "To cut in line",
+      "To reserve a seat or table (often with a tissue packet)",
+      "To eat quickly",
+      "To complain loudly"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Singapore/Malaysia] - Chope = reserve a seat/table"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"bogan\"?",
+    "options": [
+      "An unsophisticated or unrefined person",
+      "A small native marsupial",
+      "A shallow swimming hole",
+      "A heavy rainstorm"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Australia] - Bogan = uncouth or unsophisticated person"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British Cockney rhyming slang, what does \"apples and pears\" stand for?",
+    "options": [
+      "Chairs",
+      "Stairs",
+      "Pairs",
+      "Cares"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK Cockney] - Apples and pears = stairs"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US African American Vernacular English (AAVE), what does it mean when someone says \"no cap\"?",
+    "options": [
+      "No hat allowed",
+      "No limit or restriction",
+      "No lie / I'm telling the truth",
+      "No offense intended"
+    ],
+    "answer": 2,
+    "d": 1,
+    "fact": "[US AAVE] - No cap = no lie, telling the truth"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what are \"jandals\"?",
+    "options": [
+      "Denim shorts",
+      "Flip-flops / thong sandals",
+      "Rain boots",
+      "Woolen mittens"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Jandals = flip-flops (Japanese sandals)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what does the word \"lekker\" mean?",
+    "options": [
+      "Dull or boring",
+      "Great, nice, or delicious",
+      "Strange or unfamiliar",
+      "Quick or hasty"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Lekker = great, pleasant, tasty"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian English, particularly in Ontario and the prairies, what is a \"two-four\"?",
+    "options": [
+      "A 24-hour convenience store",
+      "A case of 24 beers",
+      "A pickup truck with 4WD",
+      "A hockey penalty"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Two-four = 24-pack of beer"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, if someone is \"giving out\", what are they doing?",
+    "options": [
+      "Distributing free items",
+      "Complaining or scolding",
+      "Fainting from exhaustion",
+      "Surrendering in a fight"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Giving out = complaining, reprimanding"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Welsh slang, what does \"cwtch\" mean?",
+    "options": [
+      "A cozy cuddle or hug",
+      "A steep hillside",
+      "A cup of strong tea",
+      "A sharp wooden spoon"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Wales] - Cwtch = hug, snuggle, safe place"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"gutted\" mean?",
+    "options": [
+      "Extremely full after a meal",
+      "Bitterly disappointed or devastated",
+      "Physically exhausted",
+      "Visibly terrified"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Gutted = devastated, deeply disappointed"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does it mean to \"chuck a sickie\"?",
+    "options": [
+      "To vomit unexpectedly",
+      "To take a day off work claiming illness when not actually sick",
+      "To visit someone in the hospital",
+      "To lose your temper suddenly"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Chuck a sickie = fake illness for a day off"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Trinidadian slang, what does \"liming\" mean?",
+    "options": [
+      "Squeezing citrus for cocktails",
+      "Hanging out, socializing, or relaxing with friends",
+      "Walking slowly in the heat",
+      "Gossiping behind someone's back"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Trinidad & Tobago] - Liming = hanging out with friends"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian slang, what does it mean to \"japa\"?",
+    "options": [
+      "To party until sunrise",
+      "To emigrate or flee from a difficult situation",
+      "To negotiate a market price",
+      "To cook a large meal"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - Japa = escape, flee, emigrate"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In northern English slang, what does \"mardy\" mean?",
+    "options": [
+      "Moody, sullen, or easily annoyed",
+      "Unusually generous",
+      "Untidy or messy",
+      "Extremely cold weather"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[UK North/Midlands] - Mardy = grumpy, petulant"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African English, what does \"now-now\" mean regarding time?",
+    "options": [
+      "Yesterday",
+      "Immediately, or shortly in the near future",
+      "Sometime next month",
+      "In a few hours or possibly never"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Now-now = soon, in a moment"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"ute\"?",
+    "options": [
+      "A teenage delinquent",
+      "A utility vehicle or small pickup truck",
+      "A sharp turn in the road",
+      "A eucalyptus grove"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Ute = utility vehicle / pickup truck"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, if someone tells you to \"wheesht\", what do they want you to do?",
+    "options": [
+      "Hurry up",
+      "Be quiet / shut up",
+      "Drink your whisky",
+      "Step aside"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Scotland] - Wheesht = hush, be quiet"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"spill the tea\" mean?",
+    "options": [
+      "To drop a hot beverage",
+      "To share gossip or disclose secrets",
+      "To apologize for an error",
+      "To waste money recklessly"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Spill the tea = share gossip/drama"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is a \"dart\"?",
+    "options": [
+      "A cigarette",
+      "A quick snowmobile ride",
+      "An ice hockey pass",
+      "A sharp remark"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Canada] - Dart = cigarette"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand, what does \"hard out\" mean as an affirmative exclamation?",
+    "options": [
+      "Let's stop working",
+      "Exactly / totally agree",
+      "It's freezing outside",
+      "That was excessively difficult"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Hard out = intense agreement (\"totally\")"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what is an \"eejit\"?",
+    "options": [
+      "A small insect",
+      "An idiot or foolish person",
+      "A mischievous child",
+      "A clever trick"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Eejit = idiot"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, if something costs \"a monkey\", how much money is it?",
+    "options": [
+      "£50",
+      "£100",
+      "£500",
+      "£1,000"
+    ],
+    "answer": 2,
+    "d": 1,
+    "fact": "[UK Cockney] - Monkey = £500 (Pony = £25)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"she'll be right\" mean?",
+    "options": [
+      "A woman is arriving shortly",
+      "Everything will turn out fine / don't worry",
+      "She has correct information",
+      "Turn right at the next crossing"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - She'll be right = it will work out fine"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what is a \"braai\"?",
+    "options": [
+      "A traditional outdoor barbecue",
+      "A warm winter jacket",
+      "A close brother or male friend",
+      "A heavy thunderstorm"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[South Africa] - Braai = barbecue / cookout"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, what does \"bangarang\" mean?",
+    "options": [
+      "A percussion instrument",
+      "Disorder, hubbub, or disturbance",
+      "A large tropical fruit",
+      "An elaborate hairstyle"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Jamaica] - Bangarang = commotion, disturbance, uproar"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"knackered\" mean?",
+    "options": [
+      "Extremely tired or broken",
+      "Wealthy and eccentric",
+      "Dressed in formal clothes",
+      "Confused by instructions"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[UK] - Knackered = exhausted, worn out"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"ghosting\" someone mean?",
+    "options": [
+      "Following them secretly online",
+      "Suddenly cutting off all communication without explanation",
+      "Mimicking their speech pattern",
+      "Scaring them as a prank"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Ghosting = cutting off contact abruptly"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian English, what is a \"bunny hug\" (primarily in Saskatchewan)?",
+    "options": [
+      "A warm drink with maple syrup",
+      "A hooded sweatshirt (hoodie)",
+      "A gentle snow flurry",
+      "An affectionate pet name"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada - SK] - Bunny hug = hooded sweatshirt"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian rhyming slang, what does \"have a Captain Cook\" mean?",
+    "options": [
+      "To take a look",
+      "To read a book",
+      "To catch a crook",
+      "To cook a stew"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Australia] - Captain Cook = look"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Singaporean English (Singlish), what does \"shiok\" express?",
+    "options": [
+      "Disgust or revulsion",
+      "Great pleasure, deliciousness, or satisfaction",
+      "Deep sorrow or grief",
+      "Confusion and uncertainty"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Singapore/Malaysia] - Shiok = delicious, immensely pleasurable"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, if someone is \"paralytic\", what state are they in?",
+    "options": [
+      "Highly anxious",
+      "Extremely drunk",
+      "Paralyzed with fear",
+      "Bedridden with the flu"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Paralytic = extremely intoxicated"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what is a \"dreckly\" or in Cornish slang \"dreckly\"?",
+    "options": [
+      "Directly / at some indeterminate future time",
+      "Directly behind you",
+      "A sharp turn",
+      "A stubborn horse"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Cornwall/West Country] - Dreckly = at some point later / directly"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian Pidgin, what does \"wetin\" mean?",
+    "options": [
+      "Where",
+      "When",
+      "What",
+      "Why"
+    ],
+    "answer": 2,
+    "d": 1,
+    "fact": "[Nigeria] - Wetin = what"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what are \"budgie smugglers\"?",
+    "options": [
+      "Mens tight, brief-style swimwear",
+      "Illegal exotic pet traders",
+      "Very small pockets",
+      "Padded bicycle shorts"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Australia] - Budgie smugglers = tight men's swim briefs"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"skive\" mean?",
+    "options": [
+      "To slice bread thin",
+      "To avoid work, school, or duty by slacking off",
+      "To borrow money without intending to repay",
+      "To clean up thoroughly"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Skive = play truant, avoid work"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"clout\" refer to?",
+    "options": [
+      "Heavy winter garments",
+      "Influence, power, or social media fame",
+      "Financial debt",
+      "Physical awkwardness"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Clout = social influence, standing"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what does \"sweet as\" mean?",
+    "options": [
+      "Very sugary",
+      "Cool, great, or no problem",
+      "Sarcastic praise",
+      "Fragile or delicate"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Sweet as = awesome, no worries"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, who is a \"boet\"?",
+    "options": [
+      "A police officer",
+      "A brother, mate, or fellow guy",
+      "A small boat or dinghy",
+      "A rude neighbor"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Boet = brother, mate"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is a \"keener\"?",
+    "options": [
+      "A person who mourns professionally",
+      "Someone excessively eager, enthusiastic, or studious",
+      "A cold, biting wind",
+      "A sharp knife for filleting fish"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Keener = overachiever, eager beaver"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what is \"craic\"?",
+    "options": [
+      "A dangerous fracture",
+      "Fun, conversation, gossip, or good times",
+      "A counterfeit bill",
+      "An unpredictable animal"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Craic = fun, social chat, good times"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, if someone tells you to \"put a sock in it\", what do they mean?",
+    "options": [
+      "Keep warm",
+      "Stop talking / shut up",
+      "Save your money",
+      "Finish your drink"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Put a sock in it = be quiet"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"fair go\"?",
+    "options": [
+      "A cheap carnival ticket",
+      "A reasonable and equitable opportunity / fair chance",
+      "An easy journey",
+      "A moderate penalty"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Fair go = equitable opportunity"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, what does \"tallawah\" mean (as in \"wi likkle but wi tallawah\")?",
+    "options": [
+      "Tall and slender",
+      "Strong, sturdy, or fearless despite small stature",
+      "Wealthy and influential",
+      "Quiet and unassuming"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Jamaica] - Tallawah = strong, courageous, resilient"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Zimbabwean / South African slang, what does \"eish\" express?",
+    "options": [
+      "Extreme excitement",
+      "Resignation, surprise, shock, or exasperation",
+      "Polite agreement",
+      "Physical hunger"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa/Zimbabwe] - Eish = exclamation of resignation/shock"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does \"scran\" refer to?",
+    "options": [
+      "Small change",
+      "Food or a meal",
+      "Old clothes",
+      "A scrap or argument"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Scotland/Northern UK] - Scran = food"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, if an outfit or look is \"on fleek\", what is it?",
+    "options": [
+      "Overly flashy",
+      "Flawlessly styled or looking perfect",
+      "Wrinkled and casual",
+      "Outdated or retro"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - On fleek = perfectly styled / on point"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Singaporean English (Singlish), what does \"kiasu\" mean?",
+    "options": [
+      "Extremely generous",
+      "Fear of losing out or being left behind",
+      "Carefree and relaxed",
+      "Easily frightened by ghosts"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Singapore] - Kiasu = fear of missing out / hyper-competitive"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British Cockney rhyming slang, what does \"dog and bone\" mean?",
+    "options": [
+      "Phone",
+      "Stone",
+      "Alone",
+      "Loan"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[UK Cockney] - Dog and bone = phone"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"servo\"?",
+    "options": [
+      "A restaurant server",
+      "A service station / gas station",
+      "A tennis ace",
+      "A military veteran"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Servo = service / petrol station"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"grand\" typically mean when replying to \"How are you?\"",
+    "options": [
+      "Living in immense luxury",
+      "Fine, satisfactory, or okay",
+      "Disastrous",
+      "Annoyed but silent"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Grand = fine, alright, acceptable"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what does \"out for a rip\" mean?",
+    "options": [
+      "Going to buy torn jeans",
+      "Going out for a recreational drive or fun outing",
+      "Tearing down an old structure",
+      "Getting into a physical brawl"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Out for a rip = going for a drive/outing"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian slang, what does \"ajebutter\" describe?",
+    "options": [
+      "A street vendor selling dairy",
+      "A privileged, spoiled, or upper-class child",
+      "A very persuasive salesperson",
+      "A clumsy person"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - Ajebutter = wealthy/pampered person"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"dodgy\" mean?",
+    "options": [
+      "Agile and quick on one's feet",
+      "Suspicious, unreliable, or dubious",
+      "Highly respectable",
+      "Incredibly fast"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Dodgy = suspicious, sketchy"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what is a \"robot\"?",
+    "options": [
+      "An automated manufacturing arm",
+      "A street traffic light",
+      "A strict manager",
+      "An automated toll booth"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Robot = traffic light"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does it mean to \"spit the dummy\"?",
+    "options": [
+      "To chew tobacco",
+      "To have a sudden temper tantrum or lose one's composure",
+      "To reveal a secret under pressure",
+      "To reject an imitation product"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Spit the dummy = throw a tantrum"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand and Australian slang, what is a \"dairy\"?",
+    "options": [
+      "A milk farm only",
+      "A local corner convenience store",
+      "An ice cream parlor",
+      "A daily personal journal"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Dairy = corner convenience shop"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"salty\" mean?",
+    "options": [
+      "Unusually experienced at sea",
+      "Bitter, upset, or irritated over something minor",
+      "Flirtatious or bold",
+      "Highly intelligent"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Salty = bitter, resentful over small things"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Trinidadian slang, what does \"tabanca\" mean?",
+    "options": [
+      "A tropical rhythm",
+      "Extreme lovesickness or heartbreak",
+      "A wooden cooking spoon",
+      "A sudden headache"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Trinidad] - Tabanca = lovesickness, broken heart"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, if someone is \"canny\", what are they?",
+    "options": [
+      "Shrewd, careful, or pleasant",
+      "Unable to move",
+      "Addicted to canned drinks",
+      "Loud and obnoxious"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Scotland/North East UK] - Canny = shrewd, pleasant, gentle"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what is a \"quid\"?",
+    "options": [
+      "A one-pound sterling coin/unit (£1)",
+      "A portion of chewing tobacco",
+      "A five-pound banknote",
+      "A pint of lager"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[UK] - Quid = one pound sterling"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what are \"snags\"?",
+    "options": [
+      "Hidden river obstacles",
+      "Sausages",
+      "Minor problems",
+      "Old fishing hooks"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Snags = sausages"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"sound\" mean when describing a person?",
+    "options": [
+      "Very loud and boisterous",
+      "Reliable, dependable, or good-natured",
+      "Deaf or hard of hearing",
+      "Wealthy and prudent"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Sound = reliable, genuine, friendly"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is a \"hydro bill\"?",
+    "options": [
+      "A water utility bill",
+      "An electricity bill",
+      "A canal tax",
+      "A boat registration fee"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Hydro bill = electricity bill"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian Pidgin, what does \"I dey\" mean?",
+    "options": [
+      "I am leaving",
+      "I am here / I am doing fine",
+      "I day-dream",
+      "I don't know"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - I dey = I am here / I am well"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"barmy\" mean?",
+    "options": [
+      "Warm and gentle like a summer evening",
+      "Crazy, eccentric, or nonsensical",
+      "Fermented and frothy",
+      "Incompetent at sports"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Barmy = mad, foolish"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does it mean to \"throw shade\"?",
+    "options": [
+      "To block direct sunlight with an umbrella",
+      "To subtly express contempt or disrespect",
+      "To conceal illegal earnings",
+      "To protect a friend from criticism"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Throw shade = subtle insult or contempt"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what does \"howzit\" mean?",
+    "options": [
+      "How much does it cost?",
+      "Hello, how is it going?",
+      "Where is it located?",
+      "Why did it break?"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Howzit = hello, how's it going?"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"tinny\"?",
+    "options": [
+      "A can of beer, or a small aluminum boat",
+      "A tiny coin",
+      "A cheap tin roof",
+      "A squeaky bicycle"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Australia] - Tinny = can of beer or small tin boat"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what is a \"bach\" (pronounced 'batch')?",
+    "options": [
+      "A bachelor party",
+      "A modest holiday home or beach cottage",
+      "A small loaf of bread",
+      "A short walking track"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Bach = holiday shack / beach house"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, if someone says \"I'm skint\", what do they mean?",
+    "options": [
+      "They have sunburned skin",
+      "They have no money / are broke",
+      "They are wearing light clothes",
+      "They barely escaped an injury"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Skint = penniless, broke"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, who is a \"duppy\"?",
+    "options": [
+      "A foolish person",
+      "A ghost, spirit, or phantom",
+      "A small dove",
+      "A street vendor"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Jamaica] - Duppy = ghost or spirit"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Singaporean English, what does \"blur\" mean when describing a person?",
+    "options": [
+      "Extremely fast runner",
+      "Clueless, confused, or unobservant",
+      "Visually impaired",
+      "Intoxicated"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Singapore] - Blur = oblivious, clueless"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what is a \"yoke\"?",
+    "options": [
+      "An egg yolk",
+      "A thingamajig, gadget, or unspecified object",
+      "A burden or heavy task",
+      "A pair of draft oxen"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Yoke = object, gadget, thing"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is \"screech\"?",
+    "options": [
+      "A high-pitched bird call",
+      "A potent variety of Newfoundland rum",
+      "A sudden stop on an icy road",
+      "A noisy hockey referee whistle"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Screech = potent Newfoundland rum"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does \"gawkie\" or \"gawk\" mean?",
+    "options": [
+      "To stare rudely or stupidly",
+      "To spit on the pavement",
+      "To run awkwardly",
+      "To laugh hysterically"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Scotland/UK] - Gawk = stare openly or foolishly"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, who is a \"bludger\"?",
+    "options": [
+      "A heavy construction sledgehammer",
+      "Someone who avoids work and relies on others",
+      "A tough rugby player",
+      "A person who argues constantly"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Bludger = lazy person who relies on others"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"bougie\" (or \"bourgie\") describe?",
+    "options": [
+      "A scented candle",
+      "Displaying pretentious, middle-class or wealthy aspirations",
+      "A bohemian artist",
+      "Extremely poor or run-down"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Bougie = pretending to high-class tastes"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what is a \"brolly\"?",
+    "options": [
+      "A small bakery roll",
+      "An umbrella",
+      "A heavy winter scarf",
+      "A child's tricycle"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Brolly = umbrella"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian slang, what does \"gobe\" mean?",
+    "options": [
+      "Trouble or a messy predicament",
+      "A large feast",
+      "An untruthful rumor",
+      "A traditional cap"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Nigeria] - Gobe = trouble, controversy"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what is \"biltong\"?",
+    "options": [
+      "A wooden fence post",
+      "Cured, dried meat seasoned with spices",
+      "A long storytelling session",
+      "An old jalopy car"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Biltong = dried cured spiced meat"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"drongo\" mean?",
+    "options": [
+      "A desert bird",
+      "A foolish, incompetent, or silly person",
+      "A tall, lean sheep shearer",
+      "A heavy tropical downpour"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Drongo = fool, clumsy or silly person"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, if someone is \"banjaxed\", what are they or it?",
+    "options": [
+      "Promoted to a high rank",
+      "Broken, ruined, or severely worn out",
+      "Bewitched or cursed",
+      "Cleared of all legal charges"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Banjaxed = broken, ruined"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British Cockney rhyming slang, what does \"trouble and strife\" mean?",
+    "options": [
+      "Knife",
+      "Life",
+      "Wife",
+      "Strife"
+    ],
+    "answer": 2,
+    "d": 1,
+    "fact": "[UK Cockney] - Trouble and strife = wife"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what does \"chur\" mean?",
+    "options": [
+      "Thanks / cheers / cool",
+      "Be quiet",
+      "Turn around",
+      "Watch your step"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[New Zealand] - Chur = cheers, thanks, cool"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is a \"parkade\"?",
+    "options": [
+      "An outdoor public playground",
+      "A multi-story parking garage",
+      "A covered shopping promenade",
+      "A provincial wildlife sanctuary"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Parkade = multi-level parking lot"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican slang, what does \"chanderlier\" or \"bling\" historically refer to, but specifically what is \"ice\"?",
+    "options": [
+      "Cold drinks",
+      "Diamonds or sparkly jewelry",
+      "Hard drugs",
+      "Clear sunglasses"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Global/US/Caribbean] - Ice = diamonds, jewelry"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"bet\" signify when used as a one-word response?",
+    "options": [
+      "\"I disagree\"",
+      "\"Yes / deal / absolutely\"",
+      "\"You owe me money\"",
+      "\"Maybe later\""
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Bet = agreed, confirmed, for sure"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"hard yakka\" refer to?",
+    "options": [
+      "A spiky desert plant",
+      "Strenuous, heavy physical work",
+      "A tough negotiation",
+      "An unpalatable meal"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Hard yakka = hard manual labor"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what are \"clobber\"?",
+    "options": [
+      "Heavy boxing gloves",
+      "Clothes or personal belongings",
+      "Heavy wooden mallets",
+      "Muddy walking boots"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Clobber = clothes, gear, possessions"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian slang, what does \"chop\" literally mean in informal usage?",
+    "options": [
+      "To cut wood",
+      "To eat, consume, or enjoy life/funds",
+      "To fight physically",
+      "To run quickly"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - Chop = to eat, enjoy, consume"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does \"bonnie\" mean?",
+    "options": [
+      "Pretty, beautiful, or attractive",
+      "Bony and emaciated",
+      "Brave and fierce",
+      "Cold and misty"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Scotland] - Bonnie = pretty, handsome, fair"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African English, what does \"padkos\" mean?",
+    "options": [
+      "Toll road fare",
+      "Food packed for a journey / road trip snacks",
+      "Road construction cones",
+      "A hitchhiker's backpack"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Padkos = journey snacks / road food"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is an \"esky\"?",
+    "options": [
+      "An indigenous snowshoe",
+      "A portable insulated cooler for food and drinks",
+      "An electric scooter",
+      "A lightweight rain jacket"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Esky = portable insulated cooler"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does it mean if an event goes \"pear-shaped\"?",
+    "options": [
+      "It goes smoothly and as planned",
+      "It goes completely wrong or fails",
+      "It becomes lavish and expensive",
+      "It ends earlier than anticipated"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Pear-shaped = gone wrong / failed"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, if someone says \"I will, yeah\", what do they actually mean?",
+    "options": [
+      "An emphatic agreement",
+      "A definitive, sarcastic \"No, I definitely will not\"",
+      "A request to wait a few minutes",
+      "An inquiry about details"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - \"I will, yeah\" = sarcastic Irish refusal (\"I definitely will not\")"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Indian English, what does the expression \"prepone\" mean?",
+    "options": [
+      "To prepare thoroughly beforehand",
+      "To postpone indefinitely",
+      "To reschedule an event to an earlier time or date",
+      "To cancel with short notice"
+    ],
+    "answer": 2,
+    "d": 1,
+    "fact": "[India] - Prepone = reschedule earlier (opposite of postpone)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Ghanaian English and Pidgin, what does the exclamation \"Chale\" (or \"Chalé\") mean?",
+    "options": [
+      "Good night",
+      "Friend, bro, or buddy",
+      "Be quiet",
+      "Hurry up"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ghana] - Chale = friend, bro, dude"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian English, what does \"muckamuck\" (or \"high muckamuck\", borrowed from Chinook Jargon) refer to?",
+    "options": [
+      "Deep mud in early spring",
+      "An important, self-important, or high-ranking official",
+      "A hearty campfire stew",
+      "An unruly dog"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada/Pacific NW] - Muckamuck = high-ranking official / big boss"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what does \"chunder\" mean?",
+    "options": [
+      "To gossip",
+      "To vomit",
+      "To run away fast",
+      "To laugh uncontrollably"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa/Australia/UK] - Chunder = vomit"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, if someone tells you to \"cool runnings\", what are they saying?",
+    "options": [
+      "Drive safely in the rain",
+      "Travel safely / peace be with you / take it easy",
+      "Go fetch cold refreshments",
+      "Stop walking so fast"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Jamaica] - Cool runnings = peace be with you / safe journey"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"rizz\" mean?",
+    "options": [
+      "Charisma, charm, or skill at flirting",
+      "Cheap or shoddy goods",
+      "Sudden panic",
+      "Cold weather windchill"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[US] - Rizz = charisma, romantic charm"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what is a \"clootie\" (or \"cloot\")?",
+    "options": [
+      "A piece of cloth or rag",
+      "A walking stick",
+      "A woolen cap",
+      "A wooden gate"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Scotland] - Clootie = cloth or rag"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"arvo\" mean?",
+    "options": [
+      "Breakfast",
+      "Afternoon",
+      "Evening twilight",
+      "Midnight"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Arvo = afternoon"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does it mean to \"throw a wobbly\"?",
+    "options": [
+      "To lose balance on an icy road",
+      "To have a sudden tantrum or fit of anger",
+      "To tell a humorous white lie",
+      "To fail a fitness examination"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Throw a wobbly = have a tantrum or fit of temper"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Singaporean English (Singlish), what does \"ang moh\" refer to?",
+    "options": [
+      "A red sports car",
+      "A Westerner or Caucasian person",
+      "Spicy chili sauce",
+      "An elder sibling"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Singapore/Malaysia] - Ang moh = Caucasian person (Hokkien origin)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian Pidgin, what does \"comfam\" mean?",
+    "options": [
+      "Come to family dinner",
+      "Confirm / genuine / verified",
+      "Comfortable seating",
+      "Completely finished"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - Comfam = confirm, genuine, authentic"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what is a \"togs\"?",
+    "options": [
+      "Heavy working boots",
+      "Swimwear / bathing suits",
+      "Sheep shears",
+      "Canvas garden gloves"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Togs = swimsuit / swimwear"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"banter\" or \"having a session\" specifically mean when referencing a night out?",
+    "options": [
+      "An evening of extended social drinking, music, and conversation",
+      "A formal business meeting at a pub",
+      "An athletic training workout",
+      "An intense verbal argument"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Ireland] - Session = evening of music, drinking, and craic"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US African American Vernacular English (AAVE), what does it mean to \"keep it 100\"?",
+    "options": [
+      "To save exactly one hundred dollars",
+      "To drive at maximum speed",
+      "To be completely authentic, genuine, and honest",
+      "To score top marks on a test"
+    ],
+    "answer": 2,
+    "d": 1,
+    "fact": "[US AAVE] - Keep it 100 = stay 100% authentic and truthful"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is a \"toque\" (or \"tuque\")?",
+    "options": [
+      "A heavy down park",
+      "A knitted winter cap or beanie",
+      "A toboggan sled",
+      "A lumberjack flannel shirt"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Toque/Tuque = knit winter cap / beanie"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what is a \"bakkie\"?",
+    "options": [
+      "A small bowl for dipping",
+      "A light pickup truck or utility vehicle",
+      "A baby stroller",
+      "A thatched beach hut"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Bakkie = light pickup truck"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British Cockney rhyming slang, what does \"pork pies\" stand for?",
+    "options": [
+      "Ties",
+      "Lies",
+      "Eyes",
+      "Cries"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK Cockney] - Pork pies = lies"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what are \"boardies\"?",
+    "options": [
+      "Board games",
+      "Board shorts / casual swimming shorts",
+      "Boarding school students",
+      "Billboards along the highway"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Boardies = board shorts"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Trinidadian slang, what does \"mook\" mean?",
+    "options": [
+      "A foolish, simple-minded, or gullible person",
+      "A tasty street dumpling",
+      "A very tall building",
+      "A musical percussion beat"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Trinidad & Tobago] - Mook = foolish or easily duped person"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does \"numpty\" mean?",
+    "options": [
+      "A stupid or ineffective person",
+      "A sweet shortbread biscuit",
+      "A small farm animal",
+      "A heavy downpour of rain"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Scotland] - Numpty = foolish, silly, or incompetent person"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Kenyan English (Sheng/informal), what does \"m-pesa\" literally do, and what does \"chapaa\" refer to?",
+    "options": [
+      "Mobile phone credit / shoes",
+      "Mobile money transfer / cash or money",
+      "Public bus / bus fare",
+      "Coffee shop / coffee beans"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Kenya] - Chapaa = money; M-Pesa = mobile money"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"delighted\" usually get paired with in the expression \"delighted and...\"?",
+    "options": [
+      "Bewildered",
+      "Charmed",
+      "Haunted",
+      "Flabbergasted"
+    ],
+    "answer": 2,
+    "d": 1,
+    "fact": "[Ireland] - \"Delighted and haunted\" = thrilled and relieved/lucky"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"minging\" mean?",
+    "options": [
+      "Disgusting, foul-smelling, or unattractive",
+      "Whining or weeping softly",
+      "Mixing cocktails",
+      "Singing out of tune"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[UK] - Minging = repulsive, foul, ugly"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what is an \"opp\"?",
+    "options": [
+      "An opportunity",
+      "An opponent or enemy",
+      "An optical illusion",
+      "An official police officer"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Opp = opposition / enemy / rival"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does it mean to \"go walkabout\"?",
+    "options": [
+      "To wander off or go missing temporarily",
+      "To embark on a planned mountain hike",
+      "To surrender a sporting match",
+      "To retire from formal employment"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Australia] - Walkabout = wander off, disappear for a period"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what does \"wop-wops\" refer to?",
+    "options": [
+      "Helicopter blades",
+      "Remote countryside or the middle of nowhere",
+      "Children's rubber boots",
+      "Rapid applause"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Wop-wops = the boonies, middle of nowhere"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, who or what is a \"gogo\"?",
+    "options": [
+      "An express commuter train",
+      "A grandmother or elderly woman",
+      "An energetic dance routine",
+      "A small dessert pastry"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Gogo = grandmother / elderly woman"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian Pidgin, what does \"k-leg\" mean when a situation has a \"k-leg\"?",
+    "options": [
+      "A fast runner is involved",
+      "It has a problem, complication, or unexpected snag",
+      "It has strong legal standing",
+      "It is already settled"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - K-leg = complication, snag, unexpected problem"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what is a \"fiver\"?",
+    "options": [
+      "A five-pound (£5) note",
+      "A five-minute break",
+      "A high-five hand gesture",
+      "A five-kilometer run"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[UK] - Fiver = five-pound sterling banknote"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what does \"give'r\" mean?",
+    "options": [
+      "Hand over your wallet",
+      "Give it your all / go all out with maximum effort",
+      "Pass the puck back",
+      "Forgive and forget"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Give'r = give it all you've got / go full throttle"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, what does \"ignorant\" often mean in everyday parlance?",
+    "options": [
+      "Lacking book knowledge",
+      "Easily provoked, hot-tempered, or angry",
+      "Illiterate",
+      "Quiet and shy"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Jamaica] - Ignorant = angry, quick-tempered"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Indian English, what does \"pass out\" traditionally mean in college contexts?",
+    "options": [
+      "To faint from heat exhaustion",
+      "To graduate from a university or college",
+      "To fail an examination",
+      "To leave class early without permission"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[India] - Pass out = graduate from an educational institution"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"dag\"?",
+    "options": [
+      "A fiercely competitive athlete",
+      "An unfashionable, eccentric, but endearingly goofy person",
+      "A pointed shearing hook",
+      "A quick dip in the ocean"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Dag = eccentric, unfashionable, affectionate goofball"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"acting the maggot\" mean?",
+    "options": [
+      "Fishing with live bait",
+      "Fooling around, misbehaving, or playing silly pranks",
+      "Complaining incessantly about food",
+      "Cleaning an untidy room"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Acting the maggot = messing about, clowning foolishly"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"chunder\" or \"barf\" refer to?",
+    "options": [
+      "Heavy traffic",
+      "Vomiting",
+      "Rain sleet",
+      "Cheap tobacco"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK/Global] - Chunder / barf = vomit"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"cap\" mean as a verb (e.g., \"stop capping\")?",
+    "options": [
+      "To wear a baseball hat",
+      "To lie or exaggerate",
+      "To put a maximum limit on an account",
+      "To shoot into the air"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Capping = lying, exaggerating"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does \"peever\" refer to?",
+    "options": [
+      "A children's game of hopscotch (or the hopscotch stone)",
+      "A noisy bird",
+      "A glass of carbonated ginger ale",
+      "A hot temper"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Scotland] - Peever = hopscotch stone or the game of hopscotch"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Singaporean English (Singlish), what does \"steady\" mean when used as an approving exclamation?",
+    "options": [
+      "Please balance yourself",
+      "Awesome / excellent / agreed",
+      "Hold the door",
+      "Keep your temper under control"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Singapore/Malaysia] - Steady = excellent, reliable, agreed"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what does \"babelaas\" mean?",
+    "options": [
+      "A prolonged, chaotic argument",
+      "A hangover",
+      "A babbling infant",
+      "A traditional beaded necklace"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Babelaas = a hangover"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian slang, what does \"flex\" mean in everyday conversation?",
+    "options": [
+      "To show off or enjoy oneself lavishly",
+      "To bend steel reinforcement bars",
+      "To negotiate rent prices",
+      "To arrive late to work"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Nigeria/US] - Flex = show off wealth, status, or have fun"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does it mean to \"hit the frog and toad\"?",
+    "options": [
+      "To step into a swamp",
+      "To hit the road / leave / depart",
+      "To make a costly mistake",
+      "To cook bush food"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Hit the frog and toad = hit the road / leave"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what is a \"geezer\"?",
+    "options": [
+      "An elderly disabled gentleman only",
+      "A bloke, guy, or fellow (often streetwise)",
+      "A broken water tap",
+      "A heavy overcoat"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Geezer = guy, fellow, man"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is \"poutine\"?",
+    "options": [
+      "A French pastry",
+      "French fries topped with cheese curds and brown gravy",
+      "A traditional wool blanket",
+      "A canoe paddle"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Poutine = fries with cheese curds and gravy"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what is a \"stubbies\"?",
+    "options": [
+      "Short beer bottles or very short shorts",
+      "Stubborn sheep",
+      "Unsharpened pencils",
+      "Short coastal piers"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[New Zealand/Australia] - Stubbies = short shorts / stubby beer bottles"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what is a \"chipper\"?",
+    "options": [
+      "A cheerful, talkative bird",
+      "A takeaway shop specializing in fish and chips",
+      "A wood-chopping machine",
+      "A golf club used around the green"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland/UK] - Chipper = fish and chip shop"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"glow up\" mean?",
+    "options": [
+      "An electrical short circuit",
+      "An impressive transformation in physical appearance or personal confidence",
+      "A night-time light festival",
+      "An intense flush of embarrassment"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Glow up = major positive physical/personal glow-up"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Trinidadian slang, what does \"maco\" (or \"maccing\") mean?",
+    "options": [
+      "A nosy, prying busybody / spying on others",
+      "A heavy tropical thunderstorm",
+      "Making handmade straw hats",
+      "A fast-paced calypso step"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Trinidad & Tobago] - Maco = busybody, eavesdropper, nosy person"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British Cockney rhyming slang, what does \"loaf of bread\" mean?",
+    "options": [
+      "Bed",
+      "Head (as in \"use your head\")",
+      "Dead",
+      "Red"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK Cockney] - Loaf of bread = head"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"barbie\"?",
+    "options": [
+      "A child's fashion doll only",
+      "A barbecue / outdoor grill",
+      "A barbed wire fence",
+      "A sandy barrier island"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Barbie = barbecue"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Ghanaian Pidgin, what does \"dey\" generally mean?",
+    "options": [
+      "Day time",
+      "Is / are / to be located at",
+      "They (plural pronoun)",
+      "Tomorrow morning"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ghana/Nigeria Pidgin] - Dey = to be, is/are located"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does \"dreich\" describe?",
+    "options": [
+      "Delicious and savory food",
+      "Bleak, gray, dull, and drizzly weather",
+      "A steep mountain trail",
+      "An arrogant attitude"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Scotland] - Dreich = damp, gray, miserably dreary weather"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what is \"bunny chow\"?",
+    "options": [
+      "Dry pellets for pet rabbits",
+      "A hollowed-out loaf of bread filled with spicy curry",
+      "A sweet deep-fried donut",
+      "A field salad of shredded cabbage"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Bunny chow = bread loaf filled with curry"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is a \"chesterfield\"?",
+    "options": [
+      "A brand of vintage cigarettes",
+      "A sofa or couch",
+      "A heavy wool winter coat",
+      "An old wooden desk"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Chesterfield = couch or sofa"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian Pidgin, what does \"I no gree\" mean?",
+    "options": [
+      "I do not agree / I refuse",
+      "I am not green / naive",
+      "I do not greet you",
+      "I am not hungry"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Nigeria] - I no gree = I refuse / I disagree completely"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"proper\" often mean when placed before an adjective (e.g., \"proper good\")?",
+    "options": [
+      "Polite and refined",
+      "Really, genuinely, or extremely",
+      "Technically correct",
+      "Barely acceptable"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Proper = very, really, thoroughly"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"sus\" mean?",
+    "options": [
+      "Sustained",
+      "Suspicious, questionable, or dubious",
+      "Sustainable",
+      "Surprised"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Sus = suspicious, suspect"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"choc-a-bloc\" mean?",
+    "options": [
+      "A block of chocolate candy",
+      "Completely full or jam-packed",
+      "Blocked by an accident",
+      "A wooden cutting board"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK/Ireland] - Choc-a-bloc = crammed full, packed"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"cold one\"?",
+    "options": [
+      "A frosty winter morning",
+      "A cold can or bottle of beer",
+      "An unfriendly greeting",
+      "An unheated swimming pool"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Cold one = a cold beer"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what does \"tu meke\" mean (borrowed from Māori)?",
+    "options": [
+      "Too much / great work / awesome",
+      "Too slow",
+      "Very cold weather",
+      "Be careful"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[New Zealand] - Tu meke = too much, outstanding, great job"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Indian English, what does \"do the needful\" mean?",
+    "options": [
+      "Complete the required task or take appropriate action",
+      "Give charity to those in need",
+      "Pray before starting work",
+      "Sign an official legal contract"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[India] - Do the needful = take required action"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what is a \"cuppa\"?",
+    "options": [
+      "A sporting trophy",
+      "A cup of tea",
+      "A small kitchen measuring tool",
+      "A small wooden bowl"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK/Australia] - Cuppa = cup of tea"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, what does \"picky-picky head\" refer to?",
+    "options": [
+      "A very selective eater",
+      "Short, patchy, or unkempt hair",
+      "A headache caused by the sun",
+      "A stubborn child"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Jamaica] - Picky-picky head = short, coarse, uncombed hair"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what does \"ja-nee\" literally mean, and how is it used?",
+    "options": [
+      "\"Yes-no\" / an expression of wry agreement or concession",
+      "\"Never-ever\" / absolute refusal",
+      "\"Yesterday-today\" / time passing quickly",
+      "\"Maybe-perhaps\" / total indecision"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[South Africa] - Ja-nee = yes-no, signifying ironic agreement"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what does \"deke\" mean in hockey and everyday life?",
+    "options": [
+      "To decline an offer",
+      "To fake an opponent out of position or swerve quickly",
+      "To shoot directly into the net",
+      "To slip on ice"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Deke = feint, fake out an opponent"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what is a \"gillie\"?",
+    "options": [
+      "A fish's breathing organ",
+      "A guide or attendant on a hunting or fishing expedition",
+      "A small stream",
+      "A traditional dance shoe"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Scotland] - Gillie = outdoor hunting or fishing attendant/guide"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"slaps\" mean when referring to a song (e.g., \"this song slaps\")?",
+    "options": [
+      "It is excessively loud and annoying",
+      "It is exceptionally good, catchy, or energetic",
+      "It has offensive lyrics",
+      "It has poor bass mixing"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Slaps = sounds great, exceptionally good beat"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"dunny\" mean?",
+    "options": [
+      "A small fishing boat",
+      "An outdoor toilet or latrine",
+      "A brown sandy hill",
+      "A foolish comment"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Dunny = outdoor latrine / toilet"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian slang, what does \"sapa\" mean?",
+    "options": [
+      "Severe financial broke-ness or poverty",
+      "A traditional herbal soap",
+      "A delicious soup",
+      "A long highway journey"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Nigeria] - Sapa = state of broke-ness, financial distress"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"telly\" mean?",
+    "options": [
+      "A bank teller",
+      "The television",
+      "A fortune teller",
+      "A telephone"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Telly = television"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"jackeen\" historically and colloquially mean?",
+    "options": [
+      "A small sea fish",
+      "A rural person's teasing term for a Dubliner",
+      "A winter coat",
+      "A mischievous lad"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Jackeen = city dweller from Dublin"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Singaporean English (Singlish), what does the sentence particle \"lah\" do?",
+    "options": [
+      "Turns any sentence into a question",
+      "Adds emphasis, tone, reassurance, or finality to a statement",
+      "Means \"no\"",
+      "Indicates singing"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Singapore/Malaysia] - Lah = Singlish pragmatic sentence particle"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what is a \"jol\"?",
+    "options": [
+      "A party, celebration, or fun time",
+      "A physical fight",
+      "A jail cell",
+      "A heavy wooden bat"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[South Africa] - Jol = party, great outing, fun celebration"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what does \"pencil crayons\" refer to?",
+    "options": [
+      "Wax drawing sticks",
+      "Colored pencils",
+      "Graphite drafting pencils",
+      "Highlighter markers"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Pencil crayons = colored pencils"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British Cockney rhyming slang, what does \"mince pies\" stand for?",
+    "options": [
+      "Thighs",
+      "Eyes",
+      "Lies",
+      "Pies"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK Cockney] - Mince pies = eyes"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"stickybeak\"?",
+    "options": [
+      "A curious, inquisitive, or nosy person",
+      "A bird that eats sugar nectar",
+      "A lollipop",
+      "A sweet alcoholic cocktail"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Australia/NZ] - Stickybeak = nosy busybody"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"rent free\" mean in the phrase \"living rent free in your head\"?",
+    "options": [
+      "Free lodging provided by family",
+      "Constantly obsessing over someone or something without them doing anything",
+      "Having no memory of an incident",
+      "Being extremely frugal"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Rent free = constantly on one's mind without cause"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Ghanaian English, what does \"drop that thing\" or \"trotro\" mean, specifically what is a \"trotro\"?",
+    "options": [
+      "A small private taxi",
+      "A privately owned minibus used as public transport",
+      "A motorcycle delivery",
+      "A train passenger carriage"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ghana] - Trotro = minibus passenger transit"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, what is \"patty\"?",
+    "options": [
+      "A soft hamburger patty",
+      "A baked pastry with a spiced yellow crust filled with seasoned meat or vegetables",
+      "A flat wooden boat",
+      "An argument between friends"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Jamaica/Caribbean] - Patty = spiced pastry turnover"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does \"wean\" mean?",
+    "options": [
+      "To accustom to solid food",
+      "A young child",
+      "A small hill",
+      "A soft cry"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Scotland] - Wean = small child / baby"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"fluthered\" mean?",
+    "options": [
+      "Bewildered by numbers",
+      "Very drunk / heavily intoxicated",
+      "Covered in bird feathers",
+      "Flattered excessively"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Fluthered = heavily drunk"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"hooroo\" mean?",
+    "options": [
+      "A joyful yell",
+      "Goodbye / see you later",
+      "What a disaster",
+      "A fast kangaroo"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Hooroo = goodbye, farewell"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what is a \"bodge\" (or \"bodge job\")?",
+    "options": [
+      "A high-end architectural renovation",
+      "A clumsy, quick, or poor-quality repair",
+      "An undercover police sting",
+      "A heavy wooden cart"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Bodge = botched, makeshift, hasty repair"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian Pidgin, what does \"shine your eye\" mean?",
+    "options": [
+      "Put on eye makeup",
+      "Be alert, vigilant, and smart; don't be deceived",
+      "Stare directly at the sun",
+      "Cry tears of joy"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - Shine your eye = stay sharp, pay close attention"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is \"stagette\"?",
+    "options": [
+      "A young female deer",
+      "A bachelorette party",
+      "A short theater performance",
+      "A small wooden cabin"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Stagette = bachelorette party"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what does \"padstal\" refer to?",
+    "options": [
+      "A roadside farm stall or farm shop",
+      "A flat tire along the highway",
+      "A hitchhiker's bench",
+      "A highway toll booth"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[South Africa] - Padstal = farm shop along the roadside"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what does \"pack a sad\" mean?",
+    "options": [
+      "To pack a small suitcase",
+      "To become sulky, morose, or throw a tantrum",
+      "To prepare for a funeral",
+      "To finish an unhappy relationship"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Pack a sad = pout, sulk, get depressed/moody"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"mid\" mean?",
+    "options": [
+      "Middle of the street",
+      "Mediocre, average, or low quality",
+      "Centered and balanced",
+      "Halfway through a book"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Mid = mediocre, unexceptional, sub-par"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Indian English, what does \"stepney\" mean?",
+    "options": [
+      "A stepmother",
+      "A spare tire (and metaphorically, a backup plan or person)",
+      "A flight of stairs",
+      "A small doorstep"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[India] - Stepney = spare tire / alternative substitute"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"sorted\" mean when someone says \"It's all sorted\"?",
+    "options": [
+      "Divided into neat piles",
+      "Resolved, arranged, or taken care of",
+      "Deleted permanently",
+      "Disqualified from a race"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Sorted = arranged, finalized, fixed"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"cark it\" mean?",
+    "options": [
+      "To park a car illegally",
+      "To die or break down completely",
+      "To start a loud argument",
+      "To buy groceries"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Cark it = die, fail, stop running"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what is \"the press\"?",
+    "options": [
+      "The local newspaper team",
+      "A cupboard or storage closet",
+      "An ironing board",
+      "A crowd of onlookers"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - The press = cupboard or pantry"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, what does \"boonoonoonoos\" mean?",
+    "options": [
+      "A large bundle of bananas",
+      "A term of endearment meaning lovely, darling, or sweetheart",
+      "A wild tropical monkey",
+      "A loud thunderclap"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Jamaica] - Boonoonoonoos = sweetheart, precious one"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does \"Messages\" mean when someone goes out to \"get the messages\"?",
+    "options": [
+      "Retrieve letters from the post office",
+      "Go grocery shopping / run household errands",
+      "Deliver urgent rumors",
+      "Check telephone voicemails"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Scotland] - Messages = household grocery shopping"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"ate and left no crumbs\" mean?",
+    "options": [
+      "Finished a restaurant meal without tipping",
+      "Performed or executed something flawlessly and completely",
+      "Was extremely greedy at dinner",
+      "Cleaned the kitchen meticulously"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Ate and left no crumbs = executed something impeccably"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what does \"sharp\" (often repeated as \"sharp sharp\") mean?",
+    "options": [
+      "Watch out for broken glass",
+      "Okay / good / all right / goodbye",
+      "The food is very spicy",
+      "You are dressed very smartly"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Sharp sharp = all good, fine, alright"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"chunder\" or \"wonky\" mean, specifically what does \"wonky\" describe?",
+    "options": [
+      "Extremely sharp",
+      "Crooked, unsteady, or not working properly",
+      "Brightly illuminated",
+      "Perfectly level"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Wonky = crooked, unsteady, misaligned"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does it mean if you are \"strewth\"?",
+    "options": [
+      "An exclamation of surprise, amazement, or shock (\"God's truth\")",
+      "A severe chest cold",
+      "An honest witness in court",
+      "A wooden boomerang"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Australia] - Strewth = exclamation of shock (\"God's truth\")"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"fair dinkum\" mean?",
+    "options": [
+      "Cheap merchandise",
+      "Genuine, honest, or true",
+      "Moderately cold weather",
+      "A negotiated business compromise"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Fair dinkum = genuine, real, true"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what is a \"bap\"?",
+    "options": [
+      "A small soft bread roll",
+      "A minor bicycle accident",
+      "A woolen winter scarf",
+      "An antique pocket watch"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[UK] - Bap = soft bread roll / bun"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"fossicking\" or \"scut\" mean, specifically what is a \"scut\"?",
+    "options": [
+      "An irritating, foolish, or untrustworthy person",
+      "A short sheepdog tail",
+      "A quick nip of whiskey",
+      "A heavy downpour of hail"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Ireland] - Scut = annoying, foolish, or worthless fellow"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what does \"yebo\" mean?",
+    "options": [
+      "No way",
+      "Yes / agreed",
+      "Maybe later",
+      "Goodbye"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Yebo = yes (isiZulu origin)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what does \"skookum\" mean (originating from Chinook Jargon)?",
+    "options": [
+      "Bitterly cold",
+      "Strong, impressive, brave, or excellent",
+      "Tiny and frail",
+      "Untamed wilderness"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada/Pacific NW] - Skookum = strong, brave, first-rate (Chinook Jargon)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian Pidgin, what does \"yarn\" mean as a verb?",
+    "options": [
+      "To knit woolen sweaters",
+      "To speak, talk, or narrate a story",
+      "To yawn from tiredness",
+      "To sell goods at the market"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - Yarn = talk, discuss, converse"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US African American Vernacular English (AAVE), what does it mean to \"clock\" someone or something?",
+    "options": [
+      "To set an alarm clock",
+      "To notice, identify, or call out someone's behavior",
+      "To hire someone for hourly labor",
+      "To lend money on credit"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US AAVE] - Clock = notice, identify, monitor, or call out"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what is a \"fitba\"?",
+    "options": [
+      "A fitness gym",
+      "Football (soccer)",
+      "A footstool",
+      "A hiking trail"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Scotland] - Fitba = football (soccer)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what is a \"crib\"?",
+    "options": [
+      "A baby's bed only",
+      "A South Island holiday home or beach bach",
+      "A small dairy barn",
+      "A local police station"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Crib = holiday home (specifically South Island; bach in North)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, what does \"chanderlier\" or \"criss\" mean?",
+    "options": [
+      "Broken into pieces",
+      "Crisp, sharp, pristine, or stylish",
+      "Extremely religious",
+      "Overly talkative"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Jamaica] - Criss = crisp, cool, sharp, fashionable"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Indian English, what does \"out of station\" mean?",
+    "options": [
+      "Out of town / away from one's home city",
+      "Off the commuter railway line",
+      "Disqualified from civil service",
+      "Unemployed"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[India] - Out of station = out of town / away from station of posting"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"barbie\" need when you bring a \"stubby holder\"?",
+    "options": [
+      "A neoprene sleeve to keep a beer bottle or can cold",
+      "A portable folding table",
+      "A grill cleaning brush",
+      "A bottle opener keychain"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Australia] - Stubby holder = insulated drink cooler sleeve (koozie)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"chuffed to bits\" signify?",
+    "options": [
+      "Deeply frustrated",
+      "Absolutely thrilled and delighted",
+      "Chewed into tiny morsels",
+      "Exhausted from running"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Chuffed to bits = extremely pleased / delighted"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"locked\" mean?",
+    "options": [
+      "Safely indoors",
+      "Extremely drunk",
+      "Stubbornly stubborn",
+      "Short of cash"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Locked = heavily intoxicated"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what is a \"dorp\"?",
+    "options": [
+      "A small rural town or village",
+      "A wooden fence gate",
+      "A deep pothole in the asphalt",
+      "A type of round pastry"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[South Africa] - Dorp = small town / village (Afrikaans origin)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is a \"mickey\"?",
+    "options": [
+      "A mischievous child",
+      "A 375 ml (flask-sized) bottle of hard liquor",
+      "A small handheld snow shovel",
+      "A two-dollar coin"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Mickey = 375 ml liquor flask bottle"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Trinidadian slang, what does \"bazodee\" describe?",
+    "options": [
+      "Incredibly sharp-witted",
+      "Dazed, disoriented, or wildly infatuated",
+      "Angry and argumentative",
+      "Wealthy and extravagant"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Trinidad & Tobago] - Bazodee = dazed, infatuated, confused"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"it's giving...\" imply when commenting on someone's look or vibe?",
+    "options": [
+      "It costs too much money",
+      "It strongly evokes, channels, or resembles a certain vibe/aesthetic",
+      "It lacks personal effort",
+      "It was a gifted item"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - It's giving... = it channels / evokes an aesthetic or energy"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"ute muster\"?",
+    "options": [
+      "A military parade",
+      "A festival or gathering where drivers show off utility vehicles",
+      "A sheep-shearing competition",
+      "A muster of wild cattle"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Ute muster = car rally / gathering celebrating utility trucks"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does \"shoogle\" mean?",
+    "options": [
+      "To shake, wobble, or jiggle",
+      "To shovel snow",
+      "To walk barefoot",
+      "To whisper quietly"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Scotland] - Shoogle = shake, wobble, sway"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, if something is \"the dog's bollocks\", what does that mean?",
+    "options": [
+      "Utter nonsense",
+      "Something outstanding, top-quality, or the absolute best",
+      "Completely broken",
+      "Unclean and messy"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - The dog's bollocks = the best, top quality, excellent"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Singaporean English (Singlish), what does \"dabao\" (or \"tapau\") mean?",
+    "options": [
+      "To wash dishes",
+      "To package food for takeout / takeaway",
+      "To dine in a restaurant",
+      "To pay the entire bill"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Singapore/Malaysia] - Dabao / tapau = take away food (Cantonese origin)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian slang, what does \"shakara\" mean?",
+    "options": [
+      "Posing, showing off, or acting snooty/pretentious",
+      "A type of street dance",
+      "Spicy cassava bread",
+      "A financial scam"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Nigeria] - Shakara = posing, boasting, showing off"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what does \"chilly bin\" refer to?",
+    "options": [
+      "A cold winter breeze",
+      "A portable cooler box / ice chest",
+      "A refrigerator in a shed",
+      "A metal garbage can"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Chilly bin = portable ice chest / cooler"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"feck\" represent?",
+    "options": [
+      "A traditional folk flute",
+      "A mild, socially acceptable alternative expletive to the 'f-word'",
+      "A sharp stone on a pathway",
+      "A type of turf brick"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Feck = mild Irish expletive"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what are \"runners\"?",
+    "options": [
+      "Cross-country skiers",
+      "Athletic shoes / sneakers",
+      "Sled blades",
+      "Courier drivers"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Runners = sneakers / running shoes"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what is a \"saffa\"?",
+    "options": [
+      "A wild safari ranger",
+      "A South African person",
+      "A beach towel",
+      "A sandstorm"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Saffa = South African person"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British Cockney rhyming slang, what does \"plates of meat\" mean?",
+    "options": [
+      "Feet",
+      "Street",
+      "Treat",
+      "Meat"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[UK Cockney] - Plates of meat = feet"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"main character energy\" describe?",
+    "options": [
+      "Someone acting as an extra in a film",
+      "The aura of someone living confidently as the protagonist of their own story",
+      "An egocentric politician",
+      "A literary critic"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Main character energy = charismatic self-confidence / center of story"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Ghanaian English, what does \"dumsor\" refer to?",
+    "options": [
+      "An open drainage canal",
+      "Persistent, irregular electric power outages",
+      "A traditional percussion rhythm",
+      "Heavy seasonal haze"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ghana] - Dumsor = irregular electric power shedding / blackouts"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"tradie\"?",
+    "options": [
+      "A stock market broker",
+      "A tradesperson (e.g., carpenter, electrician, plumber)",
+      "A second-hand goods dealer",
+      "A barter shop"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Tradie = skilled tradesperson (builder, plumber, etc.)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, if someone says they are \"starvin'\", what do they usually mean besides hungry?",
+    "options": [
+      "Needing hydration",
+      "Freezing cold",
+      "Penniless",
+      "Sleep-deprived"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Starvin' = freezing cold (as in \"starving with the cold\")"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what is a \"haver\" (or \"havering\")?",
+    "options": [
+      "To harvest wheat",
+      "To talk foolishly, babble, or talk nonsense",
+      "To hesitate at a crossroads",
+      "To whisper secrets"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Scotland] - Haver = talk nonsense / foolish drivel"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"gander\" mean in \"have a gander\"?",
+    "options": [
+      "A quick look or peek",
+      "A small argument",
+      "A sip of beer",
+      "A brisk walk"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[UK] - Gander = a look / glance"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, who is a \"badman\"?",
+    "options": [
+      "A corrupt police detective",
+      "A tough guy, gangster, or respected street operator",
+      "An untalented musician",
+      "A cowardly person"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Jamaica] - Badman = street-smart tough guy / gangster"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what does \"bra\" mean when greeting someone?",
+    "options": [
+      "Undergarment",
+      "Friend, buddy, or brother",
+      "Boss or employer",
+      "Uncle"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Bra = brother, mate, bro"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what does \"garrison finish\" refer to in military or vernacular terms, but what is a \"bunny hug\"? (What is a \"toque\" paired with on the slopes?)",
+    "options": [
+      "A woolen winter cap",
+      "A thermal ski boot",
+      "A snowmobile trailer",
+      "An earflap headband"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Canada] - Toque = knit cap worn for winter cold"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"woop woop\" mean?",
+    "options": [
+      "A joyous victory shout",
+      "A remote, isolated, middle-of-nowhere location",
+      "An emergency vehicle siren",
+      "A warning about kangaroos"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Woop woop = out in the middle of nowhere"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian Pidgin, what does \"dey carry me go\" or \"you dey wine me\" mean, specifically \"you dey wine me\"?",
+    "options": [
+      "You are pouring me a drink",
+      "You are kidding, pulling my leg, or deceiving me",
+      "You are driving me home",
+      "You are buying me dinner"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - You dey wine me = you are pulling my leg / playing me"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what is a \"nosh\"?",
+    "options": [
+      "Pointless gossip",
+      "Food or a meal / snack",
+      "A head injury",
+      "An afternoon nap"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Nosh = food, a snack, a bite to eat"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"understood the assignment\" mean?",
+    "options": [
+      "Scored 100% on a school quiz",
+      "Executed or delivered exactly what was expected with total flair",
+      "Completed homework on time",
+      "Signed a corporate job contract"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Understood the assignment = exceeded expectations flawlessly"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what is a \"cuz\" or \"cuzzy\"?",
+    "options": [
+      "A customized motorcar",
+      "Cousin, good friend, or mate",
+      "A cushion for a boat",
+      "A short walking trail"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Cuz / cuzzy = cousin, friend, mate"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"flummoxed\" or \"baffled\" mean, but what is a \"culchie\"?",
+    "options": [
+      "A person from rural Ireland (outside Dublin)",
+      "A traditional peat fireplace",
+      "A soft wool cardigan",
+      "A potato farmer only"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Ireland] - Culchie = person from rural country Ireland"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Indian English, what does \"co-brother\" mean?",
+    "options": [
+      "A twin brother",
+      "One's wife's sister's husband",
+      "A close business associate",
+      "A fraternity peer"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[India] - Co-brother = husband of one's wife's sister"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does \"tattie bogle\" mean?",
+    "options": [
+      "A potato pancake",
+      "A scarecrow",
+      "A ghost in a bog",
+      "A garden beetle"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Scotland] - Tattie bogle = scarecrow in a potato field"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"ripper\"?",
+    "options": [
+      "A sharp wood saw",
+      "Something fantastic, wonderful, or exciting",
+      "A torn piece of clothing",
+      "A rough ocean undertow"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Ripper = fantastic, excellent (\"you beauty\")"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"chucking it down\" describe?",
+    "options": [
+      "Throwing trash away",
+      "Raining very heavily",
+      "Demolishing a building",
+      "Drinking a pint quickly"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Chucking it down = pouring rain"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what does \"kiff\" mean?",
+    "options": [
+      "Cool, neat, or awesome",
+      "Bitterly cold",
+      "Foul-tasting",
+      "Dangerous"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[South Africa] - Kiff = cool, great, awesome"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what does \"hydro\" specifically refer to in provinces like Ontario and BC?",
+    "options": [
+      "Water works",
+      "Electricity supply / electrical power",
+      "Underground aquifers",
+      "Bottled mineral water"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Hydro = electric power / utility"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Trinidadian slang, what does \"dingolay\" mean?",
+    "options": [
+      "To wander around lost",
+      "To dance, frolic, or twist the body rhythmically",
+      "To ring church bells",
+      "To complain loudly"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Trinidad & Tobago] - Dingolay = dance playfully and twist with joy"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US African American Vernacular English (AAVE), what does \"finna\" mean?",
+    "options": [
+      "Finally arrived",
+      "Preparing to / going to (\"fixing to\")",
+      "Finishing up",
+      "Finding out"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US AAVE] - Finna = fixing to / about to"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian slang, what does \"vawulence\" playfully refer to?",
+    "options": [
+      "A classical violin concert",
+      "Drama, confrontation, chaos, or fiery online conflict",
+      "Heavy rainstorms",
+      "Reckless street driving"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - Vawulence = slang for chaos, drama, online uproar"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what is a \"kip\"?",
+    "options": [
+      "A small sea herring",
+      "A short sleep or nap",
+      "A leather tool pouch",
+      "A rude gesture"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Kip = nap, short sleep"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"pissed\" usually mean (unlike US common usage)?",
+    "options": [
+      "Angry or annoyed",
+      "Intoxicated or drunk",
+      "Hurrying along",
+      "Wet from rain"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Pissed = drunk (in the US it typically means angry)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what does \"skite\" mean?",
+    "options": [
+      "To boast or brag",
+      "To slide on gravel",
+      "To fly a kite",
+      "To skip school"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[New Zealand] - Skite = to boast or show off"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what is a \"garda\" (plural: \"gardaí\")?",
+    "options": [
+      "A garden keeper",
+      "A member of the Irish police force",
+      "A security gatekeeper",
+      "A local council member"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Garda = member of the police force (An Garda Síochána)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what is \"koeksister\"?",
+    "options": [
+      "A traditional braided, syrup-coated fried pastry",
+      "A sister-in-law",
+      "A small bird species",
+      "A handmade tea cozy"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[South Africa] - Koeksister = braided syrup-infused fried doughnut"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what is a \"cootie\" or \"guff\"? What does \"guff\" mean?",
+    "options": [
+      "Fresh mountain air",
+      "A bad smell or flatulence; also nonsense talk",
+      "A thick wool sock",
+      "A cold rain shower"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Scotland] - Guff = foul smell, fart, or rubbish talk"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what does \"rink rat\" mean?",
+    "options": [
+      "A rodent found in hockey arenas",
+      "Someone who spends almost all their free time at an ice rink",
+      "An ice resurfacer machine operator",
+      "A cheap hockey stick"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Rink rat = someone who practically lives at the ice hockey rink"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British Cockney rhyming slang, what does \"whistle and flute\" mean?",
+    "options": [
+      "Boot",
+      "Suit",
+      "Fruit",
+      "Route"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK Cockney] - Whistle and flute = suit"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"touch grass\" mean?",
+    "options": [
+      "To play lawn sports",
+      "To disconnect from the internet and experience the real world",
+      "To start a gardening hobby",
+      "To take a barefoot walk for health"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Touch grass = unplug from screen time, get grounded in reality"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, what does \"small up yuhself\" mean?",
+    "options": [
+      "Shrink your ambitions",
+      "Squeeze together / make room for another passenger",
+      "Lose weight through diet",
+      "Speak in a softer whisper"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Jamaica] - Small up yuhself = make space / squeeze over on a bench or seat"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Singaporean English (Singlish), what does \"paiseh\" mean?",
+    "options": [
+      "Terrified",
+      "Embarrassed, shy, or socially apologetic",
+      "Joyful",
+      "Angry"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Singapore/Malaysia] - Paiseh = shy, embarrassed (Hokkien origin)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what are \"thongs\"?",
+    "options": [
+      "Skimpy underwear only",
+      "Flip-flop rubber sandals",
+      "Leather cattle whips",
+      "Narrow coastal inlets"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Thongs = flip-flop sandals"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian Pidgin, what does \"kpo fire\" or \"kpa\" refer to, specifically \"kpa\"?",
+    "options": [
+      "A sharp gunshot",
+      "Money or cash",
+      "Dry cassava crackers",
+      "A sudden slap"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - Kpa = money / cash"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"banjax\" mean as a verb?",
+    "options": [
+      "To play the banjo",
+      "To break, ruin, or destroy something",
+      "To cook potatoes thoroughly",
+      "To win easily"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Banjax = ruin, shatter, destroy"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"gutted\" mean?",
+    "options": [
+      "Full of hearty food",
+      "Deeply disappointed, devastated, or crushed",
+      "Having fish prepared for dinner",
+      "Courageous and bold"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Gutted = devastated, deeply unhappy"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what does \"voetsek\" mean?",
+    "options": [
+      "Welcome warmly",
+      "Go away! / get lost! (forceful and rude)",
+      "Step carefully",
+      "Come here quickly"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Voetsek = go away, scram! (curt/offensive)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is a \"deke\" derived from?",
+    "options": [
+      "The word \"detective\"",
+      "The word \"decoy\" (in hunting/hockey)",
+      "The word \"declare\"",
+      "A French word for ice"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Deke = short for \"decoy\""
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does \"stookey\" or \"stookie\" refer to?",
+    "options": [
+      "A plaster cast for a broken bone",
+      "A stack of hay in a field",
+      "A thick winter stew",
+      "An obstinate donkey"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Scotland] - Stookie = orthopedic plaster cast"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"sparrow's fart\" mean?",
+    "options": [
+      "A tiny desert bird",
+      "Very early in the morning / crack of dawn",
+      "A soft summer breeze",
+      "An insignificant excuse"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Sparrow's fart = daybreak / dawn"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"tea\" refer to in \"what's the tea?\"",
+    "options": [
+      "An herbal beverage",
+      "Gossip, scandalous news, or scoop",
+      "A dinner invitation",
+      "Honest advice"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Tea = insider news / drama / gossip"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Indian English, what is a \"lakh\"?",
+    "options": [
+      "A large freshwater lake",
+      "The number one hundred thousand (100,000)",
+      "A locked iron box",
+      "A religious ceremony"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[India] - Lakh = one hundred thousand (100,000)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what does \"munted\" mean?",
+    "options": [
+      "Polished to a shine",
+      "Damaged, broken, deformed, or very intoxicated",
+      "Mountain-climbed",
+      "Decorated colorfully"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Munted = broken, ruined, messed up"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what is a \"kerfuffle\"?",
+    "options": [
+      "A warm woolen scarf",
+      "A commotion, mild fuss, or minor controversy",
+      "A fluffy dessert pastry",
+      "A slippery puddle"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Kerfuffle = fuss, commotion, squabble"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, what does \"nuff\" mean?",
+    "options": [
+      "Zero / none",
+      "Plenty, abundant, or too much",
+      "Rough-textured",
+      "Tough meat"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Jamaica] - Nuff = plenty, abundant, excess"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what is a \"scut\" or what does \"plastered\" mean?",
+    "options": [
+      "Coated in wall plaster",
+      "Thoroughly drunk",
+      "Wearing heavy sun lotion",
+      "Decorated with posters"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland/UK] - Plastered = very drunk"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is an \"all-dressed\" potato chip?",
+    "options": [
+      "Dipped in ranch dressing",
+      "A blend of barbecue, salt & vinegar, ketchup, and sour cream & onion flavors",
+      "Topped with real cheese curds",
+      "Lightly sprinkled with sea salt only"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - All-dressed = popular flavor combo chip"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what is a \"mossie\"?",
+    "options": [
+      "A pest mosquito",
+      "A Cape sparrow",
+      "A moss-covered rock",
+      "A cup of coffee"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Mossie = Cape sparrow (small bird)"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian slang, what does \"cut soap for me\" humorously mean?",
+    "options": [
+      "Share the secret recipe or formula for your wealth/success",
+      "Hand me a bar of bath soap",
+      "Help me do laundry",
+      "Reduce the market price"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Nigeria] - Cut soap for me = share your secret to getting rich"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British Cockney rhyming slang, what does \"butcher's hook\" mean?",
+    "options": [
+      "Look",
+      "Book",
+      "Cook",
+      "Crook"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[UK Cockney] - Butcher's hook = look"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"pokie\"?",
+    "options": [
+      "A cactus prickle",
+      "An electronic poker machine / slot machine",
+      "A jail cell",
+      "A small wooden rowboat"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Pokie = poker machine / video slot machine"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what does \"period\" (or \"periodt\") emphasize at the end of a sentence?",
+    "options": [
+      "A question mark",
+      "Finality; that the point is indisputable and the discussion is closed",
+      "A polite suggestion",
+      "An uncertain pause"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Period / periodt = statement is final, end of story"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what does \"bide\" mean?",
+    "options": [
+      "To purchase at an auction",
+      "To stay, wait, or dwell/live somewhere",
+      "To run swiftly",
+      "To bite down hard"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Scotland] - Bide = stay, dwell, reside"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Ghanaian Pidgin, what does \"kaba and slit\" refer to?",
+    "options": [
+      "A traditional blouse and long skirt outfit",
+      "A type of street dance step",
+      "A culinary skewer",
+      "An argument between merchants"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Ghana] - Kaba and slit = traditional two-piece wax-print attire"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"in the wars\" describe?",
+    "options": [
+      "Enlisted in the army",
+      "Showing visible bruises, scrapes, or signs of rough wear and tear",
+      "Involved in a heated political debate",
+      "Reading historical books"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - In the wars = visibly battered, scratched, or bruised"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Canadian slang, what is a \"soaker\"?",
+    "options": [
+      "A heavy bath towel",
+      "Stepping into a puddle or slush so water completely penetrates your shoe and sock",
+      "A very long rainfall",
+      "A water gun toy"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Canada] - Soaker = completely soaking foot in water/slush"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what does \"no drama\" or \"no worries\" mean?",
+    "options": [
+      "An actors' strike",
+      "You're welcome / it is not a problem at all",
+      "A boring movie",
+      "A calm sea"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - No drama / no worries = you're welcome / no hassle"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what does \"chock-full\" mean?",
+    "options": [
+      "Loaded with dark chocolate",
+      "Jam-packed, completely filled to capacity",
+      "Locked with a padlock",
+      "Blocked by roadworks"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Chock-full = filled to the brim"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Trinidadian slang, what does \"skylarking\" mean?",
+    "options": [
+      "Watching birds in flight",
+      "Fooling around, wasting time, or loafing",
+      "Paragliding from a cliff",
+      "Singing in an open field"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Trinidad & Tobago] - Skylarking = idling, slacking off, goofing"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In US slang, what is a \"stan\"?",
+    "options": [
+      "A standard measurement",
+      "An obsessive, extremely devoted fan of a celebrity or artist",
+      "A stand-up comedian",
+      "A street vendor stand"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[US] - Stan = devoted, obsessive fan"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In South African slang, what does \"gatvol\" mean?",
+    "options": [
+      "Filled with gasoline",
+      "Fed up, utterly sick and tired of something",
+      "Having an empty stomach",
+      "In a cheerful mood"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[South Africa] - Gatvol = thoroughly fed up / had enough"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In New Zealand slang, what does \"rattle your dags\" mean?",
+    "options": [
+      "Play wooden percussion spoons",
+      "Hurry up / get moving",
+      "Shake dust off sheep wool",
+      "Make less noise"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[New Zealand] - Rattle your dags = hurry up / get a move on"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Jamaican Patois, what does \"deh deh\" mean?",
+    "options": [
+      "Right there / present / exists",
+      "Far away in another country",
+      "Dead and buried",
+      "Yesterday morning"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Jamaica] - Deh deh = right there, present, in existence"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Nigerian Pidgin, what does \"over-sabi\" describe?",
+    "options": [
+      "An overcooked meal",
+      "A know-it-all who acts overly knowledgeable or presumptuous",
+      "A very generous elder",
+      "An oversized garment"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Nigeria] - Over-sabi = a show-off know-it-all"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In British slang, what is a \"scally\"?",
+    "options": [
+      "A scalpel used in surgery",
+      "A cheeky, mischievous, or roguish youth (often working-class Northern/Liverpudlian)",
+      "A fish scaler",
+      "A cold draft of wind"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[UK] - Scally = cheeky working-class rascal / rogue"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Scottish slang, what is a \"clootie dumpling\"?",
+    "options": [
+      "A steamed fruit pudding boiled in a cloth",
+      "A mashed turnip dish",
+      "A small baked potato",
+      "A heavy flour pancake"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[Scotland] - Clootie dumpling = traditional fruit pudding boiled in cloth"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Australian slang, what is a \"hoon\"?",
+    "options": [
+      "A wild owl",
+      "A reckless, noisy, or aggressive driver",
+      "A type of small fishing boat",
+      "A wooden boomerang"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Australia] - Hoon = reckless, noisy driver"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Indian English, what does \"airdash\" mean?",
+    "options": [
+      "To make an urgent, hasty journey by airplane",
+      "To sprint across a street",
+      "To run a wireless internet hotspot",
+      "To ventilate an enclosed room"
+    ],
+    "answer": 0,
+    "d": 1,
+    "fact": "[India] - Airdash = make a rapid, urgent journey by flight"
+  },
+  {
+    "show": "Anglophone Slang",
+    "q": "In Irish slang, what does \"moth\" historically and colloquially mean in Dublin slang?",
+    "options": [
+      "A winged insect",
+      "A girlfriend",
+      "A vintage wool coat",
+      "A quiet neighbor"
+    ],
+    "answer": 1,
+    "d": 1,
+    "fact": "[Ireland] - Moth = Dublin slang for girlfriend or young woman"
+  }
+]
