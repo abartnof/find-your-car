@@ -401,20 +401,8 @@ function answer(i) {
   } else {
     lot.stumble(); audio.wrong();
   }
-  const correctOpt = q.opts.find((o) => o.ok);
-  const title = ok ? 'Right!' : `It was ${correctOpt ? correctOpt.t : 'another answer'}`;
-  const sub = q.fact ? `<span class="fb-sub">${ESC(q.fact)}</span>` : '';
   const action = last ? (win ? 'Get in the car' : 'See results') : 'Next';
-  $('fb').innerHTML = `
-    <button class="btn btn-feedback ${ok ? 'ok' : 'bad'}" id="next">
-      <span class="fb-text">
-        <span class="fb-main">${ESC(title)}</span>
-        ${sub}
-      </span>
-      <span class="fb-action">
-        <span>${action}</span>${ICON.next}
-      </span>
-    </button>`;
+  $('fb').innerHTML = `<button class="btn fab-ext" id="next"><span>${action}</span>${ICON.next}</button>`;
   const nextBtn = $('next');
   if (nextBtn) {
     const sRect = sheet.getBoundingClientRect();
