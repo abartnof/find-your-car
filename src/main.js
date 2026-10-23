@@ -355,20 +355,23 @@ function answer(i) {
   }
   const correctOpt = q.opts.find((o) => o.ok);
   const title = ok ? 'Right!' : `It was ${correctOpt ? correctOpt.t : 'another answer'}`;
-  const sub = q.fact ? `<div class="fb-sub">${ESC(q.fact)}</div>` : '';
+  const sub = q.fact ? `<span class="fb-sub">${ESC(q.fact)}</span>` : '';
   const action = last ? (win ? 'Get in the car' : 'See results') : 'Next';
   $('fb').innerHTML = `
     <button class="btn btn-feedback ${ok ? 'ok' : 'bad'}" id="next">
-      <div class="fb-text">
-        <div class="fb-main">${ESC(title)}</div>
+      <span class="fb-text">
+        <span class="fb-main">${ESC(title)}</span>
         ${sub}
-      </div>
-      <div class="fb-action">
+      </span>
+      <span class="fb-action">
         <span>${action}</span>${ICON.next}
-      </div>
+      </span>
     </button>`;
   const nextBtn = $('next');
-  if (nextBtn) nextBtn.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  if (nextBtn) {
+    sheet.scrollTo({ top: sheet.scrollHeight, behavior: 'smooth' });
+    nextBtn.focus();
+  }
 }
 function nextQ() {
   if (!S.answered) return;

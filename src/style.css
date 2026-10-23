@@ -41,8 +41,8 @@ html,body{margin:0;height:100%;background:var(--md-surface);color:var(--md-on-su
 .btn-feedback.bad{background:#8c1d18;border-color:#ea4335;color:#fff}
 .btn-feedback.bad:hover{background:#a3231d}
 .btn-feedback .fb-text{flex:1;min-width:0;display:flex;flex-direction:column;gap:4px}
-.btn-feedback .fb-main{font-size:16px;font-weight:600;line-height:22px}
-.btn-feedback .fb-sub{font-size:13px;line-height:17px;opacity:.92;font-weight:400}
+.btn-feedback .fb-main{display:block;font-size:16px;font-weight:600;line-height:22px}
+.btn-feedback .fb-sub{display:block;font-size:13px;line-height:17px;opacity:.92;font-weight:400}
 .btn-feedback .fb-action{flex:none;display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border-radius:var(--r-sm);background:rgba(255,255,255,.18);font-size:14px;font-weight:700;letter-spacing:.3px;text-transform:uppercase;white-space:nowrap;color:#fff}
 .btn-feedback .fb-action svg{width:20px;height:20px;fill:currentColor}
 @keyframes fbFadeIn{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
