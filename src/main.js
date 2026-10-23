@@ -200,7 +200,7 @@ const music = {
     if (!this.el) {
       this.at = Math.floor(Math.random() * this.tracks.length);
       const el = (this.el = new Audio()); el.preload = 'none';
-      el.addEventListener('ended', () => { this.next(); renderMusicDropdown(); if ($('sheet')?.querySelector('#go')) renderMenu(); });
+      el.addEventListener('ended', () => { this.next(); renderMusicDropdown(); if ($('sheet')?.querySelector('#go')) renderMenu(true); });
       try { // through the master gain so the mute button applies (iOS ignores element.volume)
         this.gain = audio.ctx.createGain(); this.gain.gain.value = 0.4;
         audio.ctx.createMediaElementSource(el).connect(this.gain); this.gain.connect(audio.master);
@@ -259,14 +259,14 @@ $('musicToggleBtn')?.addEventListener('click', () => {
   music.set(!music.on);
   renderMusicDropdown();
   renderMusicBtn();
-  if ($('sheet')?.querySelector('#go')) renderMenu();
+  if ($('sheet')?.querySelector('#go')) renderMenu(true);
 });
 $('musicSkipBtn')?.addEventListener('click', () => {
   music.next();
   if (!music.on) music.set(true);
   renderMusicDropdown();
   renderMusicBtn();
-  if ($('sheet')?.querySelector('#go')) renderMenu();
+  if ($('sheet')?.querySelector('#go')) renderMenu(true);
 });
 document.addEventListener('pointerdown', (e) => {
   if (!e.target.closest('#musicDropdown') && !e.target.closest('#musicBtn')) {
@@ -387,21 +387,29 @@ function pickQuestions() {
 }
 
 // ---------- screens ----------
-function renderMenu() {
+function renderMenu(keepScroll = false) {
   clearEffects();
   if (lot.mode !== 'menu') lot.reset();   // re-rendering the menu (picking a car/colour/topic) keeps the camera where it is
   lot.mode = 'menu';
+  $('app').classList.add('menu-mode');
   $('title').textContent = 'Find Your Car'; $('scoreChip').hidden = true; $('progress').hidden = true;
   const car = CARS[S.car];
+  const prevScroll = keepScroll ? sheet.scrollTop : 0;
   sheet.innerHTML = `
-    <p class="overline">Sitcom trivia</p>
+    <p class="overline">Trivia challenge</p>
     <h1 class="headline">Where did you park?</h1>
     <p class="body">Ten questions. Every right answer gets you one step closer to your car. Get all ten and you're driving home.</p>
     <label class="field"><input id="name" maxlength="16" placeholder=" " autocomplete="nickname" value="${ESC(S.name)}"><span>Your name (for the leaderboard)</span></label>
-    <div class="label">YOU</div>
-    <div class="picker"><button class="icon-btn" data-a="char-" aria-label="Previous character">${ICON.prev}</button><div class="name">${CHARACTERS[S.char].name}</div><button class="icon-btn" data-a="char+" aria-label="Next character">${ICON.nxt}</button></div>
-    <div class="label">YOUR CAR</div>
-    <div class="picker"><button class="icon-btn" data-a="car-" aria-label="Previous car">${ICON.prev}</button><div class="name">${car.name}</div><button class="icon-btn" data-a="car+" aria-label="Next car">${ICON.nxt}</button></div>
+    <div class="picker-row">
+      <div class="picker-col">
+        <div class="label">YOU</div>
+        <div class="picker"><button class="icon-btn" data-a="char-" aria-label="Previous character">${ICON.prev}</button><div class="name">${CHARACTERS[S.char].name}</div><button class="icon-btn" data-a="char+" aria-label="Next character">${ICON.nxt}</button></div>
+      </div>
+      <div class="picker-col">
+        <div class="label">YOUR CAR</div>
+        <div class="picker"><button class="icon-btn" data-a="car-" aria-label="Previous car">${ICON.prev}</button><div class="name">${car.name}</div><button class="icon-btn" data-a="car+" aria-label="Next car">${ICON.nxt}</button></div>
+      </div>
+    </div>
     <div class="swatches" aria-label="Paint">${Array.from({ length: car.tex }, (_, i) => `<button class="sw ${i === S.tex ? 'sel' : ''}" data-a="tex${i}" aria-label="Paint ${i + 1}" data-sw="${car.id}_${i}" style="background:${SWC[car.id + '_' + i] || '#888'}"></button>`).join('')}</div>
     <div class="label">TOPICS</div>
     <div class="chips">${showGroups.map((g) => {
@@ -414,7 +422,19 @@ function renderMenu() {
       <div class="mtitle">${music.on ? (music.title ? '♪ ' + ESC(music.title) : 'Background music') : 'Music off'}</div>
       <button class="icon-btn" data-m="next" aria-label="Next song" ${music.on ? '' : 'disabled'}>${ICON.nxt}</button></div>` : ''}
     <div class="sticky"><button class="btn btn-filled btn-block" id="go">Start</button></div>`;
-  sheet.scrollTop = 0;
+
+  // Dynamically size sheet so exactly 1.5 topic rows peek out above the Start button on initial view
+  const allChips = Array.from(sheet.querySelectorAll('.chips .fchip'));
+  const rowTops = [...new Set(allChips.map((c) => c.offsetTop))].sort((a, b) => a - b);
+  if (rowTops.length >= 2) {
+    const row2Chip = allChips.find((c) => c.offsetTop === rowTops[1]);
+    const row2H = row2Chip ? row2Chip.offsetHeight : 32;
+    const sticky = sheet.querySelector('.sticky');
+    const stickyH = sticky ? sticky.offsetHeight : 76;
+    const targetCutoff = rowTops[1] + Math.round(row2H / 2);
+    sheet.style.height = `${targetCutoff + stickyH}px`;
+  }
+  sheet.scrollTop = prevScroll;
 }
 const SWC = {};
 function loadSwatches() {
@@ -431,17 +451,17 @@ function loadSwatches() {
 
 sheet.addEventListener('click', (e) => {
   const b = e.target.closest('[data-m],[data-a],[data-g],#go,[data-opt],#next,#again,#lb'); if (!b) return;
-  if (b.dataset.m) { if (b.dataset.m === 'toggle') { music.set(!music.on); renderMusicBtn(); } else music.next(); renderMusicDropdown(); renderMenu(); }
+  if (b.dataset.m) { if (b.dataset.m === 'toggle') { music.set(!music.on); renderMusicBtn(); } else music.next(); renderMusicDropdown(); renderMenu(true); }
   else if (b.dataset.a) {
     const a = b.dataset.a;
     if (a.startsWith('char')) { S.char = (S.char + (a.endsWith('+') ? 1 : -1) + CHARACTERS.length) % CHARACTERS.length; lot.setCharacter(CHARACTERS[S.char].id); }
     else if (a.startsWith('car')) { S.car = (S.car + (a.endsWith('+') ? 1 : -1) + CARS.length) % CARS.length; S.tex = 0; lot.setCar(S.car, S.tex); }
     else if (a.startsWith('tex')) { S.tex = +a.slice(3); lot.setCar(S.car, S.tex); }
-    store.set('char', S.char); store.set('car', S.car); store.set('tex', S.tex); renderMenu();
+    store.set('char', S.char); store.set('car', S.car); store.set('tex', S.tex); renderMenu(true);
   } else if (b.dataset.g) {
     const g = b.dataset.g;
     if (S.groups.has(g)) { if (S.groups.size > 1) S.groups.delete(g); else return snack('Keep at least one topic'); } else S.groups.add(g);
-    store.set('groups', [...S.groups]); renderMenu();
+    store.set('groups', [...S.groups]); renderMenu(true);
   } else if (b.id === 'go') startGame();
   else if (b.dataset.opt != null) answer(+b.dataset.opt);
   else if (b.id === 'next') nextQ();
@@ -450,6 +470,8 @@ sheet.addEventListener('click', (e) => {
 });
 
 function startGame() {
+  $('app').classList.remove('menu-mode');
+  sheet.style.height = '';
   S.qs = pickQuestions(); S.qs.forEach((q) => S.seen.add(q.q)); S.i = 0; S.score = 0;
   clearEffects(); lot.reset(); lot.mode = 'play';
   $('scoreChip').hidden = false; $('progress').hidden = false; updateHud();
@@ -500,7 +522,10 @@ function nextQ() {
 }
 document.addEventListener('input', (e) => { if (e.target.id === 'name') { S.name = e.target.value; store.set('name', S.name); } });
 let fx;
+window.addEventListener('resize', () => { if (lot?.mode === 'menu') renderMenu(true); });
 async function finish() {
+  $('app').classList.remove('menu-mode');
+  sheet.style.height = '';
   const win = S.score === STEPS;
   S.lastT = Date.now(); board.add({ name: S.name.trim() || 'Player', score: S.score, t: S.lastT });
   $('progress').hidden = true;
