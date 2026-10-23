@@ -190,15 +190,38 @@ function snack(msg) { const s = $('snack'); s.textContent = msg; s.classList.add
 // ---------- state ----------
 const shows = [...new Set(QUESTIONS.map((q) => q.show))];
 const showGroups = (() => { // chips: each big topic on its own, plus the long tail of one-off 90s sitcoms
-  const named = ['Friends', 'Will & Grace', 'Frasier', 'Stand-Up Comedy', 'Dallas', 'UT Austin', 'Fruits & Veggies', 'Late Night TV'];
+  const individual = [
+    'Friends', 'Will & Grace', 'Frasier',
+    'Stand-Up Comedy', "Don't Tell Comedy",
+    'Dallas', 'Texas History', 'UT Austin',
+    'Movie Taglines', 'Romantic Comedies', 'Streaming TV Shows',
+    'Late Night TV', 'Chuck Norris Jokes', 'Famous Canadians',
+    "RuPaul's Drag Race", 'Fruits & Veggies',
+  ];
   const isComedy = (s) => s.startsWith('Comedy');
-  const other = shows.filter((s) => !named.includes(s) && !isComedy(s));
+  const other = shows.filter((s) => !individual.includes(s) && !isComedy(s));
   const comedy = shows.filter(isComedy);
-  return [...['Friends', 'Will & Grace', 'Frasier'].filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
+  return [
+    ...['Friends', 'Will & Grace', 'Frasier'].filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
     ...(comedy.length ? [{ label: 'Comedy Classics', shows: comedy }] : []),
-    ...['Stand-Up Comedy', 'Dallas', 'UT Austin', 'Fruits & Veggies', 'Late Night TV'].filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
+    ...[
+      'Stand-Up Comedy', "Don't Tell Comedy",
+      'Dallas', 'Texas History', 'UT Austin',
+      'Movie Taglines', 'Romantic Comedies', 'Streaming TV Shows',
+      'Late Night TV', 'Chuck Norris Jokes', 'Famous Canadians',
+      "RuPaul's Drag Race", 'Fruits & Veggies',
+    ].filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
     ...(other.length ? [{ label: '90s Sitcoms', shows: other }] : [])];
 })();
+const topicWins = {
+  all() { const w = store.get('topicWins', {}); return w && typeof w === 'object' ? w : {}; },
+  get(label) { return this.all()[label] || 0; },
+  record(labels) {
+    const w = { ...this.all() };
+    for (const l of labels) w[l] = (w[l] || 0) + 1;
+    store.set('topicWins', w);
+  },
+};
 const S = {
   name: store.get('name', ''),
   char: Math.min(store.get('char', 0), CHARACTERS.length - 1),
@@ -252,7 +275,11 @@ function renderMenu() {
     <div class="picker"><button class="icon-btn" data-a="car-" aria-label="Previous car">${ICON.prev}</button><div class="name">${car.name}</div><button class="icon-btn" data-a="car+" aria-label="Next car">${ICON.nxt}</button></div>
     <div class="swatches" aria-label="Paint">${Array.from({ length: car.tex }, (_, i) => `<button class="sw ${i === S.tex ? 'sel' : ''}" data-a="tex${i}" aria-label="Paint ${i + 1}" data-sw="${car.id}_${i}" style="background:${SWC[car.id + '_' + i] || '#888'}"></button>`).join('')}</div>
     <div class="label">TOPICS</div>
-    <div class="chips">${showGroups.map((g) => `<button class="fchip ${S.groups.has(g.label) ? 'sel' : ''}" data-g="${ESC(g.label)}">${ESC(g.label)}</button>`).join('')}</div>
+    <div class="chips">${showGroups.map((g) => {
+      const wins = topicWins.get(g.label);
+      const badge = wins > 0 ? `<span class="badge" aria-label="${wins} wins">${wins}</span>` : '';
+      return `<button class="fchip ${S.groups.has(g.label) ? 'sel' : ''}" data-g="${ESC(g.label)}">${ESC(g.label)}${badge}</button>`;
+    }).join('')}</div>
     ${music.tracks.length ? `<div class="label">MUSIC</div>
     <div class="musicrow"><button class="switch ${music.on ? 'on' : ''}" role="switch" aria-checked="${music.on}" data-m="toggle" aria-label="Background music"><span class="knob"></span></button>
       <div class="mtitle">${music.on ? (music.title ? '♪ ' + ESC(music.title) : 'Background music') : 'Music off'}</div>
@@ -309,8 +336,10 @@ function renderQ() {
   sheet.innerHTML = `
     <p class="overline">${ESC(q.show)}</p>
     <h2 class="question">${ESC(q.q)}</h2>
-    <div class="options">${q.opts.map((o, i) => `<button class="btn btn-opt" data-opt="${i}"><span class="key">${'ABCD'[i]}</span><span>${ESC(o.t)}</span></button>`).join('')}</div>
-    <div id="fb"></div>`;
+    <div class="options-wrap">
+      <div class="options">${q.opts.map((o, i) => `<button class="btn btn-opt" data-opt="${i}"><span class="key">${'ABCD'[i]}</span><span>${ESC(o.t)}</span></button>`).join('')}</div>
+      <div id="fb" class="fb-overlay"></div>
+    </div>`;
   sheet.scrollTop = 0;
 }
 function answer(i) {
@@ -328,7 +357,6 @@ function answer(i) {
     snack(`Nope — it's "${q.opts.find((o) => o.ok).t}"`);
   }
   $('fb').innerHTML = `${q.fact ? `<p class="body fact">${ESC(q.fact)}</p>` : ''}<button class="btn fab-ext" id="next">${last ? (win ? 'Get in the car' : 'See results') : 'Next'}${ICON.next}</button>`;
-  sheet.scrollTo({ top: sheet.scrollHeight, behavior: 'smooth' });
 }
 function nextQ() {
   if (!S.answered) return;
@@ -343,6 +371,10 @@ async function finish() {
   $('progress').hidden = true;
   sheet.innerHTML = '';
   if (win) {
+    const wonGroups = showGroups
+      .filter((g) => S.groups.has(g.label) && S.qs.some((q) => g.shows.includes(q.show)))
+      .map((g) => g.label);
+    topicWins.record(wonGroups.length ? wonGroups : [...S.groups]);
     $('title').textContent = 'You made it!';
     await lot.drive(audio);
     sheet.innerHTML = `<div class="result"><p class="overline">10 / 10</p><h1 class="headline">You found your car!</h1><p class="body">Flawless. Keys in hand, engine running, and a very nice ${CARS[S.car].name.toLowerCase()} to take you home.</p><div class="row"><button class="btn btn-tonal" id="lb">Leaderboard</button><button class="btn btn-filled" id="again">Play again</button></div></div>`;

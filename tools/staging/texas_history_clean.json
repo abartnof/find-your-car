@@ -1,0 +1,3602 @@
+[
+ {
+  "show": "Texas History",
+  "q": "Which indigenous group in Texas lived in permanent agricultural villages of dome-shaped grass houses in East Texas?",
+  "options": [
+   "Comanche",
+   "Caddo",
+   "Karankawa",
+   "Apache"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which nomadic group was known for living along the Gulf Coast and using dugout canoes to fish and hunt?",
+  "options": [
+   "Karankawa",
+   "Jumano",
+   "Cherokee",
+   "Kiowa"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Spanish explorer was shipwrecked on Galveston Island in 1528 and spent years living among native tribes before escaping to Mexico?",
+  "options": [
+   "Hernán Cortés",
+   "Álvar Núñez Cabeza de Vaca",
+   "Francisco Vázquez de Coronado",
+   "Alonso Álvarez de Pineda"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who mapped the Texas coastline in 1519, establishing the first European record of the region?",
+  "options": [
+   "Alonso Álvarez de Pineda",
+   "Juan de Oñate",
+   "Hernando de Soto",
+   "Christopher Columbus"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Spanish explorer led a massive expedition through the Texas Panhandle in 1541 searching for the mythical Seven Cities of Cibola?",
+  "options": [
+   "Pánfilo de Narváez",
+   "Francisco Vázquez de Coronado",
+   "René-Robert Cavelier, Sieur de La Salle",
+   "Pedro de Alvarado"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which French explorer founded Fort Saint Louis near Matagorda Bay in 1685, alarming Spanish authorities?",
+  "options": [
+   "Jacques Cartier",
+   "Samuel de Champlain",
+   "René-Robert Cavelier, Sieur de La Salle",
+   "Louis Juchereau de St. Denis"
+  ],
+  "answer": 2,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was the primary purpose of the Spanish mission-presidio system in Texas?",
+  "options": [
+   "To mine gold and silver exclusively",
+   "To convert indigenous people to Christianity and secure territorial claims",
+   "To establish democratic local governments",
+   "To trade fur with English colonists"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was the first Spanish mission established in East Texas in 1690?",
+  "options": [
+   "Mission San Antonio de Valero",
+   "Mission San Francisco de los Tejas",
+   "Mission Concepción",
+   "Mission Espada"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Mission San Antonio de Valero, founded in 1718, is commonly known today as:",
+  "options": [
+   "The Alamo",
+   "Goliad",
+   "San José",
+   "La Bahía"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What major presidio and mission complex was built near the Guadalupe River to protect the Gulf Coast region?",
+  "options": [
+   "Presidio San Antonio de Béxar",
+   "Presidio La Bahía",
+   "Presidio San Saba",
+   "Presidio de los Tejas"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who is often called the \"Father of Texas\" for leading the first legal Anglo-American settlement in the 1820s?",
+  "options": [
+   "Moses Austin",
+   "Stephen F. Austin",
+   "Sam Houston",
+   "William B. Travis"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Moses Austin secured permission to bring American settlers to Texas from which government just before its collapse?",
+  "options": [
+   "Mexico",
+   "Spain",
+   "France",
+   "The United States"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The original Anglo-American settlers brought to Texas by Stephen F. Austin are historically known as:",
+  "options": [
+   "The Texas Rangers",
+   "The Old Three Hundred",
+   "The Immortal Thirty-Two",
+   "The Rough Riders"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What religion were Anglo settlers officially required to adopt under the Mexican colonization laws?",
+  "options": [
+   "Protestantism",
+   "Roman Catholicism",
+   "Quakerism",
+   "No religion was required"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Mexico gained independence from Spain in which year?",
+  "options": [
+   "1810",
+   "1821",
+   "1836",
+   "1845"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Under the Mexican Constitution of 1824, Texas was combined with another province to form:",
+  "options": [
+   "Texas y Nuevo León",
+   "Coahuila y Tejas",
+   "Tejas del Sur",
+   "Alta Tejas"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Mexican general toured Texas in 1828 and reported alarming levels of Anglo influence, leading to strict new policies?",
+  "options": [
+   "Antonio López de Santa Anna",
+   "Manuel de Mier y Terán",
+   "Martín Perfecto de Cos",
+   "José de Urrea"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was a primary restriction enacted in the Law of April 6, 1830?",
+  "options": [
+   "It outlawed trade with Mexico",
+   "It suspended uncompleted empresario contracts and prohibited further U.S. immigration",
+   "It banned the Spanish language in local courts",
+   "It forced all settlers to move south of the Rio Grande"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In the Turtle Bayou Resolutions of 1832, Anglo colonists declared their loyalty to:",
+  "options": [
+   "The United States Constitution",
+   "The Mexican Constitution of 1824 and Santa Anna's federalist revolt",
+   "The British crown",
+   "An independent Republic of Texas"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Why was Stephen F. Austin arrested in Saltillo by Mexican officials in 1834?",
+  "options": [
+   "He led an armed assault against Mexican customs officials",
+   "He wrote a letter encouraging San Antonio leaders to establish a separate state government",
+   "He refused to pay his import tariffs",
+   "He smuggled weapons to the Comanche"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What skirmish on October 2, 1835, is considered the opening battle of the Texas Revolution?",
+  "options": [
+   "Battle of the Alamo",
+   "Battle of Gonzalez",
+   "Battle of San Jacinto",
+   "Battle of Goliad"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What famous phrase was displayed on the flag flown by Texans at the Battle of Gonzales?",
+  "options": [
+   "\"Liberty or Death\"",
+   "\"Come and Take It\"",
+   "\"Remember the Alamo\"",
+   "\"Victory or Death\""
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What object were Mexican troops trying to retrieve from the town of Gonzales?",
+  "options": [
+   "A small brass cannon",
+   "A cache of rifles",
+   "A stolen Mexican flag",
+   "Tax collection records"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Where was the Texas Declaration of Independence signed on March 2, 1836?",
+  "options": [
+   "San Antonio de Béxar",
+   "Washington-on-the-Brazos",
+   "Harrisburg",
+   "Columbia"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was the primary author of the Texas Declaration of Independence?",
+  "options": [
+   "Thomas Rusk",
+   "George C. Childress",
+   "Lorenzo de Zavala",
+   "David G. Burnet"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who served as the first ad interim President of the Republic of Texas?",
+  "options": [
+   "Sam Houston",
+   "David G. Burnet",
+   "Mirabeau B. Lamar",
+   "Lorenzo de Zavala"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who served as the ad interim Vice President of the Republic of Texas?",
+  "options": [
+   "Lorenzo de Zavala",
+   "Juan Seguín",
+   "José Antonio Navarro",
+   "Erasmo Seguín"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The siege of the Alamo lasted how many days before the final assault on March 6, 1836?",
+  "options": [
+   "7 days",
+   "13 days",
+   "21 days",
+   "30 days"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who shared command of the Alamo defenders with William B. Travis until illness forced him to step down?",
+  "options": [
+   "Davy Crockett",
+   "James Bowie",
+   "James Fannin",
+   "Erastus \"Deaf\" Smith"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "William B. Travis ended his famous February 24, 1836 plea for reinforcements with which words?",
+  "options": [
+   "\"Come and Take It\"",
+   "\"Victory or Death\"",
+   "\"Don't Tread on Me\"",
+   "\"Liberty Forever\""
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Former U.S. Congressman and Tennessee folk hero who died defending the Alamo was:",
+  "options": [
+   "Daniel Boone",
+   "Davy Crockett",
+   "Kit Carson",
+   "Jim Bridger"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Texan commander surrendered his forces after the Battle of Coleto, leading to the Goliad Massacre?",
+  "options": [
+   "James Fannin",
+   "Frank W. Johnson",
+   "James Neill",
+   "Edward Burleson"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "How many Texan prisoners of war were executed under Santa Anna's orders at Goliad on Palm Sunday, March 27, 1836?",
+  "options": [
+   "Approximately 50",
+   "Approximately 120",
+   "Over 400",
+   "Nearly 1,000"
+  ],
+  "answer": 2,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was the \"Runaway Scrape\"?",
+  "options": [
+   "The retreat of Mexican forces across the Rio Grande",
+   "The evacuation of Texan civilians and families fleeing Santa Anna's advancing army",
+   "A cavalry skirmish near Gonzales",
+   "The escape of Texas prisoners from Matamoros"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The decisive battle of the Texas Revolution took place on April 21, 1836, at:",
+  "options": [
+   "Conception",
+   "San Jacinto",
+   "Velasco",
+   "Salado Creek"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Approximately how long did the Battle of San Jacinto last?",
+  "options": [
+   "18 minutes",
+   "4 hours",
+   "2 days",
+   "12 hours"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What twin battle cries motivated the Texan forces at San Jacinto?",
+  "options": [
+   "\"For God and Texas!\" and \"Never Surrender!\"",
+   "\"Remember the Alamo!\" and \"Remember Goliad!\"",
+   "\"Come and Take It!\" and \"Liberty or Death!\"",
+   "\"Down with Santa Anna!\" and \"Texas Forever!\""
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What treaties were signed following the Texan victory at San Jacinto, one public and one secret?",
+  "options": [
+   "Treaties of Velasco",
+   "Treaty of Guadalupe Hidalgo",
+   "Treaty of San Lorenzo",
+   "Adams-Onís Treaty"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In the secret Treaty of Velasco, Santa Anna promised to:",
+  "options": [
+   "Cede California to Texas",
+   "Lobby Mexico to recognize Texas independence with the Rio Grande as the southern border",
+   "Pay $10 million in reparations to Texas",
+   "Resign permanently as Mexican president"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was elected as the first constitutional President of the Republic of Texas in 1836?",
+  "options": [
+   "Stephen F. Austin",
+   "Mirabeau B. Lamar",
+   "Sam Houston",
+   "Anson Jones"
+  ],
+  "answer": 2,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who served as the first Secretary of State under President Sam Houston, dying in office shortly after appointment?",
+  "options": [
+   "William H. Wharton",
+   "Stephen F. Austin",
+   "Thomas Rusk",
+   "George Childress"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which President of the Republic of Texas was known as the \"Father of Texas Education\"?",
+  "options": [
+   "Sam Houston",
+   "Mirabeau B. Lamar",
+   "Anson Jones",
+   "David G. Burnet"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Mirabeau B. Lamar's policy toward Native Americans differed from Houston's because Lamar:",
+  "options": [
+   "Sought peace treaties and trade alliances",
+   "Demanded the forced removal or extermination of tribes like the Cherokee and Comanche",
+   "Offered them full citizenship and voting rights",
+   "Invited native leaders to join the Texas cabinet"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which prominent Cherokee chief was killed in 1839 during the Battle of the Neches as Lamar's administration drove Cherokees out of Texas?",
+  "options": [
+   "Chief Bowles (Duwali)",
+   "Quanah Parker",
+   "Ten Bears",
+   "Buffalo Hump"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The Council House Fight of 1840 in San Antonio broke out during negotiations between Texas officials and which Native American group?",
+  "options": [
+   "Apache",
+   "Comanche",
+   "Tonkawa",
+   "Caddo"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was the disastrous 1841 expedition sent by Lamar to secure trade routes and claim territory in present-day New Mexico?",
+  "options": [
+   "Santa Fe Expedition",
+   "Mier Expedition",
+   "Somervell Expedition",
+   "Snively Expedition"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What temporary capital was selected in 1839 and renamed in honor of Stephen F. Austin?",
+  "options": [
+   "Waterloo",
+   "Washington",
+   "Columbia",
+   "Harrisburg"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was the currency issued by the Republic of Texas during Lamar's administration that suffered severe depreciation?",
+  "options": [
+   "Continental dollars",
+   "Redbacks",
+   "Greenbacks",
+   "Shinplasters"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What conflict in East Texas (1839-1844) involved feuding factions over fraudulent land certificates and vigilante justice?",
+  "options": [
+   "The Archives War",
+   "The Regulator-Moderator War",
+   "The Salt War",
+   "The Fence Cutting War"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What incident in 1842 involved Austin citizens firing a cannon to prevent Sam Houston from moving government records to Washington-on-the-Brazos?",
+  "options": [
+   "The Archives War",
+   "The Battle of Salado Creek",
+   "The Council House Fight",
+   "The Córdova Rebellion"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1842 event involved Texan prisoners drawing black and white beans to determine who would be executed by Mexican forces?",
+  "options": [
+   "The Dawson Massacre",
+   "The Black Bean Episode (Mier Expedition)",
+   "The Santa Fe March",
+   "The Goliad Execution"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was the last President of the Republic of Texas?",
+  "options": [
+   "Mirabeau B. Lamar",
+   "Edward Burleson",
+   "Anson Jones",
+   "J. Pinckney Henderson"
+  ],
+  "answer": 2,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In what year did Texas officially join the United States as the 28th state?",
+  "options": [
+   "1836",
+   "1845",
+   "1848",
+   "1850"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Texas joined the United States through what unusual legislative mechanism rather than a traditional treaty?",
+  "options": [
+   "An Executive Order by President Tyler",
+   "A Joint Resolution of Congress",
+   "A Supreme Court ruling",
+   "A Constitutional Amendment"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was elected the first Governor of the State of Texas in 1845?",
+  "options": [
+   "J. Pinckney Henderson",
+   "Sam Houston",
+   "Thomas J. Rusk",
+   "George T. Wood"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The boundary dispute that triggered the Mexican-American War centered on whether the Texas border was the Nueces River or the:",
+  "options": [
+   "Red River",
+   "Sabine River",
+   "Rio Grande",
+   "Pecos River"
+  ],
+  "answer": 2,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "U.S. General Zachary Taylor was stationed in what disputed territory when skirmishes with Mexican troops initiated the Mexican-American War?",
+  "options": [
+   "Between the Nueces River and the Rio Grande",
+   "East of the Sabine River",
+   "Along the Canadian River in the Panhandle",
+   "North of the Red River"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What treaty ended the Mexican-American War in 1848?",
+  "options": [
+   "Treaty of Velasco",
+   "Treaty of Guadalupe Hidalgo",
+   "Treaty of Paris",
+   "Gadsden Purchase"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What did Texas surrender in the Compromise of 1850 in exchange for $10 million from the federal government to settle its public debt?",
+  "options": [
+   "Its claims to parts of New Mexico, Colorado, Wyoming, Kansas, and Oklahoma",
+   "Its right to keep public lands",
+   "Its status as a slave state",
+   "Its deep-water ports along the Gulf"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Unique among U.S. states entering the Union, Texas retained ownership of its:",
+  "options": [
+   "Military forts",
+   "Public lands",
+   "Custom duties",
+   "Interstate railroads"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What law enforcement organization, formalized in the 1830s, played a prominent scouting role during the Mexican-American War?",
+  "options": [
+   "Texas Highway Patrol",
+   "Texas Rangers",
+   "Buffalo Soldiers",
+   "Texas State Guard"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Why was Sam Houston removed from the office of Governor of Texas in 1861?",
+  "options": [
+   "He embezzled state educational funds",
+   "He refused to take an oath of allegiance to the Confederacy",
+   "He joined the Union Army in Washington",
+   "He vetoed the state constitution"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Texas voted to secede from the United States and join the Confederacy in what month and year?",
+  "options": [
+   "December 1860",
+   "February 1861",
+   "July 1862",
+   "April 1865"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Union naval attempt to invade Texas in September 1863 was decisively repulsed by Dick Dowling and a small force of confederates?",
+  "options": [
+   "Battle of Galveston",
+   "Battle of Sabine Pass",
+   "Battle of Palmito Ranch",
+   "Battle of Laredo"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What major Texas port was recaptured by Confederate General John B. Magruder on January 1, 1863?",
+  "options": [
+   "Corpus Christi",
+   "Galveston",
+   "Brownsville",
+   "Indianola"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What battle fought on May 12-13, 1865 near Brownsville is widely recognized as the final land battle of the American Civil War?",
+  "options": [
+   "Battle of Palmito Ranch",
+   "Battle of Sabine Pass",
+   "Battle of Mobile Bay",
+   "Battle of Mansfield"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What holiday celebrates the June 19, 1865 announcement of the Emancipation Proclamation in Galveston, Texas?",
+  "options": [
+   "Pioneer Day",
+   "Juneteenth",
+   "San Jacinto Day",
+   "Texas Independence Day"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Union General arrived in Galveston on June 19, 1865, and issued General Order No. 3 proclaiming all enslaved people free?",
+  "options": [
+   "Ulysses S. Grant",
+   "Gordon Granger",
+   "William Tecumseh Sherman",
+   "Philip Sheridan"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "During Reconstruction, which Republican served as Governor of Texas from 1870 to 1874, establishing a state police force and centralized public schools?",
+  "options": [
+   "Andrew Jackson Hamilton",
+   "Edmund J. Davis",
+   "Richard Coke",
+   "James W. Throckmorton"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The current Texas Constitution, which severely restricted the power of state government and the governor, was drafted in:",
+  "options": [
+   "1845",
+   "1861",
+   "1869",
+   "1876"
+  ],
+  "answer": 3,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "African American cavalry and infantry regiments stationed on the Texas frontier after the Civil War were known as:",
+  "options": [
+   "Rough Riders",
+   "Buffalo Soldiers",
+   "Green Mountain Boys",
+   "Texas Jayhawkers"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was the legendary last principal chief of the Comanche (specifically the Quahadi band) who later adapted to ranching and politics?",
+  "options": [
+   "Santana",
+   "Quanah Parker",
+   "Ten Bears",
+   "Geronimo"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Quanah Parker’s mother was an Anglo captive who lived among the Comanches for nearly 25 years. What was her name?",
+  "options": [
+   "Cynthia Ann Parker",
+   "Clara Driscoll",
+   "Jane Long",
+   "Gail Borden"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1874 military campaign in the Texas Panhandle forced Native American tribes onto reservations by destroying their villages, horses, and food supplies?",
+  "options": [
+   "Red River War",
+   "Modoc War",
+   "Black Hawk War",
+   "Seminole War"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What canyon in the Texas Panhandle was the site of the decisive surprise attack on Comanche, Kiowa, and Cheyenne villages in September 1874?",
+  "options": [
+   "Palo Duro Canyon",
+   "Santa Elena Canyon",
+   "McKittrick Canyon",
+   "Caprock Canyon"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What famous cattle trail ran from South Texas through central Texas up to railheads in Abilene, Kansas?",
+  "options": [
+   "Goodnight-Loving Trail",
+   "Chisholm Trail",
+   "Sedalia Trail",
+   "Bozeman Trail"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What cattle trail was blazed across West Texas, following the Pecos River northward into New Mexico and Colorado?",
+  "options": [
+   "Goodnight-Loving Trail",
+   "Chisholm Trail",
+   "Shawnee Trail",
+   "Western Trail"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The King Ranch, one of the largest ranches in the world, was founded in South Texas in 1853 by:",
+  "options": [
+   "Richard King",
+   "Charles Goodnight",
+   "John Chisum",
+   "George Littlefield"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The massive JA Ranch in the Palo Duro Canyon region was co-founded by:",
+  "options": [
+   "Richard King",
+   "Charles Goodnight",
+   "Oliver Loving",
+   "Shanghai Pierce"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The introduction of what invention in the 1870s brought an end to the open-range cattle era in Texas?",
+  "options": [
+   "The mechanical cotton picker",
+   "Barbed wire",
+   "The steam locomotive",
+   "The windmill pump"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What violent 1883-1884 conflict erupted across Texas between large ranchers and landless cattlemen over access to water and grazing?",
+  "options": [
+   "Fence Cutting War",
+   "Salt War",
+   "Sheep Wars",
+   "El Paso Riot"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The construction of the current Texas State Capitol building in Austin was financed by trading three million acres of Panhandle land that became what famous ranch?",
+  "options": [
+   "King Ranch",
+   "XIT Ranch",
+   "Waggoner Ranch",
+   "6666 Ranch"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In what year was the current Texas State Capitol building dedicated?",
+  "options": [
+   "1876",
+   "1888",
+   "1901",
+   "1936"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What prominent Texas governor (1891-1895) established the Texas Railroad Commission to regulate powerful railroad trusts?",
+  "options": [
+   "James Stephen Hogg",
+   "Richard Coke",
+   "Oran Roberts",
+   "Charles Culberson"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1900 natural disaster destroyed a major Texas port city and remains the deadliest natural disaster in United States history?",
+  "options": [
+   "Waco Tornado",
+   "Galveston Hurricane",
+   "Indianola Hurricane",
+   "New London School Explosion"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What engineering marvel was constructed in Galveston following the 1900 disaster to protect the city from future storm surges?",
+  "options": [
+   "The Houston Ship Channel",
+   "The Galveston Seawall",
+   "The Lake Texoma Dam",
+   "The Intracoastal Waterway"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What form of municipal government was pioneered in Galveston following the 1900 hurricane to manage city rebuilding efficiently?",
+  "options": [
+   "Strong Mayor-Council system",
+   "Commission form of government",
+   "Town meeting democracy",
+   "Parliamentary council"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What monumental oil discovery on January 10, 1901, near Beaumont launched the modern Texas petroleum industry?",
+  "options": [
+   "Spindletop",
+   "East Texas Oil Field",
+   "Permian Basin Yates Field",
+   "Corsicana Field"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which mining engineer oversaw the drilling operation that struck oil at Spindletop?",
+  "options": [
+   "Patillo Higgins",
+   "Anthony F. Lucas",
+   "C.M. \"Dad\" Joiner",
+   "H.L. Hunt"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The opening of what major 50-mile waterway in 1914 transformed an inland city into one of the nation’s busiest international seaports?",
+  "options": [
+   "Trinity River Canal",
+   "Houston Ship Channel",
+   "Corpus Christi Harbor",
+   "Sabine-Neches Waterway"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Texas governor was impeached, convicted, and removed from office in 1917, largely due to a feud with the University of Texas regents?",
+  "options": [
+   "James \"Pa\" Ferguson",
+   "William P. Hobby",
+   "James Stephen Hogg",
+   "Oscar Colquitt"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who became the first female governor of Texas, taking office in 1925 under the slogan \"Two Governors for the Price of One\"?",
+  "options": [
+   "Miriam \"Ma\" Ferguson",
+   "Ann Richards",
+   "Barbara Jordan",
+   "Oveta Culp Hobby"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who struck oil on the Daisy Bradford No. 3 well in 1930, discovering the massive East Texas Oil Field during the Great Depression?",
+  "options": [
+   "Anthony Lucas",
+   "C.M. \"Dad\" Joiner",
+   "Sid Richardson",
+   "Clint Murchison"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What regulatory body was given the authority to regulate oil production and proration in Texas to stabilize cratering market prices?",
+  "options": [
+   "Texas Department of Transportation",
+   "Texas Railroad Commission",
+   "Texas General Land Office",
+   "Public Utility Commission of Texas"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What environmental catastrophe combined severe drought, poor farming techniques, and high winds across the Texas Panhandle during the 1930s?",
+  "options": [
+   "The Great Blizzard",
+   "The Dust Bowl",
+   "The Red River Flood",
+   "The Gulf Coast Inundation"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1937 tragedy in East Texas killed nearly 300 students and teachers, leading directly to laws requiring malodorants (scent) in natural gas?",
+  "options": [
+   "Texas City Disaster",
+   "New London School Explosion",
+   "Port Arthur Refinery Fire",
+   "Waco Tornado"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Texan served as Vice President of the United States under Franklin D. Roosevelt from 1933 to 1941?",
+  "options": [
+   "John Nance \"Cactus Jack\" Garner",
+   "Sam Rayburn",
+   "Lyndon B. Johnson",
+   "Jesse H. Jones"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which legendary Texan served as Speaker of the U.S. House of Representatives for more than 17 years across three decades?",
+  "options": [
+   "Sam Rayburn",
+   "Wright Patman",
+   "Ralph Yarborough",
+   "Tom Connally"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Texan was the Supreme Commander of Allied Expeditionary Forces in Europe during World War II and later the 34th U.S. President?",
+  "options": [
+   "Chester W. Nimitz",
+   "Dwight D. Eisenhower",
+   "Douglas MacArthur",
+   "George S. Patton"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Texan from Fredericksburg served as Commander in Chief of the U.S. Pacific Fleet during World War II?",
+  "options": [
+   "Chester W. Nimitz",
+   "William F. Halsey",
+   "Ernest King",
+   "Raymond Spruance"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was the most decorated American combat soldier of World War II, born in Kingston, Texas?",
+  "options": [
+   "Audie Murphy",
+   "Roy Benavidez",
+   "Doris Miller",
+   "Macario García"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which African American sailor from Waco, Texas, was awarded the Navy Cross for his heroic actions during the attack on Pearl Harbor?",
+  "options": [
+   "Doris \"Dorie\" Miller",
+   "Heman Sweatt",
+   "James Farmer",
+   "Lawrence Nixon"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who served as the first director of the Women's Army Corps (WAC) and later the first secretary of the Department of Health, Education, and Welfare?",
+  "options": [
+   "Oveta Culp Hobby",
+   "Miriam Ferguson",
+   "Jane Long",
+   "Sarah T. Hughes"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What catastrophic industrial explosion occurred in 1947 when the French freighter SS Grandcamp detonated ammonium nitrate in a Texas port?",
+  "options": [
+   "New London Disaster",
+   "Texas City Disaster",
+   "Beaumont Blast",
+   "Corpus Christi Explosion"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In the landmark 1950 U.S. Supreme Court case Sweatt v. Painter, the Court ruled that:",
+  "options": [
+   "Texas must integrate its undergraduate university system immediately",
+   "The separate black law school set up by Texas was inherently unequal to UT Law School",
+   "Segregation on public buses in Texas was legal",
+   "Voting primaries in Texas could exclude minorities"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What dispute between Texas and the federal government over offshore oil and mineral rights was a major issue in the 1952 presidential election?",
+  "options": [
+   "The Tidelands Controversy",
+   "The Salt War",
+   "The Red River Boundary Dispute",
+   "The Teapot Dome Scandal"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Texan physician founded the American G.I. Forum in 1948 to advocate for Mexican American veterans’ rights?",
+  "options": [
+   "Dr. Hector P. Garcia",
+   "Henry B. González",
+   "José Ángel Gutiérrez",
+   "Alberto Gonzales"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The refusal of a funeral home in Three Rivers, Texas, to rebury which Mexican American WWII soldier sparked national outrage and intervention by LBJ?",
+  "options": [
+   "Felix Longoria",
+   "Macario Garcia",
+   "Roy Benavidez",
+   "Marcario Chapa"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Texan became President of the United States on November 22, 1963, following the assassination of John F. Kennedy in Dallas?",
+  "options": [
+   "George H.W. Bush",
+   "Lyndon B. Johnson",
+   "John Tower",
+   "John Connally"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Texas federal judge administered the oath of office to Lyndon B. Johnson aboard Air Force One at Love Field?",
+  "options": [
+   "Sarah T. Hughes",
+   "Irma Rangel",
+   "Barbara Jordan",
+   "Kay Bailey Hutchison"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What sweeping domestic policy agenda was enacted under President Lyndon B. Johnson, creating Medicare, Medicaid, and Head Start?",
+  "options": [
+   "The New Deal",
+   "The Great Society",
+   "The Fair Deal",
+   "The New Frontier"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In 1961, who became the first Republican U.S. Senator from Texas since Reconstruction?",
+  "options": [
+   "John Tower",
+   "Phil Gramm",
+   "George H.W. Bush",
+   "Bill Clements"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was the first African American woman elected to the Texas State Senate (1966) and the first Southern Black woman in the U.S. House (1972)?",
+  "options": [
+   "Barbara Jordan",
+   "Eddie Bernice Johnson",
+   "Sheila Jackson Lee",
+   "Juanita Craft"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In 1978, who was elected as the first Republican Governor of Texas since Reconstruction?",
+  "options": [
+   "John Tower",
+   "Bill Clements",
+   "George W. Bush",
+   "Rick Perry"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Texas-based company, founded by Michael Dell in his UT Austin dorm room in 1984, helped transform Central Texas into the \"Silicon Hills\"?",
+  "options": [
+   "Texas Instruments",
+   "Dell Computer Corporation",
+   "Compaq",
+   "Tandy Corporation"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Jack Kilby invention at Texas Instruments in Dallas in 1958 revolutionized the global electronics industry?",
+  "options": [
+   "The Transistor Radio",
+   "The Handheld Calculator",
+   "The Integrated Circuit (microchip)",
+   "The Liquid Crystal Display"
+  ],
+  "answer": 2,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who became the second woman elected Governor of Texas, serving from 1991 to 1995?",
+  "options": [
+   "Kay Bailey Hutchison",
+   "Ann Richards",
+   "Carole Keeton Strayhorn",
+   "Miriam Ferguson"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In 1993, who became the first female U.S. Senator to represent Texas?",
+  "options": [
+   "Ann Richards",
+   "Kay Bailey Hutchison",
+   "Barbara Jordan",
+   "Wendy Davis"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1993 event near Waco, Texas, involved a 51-day siege between federal agents and the Branch Davidian sect led by David Koresh?",
+  "options": [
+   "The Waco Siege (Mount Carmel)",
+   "The Ruby Ridge Standoff",
+   "The Davis Mountain Rebellion",
+   "The Freemen Standoff"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Texas governor was elected as the 43rd President of the United States in 2000?",
+  "options": [
+   "George H.W. Bush",
+   "George W. Bush",
+   "Rick Perry",
+   "Dolph Briscoe"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who holds the record as the longest-serving Governor in Texas history, serving from December 2000 to January 2015?",
+  "options": [
+   "Bill Clements",
+   "Rick Perry",
+   "John Connally",
+   "Allan Shivers"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Native American tribe was known for trading salt, building stone houses, and farming along the Rio Grande near modern Presidio?",
+  "options": [
+   "Jumano",
+   "Apache",
+   "Tonkawa",
+   "Atakapa"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The indigenous groups of the Edwards Plateau and South Texas brush country who lived by hunting small game and gathering plants were collectively:",
+  "options": [
+   "The Coahuiltecans",
+   "The Comanches",
+   "The Wichitas",
+   "The Alabamas"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which horse-mounted, warlike nation migrated onto the southern plains of Texas in the early 1700s and dominated the Comanchería?",
+  "options": [
+   "Comanche",
+   "Caddo",
+   "Cherokee",
+   "Karankawa"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The Spanish term *vaquero* translates to what iconic figure of Texas history?",
+  "options": [
+   "Soldier",
+   "Cowboy",
+   "Priest",
+   "Land agent"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was the El Camino Real de los Tejas?",
+  "options": [
+   "A major Spanish royal highway connecting Mexico City to East Texas and Louisiana",
+   "An irrigation canal in San Antonio",
+   "A railroad line between Houston and Dallas",
+   "A treaty boundary between New Spain and the United States"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Spanish friar established Mission San José y San Miguel de Aguayo in San Antonio in 1720?",
+  "options": [
+   "Father Antonio de San Buenaventura y Olivares",
+   "Father Antonio Margil de Jesús",
+   "Father Damián Massanet",
+   "Father Francisco Hidalgo"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What group of families was sent by the Spanish Crown in 1731 to settle San Antonio and establish its first civil government?",
+  "options": [
+   "The Canary Islanders",
+   "The Acadians",
+   "The Flemish Weavers",
+   "The Old Three Hundred"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The mission of San Sabá, established in 1757 to convert the Lipan Apache, was attacked and destroyed in 1758 by the:",
+  "options": [
+   "Karankawa",
+   "Comanche and their allies (Norteños)",
+   "Spanish mutineers",
+   "French regular infantry"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1800-1820 phenomenon involved unauthorized American military adventurers attempting to wrest Texas from Spanish control?",
+  "options": [
+   "Impresario projects",
+   "Filibustering expeditions",
+   "Mormon migrations",
+   "Federalist revolts"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which filibuster was killed in Nacogdoches in 1801 while capturing wild mustangs in East Texas?",
+  "options": [
+   "Philip Nolan",
+   "James Long",
+   "Augustus Magee",
+   "Bernardo Gutiérrez de Lara"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What joint Mexican-American revolutionary force captured Nacogdoches, Goliad, and San Antonio in 1812-1813?",
+  "options": [
+   "The Gutiérrez-Magee Expedition",
+   "The Long Expedition",
+   "The Fredonian Rebellion",
+   "The Mier Expedition"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What battle fought on August 18, 1813, south of San Antonio was the bloodiest battle ever fought on Texas soil, crushing the early republic movement?",
+  "options": [
+   "Battle of Medina",
+   "Battle of San Jacinto",
+   "Battle of the Alamo",
+   "Battle of Coleto Creek"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Spanish general brutally executed hundreds of captured rebels and civilians following the Battle of Medina in 1813?",
+  "options": [
+   "Joaquín de Arredondo",
+   "Antonio López de Santa Anna",
+   "Martín de León",
+   "Pedro de Ampudia"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What French privateer established a pirate kingdom on Galveston Island from 1817 to 1820?",
+  "options": [
+   "Jean Lafitte",
+   "Blackbeard",
+   "Henry Morgan",
+   "Louis de Aury"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who is traditionally celebrated as the \"Mother of Texas\" for giving birth to one of the first Anglo babies on Bolivar Peninsula in 1821?",
+  "options": [
+   "Jane Long",
+   "Susanna Dickinson",
+   "Clara Driscoll",
+   "Gail Borden"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Mexican empresario founded the town of Victoria in 1824 and settled predominantly Mexican Catholic families?",
+  "options": [
+   "Martín de León",
+   "Lorenzo de Zavala",
+   "Green DeWitt",
+   "Haden Edwards"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which American empresario received an expansive grant in 1825 to settle 400 families west of Austin’s colony, establishing the town of Gonzales?",
+  "options": [
+   "Green DeWitt",
+   "Sterling C. Robertson",
+   "Frost Thorn",
+   "David G. Burnet"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What short-lived 1826 uprising in East Texas declared an independent \"Republic of Fredonia\" near Nacogdoches?",
+  "options": [
+   "The Fredonian Rebellion",
+   "The Regulator-Moderator War",
+   "The Anahuac Disturbance",
+   "The Córdova Rebellion"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who led the Fredonian Rebellion after his land contract was canceled by Mexican authorities?",
+  "options": [
+   "Haden Edwards",
+   "Benjamin Lundy",
+   "Philip Nolan",
+   "James Bowie"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Mexican military officer clamped down on Anglo shipping and arrested William B. Travis at Anahuac in 1832?",
+  "options": [
+   "Juan Davis Bradburn",
+   "Domingo de Ugartechea",
+   "Martín Perfecto de Cos",
+   "José de Urrea"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1832 armed conflict occurred when Texans bringing cannons from Brazoria to Anahuac clashed with Mexican troops under Colonel Ugartechea?",
+  "options": [
+   "Battle of Velasco",
+   "Battle of Nacogdoches",
+   "Battle of Lipantitlán",
+   "Battle of Concepcion"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which political conventions held by Anglo settlers in Texas requested separate statehood from Coahuila and repeal of the Law of April 6, 1830?",
+  "options": [
+   "Conventions of 1832 and 1833",
+   "Consultation of 1835",
+   "Secession Convention of 1861",
+   "Constitutional Convention of 1845"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was chosen as president of the Convention of 1833 and carried its proposed state constitution to Mexico City?",
+  "options": [
+   "Stephen F. Austin",
+   "Sam Houston",
+   "William H. Wharton",
+   "Erasmo Seguín"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What temporary government established by Texas delegates in late 1835 organized the revolution and selected Sam Houston commander of regular troops?",
+  "options": [
+   "The Consultation",
+   "The Committee of Safety",
+   "The Junta Central",
+   "The Republic Senate"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was chosen as the provisional governor of Texas by the Consultation of 1835?",
+  "options": [
+   "Henry Smith",
+   "James W. Robinson",
+   "David G. Burnet",
+   "Branch T. Archer"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What battle in late 1835 drove Mexican forces under General Cos out of San Antonio after days of grueling house-to-house combat?",
+  "options": [
+   "Siege and Battle of Béxar",
+   "Battle of Concepción",
+   "Grass Fight",
+   "Battle of Gonzales"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Texas leader rallied volunteers to storm San Antonio with the call: \"Who will go with old Ben Milam into San Antonio?\"",
+  "options": [
+   "Ben Milam",
+   "Edward Burleson",
+   "Frank W. Johnson",
+   "Jim Bowie"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What skirmish in November 1835 involved Texans intercepting a Mexican mule train they believed was carrying silver, only to find animal feed?",
+  "options": [
+   "The Grass Fight",
+   "The Salt Fight",
+   "The Bean Skirmish",
+   "The Corn Scrape"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Tejano patriot signed the Texas Declaration of Independence and later served in the Texas Senate?",
+  "options": [
+   "José Antonio Navarro",
+   "Juan Seguín",
+   "Erasmo Seguín",
+   "Lorenzo de Zavala"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Tejano military leader served at the Alamo as a courier and later commanded a cavalry regiment at the Battle of San Jacinto?",
+  "options": [
+   "Juan Seguín",
+   "Plácido Benavides",
+   "Salvador Flores",
+   "Antonio Menchaca"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Alamo survivor was dispatched by Santa Anna with her infant daughter to carry news of the Alamo's fall to Sam Houston?",
+  "options": [
+   "Susanna Dickinson",
+   "Andrea Candelaria",
+   "Jane Long",
+   "Clara Driscoll"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What two artillery pieces were donated by the citizens of Cincinnati, Ohio, and played a decisive role at San Jacinto?",
+  "options": [
+   "The \"Twin Sisters\"",
+   "The \"Béxar Cannons\"",
+   "The \"Come and Take It\" guns",
+   "The \"Liberty Howitzers\""
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What scout and courier for Sam Houston destroyed Vince's Bridge prior to the Battle of San Jacinto, cutting off retreat for both armies?",
+  "options": [
+   "Erastus \"Deaf\" Smith",
+   "Henry Karnes",
+   "Jack Hays",
+   "Ben McCulloch"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What woman of color is traditionally associated with detaining General Santa Anna in his tent during the opening minutes of San Jacinto?",
+  "options": [
+   "Emily West (The \"Yellow Rose of Texas\")",
+   "Sarah Allen",
+   "Sylvia Routh",
+   "Henrietta King"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Following Texas independence, which nation was the first foreign power to recognize the Republic of Texas?",
+  "options": [
+   "The United States",
+   "Great Britain",
+   "France",
+   "The Netherlands"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which European nation was the first to sign an official treaty of commerce and friendship with the Republic of Texas in 1839?",
+  "options": [
+   "France",
+   "Great Britain",
+   "Belgium",
+   "Spain"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1838 rebellion in East Texas united disgruntled Tejanos and Cherokees against the Republic of Texas?",
+  "options": [
+   "The Córdova Rebellion",
+   "The Fredonian Rebellion",
+   "The Vasquez Raid",
+   "The Woll Invasion"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In what year did Mexican General Adrián Woll invade San Antonio, capturing the district court and holding the city for several days?",
+  "options": [
+   "1842",
+   "1836",
+   "1840",
+   "1845"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What battle fought on September 18, 1842, stopped General Woll's invading Mexican army outside San Antonio?",
+  "options": [
+   "Battle of Salado Creek",
+   "Battle of Plum Creek",
+   "Battle of the Neches",
+   "Battle of Bandera Pass"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What tragedy occurred during the Battle of Salado Creek when a company of Texas militia was surrounded and massacred by Mexican forces?",
+  "options": [
+   "The Dawson Massacre",
+   "The Goliad Massacre",
+   "The Mier Massacre",
+   "The Fannin Defeat"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What famous Texas Ranger captain pioneered the use of the Colt Paterson five-shot revolver in battles against the Comanches?",
+  "options": [
+   "John Coffee \"Jack\" Hays",
+   "Samuel Walker",
+   "Leander McNelly",
+   "Frank Hamer"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Texas Ranger collaborated with gun manufacturer Samuel Colt to design the powerful six-shot \"Walker Colt\" revolver?",
+  "options": [
+   "Samuel H. Walker",
+   "Jack Hays",
+   "\"Rip\" Ford",
+   "Ben McCulloch"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What German society organized large-scale immigration to the Texas Hill Country in the 1840s, founding New Braunfels and Fredericksburg?",
+  "options": [
+   "Adelsverein (Society for the Protection of German Immigrants)",
+   "Germania Bund",
+   "Hanseatic League",
+   "Freethinkers Association"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which German nobleman founded New Braunfels in 1845 as Commissioner General of the Adelsverein?",
+  "options": [
+   "Prince Carl of Solms-Braunfels",
+   "Baron Otfried von Meusebach",
+   "Count von Boos-Waldeck",
+   "Prince Frederick of Prussia"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which German leader negotiated an enduring peace treaty with the Penateka Comanches in 1847 without military force?",
+  "options": [
+   "John O. Meusebach",
+   "Prince Carl of Solms-Braunfels",
+   "Ferdinand Lindheimer",
+   "Hermann Lungkwitz"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which immigrant group settled in Panna Maria, Texas, in 1854, creating the oldest permanent settlement of this group in the United States?",
+  "options": [
+   "Poles",
+   "Czechs",
+   "Swedes",
+   "Danes"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Czech immigrants to Central Texas are famous for introducing which filled pastry that remains a Texas culinary staple?",
+  "options": [
+   "Kolache",
+   "Strudel",
+   "Sopapilla",
+   "Churro"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was the first college or university chartered by the Republic of Texas (1840)?",
+  "options": [
+   "Rutersville College",
+   "Baylor University",
+   "Southwestern University",
+   "University of Texas"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which historic university was chartered by the Republic of Texas in 1845 and is the oldest continuously operating university in the state?",
+  "options": [
+   "Baylor University",
+   "Texas A&M University",
+   "Southwestern University",
+   "University of North Texas"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What U.S. President ran on an expansionist platform in 1844 and pushed heavily for the annexation of Texas?",
+  "options": [
+   "James K. Polk",
+   "John Tyler",
+   "Martin Van Buren",
+   "Henry Clay"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who uttered the famous phrase at the annexation ceremony in Austin: \"The final act in this great drama is now performed; the Republic of Texas is no more\"?",
+  "options": [
+   "Anson Jones",
+   "Sam Houston",
+   "J. Pinckney Henderson",
+   "Mirabeau B. Lamar"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What military post in San Antonio was leased by the U.S. Army in 1849 and used as a quartermaster depot?",
+  "options": [
+   "The Alamo",
+   "Fort Sam Houston",
+   "Fort Bliss",
+   "Fort Ringgold"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In 1859, which Mexican folk hero and rancher raided Brownsville and led armed resistance along the border against discriminatory Anglo authorities?",
+  "options": [
+   "Juan Cortina",
+   "Gregorio Cortez",
+   "Catarino Garza",
+   "Pancho Villa"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What famous ballad (*corrido*) recounts the 1901 manhunt for a Mexican American tenant farmer who shot a sheriff in self-defense after a mistranslation?",
+  "options": [
+   "The Ballad of Gregorio Cortez",
+   "The Ballad of Juan Cortina",
+   "The Ballad of Davy Crockett",
+   "Corrido de Joaquín Murrieta"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was the \"Texas Troubles\" of 1860?",
+  "options": [
+   "A series of mysterious summer fires across North Texas attributed to slave insurrection panic",
+   "A localized civil war among Comanche bands",
+   "An economic banking collapse in Houston",
+   "A yellow fever epidemic along the Gulf"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "During the Civil War, Texas was critical to the Confederacy primarily because:",
+  "options": [
+   "It produced massive amounts of gold",
+   "It served as a vital trade conduit for cotton through neutral Mexican ports, bypassing the Union blockade",
+   "It manufactured the majority of Confederate naval warships",
+   "It provided the majority of iron ore for southern armories"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Confederate brigade formed in Texas gained fame as one of the most effective shock-infantry units in Robert E. Lee's Army of Northern Virginia?",
+  "options": [
+   "Hood's Texas Brigade",
+   "Terry's Texas Rangers",
+   "Sibley's Brigade",
+   "Walker's Greyhounds"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Confederate cavalry unit formed in Houston fought with distinction in the Western Theater, including Shiloh and Chickamauga?",
+  "options": [
+   "Terry's Texas Rangers (8th Texas Cavalry)",
+   "Hood's Brigade",
+   "Ross's Brigade",
+   "Green's Brigade"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1861-1862 Confederate military expedition was launched from Texas to seize the gold fields and Pacific ports of the American Southwest?",
+  "options": [
+   "Sibley's New Mexico Campaign",
+   "The Red River Campaign",
+   "The Trans-Mississippi Expedition",
+   "The Rio Grande Expedition"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1862 incident in Central Texas resulted in the massacre of German Union loyalists by Confederate militia along the Nueces River?",
+  "options": [
+   "Nueces Massacre",
+   "Great Hanging at Gainesville",
+   "Salado Ambush",
+   "Bandera Gorge Fight"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In October 1862, around forty suspected Union sympathizers were tried by a \"citizens court\" and lynched in which North Texas town?",
+  "options": [
+   "Gainesville",
+   "Sherman",
+   "Denton",
+   "McKinney"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who served as the Confederate Governor of Texas from 1863 until the end of the Civil War, fleeing to Mexico upon the Confederacy's collapse?",
+  "options": [
+   "Pendleton Murrah",
+   "Francis Lubbock",
+   "Edward Clark",
+   "James Throckmorton"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What federal agency was created after the Civil War to assist freed slaves with jobs, legal rights, land, and schooling in Texas?",
+  "options": [
+   "The Freedmen's Bureau",
+   "The Reconstruction Commission",
+   "The Civil Rights Board",
+   "The Union League"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What punitive laws did the conservative Texas legislature pass in 1866 to restrict the rights and labor mobility of newly freed African Americans?",
+  "options": [
+   "Black Codes",
+   "Jim Crow primary laws",
+   "Vagrancy mandates",
+   "The Radical Acts"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Texas governor was removed by Union military commanders in 1867 for being an \"impediment to Reconstruction\"?",
+  "options": [
+   "James W. Throckmorton",
+   "Edmund J. Davis",
+   "Elisha M. Pease",
+   "Richard Coke"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In 1873, who defeated Republican Governor Edmund J. Davis, signaling the return of conservative \"Redeemer\" Democratic rule to Texas?",
+  "options": [
+   "Richard Coke",
+   "Oran Roberts",
+   "John Ireland",
+   "Sul Ross"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What term describes the conservative white political dominance in Texas that lasted roughly a century following Reconstruction?",
+  "options": [
+   "The \"Solid South\" / One-Party State",
+   "The Progressive Era",
+   "The Populist Era",
+   "The Federalist Bloc"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1871 skirmish near Fort Richardson resulted in the deaths of seven teamsters and convinced General Sherman to pursue aggressive pacification of Plains tribes?",
+  "options": [
+   "Warren Wagon Train Raid (Salt Creek Massacre)",
+   "Adobe Walls Attack",
+   "Pease River Raid",
+   "Buffalo Wallow Fight"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Kiowa war chief was arrested for the Warren Wagon Train Raid and eventually died by leaping from a prison hospital window in Huntsville?",
+  "options": [
+   "Satanta (White Bear)",
+   "Big Tree",
+   "Satank (Sitting Bear)",
+   "Kicking Bird"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What battle in June 1874 involved 28 buffalo hunters and traders successfully defending an old trading post in Hutchinson County against hundreds of warriors?",
+  "options": [
+   "Second Battle of Adobe Walls",
+   "Battle of Palo Duro Canyon",
+   "Battle of Blanco Canyon",
+   "Battle of Pease River"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which famous buffalo hunter at Adobe Walls made an incredible rifle shot that dropped a warrior from nearly a mile away?",
+  "options": [
+   "Billy Dixon",
+   "Bat Masterson",
+   "Buffalo Bill Cody",
+   "Wild Bill Hickok"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The commercial slaughter of what animal in the 1870s systematically destroyed the nomadic Plains tribes' economic foundation and way of life?",
+  "options": [
+   "American Bison (Buffalo)",
+   "White-tailed Deer",
+   "Mustang Horses",
+   "Longhorn Cattle"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What iconic hardy cattle breed descended from Spanish stock flourished in the semi-arid Texas brush country?",
+  "options": [
+   "Texas Longhorn",
+   "Black Angus",
+   "Hereford",
+   "Brahman"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What trail driver and rancher co-created a famous trail to New Mexico and invented the \"chuckwagon\" for trail cooks?",
+  "options": [
+   "Charles Goodnight",
+   "Oliver Loving",
+   "Jesse Chisholm",
+   "Shanghai Pierce"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The town of Fort Worth earned what lasting nickname due to its status as a vital stop and stockyard along northern cattle drives?",
+  "options": [
+   "\"Cowtown\"",
+   "\"The Alamo City\"",
+   "\"Space City\"",
+   "\"The Oil Hub\""
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1877 conflict in West Texas was fought over Anglo private monopolization of mineral beds that had traditionally been community property?",
+  "options": [
+   "El Paso Salt War",
+   "Fence Cutting War",
+   "San Elizario Riot",
+   "Tinaja Blanca War"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What public land-grant university, the oldest public institution of higher education in Texas, opened its doors in 1876?",
+  "options": [
+   "Agricultural and Mechanical College of Texas (Texas A&M)",
+   "The University of Texas at Austin",
+   "Prairie View A&M University",
+   "Texas Tech University"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What historically black university was established by the Texas Legislature in 1876 as an Alta Vista agricultural and mechanical normal school?",
+  "options": [
+   "Prairie View A&M University",
+   "Texas Southern University",
+   "Paul Quinn College",
+   "Wiley College"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What state university opened its main campus in Austin in 1883 under a mandate from the 1876 Texas Constitution?",
+  "options": [
+   "The University of Texas at Austin",
+   "Texas A&M University",
+   "Texas State University",
+   "Baylor University"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Texas governor was a former Confederate General, Texas Ranger, and President of Texas A&M University?",
+  "options": [
+   "Lawrence Sullivan \"Sul\" Ross",
+   "James Stephen Hogg",
+   "Oran Roberts",
+   "John Ireland"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What grassroots political party emerged in Texas during the 1880s and 1890s to represent struggling farmers against railroad monopolies and banks?",
+  "options": [
+   "The Populist (People's) Party",
+   "The Whig Party",
+   "The Know-Nothing Party",
+   "The Free Soil Party"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Where was the Farmers' Alliance founded in 1877 to organize cooperative purchasing and marketing for cash-strapped Texas farmers?",
+  "options": [
+   "Lampasas County",
+   "Travis County",
+   "Dallas County",
+   "Nacogdoches County"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What agricultural system trapped hundreds of thousands of black and white Texas farmers in perpetual debt from the 1870s through the 1930s?",
+  "options": [
+   "Tenant farming and sharecropping",
+   "Open-range grazing",
+   "Collective farming",
+   "Homesteading"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What crop was the primary cash crop of Texas throughout the 19th and early 20th centuries, often termed \"King\"?",
+  "options": [
+   "Cotton",
+   "Corn",
+   "Wheat",
+   "Sugar Cane"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What insect pest crossed the Rio Grande into Texas in the 1890s, devastating millions of acres of cotton crops?",
+  "options": [
+   "Boll Weevil",
+   "Gypsy Moth",
+   "Locust",
+   "Armyworm"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was the daughter of Governor Jim Hogg, who became a renowned philanthropist and patron of the arts in Texas?",
+  "options": [
+   "Ima Hogg",
+   "Clara Driscoll",
+   "Sarah Hogg",
+   "Electra Waggoner"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What major reform did Governor James S. Hogg champion to prevent foreign corporations from acquiring massive tracts of Texas land?",
+  "options": [
+   "The Alien Land Law",
+   "The Railroad Charter Act",
+   "The Homestead Exemption",
+   "The Free Grazing Act"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Texan served as the chief political strategist and intimate adviser to President Woodrow Wilson?",
+  "options": [
+   "Edward M. \"Colonel\" House",
+   "John Nance Garner",
+   "Thomas B. Love",
+   "Jesse Jones"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Mexican revolutionary plan drafted in Texas in 1915 called for a violent race war and the return of southwestern states to Mexico?",
+  "options": [
+   "Plan de San Diego",
+   "Plan de Ayala",
+   "Plan de San Luis Potosí",
+   "Plan de Guadalupe"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1918 massacre in Presidio County involved Texas Rangers and local ranchers murdering fifteen unarmed Mexican men and boys?",
+  "options": [
+   "Porvenir Massacre",
+   "Villista Raid",
+   "Rio Grande Ambush",
+   "Carrizo Springs Riot"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Texas state representative led the 1919 legislative investigation that uncovered widespread abuses and brutality by the Texas Rangers along the border?",
+  "options": [
+   "José Tomás (J.T.) Canales",
+   "Henry B. González",
+   "Carlos Castañeda",
+   "José Antonio Navarro"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1917 secret German telegram proposed an alliance with Mexico to help Mexico reclaim Texas, New Mexico, and Arizona if the U.S. entered WWI?",
+  "options": [
+   "The Zimmermann Telegram",
+   "The Brest-Litovsk Dispatch",
+   "The Lusitania Note",
+   "The Berlin Memorandum"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Texas governor was a staunch prohibitionist and granted women the right to vote in state primary elections in 1918 before the 19th Amendment?",
+  "options": [
+   "William P. Hobby",
+   "James Ferguson",
+   "Pat M. Neff",
+   "Dan Moody"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Texas city became known as the \"City of Lilies\" and later \"Petrochemical Capital of the World\" due to its Gulf Coast oil refineries?",
+  "options": [
+   "Port Arthur",
+   "Brownsville",
+   "Galveston",
+   "Corpus Christi"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What revivalist fraternal organization exerted massive, corrupt political influence across Texas politics and school boards in the early 1920s?",
+  "options": [
+   "The Ku Klux Klan (Second KKK)",
+   "The White Citizens Council",
+   "The Know Nothings",
+   "The Knights of the Golden Circle"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which young Texas Attorney General successfully prosecuted members of the Ku Klux Klan and was elected Governor in 1926?",
+  "options": [
+   "Dan Moody",
+   "Pat Neff",
+   "Ross Sterling",
+   "James V. Allred"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What national civil rights organization was founded in Corpus Christi, Texas, in 1929 to advocate for Mexican American civil rights?",
+  "options": [
+   "LULAC (League of United Latin American Citizens)",
+   "MALDEF",
+   "The Brown Berets",
+   "La Raza Unida Party"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "During the Great Depression, which Texas governor declared martial law in the East Texas oil fields to stop \"hot oil\" smuggling and enforce production quotas?",
+  "options": [
+   "Ross Sterling",
+   "Miriam Ferguson",
+   "James Allred",
+   "W. Lee \"Pappy\" O'Daniel"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What flour salesman and radio hillbilly musician was elected Governor of Texas in 1938 running on the Ten Commandments and the Golden Rule?",
+  "options": [
+   "Wilbert Lee \"Pappy\" O'Daniel",
+   "Bob Wills",
+   "Clint Murchison",
+   "Beauford Jester"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In what year did the State of Texas celebrate its Centennial with a World's Fair exposition at Fair Park in Dallas?",
+  "options": [
+   "1936",
+   "1945",
+   "1950",
+   "1976"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What famous statue created by Pompeo Coppini sits on the grounds of the Alamo to honor its centenary?",
+  "options": [
+   "The Alamo Cenotaph",
+   "The Spirit of the Confederacy",
+   "The Pioneer Monument",
+   "The Defender's Cross"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What New Deal federal program built roads, state park lodges (such as Bastrop and Indian Lodge), and hiking trails across Texas?",
+  "options": [
+   "Civilian Conservation Corps (CCC)",
+   "Agricultural Adjustment Administration (AAA)",
+   "National Recovery Administration (NRA)",
+   "Tennessee Valley Authority (TVA)"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which East Texas reservoir dam system along the Colorado River was spearheaded by Congressman Lyndon B. Johnson to bring rural electrification?",
+  "options": [
+   "Lower Colorado River Authority (LCRA) / Buchanan Dam",
+   "Lake Texoma Dam",
+   "Falcon Dam",
+   "Amistad Dam"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What German prisoner-of-war and enemy internment camp was located near San Antonio during World War II?",
+  "options": [
+   "Camp Bullis / Camp Hearne",
+   "Fort Hood",
+   "Fort Bliss",
+   "Camp Mabry"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What massive Army training post established in Central Texas in 1942 was named after a Confederate general and recently renamed Fort Cavazos?",
+  "options": [
+   "Fort Hood",
+   "Fort Bliss",
+   "Fort Sam Houston",
+   "Fort Polk"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What air base in San Antonio served as the \"Cradle of Texas Aviation\" and trained tens of thousands of military pilots during WWI and WWII?",
+  "options": [
+   "Kelly Field (Kelly AFB)",
+   "Lackland AFB",
+   "Randolph AFB",
+   "Brooks AFB"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1944 Supreme Court case originating in Houston struck down the \"white primary\" rule that barred African Americans from voting in Democratic primaries?",
+  "options": [
+   "Smith v. Allwright",
+   "Sweatt v. Painter",
+   "Nixon v. Herndon",
+   "Grovey v. Townsend"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Texas attorney argued for Heman Sweatt before the Supreme Court in Sweatt v. Painter (1950) and later became the first African American Supreme Court Justice?",
+  "options": [
+   "Thurgood Marshall",
+   "Spottswood Robinson",
+   "Charles Hamilton Houston",
+   "Robert L. Carter"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1954 Supreme Court case originating in Jackson County, Texas, established that Mexican Americans had equal protection under the 14th Amendment?",
+  "options": [
+   "Hernandez v. Texas",
+   "Delgado v. Bastrop ISD",
+   "Cisneros v. Corpus Christi ISD",
+   "Plyler v. Doe"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was the lead Mexican American civil rights attorney who argued Hernandez v. Texas before the Supreme Court?",
+  "options": [
+   "Gustavo C. Garcia",
+   "Hector P. Garcia",
+   "Carlos Cadena",
+   "Pete Hernandez"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What severe meteorological event lasted from 1950 to 1957 across Texas, profoundly reshaping the state's municipal water planning and agriculture?",
+  "options": [
+   "The 1950s Texas Drought",
+   "The Dust Bowl II",
+   "The Great Brazos Freeze",
+   "The Balcones Heatwave"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In 1956, which Texas governor deployed the Texas Rangers to Mansfield High School to prevent court-ordered desegregation?",
+  "options": [
+   "Allan Shivers",
+   "Price Daniel",
+   "John Connally",
+   "Beauford Jester"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What conservative political movement led by Governor Allan Shivers urged Texas Democrats to vote for Republican Dwight Eisenhower in 1952 and 1956?",
+  "options": [
+   "The \"Shivercrats\"",
+   "The Dixiecrats",
+   "The Texas Regulars",
+   "The Tea Party"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What San Antonio native became the first Mexican American elected to the Texas State Senate in the 20th century (1956) and later to the U.S. House?",
+  "options": [
+   "Henry B. González",
+   "Kika de la Garza",
+   "Albert Pena",
+   "Frank Tejeda"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was the Texas governor wounded in the limousine during the assassination of President John F. Kennedy on November 22, 1963?",
+  "options": [
+   "John Connally",
+   "Price Daniel",
+   "Preston Smith",
+   "Allan Shivers"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What building in Dealey Plaza, Dallas, was identified as the sniper's perch used by Lee Harvey Oswald to shoot President Kennedy?",
+  "options": [
+   "Texas School Book Depository",
+   "Dal-Tex Building",
+   "Old Red Courthouse",
+   "Dallas Union Station"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Where was NASA’s Manned Spacecraft Center (renamed the Johnson Space Center in 1973) established in 1961?",
+  "options": [
+   "Houston",
+   "Dallas",
+   "Cape Canaveral",
+   "El Paso"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was the first word spoken by astronaut Neil Armstrong from the surface of the Moon to ground controllers on July 20, 1969?",
+  "options": [
+   "\"Houston\"",
+   "\"Austin\"",
+   "\"Touchdown\"",
+   "\"Eagle\""
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What major political third party was organized in Crystal City, Texas, in 1970 to advance Chicano political self-determination and civil rights?",
+  "options": [
+   "La Raza Unida Party",
+   "Green Party",
+   "Progressive Party",
+   "American Independent Party"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was the charismatic co-founder of La Raza Unida Party and leader of the 1969 Crystal City student walkouts?",
+  "options": [
+   "José Ángel Gutiérrez",
+   "Rodolfo \"Corky\" Gonzales",
+   "Cesar Chavez",
+   "Reies Tijerina"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1971-1972 political corruption scandal involving stock fraud and state bank deposits ended the careers of Governor Preston Smith and Speaker Gus Mutscher?",
+  "options": [
+   "The Sharpstown Scandal",
+   "The Brilab Scandal",
+   "The Veterans Land Board Scandal",
+   "The Teapot Dome Scandal"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What reform caucus was organized in the Texas House in 1971 to push out corrupt legislative leaders following the Sharpstown affair?",
+  "options": [
+   "The \"Dirty Thirty\"",
+   "The Texas Rangers",
+   "The Silver Spoons",
+   "The Radical Whigs"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What constitutional document did Texas delegates attempt and fail to completely rewrite and replace in a 1974 constitutional convention?",
+  "options": [
+   "The Texas Constitution of 1876",
+   "The Reconstruction Constitution of 1869",
+   "The Republic Constitution of 1836",
+   "The Confederate Constitution of 1861"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1973 Supreme Court decision originating from Dallas, Texas, legalized abortion nationwide before being overturned in 2022?",
+  "options": [
+   "Roe v. Wade",
+   "Lawrence v. Texas",
+   "Sweatt v. Painter",
+   "Plyler v. Doe"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1982 Supreme Court case held that Texas could not deny free public education to undocumented immigrant children?",
+  "options": [
+   "Plyler v. Doe",
+   "Edgewood ISD v. Kirby",
+   "Hernandez v. Texas",
+   "San Antonio ISD v. Rodriguez"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What landmark 1989 Texas Supreme Court decision ruled that the state's public school financing system was unconstitutionally unequal?",
+  "options": [
+   "Edgewood ISD v. Kirby",
+   "Sweatt v. Painter",
+   "San Antonio ISD v. Rodriguez",
+   "Delgado v. Bastrop ISD"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Texas legislative plan passed in 1993 redistributed property tax revenue from wealthy school districts to poorer ones?",
+  "options": [
+   "The \"Robin Hood\" Plan",
+   "The Permanent University Fund",
+   "The Minimum Foundation Program",
+   "The Gilmer-Aikin Act"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What permanent endowment established by the Texas Constitution of 1876 supports the University of Texas and Texas A&M systems through West Texas oil lands?",
+  "options": [
+   "Permanent University Fund (PUF)",
+   "Permanent School Fund (PSF)",
+   "Texas Tomorrow Fund",
+   "Available University Fund"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What permanent state fund supports Texas public primary and secondary education through state land leases and investments?",
+  "options": [
+   "Permanent School Fund (PSF)",
+   "Permanent University Fund (PUF)",
+   "Texas Education Fund",
+   "Foundation School Program"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Dallas airline founded in 1967 revolutionized domestic commercial aviation with short-haul, low-cost flights out of Love Field?",
+  "options": [
+   "Southwest Airlines",
+   "Continental Airlines",
+   "Braniff International",
+   "American Airlines"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What massive commercial airport opened in 1974 between Dallas and Fort Worth and became one of the busiest passenger hubs in the world?",
+  "options": [
+   "DFW International Airport",
+   "George Bush Intercontinental Airport",
+   "Hobby Airport",
+   "Love Field"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What famous department store chain was founded in Dallas in 1907 by Herbert Marcus, his sister Carrie, and her husband A.L. Neiman?",
+  "options": [
+   "Neiman Marcus",
+   "Foley's",
+   "Sanger-Harris",
+   "Joske's"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1980s economic disaster severely impacted Texas banks, real estate, and thrifts following a collapse in world crude oil prices?",
+  "options": [
+   "The Savings and Loan (S&L) Crisis",
+   "The Great Contraction",
+   "The Panic of 1987",
+   "The Dot-Com Bust"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In 1990, what popular San Antonio politician served as Secretary of Housing and Urban Development (HUD) under President Bill Clinton?",
+  "options": [
+   "Henry Cisneros",
+   "Julian Castro",
+   "Henry B. González",
+   "Ron Kirk"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was the legendary Texas author who won a Pulitzer Prize for his iconic Western novel *Lonesome Dove* (1985)?",
+  "options": [
+   "Larry McMurtry",
+   "Cormac McCarthy",
+   "J. Frank Dobie",
+   "Walter Prescott Webb"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which University of Texas historian wrote foundational works on Texas lore, folklore, and wildlife, including *The Longhorns* and *Tales of Old-Time Texas*?",
+  "options": [
+   "J. Frank Dobie",
+   "Walter Prescott Webb",
+   "Eugene C. Barker",
+   "Roy Bedichek"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which renowned Texas historian wrote *The Great Plains* (1931) and *The Texas Rangers* (1935)?",
+  "options": [
+   "Walter Prescott Webb",
+   "J. Frank Dobie",
+   "H.W. Brands",
+   "Rupert N. Richardson"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Lake Jackson-born musical artist was known as the \"Queen of Tejano Music\" before her tragic murder in Corpus Christi in 1995?",
+  "options": [
+   "Selena Quintanilla-Pérez",
+   "Lydia Mendoza",
+   "Gloria Trevi",
+   "Laura Canales"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Houston physician performed the world’s first successful human artificial heart implantation in 1969?",
+  "options": [
+   "Dr. Denton Cooley",
+   "Dr. Michael DeBakey",
+   "Dr. Red Duke",
+   "Dr. Paul Dudley White"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What world-renowned Houston medical complex is the largest medical city in the world?",
+  "options": [
+   "Texas Medical Center",
+   "UT Southwestern",
+   "Methodist Health Center",
+   "Christus Health Complex"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "In 2003, what major aerospace disaster occurred over East Texas when a NASA space shuttle disintegrated during atmospheric reentry?",
+  "options": [
+   "Space Shuttle Columbia Disaster",
+   "Space Shuttle Challenger Disaster",
+   "Apollo 1 Fire",
+   "Gemini 8 Accident"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who succeeded Rick Perry as Governor of Texas in January 2015?",
+  "options": [
+   "Greg Abbott",
+   "Dan Patrick",
+   "Ken Paxton",
+   "George P. Bush"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Texas petroleum geological formation in South Texas saw an immense production boom starting around 2008 due to hydraulic fracturing and horizontal drilling?",
+  "options": [
+   "Eagle Ford Shale",
+   "Barnett Shale",
+   "Permian Basin Spraberry",
+   "Haynesville Shale"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What major natural gas formation beneath Fort Worth helped pioneer modern commercial \"fracking\" technologies in the 1990s and 2000s?",
+  "options": [
+   "Barnett Shale",
+   "Eagle Ford Shale",
+   "Bakken Formation",
+   "Woodford Formation"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What category 4 hurricane made landfall near Rockport, Texas, in August 2017, causing historic flooding across the Houston metropolitan area?",
+  "options": [
+   "Hurricane Harvey",
+   "Hurricane Ike",
+   "Hurricane Katrina",
+   "Hurricane Rita"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What severe winter storm in February 2021 caused the near-total failure of the ERCOT electrical power grid in Texas, leaving millions without power?",
+  "options": [
+   "Winter Storm Uri",
+   "Winter Storm Cleon",
+   "The Great February Blizzard",
+   "Winter Storm Pax"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What independent entity operates the electrical grid that manages approximately 90 percent of Texas's electric load?",
+  "options": [
+   "ERCOT (Electric Reliability Council of Texas)",
+   "FERC (Federal Energy Regulatory Commission)",
+   "SPP (Southwest Power Pool)",
+   "PUC (Public Utility Commission of America)"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Native American tribe, forced out of Alabama in the early 1800s, maintains a federally recognized reservation in Polk County, East Texas?",
+  "options": [
+   "Alabama-Coushatta",
+   "Kickapoo",
+   "Ysleta Del Sur Pueblo",
+   "Lipan Apache"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Native American reservation is situated along the Rio Grande near El Paso, representing the oldest continuously operated community in Texas?",
+  "options": [
+   "Ysleta del Sur Pueblo (Tigua)",
+   "Alabama-Coushatta",
+   "Kickapoo Traditional Tribe",
+   "Caddo Nation"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Native American tribe has a reservation near Eagle Pass, Texas, with special cross-border rights between the U.S. and Mexico?",
+  "options": [
+   "Kickapoo Traditional Tribe of Texas",
+   "Comanche Nation",
+   "Lipan Apache",
+   "Karankawa"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Franciscan mission established near El Paso in 1682 is the oldest continuously active Roman Catholic parish in the State of Texas?",
+  "options": [
+   "Mission Ysleta (Corpus Christi de la Ysleta)",
+   "Mission San Antonio de Valero",
+   "Mission Socorro",
+   "Mission Espada"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1716 Spanish settlement in deep East Texas served as the easternmost defensive outpost against French Louisiana?",
+  "options": [
+   "Los Adaes",
+   "Nacogdoches",
+   "San Augustine",
+   "Natchitoches"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What city was recognized as the official capital of the Spanish province of Tejas from 1729 to 1770 before it was moved to San Antonio?",
+  "options": [
+   "Los Adaes",
+   "Monclova",
+   "Saltillo",
+   "San Juan Bautista"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What famous gateway outpost on the Rio Grande was known as the \"Mother of Texas Missions\"?",
+  "options": [
+   "Mission San Juan Bautista",
+   "Presidio Del Norte",
+   "Paso del Norte",
+   "Presidio La Bahía"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What treaty between the United States and Spain in 1819 set the Sabine River as the eastern boundary of Texas and ceded Florida to the U.S.?",
+  "options": [
+   "Adams-Onís Treaty",
+   "Treaty of San Lorenzo",
+   "Treaty of Ghent",
+   "Jay's Treaty"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What famous Texas revolution battle was fought around Mission Concepción on October 28, 1835?",
+  "options": [
+   "Battle of Concepción",
+   "Battle of Béxar",
+   "Grass Fight",
+   "Battle of Goliad"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Alamo defender was a former knife fighter and adventurer who brought a famous heavy blade design into popular American culture?",
+  "options": [
+   "James Bowie",
+   "William B. Travis",
+   "Davy Crockett",
+   "James Bonham"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Alamo courier rode out through Mexican lines twice to carry Travis's messages and returned to die with his comrades?",
+  "options": [
+   "James Butler Bonham",
+   "Juan Seguín",
+   "Lancelot Smither",
+   "Andrew Barcenas"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What town served as the first official constitutional capital of the Republic of Texas where its first Congress met in October 1836?",
+  "options": [
+   "Columbia (West Columbia)",
+   "Harrisburg",
+   "Houston",
+   "Washington-on-the-Brazos"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was the famous British diplomat who served as Chargé d'Affaires to the Republic of Texas and worked to prevent its annexation to the U.S.?",
+  "options": [
+   "Charles Elliot",
+   "Lord Palmerston",
+   "Richard Pakenham",
+   "James Bryce"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "The French Legation building constructed in 1841 to house France’s chargé d’affaires still stands today in which city?",
+  "options": [
+   "Austin",
+   "Houston",
+   "Galveston",
+   "San Antonio"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was the name of the primary naval flagship of the Republic of Texas Navy during its second campaign under Commodore Edwin Moore?",
+  "options": [
+   "Austin",
+   "Invincible",
+   "Brutus",
+   "Independence"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Texas Ranger captain led troops at the Battle of Plum Creek (1840) and later commanded regiments in the Mexican-American War?",
+  "options": [
+   "Mathew Caldwell",
+   "Ben McCulloch",
+   "Jack Hays",
+   "Samuel Walker"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1840 battle involved Allied Texan volunteers, rangers, and Tonkawas defeating a large Comanche raiding party retreating from the coast?",
+  "options": [
+   "Battle of Plum Creek",
+   "Battle of the Neches",
+   "Council House Fight",
+   "Battle of Bandera Pass"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What prominent Polish priest organized the founding of Panna Maria in Karnes County, Texas?",
+  "options": [
+   "Father Leopold Moczygemba",
+   "Father Vincent Barzynski",
+   "Father Felix Zwiardowski",
+   "Father Adolf Bakanowski"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Texas signer of the Texas Declaration of Independence was born in Mérida, Yucatán, and served as a senator in the Mexican Republic before fleeing Santa Anna?",
+  "options": [
+   "Lorenzo de Zavala",
+   "José Antonio Navarro",
+   "José Francisco Ruiz",
+   "Juan Antonio Padilla"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Which Tejano patriot from San Antonio served as a delegate to both the 1836 convention and the 1845 statehood convention?",
+  "options": [
+   "José Antonio Navarro",
+   "Juan Seguín",
+   "Erasmo Seguín",
+   "Toribio Losoya"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was the original name of the city of Dallas when John Neely Bryan first established a trading post and settlement there in 1841?",
+  "options": [
+   "Bryan’s Settlement / Dallas",
+   "Peters Colony",
+   "Trinity Mills",
+   "Cedar Springs"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What Dallas landmark was constructed in 1892 as the courthouse for Dallas County, built from red Pecos sandstone?",
+  "options": [
+   "Old Red Courthouse",
+   "Dealey Hall",
+   "Reunion Tower",
+   "The Adolphus"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What 1850s utopian French socialist settlement was established near present-day Dallas by followers of Victor Considerant?",
+  "options": [
+   "La Réunion",
+   "New Harmony",
+   "Icaria",
+   "Fourier Point"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What was the famous frontier defense line of forts built by the U.S. Army across West-Central Texas in the early 1850s (including Belknap, Chadbourne, and Phantom Hill)?",
+  "options": [
+   "The First Frontier Line",
+   "The Butterfield Trail Forts",
+   "The Rio Grande Cord",
+   "The Red River Screen"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What famous cross-country stagecoach mail route crossed North and West Texas on its route from St. Louis to San Francisco between 1858 and 1861?",
+  "options": [
+   "Butterfield Overland Mail",
+   "Pony Express",
+   "Santa Fe Stage",
+   "Chisholm Overland Route"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What prominent Texas educator, diplomat, and statesman served as the first commissioner of the Texas Railroad Commission alongside Jim Hogg?",
+  "options": [
+   "John H. Reagan",
+   "Oran Roberts",
+   "Sul Ross",
+   "Roger Q. Mills"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "Who was the legendary Texas Ranger who helped track down and kill the notorious outlaw duo Bonnie Parker and Clyde Barrow in 1934?",
+  "options": [
+   "Frank Hamer",
+   "Bill McDonald",
+   "Leander McNelly",
+   "John B. Jones"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What beloved Texas folk beverage was created in Waco, Texas, in 1885 by pharmacist Charles Alderton at Morrison’s Old Corner Drug Store?",
+  "options": [
+   "Dr Pepper",
+   "Big Red",
+   "RC Cola",
+   "Mountain Dew"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What red, sweet cream soda was invented in Waco, Texas, in 1937 and remains a beloved staple alongside Texas barbecue?",
+  "options": [
+   "Big Red",
+   "Dublin Cream",
+   "Lone Star Pop",
+   "Texas Fizz"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What major Texas amusement and theme park brand opened its first park in Arlington between Dallas and Fort Worth in 1961?",
+  "options": [
+   "Six Flags Over Texas",
+   "Astroworld",
+   "Fiesta Texas",
+   "SeaWorld San Antonio"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What are the historic \"Six Flags Over Texas\" that have flown over the state?",
+  "options": [
+   "Spain, France, Mexico, Republic of Texas, Confederate States of America, United States",
+   "Spain, Britain, Mexico, Republic of Texas, Confederate States of America, United States",
+   "Spain, France, Portugal, Republic of Texas, Confederacy, United States",
+   "France, Mexico, Indian Nations, Texas Republic, Confederacy, United States"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Texas History",
+  "q": "What is the official state motto of Texas, adopted by the 41st Texas Legislature in 1930?",
+  "options": [
+   "\"Friendship\"",
+   "\"Liberty and Independence\"",
+   "\"Don't Mess with Texas\"",
+   "\"Remember the Alamo\""
+  ],
+  "answer": 0,
+  "d": 1
+ }
+]

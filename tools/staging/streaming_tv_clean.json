@@ -1,0 +1,602 @@
+[
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Netflix's \"Stranger Things,\" what is the name of the alternate dimension that mirrors the real world?",
+  "options": [
+   "The Nether",
+   "The Upside Down",
+   "The Shadow Realm",
+   "The Dark Void"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Apple TV+'s \"Ted Lasso,\" what yellow sign does Ted hang above his office door?",
+  "options": [
+   "BELIEVE",
+   "HOPE",
+   "WIN",
+   "SMILE"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "Which streaming platform originally produced and aired \"The Handmaid's Tale\"?",
+  "options": [
+   "Netflix",
+   "Hulu",
+   "Amazon Prime Video",
+   "HBO Max"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Disney+'s \"The Mandalorian,\" what is the real name of \"The Child\" (often called Baby Yoda)?",
+  "options": [
+   "Grogu",
+   "Gorgan",
+   "Greef",
+   "Gideon"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Amazon Prime Video's \"The Boys,\" which superhero serves as the ruthless, public leader of The Seven?",
+  "options": [
+   "Soldier Boy",
+   "Black Noir",
+   "Homelander",
+   "A-Train"
+  ],
+  "answer": 2,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Netflix's \"Squid Game,\" what number jacket does the main protagonist, Seong Gi-hun, wear?",
+  "options": [
+   "001",
+   "067",
+   "218",
+   "456"
+  ],
+  "answer": 3,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Apple TV+'s \"Severance,\" what company subjects its employees to the severance procedure?",
+  "options": [
+   "Initech",
+   "Lumon Industries",
+   "E Corp",
+   "Massive Dynamic"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Netflix's \"The Queen's Gambit,\" what game does Beth Harmon master?",
+  "options": [
+   "Poker",
+   "Go",
+   "Chess",
+   "Backgammon"
+  ],
+  "answer": 2,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Amazon Prime Video's \"The Marvelous Mrs. Maisel,\" what is Midge Maisel's stage profession?",
+  "options": [
+   "Stand-up comedian",
+   "Jazz singer",
+   "Broadway dancer",
+   "Radio host"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Disney+'s \"WandaVision,\" what sitcom decade does the first episode parody?",
+  "options": [
+   "1950s",
+   "1970s",
+   "1980s",
+   "1990s"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Netflix's \"Bridgerton,\" who is revealed at the end of Season 1 to be Lady Whistledown?",
+  "options": [
+   "Eloise Bridgerton",
+   "Penelope Featherington",
+   "Cressida Cowper",
+   "Queen Charlotte"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Apple TV+'s \"The Morning Show,\" which two actresses star as rival co-hosts Alex Levy and Bradley Jackson?",
+  "options": [
+   "Reese Witherspoon and Jennifer Aniston",
+   "Nicole Kidman and Reese Witherspoon",
+   "Courteney Cox and Jennifer Aniston",
+   "Sandra Bullock and Laura Dern"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Netflix's \"Ozark,\" what profession does Marty Byrde officially practice before laundering money?",
+  "options": [
+   "Criminal defense attorney",
+   "Financial advisor",
+   "Real estate broker",
+   "Casino manager"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Hulu's \"Only Murders in the Building,\" what is the name of the Upper West Side apartment building?",
+  "options": [
+   "The Dakota",
+   "The Arconia",
+   "The Belnord",
+   "The Ansonia"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Netflix's \"Wednesday,\" what species of supernatural creature is Enid Sinclair?",
+  "options": [
+   "Vampire",
+   "Werewolf",
+   "Gorgon",
+   "Siren"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Amazon Prime Video's \"Invincible,\" who is the superhero father of Mark Grayson?",
+  "options": [
+   "Omni-Man",
+   "The Immortal",
+   "Atom Eve",
+   "Robot"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Netflix's \"BoJack Horseman,\" what kind of animal is Princess Carolyn?",
+  "options": [
+   "Horse",
+   "Cat",
+   "Dog",
+   "Owl"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Hulu's \"The Bear,\" what is Carmy Berzatto's fine-dining nickname/title before returning to Chicago?",
+  "options": [
+   "Chef de Partie",
+   "Head Baker",
+   "The Bear",
+   "Chef Carmy"
+  ],
+  "answer": 2,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Netflix's \"The Crown,\" which actress played Queen Elizabeth II in Seasons 1 and 2?",
+  "options": [
+   "Olivia Colman",
+   "Imelda Staunton",
+   "Claire Foy",
+   "Helena Bonham Carter"
+  ],
+  "answer": 2,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Disney+'s \"Loki,\" what bureaucratic organization monitors the timeline?",
+  "options": [
+   "S.H.I.E.L.D.",
+   "Time Variance Authority (TVA)",
+   "Department of Damage Control",
+   "Nova Corps"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Apple TV+'s \"Slow Horses,\" who heads the disreputable division of MI5 rejects at Slough House?",
+  "options": [
+   "Jackson Lamb",
+   "River Cartwright",
+   "Diana Taverner",
+   "Peter Judd"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Netflix's \"Cobra Kai,\" what is the name of the dojo reopened by Johnny Lawrence?",
+  "options": [
+   "Miyagi-Do",
+   "Cobra Kai",
+   "Eagle Fang",
+   "Top Karate"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Amazon Prime Video's \"Fallout,\" what Vault number does Lucy MacLean emerge from?",
+  "options": [
+   "Vault 13",
+   "Vault 33",
+   "Vault 76",
+   "Vault 111"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Netflix's \"Black Mirror,\" what is the title of the interactive choose-your-own-adventure film episode?",
+  "options": [
+   "San Junipero",
+   "Bandersnatch",
+   "USS Callister",
+   "White Christmas"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Disney+'s \"Andor,\" what mineral facility on Narkina 5 do the prisoners assemble components for?",
+  "options": [
+   "Beskar armor",
+   "Death Star superlaser",
+   "TIE Fighter engines",
+   "Kyber crystal containers"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Apple TV+'s \"Ted Lasso,\" which fictional English football club does Ted coach?",
+  "options": [
+   "AFC Richmond",
+   "West Ham United",
+   "Manchester City",
+   "Brentford FC"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Netflix's \"Money Heist\" (La Casa de Papel), what code name does the criminal mastermind go by?",
+  "options": [
+   "Berlin",
+   "The Professor",
+   "Tokyo",
+   "Moscow"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Hulu's \"The Great,\" which historical Russian monarch is portrayed by Elle Fanning?",
+  "options": [
+   "Catherine the Great",
+   "Elizabeth of Russia",
+   "Anna of Russia",
+   "Empress Catherine I"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Netflix's \"Mindhunter,\" what FBI unit do Holden Ford and Bill Tench belong to?",
+  "options": [
+   "Critical Incident Response Group",
+   "Behavioral Science Unit",
+   "Hostage Rescue Team",
+   "Counterterrorism Division"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Amazon Prime Video's \"Reacher,\" what was Jack Reacher's former rank in the U.S. Army Military Police?",
+  "options": [
+   "Captain",
+   "Major",
+   "Sergeant Major",
+   "Colonel"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Disney+'s \"Percy Jackson and the Olympians,\" who plays Percy Jackson in the 2023 streaming series?",
+  "options": [
+   "Walker Scobell",
+   "Logan Lerman",
+   "Aryan Simhadri",
+   "Charlie Bushnell"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Netflix's \"Dark,\" which German town experiences mysterious disappearances across multiple timelines?",
+  "options": [
+   "Winden",
+   "Heidelberg",
+   "Freiburg",
+   "Monschau"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Apple TV+'s \"For All Mankind,\" which nation is the first to land a human on the Moon in the alternate history?",
+  "options": [
+   "United States",
+   "Soviet Union",
+   "United Kingdom",
+   "China"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Netflix's \"You,\" what is the primary name/identity of the obsessive serial stalker protagonist?",
+  "options": [
+   "Joe Goldberg",
+   "Dan Humphrey",
+   "Dexter Morgan",
+   "Patrick Bateman"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Hulu's \"Dopesick,\" which pharmaceutical company's role in the opioid crisis is central to the story?",
+  "options": [
+   "Pfizer",
+   "Purdue Pharma",
+   "Johnson & Johnson",
+   "Roche"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Amazon Prime Video's \"The Wheel of Time,\" which Aes Sedai ajah does Moiraine Damodred belong to?",
+  "options": [
+   "Red Ajah",
+   "Blue Ajah",
+   "Green Ajah",
+   "Yellow Ajah"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Disney+'s \"Hawkeye,\" what is the name of Clint Barton and Kate Bishop's one-eyed canine companion?",
+  "options": [
+   "Lucky the Pizza Dog",
+   "Chewie",
+   "Cosmo",
+   "Sparky"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Netflix's \"Narcos,\" which notorious Colombian cartel leader is the focus of Seasons 1 and 2?",
+  "options": [
+   "Pablo Escobar",
+   "El Chapo",
+   "Gilberto Rodríguez Orejuela",
+   "Amado Carrillo Fuentes"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Apple TV+'s \"Foundation,\" who portrays the cloning dynasty ruler Empire (Brother Day)?",
+  "options": [
+   "Jared Harris",
+   "Lee Pace",
+   "Terrence Mann",
+   "Lou Llobell"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Netflix's \"Heartstopper,\" which sport does Nick Nelson play that introduces him to Charlie Spring?",
+  "options": [
+   "Football (Soccer)",
+   "Rugby",
+   "Cricket",
+   "Tennis"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Hulu's \"Ramy,\" which award-winning actor plays Uncle Naseem?",
+  "options": [
+   "Ramy Youssef",
+   "Mahershala Ali",
+   "Laith Nakli",
+   "Amr Waked"
+  ],
+  "answer": 2,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Amazon Prime Video's \"Good Omens,\" who are the central angel and demon duo?",
+  "options": [
+   "Aziraphale and Crowley",
+   "Gabriel and Beelzebub",
+   "Michael and Hastur",
+   "Raphael and Ligur"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Disney+'s \"Ahsoka,\" which villain returns from exile in another galaxy?",
+  "options": [
+   "Grand Admiral Thrawn",
+   "Moff Gideon",
+   "General Grievous",
+   "Count Dooku"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Netflix's \"The Witcher,\" what is Geralt of Rivia's signature moniker?",
+  "options": [
+   "The White Wolf",
+   "The Black Swordsman",
+   "The Silver Knight",
+   "The Pale Rider"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Apple TV+'s \"Shrinking,\" which legendary actor plays veteran therapist Paul Rhodes?",
+  "options": [
+   "Harrison Ford",
+   "Jason Segel",
+   "Michael Keaton",
+   "Ted Danson"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Netflix's \"Russian Doll,\" what song repeatedly plays on the bathroom radio whenever Nadia dies and resets?",
+  "options": [
+   "\"Gotta Get Up\" by Harry Nilsson",
+   "\"Groundhog Day\" by Sonny & Cher",
+   "\"Stayin' Alive\" by Bee Gees",
+   "\"Time in a Bottle\" by Jim Croce"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Hulu's \"Normal People,\" what Irish university do Marianne and Connell attend together?",
+  "options": [
+   "University College Dublin",
+   "Trinity College Dublin",
+   "National University of Ireland, Galway",
+   "Queen's University Belfast"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Amazon Prime Video's \"The Expanse\" (Seasons 4-6), what is the name of James Holden's gunship?",
+  "options": [
+   "Canterbury",
+   "Rocinante",
+   "Donnager",
+   "Nauvoo"
+  ],
+  "answer": 1,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "On Netflix's \"Dead to Me,\" which two actresses star as the grief-bonded leads Jen and Judy?",
+  "options": [
+   "Christina Applegate and Linda Cardellini",
+   "Amy Poehler and Tina Fey",
+   "Jane Fonda and Lily Tomlin",
+   "Natasha Lyonne and Maya Rudolph"
+  ],
+  "answer": 0,
+  "d": 1
+ },
+ {
+  "show": "Streaming TV Shows",
+  "q": "In Disney+'s \"Moon Knight,\" what British museum gift-shop employee persona does Marc Spector live as?",
+  "options": [
+   "Steven Grant",
+   "Jake Lockley",
+   "Arthur Harrow",
+   "Marc Spector"
+  ],
+  "answer": 0,
+  "d": 1
+ }
+]
