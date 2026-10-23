@@ -284,32 +284,28 @@ let snackT;
 function snack(msg) { const s = $('snack'); s.textContent = msg; s.classList.add('show'); clearTimeout(snackT); snackT = setTimeout(() => s.classList.remove('show'), 2200); }
 
 // ---------- state ----------
-const shows = [...new Set(QUESTIONS.map((q) => q.show))];
-const showGroups = (() => { // chips: each big topic on its own, plus the long tail of one-off 90s sitcoms
-  const individual = [
-    'Friends', 'Will & Grace', 'Frasier',
-    'Stand-Up Comedy', "Don't Tell Comedy",
-    'Dallas', 'Texas History', 'UT Austin',
-    'A. Zimmerman, Reporter-at-Large!',
-    'Movie Taglines', 'Romantic Comedies', 'Streaming TV Shows',
-    'Late Night TV', 'Chuck Norris Jokes', 'Famous Canadians',
-    "RuPaul's Drag Race", 'Fruits & Veggies',
+const showGroups = (() => {
+  const counts = {};
+  for (const q of QUESTIONS) counts[q.show] = (counts[q.show] || 0) + 1;
+  const comedyShows = [];
+  const sitcomShows = [];
+  const standaloneShows = [];
+  for (const [show, count] of Object.entries(counts)) {
+    if (show.startsWith('Comedy · ') || show === 'Comedy Classics') {
+      comedyShows.push(show);
+    } else if (count < 10) {
+      sitcomShows.push(show);
+    } else {
+      standaloneShows.push(show);
+    }
+  }
+  const groups = [
+    ...(comedyShows.length ? [{ label: 'Comedy Classics', shows: comedyShows }] : []),
+    ...(sitcomShows.length ? [{ label: '90s Sitcoms', shows: sitcomShows }] : []),
+    ...standaloneShows.map((show) => ({ label: show, shows: [show] })),
   ];
-  const isComedy = (s) => s.startsWith('Comedy');
-  const other = shows.filter((s) => !individual.includes(s) && !isComedy(s));
-  const comedy = shows.filter(isComedy);
-  return [
-    ...['Friends', 'Will & Grace', 'Frasier'].filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
-    ...(comedy.length ? [{ label: 'Comedy Classics', shows: comedy }] : []),
-    ...[
-      'Stand-Up Comedy', "Don't Tell Comedy",
-      'Dallas', 'Texas History', 'UT Austin',
-      'A. Zimmerman, Reporter-at-Large!',
-      'Movie Taglines', 'Romantic Comedies', 'Streaming TV Shows',
-      'Late Night TV', 'Chuck Norris Jokes', 'Famous Canadians',
-      "RuPaul's Drag Race", 'Fruits & Veggies',
-    ].filter((m) => shows.includes(m)).map((m) => ({ label: m, shows: [m] })),
-    ...(other.length ? [{ label: '90s Sitcoms', shows: other }] : [])];
+  groups.sort((a, b) => a.label.localeCompare(b.label, undefined, { sensitivity: 'base' }));
+  return groups;
 })();
 const topicWins = {
   all() { const w = store.get('topicWins', {}); return w && typeof w === 'object' ? w : {}; },
