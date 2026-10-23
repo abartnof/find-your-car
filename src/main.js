@@ -240,6 +240,7 @@ const showGroups = (() => { // chips: each big topic on its own, plus the long t
     'Friends', 'Will & Grace', 'Frasier',
     'Stand-Up Comedy', "Don't Tell Comedy",
     'Dallas', 'Texas History', 'UT Austin',
+    'A. Zimmerman, Reporter-at-Large!',
     'Movie Taglines', 'Romantic Comedies', 'Streaming TV Shows',
     'Late Night TV', 'Chuck Norris Jokes', 'Famous Canadians',
     "RuPaul's Drag Race", 'Fruits & Veggies',
@@ -253,6 +254,7 @@ const showGroups = (() => { // chips: each big topic on its own, plus the long t
     ...[
       'Stand-Up Comedy', "Don't Tell Comedy",
       'Dallas', 'Texas History', 'UT Austin',
+      'A. Zimmerman, Reporter-at-Large!',
       'Movie Taglines', 'Romantic Comedies', 'Streaming TV Shows',
       'Late Night TV', 'Chuck Norris Jokes', 'Famous Canadians',
       "RuPaul's Drag Race", 'Fruits & Veggies',
