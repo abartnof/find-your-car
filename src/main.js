@@ -443,7 +443,6 @@ function answer(i) {
   const last = S.i === STEPS - 1, win = ok && S.score + 1 === STEPS;
   if (ok) {
     S.score++; lot.advance(); lot.cheer(); audio.correct(S.score - 1); updateHud();
-    const left = STEPS - S.score; snack(left ? `Nice! ${left} more to go` : 'Your car is right there!');
   } else {
     lot.stumble(); audio.wrong();
   }
