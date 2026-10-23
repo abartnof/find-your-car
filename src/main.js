@@ -336,10 +336,8 @@ function renderQ() {
   sheet.innerHTML = `
     <p class="overline">${ESC(q.show)}</p>
     <h2 class="question">${ESC(q.q)}</h2>
-    <div class="options-wrap">
-      <div class="options">${q.opts.map((o, i) => `<button class="btn btn-opt" data-opt="${i}"><span class="key">${'ABCD'[i]}</span><span>${ESC(o.t)}</span></button>`).join('')}</div>
-      <div id="fb" class="fb-overlay"></div>
-    </div>`;
+    <div class="options">${q.opts.map((o, i) => `<button class="btn btn-opt" data-opt="${i}"><span class="key">${'ABCD'[i]}</span><span>${ESC(o.t)}</span></button>`).join('')}</div>
+    <div id="fb"></div>`;
   sheet.scrollTop = 0;
 }
 function answer(i) {
@@ -354,9 +352,23 @@ function answer(i) {
     const left = STEPS - S.score; snack(left ? `Nice! ${left} more to go` : 'Your car is right there!');
   } else {
     lot.stumble(); audio.wrong();
-    snack(`Nope — it's "${q.opts.find((o) => o.ok).t}"`);
   }
-  $('fb').innerHTML = `${q.fact ? `<p class="body fact">${ESC(q.fact)}</p>` : ''}<button class="btn fab-ext" id="next">${last ? (win ? 'Get in the car' : 'See results') : 'Next'}${ICON.next}</button>`;
+  const correctOpt = q.opts.find((o) => o.ok);
+  const title = ok ? 'Right!' : `It was ${correctOpt ? correctOpt.t : 'another answer'}`;
+  const sub = q.fact ? `<div class="fb-sub">${ESC(q.fact)}</div>` : '';
+  const action = last ? (win ? 'Get in the car' : 'See results') : 'Next';
+  $('fb').innerHTML = `
+    <button class="btn btn-feedback ${ok ? 'ok' : 'bad'}" id="next">
+      <div class="fb-text">
+        <div class="fb-main">${ESC(title)}</div>
+        ${sub}
+      </div>
+      <div class="fb-action">
+        <span>${action}</span>${ICON.next}
+      </div>
+    </button>`;
+  const nextBtn = $('next');
+  if (nextBtn) nextBtn.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
 function nextQ() {
   if (!S.answered) return;
