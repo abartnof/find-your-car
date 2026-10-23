@@ -21,30 +21,40 @@ def parse(path):
     ntr, ppq = struct.unpack(">HH", b[10:14]); i = 14
     notes, tempos = [], [(0, 500000)]
     for _ in range(ntr):
+        if i + 8 > len(b): break
         n = struct.unpack(">I", b[i+4:i+8])[0]; d = b[i+8:i+8+n]; i += 8 + n
         j = t = 0; run = None; on = {}; prog = {}
         def vlq():
             nonlocal j
             v = 0
             while True:
+                if j >= len(d): return v
                 c = d[j]; j += 1; v = (v << 7) | (c & 0x7f)
                 if not c & 0x80: return v
         while j < len(d):
-            t += vlq(); s = d[j]
+            t += vlq()
+            if j >= len(d): break
+            s = d[j]
             if s == 0xff:
+                if j + 2 >= len(d): break
                 typ = d[j+1]; ln = d[j+2]
-                if typ == 0x51: tempos.append((t, int.from_bytes(d[j+3:j+6], "big")))
+                if typ == 0x51 and j + 6 <= len(d):
+                    tempos.append((t, int.from_bytes(d[j+3:j+6], "big")))
                 j += 3 + ln; continue
             if s in (0xf0, 0xf7):
                 j += 1; ln = vlq(); j += ln; continue
             if s & 0x80: run = s; j += 1
+            if not run: continue
             hi, ch = run & 0xf0, run & 0xf
             if hi in (0x80, 0x90):
+                if j + 1 >= len(d): break
                 p, v = d[j], d[j+1]; j += 2
                 if hi == 0x90 and v > 0: on[(ch, p)] = (t, v)
                 elif (ch, p) in on:
                     t0, v0 = on.pop((ch, p)); notes.append((t0, t - t0, p, v0, ch, prog.get(ch, 0)))
-            elif hi == 0xC0: prog[ch] = d[j]; j += 1
+            elif hi == 0xC0:
+                if j >= len(d): break
+                prog[ch] = d[j]; j += 1
             elif hi == 0xD0: j += 1
             else: j += 2
     tempos.sort()
