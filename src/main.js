@@ -283,7 +283,7 @@ renderMusicDropdown();
 // ---------- ripple on any .btn / .fchip / .icon-btn ----------
 document.addEventListener('pointerdown', (e) => {
   audio.unlock(); music.sync();
-  const el = e.target.closest('.btn,.fchip,.icon-btn'); if (!el) return;
+  const el = e.target.closest('.btn,.fchip,.icon-btn,.icon-btn-sm'); if (!el) return;
   const r = el.getBoundingClientRect(), d = Math.max(r.width, r.height) * 2;
   const s = document.createElement('span'); s.className = 'ripple';
   s.style.cssText = `width:${d}px;height:${d}px;left:${e.clientX - r.left - d / 2}px;top:${e.clientY - r.top - d / 2}px`;
@@ -342,6 +342,112 @@ const showGroups = (() => {
   groups.sort((a, b) => a.label.localeCompare(b.label, undefined, { sensitivity: 'base' }));
   return groups;
 })();
+
+const TOPIC_CLUSTERS = {
+  // TV Sitcoms & Comedies
+  '30 Rock': 'TV Sitcoms & Comedies',
+  'Arrested Development': 'TV Sitcoms & Comedies',
+  'Brooklyn Nine-Nine': 'TV Sitcoms & Comedies',
+  'Parks and Recreation': 'TV Sitcoms & Comedies',
+  'Friends': 'TV Sitcoms & Comedies',
+  'Frasier': 'TV Sitcoms & Comedies',
+  'Will & Grace': 'TV Sitcoms & Comedies',
+  '90s Sitcoms': 'TV Sitcoms & Comedies',
+  'Comedy Classics': 'TV Sitcoms & Comedies',
+  'Streaming TV Shows': 'TV Sitcoms & Comedies',
+  'Cheers': 'TV Sitcoms & Comedies',
+  'Seinfeld': 'TV Sitcoms & Comedies',
+  '3rd Rock from the Sun': 'TV Sitcoms & Comedies',
+  'A Different World': 'TV Sitcoms & Comedies',
+  'Boy Meets World': 'TV Sitcoms & Comedies',
+  'Coach': 'TV Sitcoms & Comedies',
+  'Family Matters': 'TV Sitcoms & Comedies',
+  'Full House': 'TV Sitcoms & Comedies',
+  'Home Improvement': 'TV Sitcoms & Comedies',
+  'Just Shoot Me!': 'TV Sitcoms & Comedies',
+  'Living Single': 'TV Sitcoms & Comedies',
+  'Mad About You': 'TV Sitcoms & Comedies',
+  'Married... with Children': 'TV Sitcoms & Comedies',
+  'NewsRadio': 'TV Sitcoms & Comedies',
+  'Roseanne': 'TV Sitcoms & Comedies',
+  'Spin City': 'TV Sitcoms & Comedies',
+  'Step by Step': 'TV Sitcoms & Comedies',
+  'The Drew Carey Show': 'TV Sitcoms & Comedies',
+  'The Fresh Prince of Bel-Air': 'TV Sitcoms & Comedies',
+  'The Nanny': 'TV Sitcoms & Comedies',
+
+  // Animation & Cartoons
+  "Bob's Burgers": 'Animation & Cartoons',
+  'King of the Hill': 'Animation & Cartoons',
+  '90s Nickelodeon': 'Animation & Cartoons',
+  'The Simpsons': 'Animation & Cartoons',
+
+  // Stand-Up, Podcasts & Comedy Shows
+  "Don't Tell Comedy": 'Stand-Up, Podcasts & Comedy Shows',
+  'Stand-Up Comedy': 'Stand-Up, Podcasts & Comedy Shows',
+  'Late Night TV': 'Stand-Up, Podcasts & Comedy Shows',
+  'Comedy Bang! Bang!': 'Stand-Up, Podcasts & Comedy Shows',
+  'How Did This Get Made?': 'Stand-Up, Podcasts & Comedy Shows',
+  "Why Won't You Date Me?": 'Stand-Up, Podcasts & Comedy Shows',
+  'Taskmaster UK': 'Stand-Up, Podcasts & Comedy Shows',
+
+  // Movies & Pop Culture
+  'Movie Taglines': 'Movies & Pop Culture',
+  'Romantic Comedies': 'Movies & Pop Culture',
+  "RuPaul's Drag Race": 'Movies & Pop Culture',
+  'Celebrity Anecdotes': 'Movies & Pop Culture',
+  'Chuck Norris Jokes': 'Movies & Pop Culture',
+  'Knock-Knock Jokes': 'Movies & Pop Culture',
+
+  // History, People & Places
+  'Texas History': 'History, People & Places',
+  'Dallas': 'History, People & Places',
+  'UT Austin': 'History, People & Places',
+  'Famous Canadians': 'History, People & Places',
+  'A. Zimmerman, Reporter-at-Large!': 'History, People & Places',
+  'Anglophone Slang': 'History, People & Places',
+  'Fruits & Veggies': 'History, People & Places',
+
+  // Music
+  'Ben Folds': 'Music',
+};
+
+const CLUSTER_ORDER = [
+  'TV Sitcoms & Comedies',
+  'Animation & Cartoons',
+  'Stand-Up, Podcasts & Comedy Shows',
+  'Movies & Pop Culture',
+  'History, People & Places',
+  'Music',
+  'General Trivia',
+];
+
+function getClusterName(label) {
+  if (TOPIC_CLUSTERS[label]) return TOPIC_CLUSTERS[label];
+  if (/music|song|band|rock|folds|album/i.test(label)) return 'Music';
+  if (/nickelodeon|animation|cartoon|simpson|burger|king of the hill/i.test(label)) return 'Animation & Cartoons';
+  if (/stand-up|podcast|comedy bang|how did this get made|why won't you date me|taskmaster|late night|don't tell/i.test(label)) return 'Stand-Up, Podcasts & Comedy Shows';
+  if (/movie|film|drag race|joke|anecdote|pop culture/i.test(label)) return 'Movies & Pop Culture';
+  if (/history|texas|dallas|austin|canadian|zimmerman|slang|fruits/i.test(label)) return 'History, People & Places';
+  if (/sitcom|series|show|comedy|season|episode/i.test(label)) return 'TV Sitcoms & Comedies';
+  return 'General Trivia';
+}
+
+function getClusters() {
+  const map = new Map();
+  for (const name of CLUSTER_ORDER) map.set(name, []);
+  for (const g of showGroups) {
+    const cName = getClusterName(g.label);
+    if (!map.has(cName)) map.set(cName, []);
+    map.get(cName).push(g);
+  }
+  const result = [];
+  for (const [name, topics] of map.entries()) {
+    if (topics.length > 0) result.push({ name, topics });
+  }
+  return result;
+}
+
 const topicWins = {
   all() { const w = store.get('topicWins', {}); return w && typeof w === 'object' ? w : {}; },
   get(label) { return this.all()[label] || 0; },
@@ -358,6 +464,7 @@ const S = {
   tex: store.get('tex', 0),
   groups: new Set(store.get('groups', []).filter((l) => showGroups.some((g) => g.label === l))),
   qs: [], i: 0, score: 0, answered: false, seen: new Set(),
+  history: [],
 };
 let lot;
 if (!S.groups.size) showGroups.forEach((g) => S.groups.add(g.label));
@@ -367,6 +474,8 @@ const ICON = {
   next: '<svg viewBox="0 0 24 24"><path d="M12 4l-1.4 1.4 5.6 5.6H4v2h12.2l-5.6 5.6L12 20l8-8z"/></svg>',
   prev: '<svg viewBox="0 0 24 24"><path d="M15.4 7.4 14 6l-6 6 6 6 1.4-1.4L10.8 12z"/></svg>',
   nxt: '<svg viewBox="0 0 24 24"><path d="M8.6 16.6 13.2 12 8.6 7.4 10 6l6 6-6 6z"/></svg>',
+  checkAll: '<svg viewBox="0 0 24 24"><path d="M18 7l-1.41-1.41-6.34 6.34 1.41 1.41L18 7zm4.24-1.41L11.66 16.17 7.48 12l-1.41 1.41L11.66 19l12-12-1.42-1.41zM.41 13.41L6 19l1.41-1.41L1.83 12 .41 13.41z"/></svg>',
+  uncheckAll: '<svg viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>',
 };
 
 function pickQuestions() {
@@ -392,7 +501,9 @@ function renderMenu(keepScroll = false) {
   if (lot.mode !== 'menu') lot.reset();   // re-rendering the menu (picking a car/colour/topic) keeps the camera where it is
   lot.mode = 'menu';
   $('app').classList.add('menu-mode');
-  $('title').textContent = 'Find Your Car'; $('scoreChip').hidden = true; $('progress').hidden = true;
+  $('title').hidden = false;
+  $('title').textContent = 'Find Your Car';
+  $('pips').hidden = true;
   const car = CARS[S.car];
   const prevScroll = keepScroll ? sheet.scrollTop : 0;
   sheet.innerHTML = `
@@ -412,11 +523,21 @@ function renderMenu(keepScroll = false) {
     </div>
     <div class="swatches" aria-label="Paint">${Array.from({ length: car.tex }, (_, i) => `<button class="sw ${i === S.tex ? 'sel' : ''}" data-a="tex${i}" aria-label="Paint ${i + 1}" data-sw="${car.id}_${i}" style="background:${SWC[car.id + '_' + i] || '#888'}"></button>`).join('')}</div>
     <div class="label">TOPICS</div>
-    <div class="chips">${showGroups.map((g) => {
-      const wins = topicWins.get(g.label);
-      const badge = wins > 0 ? `<span class="badge" aria-label="${wins} wins">${wins}</span>` : '';
-      return `<button class="fchip ${S.groups.has(g.label) ? 'sel' : ''}" data-g="${ESC(g.label)}">${ESC(g.label)}${badge}</button>`;
-    }).join('')}</div>
+    ${getClusters().map((c) => `
+      <div class="cluster">
+        <div class="cluster-header">
+          <div class="cluster-title">${ESC(c.name)}</div>
+          <div class="cluster-actions">
+            <button class="icon-btn-sm" data-c-act="select" data-cluster="${ESC(c.name)}" aria-label="Select all ${ESC(c.name)}" title="Select all">${ICON.checkAll}</button>
+            <button class="icon-btn-sm" data-c-act="deselect" data-cluster="${ESC(c.name)}" aria-label="Deselect all ${ESC(c.name)}" title="Deselect all">${ICON.uncheckAll}</button>
+          </div>
+        </div>
+        <div class="chips">${c.topics.map((g) => {
+          const wins = topicWins.get(g.label);
+          const badge = wins > 0 ? `<span class="badge" aria-label="${wins} wins">${wins}</span>` : '';
+          return `<button class="fchip ${S.groups.has(g.label) ? 'sel' : ''}" data-g="${ESC(g.label)}">${ESC(g.label)}${badge}</button>`;
+        }).join('')}</div>
+      </div>`).join('')}
     ${music.tracks.length ? `<div class="label">MUSIC</div>
     <div class="musicrow"><button class="switch ${music.on ? 'on' : ''}" role="switch" aria-checked="${music.on}" data-m="toggle" aria-label="Background music"><span class="knob"></span></button>
       <div class="mtitle">${music.on ? (music.title ? '♪ ' + ESC(music.title) : 'Background music') : 'Music off'}</div>
@@ -450,7 +571,7 @@ function loadSwatches() {
 }
 
 sheet.addEventListener('click', (e) => {
-  const b = e.target.closest('[data-m],[data-a],[data-g],#go,[data-opt],#next,#again,#lb'); if (!b) return;
+  const b = e.target.closest('[data-m],[data-a],[data-g],[data-c-act],#go,[data-opt],#next,#again,#lb'); if (!b) return;
   if (b.dataset.m) { if (b.dataset.m === 'toggle') { music.set(!music.on); renderMusicBtn(); } else music.next(); renderMusicDropdown(); renderMenu(true); }
   else if (b.dataset.a) {
     const a = b.dataset.a;
@@ -462,6 +583,36 @@ sheet.addEventListener('click', (e) => {
     const g = b.dataset.g;
     if (S.groups.has(g)) { if (S.groups.size > 1) S.groups.delete(g); else return snack('Keep at least one topic'); } else S.groups.add(g);
     store.set('groups', [...S.groups]); renderMenu(true);
+  } else if (b.dataset.cAct) {
+    const act = b.dataset.cAct;
+    const cName = b.dataset.cluster;
+    const cluster = getClusters().find((c) => c.name === cName);
+    if (cluster) {
+      if (act === 'select') {
+        for (const t of cluster.topics) S.groups.add(t.label);
+        store.set('groups', [...S.groups]);
+        renderMenu(true);
+      } else if (act === 'deselect') {
+        const nextGroups = new Set(S.groups);
+        let snackShown = false;
+        for (const t of cluster.topics) {
+          if (nextGroups.has(t.label)) {
+            if (nextGroups.size > 1) {
+              nextGroups.delete(t.label);
+            } else {
+              if (!snackShown) {
+                snack('Keep at least one topic');
+                snackShown = true;
+              }
+              break;
+            }
+          }
+        }
+        S.groups = nextGroups;
+        store.set('groups', [...S.groups]);
+        renderMenu(true);
+      }
+    }
   } else if (b.id === 'go') startGame();
   else if (b.dataset.opt != null) answer(+b.dataset.opt);
   else if (b.id === 'next') nextQ();
@@ -473,14 +624,22 @@ function startGame() {
   $('app').classList.remove('menu-mode');
   sheet.style.height = '';
   S.qs = pickQuestions(); S.qs.forEach((q) => S.seen.add(q.q)); S.i = 0; S.score = 0;
+  S.history = Array(STEPS).fill(null);
   clearEffects(); lot.reset(); lot.mode = 'play';
-  $('scoreChip').hidden = false; $('progress').hidden = false; updateHud();
+  $('title').hidden = true; $('pips').hidden = false; updateHud();
   renderQ();
 }
 function updateHud() {
-  $('scoreText').textContent = `${S.score} / ${STEPS}`;
-  $('progressBar').style.width = `${(S.score / STEPS) * 100}%`;
-  $('title').textContent = `Question ${Math.min(S.i + 1, STEPS)} of ${STEPS}`;
+  const pips = $('pips')?.children;
+  if (!pips) return;
+  for (let k = 0; k < STEPS; k++) {
+    const el = pips[k];
+    if (!el) continue;
+    el.className = 'pip';
+    if (S.history[k] === true) el.classList.add('correct');
+    else if (S.history[k] === false) el.classList.add('wrong');
+    else if (k === S.i && !S.answered) el.classList.add('active');
+  }
 }
 function renderQ() {
   const q = S.qs[S.i]; S.answered = false; updateHud();
@@ -494,15 +653,17 @@ function renderQ() {
 function answer(i) {
   if (S.answered) return; S.answered = true;
   const q = S.qs[S.i], ok = q.opts[i].ok;
+  S.history[S.i] = ok;
   sheet.querySelectorAll('.btn-opt').forEach((el, k) => {
     if (q.opts[k].ok) el.classList.add('correct'); else if (k === i) el.classList.add('wrong'); else el.classList.add('dim');
   });
   const last = S.i === STEPS - 1, win = ok && S.score + 1 === STEPS;
   if (ok) {
-    S.score++; lot.advance(); lot.cheer(); audio.correct(S.score - 1); updateHud();
+    S.score++; lot.advance(); lot.cheer(); audio.correct(S.score - 1);
   } else {
     lot.stumble(); audio.wrong();
   }
+  updateHud();
   const action = last ? (win ? 'Get in the car' : 'See results') : 'Next';
   $('fb').innerHTML = `<button class="btn fab-ext" id="next"><span>${action}</span>${ICON.next}</button>`;
   const nextBtn = $('next');
@@ -528,7 +689,8 @@ async function finish() {
   sheet.style.height = '';
   const win = S.score === STEPS;
   S.lastT = Date.now(); board.add({ name: S.name.trim() || 'Player', score: S.score, t: S.lastT });
-  $('progress').hidden = true;
+  $('pips').hidden = true;
+  $('title').hidden = false;
   sheet.innerHTML = '';
   if (win) {
     const wonGroups = showGroups
@@ -565,7 +727,7 @@ async function finish() {
   }
   renderMenu();
   const demo = /demo=(\d+)/.exec(location.hash);
-  if (demo) { lot.snap = true; startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } else if (/fail/.test(location.hash)) finish(); }
+  if (demo) { lot.snap = true; startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; S.history[i] = true; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } else if (/fail/.test(location.hash)) finish(); }
   if (/ans/.test(location.hash)) answer(0);
   if (/board/.test(location.hash)) { for (const sc of [10, 7, 3]) board.add({ name: 'Test ' + sc, score: sc, t: Date.now() - sc * 3.6e6 }); showBoard(); }
   await wait(300);

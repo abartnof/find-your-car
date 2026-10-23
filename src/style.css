@@ -14,14 +14,21 @@ html,body{margin:0;height:100%;background:var(--md-surface);color:var(--md-on-su
 #app{display:flex;flex-direction:column;height:100dvh;max-width:640px;margin:0 auto;position:relative}
 .appbar{display:flex;align-items:center;gap:8px;height:56px;padding:0 4px 0 16px;background:var(--md-surface-2);flex:none;padding-top:env(safe-area-inset-top)}
 .appbar-title{flex:1;font-size:22px;font-weight:500;letter-spacing:0}
-.chip{display:inline-flex;align-items:center;gap:6px;height:32px;padding:0 12px;border-radius:var(--r-sm);border:1px solid var(--md-outline);font-size:14px;font-weight:500;color:var(--md-on-surface-variant)}
-.chip[hidden]{display:none}
-.material-dot{width:8px;height:8px;border-radius:50%;background:var(--md-success)}
+.pips{display:flex;align-items:center;gap:8px;flex:1;padding:0 4px;min-width:0}
+.pips[hidden]{display:none}
+.pip{flex:0 0 11px;width:11px;height:11px;border-radius:50%;background:var(--md-outline-variant);transition:background-color .2s cubic-bezier(.2,0,0,1),transform .2s cubic-bezier(.2,0,0,1),box-shadow .2s cubic-bezier(.2,0,0,1)}
+.pip.active{background:#ffffff;transform:scale(1.35);box-shadow:0 0 8px rgba(255,255,255,.9)}
+.pip.correct{background:var(--md-success);box-shadow:0 0 6px rgba(168,218,181,.5)}
+.pip.wrong{background:var(--md-error);box-shadow:0 0 6px rgba(242,184,181,.5)}
 .icon-btn{width:48px;height:48px;border:0;background:none;border-radius:50%;color:var(--md-on-surface-variant);display:grid;place-items:center;cursor:pointer;position:relative;overflow:hidden}
 .icon-btn svg{width:24px;height:24px;fill:currentColor}
-.progress{height:4px;background:var(--md-secondary-container);flex:none}
-.progress[hidden]{display:none}
-.progress-bar{height:100%;width:0;background:var(--md-primary);border-radius:0 2px 2px 0;transition:width .6s cubic-bezier(.2,0,0,1)}
+.cluster{margin-bottom:12px}
+.cluster-header{display:flex;align-items:center;justify-content:space-between;margin:8px 0 4px;min-height:32px}
+.cluster-title{font-size:12px;font-weight:500;letter-spacing:.5px;color:var(--md-on-surface-variant);text-transform:uppercase}
+.cluster-actions{display:flex;align-items:center;gap:4px}
+.icon-btn-sm{width:32px;height:32px;border:0;background:none;border-radius:50%;color:var(--md-on-surface-variant);display:grid;place-items:center;cursor:pointer;position:relative;overflow:hidden;padding:0;transition:background-color .15s ease,color .15s ease}
+.icon-btn-sm:hover{background:var(--md-surface-3);color:var(--md-on-surface)}
+.icon-btn-sm svg{width:18px;height:18px;fill:currentColor}
 .stage{position:relative;flex:1 1 20%;min-height:80px;background:#000;overflow:hidden}
 .menu-mode .stage{flex:1 1 48px;min-height:48px}
 #gl{width:100%;height:100%;display:block;image-rendering:pixelated}
