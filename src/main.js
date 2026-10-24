@@ -319,13 +319,13 @@ let snackT;
 function snack(msg) { const s = $('snack'); s.textContent = msg; s.classList.add('show'); clearTimeout(snackT); snackT = setTimeout(() => s.classList.remove('show'), 2200); }
 
 // ---------- state ----------
+const showCounts = {};
+for (const q of QUESTIONS) showCounts[q.show] = (showCounts[q.show] || 0) + 1;
 const showGroups = (() => {
-  const counts = {};
-  for (const q of QUESTIONS) counts[q.show] = (counts[q.show] || 0) + 1;
   const comedyShows = [];
   const sitcomShows = [];
   const standaloneShows = [];
-  for (const [show, count] of Object.entries(counts)) {
+  for (const [show, count] of Object.entries(showCounts)) {
     if (show.startsWith('Comedy · ') || show === 'Comedy Classics') {
       comedyShows.push(show);
     } else if (count < 10) {
@@ -340,6 +340,7 @@ const showGroups = (() => {
     ...standaloneShows.map((show) => ({ label: show, shows: [show] })),
   ];
   groups.sort((a, b) => a.label.localeCompare(b.label, undefined, { sensitivity: 'base' }));
+  for (const g of groups) g.count = g.shows.reduce((acc, s) => acc + (showCounts[s] || 0), 0);
   return groups;
 })();
 
@@ -443,7 +444,10 @@ function getClusters() {
   }
   const result = [];
   for (const [name, topics] of map.entries()) {
-    if (topics.length > 0) result.push({ name, topics });
+    if (topics.length > 0) {
+      const totalCount = topics.reduce((acc, t) => acc + (t.count || 0), 0);
+      result.push({ name, topics, totalCount });
+    }
   }
   return result;
 }
@@ -504,6 +508,12 @@ function renderMenu(keepScroll = false) {
   $('title').hidden = false;
   $('title').textContent = 'Find Your Car';
   $('pips').hidden = true;
+  const skyBadge = $('skyBadge');
+  if (skyBadge) {
+    skyBadge.hidden = false;
+    const activeQCount = showGroups.filter((g) => S.groups.has(g.label)).flatMap((g) => g.shows).reduce((acc, s) => acc + (showCounts[s] || 0), 0);
+    skyBadge.textContent = `${activeQCount.toLocaleString()} questions!`;
+  }
   const car = CARS[S.car];
   const prevScroll = keepScroll ? sheet.scrollTop : 0;
   sheet.innerHTML = `
@@ -526,7 +536,7 @@ function renderMenu(keepScroll = false) {
     ${getClusters().map((c) => `
       <div class="cluster">
         <div class="cluster-header">
-          <div class="cluster-title">${ESC(c.name)}</div>
+          <div class="cluster-title">${ESC(c.name)} <span class="cluster-count">(${c.totalCount.toLocaleString()} questions)</span></div>
           <div class="cluster-actions">
             <button class="icon-btn-sm" data-c-act="select" data-cluster="${ESC(c.name)}" aria-label="Select all ${ESC(c.name)}" title="Select all">${ICON.checkAll}</button>
             <button class="icon-btn-sm" data-c-act="deselect" data-cluster="${ESC(c.name)}" aria-label="Deselect all ${ESC(c.name)}" title="Deselect all">${ICON.uncheckAll}</button>
@@ -535,7 +545,7 @@ function renderMenu(keepScroll = false) {
         <div class="chips">${c.topics.map((g) => {
           const wins = topicWins.get(g.label);
           const badge = wins > 0 ? `<span class="badge" aria-label="${wins} wins">${wins}</span>` : '';
-          return `<button class="fchip ${S.groups.has(g.label) ? 'sel' : ''}" data-g="${ESC(g.label)}">${ESC(g.label)}${badge}</button>`;
+          return `<button class="fchip ${S.groups.has(g.label) ? 'sel' : ''}" data-g="${ESC(g.label)}">${ESC(g.label)} (${g.count.toLocaleString()} questions)${badge}</button>`;
         }).join('')}</div>
       </div>`).join('')}
     ${music.tracks.length ? `<div class="label">MUSIC</div>
@@ -623,6 +633,7 @@ sheet.addEventListener('click', (e) => {
 function startGame() {
   $('app').classList.remove('menu-mode');
   sheet.style.height = '';
+  if ($('skyBadge')) $('skyBadge').hidden = true;
   S.qs = pickQuestions(); S.qs.forEach((q) => S.seen.add(q.q)); S.i = 0; S.score = 0;
   S.history = Array(STEPS).fill(null);
   clearEffects(); lot.reset(); lot.mode = 'play';
@@ -687,6 +698,7 @@ window.addEventListener('resize', () => { if (lot?.mode === 'menu') renderMenu(t
 async function finish() {
   $('app').classList.remove('menu-mode');
   sheet.style.height = '';
+  if ($('skyBadge')) $('skyBadge').hidden = true;
   const win = S.score === STEPS;
   S.lastT = Date.now(); board.add({ name: S.name.trim() || 'Player', score: S.score, t: S.lastT });
   $('pips').hidden = true;
