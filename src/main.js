@@ -304,7 +304,7 @@ function showBoard(hiT) {
   const d = document.createElement('div'); d.className = 'scrim'; d.id = 'board';
   d.innerHTML = `<div class="dialog" role="dialog" aria-modal="true" aria-label="Leaderboard">
     <h2 class="dlg-title">Leaderboard</h2>
-    ${rows.length ? `<ol class="lb">${rows.map((r, i) => `<li class="${r.t === hiT ? 'me' : ''}"><span class="rk">${i + 1}</span><span class="nm">${ESC(r.name || 'Player')}${r.score === STEPS ? ' <span class="win">🏆</span>' : ''}<small>${ESC(fmtWhen(r.t))}</small></span><span class="sc">${r.score}/${STEPS}</span></li>`).join('')}</ol>` : '<p class="body">No scores yet. Finish a game to get on the board.</p>'}
+    ${rows.length ? `<ol class="lb">${rows.map((r, i) => `<li class="${r.t === hiT ? 'me' : ''}"><span class="rk">${i + 1}</span><span class="nm">${ESC(fmtWhen(r.t))}${r.score === STEPS ? ' <span class="win">🏆</span>' : ''}</span><span class="sc">${r.score}/${STEPS}</span></li>`).join('')}</ol>` : '<p class="body">No scores yet. Finish a game to get on the board.</p>'}
     <div class="dlg-actions">${rows.length ? '<button class="btn btn-text" id="lbClear">Clear</button>' : ''}<button class="btn btn-filled" id="lbClose">Close</button></div></div>`;
   d.addEventListener('click', (e) => {
     if (e.target === d || e.target.id === 'lbClose') closeBoard();
@@ -471,7 +471,6 @@ const topicWins = {
 };
 const savedGroups = store.get('groups', null);
 const S = {
-  name: store.get('name', ''),
   char: Math.min(store.get('char', 0), CHARACTERS.length - 1),
   car: Math.min(store.get('car', 0), CARS.length - 1),
   tex: store.get('tex', 0),
@@ -542,7 +541,6 @@ function renderMenu(keepScroll = false) {
   sheet.innerHTML = `
     <div class="cereal-bar">Now with ${formatK(QUESTIONS.length)} questions!</div>
     <p class="body">Ten questions. Every right answer gets you one step closer to your car. Get all ten and you're driving home.</p>
-    <label class="field"><input id="name" maxlength="16" placeholder=" " autocomplete="nickname" value="${ESC(S.name)}"><span>Your name (for the leaderboard)</span></label>
     <div class="picker-row">
       <div class="picker-col">
         <div class="label">YOU</div>
@@ -721,7 +719,6 @@ function nextQ() {
   if (S.i === STEPS - 1) return finish();
   S.i++; renderQ();
 }
-document.addEventListener('input', (e) => { if (e.target.id === 'name') { S.name = e.target.value; store.set('name', S.name); } });
 let fx;
 window.addEventListener('resize', () => { if (lot?.mode === 'menu') renderMenu(true); });
 async function finish() {
@@ -729,7 +726,7 @@ async function finish() {
   sheet.style.height = '';
   if ($('skyBadge')) $('skyBadge').hidden = true;
   const win = S.score === STEPS;
-  S.lastT = Date.now(); board.add({ name: S.name.trim() || 'Player', score: S.score, t: S.lastT });
+  S.lastT = Date.now(); board.add({ score: S.score, t: S.lastT });
   $('pips').hidden = true;
   $('title').hidden = false;
   sheet.innerHTML = '';
@@ -770,7 +767,7 @@ async function finish() {
   const demo = /demo=(\d+)/.exec(location.hash);
   if (demo) { lot.snap = true; startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; S.history[i] = true; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } else if (/fail/.test(location.hash)) finish(); }
   if (/ans/.test(location.hash)) answer(0);
-  if (/board/.test(location.hash)) { for (const sc of [10, 7, 3]) board.add({ name: 'Test ' + sc, score: sc, t: Date.now() - sc * 3.6e6 }); showBoard(); }
+  if (/board/.test(location.hash)) { for (const sc of [10, 7, 3]) board.add({ score: sc, t: Date.now() - sc * 3.6e6 }); showBoard(); }
   await wait(300);
   $('loading').classList.add('done');
 })();
