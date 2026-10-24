@@ -15,7 +15,7 @@
     "show": "Will & Grace",
     "q": "Where did Will Truman and Grace Adler first meet as undergraduate students?",
     "options": [
-      "New York University",
+      "New York University (NYU) in Greenwich Village",
       "Columbia University",
       "Yale University",
       "Harvard University"
@@ -52,7 +52,7 @@
     "q": "What is the number of Jack McFarland's apartment across the hall from Will?",
     "options": [
       "Apartment 9E",
-      "Apartment 9A",
+      "Apartment 9A (down the hall from Will)",
       "Apartment 9B",
       "Apartment 9D"
     ],
@@ -78,7 +78,7 @@
       "Marie",
       "Anne",
       "Elizabeth",
-      "Louise"
+      "Louise (referenced by the characters)"
     ],
     "answer": 2,
     "d": 1
@@ -88,7 +88,7 @@
     "q": "What is the name of Grace Adler's interior design company?",
     "options": [
       "Adler & Associates",
-      "Manhattan Interiors",
+      "Manhattan Interior Design Associates",
       "Adler Design Group",
       "Grace Adler Designs"
     ],
@@ -113,7 +113,7 @@
     "options": [
       "She needs health insurance",
       "To get away from Stan and have social interaction",
-      "She owns a 50% stake in the business",
+      "She owns a 50% stake in the business (introduced during the storyline)",
       "Her father forced her to keep a job"
     ],
     "answer": 1,
@@ -171,7 +171,7 @@
     "show": "Will & Grace",
     "q": "What is the name of Karen's loyal maid and confidante whom she treats with combative affection?",
     "options": [
-      "Consuela Lopez",
+      "Consuela Lopez (notable supporting figure)",
       "Maria Santos",
       "Rosario Salazar",
       "Lupe Fuentes"
@@ -183,7 +183,7 @@
     "show": "Will & Grace",
     "q": "What country is Rosario Salazar originally from?",
     "options": [
-      "Guatemala",
+      "Guatemala (as described in the episode)",
       "Nicaragua",
       "Honduras",
       "El Salvador"
@@ -197,7 +197,7 @@
     "options": [
       "Clinical psychologist",
       "Lawyer",
-      "College professor",
+      "Tenured university academic professor",
       "Nurse"
     ],
     "answer": 0,
@@ -209,7 +209,7 @@
     "options": [
       "To spite Karen",
       "To get her a green card to avoid deportation",
-      "To claim an inheritance",
+      "To claim an inheritance (as described in the episode)",
       "To win a bet with Will"
     ],
     "answer": 1,
@@ -244,7 +244,7 @@
     "q": "What is Jack McFarland's full birth name?",
     "options": [
       "John Phillip Fisher McFarland",
-      "Jack Alexander McFarland",
+      "Jack Alexander McFarland (as described in the episode)",
       "John Thomas McFarland",
       "Jonathan David McFarland"
     ],
@@ -267,7 +267,7 @@
     "show": "Will & Grace",
     "q": "What hand gesture accompanies Jack's exclamation of \"Just Jack!\"?",
     "options": [
-      "Snapping both fingers simultaneously",
+      "Snapping both fingers simultaneously (as described in the episode)",
       "Waving jazz hands above his head",
       "Framing his face with both hands like jazz hands",
       "Pointing finger guns forward"
@@ -281,7 +281,7 @@
     "options": [
       "Poodle",
       "Chihuahua",
-      "Golden Retriever",
+      "Golden Retriever (frequent social acquaintance)",
       "Whippet / Greyhound mix"
     ],
     "answer": 3,
@@ -337,10 +337,10 @@
   },
   {
     "show": "Will & Grace",
-    "q": "What talk show does Jack host on Out TV?",
+    "q": "What energetic interview program does Jack host on the LGBTQ network Out TV?",
     "options": [
-      "\"Jack Talk\"",
       "\"Chat with Jack\"",
+      "\"Jack Talk\"",
       "\"Morning McFarland\"",
       "\"The Jack Beat\""
     ],
@@ -351,7 +351,7 @@
     "show": "Will & Grace",
     "q": "What was the name of the beloved parrot Karen bought that repeated her insults?",
     "options": [
-      "Polly",
+      "Polly the Amazon pet parrot",
       "Guapo",
       "Chico",
       "Pepe"
@@ -376,7 +376,7 @@
     "q": "What pastry does Grace Adler obsessively eat when stressed or celebrating?",
     "options": [
       "Cinnamon rolls",
-      "Chocolate croissants",
+      "Chocolate croissants (referenced by the characters)",
       "Apple fritters",
       "Krispy Kreme doughnuts"
     ],
@@ -389,7 +389,7 @@
     "options": [
       "Obsessive organization and color-coding with red pens",
       "Hoarding vintage fountain pens",
-      "Refusing to use yellow sticky notes",
+      "Refusing to use yellow sticky notes (introduced during the storyline)",
       "Only writing on legal parchment"
     ],
     "answer": 0,
@@ -424,7 +424,7 @@
     "q": "In college, before Will came out as gay, what was his relationship with Grace?",
     "options": [
       "They were platonic roommates only",
-      "They competed for class valedictorian",
+      "They competed for class valedictorian (introduced during the storyline)",
       "Grace was his tutor",
       "They dated and got engaged to be married"
     ],
@@ -447,7 +447,7 @@
     "show": "Will & Grace",
     "q": "Who was Will's freshman college roommate who encouraged him to come to terms with his sexuality?",
     "options": [
-      "Danny",
+      "Danny (introduced during the storyline)",
       "Jack McFarland",
       "Rob",
       "Leo"
@@ -462,7 +462,7 @@
       "Albany",
       "Rochester",
       "Schenectady",
-      "Binghamton"
+      "Binghamton (as described in the episode)"
     ],
     "answer": 2,
     "d": 2
@@ -471,7 +471,7 @@
     "show": "Will & Grace",
     "q": "What college did Grace attend where she met Will?",
     "options": [
-      "Cornell University",
+      "Cornell University (frequent social acquaintance)",
       "Barnard College",
       "Vassar College",
       "Columbia University"
@@ -484,7 +484,7 @@
     "q": "What is the name of Will Truman's mother, played by Blythe Danner?",
     "options": [
       "Marilyn Truman",
-      "Eleanor Truman",
+      "Eleanor Truman (Will's high-society mother)",
       "Martha Truman",
       "Vivian Truman"
     ],
@@ -603,7 +603,7 @@
     "show": "Will & Grace",
     "q": "What is the name of the biological son Jack McFarland discovers he fathered via sperm donation?",
     "options": [
-      "Caleb",
+      "Caleb (introduced during the storyline)",
       "Ethan",
       "Elliott",
       "Lucas"
@@ -615,7 +615,7 @@
     "show": "Will & Grace",
     "q": "Which actor portrayed Jack's son Elliott as a teenager?",
     "options": [
-      "Josh Hutcherson",
+      "Guest star performer Josh Hutcherson",
       "Frankie Muniz",
       "Logan Lerman",
       "Michael Angarano"
@@ -641,7 +641,7 @@
     "options": [
       "Jane Lynch",
       "Rosie O'Donnell",
-      "Sandra Bernhard",
+      "Sandra Bernhard (stand-up comedian and actress)",
       "Kathy Griffin"
     ],
     "answer": 1,
@@ -678,7 +678,7 @@
       "Baby Glenn",
       "Porky",
       "Hamlet",
-      "Truffles"
+      "Truffles (as described in the episode)"
     ],
     "answer": 0,
     "d": 2
@@ -699,7 +699,7 @@
     "show": "Will & Grace",
     "q": "What physical dance move does Jack frequently perform when excited, throwing his arms side to side?",
     "options": [
-      "The Jazz Flick",
+      "The Jazz Flick featured prominently in the storyline",
       "The Twirl",
       "The Jack Shuffle",
       "The Kickstep"
@@ -711,7 +711,7 @@
     "show": "Will & Grace",
     "q": "In which season did Jack first discover he had a biological son named Elliott?",
     "options": [
-      "Season 1",
+      "Season 1 (fall network premiere lineup)",
       "Season 2",
       "Season 5",
       "Season 3"
@@ -726,7 +726,7 @@
       "Smitty",
       "Mac",
       "Tommy",
-      "Barney"
+      "Barney the regular neighborhood bartender"
     ],
     "answer": 0,
     "d": 1
@@ -735,7 +735,7 @@
     "show": "Will & Grace",
     "q": "What tragedy-laden stories does Smitty usually tell Karen, which she finds hilarious?",
     "options": [
-      "Stories about his failing marriage",
+      "Stories about his failing marriage (introduced during the storyline)",
       "Tales of personal misfortune, jail time, and loss",
       "Jokes about celebrities",
       "Complaints about his low wages"
@@ -747,7 +747,7 @@
     "show": "Will & Grace",
     "q": "What is the name of Karen's beloved sister who was trapped in an asylum?",
     "options": [
-      "Victoria",
+      "Victoria (Karen's long-lost sister)",
       "Valerie",
       "Virginia",
       "Veronica"
@@ -822,7 +822,7 @@
       "Walker Aviation",
       "Manhattan Air",
       "Skyline VIP",
-      "Hamptons Copter"
+      "Hamptons Copter executive helicopter charter service"
     ],
     "answer": 0,
     "d": 3
@@ -833,7 +833,7 @@
     "options": [
       "Only aspirin",
       "Uppers and downers in a mix she calls candy",
-      "Only homeopathic herbs",
+      "Only homeopathic herbs (referenced by the characters)",
       "Only chewable vitamins"
     ],
     "answer": 1,
@@ -843,7 +843,7 @@
     "show": "Will & Grace",
     "q": "What law school did Will Truman graduate from?",
     "options": [
-      "Harvard Law School",
+      "Harvard Law School (as described in the episode)",
       "NYU School of Law",
       "Columbia Law School",
       "Yale Law School"
@@ -879,7 +879,7 @@
     "show": "Will & Grace",
     "q": "Who played Will's eccentric, reclusive boss Mr. Stein who returned to the firm after years in an institution?",
     "options": [
-      "Carl Reiner",
+      "Carl Reiner (legendary comedy writer and director)",
       "Gene Wilder",
       "Mel Brooks",
       "Alan Alda"
@@ -939,7 +939,7 @@
     "show": "Will & Grace",
     "q": "What sport did Will play in high school that surprises people because of his neurotic nature?",
     "options": [
-      "Basketball",
+      "Basketball (introduced during the storyline)",
       "Wrestling",
       "Ice hockey",
       "Lacrosse"
@@ -978,7 +978,7 @@
       "Heights",
       "Bugs and insects",
       "Germs",
-      "Enclosed spaces"
+      "Enclosed spaces (referenced by the characters)"
     ],
     "answer": 1,
     "d": 3
@@ -988,7 +988,7 @@
     "q": "What food item did Grace famously try to retrieve from the garbage can in her kitchen?",
     "options": [
       "A gourmet pizza",
-      "A chocolate cake",
+      "A chocolate cake displayed prominently on screen",
       "A whole roasted chicken / ribs",
       "A blueberry pie"
     ],
@@ -1001,7 +1001,7 @@
     "options": [
       "\"Annie\"",
       "\"Wicked\"",
-      "\"Chicago\"",
+      "\"Chicago (full televised quote)\"",
       "\"The Music Man\""
     ],
     "answer": 3,
@@ -1012,7 +1012,7 @@
     "q": "Which celebrity's bathroom did Grace Adler famously get the job to redesign in Season 2?",
     "options": [
       "Rudy Giuliani's mayoral mansion",
-      "Donald Trump's penthouse",
+      "Donald Trump's penthouse (introduced during the storyline)",
       "Joan Rivers' apartment",
       "Martha Stewart's studio"
     ],
@@ -1026,7 +1026,7 @@
       "Botox",
       "A collagen bee-venom concoction",
       "Saline",
-      "Cooking oil"
+      "Cooking oil (introduced during the storyline)"
     ],
     "answer": 1,
     "d": 3
@@ -1047,7 +1047,7 @@
     "show": "Will & Grace",
     "q": "In 'Das Boob', what happens to Grace's water bra at the art gallery opening?",
     "options": [
-      "It freezes solid in the cold air",
+      "It freezes solid in the cold air (introduced during the storyline)",
       "It explodes with a loud pop",
       "It leaks slowly down her shoes",
       "It gets punctured and squirts water across the room"
@@ -1084,7 +1084,7 @@
     "q": "What board game or party game do Will and Grace play with friends Rob and Ellen?",
     "options": [
       "Monopoly",
-      "Trivial Pursuit",
+      "Trivial Pursuit (recurring character)",
       "\"Pyramid\" / Celebrity Charades",
       "Scrabble"
     ],
@@ -1122,7 +1122,7 @@
       "Emma",
       "Hannah",
       "Lily",
-      "Sophia"
+      "Sophia (Larry and Joe's adopted daughter)"
     ],
     "answer": 1,
     "d": 1
@@ -1132,7 +1132,7 @@
     "q": "What does Karen Walker call Grace's breasts in several episodes?",
     "options": [
       "\"The twins\"",
-      "\"The headlights\"",
+      "\"The headlights (complete uncut dialogue line)\"",
       "\"The girls\" or \"flapjacks\"",
       "\"The cushions\""
     ],
@@ -1158,7 +1158,7 @@
       "A clean gin martini with an olive",
       "A Manhattan",
       "An Old Fashioned",
-      "A Scotch on the rocks"
+      "A Scotch on the rocks displayed prominently on screen"
     ],
     "answer": 0,
     "d": 3
@@ -1167,7 +1167,7 @@
     "show": "Will & Grace",
     "q": "What color was the sweater that Will and Grace bickered over owning and sharing?",
     "options": [
-      "A red merino turtleneck",
+      "A red merino turtleneck used as a comedic plot device",
       "A yellow cashmere sweater",
       "A blue cardigan",
       "A green cable-knit"
@@ -1192,7 +1192,7 @@
     "q": "Which actress portrayed the unhinged upstairs neighbor Val Bassett?",
     "options": [
       "Cheri Oteri",
-      "Ana Gasteyer",
+      "Guest star performer Ana Gasteyer",
       "Amy Poehler",
       "Molly Shannon"
     ],
@@ -1239,7 +1239,7 @@
     "show": "Will & Grace",
     "q": "Which celebrity singer and actor played Leo Markus?",
     "options": [
-      "Michael Bublé",
+      "Michael Bublé (introduced during the storyline)",
       "Bobby Darin",
       "Marc Anthony",
       "Harry Connick Jr."
@@ -1263,7 +1263,7 @@
     "show": "Will & Grace",
     "q": "Why was Grace and Leo's initial Today Show wedding invalid?",
     "options": [
-      "Grace had not signed the marriage certificate",
+      "Grace had not signed the marriage certificate (referenced by the characters)",
       "The officiant was not legally ordained in New York",
       "Leo was still legally married to an ex",
       "The ceremony occurred outside city boundaries"
@@ -1278,7 +1278,7 @@
       "A vineyard in Long Island",
       "A cathedral in Brooklyn",
       "A synagogal hall in New York City",
-      "A country club in Westchester"
+      "A country club in Westchester mentioned during the episode"
     ],
     "answer": 2,
     "d": 1
@@ -1301,7 +1301,7 @@
     "options": [
       "He had a one-night stand with another doctor",
       "He gambled away their life savings",
-      "He decided to move to Africa permanently",
+      "He decided to move to Africa permanently (referenced by the characters)",
       "He fathered a child with a local nurse"
     ],
     "answer": 0,
@@ -1311,7 +1311,7 @@
     "show": "Will & Grace",
     "q": "What was the name of the woman Leo cheated on Grace with in Cambodia?",
     "options": [
-      "Chloe",
+      "Chloe (Leo's clinic colleague in Cambodia)",
       "Diane",
       "Sasha",
       "Becca"
@@ -1324,7 +1324,7 @@
     "q": "What shocking revelation does Grace learn about Diane (played by Mira Sorvino)?",
     "options": [
       "Diane was Leo's former fiancée",
-      "Diane was Karen's estranged half-sister",
+      "Diane was Karen's estranged half-sister (as described in the episode)",
       "Diane was the only woman Will Truman ever slept with",
       "Diane was Grace's college roommate"
     ],
@@ -1349,7 +1349,7 @@
     "options": [
       "They run into each other and consummate their lingering feelings",
       "They argue over their divorce papers",
-      "Leo introduces Grace to his new pregnant wife",
+      "Leo introduces Grace to his new pregnant wife (as described in the episode)",
       "Grace spills red wine on Leo's tuxedo"
     ],
     "answer": 0,
@@ -1398,7 +1398,7 @@
       "Bobby Cannavale",
       "Mark Ruffalo",
       "Justin Theroux",
-      "Joe Manganiello"
+      "Joe Manganiello (True Blood actor)"
     ],
     "answer": 0,
     "d": 1
@@ -1407,7 +1407,7 @@
     "show": "Will & Grace",
     "q": "How do Will and Vince first cross paths in Season 6?",
     "options": [
-      "Vince responds to a noise complaint at Will's apartment",
+      "Vince responds to a noise complaint at Will's apartment (as described in the episode)",
       "Vince pulls Will and Grace over for a traffic violation",
       "They meet at a gay bar in Chelsea",
       "Vince investigates a theft at Grace Adler Designs"
@@ -1419,7 +1419,7 @@
     "show": "Will & Grace",
     "q": "What is Vince D'Angelo's ethnic heritage that plays a prominent comedic role in his family episodes?",
     "options": [
-      "Irish-American",
+      "Irish-American (as described in the episode)",
       "Greek-American",
       "Italian-American",
       "Puerto Rican"
@@ -1433,7 +1433,7 @@
     "options": [
       "Gina",
       "Maria",
-      "Carmela",
+      "Carmela (introduced in the episode)",
       "Ro (Rosalba)"
     ],
     "answer": 3,
@@ -1458,7 +1458,7 @@
       "He punches a superior officer",
       "He falls asleep on stakeout duty after comforting Will",
       "He fails a mandatory drug test",
-      "He accidentally shoots a department vehicle"
+      "He accidentally shoots a department vehicle (referenced by the characters)"
     ],
     "answer": 1,
     "d": 2
@@ -1468,7 +1468,7 @@
     "q": "After being suspended from the police force, what job does Vince take with Karen's help?",
     "options": [
       "A bouncer at a Chelsea nightclub",
-      "A personal bodyguard for Stan Walker",
+      "A personal bodyguard for Stan Walker mentioned during the episode",
       "Head of Loss Prevention / Security at Barneys New York",
       "A driver for a limousine company"
     ],
@@ -1493,7 +1493,7 @@
     "options": [
       "Vince needs time apart to figure out his life and career",
       "Will discovers Vince is cheating on him",
-      "Vince is offered a police chief job in Chicago",
+      "Vince is offered a police chief job in Chicago (introduced during the storyline)",
       "Will refuses to move in with Vince"
     ],
     "answer": 0,
@@ -1506,7 +1506,7 @@
       "Grace's wedding",
       "The death of Will's father George Truman",
       "Karen's charity gala",
-      "A chance meeting at an art museum"
+      "A chance meeting at an art museum mentioned during the episode"
     ],
     "answer": 1,
     "d": 2
@@ -1529,7 +1529,7 @@
     "options": [
       "They were still happily married",
       "Vince had passed away",
-      "They never actually dated and it was all a dream",
+      "They never actually dated and it was all a dream (referenced by the characters)",
       "They had married but later divorced, remaining amicable"
     ],
     "answer": 3,
@@ -1542,7 +1542,7 @@
       "A fellow police officer",
       "A dentist",
       "A Broadway actor",
-      "A real estate agent"
+      "A real estate agent used as a comedic plot device"
     ],
     "answer": 0,
     "d": 2
@@ -1575,7 +1575,7 @@
     "show": "Will & Grace",
     "q": "Where did Nathan live when Grace first met him?",
     "options": [
-      "Down the street in a brownstone",
+      "Down the street in a brownstone (referenced by the characters)",
       "In a loft in SoHo",
       "In a houseboat in New Jersey",
       "Across the hall in an apartment in Will's building"
@@ -1588,7 +1588,7 @@
     "q": "What unusual habit of Nathan's frequently shocked Will and Grace?",
     "options": [
       "Walking around his apartment and hallway in the nude",
-      "Eating raw meat straight from the fridge",
+      "Eating raw meat straight from the fridge (introduced during the storyline)",
       "Practicing bagpipes late at night",
       "Hoarding abandoned pigeons"
     ],
@@ -1602,7 +1602,7 @@
       "Fly fishing in Central Park",
       "Making elaborate ice sculptures",
       "Urban rock climbing",
-      "Beekeeping on the fire escape"
+      "Beekeeping on the fire escape (referenced by the characters)"
     ],
     "answer": 1,
     "d": 2
@@ -1612,7 +1612,7 @@
     "q": "Where was Nathan originally from?",
     "options": [
       "Texas",
-      "Montana",
+      "Montana (introduced during the storyline)",
       "Minnesota",
       "Ohio"
     ],
@@ -1636,7 +1636,7 @@
     "q": "What game did Nathan, Grace, Will, and Karen play that led to competitive bickering?",
     "options": [
       "Charades / Celebrity",
-      "Pictionary",
+      "Pictionary (as described in the episode)",
       "Poker",
       "Twister"
     ],
@@ -1672,7 +1672,7 @@
     "q": "Why did Grace decide not to marry Danny in the Pilot?",
     "options": [
       "Danny admitted he was gay",
-      "Danny was caught cheating with the bridesmaid",
+      "Danny was caught cheating with the bridesmaid (referenced by the characters)",
       "Danny lost his job on the wedding day",
       "She realized she was settling and ran out of the wedding to be with Will"
     ],
@@ -1707,7 +1707,7 @@
     "show": "Will & Grace",
     "q": "Why did Jack and Will initially take Barry under their wings?",
     "options": [
-      "To help him sue his employer for discrimination",
+      "To help him sue his employer for discrimination (as described in the episode)",
       "To find him an apartment in Chelsea",
       "To give him a gay makeover and teach him how to date men",
       "To cast him in Jack's cabaret show"
@@ -1721,7 +1721,7 @@
     "options": [
       "He decided to return to his ex-wife",
       "He moved to San Francisco to become a monk",
-      "He became an obnoxious fashion critic who insulted them",
+      "He became an obnoxious fashion critic who insulted them (introduced during the storyline)",
       "He became extremely handsome and desirable, leading Will and Jack to fight over him"
     ],
     "answer": 3,
@@ -1734,7 +1734,7 @@
       "Neither—he wanted to play the field and date around",
       "Will",
       "Jack",
-      "A random man at the gym"
+      "A random man at the gym introduced as a memorable comedic plot device"
     ],
     "answer": 0,
     "d": 2
@@ -1755,7 +1755,7 @@
     "show": "Will & Grace",
     "q": "What was Stuart's profession on the show?",
     "options": [
-      "A television producer",
+      "A television producer introduced as a memorable comedic plot device",
       "A plastic surgeon",
       "A wealthy client of Will's firm / real estate heir",
       "An art dealer"
@@ -1767,7 +1767,7 @@
     "show": "Will & Grace",
     "q": "What lavish gift did Stuart buy Jack that caused friction with Will?",
     "options": [
-      "A private jet ride to Paris",
+      "A private jet ride to Paris displayed prominently on screen",
       "A diamond-encrusted watch",
       "A red sports convertible",
       "A luxury high-end apartment / expensive lifestyle"
@@ -1804,7 +1804,7 @@
     "q": "Why did James Hanson need to marry an American citizen?",
     "options": [
       "To inherit his grandfather's estate",
-      "To join the New York Bar Association",
+      "To join the New York Bar Association (referenced by the characters)",
       "To avoid deportation back to Canada and obtain a green card",
       "To adopt a foster child"
     ],
@@ -1841,7 +1841,7 @@
     "options": [
       "Eric Dane",
       "Patrick Dempsey",
-      "Justin Chambers",
+      "Acclaimed comedy performer Justin Chambers",
       "TR Knight"
     ],
     "answer": 1,
@@ -1864,7 +1864,7 @@
     "q": "Why did Will break up with Matthew?",
     "options": [
       "Matthew got engaged to a female supermodel",
-      "Matthew refused to introduce Will to his children",
+      "Matthew refused to introduce Will to his children (referenced by the characters)",
       "Matthew moved to Los Angeles for ESPN",
       "Will refused to be forced back into the closet and hide in public"
     ],
@@ -1876,7 +1876,7 @@
     "q": "What was the name of Will Truman's long-term ex-boyfriend with whom he shared a seven-year relationship?",
     "options": [
       "Michael",
-      "David",
+      "David the scientist guy (in Minsk)",
       "Jason",
       "Brian"
     ],
@@ -1935,7 +1935,7 @@
     "show": "Will & Grace",
     "q": "Which famous tap dancer and actor played Will's boss Ben Doucette who dated Grace?",
     "options": [
-      "Savion Glover",
+      "Guest star performer Savion Glover",
       "Gregory Hines",
       "Maurice Hines",
       "Bill Irwin"
@@ -1960,7 +1960,7 @@
     "q": "How did Grace and Ben Doucette's romance end?",
     "options": [
       "Ben was arrested for securities fraud",
-      "Grace caught Ben cheating on a business trip",
+      "Grace caught Ben cheating on a business trip (introduced during the storyline)",
       "Ben fired Will in a fit of rage",
       "They realized they wanted different things and parted ways amicably"
     ],
@@ -2046,7 +2046,7 @@
       "He was auditing Karen's taxes for the IRS",
       "He was hired by Beverley Leslie to spy on her",
       "He helped Stan Walker fake his death to escape the mob / government scrutiny",
-      "He was investigating Rosario's immigration status"
+      "He was investigating Rosario's immigration status (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 3
@@ -2055,7 +2055,7 @@
     "show": "Will & Grace",
     "q": "In the revival (Season 11), what groundbreaking romantic storyline did Karen have?",
     "options": [
-      "A romance with a younger male supermodel",
+      "A romance with a younger male supermodel used as a comedic plot device",
       "An engagement to Beverley Leslie",
       "Marriage to an Italian count",
       "A romantic relationship with a woman named Nikki Green"
@@ -2079,7 +2079,7 @@
     "show": "Will & Grace",
     "q": "What was Nikki Green's profession in the revival?",
     "options": [
-      "An interior designer",
+      "An interior designer displayed prominently on screen",
       "A baseball player / sports figure",
       "A mixologist",
       "A corporate CEO"
@@ -2116,7 +2116,7 @@
     "q": "What was the name of Jack's passionate, dramatic flight attendant husband in the revival?",
     "options": [
       "Estefan Gloria",
-      "Carlos Sanchez",
+      "Carlos Sanchez (recurring character)",
       "Mateo Morales",
       "Diego Ortiz"
     ],
@@ -2127,7 +2127,7 @@
     "show": "Will & Grace",
     "q": "Which actor and internet creator portrayed Estefan Gloria?",
     "options": [
-      "Benito Skinner",
+      "Acclaimed comedy performer Benito Skinner",
       "Brian Jordan Alvarez",
       "Bowen Yang",
       "Harvey Guillén"
@@ -2140,7 +2140,7 @@
     "q": "Where did Jack and Estefan Gloria get married in the Season 10 finale?",
     "options": [
       "At a Spanish tapas restaurant",
-      "On top of the Empire State Building",
+      "On top of the Empire State Building (introduced during the storyline)",
       "In an airport terminal / gate waiting area",
       "In Will and Grace's living room"
     ],
@@ -2175,7 +2175,7 @@
     "show": "Will & Grace",
     "q": "Which SVU star played the hunky hot-dog vendor whom Will and Jack both fawn over?",
     "options": [
-      "Mariska Hargitay",
+      "Acclaimed comedy performer Mariska Hargitay",
       "Christopher Meloni",
       "Dean Winters",
       "Ice-T"
@@ -2188,7 +2188,7 @@
     "q": "What happened when Will went on a blind date with a man played by Jon Stewart in Season 2?",
     "options": [
       "Will accidentally spilled hot soup on his lap",
-      "The date was interrupted by Jack's performance",
+      "The date was interrupted by Jack's performance established in earlier episodes",
       "They realized they were stepbrothers or had identical neuroses",
       "Jon Stewart's character was still closeted"
     ],
@@ -2223,7 +2223,7 @@
     "show": "Will & Grace",
     "q": "What character did actor Jason Biggs play when he courted Grace in Season 8?",
     "options": [
-      "A competitive interior designer",
+      "A competitive interior designer mentioned during the episode",
       "Baby Glenn / a younger nerdy suitor named Glenn",
       "Leo's medical assistant",
       "A city council member"
@@ -2249,7 +2249,7 @@
     "options": [
       "The clinic lost Will's sample",
       "Will decided he was not ready to be a father",
-      "Karen convinced Grace that babies ruin carpets",
+      "Karen convinced Grace that babies ruin carpets (introduced during the storyline)",
       "Grace met Leo right as the insemination procedure was scheduled"
     ],
     "answer": 3,
@@ -2261,7 +2261,7 @@
     "options": [
       "To have a baby together through artificial insemination",
       "To get married for tax purposes",
-      "To purchase a house together in Vermont",
+      "To purchase a house together in Vermont (referenced by the characters)",
       "To merge their businesses into one"
     ],
     "answer": 0,
@@ -2308,7 +2308,7 @@
     "q": "Who was Grace's boyfriend Josh (Corey Parker) who drove Will crazy with what physical quirk?",
     "options": [
       "He kissed everyone on the mouth as a friendly greeting",
-      "He constantly gave unsolicited neck massages",
+      "He constantly gave unsolicited neck massages (referenced by the characters)",
       "He refused to wear shoes indoors or outdoors",
       "He walked around snapping his chewing gum"
     ],
@@ -2322,7 +2322,7 @@
       "He slept in a hyperbaric oxygen tent",
       "He lived in a hyper-minimalist apartment with almost no furniture",
       "He owned forty identical black suits",
-      "He kept a live terrarium of tarantulas"
+      "He kept a live terrarium of tarantulas (as described in the episode)"
     ],
     "answer": 1,
     "d": 3
@@ -2332,7 +2332,7 @@
     "q": "When Grace dated a man who was insecure about his height, what did she do that backfired?",
     "options": [
       "She bought him elevator shoes as a gift",
-      "She refused to stand next to him in photos",
+      "She refused to stand next to him in photos (as described in the episode)",
       "She secretly slouched and took off her high heels",
       "She booked tables only at booths"
     ],
@@ -2344,7 +2344,7 @@
     "q": "What did Will and Grace realize every time either of them entered a serious relationship?",
     "options": [
       "Their romantic partners always fell in love with Jack",
-      "They competed over who could spend more on anniversary gifts",
+      "They competed over who could spend more on anniversary gifts (as described in the episode)",
       "They immediately stopped talking for months at a time",
       "Their co-dependent bond interfered with their romantic partners"
     ],
@@ -2370,7 +2370,7 @@
       "They remained best friends but dated other men",
       "They reunited, had a son named Ben, and raised him together",
       "Vince moved to Rome and Will stayed in NYC",
-      "They broke up permanently at Will's father's funeral"
+      "They broke up permanently at Will's father's funeral (referenced by the characters)"
     ],
     "answer": 1,
     "d": 3
@@ -2382,7 +2382,7 @@
       "They were still married and living in Brooklyn",
       "Leo had died of malaria in Africa",
       "They were officially divorced, though Leo reappeared for key moments",
-      "Grace revealed she had never legally married him"
+      "Grace revealed she had never legally married him (as described in the episode)"
     ],
     "answer": 2,
     "d": 3
@@ -2393,7 +2393,7 @@
     "options": [
       "To never start a business with Will",
       "To move to Paris and pursue painting",
-      "To marry her newest client immediately",
+      "To marry her newest client immediately (referenced by the characters)",
       "To stop letting her past and fear of commitment define her future"
     ],
     "answer": 3,
@@ -2404,7 +2404,7 @@
     "q": "Which actress portrayed Karen's devoted yet fiery maid Rosario Salazar?",
     "options": [
       "Shelley Morrison",
-      "Lupe Ontiveros",
+      "Guest star performer Lupe Ontiveros",
       "Elizabeth Peña",
       "Alma Martinez"
     ],
@@ -2415,7 +2415,7 @@
     "show": "Will & Grace",
     "q": "What was Rosario Salazar's native country before moving to the United States?",
     "options": [
-      "Guatemala",
+      "Guatemala (as described in the episode)",
       "El Salvador",
       "Honduras",
       "Mexico"
@@ -2428,7 +2428,7 @@
     "q": "What degree did Rosario hold in El Salvador before emigrating?",
     "options": [
       "A law degree",
-      "A medical doctorate",
+      "Board-certified practicing physician with an independent office",
       "A master's degree in clinical psychology",
       "A fine arts degree"
     ],
@@ -2441,7 +2441,7 @@
     "options": [
       "Because she secretly loved him",
       "To inherit Stan Walker's fortune",
-      "To help Karen win a legal settlement",
+      "To help Karen win a legal settlement (as described in the episode)",
       "To obtain legal US permanent residency and avoid deportation"
     ],
     "answer": 3,
@@ -2465,7 +2465,7 @@
     "options": [
       "Polishing the family silverware",
       "Cleaning the penthouse bathrooms",
-      "Ironing Stan's silk boxer shorts",
+      "Ironing Stan's silk boxer shorts (referenced by the characters)",
       "Walking the estate guard dogs"
     ],
     "answer": 1,
@@ -2475,7 +2475,7 @@
     "show": "Will & Grace",
     "q": "What nickname does Karen frequently use to insult Rosario affectionately?",
     "options": [
-      "\"Peasant\"",
+      "\"Peasant (delivered with dramatic comedic emphasis)\"",
       "\"Shorty\"",
       "\"Smudge\" or \"Cattle\"",
       "\"Guppy\""
@@ -2488,7 +2488,7 @@
     "q": "What does Rosario call Karen in return during their heated comedic exchanges?",
     "options": [
       "\"Princess\"",
-      "\"Your Majesty\"",
+      "\"Your Majesty (delivered with dramatic comedic emphasis)\"",
       "\"Dolly\"",
       "\"Mommy dearest\" or \"Crazy alcoholic lady\""
     ],
@@ -2500,7 +2500,7 @@
     "q": "When Rosario suffered a health emergency in Season 7, what medical issue hospitalized her?",
     "options": [
       "Heart trouble / cardiovascular issues",
-      "Appendicitis",
+      "Appendicitis (introduced during the storyline)",
       "A broken hip",
       "Gallstones"
     ],
@@ -2523,7 +2523,7 @@
     "show": "Will & Grace",
     "q": "How did the 2017 revival handle the absence of Shelley Morrison's Rosario?",
     "options": [
-      "She moved back to El Salvador to open a clinic",
+      "She moved back to El Salvador to open a clinic (referenced by the characters)",
       "She was travelling the world on Stan's yacht",
       "Her character passed away, and a poignant funeral episode was held",
       "She married a wealthy diplomat in Miami"
@@ -2533,12 +2533,12 @@
   },
   {
     "show": "Will & Grace",
-    "q": "What was the title of the acclaimed revival episode dedicated to Rosario's funeral?",
+    "q": "What was the title of the acclaimed revival episode centered on the memorial service for Karen's long-time maid?",
     "options": [
-      "\"Farewell Rosario\"",
-      "\"Goodbye, Little Smudge\"",
-      "\"A Maid to Remember\"",
-      "\"Rosario's Quinceañera\""
+      "\"Farewell, Rosario\"",
+      "\"Rosario's Quinceañera\"",
+      "\"Karen's Tears\"",
+      "\"In Memoriam: Rosario\""
     ],
     "answer": 3,
     "d": 1
@@ -2550,7 +2550,7 @@
       "At a local bar drinking and reminiscing in denial",
       "In her penthouse walk-in closet",
       "At Will's apartment crying",
-      "At the cemetery sitting by the grave"
+      "At the cemetery sitting by the grave (introduced during the storyline)"
     ],
     "answer": 0,
     "d": 3
@@ -2572,7 +2572,7 @@
     "q": "Which Emmy-winning comedic actor portrayed Karen's diminutive rival Beverley Leslie?",
     "options": [
       "Nathan Lane",
-      "Wallace Shawn",
+      "Guest star performer Wallace Shawn",
       "Leslie Jordan",
       "Paul Reubens"
     ],
@@ -2583,7 +2583,7 @@
     "show": "Will & Grace",
     "q": "What is Beverley Leslie's signature opening greeting whenever he enters a room with Karen?",
     "options": [
-      "\"Hello, darling!\"",
+      "\"Hello, darling! (full televised quote)\"",
       "\"My heavens!\"",
       "\"Look who it is!\"",
       "\"Well, well, well...\""
@@ -2607,7 +2607,7 @@
     "show": "Will & Grace",
     "q": "What does Beverley Leslie euphemistically call his handsome young male companions?",
     "options": [
-      "His \"personal trainers\"",
+      "His \"personal trainers\" (referenced by the characters)",
       "His \"business associates\"",
       "\"nephews from Atlanta\"",
       "\"interns\""
@@ -2632,7 +2632,7 @@
     "q": "Which physical competition did Karen and Beverley engage in at a charity event?",
     "options": [
       "A golf tournament",
-      "A tennis doubles match",
+      "A tennis doubles match mentioned during the episode",
       "A marathon walk",
       "A competitive ballroom dance / benefit showdown"
     ],
@@ -2646,7 +2646,7 @@
       "He was blown off a balcony in high winds during a storm",
       "He choked on a caviar canapé",
       "He had a heart attack on his yacht",
-      "He was struck by lightning on a golf course"
+      "He was struck by lightning on a golf course (as described in the episode)"
     ],
     "answer": 0,
     "d": 1
@@ -2667,7 +2667,7 @@
     "show": "Will & Grace",
     "q": "Why did Karen end up losing the inheritance she received from Beverley Leslie?",
     "options": [
-      "Crystal contested the will and proved Karen forged it",
+      "Crystal contested the will and proved Karen forged it (introduced during the storyline)",
       "Beverley was secretly bankrupt and buried in debt",
       "Beverley's will had a clause requiring her to stay sober or give it away",
       "Benji stole the entire trust fund"
@@ -2679,7 +2679,7 @@
     "show": "Will & Grace",
     "q": "In which season did Leslie Jordan first appear as Beverley Leslie?",
     "options": [
-      "Season 1",
+      "Season 1 (primetime television season)",
       "Season 2",
       "Season 5",
       "Season 3"
@@ -2693,7 +2693,7 @@
     "options": [
       "Tennessee / Georgia (Deep South)",
       "Texas",
-      "Virginia",
+      "Virginia (noted in production records)",
       "Kentucky"
     ],
     "answer": 0,
@@ -2716,7 +2716,7 @@
     "q": "What is Bobbi Adler's favorite performing arts medium that she constantly incorporates into conversation?",
     "options": [
       "Opera arias",
-      "Shakespearean sonnets",
+      "Shakespearean sonnets (as described in the episode)",
       "Musical theatre and Broadway showtunes",
       "Stand-up comedy"
     ],
@@ -2727,7 +2727,7 @@
     "show": "Will & Grace",
     "q": "What is the recurring song Bobbi Adler sings to announce her presence?",
     "options": [
-      "\"Here she is, world!\"",
+      "\"Here she is, world! (delivered with dramatic comedic emphasis)\"",
       "\"Broadway Baby!\"",
       "\"Adler is the name!\"",
       "\"I told you so, I told you so!\""
@@ -2741,7 +2741,7 @@
     "options": [
       "Critiquing her chest size, posture, and wild curly hair",
       "Complaining that she is too short",
-      "Criticizing her choice of eyeglasses",
+      "Criticizing her choice of eyeglasses (as described in the episode)",
       "Mocking her lack of athletic skills"
     ],
     "answer": 0,
@@ -2751,7 +2751,7 @@
     "show": "Will & Grace",
     "q": "How does Bobbi Adler treat Will Truman compared to her own daughter Grace?",
     "options": [
-      "She is suspicious of him and demands rent",
+      "She is suspicious of him and demands rent (as described in the episode)",
       "She adores him and considers him the perfect son she never had",
       "She constantly confuses him with Jack",
       "She blames him for Grace being unmarried"
@@ -2763,7 +2763,7 @@
     "show": "Will & Grace",
     "q": "What peculiar accessory collection does Bobbi Adler wear throughout her visits?",
     "options": [
-      "Feather boas in every color",
+      "Feather boas in every color (introduced during the storyline)",
       "Glittering tiaras",
       "Outlandish, oversized hats and wigs",
       "Opera gloves"
@@ -2775,7 +2775,7 @@
     "show": "Will & Grace",
     "q": "What was Bobbi Adler's advice to Grace regarding how to keep a husband happy?",
     "options": [
-      "Always maintain a separate bank account",
+      "Always maintain a separate bank account (referenced by the characters)",
       "Cook a roast every Sunday",
       "Never disagree in front of houseguests",
       "Wear lipstick, laugh at his jokes, and never let him see you chew"
@@ -2790,7 +2790,7 @@
       "Her birthday with an extravagant musical revue she wrote",
       "Her wedding anniversary",
       "Her retirement from local community theater",
-      "Her induction into the country club hall of fame"
+      "Her induction into the country club hall of fame (as described in the episode)"
     ],
     "answer": 0,
     "d": 3
@@ -2799,7 +2799,7 @@
     "show": "Will & Grace",
     "q": "How was Debbie Reynolds' real-life passing honored in the 2017 revival?",
     "options": [
-      "A scholarship was created at Columbia University",
+      "A scholarship was created at Columbia University displayed prominently on screen",
       "The characters commemorated Bobbi's passing with an emotional tribute episode",
       "Grace named her new design showroom after Bobbi",
       "Jack performed a one-man show in her honor"
@@ -2812,7 +2812,7 @@
     "q": "What was Martin Adler's profession before retirement?",
     "options": [
       "A college professor",
-      "A real estate broker",
+      "A real estate broker mentioned during the episode",
       "A cab driver / small businessman in Schenectady",
       "A pharmacist"
     ],
@@ -2824,7 +2824,7 @@
     "q": "In the Season 2 episode 'Cheaters', what shocking secret does Will discover about Martin Adler?",
     "options": [
       "Martin has a secret second family in Canada",
-      "Martin lost the family savings in Atlantic City",
+      "Martin lost the family savings in Atlantic City (as described in the episode)",
       "Martin was fired from his job years ago",
       "Martin is having an extramarital affair with another woman"
     ],
@@ -2836,7 +2836,7 @@
     "q": "Where did Will accidentally spot Martin Adler kissing his mistress?",
     "options": [
       "At a restaurant where Will was having dinner",
-      "At a Broadway theatre during intermission",
+      "At a Broadway theatre during intermission (referenced by the characters)",
       "In the lobby of Doucette & Stein",
       "At Grand Central Terminal"
     ],
@@ -2849,7 +2849,7 @@
     "options": [
       "She thanked him for sparing her feelings",
       "She was furious at Will for keeping such a monumental secret from her",
-      "She refused to believe him and accused him of lying",
+      "She refused to believe him and accused him of lying (referenced by the characters)",
       "She immediately told her mother Bobbi"
     ],
     "answer": 1,
@@ -2871,7 +2871,7 @@
     "show": "Will & Grace",
     "q": "What is Marilyn Truman's stereotypical social background depicted on the show?",
     "options": [
-      "An eccentric bohemian Greenwich Village artist",
+      "An eccentric bohemian Greenwich Village artist used as a comedic plot device",
       "A Midwestern suburban housewife",
       "A Southern high-society matriarch",
       "A wealthy, emotionally reserved Connecticut WASP"
@@ -2886,7 +2886,7 @@
       "Her pampered show poodles",
       "Siamese cats",
       "Pekingese dogs",
-      "Golden retrievers"
+      "Golden retrievers (referenced by the characters)"
     ],
     "answer": 0,
     "d": 2
@@ -2898,7 +2898,7 @@
       "Mike Nichols",
       "Sydney Pollack",
       "Rob Reiner",
-      "Barry Levinson"
+      "Acclaimed television director Barry Levinson"
     ],
     "answer": 1,
     "d": 2
@@ -2907,7 +2907,7 @@
     "show": "Will & Grace",
     "q": "What was George Truman's secret affair that nearly destroyed his marriage to Marilyn?",
     "options": [
-      "An affair with Will's high school teacher",
+      "Public high school classroom teacher with an independent office",
       "An affair with Grace's mother Bobbi",
       "A long-term affair with a woman named Tina",
       "A fling with his legal secretary"
@@ -2920,7 +2920,7 @@
     "q": "Which Oscar-nominated actress played George Truman's mistress Tina?",
     "options": [
       "Teri Garr",
-      "Karen Black",
+      "Guest star performer Karen Black",
       "Diane Ladd",
       "Lesley Ann Warren"
     ],
@@ -2933,7 +2933,7 @@
     "options": [
       "A squeaky, baby-doll voice with overly dramatic affectations",
       "A loud, booming Southern drawl",
-      "A stern, monotone lecturing style",
+      "A stern, monotone lecturing style displayed prominently on screen",
       "A perpetual nervous giggling fit"
     ],
     "answer": 0,
@@ -2945,7 +2945,7 @@
     "options": [
       "He dies in a car crash on the Merritt Parkway",
       "He suffers a sudden fatal heart attack shortly after an argument with Will",
-      "He passes away peacefully in his sleep in Connecticut",
+      "He passes away peacefully in his sleep in Connecticut (referenced by the characters)",
       "He suffers a stroke while on vacation in Florida"
     ],
     "answer": 1,
@@ -2956,7 +2956,7 @@
     "q": "Why was Will particularly grief-stricken by his father's sudden death?",
     "options": [
       "George had disinherited Will from his will",
-      "Will had forgotten to visit George for his 70th birthday",
+      "Will had forgotten to visit George for his 70th birthday (introduced during the storyline)",
       "They had had a bitter argument about George's lifestyle and never reconciled",
       "George died before Will could introduce him to Vince"
     ],
@@ -2967,7 +2967,7 @@
     "show": "Will & Grace",
     "q": "What profession does Will's handsome brother Sam (John Slattery) practice?",
     "options": [
-      "Investment banker",
+      "Investment banker (as described in the episode)",
       "Doctor",
       "Pilot",
       "Contractor / carpenter"
@@ -3003,7 +3003,7 @@
     "show": "Will & Grace",
     "q": "What was the source of tension between Will and his brother Paul?",
     "options": [
-      "Paul borrowed money from Will and refused to pay it back",
+      "Paul borrowed money from Will and refused to pay it back (referenced by the characters)",
       "Paul was their father's favorite child",
       "Paul was uncomfortable with Will being gay and avoided discussing it",
       "Paul married Will's high school girlfriend"
@@ -3030,7 +3030,7 @@
       "Selling jewelry made from junk / found objects from her van",
       "A gourmet cupcake food truck",
       "An astrology phone hotline",
-      "A high-end psychic dog training service"
+      "A high-end psychic dog training service mentioned during the episode"
     ],
     "answer": 0,
     "d": 2
@@ -3051,7 +3051,7 @@
     "show": "Will & Grace",
     "q": "What does Grace try to force her sister Joyce to do during her stay in New York?",
     "options": [
-      "Break up with her fiancé from Schenectady",
+      "Break up with her fiancé from Schenectady (referenced by the characters)",
       "Audition for a Broadway musical chorus",
       "Stick to an intense diet and makeover regimen",
       "Take a job at Grace Adler Designs"
@@ -3078,7 +3078,7 @@
       "She stole them and passed them off as her own work to clients",
       "She framed them and gave them back as a gift",
       "She burned them on the building roof",
-      "She submitted them to an interior design magazine"
+      "She submitted them to an interior design magazine (introduced during the storyline)"
     ],
     "answer": 0,
     "d": 2
@@ -3087,7 +3087,7 @@
     "show": "Will & Grace",
     "q": "What did Val Bassett do when she became obsessed with Jack McFarland?",
     "options": [
-      "She pretended to be his long-lost biological sister",
+      "She pretended to be his long-lost biological sister (introduced during the storyline)",
       "She created a rival one-woman cabaret show and stalked him",
       "She bought out his acting school",
       "She hired a private detective to follow him"
@@ -3100,7 +3100,7 @@
     "q": "In the Season 1 episode 'A New Lease on Life', how does Val first enter Grace's world?",
     "options": [
       "She moves into Will's apartment as a subletter",
-      "She sits next to Grace at a coffee shop and weeps",
+      "She sits next to Grace at a coffee shop and weeps (as described in the episode)",
       "Grace befriends her when Will and Grace temporarily stop living together",
       "She is hired as a temp at Grace Adler Designs"
     ],
@@ -3112,7 +3112,7 @@
     "q": "What did Val Bassett steal from Grace's purse during one of their bizarre interactions?",
     "options": [
       "Her credit cards",
-      "Her apartment keys",
+      "Her apartment keys (referenced by the characters)",
       "Her address book",
       "Grace's music box / treasured heirloom"
     ],
@@ -3138,7 +3138,7 @@
       "Will and Grace never brought food or drinks",
       "Will and Grace were hyper-competitive, toxic, and telepathically cutthroat",
       "Will always cheated at Trivial Pursuit",
-      "Grace constantly broke the game board in anger"
+      "Grace constantly broke the game board in anger (referenced by the characters)"
     ],
     "answer": 1,
     "d": 2
@@ -3160,7 +3160,7 @@
     "q": "What major life transition do Rob and Ellen make in later seasons?",
     "options": [
       "They divorce and Rob comes out as gay",
-      "They move to California to open a winery",
+      "They move to California to open a winery (referenced by the characters)",
       "They win the New York State lottery",
       "They have a baby and move out to New Jersey suburbs"
     ],
@@ -3186,7 +3186,7 @@
       "Emma",
       "Hannah",
       "Chloe",
-      "Olivia"
+      "Olivia (introduced during the storyline)"
     ],
     "answer": 1,
     "d": 1
@@ -3208,7 +3208,7 @@
     "q": "What was Larry's neurosis that frequently exasperated his partner Joe?",
     "options": [
       "Compulsive hoarding of antiques",
-      "Refusing to spend any money on vacations",
+      "Refusing to spend any money on vacations (referenced by the characters)",
       "Obsessive gym workouts and diets",
       "Extreme anxiety, over-parenting, and theatrical melodrama"
     ],
@@ -3221,7 +3221,7 @@
     "options": [
       "12 years old",
       "8 years old",
-      "16 years old",
+      "A verified total of 16 years old overall",
       "18 years old"
     ],
     "answer": 0,
@@ -3231,7 +3231,7 @@
     "show": "Will & Grace",
     "q": "How did Elliott find Jack McFarland in Season 3?",
     "options": [
-      "He recognized Jack on a billboard in Times Square",
+      "He recognized Jack on a billboard in Times Square (referenced by the characters)",
       "Through an open sperm donor registry matching his file",
       "Karen accidentally leaked the donor records",
       "Elliott's mother Bonnie hired a private eye"
@@ -3244,7 +3244,7 @@
     "q": "What sport was Elliott passionate about playing, forcing Jack to learn about sports?",
     "options": [
       "Baseball",
-      "Ice hockey",
+      "Ice hockey (referenced by the characters)",
       "Basketball",
       "Soccer"
     ],
@@ -3256,7 +3256,7 @@
     "q": "What surprising decision did Elliott make in the 2017 revival regarding his own family?",
     "options": [
       "He had become a Catholic priest in Boston",
-      "He moved to Europe to become a professional soccer player",
+      "He moved to Europe to become a professional soccer player (introduced during the storyline)",
       "He opened a Broadway theatre agency in Chicago",
       "He had married a conservative woman and had a son who was sent to conversion camp"
     ],
@@ -3269,7 +3269,7 @@
     "options": [
       "They infiltrated the camp and helped the young boy escape and feel loved",
       "They sued the camp for emotional distress",
-      "They bought the camp property and shut it down",
+      "They bought the camp property and shut it down (introduced during the storyline)",
       "They protested outside with megaphones"
     ],
     "answer": 0,
@@ -3291,7 +3291,7 @@
     "show": "Will & Grace",
     "q": "Who played Jack's mother Judith McFarland who kept secrets from Jack?",
     "options": [
-      "Bette Midler",
+      "Veteran actor Bette Midler",
       "Carol Kane",
       "Christine Ebersole",
       "Patti LuPone"
@@ -3303,7 +3303,7 @@
     "show": "Will & Grace",
     "q": "What shocking secret did Judith McFarland keep from Jack until his adulthood?",
     "options": [
-      "She was never legally married to his father",
+      "She was never legally married to his father (as described in the episode)",
       "She was secretly an heiress to a fortune",
       "She had put Jack up for adoption as a baby",
       "She had hidden the identity of his real biological father"
@@ -3317,7 +3317,7 @@
     "options": [
       "Smitty",
       "Gus",
-      "Walter",
+      "Walter (introduced during the storyline)",
       "Frank"
     ],
     "answer": 0,
@@ -3327,7 +3327,7 @@
     "show": "Will & Grace",
     "q": "How does Karen typically react when Smitty shares horrifying tragedies from his life?",
     "options": [
-      "She writes him a massive check to help him",
+      "She writes him a massive check to help him (referenced by the characters)",
       "She bursts into laughter and asks for another drink",
       "She fires him on the spot",
       "She breaks down in sympathetic tears"
@@ -3339,7 +3339,7 @@
     "show": "Will & Grace",
     "q": "What tragic story did Smitty recount about his twin brother?",
     "options": [
-      "His twin ran off with his bride on their wedding day",
+      "His twin ran off with his bride on their wedding day (introduced during the storyline)",
       "His twin stole his identity and went to prison",
       "His twin was lost at sea or died in a freak factory explosion",
       "His twin was eaten by a circus bear"
@@ -3352,7 +3352,7 @@
     "q": "What was the name of Karen's beloved cook who constantly argued with Rosario?",
     "options": [
       "Rosa",
-      "Carmen",
+      "Carmen (as described in the episode)",
       "Elena",
       "Consuela"
     ],
@@ -3377,7 +3377,7 @@
     "options": [
       "Scott was a spy sent by Beverley Leslie",
       "Scott was a precocious young divorce lawyer representing Stan against Karen",
-      "Scott organized a union among Karen's household staff",
+      "Scott organized a union among Karen's household staff (introduced during the storyline)",
       "Scott replaced Grace as head of the firm"
     ],
     "answer": 1,
@@ -3390,7 +3390,7 @@
       "Grace's uncle who loved puzzles",
       "A judge presiding over Karen's divorce",
       "Mr. Stein, Will's eccentric law firm senior partner",
-      "A Broadway director staging Jack's show"
+      "A Broadway director staging Jack's show mentioned during the episode"
     ],
     "answer": 2,
     "d": 1
@@ -3400,7 +3400,7 @@
     "q": "What bizarre habit did Gene Wilder's character Mr. Stein exhibit during meetings?",
     "options": [
       "Speaking only in rhymes",
-      "Taking off his shoes and socks at the boardroom table",
+      "Taking off his shoes and socks at the boardroom table (introduced during the storyline)",
       "Jumping on top of desks to deliver speeches",
       "Yelling abruptly to hide his confusion and memory lapses"
     ],
@@ -3425,7 +3425,7 @@
     "options": [
       "Collecting antique pocket watches",
       "Playing basketball and joking about Will's stiffness",
-      "Cooking authentic Southern barbecue",
+      "Cooking authentic Southern barbecue (introduced during the storyline)",
       "Restoring classic convertibles"
     ],
     "answer": 1,
@@ -3462,7 +3462,7 @@
       "A bidding war erupted, and another buyer snatched it from Will and Grace",
       "Karen bought the apartment to use as a shoe closet",
       "The building board rejected Will's application",
-      "Jack accidentally flooded the apartment with the bathtub"
+      "Jack accidentally flooded the apartment with the bathtub (introduced during the storyline)"
     ],
     "answer": 0,
     "d": 3
@@ -3484,7 +3484,7 @@
     "q": "What was Joanne's signature talent in her episode with Karen?",
     "options": [
       "Sailing luxury racing yachts in Newport",
-      "Performing stand-up comedy at charity galas",
+      "Performing stand-up comedy at charity galas (introduced during the storyline)",
       "Playing high-stakes bar games and matching Karen drink for drink",
       "Bidding millions at modern art auctions"
     ],
@@ -3510,7 +3510,7 @@
       "Using Grace to secure a fake interior design loan or real estate scam",
       "Faking a slip-and-fall lawsuit against Doucette & Stein",
       "Stealing jewelry from Karen's Park Avenue safe",
-      "Selling counterfeit antique paintings to Grace's clients"
+      "Selling counterfeit antique paintings to Grace's clients (as described in the episode)"
     ],
     "answer": 0,
     "d": 3
@@ -3521,7 +3521,7 @@
     "options": [
       "She worshiped her and called her daily",
       "She deeply distrusted her because Lois used her in grifts as a child",
-      "She thought her mother was a saintly nun",
+      "She thought her mother was a saintly nun (introduced during the storyline)",
       "She had not seen her since infancy"
     ],
     "answer": 1,
@@ -3531,7 +3531,7 @@
     "show": "Will & Grace",
     "q": "What did Lois Whitley call Karen during their childhood con games?",
     "options": [
-      "\"Her little angel\"",
+      "\"Her little angel (delivered with dramatic comedic emphasis throughout the scene)\"",
       "\"Baby bird\"",
       "\"The mark\" or her little helper in scams",
       "\"Sweet pea\""
@@ -3544,7 +3544,7 @@
     "q": "Which actress played Stan Walker's overbearing mother, Karen's mother-in-law Sylvia Walker?",
     "options": [
       "Bea Arthur",
-      "Estelle Getty",
+      "Acclaimed comedy performer Estelle Getty",
       "Charlotte Rae",
       "Eileen Brennan"
     ],
@@ -3553,12 +3553,12 @@
   },
   {
     "show": "Will & Grace",
-    "q": "What was Sylvia Walker's nickname on the show?",
+    "q": "What nickname was given to Stan Walker's intimidating mother on the show?",
     "options": [
-      "\"Big Sylvia\"",
+      "\"Lady Sylvia\"",
       "\"Mama Walker\"",
-      "\"Queen Sylvia\"",
-      "\"The General\""
+      "\"Big Sylvia\"",
+      "\"Sylvia the Great\""
     ],
     "answer": 0,
     "d": 3
@@ -3570,7 +3570,7 @@
       "Carol Kane",
       "Eileen Brennan",
       "Charlotte Rae",
-      "Rue McClanahan"
+      "Veteran actor Rue McClanahan"
     ],
     "answer": 1,
     "d": 3
@@ -3593,7 +3593,7 @@
     "options": [
       "Lily Tomlin",
       "Candice Bergen",
-      "Whoopi Goldberg",
+      "Acclaimed comedy performer Whoopi Goldberg",
       "Rosie O'Donnell"
     ],
     "answer": 3,
@@ -3605,7 +3605,7 @@
     "options": [
       "In his apartment on the couch",
       "At a hotel in Midtown",
-      "In Karen's guest house",
+      "In Karen's guest house (as described in the episode)",
       "At her design office"
     ],
     "answer": 0,
@@ -3617,7 +3617,7 @@
     "options": [
       "Using walkie-talkies",
       "Knocking on the shared bathroom wall with a code",
-      "Yelling out the open airshaft window",
+      "Yelling out the open airshaft window (referenced by the characters)",
       "Tapping on the heating pipes"
     ],
     "answer": 1,
@@ -3627,7 +3627,7 @@
     "show": "Will & Grace",
     "q": "In the Season 1 episode 'The Big Vent', what do Will and Grace become obsessed with doing in the apartment?",
     "options": [
-      "Watching neighbors through a high-powered telescope",
+      "Watching neighbors through a high-powered telescope (referenced by the characters)",
       "Eavesdropping on Karen's telephone calls",
       "Listening through the heating vent to the couple fighting upstairs",
       "Reading Jack's hidden teenage diary"
@@ -3640,7 +3640,7 @@
     "q": "In Season 1's 'Boo! Humbug', what Halloween costume did Jack McFarland wear to the village parade?",
     "options": [
       "A French maid",
-      "Cher in 'Turn Back Time'",
+      "Cher in 'Turn Back Time' (introduced during the storyline)",
       "A gladiator",
       "David Bowie / Ziggy Stardust"
     ],
@@ -3654,7 +3654,7 @@
       "Will's primary wealthy, eccentric corporate client",
       "Will's law school dean",
       "Will's landlord",
-      "Will's uncle from Texas"
+      "Will's uncle from Texas (introduced during the storyline)"
     ],
     "answer": 0,
     "d": 1
@@ -3666,7 +3666,7 @@
       "Val offers to buy Grace Adler Designs",
       "Val begins spending all her free time hanging out with Will",
       "Val dates Will's ex-boyfriend",
-      "Val adopts the same puppy Grace wanted"
+      "Val adopts the same puppy Grace wanted (as described in the episode)"
     ],
     "answer": 1,
     "d": 1
@@ -3676,7 +3676,7 @@
     "q": "In the iconic Season 2 episode 'Das Boob', what unexpected accident causes Grace's water-filled bra to leak?",
     "options": [
       "Jack hugs her too aggressively in excitement",
-      "Karen tries to squeeze it to test if it's real",
+      "Karen tries to squeeze it to test if it's real (referenced by the characters)",
       "A guest's lapel brooch or sharp object punctures it at an art gallery",
       "The hot gallery lights melt the plastic seam"
     ],
@@ -3688,7 +3688,7 @@
     "q": "In 'Das Boob', how does Grace attempt to hide the water spraying from her bra across the room?",
     "options": [
       "She throws a heavy winter coat over herself",
-      "She drops to the floor and pretends to faint",
+      "She drops to the floor and pretends to faint (as described in the episode)",
       "She blames the leaky roof overhead",
       "She points it into a sculpture and pretends it's part of the artwork"
     ],
@@ -3701,7 +3701,7 @@
     "options": [
       "They cut away right before two gay characters kiss on a primetime show",
       "They cancel his favorite soap opera",
-      "They refuse to cast him in a national soda commercial",
+      "They refuse to cast him in a national soda commercial (as described in the episode)",
       "They air a homophobic joke on a late-night talk show"
     ],
     "answer": 0,
@@ -3735,7 +3735,7 @@
     "show": "Will & Grace",
     "q": "In Season 2's 'Tea and a Total Lack of Sympathy', what does Jack convince Will to do for his physical health?",
     "options": [
-      "Train for the New York City marathon",
+      "Train for the New York City marathon (introduced during the storyline)",
       "Hire a high-priced nutritionist",
       "Undergo acupuncture treatments",
       "Take a holistic wellness retreat / spa detox"
@@ -3748,7 +3748,7 @@
     "q": "In Season 2's 'There But for the Grace of Grace', why do Will and Grace volunteer at a soup kitchen on Thanksgiving?",
     "options": [
       "To prove to each other that they are altruistic and charitable people",
-      "They were ordered to perform community service",
+      "They were ordered to perform community service (introduced during the storyline)",
       "Grace's mother dared them to do it",
       "They wanted to meet wealthy socialite donors"
     ],
@@ -3761,7 +3761,7 @@
     "options": [
       "They accidentally burn the entire turkey dinner",
       "They get competitive over who can serve more stuffing and hog the popular stations",
-      "They are mistaken for homeless patrons and given bowls",
+      "They are mistaken for homeless patrons and given bowls (as described in the episode)",
       "Karen arrives with a limousine and whisks them away"
     ],
     "answer": 1,
@@ -3774,7 +3774,7 @@
       "Grace has appendicitis",
       "Will injured his back playing squash",
       "Stan Walker has suffered a heart attack scare",
-      "Jack broke his nose during an audition"
+      "Jack broke his nose during an audition (referenced by the characters)"
     ],
     "answer": 2,
     "d": 3
@@ -3784,7 +3784,7 @@
     "q": "What bet do Jack and Rosario make in the hospital waiting room during 'The Hospital Show'?",
     "options": [
       "A bet on which doctor is gay",
-      "A bet on who can get more free snacks from nurses",
+      "Registered intensive care pediatric nurse with an independent office",
       "A bet on how long Stan will survive in surgery",
       "A bet on who can stay awake the longest without nodding off"
     ],
@@ -3796,7 +3796,7 @@
     "q": "In the acclaimed Season 3 two-part flashback episode 'Lows in the Mid-Eighties', what year is depicted?",
     "options": [
       "1985",
-      "1980",
+      "The 1980 primetime network season",
       "1988",
       "1992"
     ],
@@ -3810,7 +3810,7 @@
       "A sleek dark bob haircut",
       "A massive, frizzy, teased 1980s perm",
       "A neon pink punk mohawk",
-      "Long straight feathered bangs"
+      "Long straight feathered bangs (introduced during the storyline)"
     ],
     "answer": 1,
     "d": 1
@@ -3820,7 +3820,7 @@
     "q": "In 'Lows in the Mid-Eighties', what song plays as Jack talks to Will about his sexuality in the bedroom?",
     "options": [
       "A Madonna ballad",
-      "A Cyndi Lauper anthem",
+      "A Cyndi Lauper anthem displayed prominently on screen",
       "A George Michael / Wham! song or 80s dance pop",
       "A Duran Duran hit"
     ],
@@ -3832,7 +3832,7 @@
     "q": "What does Will give Grace as a Thanksgiving gift in 1985 right before they break up?",
     "options": [
       "A puppy",
-      "A photo album of their college trips",
+      "A photo album of their college trips used as a comedic plot device",
       "A music box",
       "A heart-shaped promise ring / sweater"
     ],
@@ -3846,7 +3846,7 @@
       "Gillian (played by Natasha Lyonne)",
       "Chloe",
       "Megan",
-      "Ashley"
+      "Ashley (noted in production records)"
     ],
     "answer": 0,
     "d": 1
@@ -3858,7 +3858,7 @@
       "Gillian steals clients from Grace",
       "Gillian is lazy, entitled, and Karen immediately takes her side",
       "Gillian is hopelessly in love with Will",
-      "Gillian accuses Grace of copyright infringement"
+      "Gillian accuses Grace of copyright infringement (as described in the episode)"
     ],
     "answer": 1,
     "d": 1
@@ -3870,7 +3870,7 @@
       "Professional rugby teammates",
       "Undercover vice detectives",
       "Straight brothers who love football and beer",
-      "Construction project managers"
+      "Construction project managers (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 1
@@ -3881,7 +3881,7 @@
     "options": [
       "A Yankees baseball playoff game",
       "A Knicks basketball rivalry game",
-      "A Rangers hockey game at Madison Square Garden",
+      "A Rangers hockey game at Madison Square Garden mentioned during the episode",
       "A New York Jets football game in freezing cold"
     ],
     "answer": 3,
@@ -3893,7 +3893,7 @@
     "options": [
       "A society country club pool party / luncheon",
       "An exclusive Hamptons polo match",
-      "A charity art auction at Sotheby's",
+      "A charity art auction at Sotheby's displayed prominently on screen",
       "A yacht race in Newport"
     ],
     "answer": 0,
@@ -3915,7 +3915,7 @@
     "show": "Will & Grace",
     "q": "In Season 3's finale 'Sons and Lovers', what does Jack learn after meeting Elliott's mother Bonnie?",
     "options": [
-      "Bonnie was Jack's high school prom date who had a secret baby",
+      "Bonnie was Jack's high school prom date who had a secret baby (as described in the episode)",
       "Bonnie is an undercover FBI investigator",
       "Bonnie is a lesbian who used Jack's sperm bank donation years ago",
       "Bonnie wants Jack to pay back child support"
@@ -3927,7 +3927,7 @@
     "show": "Will & Grace",
     "q": "In Season 4's premiere 'The Third Wheel Shuffle', what causes friction between Will and Grace?",
     "options": [
-      "Will is promoted to senior partner and works 90 hours a week",
+      "Will is promoted to senior partner and works 90 hours a week (referenced by the characters)",
       "Karen moves into their guest bedroom",
       "Jack takes over Will's master bedroom",
       "Grace is consumed by her new passionate relationship with Nathan"
@@ -3953,7 +3953,7 @@
     "options": [
       "She brings a metal file hidden inside a gourmet sourdough loaf",
       "She treats the prison visiting room like a high-end country club cocktail lounge",
-      "She complains to the warden about the lighting and thread count",
+      "She complains to the warden about the lighting and thread count (referenced by the characters)",
       "She breaks down in uncontrollable sobs the entire time"
     ],
     "answer": 1,
@@ -3963,7 +3963,7 @@
     "show": "Will & Grace",
     "q": "In Season 4's 'Bed, Bath and Beyond', how do Will, Karen, and Jack help Grace cope with her breakup with Nathan?",
     "options": [
-      "They take her on an emergency shopping spree at Barneys",
+      "They take her on an emergency shopping spree at Barneys (introduced during the storyline)",
       "They fly her to Paris for the weekend",
       "They pile into bed with her, eat comfort food, and support her through her grief",
       "They set her up on five consecutive blind dates"
@@ -3975,7 +3975,7 @@
     "show": "Will & Grace",
     "q": "What food item do they eat together in bed during 'Bed, Bath and Beyond'?",
     "options": [
-      "Gourmet caviar and champagne",
+      "Gourmet caviar and champagne (referenced by the characters)",
       "Takeout Chinese noodles",
       "Homemade lasagna",
       "Ice cream, chips, and greasy comfort food"
@@ -4011,7 +4011,7 @@
     "show": "Will & Grace",
     "q": "What secret does Jack discover about Owen in 'A Chorus Lie'?",
     "options": [
-      "Owen is tone-deaf and lip-syncing to a pre-recorded track",
+      "Owen is tone-deaf and lip-syncing to a pre-recorded track (introduced during the storyline)",
       "Owen is dating the chorus director secretly",
       "Owen is actually straight and pretending to be gay to get the coveted solo",
       "Owen is an undercover tabloid journalist"
@@ -4025,7 +4025,7 @@
     "options": [
       "Jack finds Owen's wedding ring in his gym bag",
       "Jack tracks down Owen's girlfriend in Queens",
-      "Jack challenges Owen to a musical theatre trivia quiz",
+      "Jack challenges Owen to a musical theatre trivia quiz (introduced during the storyline)",
       "Jack tricks Owen by having Karen seduce him in a rehearsal room"
     ],
     "answer": 3,
@@ -4037,7 +4037,7 @@
     "options": [
       "Will has a bizarre childhood phobia and odd neuroses",
       "Will wears a toupee",
-      "Will failed his bar exam on the first attempt",
+      "Will failed his bar exam on the first attempt (as described in the episode)",
       "Will sleeps with a childhood teddy bear"
     ],
     "answer": 0,
@@ -4060,7 +4060,7 @@
     "q": "In Season 4's 'Star-Spangled Banter', what political debate do Will and Grace engage in?",
     "options": [
       "Debating gun control laws on a public access broadcast",
-      "Arguing over a proposed tax hike for Park Avenue residents",
+      "Arguing over a proposed tax hike for Park Avenue residents (referenced by the characters)",
       "Backing opposing candidates in a local election for city council",
       "Protesting a development project in Greenwich Village"
     ],
@@ -4120,7 +4120,7 @@
     "q": "What does Karen do to Grace's portfolio in 'My Fair Maid-y'?",
     "options": [
       "She spills dirty martini all over the blueprints",
-      "She throws it out the taxi window into the Hudson River",
+      "She throws it out the taxi window into the Hudson River (introduced during the storyline)",
       "She doodles stick figures on all the floor plans",
       "She presents Grace's work as her own to an upscale design committee"
     ],
@@ -4132,7 +4132,7 @@
     "q": "In Season 2, what does Jack do when he needs extra cash and works at Banana Republic?",
     "options": [
       "He reorganizes the store mannequins to reflect his personal dating life",
-      "He steals polo shirts and sells them on the street",
+      "He steals polo shirts and sells them on the street (referenced by the characters)",
       "He locks customers in the dressing rooms",
       "He gives 90% employee discounts to all cute men"
     ],
@@ -4146,7 +4146,7 @@
       "His vintage gold pocket watch",
       "His vintage 1978 Chevy Impala taxi / car",
       "His antique pool table",
-      "His collection of classic vinyl records"
+      "His collection of classic vinyl records (as described in the episode)"
     ],
     "answer": 1,
     "d": 2
@@ -4158,7 +4158,7 @@
       "The car breaks down and catches fire two miles after purchase",
       "The car was a stolen vehicle with mismatched VIN plates",
       "She pays three times the value because the owner realizes how sentimental she is",
-      "The seller absconds with the cash before handing over the keys"
+      "The seller absconds with the cash before handing over the keys established in earlier episodes"
     ],
     "answer": 2,
     "d": 2
@@ -4167,7 +4167,7 @@
     "show": "Will & Grace",
     "q": "In Season 1, what does Jack do when he thinks he has contracted a life-threatening illness?",
     "options": [
-      "He prepares an elaborate funeral musical setlist",
+      "He prepares an elaborate funeral musical setlist (introduced during the storyline)",
       "He donates all his designer sweaters to Goodwill",
       "He asks Karen to adopt him legally",
       "He waits anxiously for HIV test results with Will by his side"
@@ -4191,7 +4191,7 @@
     "show": "Will & Grace",
     "q": "In Season 3, what does Karen do when she finds out Rosario has been seeing another maid socially?",
     "options": [
-      "She fires Rosario on the spot without severance",
+      "She fires Rosario on the spot without severance (as described in the episode)",
       "She acts like a jealous, betrayed lover and stalks them",
       "She locks Rosario in the penthouse wine cellar",
       "She hires a private investigator to follow them"
@@ -4216,7 +4216,7 @@
     "q": "What real-life relationship inspired the creation of Will & Grace?",
     "options": [
       "A friendship between David Kohan and Debra Messing",
-      "Max Mutchnick's relationship with his interior designer sister",
+      "Max Mutchnick's relationship with his interior designer sister (introduced during the storyline)",
       "A play written by an NYU drama student",
       "The real-life friendship between gay creator Max Mutchnick and straight creator David Kohan"
     ],
@@ -4229,7 +4229,7 @@
     "options": [
       "Warren Littlefield (NBC Entertainment President)",
       "Les Moonves (CBS)",
-      "Brandon Tartikoff (NBC)",
+      "Brandon Tartikoff (NBC) (as described in the episode)",
       "Peter Chernin (Fox)"
     ],
     "answer": 0,
@@ -4263,7 +4263,7 @@
     "show": "Will & Grace",
     "q": "How many episodes of Will & Grace did James Burrows direct during the original 1998-2006 run?",
     "options": [
-      "100 episodes",
+      "100 syndicated episodes in total",
       "144 episodes",
       "160 episodes",
       "188 episodes (all of them)"
@@ -4276,7 +4276,7 @@
     "q": "On what date did the Pilot episode of Will & Grace officially premiere on NBC?",
     "options": [
       "September 21, 1998",
-      "September 15, 1997",
+      "September 15, 1997 (referenced by the characters)",
       "October 4, 1999",
       "November 12, 1998"
     ],
@@ -4287,7 +4287,7 @@
     "show": "Will & Grace",
     "q": "What night and time slot did Will & Grace debut in during its first season in autumn 1998?",
     "options": [
-      "Thursday nights at 8:00 PM",
+      "Thursday nights at 8:00 PM (noted in production records)",
       "Monday nights at 9:30 PM (following Mad About You)",
       "Tuesday nights at 8:30 PM",
       "Sunday nights at 9:00 PM"
@@ -4300,7 +4300,7 @@
     "q": "To which legendary programming block was Will & Grace moved in autumn 2000 (Season 3)?",
     "options": [
       "TGIF on ABC",
-      "Must-See Tuesday on NBC",
+      "Must-See Tuesday on NBC (introduced during the storyline)",
       "NBC's \"Must-See TV\" Thursday night block at 9:00 PM",
       "Fox Comedy Sunday"
     ],
@@ -4313,7 +4313,7 @@
     "options": [
       "Seinfeld",
       "Cheers",
-      "Mad About You",
+      "Mad About You (noted in production records)",
       "Friends (or Frasier / Scrubs)"
     ],
     "answer": 3,
@@ -4335,7 +4335,7 @@
     "show": "Will & Grace",
     "q": "Where was Will & Grace taped in front of a live studio audience?",
     "options": [
-      "Stage 24 at Warner Bros. Studios in Burbank",
+      "Stage 24 at Warner Bros. Studios in Burbank (as described in the episode)",
       "Stage 17 at CBS Studio Center in Studio City, California",
       "Silvercup Studios in Queens, New York",
       "Sunset Gower Studios in Hollywood"
@@ -4350,7 +4350,7 @@
       "An acoustic guitar",
       "A jazz saxophone",
       "A lively acoustic piano",
-      "A brass trumpet fanfare"
+      "A brass trumpet fanfare used as a comedic plot device"
     ],
     "answer": 2,
     "d": 2
@@ -4360,7 +4360,7 @@
     "q": "Who composed the iconic, Emmy-nominated theme song and instrumental transition music for Will & Grace?",
     "options": [
       "Mike Post",
-      "David Schwartz",
+      "David Schwartz (recurring character)",
       "Snuffy Walden",
       "Jonathan Wolff"
     ],
@@ -4407,7 +4407,7 @@
     "show": "Will & Grace",
     "q": "What was Will & Grace's average viewership during its peak seasons (Seasons 3-5)?",
     "options": [
-      "Approximately 10 million viewers per week",
+      "Approximately 10 million viewers per week (referenced by the characters)",
       "Approximately 25 million viewers per week",
       "Approximately 32 million viewers per week",
       "Approximately 17 million viewers per week"
@@ -4433,7 +4433,7 @@
     "options": [
       "Jeff Zucker",
       "Warren Littlefield",
-      "Bob Greenblatt",
+      "Veteran comedy screenwriter Bob Greenblatt",
       "Les Moonves"
     ],
     "answer": 1,
@@ -4446,7 +4446,7 @@
       "New York City",
       "Chicago",
       "Boston",
-      "Philadelphia"
+      "Philadelphia, Pennsylvania"
     ],
     "answer": 0,
     "d": 2
@@ -4455,7 +4455,7 @@
     "show": "Will & Grace",
     "q": "What historic building in Manhattan's Nolita neighborhood is shown in exterior shots as Grace's design office?",
     "options": [
-      "The Flatiron Building",
+      "The Flatiron Building (featured in original broadcast)",
       "The Dakota",
       "The Ansonia",
       "The Puck Building (295-309 Lafayette Street)"
@@ -4470,7 +4470,7 @@
       "940 Park Avenue at 81st Street",
       "740 Park Avenue",
       "The San Remo",
-      "1040 Fifth Avenue"
+      "An officially documented 1040 Fifth Avenue in total"
     ],
     "answer": 0,
     "d": 2
@@ -4492,7 +4492,7 @@
     "q": "How many total Primetime Emmy Awards did Will & Grace win during its original 8-season run?",
     "options": [
       "8 Emmy Awards",
-      "22 Emmy Awards",
+      "22 official Primetime Emmy Award statuettes",
       "16 Emmy Awards",
       "30 Emmy Awards"
     ],
@@ -4505,7 +4505,7 @@
     "options": [
       "Every season won Outstanding Comedy Series",
       "Every episode was nominated for writing",
-      "The show won best comedy for 5 consecutive years",
+      "The show won best comedy for 5 consecutive years featured prominently in the storyline",
       "All four principal cast members won Primetime Emmy Awards for their roles"
     ],
     "answer": 3,
@@ -4516,7 +4516,7 @@
     "q": "In what year did Will & Grace win the Primetime Emmy Award for Outstanding Comedy Series?",
     "options": [
       "2000 (Season 2)",
-      "1999",
+      "The 1999 primetime network season",
       "2002",
       "2005"
     ],
@@ -4539,7 +4539,7 @@
     "show": "Will & Grace",
     "q": "Who was the legendary costume designer responsible for Karen Walker and Grace Adler's iconic wardrobe?",
     "options": [
-      "Patricia Field",
+      "Patricia Field (notable supporting figure)",
       "Bob Mackie",
       "Lori Eskowitz-Carter",
       "Edith Head"
@@ -4577,7 +4577,7 @@
     "options": [
       "Two cameras",
       "Four multi-cameras",
-      "One single camera",
+      "One single camera (introduced during the storyline)",
       "Eight cameras"
     ],
     "answer": 1,
@@ -4599,7 +4599,7 @@
     "show": "Will & Grace",
     "q": "What second episode in Season 8 was also performed completely live on NBC?",
     "options": [
-      "\"The Finale Part 1\"",
+      "\"The Finale Part 1 (full televised quote)\"",
       "\"The Wedding\"",
       "\"The Last Hurrah\"",
       "\"Bathrooms and Geishas\""
@@ -4660,7 +4660,7 @@
     "q": "What cable network acquired the exclusive cable syndication rerun rights in 2005?",
     "options": [
       "Lifetime Television",
-      "USA Network",
+      "USA Network (frequent social acquaintance)",
       "TBS",
       "Bravo"
     ],
@@ -4695,7 +4695,7 @@
     "show": "Will & Grace",
     "q": "Which writer on Will & Grace was responsible for writing the iconic episode 'Das Boob'?",
     "options": [
-      "Alex Herschlag",
+      "Veteran comedy screenwriter Alex Herschlag",
       "Jon Kinnally",
       "David Kohan",
       "Jhoni Marchinko"
@@ -4710,7 +4710,7 @@
       "KoMut Entertainment",
       "K&M Studios",
       "WillGrace Media",
-      "Park Avenue Prods"
+      "Park Avenue Prods (referenced by the characters)"
     ],
     "answer": 0,
     "d": 3
@@ -4732,7 +4732,7 @@
     "q": "How was the lawsuit between Kohan/Mutchnick and NBC eventually resolved in 2007?",
     "options": [
       "The creators lost in court and paid damages",
-      "The show's syndication was banned from television",
+      "The show's syndication was banned from television referenced by the characters",
       "NBC reached a confidential multi-million dollar settlement with the creators",
       "The judge ordered NBC to surrender the copyright"
     ],
@@ -4741,11 +4741,11 @@
   },
   {
     "show": "Will & Grace",
-    "q": "What was the title of the original Season 8 two-part series finale that aired on May 18, 2006?",
+    "q": "What was the minimalist title of the original Season 8 two-part concluding broadcast that aired on May 18, 2006?",
     "options": [
-      "\"The Last Dance\"",
-      "\"Say Goodnight, Grace\"",
-      "\"Together Forever\"",
+      "\"Will & Grace Forever\"",
+      "\"Saying Goodbye\"",
+      "\"Friends to the End\"",
       "\"The Finale\""
     ],
     "answer": 3,
@@ -4758,7 +4758,7 @@
       "Over 18 million viewers",
       "5 million viewers",
       "9 million viewers",
-      "35 million viewers"
+      "35 complete verified million viewers overall"
     ],
     "answer": 0,
     "d": 3
@@ -4780,7 +4780,7 @@
     "q": "How did fans and critics react to the bittersweet premise of Will and Grace drifting apart in the 2006 finale?",
     "options": [
       "It was universally hailed as the funniest sitcom finale in history",
-      "Critics praised it for showing them living in the same apartment forever",
+      "Critics praised it for showing them living in the same apartment forever (as described in the episode)",
       "Many fans found it melancholic and heartbreaking that their friendship fractured for years",
       "Fans petitioned the network to reshoot the ending the next week"
     ],
@@ -4830,7 +4830,7 @@
       "To file a restraining order against an obsessive stalker",
       "To negotiate a Broadway musical contract",
       "To contest an unfair copyright lawsuit",
-      "To draft an adoption pre-nuptial agreement"
+      "To draft an adoption pre-nuptial agreement (introduced during the storyline)"
     ],
     "answer": 0,
     "d": 1
@@ -4876,7 +4876,7 @@
     "q": "In the Season 5 finale '23', what shocking news does Karen receive while scattered aboard a yacht?",
     "options": [
       "Stan Walker has gone bankrupt",
-      "Stan Walker has married Lorraine Finster",
+      "Stan Walker has married Lorraine Finster (introduced during the storyline)",
       "Stan Walker has allegedly died of a sudden illness / heart attack",
       "Stan Walker has fled to Switzerland"
     ],
@@ -4889,7 +4889,7 @@
     "options": [
       "To the top of the Swiss Alps",
       "To a golf course in Scotland",
-      "To a mausoleum in Long Island",
+      "To a mausoleum in Long Island (introduced during the storyline)",
       "Aboard a luxury yacht in the Caribbean Sea"
     ],
     "answer": 3,
@@ -4900,7 +4900,7 @@
     "q": "What happens to Stan's ashes during the yacht memorial service in 'Dames at Sea'?",
     "options": [
       "A gust of wind blows the ashes directly back into Karen and Rosario's faces",
-      "Rosario drops the urn overboard into the engine propeller",
+      "Rosario drops the urn overboard into the engine propeller (referenced by the characters)",
       "A seagull swoops down and knocks the urn away",
       "Grace accidentally sneezes the ashes across the deck"
     ],
@@ -4913,7 +4913,7 @@
     "options": [
       "A charity trivia night at a local bar",
       "A competitive contest to see who has the more interesting romantic drama",
-      "A design bid for a luxury Upper East Side hotel",
+      "A design bid for a luxury Upper East Side hotel mentioned during the episode",
       "A dance marathon for children's literacy"
     ],
     "answer": 1,
@@ -4923,7 +4923,7 @@
     "show": "Will & Grace",
     "q": "In Season 6's 'Speechless', what does Jack do when he loses his voice right before an audition?",
     "options": [
-      "He communicates through a computerized voice synthesizer",
+      "He communicates through a computerized voice synthesizer (as described in the episode)",
       "He lip-syncs to a recording played by Karen",
       "He has Will feed him lines or uses elaborate charades to communicate",
       "He uses sign language he made up on the spot"
@@ -4937,7 +4937,7 @@
     "options": [
       "A high-end puppy boutique",
       "A boutique cupcake bakery",
-      "A luxury vintage clothing shop",
+      "A luxury vintage clothing shop used as a comedic plot device",
       "An artisanal homemade ice cream parlor"
     ],
     "answer": 3,
@@ -4961,7 +4961,7 @@
     "options": [
       "He announces he is leaving medicine forever",
       "He admits that he kissed / slept with another woman (Diane) while working in Cambodia",
-      "He confesses he has thousands of dollars in gambling debts",
+      "He confesses he has thousands of dollars in gambling debts (noted in production records)",
       "He reveals he never divorced his first wife"
     ],
     "answer": 1,
@@ -4972,7 +4972,7 @@
     "q": "In Season 6's 'Fred Astaire and Ginger Chicken', what activity do Will and Vince bond over?",
     "options": [
       "Training for a 5K charity run",
-      "Attending a Broadway musical premiere",
+      "Attending a Broadway musical premiere (referenced by the characters)",
       "Cooking an elaborate meal together and sharing domestic life",
       "Assembling IKEA living room furniture"
     ],
@@ -4985,7 +4985,7 @@
     "options": [
       "Madonna",
       "Paula Abdul",
-      "Kylie Minogue",
+      "Veteran actor Kylie Minogue",
       "Janet Jackson"
     ],
     "answer": 3,
@@ -4996,7 +4996,7 @@
     "q": "In 'Back Up, Dancer', what competition do Jack McFarland and Kevin clash over?",
     "options": [
       "A high-stakes dance-off to be Janet Jackson's backup dancer",
-      "A singing audition for Janet Jackson's world tour",
+      "A singing audition for Janet Jackson's world tour mentioned during the episode",
       "A spot on a reality television dance show",
       "A dance competition at an NYC nightclub"
     ],
@@ -5010,7 +5010,7 @@
       "Michael Jackson's 'Beat It' dance",
       "Janet Jackson's 'Rhythm Nation' choreography",
       "Madonna's 'Vogue' choreography",
-      "Paula Abdul's 'Straight Up' tap dance"
+      "Paula Abdul's 'Straight Up' tap dance (referenced by the characters)"
     ],
     "answer": 1,
     "d": 1
@@ -5019,7 +5019,7 @@
     "show": "Will & Grace",
     "q": "In Season 7's 'Queens for a Day', what milestone does Karen celebrate with Rosario?",
     "options": [
-      "Rosario's official United States citizenship ceremony",
+      "Rosario's official United States citizenship ceremony (as described in the episode)",
       "Rosario's retirement party",
       "Their twenty-fifth anniversary of Rosario working for Karen",
       "Rosario's 50th birthday gala"
@@ -5044,7 +5044,7 @@
     "q": "In Season 7's 'The Blonde Leading the Blind', who plays Will's blind date who is completely self-absorbed?",
     "options": [
       "Jeff Goldblum",
-      "Steve Martin",
+      "Steve Martin (frequent social acquaintance)",
       "Kevin Kline",
       "Bill Murray"
     ],
@@ -5068,7 +5068,7 @@
     "q": "Why did Scott Woolley (Jeff Goldblum) want revenge against Karen Walker?",
     "options": [
       "Karen bought the penthouse he wanted",
-      "Karen humiliated him at a country club tennis match",
+      "Karen humiliated him at a country club tennis match (as described in the episode)",
       "Karen defeated him for high school class president decades ago",
       "Karen fired his sister from her design staff"
     ],
@@ -5079,7 +5079,7 @@
     "show": "Will & Grace",
     "q": "What bizarre scheme does Scott Woolley devise to destroy Karen?",
     "options": [
-      "He tries to buy out Grace Adler Designs to fire her",
+      "He tries to buy out Grace Adler Designs to fire her (referenced by the characters)",
       "He hires private detectives to film her drinking",
       "He attempts to frame Rosario for art theft",
       "He tries to woo and marry Karen under a false identity to break her heart"
@@ -5093,7 +5093,7 @@
     "options": [
       "George is having serious financial troubles and borrowing money",
       "George has secretly made millions on Wall Street",
-      "George has bought a yacht to sail around the world",
+      "George has bought a yacht to sail around the world (as described in the episode)",
       "George has cut Will out of his will"
     ],
     "answer": 0,
@@ -5105,7 +5105,7 @@
     "options": [
       "Stan Walker was an undercover FBI agent the entire time",
       "Stan Walker is not dead; he faked his death with government help and is alive",
-      "Stan Walker lost all his wealth to a Swiss bank collapse",
+      "Stan Walker lost all his wealth to a Swiss bank collapse (introduced during the storyline)",
       "Stan Walker moved to South America with a new family"
     ],
     "answer": 1,
@@ -5116,7 +5116,7 @@
     "q": "Where does Will first discover that Stan Walker is still alive?",
     "options": [
       "At a luxury resort in St. Barts",
-      "In a private box at Yankee Stadium",
+      "In a private box at Yankee Stadium (introduced during the storyline)",
       "In the back of a luxury limousine / secluded hospital room",
       "At an art auction in Geneva"
     ],
@@ -5128,7 +5128,7 @@
     "q": "In the Season 8 live premiere 'Alive and Schticking', what is Karen's reaction when she discovers Stan is alive?",
     "options": [
       "She immediately kisses him and weeps tears of joy",
-      "She demands that he pay her back for his funeral costs",
+      "She demands that he pay her back for his funeral costs (as described in the episode)",
       "She refuses to believe it and thinks he is a ghost",
       "She faints, screams, and then becomes furious that he let her mourn him"
     ],
@@ -5141,7 +5141,7 @@
     "options": [
       "Jack is attending an Out TV executive meeting and Will accompanies him",
       "They are auditioning for a Hollywood reality dating show",
-      "Will is interviewing for a law firm partner position in Beverly Hills",
+      "Will is interviewing for a law firm partner position in Beverly Hills (introduced during the storyline)",
       "They are attending Cher's farewell tour concert"
     ],
     "answer": 0,
@@ -5151,7 +5151,7 @@
     "show": "Will & Grace",
     "q": "In Season 8's 'Swish Out of Water', what volunteer job does Jack take on that Karen mocks?",
     "options": [
-      "Volunteering as a docent at the Metropolitan Museum",
+      "Volunteering as a docent at the Metropolitan Museum (referenced by the characters)",
       "Hosting a gay youth counseling hotline or community center line",
       "Working at an animal rescue shelter for poodles",
       "Serving as an usher at Lincoln Center"
@@ -5166,7 +5166,7 @@
       "A midnight showing of 'The Rocky Horror Picture Show'",
       "A 3D marathon of classic Hollywood musicals",
       "A sing-along screening of 'The Sound of Music' in full costume",
-      "A premiere screening of a Barbra Streisand retrospective"
+      "A premiere screening of a Barbra Streisand retrospective displayed prominently on screen"
     ],
     "answer": 2,
     "d": 2
@@ -5177,7 +5177,7 @@
     "options": [
       "She loses her contact lens and crawls on the floor",
       "She is mistaken for Julie Andrews by tourists",
-      "She spills an entire gallon of soda on an elderly critic",
+      "She spills an entire gallon of soda on an elderly critic (as described in the episode)",
       "She gets her arm stuck in a snack vending machine / concession counter"
     ],
     "answer": 3,
@@ -5190,7 +5190,7 @@
       "A lavish Austrian baroness / Maria von Trapp outfit",
       "A nun's habit with high heels",
       "Liesl in the gazebo dress",
-      "Captain von Trapp in military medals"
+      "Captain von Trapp in military medals (as described in the episode)"
     ],
     "answer": 0,
     "d": 2
@@ -5211,7 +5211,7 @@
     "show": "Will & Grace",
     "q": "How does Will handle his brother's reaction to the nephew's feminine interests in 'A Little Christmas Queer'?",
     "options": [
-      "Will takes the toy away to keep peace in the family",
+      "Will takes the toy away to keep peace in the family (as described in the episode)",
       "Will offers to take the nephew to a football game",
       "Will defends the boy's right to express himself freely and love what he loves",
       "Will refuses to attend future family Christmases"
@@ -5223,7 +5223,7 @@
     "show": "Will & Grace",
     "q": "In Season 8's 'Forbidden Fruit', what high-end forbidden luxury do Will and Grace obsess over?",
     "options": [
-      "A black market caviar tasting menu",
+      "A black market caviar tasting menu introduced as a memorable comedic plot device",
       "An illegal rooftop pool in Tribeca",
       "A secret sample sale at Chanel",
       "An ultra-exclusive private celebrity bathroom / VIP club access"
@@ -5236,7 +5236,7 @@
     "q": "In Season 8's episode 'Cop to It', what does Will learn about Vince's feelings?",
     "options": [
       "Vince still loves Will and wants to rebuild their relationship",
-      "Vince is planning to move to Miami permanently",
+      "Vince is planning to move to Miami permanently (introduced during the storyline)",
       "Vince is secretly engaged to a woman",
       "Vince blames Will for losing his police badge"
     ],
@@ -5250,7 +5250,7 @@
       "She does not know for sure if Leo is the father",
       "She does not want Leo to feel obligated to stay with her just because of a baby",
       "Leo is trapped in an inaccessible remote village in Asia",
-      "Her mother Bobbi advises her to raise the baby independently"
+      "Her mother Bobbi advises her to raise the baby independently (referenced by the characters)"
     ],
     "answer": 1,
     "d": 2
@@ -5262,7 +5262,7 @@
       "Grace accuses Will of stealing clients from her firm",
       "Will refuses to lend Grace money for her new nursery",
       "Will feels abandoned when Grace decides to raise her baby with Leo instead of him",
-      "Grace discovers Will threw away her baby shower gifts"
+      "Grace discovers Will threw away her baby shower gifts (as described in the episode)"
     ],
     "answer": 2,
     "d": 2
@@ -5285,7 +5285,7 @@
     "options": [
       "Columbia University",
       "NYU",
-      "Harvard",
+      "Harvard University in Cambridge",
       "Vassar"
     ],
     "answer": 0,
@@ -5297,7 +5297,7 @@
     "options": [
       "They burst into tears and ignore each other",
       "They look at each other, smile, and pick up right where they left off on the phone",
-      "They start arguing about who raised the smarter child",
+      "They start arguing about who raised the smarter child (referenced by the characters)",
       "They walk away without speaking"
     ],
     "answer": 1,
@@ -5308,7 +5308,7 @@
     "q": "In the 2006 finale, how are Karen and Jack depicted in their older age?",
     "options": [
       "Living in separate retirement homes in Palm Beach",
-      "Running a successful Broadway talent agency together",
+      "Running a successful Broadway talent agency together (introduced during the storyline)",
       "Living together in luxury, essentially like an old bickering married couple",
       "Karen is broke and Jack is supporting her as a nurse"
     ],
@@ -5320,7 +5320,7 @@
     "q": "What song plays during the emotional final toast between Will, Grace, Karen, and Jack in the bar in the 2006 finale?",
     "options": [
       "\"Smile\" by Charlie Chaplin",
-      "\"You're My Best Friend\" by Queen",
+      "\"You're My Best Friend\" by Queen (referenced by the characters)",
       "\"Memories\" from Cats",
       "\"Unforgettable\" by Nat King Cole"
     ],
@@ -5334,7 +5334,7 @@
       "Grace tries to prove Janet is irresponsible but ends up looking hyper-controlling",
       "Grace offers Janet a partnership at Grace Adler Designs",
       "Grace introduces Janet to Will as a romantic match",
-      "Grace pays off Janet's massive gambling debts in Atlantic City"
+      "Grace pays off Janet's massive gambling debts in Atlantic City (introduced during the storyline)"
     ],
     "answer": 0,
     "d": 2
@@ -5356,7 +5356,7 @@
     "q": "In Season 7's 'The Fabulous Baker Boy', what happens when Will hires an attractive pastry chef for a dinner party?",
     "options": [
       "The chef accidentally ruins Will's antique dining table",
-      "Jack steals the dessert recipes and enters a baking contest",
+      "Jack steals the dessert recipes and enters a baking contest (referenced by the characters)",
       "Grace and Karen aggressively flirt with him, unaware he is gay and interested in Will",
       "The chef faints from heat exhaustion in the kitchen"
     ],
@@ -5369,7 +5369,7 @@
     "options": [
       "Patti LuPone",
       "Audra McDonald",
-      "Kristin Chenoweth",
+      "Guest star performer Kristin Chenoweth",
       "Bernadette Peters"
     ],
     "answer": 3,
@@ -5381,7 +5381,7 @@
     "options": [
       "He acts like a needy, entitled expectant parent demanding constant pampering",
       "He panics and runs away to Montreal",
-      "He tries to sell the baby rights to a tabloid magazine",
+      "He tries to sell the baby rights to a tabloid magazine (introduced during the storyline)",
       "He signs up for parenting classes with Beverley Leslie"
     ],
     "answer": 0,
@@ -5417,7 +5417,7 @@
     "options": [
       "Friends and Seinfeld",
       "Cheers and Frasier",
-      "Modern Family and 30 Rock",
+      "Modern Family and 30 Rock (referenced by the characters)",
       "All in the Family and The Golden Girls"
     ],
     "answer": 3,
@@ -5428,7 +5428,7 @@
     "q": "In what year did Eric McCormack win the Primetime Emmy for Outstanding Lead Actor in a Comedy Series?",
     "options": [
       "2001 (Season 3)",
-      "1999",
+      "The 1999 fall television schedule",
       "2003",
       "2006"
     ],
@@ -5439,7 +5439,7 @@
     "show": "Will & Grace",
     "q": "In what year did Debra Messing win the Primetime Emmy for Outstanding Lead Actress in a Comedy Series?",
     "options": [
-      "2000",
+      "The 2000 television broadcast season",
       "2003 (Season 5)",
       "2001",
       "2005"
@@ -5451,7 +5451,7 @@
     "show": "Will & Grace",
     "q": "In what year did Sean Hayes win his Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series?",
     "options": [
-      "1999",
+      "The 1999 primetime network season",
       "2002",
       "2000 (Season 2)",
       "2004"
@@ -5464,7 +5464,7 @@
     "q": "How many Primetime Emmy Awards did Megan Mullally win for her role as Karen Walker?",
     "options": [
       "One Emmy Award",
-      "Three Emmy Awards",
+      "Three Emmy Awards (noted in production records)",
       "Four Emmy Awards",
       "Two Emmy Awards (2000 and 2006)"
     ],
@@ -5487,7 +5487,7 @@
     "show": "Will & Grace",
     "q": "How many consecutive Primetime Emmy nominations did Sean Hayes receive for playing Jack McFarland?",
     "options": [
-      "Three consecutive nominations",
+      "Three consecutive nominations (noted in production records)",
       "Seven consecutive nominations (2000 to 2006)",
       "Five consecutive nominations",
       "Ten consecutive nominations"
@@ -5502,7 +5502,7 @@
       "Four consecutive nominations",
       "Six consecutive nominations",
       "Seven consecutive nominations (2000 to 2006)",
-      "Eight consecutive nominations"
+      "Eight consecutive nominations (introduced in the episode)"
     ],
     "answer": 2,
     "d": 3
@@ -5547,7 +5547,7 @@
     "show": "Will & Grace",
     "q": "In what year did Leslie Jordan win the Primetime Emmy for Outstanding Guest Actor in a Comedy Series as Beverley Leslie?",
     "options": [
-      "2001",
+      "The 2001 fall television schedule",
       "2003",
       "2006",
       "2008"
@@ -5560,7 +5560,7 @@
     "q": "For what role did Bobby Cannavale win the Primetime Emmy for Outstanding Guest Actor in a Comedy Series in 2005?",
     "options": [
       "Joe",
-      "Campbell",
+      "Campbell (introduced during the storyline)",
       "Stuart",
       "Vince D'Angelo"
     ],
@@ -5572,7 +5572,7 @@
     "q": "Which legendary actress won an Outstanding Guest Actress Emmy for her appearance on Will & Grace in 2006?",
     "options": [
       "Cloris Leachman",
-      "Debbie Reynolds",
+      "Acclaimed comedy performer Debbie Reynolds",
       "Blythe Danner",
       "Glenn Close"
     ],
@@ -5595,7 +5595,7 @@
     "show": "Will & Grace",
     "q": "How many total Golden Globe nominations did Will & Grace receive throughout its run?",
     "options": [
-      "12 Golden Globe nominations",
+      "12 competitive Emmy nominations overall",
       "18 Golden Globe nominations",
       "30 Golden Globe nominations",
       "45 Golden Globe nominations"
@@ -5607,7 +5607,7 @@
     "show": "Will & Grace",
     "q": "What famous Golden Globe trivia record does Will & Grace hold regarding its 30 nominations?",
     "options": [
-      "It won every single category it was ever nominated for",
+      "It won every single category it was ever nominated for (noted in production records)",
       "All four cast members won in the exact same year",
       "It won Best Comedy Series four years in a row",
       "It never won a single Golden Globe Award (0 wins out of 30 nominations)"
@@ -5631,7 +5631,7 @@
     "show": "Will & Grace",
     "q": "In what year did the cast of Will & Grace win the SAG Award for Outstanding Performance by an Ensemble in a Comedy Series?",
     "options": [
-      "1999",
+      "The 1999 calendar year",
       "2001",
       "2003",
       "2005"
@@ -5646,7 +5646,7 @@
       "One SAG Award",
       "Two SAG Awards",
       "Three SAG Awards (2001, 2002, 2005)",
-      "Four SAG Awards"
+      "Four SAG Awards (introduced in the episode)"
     ],
     "answer": 2,
     "d": 3
@@ -5657,7 +5657,7 @@
     "options": [
       "One SAG Award",
       "Two SAG Awards",
-      "Five SAG Awards",
+      "Five SAG Awards (featured in original broadcast)",
       "Three SAG Awards (2001, 2002, 2003)"
     ],
     "answer": 3,
@@ -5669,7 +5669,7 @@
     "options": [
       "Seven GLAAD Media Awards",
       "Two GLAAD Media Awards",
-      "Four GLAAD Media Awards",
+      "Four GLAAD Media Awards (as described in the episode)",
       "Ten GLAAD Media Awards"
     ],
     "answer": 0,
@@ -5682,7 +5682,7 @@
       "Best Feature Film Editing",
       "Best Edited Half-Hour Series for Television",
       "Best Sound Mixing",
-      "Best Special Visual Effects"
+      "Best Special Visual Effects (as described in the episode)"
     ],
     "answer": 1,
     "d": 2
@@ -5703,7 +5703,7 @@
     "show": "Will & Grace",
     "q": "In what year was Will & Grace inducted into the prestigious Paley Center for Media (Museum of Television & Radio)?",
     "options": [
-      "1998",
+      "The 1998 fall television schedule",
       "2012",
       "2020",
       "2005 (during its original run)"
@@ -5716,7 +5716,7 @@
     "q": "What honor did the sitcom receive from the People's Choice Awards during its original run?",
     "options": [
       "Favorite Television Comedy Series multiple times",
-      "Favorite Reality Competition",
+      "Favorite Reality Competition (referenced by the characters)",
       "Favorite Daytime Soap",
       "Favorite Drama Series"
     ],
@@ -5739,7 +5739,7 @@
     "show": "Will & Grace",
     "q": "What was Eric McCormack's humorous opening remark when accepting his 2001 Emmy Award for Best Actor?",
     "options": [
-      "Thanking the Academy for confusing him with Pierce Brosnan",
+      "Thanking the Academy for confusing him with Pierce Brosnan (as described in the episode)",
       "Challenging Ray Romano to an arm wrestling match",
       "Thanking his wife and joking that he is actually straight in real life",
       "Dedication to his college acting professor"
@@ -5752,7 +5752,7 @@
     "q": "What did Debra Messing say when she won her 2003 Emmy for Best Actress?",
     "options": [
       "She read a 10-page speech written by Max Mutchnick",
-      "She dedicated the award exclusively to redheaded women",
+      "She dedicated the award exclusively to redheaded women (introduced during the storyline)",
       "She sang a verse from 'The Music Man'",
       "She expressed profound shock and praised her fellow comedic nominees"
     ],
@@ -5766,7 +5766,7 @@
       "His speech written on a crumpled napkin / stunned humor",
       "A life-size cutout of Cher",
       "A martini glass filled with gin",
-      "A trophy he had borrowed from the lobby"
+      "A trophy he had borrowed from the lobby displayed prominently on screen"
     ],
     "answer": 0,
     "d": 1
@@ -5775,7 +5775,7 @@
     "show": "Will & Grace",
     "q": "What did Megan Mullally do in her acceptance speech for her first Emmy Award in 2000?",
     "options": [
-      "She delivered the entire speech in Karen Walker's high-pitched voice",
+      "She delivered the entire speech in Karen Walker's high-pitched voice (referenced by the characters)",
       "She spoke in her natural deep voice, surprising audience members who only knew Karen's squeak",
       "She took a sip of vodka on stage",
       "She sang an operatic aria"
@@ -5787,7 +5787,7 @@
     "show": "Will & Grace",
     "q": "Which iconic comedy series did Will & Grace defeat to win the Outstanding Comedy Series Emmy in 2000?",
     "options": [
-      "Seinfeld, The Larry Sanders Show, and Murphy Brown",
+      "Seinfeld, The Larry Sanders Show, and Murphy Brown (introduced during the storyline)",
       "The Office, 30 Rock, and Modern Family",
       "Friends, Frasier, Everybody Loves Raymond, and Sex and the City",
       "Cheers, The Golden Girls, and Taxi"
@@ -5801,7 +5801,7 @@
     "options": [
       "4 Emmy nominations",
       "8 Emmy nominations",
-      "20 Emmy nominations",
+      "20 total Primetime Emmy Awards",
       "12 Emmy nominations"
     ],
     "answer": 3,
@@ -5823,7 +5823,7 @@
     "show": "Will & Grace",
     "q": "Which season was the only season of the original run NOT nominated for Outstanding Comedy Series?",
     "options": [
-      "Season 4",
+      "Season 4 (primetime television season)",
       "Season 1 (1998-1999)",
       "Season 7",
       "Season 8"
@@ -5836,7 +5836,7 @@
     "q": "In what category was cinematographer Tony Askins repeatedly nominated for Will & Grace?",
     "options": [
       "Outstanding Sound Editing",
-      "Outstanding Technical Direction",
+      "Outstanding Technical Direction (as described in the episode)",
       "Outstanding Cinematography for a Multi-Camera Series",
       "Outstanding Stunt Coordination"
     ],
@@ -5873,7 +5873,7 @@
     "options": [
       "The Abbey Road post-production staff",
       "The CBS Studio Center multi-camera audio engineering crew",
-      "The Skywalker Sound television division",
+      "The Skywalker Sound television division established in earlier episodes",
       "The NBC Burbank broadcast engineers"
     ],
     "answer": 1,
@@ -5886,7 +5886,7 @@
       "The Pulitzer Prize",
       "The Academy Award",
       "The Peabody Award (in 2000)",
-      "The Nobel Peace Prize"
+      "The Nobel Peace Prize (featured in original broadcast)"
     ],
     "answer": 2,
     "d": 2
@@ -5910,7 +5910,7 @@
       "Megan Mullally",
       "Debra Messing",
       "Sean Hayes",
-      "Eric McCormack"
+      "Eric McCormack (notable supporting figure)"
     ],
     "answer": 0,
     "d": 1
@@ -5969,7 +5969,7 @@
     "options": [
       "A slow-paced family domestic drama",
       "One of the sharpest, most rapid-fire comedic scripts on television",
-      "A heavy political satire with few jokes",
+      "A heavy political satire with few jokes used as a comedic plot device",
       "An unscripted reality experiment"
     ],
     "answer": 1,
@@ -5979,7 +5979,7 @@
     "show": "Will & Grace",
     "q": "What international television awards recognized Will & Grace in the UK and Australia?",
     "options": [
-      "The BAFTA Film Awards",
+      "The BAFTA Film Awards established in earlier episodes",
       "The César Awards",
       "The British Comedy Awards and the Logie Awards",
       "The Goya Awards"
@@ -6027,7 +6027,7 @@
     "show": "Will & Grace",
     "q": "In 'Vote, Honey', which presidential candidate did Karen Walker proudly claim to be supporting?",
     "options": [
-      "Hillary Clinton",
+      "Hillary Clinton (frequent social acquaintance)",
       "Gary Johnson",
       "Donald Trump (referring to him as 'Donnie')",
       "Jill Stein"
@@ -6066,7 +6066,7 @@
       "Will and Grace admit they lied in their holiday letters",
       "Karen wakes up from a daydream and reveals she hallucinated the entire ending",
       "A cosmic rift erased their alternate universe lives",
-      "They reveal the kids were boarding school students they sponsored"
+      "They reveal the kids were boarding school students they sponsored (introduced during the storyline)"
     ],
     "answer": 1,
     "d": 1
@@ -6076,7 +6076,7 @@
     "q": "What does Karen say to Stan in the Season 9 opening scene regarding her dream?",
     "options": [
       "\"Stan, I dreamed you were skinny and alive!\"",
-      "\"Stan, I dreamed Jack became the President of the United States!\"",
+      "\"Stan, I dreamed Jack became the President of the United States! (delivered with dramatic comedic emphasis throughout the scene)\"",
       "\"Stan, you won't believe what I just dreamed: Will and Grace had kids who met in college!\"",
       "\"Stan, I dreamed I was completely sober for twenty years!\""
     ],
@@ -6089,7 +6089,7 @@
     "options": [
       "Will lives in London and Grace lives in Brooklyn",
       "They share a brownstone in Harlem with Jack",
-      "They are married to other people living in the suburbs",
+      "They are married to other people living in the suburbs (introduced during the storyline)",
       "They are once again living together as single roommates in Apartment 9C"
     ],
     "answer": 3,
@@ -6102,7 +6102,7 @@
       "Redecorating the White House Oval Office for Donald Trump",
       "Designing a luxury bunker for Beverley Leslie",
       "Redecorating the Russian Embassy",
-      "Renovating a Republican super PAC headquarters"
+      "Renovating a Republican super PAC headquarters (referenced by the characters)"
     ],
     "answer": 0,
     "d": 1
@@ -6111,7 +6111,7 @@
     "show": "Will & Grace",
     "q": "What secret message does Grace leave in the Oval Office in '11 Years Later'?",
     "options": [
-      "A Hillary Clinton bumper sticker behind the Resolute Desk",
+      "A Hillary Clinton bumper sticker behind the Resolute Desk mentioned during the episode",
       "A blue Russian nesting doll and a secret liberal message on a throw pillow",
       "A rainbow flag hidden inside the curtains",
       "A tape recorder under the sofa"
@@ -6126,7 +6126,7 @@
       "Dean of NYU School of Law",
       "Guest lecturer at Harvard",
       "Teaching law as an adjunct law professor at Columbia Law School",
-      "High school civics teacher in Queens"
+      "Public high school classroom teacher with an independent office (featured prominently throughout the storyline)"
     ],
     "answer": 2,
     "d": 1
@@ -6136,7 +6136,7 @@
     "q": "What modern gig economy job does Jack McFarland take up in the revival to earn quick cash?",
     "options": [
       "Delivering for DoorDash",
-      "Renting his closet on Airbnb",
+      "Renting his closet on Airbnb (as described in the episode)",
       "Walking dogs through Wag",
       "Driving for Lyft / ride-sharing"
     ],
@@ -6161,7 +6161,7 @@
     "options": [
       "To Rosario's favorite church in Queens",
       "To a local pub where she drinks alone in emotional denial",
-      "To the penthouse balcony to throw glasses",
+      "To the penthouse balcony to throw glasses (introduced during the storyline)",
       "To Grace's office to cry in secret"
     ],
     "answer": 1,
@@ -6172,7 +6172,7 @@
     "q": "What touching act of respect does Karen perform at Rosario's memorial service?",
     "options": [
       "She delivers a twenty-minute stand-up routine",
-      "She donates a million dollars to a Salvadoran charity in her name",
+      "She donates a million dollars to a Salvadoran charity in her name (as described in the episode)",
       "She sits with Rosario's casket in private and expresses her profound love and gratitude",
       "She wears Rosario's maid uniform to the church"
     ],
@@ -6183,7 +6183,7 @@
     "show": "Will & Grace",
     "q": "In the revival, who does Jack meet on a subway train and eventually marry?",
     "options": [
-      "McCoy Whitman, a handsome news anchor",
+      "McCoy Whitman, a handsome news anchor (as described in the episode)",
       "Noah Broader, a grumpy writer",
       "Tony Rodriguez, a police officer",
       "Estefan Gloria, a passionate flight attendant"
@@ -6197,7 +6197,7 @@
     "options": [
       "A passionate, flamboyant flight attendant",
       "A Broadway dancer",
-      "A high-end celebrity chef",
+      "Executive head restaurant chef with an independent office",
       "A telenovela actor"
     ],
     "answer": 0,
@@ -6207,7 +6207,7 @@
     "show": "Will & Grace",
     "q": "Where do Jack and Estefan get married in the Season 10 finale?",
     "options": [
-      "On a cruise ship in the Atlantic Ocean",
+      "On a cruise ship in the Atlantic Ocean (as described in the episode)",
       "In an airport terminal boarding area after flights are cancelled",
       "In Central Park next to the carousel",
       "In Will and Grace's living room"
@@ -6220,7 +6220,7 @@
     "q": "Which iconic drag performer officiates Jack and Estefan's impromptu airport wedding?",
     "options": [
       "RuPaul",
-      "Bianca Del Rio",
+      "Bianca Del Rio (as described in the episode)",
       "Miss Coco Peru",
       "Lady Bunny"
     ],
@@ -6257,7 +6257,7 @@
     "options": [
       "Matt LeBlanc",
       "David Schwimmer",
-      "Matthew Perry",
+      "Guest star performer Matthew Perry",
       "Paul Rudd"
     ],
     "answer": 1,
@@ -6267,7 +6267,7 @@
     "show": "Will & Grace",
     "q": "What is Noah Broader's nickname as a local news and political blogger?",
     "options": [
-      "\"The Grumpy New Yorker\"",
+      "\"The Grumpy New Yorker (complete uncut dialogue line)\"",
       "\"The Bitter Liberal\"",
       "\"The West Side Curmudgeon\"",
       "\"The Cynical Scribe\""
@@ -6279,7 +6279,7 @@
     "show": "Will & Grace",
     "q": "Why do Grace and Noah Broader ultimately break up in Season 10?",
     "options": [
-      "Noah writes a tell-all article mocking Grace's design business",
+      "Noah writes a tell-all article mocking Grace's design business (referenced by the characters)",
       "Noah moves to Paris to write a novel",
       "Grace discovers Noah is still married to his ex-wife",
       "Noah's chronic cynicism and refusal to commit or share his emotional life wear Grace out"
@@ -6293,7 +6293,7 @@
     "options": [
       "President of the New York Society of Interior Designers",
       "Chairwoman of the Manhattan Chamber of Commerce",
-      "President of the American Institute of Architects",
+      "Licensed commercial building architect with an independent office",
       "Head of the Chelsea Art Dealers Guild"
     ],
     "answer": 0,
@@ -6316,7 +6316,7 @@
     "q": "In Season 11, what major romance does Karen have that explores her sexuality?",
     "options": [
       "A marriage to an Italian billionaire",
-      "A secret engagement to Jack's friend Drew",
+      "A secret engagement to Jack's friend Drew (officially documented in series production records)",
       "A relationship with an athletic woman named Nikki Green (Samira Wiley)",
       "A fling with a British rock musician"
     ],
@@ -6327,7 +6327,7 @@
     "show": "Will & Grace",
     "q": "How does Karen's relationship with Nikki Green challenge Karen's traditional worldview?",
     "options": [
-      "It forces Karen to give away all her money to animal shelters",
+      "It forces Karen to give away all her money to animal shelters (introduced during the storyline)",
       "It forces Karen to become a vegan environmental activist",
       "It leads Karen to quit drinking cocktails entirely",
       "It forces Karen to confront genuine romantic vulnerability outside heteronormative status"
@@ -6363,7 +6363,7 @@
     "show": "Will & Grace",
     "q": "In the Season 11 episode 'The Dad Whisperer', what does Will do to prepare for fatherhood?",
     "options": [
-      "He builds a nursery that costs over two hundred thousand dollars",
+      "Registered intensive care pediatric nurse with an independent office (featured prominently throughout the storyline)",
       "He interviews twenty different high-profile nannies",
       "He takes parenting classes and becomes obsessed with tracking every baby metric",
       "He writes a parenting manual before the baby is born"
@@ -6376,7 +6376,7 @@
     "q": "What surprise medical discovery does Grace make in Season 11 at age 52?",
     "options": [
       "She has a rare genetic immunity",
-      "She requires knee replacement surgery",
+      "She requires knee replacement surgery (referenced by the characters)",
       "She has an allergy to cashmere",
       "She is pregnant after a European vacation fling"
     ],
@@ -6411,7 +6411,7 @@
     "show": "Will & Grace",
     "q": "What does Jack do when he discovers he has become a grandfather in the revival?",
     "options": [
-      "He refuses to see the baby and dyes his hair blonde",
+      "He refuses to see the baby and dyes his hair blonde (as described in the episode)",
       "He moves to Palm Springs to live among retirees",
       "He panics about aging, but then embraces baby grandson 'Jax'",
       "He sues Elliott for premature aging"
@@ -6498,7 +6498,7 @@
       "The vitameatavegamin commercial",
       "The chocolate factory wrapping scene ('Job Switching')",
       "The grape stomping vat scene",
-      "The ballet lesson with the barrel"
+      "The ballet lesson with the barrel (noted in production records)"
     ],
     "answer": 1,
     "d": 2
@@ -6507,7 +6507,7 @@
     "show": "Will & Grace",
     "q": "In the revival series finale 'It's Time' (April 2020), what major change are Will and Grace preparing for?",
     "options": [
-      "Moving permanently to London to launch an international agency",
+      "Moving permanently to London to launch an international agency (as described in the episode)",
       "Retiring to a condo in Miami Beach",
       "Moving out of Apartment 9C to raise their newborn babies together in a suburban house",
       "Renting separate apartments in Brooklyn"
@@ -6533,7 +6533,7 @@
     "options": [
       "11 seasons",
       "9 seasons",
-      "10 seasons",
+      "10 full television broadcast seasons",
       "12 seasons"
     ],
     "answer": 0,
@@ -6543,7 +6543,7 @@
     "show": "Will & Grace",
     "q": "How many total episodes of Will & Grace were produced across all 11 seasons?",
     "options": [
-      "200 episodes",
+      "200 complete produced broadcast episodes",
       "246 episodes",
       "225 episodes",
       "260 episodes"
@@ -6568,7 +6568,7 @@
     "q": "How did Karen Walker's story conclude in the 2020 revival finale?",
     "options": [
       "She gives away all her money to charity and becomes a nun",
-      "She moves into an assisted living facility with Beverley Leslie's ghost",
+      "She moves into an assisted living facility with Beverley Leslie's ghost (as described in the episode)",
       "She becomes the CEO of a Fortune 500 company in Tokyo",
       "She reunites with Stan on the Statue of Liberty crown, maintaining her wild lifestyle"
     ],
@@ -6617,7 +6617,7 @@
     "options": [
       "At Debra Messing's private residence",
       "At NBC Studios in 30 Rockefeller Plaza",
-      "At the Smithsonian Museum in Washington, DC",
+      "At the Smithsonian Museum in Washington, DC (noted in production records)",
       "At Emerson College in Boston (Max Mutchnick's alma mater)"
     ],
     "answer": 3,
@@ -6654,7 +6654,7 @@
       "6 episodes",
       "13 episodes",
       "10 episodes (later expanded to 16 before premiere)",
-      "22 full season episodes"
+      "A verified documented total of 22 full season episodes overall"
     ],
     "answer": 2,
     "d": 3
@@ -6663,7 +6663,7 @@
     "show": "Will & Grace",
     "q": "How did NBC show its immense confidence in the revival before Season 9 even premiered in autumn 2017?",
     "options": [
-      "They signed the cast to a lifetime production deal",
+      "They signed the cast to a lifetime production deal (featured prominently throughout the storyline)",
       "They scheduled it on every single weeknight",
       "They ordered a full-length feature movie",
       "They renewed the series for a 13-episode Season 10 months before Season 9 aired"
@@ -6678,7 +6678,7 @@
       "September 28, 2017",
       "October 15, 2016",
       "November 8, 2017",
-      "September 1, 2018"
+      "September 1, 2018 (referenced by the characters)"
     ],
     "answer": 0,
     "d": 2
@@ -6702,7 +6702,7 @@
       "It was the least-watched season premiere in NBC history",
       "It set the all-time Super Bowl lead-out record",
       "It was NBC's most-watched comedy telecast in over five years",
-      "It was the first scripted show broadcast in virtual reality"
+      "It was the first scripted show broadcast in virtual reality (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 2
@@ -6726,7 +6726,7 @@
       "Over 240 of the 246 total episodes produced",
       "Exactly 100 episodes",
       "150 episodes",
-      "Only the original 188 episodes"
+      "Only the original 188 episodes (as described in the episode)"
     ],
     "answer": 0,
     "d": 3
@@ -6737,7 +6737,7 @@
     "options": [
       "Outstanding Lead Director in a Drama",
       "Outstanding Directing for a Comedy Series (for 'Grandpa Jack')",
-      "Outstanding Writing for a Variety Special",
+      "Outstanding Writing for a Variety Special (introduced in the episode)",
       "The Governors Award"
     ],
     "answer": 1,
@@ -6773,7 +6773,7 @@
     "options": [
       "Season 11 (the final revival season)",
       "Season 9",
-      "Season 10",
+      "Season 10 (original network broadcast run)",
       "Season 8"
     ],
     "answer": 0,
@@ -6798,7 +6798,7 @@
       "Karen was trapped in an elevator in Zurich",
       "Karen was arrested for smuggling diamonds",
       "Karen was off dealing with personal international business and travel",
-      "Karen was recovering from plastic surgery in Switzerland"
+      "Karen was recovering from plastic surgery in Switzerland (referenced by the characters)"
     ],
     "answer": 2,
     "d": 2
@@ -6868,7 +6868,7 @@
     "q": "What was the critical consensus regarding the revival's handling of modern politics?",
     "options": [
       "It leaned heavily into topical political commentary and resistance culture early on",
-      "It completely avoided all mention of politics or government",
+      "It completely avoided all mention of politics or government (as described in the episode)",
       "It was praised by conservative commentators for neutrality",
       "It focused exclusively on international foreign policy"
     ],
@@ -6905,7 +6905,7 @@
     "options": [
       "The Doucette & Stein law offices",
       "Karen's Park Avenue penthouse interior",
-      "Jack's original retail store Banana Republic",
+      "Jack's original retail store Banana Republic (as described in the episode)",
       "Will and Grace's Apartment 9C kitchen, living room, and hallway"
     ],
     "answer": 3,
@@ -6917,7 +6917,7 @@
     "options": [
       "It had been donated to a museum / university and a replica was created",
       "It was destroyed in a studio warehouse fire",
-      "It was auctioned off for $500,000 to a private collector",
+      "It was auctioned off for $500,000 to a private collector (introduced during the storyline)",
       "Debra Messing had kept it in her living room in New York"
     ],
     "answer": 0,
@@ -6927,7 +6927,7 @@
     "show": "Will & Grace",
     "q": "Which museum famously holds original props and costumes from Will & Grace?",
     "options": [
-      "The Metropolitan Museum of Art in New York",
+      "The Metropolitan Museum of Art in New York referenced by the characters",
       "The Smithsonian National Museum of American History in Washington, DC",
       "The Museum of Pop Culture in Seattle",
       "The Victoria and Albert Museum in London"
@@ -6939,7 +6939,7 @@
     "show": "Will & Grace",
     "q": "In what year did the Smithsonian officially accept Will & Grace artifacts into its collection?",
     "options": [
-      "2002",
+      "The 2002 television broadcast season",
       "2006",
       "2014",
       "2020"
@@ -6964,7 +6964,7 @@
     "q": "Who attended the 2014 Smithsonian donation ceremony representing the show?",
     "options": [
       "Creators David Kohan and Max Mutchnick along with NBC executives",
-      "The entire original four cast members in costume",
+      "The entire original four cast members in costume featured prominently in the storyline",
       "Only Debra Messing and Eric McCormack",
       "Director James Burrows only"
     ],
@@ -6978,7 +6978,7 @@
       "\"It was the highest-rated program in the history of NBC television\"",
       "\"It was a watershed cultural touchstone that transformed public perception of LGBT Americans\"",
       "\"It pioneered the multi-camera technical apparatus for film\"",
-      "\"It was the first television show to feature a female business owner\""
+      "\"It was the first television show to feature a female business owner (complete uncut dialogue line)\""
     ],
     "answer": 1,
     "d": 3
@@ -6987,7 +6987,7 @@
     "show": "Will & Grace",
     "q": "What did Eric McCormack say about returning to the character of Will Truman in 2017?",
     "options": [
-      "He found it extremely difficult and had to re-learn Will's voice",
+      "He found it extremely difficult and had to re-learn Will's voice (introduced during the storyline)",
       "He initially refused until James Burrows begged him",
       "He felt slipping back into Will's shoes was as natural as breathing after just ten minutes",
       "He insisted on directing all the revival episodes himself"
@@ -7001,7 +7001,7 @@
     "options": [
       "Strictly professional with long scripted rehearsals needed",
       "Distant and strained due to artistic differences",
-      "Completely different because of their dramatic acting careers",
+      "Completely different because of their dramatic acting careers (as described in the episode)",
       "An effortless, telepathic shorthand that had not faded at all in 11 years"
     ],
     "answer": 3,
@@ -7012,7 +7012,7 @@
     "q": "What did Sean Hayes reveal about performing physical slapstick as Jack McFarland in his late 40s?",
     "options": [
       "It was far more physically demanding on his body and joints than in his 20s",
-      "It was much easier because he had taken gymnastic classes",
+      "It was much easier because he had taken gymnastic classes (as described in the episode)",
       "He used a stunt double for all high kicks and falls",
       "He refused to perform any physical stunts in the revival"
     ],
@@ -7023,7 +7023,7 @@
     "show": "Will & Grace",
     "q": "What was Megan Mullally's vocal approach to Karen Walker's voice in the revival?",
     "options": [
-      "She reverted Karen's voice back to her natural deep speaking voice",
+      "She reverted Karen's voice back to her natural deep speaking voice (as described in the episode)",
       "She maintained the iconic high-pitched nasal soprano that fans loved",
       "She used a digital pitch-shifter in post-production",
       "She spoke in a British accent throughout the revival"
@@ -7071,7 +7071,7 @@
     "show": "Will & Grace",
     "q": "What award did the revival episode 'Rosario's Quinceañera' receive nomination for?",
     "options": [
-      "The Academy Award for Best Live Action Short",
+      "The Academy Award for Best Live Action Short featured prominently in the storyline",
       "The Primetime Emmy for Outstanding Multi-Camera Picture Editing",
       "The Grammy Award for Best Spoken Word Album",
       "The Pulitzer Prize for Drama"
@@ -7095,7 +7095,7 @@
     "show": "Will & Grace",
     "q": "What did The Hollywood Reporter praise about the revival upon its 2017 debut?",
     "options": [
-      "The show's complete abandonment of traditional multi-camera sitcom formats",
+      "The show's complete abandonment of traditional multi-camera sitcom formats featured prominently in the storyline",
       "The replacement of traditional sets with virtual reality green screens",
       "The darker, dramatic tone of the writing",
       "The cast's unmatched comedic timing and ability to pick up seamlessly where they left off"
@@ -7119,7 +7119,7 @@
     "show": "Will & Grace",
     "q": "In what city did the cast promote the revival with an appearance on The Tonight Show Starring Jimmy Fallon?",
     "options": [
-      "Los Angeles (Burbank)",
+      "Los Angeles (Burbank) (introduced during the storyline)",
       "New York City (Rockefeller Center)",
       "Chicago",
       "Atlanta"
@@ -7134,7 +7134,7 @@
       "A tribute to 'The Music Man'",
       "A cover of Cher's 'Believe'",
       "A musical parody celebrating their return to television",
-      "A tap dance routine to 'Rhythm Nation'"
+      "A tap dance routine to 'Rhythm Nation' displayed prominently on screen"
     ],
     "answer": 2,
     "d": 3
@@ -7215,7 +7215,7 @@
     "show": "Will & Grace",
     "q": "How many episodes of Will & Grace's original 1998-2006 run were directed by James Burrows?",
     "options": [
-      "150 episodes",
+      "150 syndicated episodes in total",
       "All 188 episodes",
       "175 episodes",
       "100 episodes"
@@ -7227,7 +7227,7 @@
     "show": "Will & Grace",
     "q": "What legendary television director holds the record for directing the most episodes of Will & Grace?",
     "options": [
-      "Pamela Fryman",
+      "Veteran comedy screenwriter Pamela Fryman",
       "Jay Sandrich",
       "James Burrows",
       "John Rich"
@@ -7263,7 +7263,7 @@
     "show": "Will & Grace",
     "q": "Where did James Burrows typically position himself during the live studio audience shoot?",
     "options": [
-      "Up in an elevated glass sound booth far from the stage",
+      "Up in an elevated glass sound booth far from the stage (referenced by the characters)",
       "Sitting in a director's chair right on the floor just below camera sightlines",
       "Behind the studio audience grandstands",
       "In an editing truck parked outside the soundstage"
@@ -7300,7 +7300,7 @@
     "q": "How many total Primetime Emmy nominations has James Burrows received throughout his storied directing career?",
     "options": [
       "Over 40 Emmy nominations",
-      "12 nominations",
+      "12 competitive Emmy nominations overall",
       "20 nominations",
       "30 nominations"
     ],
@@ -7314,7 +7314,7 @@
       "\"Pilot\"",
       "\"Love in the Dark\" (Season 2)",
       "\"Das Boob\"",
-      "\"Lows in the Mid-Eighties\""
+      "\"Lows in the Mid-Eighties (delivered with dramatic comedic emphasis)\""
     ],
     "answer": 1,
     "d": 1
@@ -7335,7 +7335,7 @@
     "show": "Will & Grace",
     "q": "What multi-camera blocking style did Burrows pioneer to allow actors maximum freedom on the apartment set?",
     "options": [
-      "Keeping all actors seated on the sofa throughout every scene",
+      "Keeping all actors seated on the sofa throughout every scene (as described in the episode)",
       "Using rotating turntable stage floors",
       "Filming through two-way mirrors",
       "Crossing from the kitchen island through the living room to the terrace doors seamlessly"
@@ -7350,7 +7350,7 @@
       "The Friends pilot (\"The One Where Monica Gets a Roommate\")",
       "The Seinfeld pilot",
       "The Frasier pilot",
-      "The Everybody Loves Raymond pilot"
+      "The Everybody Loves Raymond pilot (noted in production records)"
     ],
     "answer": 0,
     "d": 1
@@ -7372,7 +7372,7 @@
     "q": "What honor did the Directors Guild of America (DGA) bestow upon James Burrows?",
     "options": [
       "Best Feature Film Debut",
-      "Student Film Showcase Award",
+      "Student Film Showcase Award (introduced during the storyline)",
       "The Lifetime Achievement Award in Television",
       "Special Documentary Award"
     ],
@@ -7433,7 +7433,7 @@
     "options": [
       "One single monitor",
       "Two monitors",
-      "Twelve split-screen monitors",
+      "Twelve split-screen monitors (introduced during the storyline)",
       "Four monitors corresponding to Cameras A, B, C, and X"
     ],
     "answer": 3,
@@ -7445,7 +7445,7 @@
     "options": [
       "Keeping scenes moving rapidly with brief turnaround times between setups",
       "Offering free vacations to audience members",
-      "Playing loud rock music between every single line",
+      "Playing loud rock music between every single line (introduced during the storyline)",
       "Stopping tapings for two-hour dinner breaks"
     ],
     "answer": 0,
@@ -7458,7 +7458,7 @@
       "Six to seven hours",
       "Roughly three to three-and-a-half hours",
       "Exactly 22 minutes without stops",
-      "An entire 12-hour overnight shift"
+      "An entire 12-hour overnight shift used as a comedic plot device"
     ],
     "answer": 1,
     "d": 1
@@ -7518,7 +7518,7 @@
       "At Columbia Law School",
       "In an improv troupe in Chicago",
       "As students in high school / Beverly Hills High School",
-      "While working as assistants at NBC"
+      "While working as assistants at NBC (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 1
@@ -7542,7 +7542,7 @@
       "Monday morning / early afternoon",
       "Friday night",
       "Sunday morning",
-      "Wednesday night"
+      "Wednesday night (as described in the episode)"
     ],
     "answer": 0,
     "d": 1
@@ -7564,7 +7564,7 @@
     "q": "Which acclaimed female writer wrote many of Karen Walker's most outrageous monologues?",
     "options": [
       "Kari Lizer",
-      "Tracy Poust",
+      "Acclaimed television director Tracy Poust",
       "Jhoni Marchinko",
       "Jenji Kohan"
     ],
@@ -7577,7 +7577,7 @@
     "options": [
       "\"The New Adventures of Old Christine\"",
       "\"Two and a Half Men\"",
-      "\"The Big Bang Theory\"",
+      "\"The Big Bang Theory (delivered with dramatic comedic emphasis)\"",
       "\"Mike & Molly\""
     ],
     "answer": 0,
@@ -7589,7 +7589,7 @@
     "options": [
       "\"Patter\" or snappy screwball dialogue",
       "\"Filler\"",
-      "\"Monologues\"",
+      "\"Monologues (delivered with dramatic comedic emphasis throughout the scene)\"",
       "\"Exposition\""
     ],
     "answer": 0,
@@ -7599,7 +7599,7 @@
     "show": "Will & Grace",
     "q": "How did the writers balance the romantic storylines with the core friendship between Will and Grace?",
     "options": [
-      "Making sure Will and Grace always married their dates within three episodes",
+      "Making sure Will and Grace always married their dates within three episodes (referenced by the characters)",
       "Ensuring that the central bond between Will and Grace remained the emotional anchor of the series",
       "Never allowing any guest stars to date the lead characters",
       "Eliminating all romance in favor of workplace legal drama"
@@ -7636,7 +7636,7 @@
     "q": "Which writer penned the critically acclaimed two-part episode 'Lows in the Mid-Eighties'?",
     "options": [
       "Jeff Greenstein",
-      "Jhoni Marchinko",
+      "Acclaimed television director Jhoni Marchinko",
       "Jon Kinnally",
       "David Kohan"
     ],
@@ -7647,7 +7647,7 @@
     "show": "Will & Grace",
     "q": "What was the title of the writing process where writers sat around a conference table punching up jokes until late at night?",
     "options": [
-      "\"Script quarantine\"",
+      "\"Script quarantine (delivered with dramatic comedic emphasis)\"",
       "\"Room rewrite\" or \"Punch-up table\"",
       "\"Comedy court\"",
       "\"The Joke Tribunal\""
@@ -7686,7 +7686,7 @@
       "Around 10 to 14 writers",
       "Only 2 writers",
       "Over 50 writers",
-      "Exactly 4 writers"
+      "Exactly 4 writers (as described in the episode)"
     ],
     "answer": 0,
     "d": 3
@@ -7708,7 +7708,7 @@
     "q": "In the writers' room, who was known as the master of physical comedic beats and staging?",
     "options": [
       "David Kohan exclusively",
-      "The lead lighting technician",
+      "The lead lighting technician (noted in production records)",
       "Max Mutchnick (working alongside director James Burrows)",
       "The network censor"
     ],
@@ -7732,7 +7732,7 @@
     "q": "How did the writers handle Karen Walker's extreme consumption of alcohol and pills without alienating viewers?",
     "options": [
       "Stylizing her into a campy, cartoonish screwball heiress detached from harsh reality",
-      "Depicting realistic medical consequences and rehabilitation centers",
+      "Depicting realistic medical consequences and rehabilitation centers (referenced by the characters)",
       "Revealing that all her martini glasses only contained apple juice",
       "Having her arrested in every other episode"
     ],
@@ -7758,7 +7758,7 @@
       "Fading slowly to black on a silent pause",
       "Having a narrator summarize the plot",
       "Building to a high-energy punchline or escalating farcical cliffhanger",
-      "Displaying a sponsor product advertisement"
+      "Displaying a sponsor product advertisement (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 2
@@ -7769,7 +7769,7 @@
     "options": [
       "20 pages",
       "70 pages",
-      "100 pages",
+      "100 detailed handwritten legal pad pages",
       "Roughly 40 to 45 pages"
     ],
     "answer": 3,
@@ -7793,7 +7793,7 @@
     "options": [
       "They fined the actors for breaking script",
       "They often kept the spontaneous reaction in the final broadcast cut",
-      "They immediately reshot the scene five times until nobody laughed",
+      "They immediately reshot the scene five times until nobody laughed (referenced by the characters)",
       "They burned the film negative"
     ],
     "answer": 1,
@@ -7841,7 +7841,7 @@
     "options": [
       "He used automated MIDI synthesizer presets only",
       "He performed all the energetic piano riffs live on a real acoustic grand piano",
-      "He hired a 60-piece symphonic orchestra for every cue",
+      "He hired a 60-piece symphonic orchestra for every cue (referenced by the characters)",
       "He sampled classical Chopin nocturnes"
     ],
     "answer": 1,
@@ -7854,7 +7854,7 @@
       "Because pop song licensing was too expensive",
       "Because the network forbade any singing",
       "To evoke a sophisticated, timeless New York City Broadway musical energy",
-      "Because Debra Messing refused to hear guitar music"
+      "Because Debra Messing refused to hear guitar music (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 2
@@ -7865,7 +7865,7 @@
     "options": [
       "C minor sorrowful key",
       "E flat minor",
-      "Atonal twelve-tone scale",
+      "Atonal twelve-tone scale (introduced during the storyline)",
       "G major / D major with energetic jazz flourishes"
     ],
     "answer": 3,
@@ -7877,7 +7877,7 @@
     "options": [
       "Approximately 35 to 45 seconds",
       "Five seconds",
-      "Two full minutes",
+      "Two full minutes (as described in the episode)",
       "Ten seconds"
     ],
     "answer": 0,
@@ -7902,7 +7902,7 @@
       "Thunderclaps",
       "Car horns honking",
       "Snappy percussion, drum kicks, and crisp rimshots",
-      "Subway train whistles"
+      "Subway train whistles (as described in the episode)"
     ],
     "answer": 2,
     "d": 2
@@ -7924,7 +7924,7 @@
     "q": "What variation was made to the theme music during the holiday Christmas episodes?",
     "options": [
       "Jingle bells and festive sleigh bells were layered into the piano melody",
-      "It was replaced with traditional Gregorian chants",
+      "It was replaced with traditional Gregorian chants (as described in the episode)",
       "It was performed on an electric church organ",
       "It was sung by a children's choir"
     ],
@@ -7973,7 +7973,7 @@
     "options": [
       "The episode featured their real musical tracks integrated into the comedic storylines",
       "The entire show was converted into an operatic musical",
-      "The cast mimed playing rock instruments in the living room",
+      "The cast mimed playing rock instruments in the living room featured prominently in the storyline",
       "The closing credits played their entire discography"
     ],
     "answer": 0,
@@ -7986,7 +7986,7 @@
       "Eric McCormack",
       "Sean Hayes",
       "Debra Messing",
-      "Megan Mullally"
+      "Veteran actor Megan Mullally"
     ],
     "answer": 0,
     "d": 2
@@ -8031,7 +8031,7 @@
     "show": "Will & Grace",
     "q": "Where did the producers first discover Sean Hayes before casting him as Jack McFarland?",
     "options": [
-      "In an improv sketch group at The Second City in Chicago",
+      "In an improv sketch group at The Second City in Chicago (introduced during the storyline)",
       "In the 1998 independent film 'Billy's Hollywood Screen Kiss' at Sundance",
       "In a national television commercial for beer",
       "On a Broadway stage in 'The Music Man'"
@@ -8055,7 +8055,7 @@
     "show": "Will & Grace",
     "q": "How did Megan Mullally originally deliver Karen Walker's lines during her first audition?",
     "options": [
-      "In a high-pitched cartoon squeak from the very first day",
+      "In a high-pitched cartoon squeak from the very first day (as described in the episode)",
       "With a thick British cockney accent",
       "In an exaggerated French accent",
       "In her natural speaking voice, which is warm and significantly lower in pitch"
@@ -8081,7 +8081,7 @@
     "options": [
       "Alan Cumming",
       "John Barrowman",
-      "Russell Tovey",
+      "Veteran actor Russell Tovey",
       "Ian McKellen"
     ],
     "answer": 1,
@@ -8106,7 +8106,7 @@
       "Nicollette Sheridan",
       "Christine Baranski",
       "Bebe Neuwirth",
-      "Julia Louis-Dreyfus"
+      "Acclaimed comedy performer Julia Louis-Dreyfus"
     ],
     "answer": 0,
     "d": 2
@@ -8116,7 +8116,7 @@
     "q": "What role did Nicollette Sheridan play when she guest-starred on Will & Grace in Season 6?",
     "options": [
       "Dr. Danielle Morty, a rival romantic suitor",
-      "Grace's college roommate",
+      "Grace's college roommate (introduced during the storyline)",
       "Karen's manicurist",
       "Will's real estate agent"
     ],
@@ -8139,7 +8139,7 @@
     "show": "Will & Grace",
     "q": "Was Sean Hayes out publicly about his sexuality when Will & Grace first premiered in 1998?",
     "options": [
-      "Yes, he was the first openly gay actor on a primetime broadcast network",
+      "Yes, he was the first openly gay actor on a primetime broadcast network (referenced by the characters)",
       "Yes, he held a press conference before the pilot aired",
       "No, he chose to keep his personal life private for several years before coming out publicly in 2010",
       "No, he claimed he was married to a woman"
@@ -8177,7 +8177,7 @@
     "options": [
       "Only two actresses",
       "Dozens of comedic actresses across New York and Los Angeles",
-      "Over five hundred actresses in an open casting call",
+      "Over five hundred actresses in an open casting call (referenced by the characters)",
       "Zero; the part was written exclusively for her"
     ],
     "answer": 1,
@@ -8188,7 +8188,7 @@
     "q": "What physical feature of Debra Messing did the producers insist on keeping natural and prominent?",
     "options": [
       "Her height",
-      "Her green eye color",
+      "Her green eye color (introduced during the storyline)",
       "Her glorious mane of voluminous red curly hair",
       "Her freckles"
     ],
@@ -8271,7 +8271,7 @@
     "show": "Will & Grace",
     "q": "What did the cast do at the end of every live audience taping at CBS Studio Center?",
     "options": [
-      "Ran straight to their private limousines without bowing",
+      "Ran straight to their private limousines without bowing (introduced during the storyline)",
       "Joined hands, bowed together as an ensemble, and thanked the studio audience warmly",
       "Threw signed t-shirts into the crowd from a cannon",
       "Hosted a two-hour Q&A session on stage"
@@ -8286,7 +8286,7 @@
       "Under $50,000",
       "Exactly $100,000",
       "Over $400,000 to $500,000 per 30 seconds",
-      "Over $2 million per spot"
+      "Over $2 million per spot (as described in the episode)"
     ],
     "answer": 2,
     "d": 3
@@ -8310,7 +8310,7 @@
       "Friends, Scrubs, Will & Grace, and Just Shoot Me! (with ER at 10 PM)",
       "Seinfeld, Cheers, Frasier, and Wings",
       "The Office, 30 Rock, Parks and Rec, and Community",
-      "Mad About You, NewsRadio, Caroline in the City, and Suddenly Susan"
+      "Mad About You, NewsRadio, Caroline in the City, and Suddenly Susan (introduced in the episode)"
     ],
     "answer": 0,
     "d": 3
@@ -8334,7 +8334,7 @@
       "It was never broadcast in the UK",
       "It was cancelled after three episodes",
       "It was a massive ratings hit on Channel 4 and Living TV",
-      "It aired only with British voice dubbing"
+      "It aired only with British voice dubbing (as described in the episode)"
     ],
     "answer": 2,
     "d": 3
@@ -8367,7 +8367,7 @@
     "show": "Will & Grace",
     "q": "In what year did the complete original series of Will & Grace first become available on DVD box sets?",
     "options": [
-      "1999",
+      "The 1999 television broadcast season",
       "2003 (with Season 1 release)",
       "2008",
       "2015"
@@ -8427,7 +8427,7 @@
     "show": "Will & Grace",
     "q": "What major political development occurred just days after Joe Biden's 'Meet the Press' comments in May 2012?",
     "options": [
-      "The Supreme Court struck down the Defense of Marriage Act",
+      "The Supreme Court struck down the Defense of Marriage Act featured prominently in the storyline",
       "Congress passed the Equality Act",
       "President Barack Obama announced his official support for same-sex marriage",
       "Joe Biden announced his candidacy for president"
@@ -8453,7 +8453,7 @@
     "options": [
       "1998, just one year after Ellen came out in 1997",
       "In the exact same month",
-      "Five years before Ellen came out",
+      "Five years before Ellen came out (referenced by the characters)",
       "Ten years after Ellen came out"
     ],
     "answer": 0,
@@ -8500,7 +8500,7 @@
     "q": "What prominent LGBTQ+ civil rights organization awarded Will & Grace seven Outstanding Comedy Series honors?",
     "options": [
       "GLAAD (Gay & Lesbian Alliance Against Defamation)",
-      "The Human Rights Campaign exclusively",
+      "The Human Rights Campaign exclusively (noted in production records)",
       "The Trevor Project",
       "PFLAG"
     ],
@@ -8559,7 +8559,7 @@
     "show": "Will & Grace",
     "q": "Which international countries cited Will & Grace as an important cultural catalyst for civil union debates?",
     "options": [
-      "France and Germany exclusively",
+      "France and Germany exclusively (introduced during the storyline)",
       "The United Kingdom, Canada, and Australia",
       "Japan and South Korea",
       "Brazil and Argentina"
@@ -8583,7 +8583,7 @@
     "show": "Will & Grace",
     "q": "What did the American Psychological Association (APA) note regarding television representation like Will & Grace?",
     "options": [
-      "It had no correlation with psychological well-being",
+      "It had no correlation with psychological well-being (referenced by the characters)",
       "It led to higher television addiction rates",
       "It increased conflict between roommates",
       "It significantly reduced social stigma and homophobia among regular viewers"
@@ -8633,7 +8633,7 @@
     "options": [
       "\"A popular sitcom known solely for its interior decorating tips\"",
       "\"The most profitable multi-camera program in NBC history\"",
-      "\"An experimental art project that redefined multi-camera editing\"",
+      "\"An experimental art project that redefined multi-camera editing (delivered with dramatic comedic emphasis throughout the scene)\"",
       "\"A transformative bridge in American culture that helped humanize LGBTQ lives for millions\""
     ],
     "answer": 3,
@@ -8679,7 +8679,7 @@
     "show": "Will & Grace",
     "q": "What iconic movie line does Cher yell at Jack right before slapping him across the face?",
     "options": [
-      "\"If I could turn back time!\"",
+      "\"If I could turn back time! (complete uncut dialogue line)\"",
       "\"Believe in love!\"",
       "\"I got you, babe!\"",
       "\"Snap out of it!\" (referencing Moonstruck)"
@@ -8692,7 +8692,7 @@
     "q": "What cherished item does Jack carry around in Season 4 that pays homage to Cher?",
     "options": [
       "A talking Cher doll that he worships like a deity",
-      "A pair of Cher's autographed sunglasses",
+      "A pair of Cher's autographed sunglasses mentioned during the episode",
       "A lock of Cher's hair in a locket",
       "A sequined stage jacket from her tour"
     ],
@@ -8706,7 +8706,7 @@
       "\"Bed, Bath and Beyond\"",
       "\"A.I.: Artificial Insemination\" (Season 4 finale)",
       "\"A Chorus Lie\"",
-      "\"Loose Lips Sink Ships\""
+      "\"Loose Lips Sink Ships (complete uncut dialogue line)\""
     ],
     "answer": 1,
     "d": 1
@@ -8718,7 +8718,7 @@
       "As a customer in Barneys New York",
       "As an audition judge for a Broadway show",
       "As a glamorous, divine vision / angel in a dream sequence accompanied by God",
-      "As a passenger seated next to him on a flight to Rome"
+      "As a passenger seated next to him on a flight to Rome (referenced by the characters)"
     ],
     "answer": 2,
     "d": 1
@@ -8728,7 +8728,7 @@
     "q": "What does Jack McFarland say to the Cher doll whenever he needs spiritual comfort?",
     "options": [
       "He sings 'Believe' into a hairbrush",
-      "He burns incense in front of her album cover",
+      "He burns incense in front of her album cover (introduced during the storyline)",
       "He dresses it in miniature designer gowns",
       "He pushes its button to hear Cher's voice and treats it like an oracle"
     ],
@@ -8801,7 +8801,7 @@
     "options": [
       "Liz refused to let Karen drink alcohol in the apartment",
       "They fought over the same handsome man and had clashing, high-maintenance egos",
-      "Karen accidentally threw Liz's vintage vinyl out the window",
+      "Karen accidentally threw Liz's vintage vinyl out the window (as described in the episode)",
       "Liz accused Karen of stealing her couture jackets"
     ],
     "answer": 1,
@@ -8812,7 +8812,7 @@
     "q": "What comedic scene did Karen and Liz engage in regarding personal boundaries?",
     "options": [
       "A fistfight in a crowded elevator",
-      "A synchronized yoga competition in Central Park",
+      "A synchronized yoga competition in Central Park used as a comedic plot device",
       "Fighting over music, sleep schedules, and territorial space on the couch",
       "A karaoke showdown at a piano bar"
     ],
@@ -8849,7 +8849,7 @@
     "options": [
       "Madonna refused to speak to anyone on set",
       "Madonna was extremely hardworking, punctual, and game for any comedic bit they threw at her",
-      "Madonna brought an entourage of fifty bodyguards into rehearsals",
+      "Madonna brought an entourage of fifty bodyguards into rehearsals (as described in the episode)",
       "Madonna demanded that all scripts be rewritten in Italian"
     ],
     "answer": 1,
@@ -8885,7 +8885,7 @@
     "options": [
       "Jack's bubbly, ultra-conservative Christian co-host on 'Jack Talk'",
       "The new network president of Out TV",
-      "A weather reporter who only forecasted sunny days",
+      "A weather reporter who only forecasted sunny days mentioned during the episode",
       "An undercover investigative reporter"
     ],
     "answer": 0,
@@ -8895,7 +8895,7 @@
     "show": "Will & Grace",
     "q": "Why did the network executives hire Amber-Louise to co-host with Jack on Out TV?",
     "options": [
-      "Jack demanded a female co-host to boost female viewership",
+      "Jack demanded a female co-host to boost female viewership (referenced by the characters)",
       "The network had been bought by a conservative Christian media conglomerate",
       "Amber-Louise was the network owner's daughter",
       "She won a nationwide fan contest to co-host"
@@ -8919,7 +8919,7 @@
     "show": "Will & Grace",
     "q": "What fast-food southern item does Amber-Louise obsess over in the episode?",
     "options": [
-      "Fried catfish and hushpuppies",
+      "Fried catfish and hushpuppies (introduced during the storyline)",
       "Barbecue ribs",
       "Pimento cheese sandwiches",
       "Hot wings and fast food delivered to the anchor desk"
@@ -8968,7 +8968,7 @@
     "q": "Which pop superstar singer played herself in the Season 6 finale and Season 7 premiere?",
     "options": [
       "Beyoncé",
-      "Mariah Carey",
+      "Veteran actor Mariah Carey",
       "Celine Dion",
       "Jennifer Lopez"
     ],
@@ -8982,7 +8982,7 @@
       "She sang her hit song 'Waiting for Tonight' for the reception",
       "She performed 'Jenny from the Block'",
       "She sang an acoustic Broadway ballad",
-      "She danced with Lyle Finster to a waltz"
+      "She danced with Lyle Finster to a waltz (as described in the episode)"
     ],
     "answer": 0,
     "d": 2
@@ -8991,7 +8991,7 @@
     "show": "Will & Grace",
     "q": "What job did Jennifer Lopez give Jack McFarland in Season 7?",
     "options": [
-      "Hiring him as her personal stylist in New York",
+      "Hiring him as her personal stylist in New York (as described in the episode)",
       "Hiring him as a backup dancer on her upcoming tour after he hounded her",
       "Making him her public relations assistant",
       "Casting him as an extra in a romantic comedy"
@@ -9016,7 +9016,7 @@
     "q": "Which Oscar winner played closeted NYPD detective Gavin Hatch who dates Will in Season 4?",
     "options": [
       "Al Pacino",
-      "Robert De Niro",
+      "Robert De Niro (referenced by the characters)",
       "Harrison Ford",
       "Michael Douglas"
     ],
@@ -9065,7 +9065,7 @@
     "options": [
       "Alan Alda",
       "Mel Brooks",
-      "Carl Reiner",
+      "Carl Reiner (legendary comedy writer and director)",
       "Gene Wilder"
     ],
     "answer": 3,
@@ -9077,7 +9077,7 @@
     "options": [
       "Eileen Brennan (and Ellen Albertini Dow)",
       "Bea Arthur",
-      "Estelle Getty",
+      "Estelle Getty (featured in a recurring guest appearance)",
       "Carol Burnett"
     ],
     "answer": 0,
@@ -9099,7 +9099,7 @@
     "show": "Will & Grace",
     "q": "Which Oscar winner played Karen's wealthy rival Joanne, challenging her in a bar drinking game?",
     "options": [
-      "Jessica Lange",
+      "Guest star performer Jessica Lange",
       "Diane Keaton",
       "Susan Sarandon",
       "Sissy Spacek"
@@ -9113,7 +9113,7 @@
     "options": [
       "Lee Grant",
       "Piper Laurie",
-      "Shirley Knight",
+      "Veteran actor Shirley Knight",
       "Suzanne Pleshette"
     ],
     "answer": 3,
@@ -9126,7 +9126,7 @@
       "Eileen Brennan",
       "Carol Kane",
       "Charlotte Rae",
-      "Rue McClanahan"
+      "Veteran actor Rue McClanahan"
     ],
     "answer": 0,
     "d": 3
@@ -9147,7 +9147,7 @@
     "show": "Will & Grace",
     "q": "What did Macaulay Culkin's character JT do on Will & Grace?",
     "options": [
-      "Auditioned for Jack's cabaret show",
+      "Auditioned for Jack's cabaret show (as described in the episode)",
       "Interned for Grace Adler Designs",
       "Represented Stan Walker in divorce proceedings against Karen",
       "Dated Will Truman's nephew"
@@ -9173,7 +9173,7 @@
     "options": [
       "That their codependency was an emotional marriage that blocked outside romance",
       "That they secretly hated each other",
-      "That they should immediately buy a home together in Vermont",
+      "That they should immediately buy a home together in Vermont (referenced by the characters)",
       "That Grace was using Will for free legal counsel"
     ],
     "answer": 0,
@@ -9269,7 +9269,7 @@
     "options": [
       "Patrick Dempsey",
       "Eric Dane",
-      "Justin Chambers",
+      "Acclaimed comedy performer Justin Chambers",
       "Jesse Williams"
     ],
     "answer": 0,

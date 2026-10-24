@@ -3,24 +3,24 @@
     "show": "30 Rock",
     "q": "What was the original title of Liz Lemon's sketch comedy show before Jack Welch and Jack Donaghy rebranded it?",
     "options": [
-      "TGS",
       "The Girlie Show",
+      "TGS",
       "Friday Night Bits",
       "Manhattan Live"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What is Liz Lemon's full first and middle name?",
     "options": [
+      "Elizabeth Margaret (senior associate)",
       "Elizabeth Miervaldis",
-      "Elizabeth Margaret",
       "Elizabeth Marie",
       "Elizabeth Maureen"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -28,11 +28,11 @@
     "q": "Which food does Liz Lemon famously claim to want to go to an awkward sexual encounter with, declaring \"I want to go to there\"?",
     "options": [
       "Night cheese",
-      "A marshmallow chick",
       "A sandwich from the secret teamsters place",
+      "A marshmallow chick",
       "A display of hot dogs"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -40,59 +40,59 @@
     "q": "What is the full title of Tracy Jordan's critically acclaimed dramatic film that wins him an award?",
     "options": [
       "Honky Grandma Be Trippin'",
-      "Hard To Watch: Based on the Book 'Stone Cold Bummer' by Manipulate",
+      "Black Cavemen",
       "Who Dat Ninja?",
-      "Black Cavemen"
+      "Hard To Watch: Based on the Book 'Stone Cold Bummer' by Manipulate"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is Kenneth Parcell's home town in Georgia?",
     "options": [
       "Stone Mountain",
-      "Savannah",
+      "Savannah, Georgia",
       "Macon",
       "Athens"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Jack Donaghy's mother is named:",
     "options": [
-      "Colleen",
       "Patricia",
+      "Colleen",
       "Margaret",
       "Maureen"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What business device does Jack Donaghy famously invent while testing microwave oven concepts?",
     "options": [
-      "The FunCooker",
-      "The Tri-Bake 3000",
       "The Micro-Chef",
+      "The Tri-Bake 3000",
+      "The FunCooker",
       "The Meat Machine"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What is the name of Jenna Maroney's signature acoustic song from her independent film?",
     "options": [
-      "\"Muffin Top\"",
+      "\"Tennis Night in America\"",
       "\"Catching Pigeons in the Park\"",
       "\"Balls\"",
-      "\"Tennis Night in America\""
+      "\"Muffin Top\""
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -117,38 +117,38 @@
       "The Coffee Maven"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is the name of Tracy Jordan's devoted wife?",
     "options": [
-      "Angie",
-      "Sherry",
       "Verna",
+      "Sherry",
+      "Angie",
       "Virginia"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What reality TV series focuses on Tracy Jordan's wife?",
     "options": [
-      "Queen of Jordan",
+      "Top Chef: Tracy's House",
       "The Real Housewives of New Jersey",
       "Keeping Up with the Jordans",
-      "Top Chef: Tracy's House"
+      "Queen of Jordan"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What fictional network is owned by General Electric (and later Kabletown) in the show?",
     "options": [
       "NBC",
-      "CBS",
+      "CBS Television Network",
       "ABC",
       "UPN"
     ],
@@ -159,49 +159,49 @@
     "show": "30 Rock",
     "q": "What unusual food ritual does Liz perform while singing in her apartment in slacks?",
     "options": [
-      "Working on her night cheese",
       "Dipping ham in mustard",
+      "Working on her night cheese",
       "Eating whole cans of frosting",
       "Microwaving Peeps"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who plays Jack Donaghy's tough-talking Irish-American mother?",
     "options": [
-      "Elaine Stritch",
-      "Betty White",
       "Angela Lansbury",
+      "Betty White",
+      "Elaine Stritch",
       "Cloris Leachman"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What was Jack Donaghy's position at GE when the series began?",
     "options": [
-      "Vice President of East Coast Television and Microwave Oven Programming",
+      "Senior Manager of Media Relations",
       "CEO of NBC Universal",
       "Executive VP of Dishwashers and Cable",
-      "Senior Manager of Media Relations"
+      "Vice President of East Coast Television and Microwave Oven Programming"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is Kenneth Parcell's middle name?",
     "options": [
       "Ellen",
-      "Wayne",
+      "Wayne (official selection)",
       "Earl",
       "Marie"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -219,109 +219,109 @@
     "show": "30 Rock",
     "q": "What is the title of the unauthorized Janis Joplin biopic that Jenna stars in after failing to secure life rights?",
     "options": [
-      "Piece of My Heart",
-      "Jackie Jormp-Jomp",
+      "Piece of My Heart in every detail",
       "Sing Dem Blues",
+      "Jackie Jormp-Jomp",
       "Little Girl Blue"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is Frank Rossitano known for wearing in every episode?",
     "options": [
-      "Trucker hats with witty phrases",
+      "Novelty graphic tees",
       "Flannel shirts",
       "Fingerless gloves",
-      "Novelty graphic tees"
+      "Trucker hats with witty phrases"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What did Frank's hats say in the pilot episode?",
     "options": [
-      "EXTRA CHEESE",
       "BOGUS",
+      "EXTRA CHEESE",
       "BE COOL",
       "PHO"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who portrays Jack's arch-nemesis at GE, Devon Banks?",
     "options": [
-      "Will Arnett",
       "Alec Baldwin",
+      "Will Arnett",
       "Steve Buscemi",
       "Jason Sudeikis"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What sport does Devon Banks challenge Jack to in order to assert corporate dominance?",
     "options": [
       "Squash",
-      "Racquetball",
       "American football",
+      "Racquetball",
       "Tennis"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is the name of the fictional page program supervisor who oversees Kenneth?",
     "options": [
-      "Donny Lawson",
+      "Walter",
       "Pete Hornberger",
       "Jonathan",
-      "Walter"
+      "Donny Lawson"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What was Pete Hornberger's notable brush with musical fame in the 1980s?",
     "options": [
-      "Guitarist for Loverboy",
-      "Bassist for Loverboy",
       "Fourth member of Loverboy",
+      "Bassist for Loverboy",
+      "Guitarist for Loverboy with full pedigree papers",
       "Roadie for Bon Jovi"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Why was Pete left out of Loverboy's greatest successes?",
     "options": [
-      "He quit right before they made it big to go to college",
       "He was fired for missing rehearsals",
+      "He quit right before they made it big to go to college",
       "He broke his arm before their tour",
       "He refused to wear red leather pants"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who is Jack Donaghy's intensely loyal executive assistant?",
     "options": [
-      "Jonathan",
-      "Cerie",
       "Hazel",
-      "Alfonso"
+      "Cerie",
+      "Jonathan",
+      "Alfonso (official selection)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -333,14 +333,14 @@
       "Vanderslice"
     ],
     "answer": 3,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the name of Liz Lemon's younger brother who suffers from trauma-induced memory loss and thinks it is 1985?",
     "options": [
       "Mitch",
-      "Gary",
+      "Gary (longtime friend)",
       "Tom",
       "Todd"
     ],
@@ -351,37 +351,37 @@
     "show": "30 Rock",
     "q": "What medical condition causes Liz's brother Mitch to believe he is perpetually 40 years younger?",
     "options": [
-      "Amnesia from a skiing accident",
       "A concussion from a football tackle",
+      "Amnesia from a skiing accident",
       "Post-traumatic retrograde amnesia from a roller coaster",
       "A bicycle fall"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who plays Liz Lemon's boyfriend Dr. Drew Baird, who lives in \"the bubble\"?",
     "options": [
-      "Jon Hamm",
-      "James Marsden",
       "Matt Damon",
+      "James Marsden",
+      "Jon Hamm",
       "Peter Dinklage"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What is \"The Bubble\" that Dr. Drew lives in?",
     "options": [
-      "The protective social privilege afforded solely to extremely attractive people",
+      "His complete unawareness of modern politics",
       "An actual sterile tent due to allergies",
       "A high-end penthouse with soundproofing",
-      "His complete unawareness of modern politics"
+      "The protective social privilege afforded solely to extremely attractive people"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -393,7 +393,7 @@
       "He walks with a permanent limp"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -412,24 +412,24 @@
     "q": "What board game did Tracy Jordan create in his youth?",
     "options": [
       "Ghettoopoly",
-      "Hard Time",
       "Tracy Jordan Presents: Werewolf Bar Mitzvah",
+      "Hard Time",
       "Celebrity Homonym"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Complete the lyric: \"Werewolf Bar Mitzvah, spooky, scary! Boys becoming men, men becoming...\"",
     "options": [
       "\"Wolves!\"",
-      "\"Hairy!\"",
+      "\"Wild!\"",
       "\"Monsters!\"",
-      "\"Wild!\""
+      "\"Hairy!\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -441,30 +441,30 @@
       "Jack Black"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Donald Glover worked on 30 Rock primarily as a:",
     "options": [
-      "Staff writer",
       "Director",
+      "Staff writer",
       "Producer",
       "Production assistant"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is the name of the recurring fictional medical practitioner played by Chris Parnell?",
     "options": [
-      "Dr. Leo Spaceman",
-      "Dr. Bruce Campbell",
       "Dr. Charles Evans",
+      "Dr. Bruce Campbell",
+      "Dr. Leo Spaceman",
       "Dr. Michael Hfuhruhurr"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -472,12 +472,12 @@
     "q": "How does Dr. Spaceman pronounce his last name?",
     "options": [
       "\"Space-man\"",
-      "\"Spah-CHAY-min\"",
-      "\"Spah-KEH-man\"",
-      "\"Speck-man\""
+      "\"Speck-man\"",
+      "\"Spah-KEH-man (full version)\"",
+      "\"Spah-CHAY-min\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -486,10 +486,10 @@
       "\"Science is whatever we want it to be.\"",
       "\"First, do no harm unless paid.\"",
       "\"Surgery is just cutting bread.\"",
-      "\"Medicine is just advanced guessing.\""
+      "\"Medicine is just advanced guessing without a doubt.\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -507,24 +507,24 @@
     "show": "30 Rock",
     "q": "How does Jeffrey Weinerslav insist his last name is pronounced?",
     "options": [
-      "\"Weiner-slave\"",
+      "\"Ween-er-slav (full version)\"",
       "\"Wine-slaw\"",
-      "\"Ween-er-slav\"",
+      "\"Weiner-slave\"",
       "\"Wiener-love\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What was the name of the English tabloid journalist who dates Liz after she meets him in a park?",
     "options": [
-      "Wesley Snipes",
+      "Paul L'astnamé",
       "Floyd DeBarber",
       "Danny Baker",
-      "Paul L'astnamé"
+      "Wesley Snipes"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -537,7 +537,7 @@
       "Kenneth Branagh"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -549,79 +549,79 @@
       "Their horoscopes perfectly align"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is Floyd DeBarber's nickname given to him by Liz?",
     "options": [
       "The Floydster",
-      "The Hair",
       "Cleveland Floyd",
+      "The Hair",
       "The Dream Guy"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What city does Floyd DeBarber move to, breaking Liz's heart?",
     "options": [
       "Chicago",
-      "Cleveland",
+      "Philadelphia",
       "Boston",
-      "Philadelphia"
+      "Cleveland"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What song do Liz and Floyd sing along to when visiting Cleveland?",
     "options": [
-      "\"Cleveland Rocks\"",
-      "\"My City Was Gone\"",
       "\"Underdog\"",
+      "\"My City Was Gone\"",
+      "\"Cleveland Rocks\"",
       "\"Burn On\""
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "30 Rock",
+    "q": "What does the slogan \"Cleveland: We'd all like to flee to the Cleve\" represent to Liz?",
+    "options": [
+      "Cheap real estate",
+      "An idyllic escape where she is considered supermodel-attractive",
+      "Outstanding hot dog stands",
+      "A haven from Jack's meddling"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "30 Rock",
+    "q": "What is the name of Liz Lemon's hometown in Pennsylvania?",
+    "options": [
+      "Doylestown (official selection)",
+      "Scranton",
+      "White Haven",
+      "Allentown"
     ],
     "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
-    "q": "What does the slogan \"Cleveland: We'd all like to flee to the Cleve\" represent to Liz?",
+    "q": "Which milestone high school reunion in Pennsylvania does Liz Lemon attend, only to discover her classmates viewed her as the school bully?",
     "options": [
-      "An idyllic escape where she is considered supermodel-attractive",
-      "Cheap real estate",
-      "Outstanding hot dog stands",
-      "A haven from Jack's meddling"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "30 Rock",
-    "q": "What is the name of Liz Lemon's hometown in Pennsylvania?",
-    "options": [
-      "White Haven",
-      "Scranton",
-      "Doylestown",
-      "Allentown"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "30 Rock",
-    "q": "What high school reunion does Liz attend where she discovers she was actually the school bully?",
-    "options": [
-      "15th Reunion",
-      "20th Reunion",
+      "15th Reunion in every detail",
+      "25th Reunion",
       "10th Reunion",
-      "25th Reunion"
+      "20th Reunion"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -633,43 +633,43 @@
       "Bossy Betty"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Who is Jack Donaghy's true biological father?",
     "options": [
+      "Actor Jimmy Donaghy",
       "Milton Greene",
-      "Jimmy Donaghy",
       "Thomas Welch",
       "Donald Geiss"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "Who played Jack Donaghy's biological father Milton Greene?",
     "options": [
-      "Alan Alda",
-      "Martin Sheen",
       "Robert De Niro",
+      "Martin Sheen",
+      "Alan Alda",
       "Donald Sutherland"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What organ did Milton Greene desperately need transplanted?",
     "options": [
-      "Liver",
-      "Kidney",
+      "Liver (official selection)",
+      "Lung",
       "Heart",
-      "Lung"
+      "Kidney"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -681,43 +681,43 @@
       "\"Save Milton Greene\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Which musician was NOT one of the celebrity singers in \"Kidney Now!\"?",
     "options": [
       "Cyndi Lauper",
-      "Michael McDonald",
       "Bruce Springsteen",
+      "Michael McDonald (senior associate)",
       "Sheryl Crow"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "30 Rock",
+    "q": "What is the name of the fictional CEO of General Electric whom Jack idolizes?",
+    "options": [
+      "Robert Kable",
+      "Jack Welch",
+      "Don Geiss",
+      "Hank Hooper"
     ],
     "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
-    "q": "What is the name of the fictional CEO of General Electric whom Jack idolizes?",
-    "options": [
-      "Don Geiss",
-      "Jack Welch",
-      "Robert Kable",
-      "Hank Hooper"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "30 Rock",
     "q": "Who plays GE Chairman Don Geiss?",
     "options": [
-      "Rip Torn",
+      "Robert Duvall",
       "Brian Dennehy",
       "James Cromwell",
-      "Robert Duvall"
+      "Rip Torn"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -729,7 +729,7 @@
       "Witness protection"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -741,30 +741,30 @@
       "Hank Hooper"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is Kathy Geiss's favorite hobby/obsession?",
     "options": [
-      "Mark Wahlberg and soap bubbles",
-      "Miniature horses and knitting",
       "Playing the xylophone",
+      "Miniature horses and knitting in every detail",
+      "Mark Wahlberg and soap bubbles",
       "Collecting stamps"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What company purchases NBC Universal from General Electric in later seasons?",
     "options": [
-      "Kabletown",
+      "Sheinhardt Wig Company",
       "Comcast",
       "Time Warner",
-      "Sheinhardt Wig Company"
+      "Kabletown"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -783,37 +783,37 @@
     "show": "30 Rock",
     "q": "Who portrays Hank Hooper?",
     "options": [
-      "Ken Howard",
       "Brian Doyle-Murray",
+      "Ken Howard",
       "Ed Asner",
       "John Goodman"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What is Hank Hooper's corporate policy regarding confrontation?",
     "options": [
-      "He replaces shouting with warm hugs and cheerful smiles",
-      "Strict written reprimands",
       "Firing at will",
+      "Strict written reprimands",
+      "He replaces shouting with warm hugs and cheerful smiles",
       "Mandatory mediation retreats"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What parent company owns NBC at the start of the series according to the corporate hierarchy joke?",
     "options": [
-      "Sheinhardt Wig Company",
-      "Universal Dynamics",
+      "Apex Chemical",
+      "Actor Universal Dynamics",
       "General Motors",
-      "Apex Chemical"
+      "Sheinhardt Wig Company"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -825,139 +825,139 @@
       "Smog pellets"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is Jack Donaghy's signature tuxedo-wearing rule?",
     "options": [
-      "\"It's after six. What am I, a farmer?\"",
       "\"A gentleman wears black after twilight.\"",
+      "\"It's after six. What am I, a farmer?\"",
       "\"Comfort is for the unemployed.\"",
       "\"Dress for the job you want, not the one you have.\""
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What does Jack call his annual strategic thinking retreat?",
     "options": [
-      "The Retreat to Move Forward",
-      "The Donaghy Summit",
       "Six Sigma Solitude",
+      "The Donaghy Summit",
+      "The Retreat to Move Forward",
       "Clear Horizons"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What are the six sigmas according to Jack's wheel of success?",
     "options": [
-      "Teamwork, Insight, Brutality, Malevolence, Synergy, Optimization",
-      "Analyze, Strategize, Monetize, Implement, Capitalize, Synergize",
+      "Drive, Power, Greed, Force, Vision, Dominance",
+      "Analyze, Strategize, Monetize, Implement, Capitalize, Synergize in every detail",
       "Handshake, Eye Contact, Posture, Wealth, Pedigree, Wit",
-      "Drive, Power, Greed, Force, Vision, Dominance"
+      "Teamwork, Insight, Brutality, Malevolence, Synergy, Optimization"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the name of Tracy's two sons?",
     "options": [
-      "George Foreman and Tracy Jr.",
       "Tracy Jr. and George Foreman Jordan",
+      "George Foreman and Tracy Jr in every detail",
       "Tracy Jr. and Ray Drecker",
       "Little Tracy and Big Tracy"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What is the name of the daughter Tracy has out of wedlock who pretends to be an aspiring businesswoman?",
     "options": [
-      "Virginia",
+      "The Commonwealth of Virginia",
       "LaDonica",
       "Carly",
       "Jasmine"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What restaurant chain does Tracy Jordan's daughter run out of TGS offices?",
     "options": [
-      "A fraudulent seafood restaurant called \"Crab Catchers\"",
-      "A wing shack",
       "A pop-up bakery called \"Baby Cakes\"",
+      "A wing shack",
+      "A fraudulent seafood restaurant called \"Crab Catchers\"",
       "A smoothie stand"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who plays Jack Donaghy's glamorous, high-powered CNBC anchor love interest, Avery Jessup?",
     "options": [
-      "Elizabeth Banks",
-      "Julianne Moore",
+      "Edie Falco",
+      "Actor Julianne Moore",
       "Salma Hayek",
-      "Edie Falco"
+      "Elizabeth Banks"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What country kidnaps Avery Jessup on an undercover reporting assignment?",
     "options": [
       "North Korea",
-      "Russia",
+      "Russia (official selection)",
       "China",
       "Cuba"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who is the leader of North Korea who marries Avery in state propaganda broadcasts?",
     "options": [
-      "Kim Jong-il",
       "Kim Jong-un",
+      "Kim Jong-il",
       "Kim Il-sung",
       "General Park"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who plays Kim Jong-il in the series?",
     "options": [
-      "Margaret Cho",
-      "Randall Park",
       "BD Wong",
+      "Actor Randall Park",
+      "Margaret Cho",
       "Ken Jeong"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What role did Margaret Cho play besides Kim Jong-il in that same episode sequence?",
     "options": [
       "Kim Jong-un",
-      "North Korean news anchor",
-      "Both Kim Jong-il and Kim Jong-un",
-      "A UN translator"
+      "North Korean news anchor in every detail",
+      "A UN translator",
+      "Both Kim Jong-il and Kim Jong-un"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -975,37 +975,37 @@
     "show": "30 Rock",
     "q": "Why is Jack and Avery's daughter named Liddy?",
     "options": [
-      "After G. Gordon Liddy, Jack's hero",
       "After Jack's grandmother",
+      "After G. Gordon Liddy, Jack's hero",
       "After Liz Lemon",
-      "After the state of Liberty"
+      "After the state of Liberty in every detail"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Where was Liddy born, causing Jack immense distress because she might not be eligible for the US presidency?",
     "options": [
-      "Canada",
-      "Mexico",
       "An international flight",
+      "Mexico",
+      "Canada",
       "At sea in international waters"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who plays Jack's Democratic congresswoman lover, Celeste \"C.C.\" Cunningham?",
     "options": [
-      "Edie Falco",
+      "Laura Linney",
       "Julianne Moore",
       "Mary-Louise Parker",
-      "Laura Linney"
+      "Edie Falco"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -1017,43 +1017,43 @@
       "A parking garage in Newark"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the name of Jack's Bostonian high-school sweetheart played by Julianne Moore?",
     "options": [
-      "Nancy Donovan",
       "Colleen O'Hoolihan",
+      "Nancy Donovan",
       "Maureen Dowd",
       "Sarah Fitzpatrick"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What heavy regional accent does Julianne Moore's character Nancy have?",
     "options": [
-      "Thick Boston/Southie accent",
-      "Chicago accent",
       "Southern drawl",
+      "Chicago accent",
+      "Thick Boston/Southie accent",
       "Long Island accent"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who plays Elisa Padriera, Jack's nurse/girlfriend who cared for his mother?",
     "options": [
-      "Salma Hayek",
+      "Eva Longoria",
       "Penelope Cruz",
       "Sofia Vergara",
-      "Eva Longoria"
+      "Salma Hayek"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -1065,43 +1065,43 @@
       "She staged his kidnapping"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What fast-food product does Elisa promote to Jack that Liz Lemon loves?",
     "options": [
-      "McFlurry",
       "Arby's roast beef",
+      "McFlurry",
       "Dunkin' Donuts coffee",
       "McDonald's McRib"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What is the title of the theme song Jenna Maroney had a number-one dance hit with in Europe?",
     "options": [
-      "\"Muffin Top\"",
-      "\"Fart Train\"",
       "\"Glitter Bomb\"",
+      "\"Fart Train\"",
+      "\"Muffin Top\"",
       "\"Star of the Show\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Where was Jenna Maroney's \"Muffin Top\" number one on the charts?",
     "options": [
-      "Israel and Belgium",
+      "Australia and the Netherlands",
       "Germany and Japan",
       "France and Sweden",
-      "Australia and the Netherlands"
+      "Israel and Belgium"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -1113,47 +1113,47 @@
       "Donald Morrison"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who plays Paul L'astnamé?",
     "options": [
-      "Will Forte",
       "Jason Sudeikis",
+      "Will Forte",
       "Andy Samberg",
       "Bill Hader"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "As whom does Paul dress when performing in drag at transvestite clubs?",
     "options": [
-      "Jenna Maroney",
-      "Judy Garland",
       "Cher",
-      "Liza Minnelli"
+      "Judy Garland",
+      "Jenna Maroney",
+      "Actor Liza Minnelli"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "How did Jenna and Paul get married?",
     "options": [
-      "In a surprise ceremony at a Department of Motor Vehicles/public park in white dresses",
+      "At 30 Rockefeller Plaza on live television",
       "In an extravagant televised ceremony",
       "In Las Vegas by an Elvis impersonator",
-      "At 30 Rockefeller Plaza on live television"
+      "In a surprise ceremony at a Department of Motor Vehicles/public park in white dresses"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
-    "q": "What is Liz Lemon's signature food celebration dance called?",
+    "q": "What jubilant victory jig does Liz Lemon perform when she receives an oversized cured pork product?",
     "options": [
       "The Ham Dance",
       "The Sandwich Shuffle",
@@ -1161,98 +1161,98 @@
       "The Cupcake Stomp"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "In the episode \"Sandwich Day,\" what happens to Liz's sacred sandwich?",
     "options": [
-      "Someone eats it from the teamsters' special delivery",
       "It gets dropped on the floor",
+      "Someone eats it from the teamsters' special delivery",
       "Kenneth accidentally throws it out",
       "Jack gives it to a client"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "How does Liz Lemon consume an entire pastrami sandwich at airport security to keep it from being confiscated?",
     "options": [
-      "She wolfs it down in under thirty seconds while staring down TSA",
-      "She throws it in a bag and runs",
       "She bribes the TSA agent",
+      "She throws it in a bag and runs",
+      "She wolfs it down in under thirty seconds while staring down TSA",
       "She shares half with a pilot"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the phrase shouted by the Teamsters that Liz learns to unlock the sandwich vault?",
     "options": [
-      "\"I'll have a sandwich Girls!\"",
+      "\"That's a dealbreaker, ladies!\"",
       "\"Wolfing time!\"",
       "\"You gotta get the dipping sauce!\"",
-      "\"That's a dealbreaker, ladies!\""
+      "\"I'll have a sandwich Girls!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What catchphrase becomes the title of Liz Lemon's best-selling advice book?",
     "options": [
-      "Dealbreakers: Why You're Still Single",
       "That's a Dealbreaker, Ladies!",
+      "Dealbreakers: Why You're Still Single",
       "What Were You Thinking?",
       "Shut It Down!"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What advice does Liz give on her talk show pilot when a woman says her man wears a silk robe?",
     "options": [
-      "\"That's a dealbreaker, ladies!\"",
       "\"Let him fly!\"",
+      "\"That's a dealbreaker, ladies!\"",
       "\"Call the cops!\"",
-      "\"Accept it and move on!\""
+      "\"Accept it and move on with pure conviction!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who plays Criss Chros, Liz Lemon's eventual husband?",
     "options": [
-      "James Marsden",
-      "Jon Hamm",
       "Dean Winters",
+      "Jon Hamm",
+      "James Marsden",
       "Cheyenne Jackson"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What is Criss Chros's original business venture when he meets Liz?",
     "options": [
-      "An organic hot dog cart called the \"Van Der Beek\"",
+      "A vintage guitar repair shop",
       "An artisanal bagel truck",
       "A vegan bakery",
-      "A vintage guitar repair shop"
+      "An organic hot dog cart called the \"Van Der Beek\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
-    "q": "How is Criss Chros's name spelled?",
+    "q": "How is the name of Liz Lemon's hot dog vendor boyfriend, played by James Marsden, officially spelled?",
     "options": [
       "Criss Chros",
-      "Chris Cross",
+      "Chris Cross (senior associate)",
       "Kris Kross",
       "Chris Chros"
     ],
@@ -1263,37 +1263,37 @@
     "show": "30 Rock",
     "q": "What costume does Liz Lemon wear on the day she marries Criss Chros?",
     "options": [
-      "Princess Leia's white gown",
       "A bridesmaid dress from a friend's wedding",
+      "Princess Leia's white gown",
       "Her comfortable slacks and a blazer",
       "A yellow sundress"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "Why does Liz wear a Princess Leia costume to court?",
     "options": [
-      "It was the only clean white dress she owned that fit, and she always wanted to get married in it",
-      "She lost a bet to Tracy",
       "She thought it was comic-con day",
+      "She lost a bet to Tracy",
+      "It was the only clean white dress she owned that fit, and she always wanted to get married in it",
       "Criss dared her"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What are the names of the twin children Liz and Criss adopt in the series finale?",
     "options": [
-      "Terry and Janet",
+      "Frank and Cerie",
       "Lemon and Criss Jr.",
       "Tracy and Jenna",
-      "Frank and Cerie"
+      "Terry and Janet"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -1305,43 +1305,43 @@
       "\"Always trust a hammerhead.\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the name of Tracy Jordan's production company?",
     "options": [
+      "Dot Com Productions in every detail",
       "Tracy Jordan De-Productions",
-      "Dot Com Productions",
       "Grizz & Heart",
       "TGS Films"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What are the names of Tracy's two primary entourage members?",
     "options": [
-      "Grizz and Dot Com",
-      "Moose and Squirrel",
       "Mike and Marcus",
+      "Moose and Squirrel",
+      "Grizz and Dot Com",
       "T-Bone and Big Mike"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is Dot Com's real character name?",
     "options": [
-      "Walter Slattery",
+      "Tracy Jr.",
       "Kevin Brown",
       "Marcus Washington",
-      "Tracy Jr."
+      "Walter Slattery"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -1353,43 +1353,43 @@
       "Waiting for Godot"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Why does Tracy resent Dot Com's intellectualism?",
     "options": [
-      "Because Dot Com's erudition makes Tracy feel self-conscious",
       "Because Dot Com went to Harvard",
+      "Because Dot Com's erudition makes Tracy feel self-conscious",
       "Because Dot Com steals his jokes",
       "Because Dot Com wants to be a writer on TGS"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What was Grizz's full character name?",
     "options": [
-      "Warren Griswold",
+      "Arthur Griswold (close acquaintance)",
       "Grizz Chapman",
-      "Arthur Griswold",
+      "Warren Griswold",
       "Gary Robinson"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Who was Grizz engaged to, which caused dramatic tension between him, Dot Com, and Liz?",
     "options": [
-      "Feyoncé",
-      "Angie",
+      "Verna",
+      "Angie (official selection)",
       "Cerie",
-      "Verna"
+      "Feyoncé"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -1401,43 +1401,43 @@
       "A backup singer for Josh Groban"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What was Danny Baker's original stage name before Jack Americanized him?",
     "options": [
-      "Jack Mount",
       "Mark Delany",
+      "Jack Mount",
       "Cheyenne Jackson",
       "Danny O'Shea"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What was Danny Baker's Canadian background?",
     "options": [
-      "He was a cast member on a Canadian teen drama called *Just Joking*",
-      "He played street hockey in Ottawa",
       "He was a Mountie",
+      "He played street hockey in Ottawa",
+      "He was a cast member on a Canadian teen drama called *Just Joking*",
       "He grew up on a maple farm"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Which original TGS cast member left the show early on, paving the way for Danny?",
     "options": [
-      "Josh Girard",
+      "Toofer",
       "Pete Hornberger",
       "Frank Rossitano",
-      "Toofer"
+      "Josh Girard"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -1449,43 +1449,43 @@
       "Keith Powell"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What impression was Josh Girard famous for performing on TGS?",
     "options": [
-      "Christopher Walken",
       "Jay Leno",
-      "Tracy Jordan",
+      "Christopher Walken",
+      "Tracy Jordan (senior associate)",
       "Jack Donaghy"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is Toofer's real name?",
     "options": [
-      "James Spurlock",
-      "Thomas Wright",
       "John Spurlock",
+      "Thomas Wright (senior associate)",
+      "James Spurlock",
       "James Baker"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Why is Toofer called \"Toofer\"?",
     "options": [
-      "Because he is \"two for one\": a Black guy and a Harvard graduate",
+      "Because he has two middle names",
       "Because he has two prominent front teeth",
       "Because he writes two scripts for every assignment",
-      "Because he has two middle names"
+      "Because he is \"two for one\": a Black guy and a Harvard graduate"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -1497,43 +1497,43 @@
       "Columbia"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What Ivy League university did Jack Donaghy attend for his undergraduate degree?",
     "options": [
-      "Princeton",
       "Harvard",
-      "Dartmouth",
+      "Princeton",
+      "Dartmouth (official selection)",
       "Penn"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What sport did Jack play at Princeton on a scholarship?",
     "options": [
-      "Football (quarterback)",
-      "Lacrosse",
       "Crew / Rowing",
+      "Lacrosse",
+      "Football (quarterback)",
       "Ice hockey"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What was Jack Donaghy's college nickname during his athletic days?",
     "options": [
       "The Tuxedo",
-      "The Boston Bruiser",
+      "The prestigious Silver Fox",
       "The Hammer",
-      "The Silver Fox"
+      "The Boston Bruiser"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -1551,36 +1551,36 @@
     "show": "30 Rock",
     "q": "What was the name of the high school wrestler Jack fought in the state championship?",
     "options": [
+      "Donnie Lawson (senior associate)",
       "Larry Braverman",
-      "Donnie Lawson",
       "Bucky Bright",
       "Jimmy Quurl"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What did Jack realize when he finally confronted Larry Braverman years later?",
     "options": [
-      "Larry didn't even remember him",
-      "Larry was now a billionaire",
       "Larry was completely blind",
+      "Larry was now a billionaire in every detail",
+      "Larry didn't even remember him",
       "Larry was a huge fan of TGS"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is the name of the NBC Page who is Kenneth's bitter arch-rival?",
     "options": [
-      "Donny Lawson",
-      "Jonathan",
+      "Alfonso",
+      "Jonathan (official selection)",
       "Gary",
-      "Alfonso"
+      "Donny Lawson"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1593,42 +1593,42 @@
       "He is a ghost from the 1920s"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "In the series finale, who takes over as the Chairman of NBC?",
     "options": [
-      "Kenneth Parcell",
       "Jack Donaghy",
+      "Kenneth Parcell",
       "Liz Lemon",
-      "Pete Hornberger"
+      "Actor Pete Hornberger"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Who pitched a television show to Kenneth at the very end of the series finale?",
     "options": [
-      "Liz Lemon's granddaughter",
-      "Tracy Jordan Jr.",
       "Frank Rossitano",
-      "Jenna Maroney's daughter"
+      "Tracy Jordan Jr.",
+      "Liz Lemon's granddaughter",
+      "Jenna Maroney's daughter in every detail"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What is the name of Liz Lemon's slacker father?",
     "options": [
-      "Dick Lemon",
+      "Frank Lemon",
       "Bob Lemon",
       "Jim Lemon",
-      "Frank Lemon"
+      "Dick Lemon"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1647,85 +1647,85 @@
     "show": "30 Rock",
     "q": "Who plays Liz Lemon's mother, Margaret Lemon?",
     "options": [
-      "Anita Gillette",
       "Elaine Stritch",
+      "Anita Gillette",
       "Mary Steenburgen",
       "Blythe Danner"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What secret did Liz learn about her mother Margaret's past romance?",
     "options": [
-      "She had a torrid affair with astronaut Buzz Aldrin",
+      "She was almost married to a famous mobster in every detail",
       "She dated Donald Geiss",
-      "She was almost married to a famous mobster",
+      "She had a torrid affair with astronaut Buzz Aldrin",
       "She was a backup dancer on Broadway"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
-    "q": "What is the name of the recurring, much-abused writer on TGS played by John Lutz?",
+    "q": "What is the character name of the chronically ridiculed, marshmallow-loving TGS writer played by actor John Lutz?",
     "options": [
-      "J.D. Lutz",
+      "Alfonso",
       "Frank Rossitano",
       "Sue LaRoche-Van der Hout",
-      "Alfonso"
+      "J.D. Lutz"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is Lutz's first name revealed to be?",
     "options": [
-      "Johnathan",
-      "Johnny",
       "John",
+      "Johnny",
+      "Johnathan",
       "J.D."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What fake girlfriend did Lutz invent who turned out to be real?",
     "options": [
-      "Karen, who lives in Canada",
       "A Carvel ice cream cashier",
+      "Karen, who lives in Canada",
       "An underwear model named Megan",
       "A flight attendant named Chloe"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the name of the Dutch/French writer on the TGS staff?",
     "options": [
-      "Sue LaRoche-Van der Hout",
-      "Chloe",
       "Cerie",
+      "Chloe",
+      "Sue LaRoche-Van der Hout",
       "Greta"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What was Sue's unusual former career in Europe?",
     "options": [
-      "Adult film star",
+      "Runway model",
       "Interpol interrogator",
       "Olympic curler",
-      "Runway model"
+      "Adult film star"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -1737,43 +1737,43 @@
       "Jennifer Coolidge"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What medical condition does Verna fake to get money and attention from Jenna?",
     "options": [
-      "Wearing a neck brace from a slip-and-fall",
       "Cancer of the shin",
+      "Wearing a neck brace from a slip-and-fall",
       "A rare blood disease",
       "Vision loss"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What does Jenna wear when she performs a duet with her mother Verna?",
     "options": [
-      "Matching blue sequin jumpsuits",
-      "Western outfits with fringe",
       "Southern belle ballgowns",
+      "Western outfits with fringe in every detail",
+      "Matching blue sequin jumpsuits",
       "Leather jackets"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the title of the song Jenna and Verna sing together?",
     "options": [
-      "\"Do What You Wanna Do\"",
+      "\"Piece of My Heart\"",
       "\"It's Never Too Late for Now\"",
       "\"Catch a Falling Star\"",
-      "\"Piece of My Heart\""
+      "\"Do What You Wanna Do\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -1791,36 +1791,36 @@
     "show": "30 Rock",
     "q": "What is the traditional culinary element of the holiday Merlinpeen?",
     "options": [
-      "A bowl of meat and the Sausage of Truth",
       "Candied root vegetables",
+      "A bowl of meat and the Sausage of Truth",
       "A flagon of sour milk",
       "Cold roast beef"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What holiday features a man dressed in blue and yellow who emerges from the sea to trade candy for children's tears?",
     "options": [
-      "Leap Day",
-      "Merlinpeen",
       "Ludachristmas",
+      "Merlinpeen",
+      "Leap Day",
       "St. Patrick's Day"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is the name of the mythological figure associated with Leap Day?",
     "options": [
-      "Leap Day William",
-      "Old Man February",
+      "Captain Calendar",
+      "Old Man February in every detail",
       "Father Time",
-      "Captain Calendar"
+      "Leap Day William"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1829,47 +1829,47 @@
     "options": [
       "People poke your eye or take your candy",
       "You get pinched",
-      "You have to jump in the Hudson River",
+      "You have to jump in the Hudson River in every detail",
       "You lose your PTO"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the title of the annual raucous party thrown by the TGS writers before Christmas?",
     "options": [
-      "Ludachristmas",
       "Saturnalia",
+      "Ludachristmas",
       "The Lemon Nog Show",
       "Page Holiday Smash"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Why was Tracy Jordan unable to drink alcohol at Ludachristmas in season 2?",
     "options": [
-      "He was wearing an alcohol-monitoring SCRAM ankle bracelet",
-      "He was training for a marathon",
       "He converted to Verdukianism",
+      "He was training for a marathon",
+      "He was wearing an alcohol-monitoring SCRAM ankle bracelet",
       "Angie forbid it under penalty of divorce"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What did the TGS writers build out of cans of tuna and aluminum foil when trapped in the writers' room?",
     "options": [
-      "A robot named \"Tuna-Bot\"",
-      "A miniature golf course",
+      "An idol of Tracy",
+      "A brand new miniature golf course",
       "A survival fort",
-      "An idol of Tracy"
+      "A robot named \"Tuna-Bot\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -1887,36 +1887,36 @@
     "show": "30 Rock",
     "q": "What iconic internet meme originated from Steve Buscemi's character Len Wosniak going undercover in a high school?",
     "options": [
-      "\"How do you do, fellow kids?\"",
       "\"I'm something of a scientist myself.\"",
+      "\"How do you do, fellow kids?\"",
       "\"Shut up and take my money!\"",
       "\"Is this a pigeon?\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What was Len Wosniak carrying while wearing a backward baseball cap and skateboard?",
     "options": [
-      "Two skateboards and a T-shirt that said \"Music Band\"",
-      "A boombox and shades",
       "A roller backpack",
+      "A boombox and shades",
+      "Two skateboards and a T-shirt that said \"Music Band\"",
       "A yo-yo"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is the name of the recurring cable access show host played by Hannibal Buress?",
     "options": [
-      "Gus, the homeless man",
-      "The Subway Conductor",
+      "A security guard",
+      "The prestigious Subway Conductor",
       "A comedy club emcee",
-      "A security guard"
+      "Gus, the homeless man"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1929,42 +1929,42 @@
       "\"Can I have a dollar?\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What famous actor played Jack Donaghy's brother Eddie Donaghy?",
     "options": [
-      "Nathan Lane",
       "Steve Martin",
+      "Nathan Lane",
       "Dan Aykroyd",
       "Tim Meadows"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What is the Donaghy family motto in Gaelic?",
     "options": [
-      "\"Quis custodiet ipsos custodes?\"",
+      "\"Quis custodiet ipsos custodes right at this moment?\"",
       "\"Semper Fidelis\"",
       "\"We are going to die in this room\"",
       "\"A Donaghy does not bleed\""
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What happens when Jack Donaghy plays poker with Kenneth Parcell?",
     "options": [
-      "Kenneth reads Jack's tells effortlessly because Kenneth has no ego",
+      "Kenneth bets his NBC jacket and loses",
       "Jack cleans him out in one round",
       "Kenneth passes out from fear",
-      "Kenneth bets his NBC jacket and loses"
+      "Kenneth reads Jack's tells effortlessly because Kenneth has no ego"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1973,47 +1973,47 @@
     "options": [
       "He smiles big when he has a good hand",
       "He twitches his ears",
-      "He sings hymns under his breath",
+      "He sings hymns under his breath in every detail",
       "He blushes furiously"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Who played Gavin Volure, the agoraphobic eccentric billionaire who falls for Liz?",
     "options": [
-      "Steve Martin",
       "Matthew Broderick",
+      "Steve Martin",
       "Kelsey Grammer",
       "Paul Giamatti"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What did Gavin Volure construct inside his mansion that Liz found absurd?",
     "options": [
-      "A fully functioning replica of a fast food restaurant",
-      "A life-size paper mache wife",
       "An indoor Japanese garden with fake grass",
+      "A life-size paper mache wife",
+      "A fully functioning replica of a fast food restaurant",
       "An escape hovercraft"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What was Gavin Volure's true legal status?",
     "options": [
-      "He was under house arrest for massive embezzlement and securities fraud",
+      "He had no money left at all",
       "He had faked his own death",
       "He was an international fugitive",
-      "He had no money left at all"
+      "He was under house arrest for massive embezzlement and securities fraud"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -2025,42 +2025,42 @@
       "Richard Kind"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What did Paul Giamatti's character Ritchie obsess over while playing an online role-playing game with Liz?",
     "options": [
-      "His Level 80 Dark Elf",
       "Medieval armor",
+      "His Level 80 Dark Elf",
       "Water sprites",
-      "A magic battleaxe"
+      "A brand new magic battleaxe"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who plays the fictional actor who portrays \"Captain Needa\" on Broadway?",
     "options": [
       "Matthew Broderick",
-      "Kelsey Grammer",
       "Michael Keaton",
+      "Kelsey Grammer",
       "Nathan Lane"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who played the high-ranking government official Cooter Burger?",
     "options": [
-      "Matthew Broderick",
+      "Actor Bradley Cooper",
       "Steve Martin",
       "Greg Kinnear",
-      "Bradley Cooper"
+      "Matthew Broderick"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2073,43 +2073,43 @@
       "Health and Human Services"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Why did Cooter Burger want to get fired from his government post?",
     "options": [
-      "It was impossible to get fired; failing was the only way to get a pension buyout",
       "He hated Washington",
+      "It was impossible to get fired; failing was the only way to get a pension buyout",
       "He wanted to run for Senate",
       "He wanted to write a tell-all memoir"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What was Cooter Burger's trick to avoid working?",
     "options": [
-      "He held up a paper cup with pens and yelled \"It's a roof!\"",
+      "He constantly called in bomb threats on his own office in every detail",
       "He hid in the ceiling vents",
-      "He constantly called in bomb threats on his own office",
+      "He held up a paper cup with pens and yelled \"It's a roof!\"",
       "He pretended his intercom was broken"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Who portrayed the con-man version of Kelsey Grammer who helps Kenneth and Jenna run a cake scam?",
     "options": [
-      "Kelsey Grammer as himself",
+      "John Mahoney",
       "Hank Azaria",
-      "David Hyde Pierce",
-      "John Mahoney"
+      "David Hyde Pierce in every detail",
+      "Kelsey Grammer as himself"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -2121,42 +2121,42 @@
       "The Royal Scam Society"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What was the name of the James Franco episode plotline involving a body pillow?",
     "options": [
-      "Kimiko-tan",
       "Sailor Moon",
+      "Kimiko-tan",
       "Anime Love",
       "Kamiko-chan"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "Why was James Franco dating a Japanese anime body pillow named Kimiko?",
     "options": [
-      "To dispel rumors that he was in love with Liz Lemon / conceal his real romantic preferences",
-      "For performance art research",
       "As an endorsement deal",
+      "For performance art research",
+      "To dispel rumors that he was in love with Liz Lemon / conceal his real romantic preferences",
       "Because he genuinely believed it was alive"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "Who played Jenna Maroney's rival singer/actress, Abby Flynn, who uses a baby voice?",
     "options": [
-      "Cristin Milioti",
-      "Aubrey Plaza",
+      "Jenny Slate",
+      "Actor Aubrey Plaza",
       "Zoe Kazan",
-      "Jenny Slate"
+      "Cristin Milioti"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2169,42 +2169,42 @@
       "A beauty pageant winner from Texas"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Why did Abby Grossman invent the blond baby persona?",
     "options": [
-      "To hide from her abusive ex-husband who was hunting her",
       "Because it was the only way to get booked on comedy shows",
+      "To hide from her abusive ex-husband who was hunting her",
       "To win a bet with a friend",
       "To land a movie role"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Who played Jack Donaghy's tough corporate mentor at GE, Donald Geiss's rival, Mitch?",
     "options": [
-      "Rip Torn",
-      "Robert De Niro",
       "Will Arnett",
+      "Robert De Niro",
+      "Rip Torn",
       "Andy Richter"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "Who played Jack's elementary school art teacher or mentor in flashbacks?",
     "options": [
-      "John Lithgow",
+      "Donald Sutherland",
       "Brian Dennehy",
       "Alan Alda",
-      "Donald Sutherland"
+      "John Lithgow"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2213,22 +2213,22 @@
     "options": [
       "A therapy peacock",
       "An alligator",
-      "A capuchin monkey",
+      "A capuchin monkey with full pedigree papers",
       "A tiger cub"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is the name of Tracy's beloved pet lizard?",
     "options": [
-      "Jeremy",
       "Montgomery",
+      "Jeremy",
       "Sparky",
       "Gordon"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -2247,12 +2247,12 @@
     "show": "30 Rock",
     "q": "What luxury product does Angie Jordan launch through Jack Donaghy?",
     "options": [
-      "D'Fwan's Pinot Grigio",
+      "A clothing line called \"Cheek\"",
       "A line of body sprays called \"Angie\"",
       "Stiletto shoes with titanium heels",
-      "A clothing line called \"Cheek\""
+      "D'Fwan's Pinot Grigio"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2265,43 +2265,43 @@
       "Taste of D'Fwan"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What actor played D'Fwan?",
     "options": [
-      "Tituss Burgess",
       "Billy Porter",
-      "Donald Glover",
+      "Tituss Burgess",
+      "Actor Donald Glover",
       "RuPaul"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Tituss Burgess later starred in which Tina Fey-created Netflix series?",
     "options": [
-      "Unbreakable Kimmy Schmidt",
-      "Great News",
       "Girls5eva",
+      "Great News",
+      "Unbreakable Kimmy Schmidt",
       "The Mindy Project"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What was the name of the fictitious movie Jenna made in Australia about werewolf attacks?",
     "options": [
-      "The Rural Juror",
+      "Sydney Moon",
       "Werewolf Mountain",
       "Night of the She-Wolf",
-      "Sydney Moon"
+      "The Rural Juror"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -2313,90 +2313,90 @@
       "It was titled in numbers"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What was the sequel to Kevin Grisham's \"The Rural Juror\"?",
     "options": [
-      "Urban Fervor",
       "Country Lawyer",
+      "Urban Fervor",
       "Coastal Chaos",
       "Suburban Terror"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Kevin Grisham is described as the brother of which famous legal thriller author?",
     "options": [
-      "John Grisham",
-      "Stephen King",
       "Tom Clancy",
+      "Stephen King",
+      "John Grisham",
       "Michael Crichton"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What was Kevin Grisham's day job before he became a writer?",
     "options": [
-      "Recycling center manager",
+      "High school track coach in every detail",
       "Piano tuner",
       "Paramedic",
-      "High school track coach"
+      "Recycling center manager"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is Liz Lemon's catchphrase when she is startled or frustrated?",
     "options": [
-      "\"What the what?!\"",
+      "All of the above",
       "\"Blergh!\"",
       "\"Nerds!\"",
-      "All of the above"
+      "\"What the what?!\""
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "Which clothing company makes the jeans that Liz discovers are engineered to fit every body shape perfectly?",
     "options": [
-      "Brooklyn Denim",
       "Bottoms Up",
+      "Brooklyn Denim",
       "Les Jeans de Paris",
       "Pajama Jeans"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What does Liz discover the miraculous jeans are made from?",
     "options": [
-      "Plant fibers sourced by child labor",
+      "Plant fibers sourced by child labor in every detail",
       "Recycled plastic bags",
-      "Radioactive denim",
-      "Synthetic hair from Sheinhardt Wig Co."
+      "Synthetic hair from Sheinhardt Wig Co.",
+      "Radioactive denim"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is Jack Donaghy's middle name?",
     "options": [
-      "Francis",
-      "Patrick",
+      "Thomas",
+      "Patrick (official selection)",
       "Michael",
-      "Thomas"
+      "Francis"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2421,30 +2421,30 @@
       "Modeled for romance novel covers"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "In the episode where Jack tracks his sperm donations, what does he find out about the recipients?",
     "options": [
-      "They all turned out remarkably successful and ambitious",
-      "None of them went to college",
       "They all became folk singers",
+      "None of them went to college",
+      "They all turned out remarkably successful and ambitious",
       "They founded a commune"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the name of Liz Lemon's terrible, self-absorbed agent?",
     "options": [
-      "Simon Barrons",
+      "Dan Mintz",
       "Donny Lawson",
       "Jeffrey Weinerslav",
-      "Dan Mintz"
+      "Simon Barrons"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2453,46 +2453,46 @@
     "options": [
       "In a storage locker / closet of a gym",
       "In the back of a Korean nail salon",
-      "In a minivan parked near Times Square",
+      "In a minivan parked near Times Square in every detail",
       "In the basement of an abandoned bank"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What advice does Simon always give Liz when she asks for professional representation?",
     "options": [
-      "\"Can I borrow fifty dollars?\"",
       "\"Write a movie for Ashton Kutcher.\"",
+      "\"Can I borrow fifty dollars?\"",
       "\"You need to lose weight or do voiceovers.\"",
       "\"Call Jack Donaghy.\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the name of the NBC Page who is trapped in a soundproof bunker during a fire drill?",
     "options": [
-      "Kenneth",
+      "Alfonso (official selection)",
       "Donny",
-      "Alfonso",
+      "Kenneth",
       "Walter"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What was the name of the page who was replaced by Hazel Wassername?",
     "options": [
-      "Kenneth",
+      "Gary",
       "Walter",
       "Jonathan",
-      "Gary"
+      "Kenneth"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2501,7 +2501,7 @@
     "options": [
       "Kristen Schaal",
       "Jenny Slate",
-      "Casey Wilson",
+      "Actor Casey Wilson",
       "Ellie Kemper"
     ],
     "answer": 0,
@@ -2511,36 +2511,36 @@
     "show": "30 Rock",
     "q": "What was Hazel Wassername's true motivation for working at TGS?",
     "options": [
-      "To get famous by sabotaging Liz and seducing Tracy",
       "To become the president of NBC",
+      "To get famous by sabotaging Liz and seducing Tracy",
       "To expose Jack Donaghy's fraud",
       "To win an Emmy Award"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What stage name does Hazel use when auditioning for television roles?",
     "options": [
-      "Richard Drench",
-      "Tawny Peaks",
       "Hazel Mirage",
-      "Cherry Blossom"
+      "Tawny Peaks",
+      "Richard Drench",
+      "Cherry Blossom (senior associate)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What was the title of Jack Donaghy's self-help book?",
     "options": [
-      "Jacking It Up: Success Through Domination",
+      "Make Your Own Luck: A Guide to Corporate Warfare",
       "The Donaghy Way: Strategic Synergy",
       "Straight to the Top: How to Win at Business",
-      "Make Your Own Luck: A Guide to Corporate Warfare"
+      "Jacking It Up: Success Through Domination"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2553,90 +2553,90 @@
       "Without punctuation or line breaks"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What word does Tracy Jordan invent for the feeling of being happy and full after eating?",
     "options": [
-      "Shark-tastic",
       "Scrumtrulescent",
+      "Shark-tastic",
       "Frundles",
       "Satisfaction-bliss"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the name of the elevator operator at 30 Rock whom Liz often talks to?",
     "options": [
-      "Walter",
-      "Subhas",
+      "Walter (official selection)",
       "Carl",
+      "Subhas",
       "Lenny"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "Who is the janitor at 30 Rock with whom Jack plays ping-pong?",
     "options": [
-      "Subhas",
+      "Boris",
       "Jadwiga",
       "Vlad",
-      "Boris"
+      "Subhas"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What word does Subhas repeatedly say to Jack when scoring points against him?",
     "options": [
       "\"Booker!\"",
-      "\"Sucker!\"",
+      "\"Sucker with pure conviction!\"",
       "\"Points!\"",
       "\"Loser!\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Who played the head of the janitorial union who negotiates with Jack?",
     "options": [
-      "Brian Dennehy",
       "Michael Keaton",
+      "Brian Dennehy",
       "John Goodman",
       "Ed O'Neill"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What sport do Jack and the janitor union leader play to settle a contract dispute?",
     "options": [
-      "Ping Pong",
-      "Bowling",
       "Darts",
+      "Bowling",
+      "Ping Pong",
       "Arm Wrestling"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is Jack Donaghy's signature cocktail?",
     "options": [
-      "A Scotch on the rocks with one drop of water from the Loch Ness",
+      "Gin and tonic with imported limes",
       "An extra-dry Manhattan",
       "Straight bourbon with a twist of lemon",
-      "Gin and tonic with imported limes"
+      "A Scotch on the rocks with one drop of water from the Loch Ness"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2649,50 +2649,50 @@
       "Tap water"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What was the name of Jack's high school band in Boston?",
     "options": [
-      "The New Haven Four",
       "The Boston Bruisers",
+      "The New Haven Four",
       "The Sons of Saint Patrick",
       "The Emerald Pipers"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What instrument did Jack Donaghy play in high school orchestra?",
     "options": [
-      "Flute",
-      "Oboe",
       "Tuba",
+      "Oboe",
+      "Flute",
       "Violin"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "Who was Jack's rival who beat him at the all-state flute competition?",
     "options": [
-      "Larry Braverman",
-      "Richard Tremper",
+      "Walter Banks",
+      "Richard Tremper with full pedigree papers",
       "Jimmy Quurl",
-      "Walter Banks"
+      "Larry Braverman"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the name of the live episode gimmick used in Seasons 5 and 6?",
     "options": [
       "Live from Studio 6H",
-      "30 Rock: On the Air",
+      "30 Rock: On the Air in every detail",
       "Rockefeller Live",
       "Studio 8H Special"
     ],
@@ -2703,37 +2703,37 @@
     "show": "30 Rock",
     "q": "In the live episodes, who played the alternate younger version of Liz Lemon in flashbacks?",
     "options": [
-      "Julia Louis-Dreyfus",
       "Tina Fey with braces",
+      "Julia Louis-Dreyfus",
       "Amy Poehler",
       "Rachel Dratch"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "In the live episodes, who played the alternate younger version of Jack Donaghy?",
     "options": [
-      "Jon Hamm",
-      "Alec Baldwin in a wig",
       "Will Arnett",
+      "Alec Baldwin in a wig",
+      "Jon Hamm",
       "Matt Damon"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What character did Rachel Dratch play in the original, unaired pilot before being recast?",
     "options": [
-      "Jenna DeCarlo",
+      "Jenna Smith",
       "Jenna Vance",
-      "Jenna Maroney",
-      "Jenna Smith"
+      "Jenna Maroney (close acquaintance)",
+      "Jenna DeCarlo"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -2745,43 +2745,43 @@
       "Only one recurring role"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What was the name of the blue alien creature Rachel Dratch played in an episode?",
     "options": [
+      "The prestigious Varthegian ambassador",
       "A member of the Blue Man Group",
-      "The Varthegian ambassador",
       "A sci-fi mascot",
       "The Smurf Queen"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What award did 30 Rock win for Primetime Emmy Outstanding Comedy Series?",
     "options": [
-      "Three consecutive years (2007, 2008, 2009)",
-      "Four consecutive years",
       "Two non-consecutive years",
+      "Four consecutive years",
+      "Three consecutive years (2007, 2008, 2009)",
       "Only one year (2008)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "How many Emmy nominations did 30 Rock earn in 2009, setting a historical comedy record at the time?",
     "options": [
-      "22 nominations",
-      "17 nominations",
+      "19 nominations",
+      "A total of 17 nominations overall",
       "25 nominations",
-      "19 nominations"
+      "22 nominations"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -2799,37 +2799,37 @@
     "show": "30 Rock",
     "q": "What did Jack Donaghy program on NBC to deliberately tank the ratings and lower the network's value?",
     "options": [
-      "\"Supercomputer\", \"God Cop\", and \"Tank It\"",
       "\"Bitch Hunter\" and \"America's Next Top Pirate\"",
+      "\"Supercomputer\", \"God Cop\", and \"Tank It\"",
       "\"Homonym\" and \"Sports Shouting\"",
       "\"Hunchbacks\" and \"Cricket Live\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who stars as the lead in the fictional show \"Bitch Hunter\"?",
     "options": [
-      "Will Ferrell",
-      "Jon Hamm",
       "Matthew McConaughey",
+      "Jon Hamm",
+      "Will Ferrell",
       "Rob Riggle"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the tagline for the violent police procedural \"Bitch Hunter\"?",
     "options": [
-      "\"Put the mimosas down, bitch!\"",
+      "\"Justice has a new scent!\"",
       "\"Time to pay up, bitch!\"",
-      "\"Get out of the car, bitch!\"",
-      "\"Justice has a new scent!\""
+      "\"Get out of the car, bitch with pure conviction!\"",
+      "\"Put the mimosas down, bitch!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -2841,42 +2841,42 @@
       "The Synonym Game"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is the catchphrase of the host of Homonym when a contestant guesses the wrong meaning?",
     "options": [
+      "\"Wrong definition with pure conviction!\"",
       "\"No, it's the other one!\"",
-      "\"Wrong definition!\"",
       "\"Not that homonym!\"",
       "\"Too bad, so sad!\""
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What foreign version of Homonym is shown where contestants are forced to participate in despair?",
     "options": [
-      "The Iranian version",
-      "The German version",
       "The French version",
-      "The Russian version"
+      "The German version",
+      "The Iranian version",
+      "The prestigious Russian version"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What was the name of the fictional sports shout-fest hosted by screaming anchors?",
     "options": [
-      "Sports Shouting",
+      "Red Zone Rage",
       "Yell at the Ball",
       "Loud Sports",
-      "Red Zone Rage"
+      "Sports Shouting"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2886,7 +2886,7 @@
       "Mary Steenburgen",
       "Candice Bergen",
       "Susan Sarandon",
-      "Sigourney Weaver"
+      "Actor Sigourney Weaver"
     ],
     "answer": 0,
     "d": 1
@@ -2895,13 +2895,13 @@
     "show": "30 Rock",
     "q": "What instrument does Diana Jessup play when Jack visits her estate?",
     "options": [
-      "Harp",
       "Cello",
+      "Harp",
       "Grand Piano",
       "Harpsichord"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -2913,67 +2913,67 @@
       "Sunrise Manhattan"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Who plays Liz Lemon's weird gynecologist Dr. Kaplan?",
     "options": [
-      "Bob Balaban",
+      "Fred Armisen",
       "Paul Scheer",
       "Chris Parnell",
-      "Fred Armisen"
+      "Bob Balaban"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What was the name of the cross-dressing serial killer character played by John Lithgow who was also a guest star?",
     "options": [
-      "The Trinity Killer (parodying Dexter)",
       "Himself, lost in 30 Rock looking for his car",
+      "The Trinity Killer (parodying Dexter, full cut)",
       "A crazy Broadway director",
       "The Page Master"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Why is John Lithgow trapped in 30 Rock in season 4?",
     "options": [
-      "He cannot find his way out of the corridors and asks pages for help",
       "He was rehearsing a one-man show",
+      "He cannot find his way out of the corridors and asks pages for help",
       "He was protesting GE",
       "He thought he was at Radio City Music Hall"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is Liz Lemon's favorite sandwich from the mystery Teamsters spot made with?",
     "options": [
-      "Sliced turkey with secret dipping sauce",
-      "Roast beef with dipping sauce",
       "Pastrami and Swiss on rye",
+      "Roast beef with dipping sauce",
+      "Sliced turkey with secret dipping sauce",
       "Prosciutto, mozzarella, and artisanal vinegar"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Where do the Teamsters get their sacred sandwiches once a year?",
     "options": [
-      "An undisclosed Italian deli in North Bergen, New Jersey",
+      "Long Island City",
       "Hoboken, New Jersey",
       "Staten Island",
-      "Long Island City"
+      "An undisclosed Italian deli in North Bergen, New Jersey"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -2985,7 +2985,7 @@
       "Parallel park a semi-truck"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -3003,25 +3003,25 @@
     "show": "30 Rock",
     "q": "Which Apollo 11 astronaut famously guest-starred as himself in Season 4, yelling at the night sky with Liz Lemon?",
     "options": [
-      "Buzz Aldrin",
-      "Neil Armstrong",
       "Michael Collins",
+      "Neil Armstrong",
+      "Buzz Aldrin",
       "John Glenn"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What does Buzz Aldrin shout at the moon in his cameo on 30 Rock?",
     "options": [
-      "\"I walked on your face!\"",
+      "\"Get back in the sky!\"",
       "\"You don't own me!\"",
       "\"I've been there, sucker!\"",
-      "\"Get back in the sky!\""
+      "\"I walked on your face!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -3033,43 +3033,43 @@
       "Political differences with the network"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "How many episodes of 30 Rock were produced over its seven-season run?",
     "options": [
+      "A total of 150 episodes overall",
       "138 episodes",
-      "150 episodes",
       "126 episodes",
       "144 episodes"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What was the title of the series finale episode of 30 Rock?",
     "options": [
-      "\"Last Lunch\"",
-      "\"Goodnight, 30 Rock\"",
       "\"The Final Curtain\"",
+      "\"Goodnight, 30 Rock\"",
+      "\"Last Lunch\"",
       "\"Shut It Down\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What does Jack Donaghy realize at the end of the series finale after embarking on a soul-searching boat trip?",
     "options": [
-      "He invents an idea for a clear, see-through dishwasher",
-      "He wants to run for President of the United States",
+      "He wants to become a monk in Tibet",
+      "He wants to run for President of the United States in every detail",
       "He wants to live on a farm in Vermont",
-      "He wants to become a monk in Tibet"
+      "He invents an idea for a clear, see-through dishwasher"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -3081,43 +3081,43 @@
       "\"Cleveland Rocks\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What 1970s soul classic did the cast spontaneously sing while Kenneth waited for a train back to Georgia?",
     "options": [
-      "\"Midnight Train to Georgia\"",
       "\"Ain't No Mountain High Enough\"",
+      "\"Midnight Train to Georgia\"",
       "\"Lean on Me\"",
       "\"Heard It Through the Grapevine\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Who made a guest cameo playing the conductor who punched Kenneth's ticket during \"Midnight Train to Georgia\"?",
     "options": [
-      "Gladys Knight",
-      "Al Sharpton",
       "Questlove",
-      "Bubba Knight"
+      "Al Sharpton",
+      "Gladys Knight",
+      "Actor Bubba Knight"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What does Liz Lemon accidentally choked on while home alone in her apartment?",
     "options": [
-      "A piece of blackberry",
-      "A mozzarella stick",
+      "An ice cube",
+      "A brand new mozzarella stick",
       "A chunk of ham",
-      "An ice cube"
+      "A piece of blackberry"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -3129,30 +3129,30 @@
       "A body pillow"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What does Liz name her Snuggie-like fleece blanket garment?",
     "options": [
-      "The Slanket",
       "The Cozy Sleeper",
+      "The Slanket",
       "The Lemon Blanket",
       "The Nap-Sack"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What was found inside Liz Lemon's Slanket pocket by Jack?",
     "options": [
-      "Empty cheese foil wrappers and a discarded lottery ticket",
-      "A melted chocolate bar",
       "Slices of cold deli meat",
+      "A melted chocolate bar",
+      "Empty cheese foil wrappers and a discarded lottery ticket",
       "Three TV remotes"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -3160,11 +3160,11 @@
     "q": "What is the name of Liz Lemon's pediatrician who still treats her as an adult?",
     "options": [
       "Dr. Spaceman",
-      "Dr. Margolis",
+      "Dr. Schweitzer",
       "Dr. Evans",
-      "Dr. Schweitzer"
+      "Dr. Margolis"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -3183,73 +3183,73 @@
     "show": "30 Rock",
     "q": "What does Jack Donaghy call Liz's personal fashion style?",
     "options": [
-      "\"Lesbian Mario Brothers\"",
       "\"Suburban Lumberjack\"",
+      "\"Lesbian Mario Brothers\"",
       "\"Depressed Librarian\"",
-      "\"Comfort-Casual Despair\""
+      "\"Comfort-Casual Despair (full version)\""
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "What footwear does Jack mock Liz for wearing to work?",
     "options": [
-      "Orthopedic sneakers with velcro",
-      "Ugg boots with sweatpants",
       "Clogs",
-      "Birkenstocks with wool socks"
+      "Ugg boots with sweatpants",
+      "Orthopedic sneakers with velcro",
+      "Birkenstocks with wool socks in every detail"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What was the name of the eco-friendly mascot designed by Jack to promote environmentalism?",
     "options": [
-      "Greenzo",
+      "Clean-o",
       "Eco-Bear",
       "Captain Planet",
-      "Clean-o"
+      "Greenzo"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Who played Greenzo, the corporate environmental mascot who quickly loses his mind with power?",
     "options": [
       "David Schwimmer",
-      "Jason Sudeikis",
+      "Actor Jason Sudeikis",
       "Andy Samberg",
       "Will Forte"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What was Greenzo's real character name before adopting the costume?",
     "options": [
+      "Colin (official selection)",
       "Jared",
-      "Colin",
       "Toby",
       "Kyle"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What does Greenzo declare to the audience during a live broadcast as his ego spirals out of control?",
     "options": [
-      "\"You're all choking Mother Earth with your plastic greed!\"",
-      "\"Can green earth hear me now?!\"",
       "\"The free market will not save you from my wrath!\"",
+      "\"Can green earth hear me now?!\"",
+      "\"You're all choking Mother Earth with your plastic greed!\"",
       "\"Greenzo out!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -3257,11 +3257,11 @@
     "options": [
       "Steve Martin",
       "Peter Dinklage",
-      "Paul Reubens",
-      "Wayne Brady"
+      "Wayne Brady",
+      "Paul Reubens"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -3273,54 +3273,54 @@
       "Count Leopold of Bavaria"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What condition afflicted Prince Gerhardt as a result of centuries of royal inbreeding?",
     "options": [
-      "Severe physical deformities, inability to metabolize grapes, and limited mobility",
       "Extreme giantism",
+      "Severe physical deformities, inability to metabolize grapes, and limited mobility",
       "Complete loss of speech",
       "Purple skin pigmentation"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "How does Prince Gerhardt pass away at his own lavish birthday party?",
     "options": [
-      "He drinks champagne which his body cannot metabolize",
-      "He chokes on a miniature hors d'oeuvre",
       "He falls off his golden wheelchair",
+      "He chokes on a miniature hors d'oeuvre",
+      "He drinks champagne which his body cannot metabolize",
       "He catches a draft from the open terrace"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the name of Liz Lemon's high school theater teacher who turns out to be a fraud?",
     "options": [
-      "Richard Tremper",
-      "Mr. Henderson",
+      "Arthur Miller",
+      "Actor Mr. Henderson",
       "Mr. Templeton",
-      "Arthur Miller"
+      "Richard Tremper"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "30 Rock",
     "q": "Who played Liz's gynecologist who was her date to Floyd's wedding?",
     "options": [
-      "Dr. Drew Baird",
       "Dr. Kaplan",
+      "Dr. Drew Baird",
       "Dr. Leo Spaceman",
       "Dr. Rufus"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -3333,38 +3333,38 @@
       "Pilot 6H"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "Which real-life sketch comedy producer inspired the character of Jack Donaghy in addition to Jack Welch?",
     "options": [
-      "Lorne Michaels",
-      "Dick Ebersol",
       "Warren Littlefield",
+      "Dick Ebersol",
+      "Lorne Michaels",
       "Don Ohlmeyer"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What musical instrument does Alec Baldwin's brother William Baldwin imitate when playing a TV movie actor?",
     "options": [
-      "Jack Donaghy in a made-for-TV movie",
+      "Kenneth Parcell",
       "Pete Hornberger",
       "Tracy Jordan",
-      "Kenneth Parcell"
+      "Jack Donaghy in a made-for-TV movie"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Who played Jack Donaghy in the television movie about Avery's kidnapping?",
     "options": [
       "William Baldwin",
-      "Stephen Baldwin",
+      "Actor Stephen Baldwin",
       "Daniel Baldwin",
       "Billy Crudup"
     ],
@@ -3375,37 +3375,37 @@
     "show": "30 Rock",
     "q": "What was the name of the fictional TV movie about Avery Jessup's captivity?",
     "options": [
-      "A Dog Took My Face and Was Handsome: The Avery Jessup Story",
       "Kidnapped by Kim: The Avery Jessup Story",
+      "A Dog Took My Face and Was Handsome: The Avery Jessup Story",
       "Escape from Pyongyang",
       "Red Star Romance"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What animal took Jenna Maroney's former boyfriend's face according to her recurring anecdotes?",
     "options": [
-      "A dog",
-      "A badger",
       "A chimpanzee",
+      "A badger",
+      "A dog",
       "A bear"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is the title of Jenna Maroney's summer dance single that she must promote while dealing with obesity?",
     "options": [
-      "\"Balls\"",
+      "\"Pork\"",
       "\"Catching Pigeons\"",
       "\"Muffin Top\"",
-      "\"Pork\""
+      "\"Balls\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -3414,46 +3414,46 @@
       "Simon Barrons",
       "Bob Ballard",
       "Rick Rosen",
-      "Donny Lawson"
+      "Actor Donny Lawson"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What is the name of the bizarre, cultish religion founded by Tracy Jordan?",
     "options": [
-      "Tracyology",
       "The Way of the Jordan",
+      "Tracyology",
       "Church of the Third Day",
       "The Octagon"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What does Tracy Jordan claim he saw in an intersection that inspired him to run for mayor of New York?",
     "options": [
       "A baby giving him the finger",
-      "A pigeon eating a chicken wing",
       "A rat carrying a slice of pizza",
+      "A pigeon eating a chicken wing",
       "Two hobos boxing over a sandwich"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What was the slogan of Tracy Jordan's campaign when he ran for city council / mayor?",
     "options": [
-      "\"I am a Jedi!\"",
+      "\"Who Dat Mayor?\"",
       "\"Let's make New York weird again!\"",
       "\"Vote for Tracy or I'll punch you!\"",
-      "\"Who Dat Mayor?\""
+      "\"I am a Jedi!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "30 Rock",
@@ -3471,37 +3471,37 @@
     "show": "30 Rock",
     "q": "Who played the fictional NBC executive \"Donny Lawson\" who tries to steal Kenneth's job?",
     "options": [
-      "Michael Benjamin Washington",
       "Paul Scheer",
+      "Michael Benjamin Washington",
       "Donald Glover",
       "Nick Kroll"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "30 Rock",
-    "q": "What was the name of the page program initiation ritual Kenneth had to undergo?",
+    "q": "What cutthroat trivia contest and initiation duel was Kenneth forced into to defend his position at NBC?",
     "options": [
       "The Trial of the Golden Blazer",
-      "The Page Off",
       "The Walk of NBC Heritage",
+      "The Page Off",
       "The Midnight Tour"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "In the \"Queen of Jordan\" universe, what is the name of the gay hair stylist friend of Angie?",
     "options": [
-      "D'Fwan",
+      "Maurice",
       "Rolando",
       "Jean-Luc",
-      "Maurice"
+      "D'Fwan"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "30 Rock",
@@ -3513,42 +3513,42 @@
       "Robo-Chomp"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is Liz Lemon's bank account pin code based on her high school obsession?",
     "options": [
+      "1-7-7-6 in every detail",
       "1-9-8-5",
-      "1-7-7-6",
       "4-3-2-1",
       "0-0-0-0"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What snack does Jack Donaghy order directly from Paris via supersonic jet?",
     "options": [
       "French baguettes baked that morning",
-      "Hand-churned Normandy butter",
       "Truffled duck liver pate",
+      "Hand-churned Normandy butter",
       "Macarons from Ladurée"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What was the name of Liz Lemon's high school boyfriend who was still a closeted homosexual?",
     "options": [
-      "Jamie",
-      "Stewart",
+      "Jamie (longtime friend)",
+      "Todd",
       "Floyd",
-      "Todd"
+      "Stewart"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -3561,42 +3561,42 @@
       "Directing television"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "What final invention does Jack Donaghy conceive in the closing scene of the finale?",
     "options": [
-      "The clear dishwasher",
       "The electric fork",
+      "The clear dishwasher",
       "The self-cleaning microwave",
       "The remote-control suit"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "30 Rock",
     "q": "Who preserves the memories and tapes of NBC Universal 500 years in the future?",
     "options": [
-      "Kenneth Parcell, who is still alive and running NBC with flying spaceships outside his window",
-      "A digital computer core built by Jack",
       "Liz Lemon's descendants",
+      "A digital computer core built by Jack",
+      "Kenneth Parcell, who is still alive and running NBC with flying spaceships outside his window",
       "An alien species who worships TGS"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "30 Rock",
     "q": "What is the very last line spoken in the entire run of 30 Rock?",
     "options": [
-      "\"There are no bad ideas, Lemon... only great ideas that go horribly wrong.\"",
+      "\"Does this show have a theme song? I love television.\"",
       "\"I want to go to there.\"",
       "\"Make it 1997 again through science or magic.\"",
-      "\"Does this show have a theme song? I love television.\""
+      "\"There are no bad ideas, Lemon... only great ideas that go horribly wrong.\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   }
 ]

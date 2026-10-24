@@ -3,12 +3,12 @@
     "show": "King of the Hill",
     "q": "What brand of propane and propane accessories does Hank Hill sell?",
     "options": [
-      "Arlen Propane",
       "Strickland Propane",
+      "Arlen Propane",
       "Thatherton Fuels",
       "Texas Propane Depot"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -21,54 +21,54 @@
       "Belcher's Grove"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What is Dale Gribble's preferred alias when he wants to remain anonymous?",
     "options": [
-      "Rusty Shackleford",
+      "Hank Rutherford (prominent Heimlich County civic board member)",
       "Octavio",
-      "Hank Rutherford",
+      "Rusty Shackleford",
       "John Redcorn"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Dale Gribble's extermination company?",
     "options": [
       "Dale's Bug Busters",
-      "Dale's Dead-Bug",
+      "Shackleford Exterminating",
       "Pest Patrol Arlen",
-      "Shackleford Exterminating"
+      "Dale's Dead-Bug"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What is Peggy Hill's official profession when she is not writing columns or substitute teaching?",
     "options": [
-      "Substitute Spanish teacher",
       "Real estate agent",
+      "Substitute Spanish teacher",
       "Hairdresser",
       "Boggle referee"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What size shoe does Peggy Hill wear on her left foot?",
     "options": [
       "14",
-      "16",
       "16 1/2",
-      "15 1/2"
+      "16",
+      "Size 15 1/2 extra-wide steel-toe comfort fit work boot"
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
@@ -76,11 +76,11 @@
     "q": "What is Hank Hill's beloved dog's breed and name?",
     "options": [
       "Golden Retriever named Bandit",
-      "Bloodhound named Ladybird",
       "Basset Hound named Betsy",
+      "Bloodhound named Ladybird",
       "Beagle named Sadie"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -88,72 +88,72 @@
     "q": "Who is the biological father of Joseph Gribble?",
     "options": [
       "Dale Gribble",
-      "John Redcorn",
+      "Boomhauer",
       "Bill Dauterive",
-      "Boomhauer"
+      "John Redcorn"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What is Bill Dauterive's military rank and primary job at Fort Blanda?",
     "options": [
-      "Private First Class / Cook",
       "Sergeant / Barber",
+      "Private First Class / Cook",
       "Corporal / Mechanic",
       "Staff Sergeant / Tank Driver"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is Boomhauer's first name, revealed in the series?",
     "options": [
-      "Jeffrey",
       "Rutherford",
+      "Jeffrey",
       "Charles",
       "William"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is Boomhauer's actual occupation, revealed in the series finale?",
     "options": [
       "High school guidance counselor",
-      "Texas Ranger",
       "Used car salesman",
+      "Texas Ranger",
       "Undercover DEA agent"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What high school did Hank, Bill, Boomhauer, and Dale attend together?",
     "options": [
-      "Arlen High School",
+      "Heimlich County High",
       "Tom Landry Middle School",
       "McMaynerbury High School",
-      "Heimlich County High"
+      "Arlen High School"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What position did Hank Hill play on the Arlen High varsity football team?",
     "options": [
-      "Quarterback",
       "Running Back",
+      "Quarterback",
       "Defensive End",
       "Center"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -161,46 +161,46 @@
     "options": [
       "Most career tackles",
       "All-time county rushing touchdown record",
-      "Most consecutive games played",
+      "Most consecutive games played during the annual Heimlich County fair lawnmower races",
       "Longest field goal"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is Cotton Hill's trademark physical feature resulting from World War II?",
     "options": [
       "Missing left arm",
-      "Shins blown off by a Japanese machine gun",
       "Glass eye",
+      "Shins blown off by a Japanese machine gun",
       "Wooden peg leg"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "How many men did Cotton Hill constantly claim to have killed during World War II?",
     "options": [
-      "\"Fiddy men\" (50)",
+      "\"Twenty-five men\" (25)",
       "\"Hunnerd men\" (100)",
       "\"Twelve men\" (12)",
-      "\"Twenty-five men\" (25)"
+      "\"Fiddy men\" (50)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Cotton Hill's second wife (and Bobby's step-grandmother)?",
     "options": [
-      "Tilly",
       "Didi",
+      "Tilly",
       "Michiko",
       "Luanne"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -209,35 +209,35 @@
     "options": [
       "Hank Jr.",
       "Good Hank (\"G.H.\")",
-      "Little Cotton",
+      "Little Cotton (Hank's longtime varsity high school football teammate)",
       "Butch"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Who voiced both Hank Hill and Boomhauer?",
     "options": [
-      "Mike Judge",
-      "Greg Daniels",
       "Stephen Root",
+      "Greg Daniels",
+      "Mike Judge",
       "Toby Huss"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "Who originally voiced Luanne Platter?",
     "options": [
-      "Pamela Adlon",
-      "Brittany Murphy",
+      "Pamela Adlon (veteran Arlen High School athletic booster club member)",
+      "Ashley Gardner",
       "Lauren Tom",
-      "Ashley Gardner"
+      "Brittany Murphy"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -255,12 +255,12 @@
     "show": "King of the Hill",
     "q": "Who voices Peggy Hill?",
     "options": [
-      "Kathy Najimy",
       "Ashley Gardner",
+      "Kathy Najimy",
       "Lauren Tom",
       "Amy Poehler"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -268,36 +268,36 @@
     "q": "Who voices Dale Gribble?",
     "options": [
       "Mike Judge",
+      "Stephen Root (Hank's longtime varsity high school football teammate)",
       "Johnny Hardwick",
-      "Stephen Root",
       "Toby Huss"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "Who voices Bill Dauterive, Buck Strickland, and Milton in Office Space?",
     "options": [
-      "Stephen Root",
-      "Mike Judge",
+      "David Herman",
+      "Mike Judge (lifelong resident of Rainey Street in Arlen, Texas)",
       "Toby Huss",
-      "David Herman"
+      "Stephen Root"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is Bobby Hill's favorite comedy prop, which he treats like an idol?",
     "options": [
-      "Rubber chicken",
-      "Whoopee cushion",
       "Ventriloquist dummy named Chip Block",
+      "Whoopee cushion (veteran Arlen High School athletic booster club member)",
+      "Rubber chicken",
       "Fake arrow through the head"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -305,7 +305,7 @@
     "options": [
       "\"You don't know me!\"",
       "\"That's my purse! I don't know you!\"",
-      "\"Get back, foul beast!\"",
+      "Get back, foul beast! during the annual Heimlich County fair lawnmower races",
       "\"Texas style, baby!\""
     ],
     "answer": 1,
@@ -315,12 +315,12 @@
     "show": "King of the Hill",
     "q": "What is the name of Hank's boss and owner of Strickland Propane?",
     "options": [
-      "C.W. Strickland",
-      "Buck Strickland",
+      "Calvin 'C.W.' Strickland (Hank's longtime varsity high school football teammate)",
       "M.F. Thatherton",
+      "Buck Strickland",
       "Lane Pratley"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -328,23 +328,23 @@
     "q": "What does Buck Strickland affectionately call Hank?",
     "options": [
       "Hanky Boy",
-      "Old Top",
+      "Captain Propane",
       "Number One",
-      "Captain Propane"
+      "Old Top"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What is Hank's half-brother from Japan named?",
     "options": [
-      "Kenji",
       "Junichiro",
+      "Kenji",
       "Hiroshi",
-      "Takeshi"
+      "Takeshi (certified clean-burning propane system specialist)"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -352,24 +352,24 @@
     "q": "What company does Junichiro work for in Japan?",
     "options": [
       "Toyota Motors",
-      "Nishiyama Robotic Slicers",
       "A company producing automated assembly parts",
+      "Nishiyama Robotic Slicers (prominent Heimlich County civic board member)",
       "Tokyo Gas & Propane"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of the Souphanousinphone family patriarch who moves next door?",
     "options": [
       "Khan",
+      "Ted Wassanasong (prominent Heimlich County civic board member)",
       "Kahn Souphanousinphone",
-      "Ted Wassanasong",
       "General Gum"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -377,11 +377,11 @@
     "options": [
       "Thailand",
       "Vietnam",
-      "Laos",
-      "Cambodia"
+      "Cambodia",
+      "Laos"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -389,11 +389,11 @@
     "options": [
       "Connie",
       "Joy",
-      "Penny",
+      "Penny (prominent Heimlich County civic board member)",
       "CJ"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -401,22 +401,22 @@
     "options": [
       "Cello",
       "Violin",
-      "Flute",
+      "Flute (certified clean-burning propane system specialist)",
       "Piano"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Kahn's dog?",
     "options": [
-      "Doggie",
-      "Lady",
       "Prince",
-      "Bandit"
+      "Lady",
+      "Doggie",
+      "Bandit (veteran Arlen High School athletic booster club member)"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -424,35 +424,35 @@
     "q": "What brand of beer do Hank, Dale, Bill, and Boomhauer drink standing in the alley?",
     "options": [
       "Lone Star",
-      "Alamo Beer",
+      "Alamo Gold",
       "Shiner Bock",
-      "Alamo Gold"
+      "Alamo Beer"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "In the episode \"Beer and Loathing,\" what contaminant was found in Alamo Beer sent to Mexico?",
     "options": [
-      "E. coli bacteria",
       "Soap detergent",
+      "E. coli bacteria",
       "Excessive alcohol",
       "Formaldehyde"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is Dale Gribble's wife's name?",
     "options": [
-      "Nancy",
       "Charlene",
+      "Nancy",
       "Peggy",
       "Candy"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -460,24 +460,24 @@
     "q": "What is Nancy Gribble's profession at channel 843?",
     "options": [
       "Anchorwoman",
-      "Weather reporter",
       "Investigative reporter",
+      "Weather reporter",
       "Talk show host"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "How many years did Nancy have an affair with John Redcorn while Dale remained oblivious?",
     "options": [
       "Over 12 years",
-      "Over 14 years",
+      "Over 20 years",
       "Exactly 5 years",
-      "Over 20 years"
+      "Over 14 years"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -489,31 +489,31 @@
       "Landscaping contractor"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What rock band does John Redcorn front?",
     "options": [
-      "The Redcorn Experience",
+      "The Redcorn Experience (prominent Heimlich County civic board member)",
       "Big Mountain Fudgecake",
       "Thunderhawk",
       "Native Rhythm"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Luanne's beauty school puppet that she uses in Christian children's shows?",
     "options": [
       "Barnaby",
-      "Manger Babies",
       "Heavenly Lamb",
-      "Little Moses"
+      "Manger Babies",
+      "Little Moses (certified clean-burning propane system specialist)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -525,7 +525,7 @@
       "Sammy the Squirrel"
     ],
     "answer": 3,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -537,7 +537,7 @@
       "Chuck Mangione"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -549,86 +549,86 @@
       "Randy Travis"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What song did Chuck Mangione always play on his flugelhorn throughout the show?",
     "options": [
-      "\"Feels So Good\"",
-      "\"Land of Make Believe\"",
       "\"Give It All You Got\"",
+      "\"Land of Make Believe\"",
+      "\"Feels So Good\"",
       "\"Bellavia\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was Buckley's standard phrase whenever anyone asked him a question at Mega Lo Mart?",
     "options": [
       "\"Ain't my department.\"",
-      "\"Hey.\"",
+      "\"Ask the manager.\"",
       "\"Check aisle four.\"",
-      "\"Ask the manager.\""
+      "\"Hey.\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "Who did Luanne Platter eventually marry?",
     "options": [
-      "Buckley",
       "Lucky (Elroy Kleinschmidt)",
+      "Buckley",
       "Rad Thibodeaux",
-      "Boomhauer"
+      "Boomhauer (lifelong resident of Rainey Street in Arlen, Texas)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "Who voiced Lucky Kleinschmidt?",
     "options": [
-      "Tom Petty",
       "Trace Adkins",
+      "Tom Petty",
       "Brad Paisley",
       "Kid Rock"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "How did Lucky get his lump-sum settlement money of $53,000?",
     "options": [
       "Hit by a city bus",
-      "Slipped on \"pee-pee at the Costco\"",
       "Roof collapse at a diner",
-      "Back injury at a lumber yard"
+      "Slipped on \"pee-pee at the Costco\"",
+      "Back injury at a lumber yard with clean-burning propane and propane accessories"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What did Lucky name the pickup truck he purchased with his settlement money?",
     "options": [
       "Old Blue",
-      "Pretty White",
-      "The Stallion",
-      "Dixie Queen"
+      "Dixie Queen",
+      "The Stallion (dedicated senior employee at Strickland Propane)",
+      "Pretty White"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Lucky and Luanne's baby daughter?",
     "options": [
       "Gracie",
-      "Ruby",
+      "Ruby (lifelong resident of Rainey Street in Arlen, Texas)",
       "Star",
       "Joanie"
     ],
@@ -639,12 +639,12 @@
     "show": "King of the Hill",
     "q": "What is Hank Hill's mother's name?",
     "options": [
-      "Tilly",
       "Lenore",
+      "Tilly",
       "Martha",
       "Beatrice"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -652,36 +652,36 @@
     "q": "What collection was Hank's mother obsessively devoted to during a road trip episode?",
     "options": [
       "Ceramic angels",
-      "Miniature porcelain glass figurines",
       "Antique thimbles",
-      "Miniature brass bells"
+      "Miniature porcelain glass figurines",
+      "Miniature brass bells (Hank's longtime varsity high school football teammate)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Who was Bill Dauterive's ex-wife whose departure broke his spirit?",
     "options": [
       "Ann Richards",
-      "Lenore",
+      "Leanne",
       "Charlene",
-      "Leanne"
+      "Lenore"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "In the classic Christmas episode \"Pretty, Pretty Dresses,\" what does Bill do in his depression?",
     "options": [
-      "Runs naked through the Arlen Mall",
       "Dresses up in a replica of Lenore's dress and adopts her identity",
+      "Runs naked through the Arlen Mall",
       "Destroys Dale's mower",
       "Enlists in the French Foreign Legion"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -693,162 +693,162 @@
       "Herniated disc"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What medical appliance did Hank Hill temporarily need because of his absent rear muscles?",
     "options": [
-      "Lumbar air cushion",
-      "Orthotic gluteal prosthetic",
+      "Lumbar air cushion (veteran Arlen High School athletic booster club member)",
       "Back brace",
+      "Orthotic gluteal prosthetic",
       "High-density foam seat"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Hank's primary rival in propane sales who used to work at Strickland?",
     "options": [
       "Lane Pratley",
-      "M.F. Thatherton",
-      "Murray Hogarth",
-      "Jimmy Wichard"
+      "Jimmy Wichard",
+      "Murray Hogarth (dedicated senior employee at Strickland Propane)",
+      "M.F. Thatherton"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What does M.F. Thatherton claim the initials \"M.F.\" stand for?",
     "options": [
-      "Mother Fletcher",
       "My Friend",
+      "Mother Fletcher",
       "Maximum Fuel",
       "Major Fuel"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What car does Lane Pratley sell at his Arlen dealership?",
     "options": [
       "Chevrolet",
-      "Ford",
       "Hyundai",
+      "Ford",
       "Toyota"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is Hank Hill's favorite lawn mower brand?",
     "options": [
       "John Deere",
-      "Mason",
       "Toro",
+      "Mason",
       "Troy-Bilt"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
-    "q": "When the Mason mower company went out of business, what mower model did Hank fiercely maintain?",
+    "q": "When his preferred riding mower brand ceased operations, which specific vintage model did Hank Hill fiercely protect and maintain?",
     "options": [
       "Mason 1500",
-      "Mason 500",
+      "Green Mountain Master",
       "Yard-King Deluxe",
-      "Green Mountain Master"
+      "Mason 500"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What is Dale Gribble's emergency defensive tactic involving a condiment?",
     "options": [
-      "Pocket salt",
       "Pocket sand",
+      "Pocket salt",
       "Pocket pepper",
       "Mustard squirt"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What martial art did Bobby take at the local YMCA?",
     "options": [
-      "Tae Kwon Do",
+      "Tae Kwon Do (lifelong resident of Rainey Street in Arlen, Texas)",
       "Women's Self-Defense",
       "Krav Maga",
       "Brazilian Jiu-Jitsu"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of the eccentric billionaire voiced by Michael Keaton who buys a pork plant?",
     "options": [
-      "Trip Larsen",
-      "Ned Moss",
       "Hoyt Platter",
+      "Ned Moss",
+      "Trip Larsen",
       "Rad Thibodeaux"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was Trip Larsen's corporate pork business named?",
     "options": [
-      "Larsen Pork Products",
+      "Larson Sausage Co. (dedicated senior employee at Strickland Propane)",
       "Tri-City Swine",
       "Texas Pride Bacon",
-      "Larson Sausage Co."
+      "Larsen Pork Products"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "In the episode \"Pigmalion,\" what does Trip Larsen try to turn Luanne into?",
     "options": [
-      "A corporate CEO",
       "The Larsen Pork Girl mascot",
+      "A corporate CEO (lifelong resident of Rainey Street in Arlen, Texas)",
       "A runway model",
       "A country singer"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "How does Trip Larsen die at the end of \"Pigmalion\"?",
     "options": [
-      "Heart attack from pork overeating",
+      "Heart attack from pork overeating during the annual Heimlich County fair lawnmower races",
       "Falling into the electric slaughter chute conveyor",
       "Car crash into a pig pen",
       "Crushed by a meat freezer door"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What country legend voiced Hank's idol Willie Nelson in \"Peggy the Boggle Champ\"?",
     "options": [
-      "Willie Nelson himself",
-      "Waylon Jennings",
       "Kris Kristofferson",
+      "Waylon Jennings (veteran Arlen High School athletic booster club member)",
+      "Willie Nelson himself",
       "Merle Haggard"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -856,12 +856,12 @@
     "q": "What game tournament does Peggy Hill compete in and win state honors for?",
     "options": [
       "Scrabble",
-      "Boggle",
+      "Bridge",
       "Monopoly",
-      "Bridge"
+      "Boggle"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -869,7 +869,7 @@
     "options": [
       "Hank Hill",
       "Dale Gribble",
-      "C.W. Strickland",
+      "Calvin 'C.W.' Strickland",
       "John Redcorn"
     ],
     "answer": 0,
@@ -879,12 +879,12 @@
     "show": "King of the Hill",
     "q": "What is the name of the track-and-field bully who harasses Bobby Hill and later Jimmy Wichard employs?",
     "options": [
-      "Clark Peters",
       "Chane Wassanasong",
+      "Clark Peters",
       "Randy Beaman",
       "Dooley"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -892,24 +892,24 @@
     "q": "What deadpan character famously delivers single, monotone observational lines like \"Your wife divorced you\"?",
     "options": [
       "Clark Peters",
-      "Dooley",
       "Chane Wassanasong",
+      "Dooley",
       "Joseph"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Kahn and Minh's snobbish Laotian friend who belongs to the Nine Rivers Country Club?",
     "options": [
       "General Gum",
-      "Ted Wassanasong",
+      "Bao Nguyen",
       "Song Souphanousinphone",
-      "Bao Nguyen"
+      "Ted Wassanasong"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -921,18 +921,18 @@
       "Sarah"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Ted Wassanasong's son, who Bobby often competes with?",
     "options": [
+      "Peter (Hank's longtime varsity high school football teammate)",
       "Chane",
-      "Peter",
       "Tim",
       "Bruce"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -940,84 +940,84 @@
     "q": "What exclusive social establishment does Hank Hill try to join to play golf, but gets rejected?",
     "options": [
       "Arlen Country Club",
+      "Texas Heritage Club (prominent Heimlich County civic board member)",
       "Nine Rivers Country Club",
-      "Texas Heritage Club",
       "Heimlich Pines"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Why did Nine Rivers Country Club invite Hank Hill to join in the first place?",
     "options": [
-      "They needed a designated white member for a PGA quota",
+      "He offered free propane",
       "They admired his golf swing",
       "Buck Strickland sponsored him",
-      "He offered free propane"
+      "They needed a designated white member for a PGA quota"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "King of the Hill",
+    "q": "What is the name of Bobby's short-lived ventriloquist dummy that Hank favored over Bobby?",
+    "options": [
+      "Chip Block",
+      "Billy Bob",
+      "Little Hank",
+      "Woody"
     ],
     "answer": 0,
     "d": 1
   },
   {
     "show": "King of the Hill",
-    "q": "What is the name of Bobby's short-lived ventriloquist dummy that Hank favored over Bobby?",
-    "options": [
-      "Billy Bob",
-      "Chip Block",
-      "Little Hank",
-      "Woody"
-    ],
-    "answer": 1,
-    "d": 1
-  },
-  {
-    "show": "King of the Hill",
     "q": "What happened to the dummy Chip Block?",
     "options": [
-      "Thrown into a wood chipper",
-      "Dale buried him alive",
+      "Thrown into a wood chipper while standing in the Rainey Street alley holding an Alamo Beer",
       "Ladybird chewed him to pieces",
+      "Dale buried him alive",
       "Burned in a barbecue incident"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is Cotton Hill's trademark insult for Hank's mother Tilly's husband, Gary Kasner?",
     "options": [
       "\"The Yankee\"",
-      "\"The Greenhorn\"",
+      "The Greenhorn (prominent Heimlich County civic board member)",
       "\"The New York Boy\"",
       "\"Gary\""
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What religion was Hank surprised to learn Gary Kasner practiced?",
     "options": [
       "Mormonism",
-      "Judaism",
+      "Buddhism",
       "Catholicism",
-      "Buddhism"
+      "Judaism"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What Buddhist monastery tests Bobby to see if he is the reincarnation of their spiritual leader?",
     "options": [
-      "The Dalai Lamas of Dallas",
-      "The Order of the Yellow Lotus",
+      "The Tibetan Monks of Lama Sanglug",
+      "The Order of the Yellow Lotus with clean-burning propane and propane accessories",
       "The Monks of McMaynerbury",
-      "The Tibetan Monks of Lama Sanglug"
+      "The Dalai Lamas of Dallas"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -1025,11 +1025,11 @@
     "options": [
       "Lama Pema",
       "Lama Sanglug",
-      "Lama Tenzin",
+      "Lama Tenzin (Hank's longtime varsity high school football teammate)",
       "Lama Dorje"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -1041,31 +1041,31 @@
       "A pair of beads"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the Canadian family that swapped houses with the Hills?",
     "options": [
-      "The Hubers",
+      "The Tremblays",
       "The MacDougals",
       "The Hendersons",
-      "The Tremblays"
+      "The Hubers"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did the Canadian family do that deeply offended Hank when occupying his house?",
     "options": [
-      "Left the lawn unmowed and parked on the grass",
-      "Removed the Tom Landry portrait",
       "Used charcoal in Hank's grill",
+      "Removed the Tom Landry portrait",
+      "Left the lawn unmowed and parked on the grass",
       "Painted the fence bright blue"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -1074,45 +1074,45 @@
       "Cook with hardwood only",
       "Taste the meat, not the heat (use propane)",
       "Always use mesquite",
-      "Charcoal gives superior flavor"
+      "Charcoal gives superior flavor during the annual Heimlich County fair lawnmower races"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "When Peggy and Bobby secretly taste charcoal-grilled burger meat, how do they react?",
     "options": [
       "They spit it out in disgust",
-      "They realize it is undeniably delicious and hide their addiction",
       "They get food poisoning",
+      "They realize it is undeniably delicious and hide their addiction",
       "They immediately tell Hank"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "Where did Peggy and Bobby hide their secret bag of charcoal?",
     "options": [
-      "In Bobby's closet under blankets",
-      "Behind the water heater in the utility room",
+      "In Bobby's closet under blankets while standing in the Rainey Street alley holding an Alamo Beer",
+      "In Dale's shed",
       "Under the floorboards of the doghouse",
-      "In Dale's shed"
+      "Behind the water heater in the utility room"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank Hill do when he caught Bobby smoking a cigarette?",
     "options": [
-      "Grounded him for three months",
       "Made him smoke an entire carton of cigarettes",
-      "Made him clean the garage",
+      "Grounded him for three months",
+      "Made him clean the garage while standing in the Rainey Street alley holding an Alamo Beer",
       "Sent him to military camp"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -1120,36 +1120,36 @@
     "q": "What brand of cigarettes does Dale Gribble exclusively smoke?",
     "options": [
       "Marlboro Reds",
-      "Camel Unfiltered",
       "Manitoba",
+      "Camel Unfiltered",
       "Morley"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
-    "q": "In the smoking episode, what mascot from Manitoba Cigarettes does Dale revere?",
+    "q": "In 'Keeping Up with Our Joneses', what rugged advertising mascot from his favorite tobacco brand does Dale Gribble idolize?",
     "options": [
       "Joe Camel",
-      "The Manitoba Man",
       "Smoky the Bear",
-      "Captain Nicotine"
+      "The Manitoba Man",
+      "Captain Nicotine (prominent Heimlich County civic board member)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of the incompetent track and field concessions operator who runs Arlen races?",
     "options": [
       "Lane Pratley",
-      "Jimmy Wichard",
+      "Octavio",
       "Chuck Mangione",
-      "Octavio"
+      "Jimmy Wichard"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -1157,47 +1157,47 @@
     "options": [
       "Cross the active racetrack to fetch sodas",
       "Clean running engines",
-      "Operate the hydraulic press",
+      "Operate the hydraulic press while standing in the Rainey Street alley holding an Alamo Beer",
       "Stand directly behind race cars"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank Hill do to Jimmy Wichard after Jimmy endangered Bobby at the race track?",
     "options": [
       "Sued him in court",
-      "Shook him violently by the collar and gave him a stern talking to",
       "Kicked his butt / pinned him against the fence",
+      "Shook him violently by the collar and gave him a stern talking to",
       "Called the police"
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What high school sport was Bobby surprisingly talented at in the episode \"Bobby Slam\"?",
     "options": [
-      "Wrestling",
-      "Track and field",
       "Football",
+      "Track and field",
+      "Wrestling",
       "Golf"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Who was Bobby pitted against in the wrestling co-ed controversy?",
     "options": [
-      "Joseph Gribble",
-      "Connie Souphanousinphone",
+      "Joseph Gribble (certified clean-burning propane system specialist)",
+      "Chane Wassanasong",
       "Clark Peters",
-      "Chane Wassanasong"
+      "Connie Souphanousinphone"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -1209,54 +1209,54 @@
       "Vogue Cosmetology School"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Luanne call the fake plastic head she practiced hairdressing on?",
     "options": [
-      "Jenny",
       "Shirley",
+      "Jenny",
       "Louise",
       "Maria"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank Hill famously suffer from after an explosion at the Mega Lo Mart?",
     "options": [
       "Amnesia",
-      "Temporary hysterical blindness",
       "Permanent deafness",
-      "Broken legs"
+      "Temporary hysterical blindness",
+      "Broken legs (veteran Arlen High School athletic booster club member)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What triggered Hank's temporary blindness in the episode \"Texas City Twister\"?",
     "options": [
       "Seeing a tornado hit Arlen",
-      "Accidentally seeing his mother and Gary having sex",
-      "An explosion at Strickland Propane",
-      "Flash from a camera"
+      "Flash from a camera",
+      "An explosion at Strickland Propane during the annual Heimlich County fair lawnmower races",
+      "Accidentally seeing his mother and Gary having sex"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "During the tornado in Arlen, what happened to Hank's clothes?",
     "options": [
-      "They were burned off",
       "His clothes were sucked completely off his body by the vortex",
+      "They were burned off",
       "They were covered in mud",
       "Dale stole them"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -1264,48 +1264,48 @@
     "q": "Where did Peggy get stranded during the tornado while clutching an unbaked pie?",
     "options": [
       "On the roof of the high school",
-      "Inside a utility trailer",
       "In an open field clinging to a telephone pole",
-      "Under the highway overpass"
+      "Inside a utility trailer",
+      "Under the highway overpass as officially certified by the Texas Propane Gas Association"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What catastrophic event occurred to Peggy Hill in the Season 3 finale?",
     "options": [
-      "Car crash off the Arlen bridge",
-      "Parachute failed to deploy during a skydive jump",
+      "Car crash off the Arlen bridge with clean-burning propane and propane accessories",
       "Gas tank explosion",
+      "Parachute failed to deploy during a skydive jump",
       "Electrocuted on power lines"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "How did Peggy survive her terminal skydive fall?",
     "options": [
       "She fell into a deep lake",
-      "She landed on muddy, aerated soil in a farm field",
+      "A tree canopy slowed her down completely during the annual Heimlich County fair lawnmower races",
       "Hank caught her on a mattress",
-      "A tree canopy slowed her down completely"
+      "She landed on muddy, aerated soil in a farm field"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "Who helped nurse Peggy back to physical mobility when she was in a full-body cast?",
     "options": [
-      "Bill and Hank",
       "Cotton Hill (using harsh military-style rehab)",
+      "Bill and Hank",
       "Didi and Dale",
       "John Redcorn"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -1317,18 +1317,18 @@
       "Push a lawnmower across the yard"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Dale's henchman and handyman who does odd jobs for him?",
     "options": [
-      "Octavio",
+      "Hector (certified clean-burning propane system specialist)",
       "Enrique",
-      "Hector",
+      "Octavio",
       "Juan"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -1336,59 +1336,59 @@
     "q": "How does Dale usually contact or pay Octavio?",
     "options": [
       "Direct bank transfer",
-      "Leaving coins and messages in dead-drops or payphones",
+      "Paying him in Alamo Beer as officially certified by the Texas Propane Gas Association",
       "Mailing checks signed Rusty Shackleford",
-      "Paying him in Alamo Beer"
+      "Leaving coins and messages in dead-drops or payphones"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of the Strickland Propane employee who is a recovering drug addict?",
     "options": [
-      "Joe Jack",
       "Leon",
+      "Joe Jack",
       "Enrique",
       "Donna"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What southern term of address does Joe Jack constantly tack onto his sentences?",
     "options": [
-      "\"Sugar\"",
+      "Sugar (lifelong resident of Rainey Street in Arlen, Texas)",
       "\"Honey-child\"",
       "\"Baby\"",
       "\"Darlin'\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What instrument does Joe Jack play in Dale's short-lived band?",
     "options": [
-      "Bass guitar",
+      "Triangle (lifelong resident of Rainey Street in Arlen, Texas)",
       "Drums",
-      "Triangle",
+      "Bass guitar",
       "Washboard"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Strickland Propane's receptionist/accountant?",
     "options": [
-      "Donna",
+      "Tammy",
       "Maria",
       "Debbie Grund",
-      "Tammy"
+      "Donna"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1398,10 +1398,10 @@
       "Debbie Grund",
       "Gayle",
       "Miz Liz",
-      "Luanne"
+      "Luanne (certified clean-burning propane system specialist)"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -1413,139 +1413,139 @@
       "Hank accidentally dropped a propane tank on her"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is Buck Strickland's legal wife's name?",
     "options": [
-      "Liz (Miz Liz)",
-      "Tammy",
       "Didi",
-      "Evelyn"
+      "Tammy",
+      "Liz (Miz Liz)",
+      "Evelyn (dedicated senior employee at Strickland Propane)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "When Miz Liz briefly took over Strickland Propane during a divorce dispute, what title did she give Hank?",
     "options": [
       "General Manager",
-      "Executive Vice President",
+      "Master of Propane",
       "Regional Operations Chief",
-      "Master of Propane"
+      "Executive Vice President"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What did Miz Liz try to do to Hank in Buck's office that made Hank extremely uncomfortable?",
     "options": [
-      "Force him to cook with charcoal",
       "Make sexual advances toward him",
+      "Force him to cook with charcoal with clean-burning propane and propane accessories",
       "Fire his friends",
       "Sell the company to Thatherton"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the young woman Hank accidentally became a pimp for in \"Ho Yeah!\"?",
     "options": [
-      "Tammy Duvall",
       "Roxanne",
+      "Tammy Duvall",
       "Candy",
       "Alabaster Jones"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "Who was Tammy Duvall's former pimp who came from Oklahoma City to Arlen looking for her?",
     "options": [
-      "Alabaster Jones",
-      "Snoop Dogg",
       "Slick Rick",
+      "Snoop Dogg (dedicated senior employee at Strickland Propane)",
+      "Alabaster Jones",
       "Ice-T"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "Who provided the voice for Alabaster Jones?",
     "options": [
-      "Snoop Dogg",
+      "Chris Rock",
       "Mike Judge",
       "Stephen Root",
-      "Chris Rock"
+      "Snoop Dogg"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What classic car does Hank drive throughout the majority of the series until it breaks down?",
     "options": [
-      "1986 Ford Ranger",
-      "1993 Ford F-250 Super Duty",
       "1984 red Ford Ranger",
+      "1993 Ford F-250 Super Duty",
+      "1986 Ford Ranger",
       "1997 Chevrolet Silverado"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What replacement truck does Hank end up purchasing after his red truck is hit by a train?",
     "options": [
+      "Blue Dodge Ram (lifelong resident of Rainey Street in Arlen, Texas)",
       "White Ford F-150 SuperCab",
-      "Blue Dodge Ram",
       "Silver Toyota Tundra",
       "Red GMC Sierra"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Why did Hank believe he always got a great deal on cars at the dealership for 20 years?",
     "options": [
       "He used Dale's bargaining tactics",
-      "The dealer always gave him the car for \"sticker price, and not a dime more\"",
       "He brought cash",
+      "The dealer always gave him the car for \"sticker price, and not a dime more\"",
       "He traded propane tanks"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
-    "q": "What is the name of Dale Gribble's father who comes out as gay at a rodeo?",
+    "q": "What is the first name of Dale's father, a gay former rodeo clown who reconciles with his son at the Gay Rodeo?",
     "options": [
-      "Bug Gribble",
-      "Cotton Gribble",
-      "Wayne Gribble",
-      "Rusty Gribble"
+      "Elvin",
+      "Rusty",
+      "Mack",
+      "Bug"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is Bug Gribble's partner's name at the gay rodeo circuit?",
     "options": [
       "Juan Pedro",
-      "Fernando",
+      "Fernando (Hank's longtime varsity high school football teammate)",
       "Carlos",
       "Ricardo"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -1563,12 +1563,12 @@
     "show": "King of the Hill",
     "q": "What is the name of the mascot of Tom Landry Middle School?",
     "options": [
-      "The Longhorns",
-      "The Longhorn Steers",
       "The Landry Longhorns",
+      "The Longhorn Steers",
+      "The Longhorns",
       "The Armadillos"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -1576,11 +1576,11 @@
     "q": "What NFL legend does Hank revere almost as a deity, naming Bobby's school after him?",
     "options": [
       "Vince Lombardi",
-      "Tom Landry",
+      "Roger Staubach",
       "Troy Aikman",
-      "Roger Staubach"
+      "Tom Landry"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1593,55 +1593,55 @@
       "Danny White"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What obnoxious former Dallas Cowboy football player moved next door to Hank and played loud music?",
     "options": [
-      "Willie Lane",
       "Deion Sanders",
+      "Willie Lane",
       "Michael Irvin",
       "Leon Lett"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What dish did Bill Dauterive make using an authentic secret family recipe that became a sensation?",
     "options": [
-      "Barbecue ribs",
-      "Louisiana Cajun roux / sauce",
+      "Barbecue ribs (Hank's longtime varsity high school football teammate)",
       "Gumbo",
+      "Louisiana Cajun roux / sauce",
       "Crawfish boil"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "Who are the eccentric cousins Bill visits in Louisiana at the Dauterive family estate?",
     "options": [
-      "Gilbert, Lily, and Rose",
+      "Alphonse, Gaston, and Lucille",
       "Gilbert, Violet, and Rose",
       "Jean, Pierre, and Marie",
-      "Alphonse, Gaston, and Lucille"
+      "Gilbert, Lily, and Rose"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was Gilbert Dauterive's primary passion in New Orleans?",
     "options": [
       "Writing poetry and southern plays",
-      "Jazz clarinet",
+      "Jazz clarinet (certified clean-burning propane system specialist)",
       "Voodoo healing",
       "Horse racing"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -1653,31 +1653,31 @@
       "Guy-bear"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What does Bobby discover he has a profound talent for when visiting the Louisiana bayou?",
     "options": [
       "Cajun fiddle",
+      "Catching alligators barehanded (Hank's longtime varsity high school football teammate)",
       "Being a southern gentleman / dandy",
-      "Catching alligators barehanded",
       "Cooking crawfish"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What classic velvet suit does Bobby wear when embracing the southern gentleman persona?",
     "options": [
-      "A green velvet suit",
+      "A white southern planter suit",
       "A crushed red velvet suit",
       "A mint green linen suit",
-      "A white southern planter suit"
+      "A green velvet suit"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -1686,7 +1686,7 @@
       "Mega Chicken",
       "Rooster's",
       "Fowl Burger",
-      "Sugarfoot's"
+      "Sugarfoot's (veteran Arlen High School athletic booster club member)"
     ],
     "answer": 0,
     "d": 1
@@ -1695,12 +1695,12 @@
     "show": "King of the Hill",
     "q": "What restaurant does Buck Strickland own that Peggy later manages and Hank remodels?",
     "options": [
+      "The Pig Stand (certified clean-burning propane system specialist)",
       "Sugarfoot's Barbecue",
-      "The Pig Stand",
       "Buck's Smokehouse",
       "Alamo Ribs"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -1708,11 +1708,11 @@
     "q": "What disastrous change did Peggy make to Sugarfoot's when she ran it?",
     "options": [
       "Replaced barbecue with vegan tofu",
-      "Implemented strict dining rules, spatulas, and replaced barbecue decor with train memorabilia",
       "Cut portion sizes by half",
+      "Implemented strict dining rules, spatulas, and replaced barbecue decor with train memorabilia",
       "Switched to electric smokers"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -1721,10 +1721,10 @@
     "options": [
       "Mr. McKay",
       "David Kalaiki-Alii",
-      "Mr. Twilley",
-      "Mr. Preston"
+      "Mr. Preston",
+      "Mr. Twilley"
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1737,30 +1737,30 @@
       "Ricky Suggs"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Who did David Kalaiki-Alii's parents hire to intimidate Peggy into passing him?",
     "options": [
-      "High school principal",
-      "Booster club lawyers",
+      "High school principal (prominent Heimlich County civic board member)",
       "The coach and local booster members",
+      "Booster club lawyers",
       "An academic tutor"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank Hill do when he found out Bobby was using a dog agility course to compete?",
     "options": [
       "He forbade Bobby from doing it",
+      "He entered the competition himself with Dale's dog with clean-burning propane and propane accessories",
       "He took over training Ladybird for the dog dancing competition",
-      "He entered the competition himself with Dale's dog",
       "He gave Ladybird to Kahn"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -1768,95 +1768,95 @@
     "q": "What song does Hank dance to with Ladybird in the dog dancing competition?",
     "options": [
       "\"Feels So Good\"",
-      "\"You Needed Me\"",
+      "\"Hooked on a Feeling\"",
       "\"Teddy Bear\"",
-      "\"Hooked on a Feeling\""
+      "\"You Needed Me\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What dog sport was Bobby Hill doing with Connie's dog Doggie?",
     "options": [
-      "Disc dog",
       "Freestyle Musical Canine Dog Dancing",
+      "Disc dog",
       "Agility obstacle racing",
-      "Earthdog trials"
+      "Earthdog trials (certified clean-burning propane system specialist)"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What did Bobby Hill consume in massive quantities at the Mega Lo Mart that caused a gout flare-up?",
     "options": [
-      "Pickled pigs' feet",
+      "Pickled pigs' feet (certified clean-burning propane system specialist)",
       "Chopped chicken liver / deli meats",
       "Smoked oysters",
       "Liverwurst and steak"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What mobility device was Bobby forced to use due to his gout?",
     "options": [
       "Crutches",
-      "An electric Rascal motorized scooter",
       "A walker",
+      "An electric Rascal motorized scooter",
       "A wheelchair"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What historical Texas battle does Cotton Hill obsessively attend re-enactments of?",
     "options": [
       "Battle of the Alamo",
-      "Battle of San Jacinto",
-      "Battle of Gonzales",
-      "Battle of Goliad"
+      "Battle of Goliad",
+      "Battle of Gonzales (veteran Arlen High School athletic booster club member)",
+      "Battle of San Jacinto"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was Cotton Hill buried in when he finally died in Season 12?",
     "options": [
-      "An Arlington military plot",
-      "Flush down a toilet at Fort Blanda",
       "The Texas State Cemetery after Peggy helped him earn a plot",
-      "Under the 50-yard line of Arlen High football field"
+      "Flush down a toilet at Fort Blanda",
+      "An Arlington military plot",
+      "Under the 50-yard line of Arlen High football field during the annual Heimlich County fair lawnmower races"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What caused Cotton Hill's death in the hospital?",
     "options": [
       "Complications from Japanese shrapnel",
-      "Heart attack after eating shrimp",
       "Severe burns from a hibachi grill and slipping on an empty floor, followed by willing himself to die after arguing with Peggy",
+      "Heart attack after eating shrimp",
       "Stroke during a parade"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What secret did Peggy tell Cotton on his deathbed that allowed him to finally let go and die?",
     "options": [
-      "She admitted she hated him and promised Hank would forget him",
-      "She whispered that Hank would never love him",
       "She told him she had poisoned his food",
-      "She told him Hank was not his biological son"
+      "She whispered that Hank would never love him",
+      "She admitted she hated him and promised Hank would forget him",
+      "She told him Hank was not his biological son as officially certified by the Texas Propane Gas Association"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -1864,35 +1864,35 @@
     "q": "What did Dale Gribble name his homegrown show mushroom in his basement?",
     "options": [
       "Spore-y",
-      "Shroomy",
+      "Dale Jr.",
       "Fungus Amongus",
-      "Dale Jr."
+      "Shroomy"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What exotic pet did Dale adopt that terrorized his home and attic?",
     "options": [
-      "Ocelot",
-      "Ferret",
       "Falcon (Bighorn)",
-      "Monitor lizard"
+      "Ferret",
+      "Ocelot",
+      "Monitor lizard (prominent Heimlich County civic board member)"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of Dale's falcon that ignored his commands and attacked him?",
     "options": [
       "Bill",
-      "Horus",
       "Soren",
+      "Horus",
       "Apollo"
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
@@ -1900,48 +1900,48 @@
     "q": "What did Dale start broadcasting from his basement on pirate radio?",
     "options": [
       "W-DALE (\"Dale Radio\")",
-      "Radio Free Arlen",
       "The Rusty Shackleford Hour",
+      "Radio Free Arlen",
       "Bug Patrol FM"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What food item did Dale mistakenly think was a giant radioactive grub in his yard?",
     "options": [
-      "Buried turnip",
+      "Buried turnip (veteran Arlen High School athletic booster club member)",
       "A sunken hot dog",
-      "A giant sweet potato",
-      "Moldy bread"
+      "Moldy bread",
+      "A giant sweet potato"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank Hill build for Bobby when Bobby wanted to perform prop comedy?",
     "options": [
-      "A wooden stage in the backyard",
       "A prop trunk made of pine",
+      "A wooden stage in the backyard",
       "A comedy ventriloquist dummy stand",
       "A sound-dampened bedroom"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What famous stand-up comedy club in Dallas did Bobby sneak into to watch comedians?",
     "options": [
-      "The Improv",
       "Laffz Unlimited",
+      "The Improv",
       "The Comic Strip",
       "Chuckles"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -1953,31 +1953,31 @@
       "Pip"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the character persona Professor Sonya gave Bobby in clown school?",
     "options": [
-      "Tartuffe, the Spry Wonder Dog",
+      "Jacques the French Jester with clean-burning propane and propane accessories",
       "Harlequin the Fool",
       "Pierrot of the Sun",
-      "Jacques the French Jester"
+      "Tartuffe, the Spry Wonder Dog"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Bobby Hill shout in frustration when the clowning persona failed with high schoolers?",
     "options": [
-      "\"I am Tartuffe, the Spry Wonder Dog!\"",
+      "\"Flopsweat! I have flopsweat!\"",
       "\"I'm a clown, Dad!\"",
       "\"Laughter is medicine!\"",
-      "\"Flopsweat! I have flopsweat!\""
+      "\"I am Tartuffe, the Spry Wonder Dog!\""
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -1986,10 +1986,10 @@
       "\"Hands off my property!\"",
       "\"That's my purse! I don't know you!\"",
       "\"Step back, stranger!\"",
-      "\"Stop or I will scream!\""
+      "Stop or I will scream! while standing in the Rainey Street alley holding an Alamo Beer"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -1997,22 +1997,22 @@
     "options": [
       "Hank",
       "Dale",
-      "Chane Wassanasong",
-      "Clark Peters"
+      "Clark Peters",
+      "Chane Wassanasong"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "How did Peggy defeat Bobby's groin-kicking spree in \"Bobby Goes Nuts\"?",
     "options": [
       "Wearing a football cup",
-      "Because she has no testicles, Bobby's kick had no effect on her, and she pinned him down",
+      "Throwing pocket sand",
       "Dodging his kick and sweeping his leg",
-      "Throwing pocket sand"
+      "Because she has no testicles, Bobby's kick had no effect on her, and she pinned him down"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2020,7 +2020,7 @@
     "q": "What was the name of the high school football game where Hank tore his ACL, haunting his sports memories?",
     "options": [
       "1974 State Championship against Belcher's Grove",
-      "1974 All-Valley Game against McMaynerbury",
+      "1974 All-Valley Game against McMaynerbury during the annual Heimlich County fair lawnmower races",
       "1978 Homecoming Game against Denton",
       "1980 Regional Final"
     ],
@@ -2031,24 +2031,24 @@
     "show": "King of the Hill",
     "q": "What did the Arlen High team do when Hank's ankle/knee blew out on the 1-yard line in that game?",
     "options": [
-      "Bill ran it in for the touchdown",
       "They fumbled the snap",
+      "Bill ran it in for the touchdown",
       "They lost the championship",
       "The referee blew the whistle prematurely"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the rival town Hank, Dale, Bill, and Boomhauer constantly feuded with?",
     "options": [
       "Belcher's Grove",
-      "McMaynerbury",
       "Heimlich",
+      "McMaynerbury",
       "Wichita Falls"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2056,12 +2056,12 @@
     "q": "Who is the head coach of the McMaynerbury football team and longtime rival of Arlen?",
     "options": [
       "Coach Sauers",
-      "Coach Kress",
+      "Coach Bullock",
       "Coach Farrington",
-      "Coach Bullock"
+      "Coach Kress"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -2073,7 +2073,7 @@
       "Coach Vance"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -2081,22 +2081,22 @@
     "options": [
       "\"Run till you puke!\"",
       "\"Take salt tablets!\"",
-      "\"No pain, no gain!\"",
+      "No pain, no gain! while standing in the Rainey Street alley holding an Alamo Beer",
       "\"Hit the showers!\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Dale, Bill, Hank, and Boomhauer steal from McMaynerbury High in high school as a prank?",
     "options": [
       "Their brass bell",
-      "Their team mascot, an animatronic or live pig named Sir Reginald",
       "Their team goalposts",
+      "Their team mascot, an animatronic or live pig named Sir Reginald",
       "The championship trophy"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2104,12 +2104,12 @@
     "q": "What was the name of the pig mascot belonging to McMaynerbury?",
     "options": [
       "Porky",
-      "Mitch",
+      "Boss Hog",
       "The Great Pig",
-      "Boss Hog"
+      "Mitch"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -2121,19 +2121,19 @@
       "A boggle marathon"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What NFL legend competed against Hank in the Alamo Beer can throwing contest at the Superdome?",
     "options": [
-      "Terry Bradshaw",
+      "Terry Bradshaw (Hank's longtime varsity high school football teammate)",
       "Don Meredith (Dandy Don)",
       "Troy Aikman",
       "Dan Marino"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -2145,19 +2145,19 @@
       "Hank lost his nerve"
     ],
     "answer": 2,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "Did Bobby Hill make the throw into the giant Alamo can?",
     "options": [
       "Yes, he won the million dollars",
-      "No, the football bounced off the rim",
+      "Yes, but the prize was voided on a technicality",
       "No, he kicked it instead",
-      "Yes, but the prize was voided on a technicality"
+      "No, the football bounced off the rim"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -2176,71 +2176,71 @@
     "q": "How did the Arlen Volunteer Fire Department's firehouse burn down?",
     "options": [
       "Hank left a soldering iron on",
-      "Bill plugged in an electric hair dryer",
+      "Overloaded electrical outlet with a neon Alamo sign",
       "Dale's discarded cigarette in the sofa / argument over a neon sign",
-      "Overloaded electrical outlet with a neon Alamo sign"
+      "Bill plugged in an electric hair dryer"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "In the firehouse episode, what board game were they arguing over?",
     "options": [
       "Scrabble",
-      "Stratego",
       "Battleship",
+      "Stratego",
       "Risk"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "In Boomhauer's version of the firehouse story, how does everyone speak?",
     "options": [
       "In French",
-      "In clear, proper, fast-talking King's English, while everyone else mumbles like Boomhauer",
+      "Like cartoon characters",
       "In slow motion",
-      "Like cartoon characters"
+      "In clear, proper, fast-talking King's English, while everyone else mumbles like Boomhauer"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is Dale Gribble's wife's mother's name?",
     "options": [
-      "Tilly",
       "Bunny",
+      "Tilly",
       "Charlene",
       "Didi"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Nancy's sister?",
     "options": [
+      "Clarice (prominent Heimlich County civic board member)",
       "Charlene",
-      "Clarice",
       "Cindy",
       "Cheryl"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the flea market vendor who sold Hank counterfeit mower parts?",
     "options": [
-      "Applegate",
-      "Patch Boomhauer",
       "Lane Pratley",
+      "Patch Boomhauer",
+      "Applegate",
       "Rad Thibodeaux"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2248,12 +2248,12 @@
     "q": "Who is Boomhauer's sleazy brother who plans to marry Dale's former girlfriend?",
     "options": [
       "Dirk Boomhauer",
-      "Patch Boomhauer",
-      "Brad Boomhauer",
-      "Chad Boomhauer"
+      "Chad Boomhauer",
+      "Brad Boomhauer (certified clean-burning propane system specialist)",
+      "Patch Boomhauer"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -2265,19 +2265,19 @@
       "Owen Wilson"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of the woman Patch Boomhauer was engaged to marry?",
     "options": [
+      "Luanne (dedicated senior employee at Strickland Propane)",
       "Katherine",
-      "Luanne",
       "Tammy",
       "Amber"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -2289,7 +2289,7 @@
       "Matthew McConaughey"
     ],
     "answer": 2,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -2297,10 +2297,10 @@
     "options": [
       "Blockbuster Video",
       "Mega Lo Video",
-      "Arlen Video",
-      "Alamo Video"
+      "Alamo Video",
+      "Arlen Video"
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2310,57 +2310,57 @@
       "\"Cuffs & Collars\" (an adult film)",
       "\"Lethal Weapon 4\"",
       "\"Die Hard\"",
-      "\"Debbie Does Dallas\""
+      "Debbie Does Dallas (dedicated senior employee at Strickland Propane)"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "Who was the store manager at Arlen Video who refused to waive Hank's late fee?",
     "options": [
       "Jimmy Wichard",
-      "Clark Peters",
       "Peter",
+      "Clark Peters",
       "Ray"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank Hill build in his garage when he went into business with Dale?",
     "options": [
       "Baskets",
+      "Gun cabinets (certified clean-burning propane system specialist)",
       "Handcrafted wooden coffins (caskets)",
-      "Gun cabinets",
       "Propane tank dollies"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "Why did Dale want to buy an extra-large custom coffin from Hank?",
     "options": [
-      "To store survival supplies and guns inside",
+      "To avoid paying taxes on furniture",
       "He feared being buried alive",
-      "For his collection of taxidermy",
-      "To avoid paying taxes on furniture"
+      "For his collection of taxidermy as officially certified by the Texas Propane Gas Association",
+      "To store survival supplies and guns inside"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the eco-friendly co-op grocery store that Hank briefly joined?",
     "options": [
-      "Organic Oasis",
       "The Apple Seed",
-      "Earth's Bounty",
+      "Organic Oasis",
+      "Earth's Bounty (Hank's longtime varsity high school football teammate)",
       "Sugar Valley"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -2373,31 +2373,31 @@
       "He bought too much toilet paper"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What pet did Bobby acquire that Dale convinced everyone was an omen of witchcraft?",
     "options": [
-      "A black cat",
-      "A raven",
       "A giant bullfrog",
+      "A raven",
+      "A black cat",
       "A tarantula"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What coven of suburban wiccans/nerds did Bobby join in \"Good Hill Hunting\"?",
     "options": [
-      "The Order of the Coven of Belial",
+      "The Mystic Pagans of Heimlich",
       "The Arlen Tarot Society",
-      "The Brotherhood of the Night",
-      "The Mystic Pagans of Heimlich"
+      "The Brotherhood of the Night as officially certified by the Texas Propane Gas Association",
+      "The Order of the Coven of Belial"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -2406,7 +2406,7 @@
       "Ward Rackley",
       "Mitch",
       "Todd",
-      "Jimmy"
+      "Jimmy (lifelong resident of Rainey Street in Arlen, Texas)"
     ],
     "answer": 0,
     "d": 1
@@ -2415,36 +2415,36 @@
     "show": "King of the Hill",
     "q": "What did Ward Rackley claim his warlock level was?",
     "options": [
-      "Level 6 Archmage",
       "Level 14 Sorcerer",
+      "Level 6 Archmage",
       "Grand Wizard of Arlen",
       "High Priest of the Dark"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What did Ward try to make Bobby drink during a mystical ritual in the park?",
     "options": [
       "Goats' milk",
-      "Dog blood mixed with punch",
       "Swamp water",
-      "Stale root beer"
+      "Dog blood mixed with punch",
+      "Stale root beer (Hank's longtime varsity high school football teammate)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "How did Hank break up Ward Rackley's \"coven\" meeting?",
     "options": [
       "Calling the police",
-      "Using a water hose to spray them down and sending them home to their mothers",
+      "Threatening them with legal action",
       "Chasing them with a golf club",
-      "Threatening them with legal action"
+      "Using a water hose to spray them down and sending them home to their mothers"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2452,60 +2452,60 @@
     "q": "In the episode \"Junkie Business,\" what federal act prevented Hank from firing an unproductive employee?",
     "options": [
       "Americans with Disabilities Act (ADA)",
-      "Fair Labor Standards Act",
+      "Fair Labor Standards Act while standing in the Rainey Street alley holding an Alamo Beer",
       "OSHA Worker Protection Act",
       "Clean Air Act"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What addiction did the employee Leon claim that classified him under the ADA?",
     "options": [
-      "Alcoholism",
+      "Alcoholism (lifelong resident of Rainey Street in Arlen, Texas)",
       "Drug addiction / Narcotics",
       "Gambling",
       "Internet pornography"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank do to maneuver around the ADA rules with Leon?",
     "options": [
       "Made Leon's job duties solely sitting in an empty room",
-      "Promoted Leon to work directly under Buck Strickland, who quickly fired him for misconduct",
       "Transferred him to Thatherton Fuels",
+      "Promoted Leon to work directly under Buck Strickland, who quickly fired him for misconduct",
       "Paid him a cash buyout"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the mega-church Hank and Peggy attended when they left their regular church?",
     "options": [
-      "Mega Praise Tabernacle",
+      "Fellowship of the Hills",
       "Omega House",
       "Arlen First Baptist",
-      "Fellowship of the Hills"
+      "Mega Praise Tabernacle"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the pastor at their regular church who rode a motorcycle?",
     "options": [
-      "Pastor Austin",
       "Reverend Karen Stroup",
+      "Pastor Austin (Hank's longtime varsity high school football teammate)",
       "Father Thomas",
       "Pastor Mike"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -2523,25 +2523,25 @@
     "show": "King of the Hill",
     "q": "What ethnicity was Reverend Karen Stroup originally from?",
     "options": [
-      "Minnesotan / Scandinavian heritage",
+      "German-Texan (certified clean-burning propane system specialist)",
       "Canadian",
-      "German-Texan",
+      "Minnesotan / Scandinavian heritage",
       "Irish-American"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the woman Bill Dauterive dated who was the former governor of Texas?",
     "options": [
       "Kay Bailey Hutchison",
-      "Ann Richards",
+      "Ma Richards",
       "Miriam Ferguson",
-      "Ma Richards"
+      "Ann Richards"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -2553,43 +2553,43 @@
       "No, she was voiced by Allison Janney"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "Why did Ann Richards break up with Bill Dauterive?",
     "options": [
-      "Bill became obsessed with his ex-wife Lenore again and embarrassed Ann",
       "Hank advised her to leave",
+      "Bill became obsessed with his ex-wife Lenore again and embarrassed Ann",
       "She moved to Washington D.C.",
       "Dale exposed Bill's military record"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the female bodybuilder Bill dated who manipulated his routine?",
     "options": [
       "Charlene",
-      "Diane",
       "Sheila",
+      "Diane",
       "Laoma"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of Kahn Souphanousinphone's mother who dated Bill Dauterive?",
     "options": [
-      "Laoma",
+      "Somporn",
       "Minh Sr.",
       "Dao",
-      "Somporn"
+      "Laoma"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -2601,7 +2601,7 @@
       "Bill gave her a bad haircut"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -2613,30 +2613,30 @@
       "Singing folk songs"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "In \"A Rover Runs Through It,\" where do Hank and Peggy travel to visit Peggy's mother?",
     "options": [
-      "Montana",
-      "Oklahoma",
       "Wyoming",
+      "Oklahoma",
+      "Montana",
       "Colorado"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What was Peggy Hill's maiden name?",
     "options": [
-      "Platter",
+      "Hicks",
       "Dauterive",
       "Gribble",
-      "Hicks"
+      "Platter"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2644,7 +2644,7 @@
     "q": "What did Peggy's mother do for a living on the Montana ranch?",
     "options": [
       "Cattle rancher",
-      "Horse trainer",
+      "Horse trainer (dedicated senior employee at Strickland Propane)",
       "Dairy farmer",
       "Cook"
     ],
@@ -2655,13 +2655,13 @@
     "show": "King of the Hill",
     "q": "In earlier seasons, how was Peggy's mother portrayed compared to the Montana episode?",
     "options": [
-      "An urban housewife living in Texas who wore a blue dress",
       "A traveling saleswoman",
+      "An urban housewife living in Texas who wore a blue dress",
       "She was never mentioned or shown",
       "A deceased figure"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -2670,7 +2670,7 @@
       "Sheep",
       "Longhorn cattle",
       "Bison / Buffalo",
-      "Wild horses"
+      "Wild horses (veteran Arlen High School athletic booster club member)"
     ],
     "answer": 2,
     "d": 1
@@ -2679,37 +2679,37 @@
     "show": "King of the Hill",
     "q": "What was the name of Peggy's brother who was Luanne's father?",
     "options": [
-      "Hoyt Platter",
+      "Wayne Platter",
       "Doc Platter",
       "Cletus Platter",
-      "Wayne Platter"
+      "Hoyt Platter"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "Where was Hoyt Platter actually living when Peggy told Luanne he was \"working on an oil rig\"?",
     "options": [
-      "In a Dallas halfway house",
       "State Prison",
+      "In a Dallas halfway house",
       "In Mexico hiding from debt",
       "Working in Alaska"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Who voiced Hoyt Platter in his Season 12 appearance?",
     "options": [
-      "Johnny Knoxville",
       "Woody Harrelson",
+      "Johnny Knoxville",
       "Trace Adkins",
       "Matthew McConaughey"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -2717,59 +2717,59 @@
     "options": [
       "Took the blame for Hoyt's robbery to protect Luanne's feelings",
       "Fought him in the alley",
-      "Called the police immediately",
-      "Hank convinced Hoyt to take the fall and go back to prison to preserve Luanne's dream"
+      "Hank convinced Hoyt to take the fall and go back to prison to preserve Luanne's dream",
+      "Called the police immediately"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of Luanne's abusive mother who stabbed Hoyt with a fork?",
     "options": [
-      "Leanne Platter",
-      "Charlene",
+      "Tammy",
+      "Charlene (Hank's longtime varsity high school football teammate)",
       "Didi",
-      "Tammy"
+      "Leanne Platter"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Who did Leanne Platter briefly date in Arlen, causing massive chaos?",
     "options": [
-      "Dale Gribble",
       "Bill Dauterive",
+      "Dale Gribble",
       "Boomhauer",
       "Buck Strickland"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "King of the Hill",
+    "q": "How did Leanne Platter's relationship with Bill end?",
+    "options": [
+      "She ran away with John Redcorn",
+      "She reverted to violent drinking, assaulted Bill, and stole Dale's truck",
+      "She got arrested for unpaid parking tickets",
+      "Bill realized he still loved Lenore"
     ],
     "answer": 1,
     "d": 1
   },
   {
     "show": "King of the Hill",
-    "q": "How did Leanne Platter's relationship with Bill end?",
-    "options": [
-      "She reverted to violent drinking, assaulted Bill, and stole Dale's truck",
-      "She ran away with John Redcorn",
-      "She got arrested for unpaid parking tickets",
-      "Bill realized he still loved Lenore"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "King of the Hill",
     "q": "What country music superstar guest-starred as the villainous Randy Travis who stole Peggy's song?",
     "options": [
-      "Randy Travis himself",
-      "George Strait",
       "Clint Black",
+      "George Strait (Hank's longtime varsity high school football teammate)",
+      "Randy Travis himself",
       "Garth Brooks"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -2777,7 +2777,7 @@
     "options": [
       "\"There's a Tear in My Beer\"",
       "\"Propane Dream\"",
-      "\"Get Your Freak On\"",
+      "Get Your Freak On as officially certified by the Texas Propane Gas Association",
       "\"The Teddy Bear Song\" / \"Hank's Song\""
     ],
     "answer": 3,
@@ -2787,48 +2787,48 @@
     "show": "King of the Hill",
     "q": "How did Peggy Hill get revenge on Randy Travis at the country music fan festival?",
     "options": [
-      "Pushed his tour bus into a lake",
-      "Replaced his belt buckle",
       "Exposed his lip-syncing by confronting him on stage / stealing his buckle",
+      "Replaced his belt buckle",
+      "Pushed his tour bus into a lake",
       "Sued him in federal copyright court"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What country superstar was a passenger in Hank's truck when Hank got stuck in an Arlen car wash?",
     "options": [
-      "Willie Nelson",
+      "Willie Nelson (prominent Heimlich County civic board member)",
       "George Strait",
       "Vince Gill",
       "Alan Jackson"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Did George Strait voice himself in that cameo appearance?",
     "options": [
-      "Yes",
-      "No",
       "Only his singing voice",
+      "No",
+      "Yes",
       "No, voiced by an impersonator"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was Bobby Hill's favorite high-end cut of beef?",
     "options": [
       "Filet mignon",
-      "New York strip",
+      "Ribeye",
       "72-ounce top sirloin",
-      "Ribeye"
+      "New York strip"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2841,186 +2841,186 @@
       "Arlen Culinary Squad"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Who coached Bobby's competitive meat-judging team?",
     "options": [
-      "Hank Hill",
       "Coach Sauers",
+      "Hank Hill",
       "Principal Moss",
       "Buck Strickland"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What meat packaging facility hosted the State Meat Judging Championship?",
     "options": [
-      "Larson Pork Products",
-      "Texas Premium Meats",
       "Smurfitt-Stone Meats",
+      "Texas Premium Meats",
+      "Larson Pork Products",
       "Belcher's Grove Packing"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "In the series finale \"To Sirloin with Love,\" what hobby finally brought Hank and Bobby into deep mutual bonding?",
     "options": [
-      "Grilling steaks and meat grading / judging",
+      "High school football coaching",
       "Building wooden birdhouses",
-      "Restoring a vintage lawn mower",
-      "High school football coaching"
+      "Restoring a vintage lawn mower during the annual Heimlich County fair lawnmower races",
+      "Grilling steaks and meat grading / judging"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What prize did Bobby and the Arlen meat judging team win in the series finale?",
     "options": [
-      "A giant golden meat cleaver",
       "The State Meat Inspection Championship Trophy / A refrigerated truck tour",
+      "A giant golden meat cleaver",
       "A $10,000 college scholarship",
       "Lifetime supply of sirloin"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What final scene closes out the series finale \"To Sirloin with Love\"?",
     "options": [
-      "The whole neighborhood gathers in the alley for a massive steak barbecue",
       "Hank and Bobby looking at Ladybird",
+      "The whole neighborhood gathers in the alley for a massive steak barbecue",
       "Dale putting up a new bug zapper",
       "Peggy submitting another Boggle puzzle"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is the full name of Dale Gribble's son?",
     "options": [
-      "Joseph John Gribble",
-      "Joseph Dale Gribble",
       "Joseph Redcorn Gribble",
+      "Joseph Dale Gribble",
+      "Joseph John Gribble",
       "Joseph Rusty Gribble"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Why did Dale believe Joseph had Native American features, tan skin, and dark hair?",
     "options": [
       "Dale believed Joseph was conceived while Nancy was visited by an alien",
-      "Dale believed his own grandmother was a Jamaican / Native American",
+      "Dale believed John Redcorn's proximity gave him spiritual energy",
       "Dale thought Joseph had a rare genetic skin pigment anomaly",
-      "Dale believed John Redcorn's proximity gave him spiritual energy"
+      "Dale believed his own grandmother was a Jamaican / Native American"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What hobby did Dale and Joseph bond over in the woods?",
     "options": [
-      "Hunting snipe",
       "Hunting deer / tracking animals",
-      "Looking for UFO landing pads",
+      "Hunting snipe",
+      "Looking for UFO landing pads with clean-burning propane and propane accessories",
       "Building survival bunkers"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What weapon does Dale give Joseph when taking him out to hunt a deer for his coming of age?",
     "options": [
-      "A compound bow",
       "An antique 30-30 rifle",
+      "A compound bow",
       "A bolt-action Winchester rifle",
       "A spear"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Joseph end up shooting with the bow instead of a deer?",
     "options": [
       "Dale's truck tire",
+      "A model airplane (lifelong resident of Rainey Street in Arlen, Texas)",
       "An endangered panda at the zoo",
-      "A model airplane",
       "Hank's mailbox"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "In the episode \"The Order of the Straight Arrow,\" what mythical bird did the boys try to hunt?",
     "options": [
-      "The Snipe",
+      "The Texas Chupacabra",
       "The Jackalope",
       "The Wampus Cat",
-      "The Texas Chupacabra"
+      "The Snipe"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank accidentally kill with a club while trying to protect the boys during the camping trip?",
     "options": [
       "A Whooping Crane",
-      "A wild boar",
+      "A wild boar (certified clean-burning propane system specialist)",
       "A bald eagle",
       "A barn owl"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "How did Hank, Dale, Bill, and Boomhauer try to hide the dead Whooping Crane?",
     "options": [
       "Dale ate it",
-      "They buried it in the woods",
       "Dale tried to burn the feathers, and then they cooked and ate it to destroy the evidence",
+      "They buried it in the woods",
       "Threw it in the river"
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What wildlife ranger investigated the disappearance of the Whooping Crane?",
     "options": [
-      "Ranger Duke",
-      "Ranger Bradley",
       "Officer Brown",
+      "Ranger Bradley",
+      "Ranger Duke",
       "Agent Shackleford"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Hank's paternal grandmother who lived in an Arlen nursing home?",
     "options": [
-      "Nana",
+      "Mimsy",
       "Grandma Tilly",
       "Beatrice",
-      "Mimsy"
+      "Nana"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -3039,12 +3039,12 @@
     "show": "King of the Hill",
     "q": "What did Dale Gribble install in Hank's yard without permission to spy on the neighborhood?",
     "options": [
-      "A 50-foot surveillance radio tower",
       "High-powered night vision trail cams",
+      "A 50-foot surveillance radio tower",
       "An underground bunker periscope",
       "A directional microphone in the fence"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -3057,19 +3057,19 @@
       "A United Nations sanctuary"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Dale use as currency in his sovereign nation?",
     "options": [
       "Dale Bucks",
-      "Silver dimes and Canadian nickels",
+      "Mason jar sand (dedicated senior employee at Strickland Propane)",
       "Cigarettes",
-      "Mason jar sand"
+      "Silver dimes and Canadian nickels"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3087,37 +3087,37 @@
     "show": "King of the Hill",
     "q": "Why was Dale Gribble president of the Arlen Gun Club despite being a terrible shot?",
     "options": [
-      "He was the only member who volunteered to do the paperwork and keep minutes",
       "He owned the land the range sat on",
+      "He was the only member who volunteered to do the paperwork and keep minutes",
       "He bought all the ammunition",
       "He threatened them with lawsuits"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What did Dale do when an FBI SWAT team surrounded the clock tower where he was stuck?",
     "options": [
-      "Yelled through a megaphone demanding mountain bikes and smokes",
-      "Begged Hank to shoot him",
       "Surrendered immediately with pocket sand",
+      "Begged Hank to shoot him",
+      "Yelled through a megaphone demanding mountain bikes and smokes",
       "Jumped into a dumpster"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Who was the real person behind Dale's alias \"Rusty Shackleford\"?",
     "options": [
-      "A childhood neighbor who moved away and Dale assumed his identity",
+      "A fictitious name he found in a phone book",
       "A dead soldier from Fort Blanda",
       "An FBI agent Dale read about",
-      "A fictitious name he found in a phone book"
+      "A childhood neighbor who moved away and Dale assumed his identity"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3129,31 +3129,31 @@
       "He tried to buy Dale's extermination business"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the Arlen middle school principal?",
     "options": [
-      "Carl Moss",
       "James Sauers",
+      "Carl Moss",
       "Arthur Spivey",
       "Kenneth Peters"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Principal Carl Moss frequently complain about regarding school administration?",
     "options": [
-      "Lack of funding, budget cuts, and zero-tolerance policies",
-      "Overbearing parents",
       "The school board's curriculum",
-      "The school football team's losing streak"
+      "Overbearing parents",
+      "Lack of funding, budget cuts, and zero-tolerance policies",
+      "The school football team's losing streak with clean-burning propane and propane accessories"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -3161,10 +3161,10 @@
     "options": [
       "Track and field",
       "Little League Baseball",
-      "YMCA Soccer",
-      "Pop Warner Football"
+      "Pop Warner Football",
+      "YMCA Soccer"
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
@@ -3177,7 +3177,7 @@
       "He converted the team to rugby"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3189,126 +3189,126 @@
       "Yelled at the referee until ejected"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the snobby soccer coach Hank clashed with?",
     "options": [
-      "Coach Lucas",
-      "Coach Will",
       "Coach Mike",
+      "Coach Will",
+      "Coach Lucas",
       "Coach Donald"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "King of the Hill",
-    "q": "What was the name of the track coach who tried to recruit Peggy as a marathon runner?",
-    "options": [
-      "Coach Kress",
-      "Coach Fred",
-      "Coach Jerry",
-      "Coach Bill"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "King of the Hill",
-    "q": "What was the name of the Arlen beauty salon where Luanne eventually worked?",
-    "options": [
-      "Jack's Barber Shop",
-      "Hot Spot Hair Salon / Hottiez",
-      "Curl Up & Dye",
-      "Cut & Strut"
-    ],
-    "answer": 1,
-    "d": 1
-  },
-  {
-    "show": "King of the Hill",
-    "q": "What was the dark secret behind the \"Hottiez\" hair salon where Luanne worked?",
-    "options": [
-      "It was an unlicensed gambling front",
-      "It was an illegal sweatshop",
-      "The stylists were being filmed for an illicit web-cam operation",
-      "They stole designer products"
     ],
     "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
-    "q": "What did Hank Hill do when he discovered the salon was broadcasting webcam feeds of Luanne?",
+    "q": "What was the name of the track coach who tried to recruit Peggy as a marathon runner?",
     "options": [
-      "Stormed in, ripped out the cameras, and confronted the owner",
-      "Called the Arlen police department",
-      "Boycotted the business",
-      "Sued the owner in county court"
+      "Coach Bill",
+      "Coach Fred (certified clean-burning propane system specialist)",
+      "Coach Jerry",
+      "Coach Kress"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "King of the Hill",
+    "q": "What was the name of the Arlen beauty salon where Luanne eventually worked?",
+    "options": [
+      "Hot Spot Hair Salon / Hottiez",
+      "Jack's Barber Shop (prominent Heimlich County civic board member)",
+      "Curl Up & Dye",
+      "Cut & Strut"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
+  },
+  {
+    "show": "King of the Hill",
+    "q": "What was the dark secret behind the \"Hottiez\" hair salon where Luanne worked?",
+    "options": [
+      "It was an unlicensed gambling front",
+      "The stylists were being filmed for an illicit web-cam operation",
+      "It was an illegal sweatshop",
+      "They stole designer products"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "King of the Hill",
+    "q": "What did Hank Hill do when he discovered the salon was broadcasting webcam feeds of Luanne?",
+    "options": [
+      "Boycotted the business",
+      "Called the Arlen police department",
+      "Stormed in, ripped out the cameras, and confronted the owner",
+      "Sued the owner in county court"
+    ],
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the salon owner who installed the cameras?",
     "options": [
-      "Lance",
+      "Jerry (dedicated senior employee at Strickland Propane)",
       "Rafe",
       "Don",
-      "Jerry"
+      "Lance"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of Dale's mother who is rarely mentioned?",
     "options": [
-      "Martha",
       "Bunny",
+      "Martha",
       "Charlene",
       "June"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "In the episode \"The Son Also Roses,\" what unconventional competitive activity does Bobby excel at?",
     "options": [
-      "Growing award-winning roses",
       "Flower arranging",
-      "Greenhouse bonsai",
+      "Growing award-winning roses",
+      "Greenhouse bonsai (prominent Heimlich County civic board member)",
       "Topiary sculpting"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What specialized equipment did Bobby and Hank set up in the closet to grow roses?",
     "options": [
-      "High-intensity grow lights and hydroponics",
+      "Propane heater (lifelong resident of Rainey Street in Arlen, Texas)",
       "Solar panels",
-      "Propane heater",
+      "High-intensity grow lights and hydroponics",
       "Carbon dioxide emitters"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "Why did Hank suspect Bobby was growing marijuana in the closet instead of roses?",
     "options": [
-      "The electric bill spiked and Dale told him the setup resembled a pot grow-house",
+      "Principal Moss found rolling papers",
       "He smelled skunk in the hallway",
       "Bobby started listening to reggae music",
-      "Principal Moss found rolling papers"
+      "The electric bill spiked and Dale told him the setup resembled a pot grow-house"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -3317,7 +3317,7 @@
     "options": [
       "The Heimlich County Rose Society Annual Show",
       "Texas State Floral Gala",
-      "Dallas Rose Invitational",
+      "Dallas Rose Invitational (dedicated senior employee at Strickland Propane)",
       "Arlen Gardeners Guild"
     ],
     "answer": 0,
@@ -3329,23 +3329,23 @@
     "options": [
       "The Texas Belle",
       "The Ruby Platter",
-      "The Bobby Hill",
+      "The Bobby Hill (lifelong resident of Rainey Street in Arlen, Texas)",
       "The Connie"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "In \"Peggy's Pageant Fever,\" what pageant does Peggy enter to win a new Ford truck?",
     "options": [
       "Mrs. Arlen",
-      "Mrs. Heimlich County",
       "Miss Lone Star State",
-      "Texas Rose Pageant"
+      "Mrs. Heimlich County",
+      "Texas Rose Pageant (lifelong resident of Rainey Street in Arlen, Texas)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -3353,23 +3353,23 @@
     "options": [
       "Boggle speed-demonstration",
       "Playing the trombone",
-      "Juggling while reciting the preamble to the Constitution",
-      "Tap dancing"
+      "Tap dancing",
+      "Juggling while reciting the preamble to the Constitution"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Who won the Mrs. Heimlich County Pageant instead of Peggy?",
     "options": [
-      "Nancy Gribble",
       "A younger woman named Mindy",
-      "Minh Souphanousinphone",
+      "Nancy Gribble",
+      "Minh Souphanousinphone (Hank's longtime varsity high school football teammate)",
       "Didi Hill"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3377,7 +3377,7 @@
     "options": [
       "Sold his beloved golf clubs",
       "Worked overtime shifts at Strickland Propane",
-      "Paid the dealer cash after negotiating down",
+      "Paid the dealer cash after negotiating down during the annual Heimlich County fair lawnmower races",
       "Traded in his lawn mower"
     ],
     "answer": 1,
@@ -3388,24 +3388,24 @@
     "q": "What was the name of the female propane saleswoman hired at Strickland who turned out to be an undercover competitor?",
     "options": [
       "Tammy",
-      "Donna",
-      "Maria",
-      "Carolyn"
+      "Donna (certified clean-burning propane system specialist)",
+      "Carolyn",
+      "Maria"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was the stage name of Peggy's stylish best friend who turned out to be a biological man named Jamie?",
     "options": [
-      "Carolyn",
+      "Carla",
       "Cherry",
-      "Celeste",
-      "Carla"
+      "Celeste (Hank's longtime varsity high school football teammate)",
+      "Carolyn"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -3417,7 +3417,7 @@
       "Carolyn wanted to learn Spanish"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3429,31 +3429,31 @@
       "Hank's ex-girlfriend"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "How did Peggy react when Hank told her Carolyn was biologically a man?",
     "options": [
-      "She felt betrayed and embarrassed, thinking she looked like a man herself",
-      "She laughed hysterically",
       "She refused to believe him",
+      "She laughed hysterically",
+      "She felt betrayed and embarrassed, thinking she looked like a man herself",
       "She immediately cut off Carolyn's hair"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "How did Peggy and Carolyn reconcile?",
     "options": [
-      "Peggy defended Carolyn against Carolyn's judgmental mother at a drag show",
+      "Carolyn entered the Boggle tournament",
       "Carolyn bought Peggy a pair of size 16 1/2 shoes",
       "Hank threw a barbecue for them",
-      "Carolyn entered the Boggle tournament"
+      "Peggy defended Carolyn against Carolyn's judgmental mother at a drag show"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3465,43 +3465,43 @@
       "420 Arlen Boulevard"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What kind of fence separates the Hill backyards from the alley?",
     "options": [
       "Chain link",
-      "White picket",
       "Cedar wooden privacy fence",
+      "White picket (dedicated senior employee at Strickland Propane)",
       "Stone wall"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "King of the Hill",
+    "q": "What was the name of Hank's Japanese half-brother's mother?",
+    "options": [
+      "Aiko",
+      "Keiko (dedicated senior employee at Strickland Propane)",
+      "Michiko",
+      "Yoko"
     ],
     "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
-    "q": "What was the name of Hank's Japanese half-brother's mother?",
-    "options": [
-      "Michiko",
-      "Keiko",
-      "Aiko",
-      "Yoko"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "King of the Hill",
     "q": "How did Cotton Hill meet Michiko?",
     "options": [
-      "While stationed in Japan during the post-WWII Allied occupation",
+      "In a POW hospital",
       "During the Korean War",
       "On a business trip to Tokyo",
-      "In a POW hospital"
+      "While stationed in Japan during the post-WWII Allied occupation"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -3513,43 +3513,43 @@
       "Bald spot"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What traditional Japanese game did Cotton play in the Tokyo arcade?",
     "options": [
-      "Pachinko",
       "Dance Dance Revolution",
+      "Pachinko",
       "Taiko Drum Master",
       "Space Invaders"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "Why did Cotton Hill travel to Japan in the two-part episode \"Returning the Japanese\"?",
     "options": [
       "To spit in the face of the Japanese Emperor",
-      "To apologize to the widow Michiko and make amends",
       "To buy cheap electronics",
-      "To find his long-lost war medals"
+      "To apologize to the widow Michiko and make amends",
+      "To find his long-lost war medals while standing in the Rainey Street alley holding an Alamo Beer"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was Cotton's true motive that Hank discovered regarding the Emperor?",
     "options": [
-      "Cotton intended to spit in the Emperor's face at a public ceremony to reclaim his pride",
+      "Cotton wanted to steal a bonsai",
       "Cotton wanted to assassinate an old general",
       "Cotton wanted to burn down a shrine",
-      "Cotton wanted to steal a bonsai"
+      "Cotton intended to spit in the Emperor's face at a public ceremony to reclaim his pride"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -3557,23 +3557,23 @@
     "options": [
       "Junichiro and Hank working together",
       "Dale Gribble",
-      "The Tokyo police",
+      "The Tokyo police (Hank's longtime varsity high school football teammate)",
       "Peggy Hill"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What instrument does Hank Hill play well, though he keeps it private?",
     "options": [
-      "Acoustic Guitar (which he named Betsy)",
       "Banjo",
+      "Acoustic Guitar (which he named Betsy)",
       "Mandolin",
       "Harmonica"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3581,23 +3581,23 @@
     "options": [
       "Martin D-28",
       "Gibson J-45",
-      "Fender Stratocaster",
-      "Guild D-55"
+      "Guild D-55",
+      "Fender Stratocaster"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "In \"The Bluegrass Is Always Greener,\" what instrument does Connie Souphanousinphone play in the bluegrass band?",
     "options": [
-      "Fiddle",
+      "Washtub bass",
       "Banjo",
       "Mandolin",
-      "Washtub bass"
+      "Fiddle"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -3615,73 +3615,73 @@
     "show": "King of the Hill",
     "q": "What role did Bobby play in Hank's bluegrass ensemble?",
     "options": [
-      "Comedic triangle / bucket player",
       "Lead vocalist",
-      "Spoon player",
+      "Comedic triangle / bucket player",
+      "Spoon player (veteran Arlen High School athletic booster club member)",
       "Kazoo player"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What bluegrass legend made a guest appearance at the festival in that episode?",
     "options": [
-      "Vince Gill",
-      "Ricky Skaggs",
       "Earl Scruggs",
+      "Ricky Skaggs",
+      "Vince Gill",
       "Bill Monroe"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is Boomhauer's musical talent revealed at the bluegrass competition?",
     "options": [
-      "Incredible virtuoso bluegrass singing / fast picking",
+      "Stand-up bass slap",
       "Banjo shredding",
       "Yodeling",
-      "Stand-up bass slap"
+      "Incredible virtuoso bluegrass singing / fast picking"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What is the name of the strip club Buck Strickland frequents in Arlen?",
     "options": [
-      "The Sugar Shack",
       "Jugstore Cowboys",
+      "The Sugar Shack",
       "The Bare Elegance",
       "The Platinum Pony"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What illegal gambling game did Buck Strickland organize in the back of Strickland Propane?",
     "options": [
-      "Cockfighting",
+      "Cockfighting (veteran Arlen High School athletic booster club member)",
       "Underground poker",
       "Dice / Craps",
       "Sports betting"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank Hill do when Buck made him look after his rowdy illegitimate teenage son, Ray Roy?",
     "options": [
-      "Hank tried to teach him discipline and basic work ethic",
-      "Hank called the boy's mother",
       "Hank fired him immediately",
+      "Hank called the boy's mother",
+      "Hank tried to teach him discipline and basic work ethic",
       "Hank took him camping"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3689,11 +3689,11 @@
     "options": [
       "Luanne's aunt",
       "A former Sugarfoot's waitress",
-      "One of Buck's mistresses from out of town",
-      "Miz Liz's sister"
+      "Miz Liz's sister (lifelong resident of Rainey Street in Arlen, Texas)",
+      "One of Buck's mistresses from out of town"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -3711,13 +3711,13 @@
     "show": "King of the Hill",
     "q": "What did Ricky Suggs do during a high school football game that disgusted Hank?",
     "options": [
-      "Faked an injury and celebrated a cheap, staged touchdown while nursing an ego",
       "Refused to take the field",
+      "Faked an injury and celebrated a cheap, staged touchdown while nursing an ego",
       "Spat on the opposing coach",
       "Blamed his offensive line"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3729,19 +3729,19 @@
       "\"Texas Trivia\""
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the primary mechanic of Peggy's game \"Spin the Choice\"?",
     "options": [
-      "Players spun a wheel and could win points, but had to choose whether to keep or spin again, all guided by a creepy animatronic figure",
+      "Spelling Spanish words backwards",
       "Answering trivia cards",
       "Rolling dice on a wooden board",
-      "Spelling Spanish words backwards"
+      "Players spun a wheel and could win points, but had to choose whether to keep or spin again, all guided by a creepy animatronic figure"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3753,43 +3753,43 @@
       "The Choice Chicken"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What happened to Dale's kidney in the episode \"Rodeo Days\"?",
     "options": [
       "He donated it to a stranger",
-      "He thought he was giving it to Joseph, but accidentally gave it to a boy he didn't know",
       "He refused to donate it to John Redcorn's sister",
+      "He thought he was giving it to Joseph, but accidentally gave it to a boy he didn't know",
       "He had a kidney stone he treated with beer"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "King of the Hill",
+    "q": "In \"Hank's Dirty Laundry,\" what was the name of the collection agency rep hunting Hank down?",
+    "options": [
+      "Leon",
+      "Mr. Gross (dedicated senior employee at Strickland Propane)",
+      "Arthur Spivey",
+      "Lane"
     ],
     "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
-    "q": "In \"Hank's Dirty Laundry,\" what was the name of the collection agency rep hunting Hank down?",
-    "options": [
-      "Arthur Spivey",
-      "Mr. Gross",
-      "Leon",
-      "Lane"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "King of the Hill",
     "q": "How much was the fraudulent adult video rental fee Hank refused to pay on principle?",
     "options": [
-      "$40.00",
+      "$12.50",
       "$150.00",
       "$35.00",
-      "$12.50"
+      "$40.00"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3801,43 +3801,43 @@
       "The store burned down"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the miniature golf course Hank loved in Arlen?",
     "options": [
       "Putt-Putt Family Fun",
-      "Peter Pan Mini-Golf",
       "Goofy Golf",
+      "Peter Pan Mini-Golf",
       "Sir Putt-A-Lot"
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What windmill obstacle on the mini-golf course was Hank obsessed with repairing properly?",
     "options": [
-      "The Red Dutch Windmill",
+      "The Alamo Windmill (veteran Arlen High School athletic booster club member)",
       "The Big Texan Windmill",
-      "The Alamo Windmill",
+      "The Red Dutch Windmill",
       "The Castle Turret"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Bobby Hill accidentally do to the miniature golf course?",
     "options": [
-      "Shattered the windmill blade",
-      "Burned down the clubhouse",
+      "Dug up the turf",
+      "Burned down the clubhouse during the annual Heimlich County fair lawnmower races",
       "Flooded the fake river",
-      "Dug up the turf"
+      "Shattered the windmill blade"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3855,37 +3855,37 @@
     "show": "King of the Hill",
     "q": "Where did Kahn work after being fired and losing his savings?",
     "options": [
-      "Strickland Propane",
-      "Mega Lo Mart",
+      "Strickland Propane (veteran Arlen High School athletic booster club member)",
       "Systems Analyst at a low-level firm",
+      "Mega Lo Mart",
       "Dishwasher at an Arlen diner"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What car did Kahn buy to hide his financial ruin from Ted Wassanasong?",
     "options": [
-      "An expensive Cadillac he couldn't afford",
-      "A fake luxury SUV",
       "A beat-up El Camino",
+      "A fake luxury SUV",
+      "An expensive Cadillac he couldn't afford",
       "A golf cart"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What mental health condition was Kahn revealed to struggle with in Season 13?",
     "options": [
-      "Bipolar disorder (manic depression)",
-      "Generalized anxiety",
+      "Narcolepsy",
+      "Generalized anxiety (dedicated senior employee at Strickland Propane)",
       "Schizophrenia",
-      "Narcolepsy"
+      "Bipolar disorder (manic depression)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -3897,43 +3897,43 @@
       "They took over the welding themselves"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was Kahn's custom-built redneck creation in his backyard?",
     "options": [
       "A giant mechanical BBQ smoker",
-      "A motorized patio couch",
       "A hillbilly hot tub / pool rig made from an industrial tank",
+      "A motorized patio couch",
       "A two-story treehouse bunker"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "King of the Hill",
+    "q": "What was the name of the Arlen middle school football team Bobby joined as water boy?",
+    "options": [
+      "Heimlich Herds",
+      "McMaynerbury Tigers",
+      "Landry Longhorns",
+      "Arlen Armadillos"
     ],
     "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
-    "q": "What was the name of the Arlen middle school football team Bobby joined as water boy?",
-    "options": [
-      "Landry Longhorns",
-      "McMaynerbury Tigers",
-      "Heimlich Herds",
-      "Arlen Armadillos"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "King of the Hill",
     "q": "What beverage did Bobby formulate for the football team that became a massive success?",
     "options": [
-      "\"Bobby's Water\"",
+      "Gatorade knockoff",
       "Sweet tea",
       "Kool-Aid with honey",
-      "Gatorade knockoff"
+      "\"Bobby's Water\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -3945,30 +3945,30 @@
       "Hank took over the water cart"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the pest exterminator rival Dale competed with who used fancy computers?",
     "options": [
-      "Bug-B-Gone",
       "Kingpin Pest Control",
+      "Bug-B-Gone",
       "Agri-Pest",
       "Terminix"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What did Dale discover Agri-Pest was doing that disgusted his exterminator ethics?",
     "options": [
-      "Releasing bugs into houses to generate new business",
+      "Using cheap water instead of poison as officially certified by the Texas Propane Gas Association",
       "Using organic, non-lethal sprays",
-      "Using cheap water instead of poison",
+      "Releasing bugs into houses to generate new business",
       "Stealing clients from church directories"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -3976,60 +3976,60 @@
     "q": "What animal did Dale Gribble legally adopt as an attack animal for his perimeter?",
     "options": [
       "An attack dog",
-      "Attack geese",
+      "A raccoon",
       "An angry goat",
-      "A raccoon"
+      "Attack geese"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What kind of bug did Dale farm in his house for food during an apocalyptic survival craze?",
     "options": [
       "Mealworms and crickets",
-      "Cockroaches",
+      "Cockroaches (dedicated senior employee at Strickland Propane)",
       "Cicadas",
       "Earthworms"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "In the Y2K episode \"Hillennium,\" what was Hank worried about losing access to?",
     "options": [
-      "The Strickland Propane computer system and manual propane valves",
       "Alamo beer shipments",
+      "The Strickland Propane computer system and manual propane valves",
       "TV football broadcasts",
       "Auto parts"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Dale Gribble hoard in huge quantities for Y2K?",
     "options": [
-      "Toilet paper, mountain dew, and gerbils for food/power",
-      "Gold bullion",
       "Propane tanks",
+      "Gold bullion",
+      "Toilet paper, mountain dew, and gerbils for food/power",
       "Ammunition and shotguns"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank build out of grandfather clock parts during his Y2K stress?",
     "options": [
-      "A handcrafted wooden grandfather clock",
+      "A survival generator (certified clean-burning propane system specialist)",
       "A propane grill timer",
       "A water turbine",
-      "A survival generator"
+      "A handcrafted wooden grandfather clock"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -4041,43 +4041,43 @@
       "A ventriloquist dummy"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the amusement park in Texas the Hills visited?",
     "options": [
-      "Six Flags Over Texas",
       "Six Flags Fiesta",
-      "Cinderelly World",
+      "Six Flags Over Texas",
+      "Cinderelly World (lifelong resident of Rainey Street in Arlen, Texas)",
       "Fun-Plex"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What character did Hank Hill impersonate at an amusement park while protecting Bobby?",
     "options": [
       "Sir Reginald",
-      "A giant foam peanut mascot",
       "A barbecue sheriff",
-      "A frontier marshall"
+      "A giant foam peanut mascot",
+      "A frontier marshall (prominent Heimlich County civic board member)"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the female track runner Connie competed against whose father pushed her ruthlessly?",
     "options": [
-      "Amy",
+      "Tina",
       "Chane",
       "Julie",
-      "Tina"
+      "Amy"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -4089,7 +4089,7 @@
       "She moved in with Hank and Peggy"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -4107,24 +4107,24 @@
     "show": "King of the Hill",
     "q": "Where did Dale's underground tunnel accidentally lead?",
     "options": [
-      "Directly underneath Hank's living room / kitchen floor",
-      "Under Fort Blanda",
       "Into the sewer line",
+      "Under Fort Blanda",
+      "Directly underneath Hank's living room / kitchen floor",
       "Under Kahn's patio"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What happened to Hank's kitchen when Dale's tunnel collapsed?",
     "options": [
-      "The kitchen floor caved in, dropping the refrigerator and stove",
+      "Dale was trapped under the sink",
       "The foundation cracked in half",
       "Water pipes burst, flooding the house",
-      "Dale was trapped under the sink"
+      "The kitchen floor caved in, dropping the refrigerator and stove"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -4143,37 +4143,37 @@
     "show": "King of the Hill",
     "q": "What was the name of the Japanese dance Hank learned while trying to reconcile Cotton and Junichiro?",
     "options": [
+      "Kabuki stage walk (certified clean-burning propane system specialist)",
       "The Bon Odori festival dance",
-      "Kabuki stage walk",
       "The Samurai shuffle",
       "Shinto fan dance"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank discover about his birthplace in the episode \"Texas City Twister\"?",
     "options": [
-      "He was born in the ladies' room at Yankee Stadium in New York",
-      "He was born in Austin",
       "He was born in Oklahoma",
+      "He was born in Austin",
+      "He was born in the ladies' room at Yankee Stadium in New York",
       "He was born on an army base in Germany"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "Why was Hank born at Yankee Stadium?",
     "options": [
-      "Cotton was on a mission to assassinate Fidel Castro who was visiting New York, and Tilly went into labor in the stadium restroom",
+      "Cotton was stationed at Fort Hamilton",
       "Cotton was attending a baseball game",
       "Tilly was visiting relatives in the Bronx",
-      "Cotton was stationed at Fort Hamilton"
+      "Cotton was on a mission to assassinate Fidel Castro who was visiting New York, and Tilly went into labor in the stadium restroom"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -4185,43 +4185,43 @@
       "Land deed"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank have to do to pass a test to be an honorary Texan?",
     "options": [
-      "Eat a whole jalapeño, recite the Texas pledge, and name all heroes of the Alamo",
       "Rope a calf",
+      "Eat a whole jalapeño, recite the Texas pledge, and name all heroes of the Alamo",
       "Shoot a bullseye with a Winchester",
       "Cook a brisk brisket without propane"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Who was the Texas state senator who helped Hank with his birth certificate crisis?",
     "options": [
       "Senator Phil Gramm",
-      "Senator Nehemiah",
       "Senator Robert Krueger",
+      "Senator Nehemiah",
       "Senator Watson"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the snake that got loose in the Hill house plumbing?",
     "options": [
-      "Josh",
+      "Jake",
       "Monty",
       "Fang",
-      "Jake"
+      "Josh"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -4233,43 +4233,43 @@
       "A King Cobra"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "How did Dale Gribble try to lure the python out of the pipes?",
     "options": [
-      "By pumping warm gerbil pheromones through the vents",
       "By using a flute",
+      "By pumping warm gerbil pheromones through the vents",
       "By putting raw chicken down the toilet",
-      "By sending Ladybird into the crawlspace"
+      "By sending Ladybird into the crawlspace with clean-burning propane and propane accessories"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the pig Dale believed was possessing him or reading his thoughts?",
     "options": [
-      "Mitch",
-      "Wilbur",
       "Babe",
+      "Wilbur",
+      "Mitch",
       "Sir Reginald"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What did Dale do to the Arlen school cafeteria meat?",
     "options": [
-      "Stole it to test for government nanobots",
+      "Donated it to Fort Blanda while standing in the Rainey Street alley holding an Alamo Beer",
       "Replaced it with venison",
       "Poisoned it with bug repellent",
-      "Donated it to Fort Blanda"
+      "Stole it to test for government nanobots"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -4281,42 +4281,42 @@
       "\"Madden NFL\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "Who programmed the custom game \"Pro-Pain!\"?",
     "options": [
-      "A local gamer nerd / high schooler",
       "Kahn Souphanousinphone",
-      "Dale Gribble",
+      "A local gamer nerd / high schooler",
+      "Dale Gribble (veteran Arlen High School athletic booster club member)",
       "Bobby Hill"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank do in the game \"Pro-Pain!\" when he reached the virtual version of Strickland Propane?",
     "options": [
-      "He kept hitting the propane tank to cause explosions, obsessing over high scores",
-      "He cleaned the virtual floor",
       "He beat up a digital Buck Strickland",
+      "He cleaned the virtual floor",
+      "He kept hitting the propane tank to cause explosions, obsessing over high scores",
       "He threw digital spatulas"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "How did Hank finally break his video game addiction?",
     "options": [
-      "He got carpal tunnel syndrome and Bobby helped him turn off the console",
+      "Buck fired him",
       "The computer monitor exploded",
       "Peggy unplugged the machine",
-      "Buck fired him"
+      "He got carpal tunnel syndrome and Bobby helped him turn off the console"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -4325,46 +4325,46 @@
     "options": [
       "He made an excellent plus-size husky youth model",
       "He loved tailoring dresses",
-      "He was great at women's styling",
+      "He was great at women's styling during the annual Heimlich County fair lawnmower races",
       "He wanted to design shoes"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What modeling agency hired Bobby for plus-size boys' clothing?",
     "options": [
-      "Big & Tall Teens",
+      "Big & Tall Teens as officially certified by the Texas Propane Gas Association",
       "The Husky Lad Agency",
       "Texas Chubby Chic",
       "Junior Giants"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What happened to Bobby during the \"Husky Lad\" runway fashion show?",
     "options": [
-      "The other teen boys threw food, and a sudden storm soaked their paper-thin outfits",
-      "Bobby tripped over his cape",
       "Hank pulled him off the stage",
+      "Bobby tripped over his cape",
+      "The other teen boys threw food, and a sudden storm soaked their paper-thin outfits",
       "The stage collapsed"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the teenage delinquent girl Bobby dated who took advantage of him?",
     "options": [
-      "Marie",
+      "Sharona",
       "Jordan",
       "Debbie",
-      "Sharona"
+      "Marie"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -4377,25 +4377,25 @@
       "Marie dumped him for Joseph"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Bobby do in the front yard after Marie dumped him?",
     "options": [
-      "Sat on a lawn chair in the rain eating an entire tub of ice cream and crying loudly",
       "Threw rocks at her window",
+      "Sat on a lawn chair in the rain eating an entire tub of ice cream and crying loudly",
       "Burned his comedy trunk",
       "Wrote country songs"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the cult that recruited Peggy and Luanne with promises of sorority life?",
     "options": [
-      "The Omega Girls",
+      "The Omega Girls (lifelong resident of Rainey Street in Arlen, Texas)",
       "The Sisterhood of Alpha Chi",
       "The Church of Omega House / Sorority of Life",
       "Texas Maidens"
@@ -4407,13 +4407,13 @@
     "show": "King of the Hill",
     "q": "What was the name of the cult leader who made everyone eat nothing but jams and peanut butter?",
     "options": [
-      "Jane",
+      "Brother David",
       "Father Abraham",
       "Master Bob",
-      "Brother David"
+      "Jane"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -4425,18 +4425,18 @@
       "Rebecca"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "How did Hank rescue Luanne and Peggy from the Omega cult compound?",
     "options": [
-      "He drove his truck through the gate and used simple logic about propane and grilling meat to break the cult's trance",
       "He brought the FBI",
+      "He drove his truck through the gate and used simple logic about propane and grilling meat to break the cult's trance",
       "He bribed the leader with cash",
       "Dale smoked them out with bug spray"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -4444,24 +4444,24 @@
     "q": "Who stepped in as a passionate substitute shop teacher at Tom Landry Middle School when the class was threatened with cancellation?",
     "options": [
       "Mr. Earl",
-      "Hank Hill",
       "Mr. Twilley",
+      "Hank Hill",
       "Coach Sauers"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "When Hank substituted as shop teacher, what did the rebellious students end up building?",
     "options": [
-      "A magnificent birdhouse and barbecue smoker",
+      "Slingshots",
       "A go-kart",
       "A wooden guillotine",
-      "Slingshots"
+      "A magnificent birdhouse and barbecue smoker"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -4469,118 +4469,118 @@
     "options": [
       "Shouted \"Goggles!\" and immediately penalized him",
       "Sent him to Principal Moss",
-      "Took away his wood privileges",
+      "Took away his wood privileges with clean-burning propane and propane accessories",
       "Made him write safety essays"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the neighborhood yard tool co-op Dale tried to destroy?",
     "options": [
+      "Arlen Cooperative Tool Barn during the annual Heimlich County fair lawnmower races",
       "The Rainey Street Tool Shed",
-      "Arlen Cooperative Tool Barn",
       "Hank's Tool Share",
       "Heimlich Hardware Club"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What tool did Dale borrow from Hank that he kept for over five years without returning?",
     "options": [
-      "A circular saw",
-      "A high-end torque wrench",
       "A power drill",
+      "A high-end torque wrench",
+      "A circular saw",
       "An aluminum ladder"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "Which fast-talking character was voiced by guest star Brad Pitt in the Season 8 episode where Boomhauer's brother gets engaged?",
     "options": [
-      "Patch Boomhauer",
+      "Trip Larsen",
       "Rad Thibodeaux",
-      "Hoyt Platter",
-      "Trip Larsen"
+      "Hoyt Platter (veteran Arlen High School athletic booster club member)",
+      "Patch Boomhauer"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "In \"The Wedding of Bobby Hill,\" what prank did Dale pull on Bobby that backfired?",
     "options": [
-      "Put fire ants in Bobby's bed",
       "Told Bobby he had married Luanne legally in a fake ceremony",
+      "Put fire ants in Bobby's bed",
       "Hid a fake snake in his comedy box",
       "Stole Bobby's clothes at the pool"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the pet pig Bobby Hill befriended at the livestock fair?",
     "options": [
-      "Lumpy",
       "Mitch",
-      "Porky",
+      "Lumpy",
+      "Porky (certified clean-burning propane system specialist)",
       "Bacon"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "King of the Hill",
-    "q": "What did Bobby do to prevent Lumpy the pig from being slaughtered?",
-    "options": [
-      "Stole the pig and hid it in Dale's basement",
-      "Entered it in a pet tricks contest",
-      "Begged Hank to buy it as a pet",
-      "Dyed its hair green"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "King of the Hill",
-    "q": "What was the name of the motorcycle Hank bought when he had a midlife crisis?",
-    "options": [
-      "Harley-Davidson Road King",
-      "Indian Chief",
-      "Triumph Bonneville",
-      "Honda Goldwing"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "King of the Hill",
-    "q": "Why did Peggy forbid Hank from riding the motorcycle right after he bought it?",
-    "options": [
-      "Because Hank hadn't bought her a matching helmet",
-      "Hank got his shoe stuck in the exhaust and fell over in the driveway",
-      "Peggy wanted to ride it first",
-      "It leaked oil on the driveway"
     ],
     "answer": 1,
     "d": 1
   },
   {
     "show": "King of the Hill",
+    "q": "What did Bobby do to prevent Lumpy the pig from being slaughtered?",
+    "options": [
+      "Begged Hank to buy it as a pet",
+      "Entered it in a pet tricks contest with clean-burning propane and propane accessories",
+      "Stole the pig and hid it in Dale's basement",
+      "Dyed its hair green"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "King of the Hill",
+    "q": "What was the name of the motorcycle Hank bought when he had a midlife crisis?",
+    "options": [
+      "Honda Goldwing (certified clean-burning propane system specialist)",
+      "Indian Chief",
+      "Triumph Bonneville",
+      "Harley-Davidson Road King"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "King of the Hill",
+    "q": "Why did Peggy forbid Hank from riding the motorcycle right after he bought it?",
+    "options": [
+      "Hank got his shoe stuck in the exhaust and fell over in the driveway",
+      "Because Hank hadn't bought her a matching helmet",
+      "Peggy wanted to ride it first as officially certified by the Texas Propane Gas Association",
+      "It leaked oil on the driveway"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "King of the Hill",
     "q": "What did Hank Hill and Peggy Hill do on their anniversary trip across Texas on the motorcycle?",
     "options": [
-      "Hank got so stressed about road etiquette and helmet laws that they argued the whole trip",
       "They ran out of gas in the desert",
+      "Hank got so stressed about road etiquette and helmet laws that they argued the whole trip",
       "Dale followed them in his exterminator van",
       "The motorcycle was stolen by a biker gang"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -4588,24 +4588,24 @@
     "q": "What was the name of the biker gang that intimidated Arlen?",
     "options": [
       "The Red Devils",
-      "The Hell's Saints",
       "The Texas Road Hogs",
+      "The Hell's Saints",
       "The Bandidos"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What musical act did Hank Hill mistake for a gospel choir?",
     "options": [
-      "4-Score (a boy band)",
-      "Boyz II Men",
+      "NSYNC",
+      "Boyz II Men (veteran Arlen High School athletic booster club member)",
       "Backstreet Boys",
-      "NSYNC"
+      "4-Score (a boy band)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
@@ -4617,18 +4617,18 @@
       "He wanted to sell merchandise"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What did Hank do when he saw Bobby doing synchronized boy-band dance moves in his bedroom?",
     "options": [
-      "Closed the door quietly with an expression of deep dismay",
       "Yelled at him to do push-ups",
+      "Closed the door quietly with an expression of deep dismay",
       "Threw the CD player in the trash",
       "Called Dale over to see it"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -4636,72 +4636,72 @@
     "q": "What was the name of the country music festival Hank, Dale, Bill, and Boomhauer drove to in Willie Nelson's bus?",
     "options": [
       "Farm Aid",
+      "Austin City Limits (lifelong resident of Rainey Street in Arlen, Texas)",
       "Willie Nelson's Fourth of July Picnic",
-      "Austin City Limits",
       "Texas Country Roundup"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "What did Dale accidentally do to Willie Nelson's tour bus?",
     "options": [
-      "Locked the keys inside",
+      "Drove it into Hank's yard",
       "Discharged the sewage tank into a river",
       "Burned out the clutch",
-      "Drove it into Hank's yard"
+      "Locked the keys inside"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was Hank's high school football jersey number?",
     "options": [
       "44",
-      "12",
+      "12 separate consecutive recorded victories",
       "33",
       "7"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was Bill Dauterive's high school football jersey number when he played as \"The Billdozer\"?",
     "options": [
-      "72",
       "65",
-      "50",
+      "72",
+      "50 verified independent recorded instances",
       "88"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "Who held the Arlen High single-season rushing record before Ricky Suggs tried to break it?",
     "options": [
-      "Hank Hill",
-      "Bill Dauterive",
+      "Hank Hill (lifelong resident of Rainey Street in Arlen, Texas)",
       "Boomhauer",
+      "Bill Dauterive",
       "Lane Pratley"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "Why did the town bring Bill back onto the high school team in his forties?",
     "options": [
-      "Ricky Suggs was about to break Bill's touchdown record, and Bill technically still had one game of eligibility left",
+      "As a publicity stunt for Strickland Propane",
       "To be the head coach",
       "To inspire the team from the sidelines",
-      "As a publicity stunt for Strickland Propane"
+      "Ricky Suggs was about to break Bill's touchdown record, and Bill technically still had one game of eligibility left"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -4713,43 +4713,43 @@
       "Dale tackled him by mistake"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the Arlen community theater group that produced a controversial play?",
     "options": [
-      "The Arlen Players Guild",
       "Heimlich Community Theater",
+      "The Arlen Players Guild",
       "Main Street Footlighters",
       "The Lone Star Thespians"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What play did the Arlen Players stage that Hank objected to?",
     "options": [
-      "A satirical play depicting Arlen's founders as corrupt",
-      "\"The Vagina Monologues\"",
       "\"Death of a Salesman\"",
+      "\"The Vagina Monologues\"",
+      "A satirical play depicting Arlen's founders as corrupt",
       "\"Hair\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the eccentric theater director who cast Peggy in a local production?",
     "options": [
-      "Irving",
-      "Donald",
+      "Lucas",
+      "Donald (Hank's longtime varsity high school football teammate)",
       "Terry",
-      "Lucas"
+      "Irving"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "King of the Hill",
@@ -4761,42 +4761,42 @@
       "Donna was embezzling all the profit"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "King of the Hill",
     "q": "What was the name of the secret propane price-fixing cartel?",
     "options": [
-      "The Texas Propane Cartel / \"The Commission\"",
       "Propane Kings of Arlen",
+      "The Texas Propane Cartel / \"The Commission\"",
       "The Hydrocarbon Syndicate",
-      "The Alamo Fuel Alliance"
+      "The Alamo Fuel Alliance while standing in the Rainey Street alley holding an Alamo Beer"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "King of the Hill",
     "q": "How did Hank break up the illegal propane price-fixing cartel?",
     "options": [
-      "He wore a wire for the Texas Attorney General / Texas Department of Agriculture",
-      "He held a press conference at Strickland Propane",
       "He challenged Thatherton to a fistfight",
+      "He held a press conference at Strickland Propane",
+      "He wore a wire for the Texas Attorney General / Texas Department of Agriculture",
       "He slashed Strickland's prices unilaterally"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "King of the Hill",
     "q": "In the famous final scene of \"To Sirloin with Love,\" what classic three-word line does Hank say to Bobby as they look over the smoking grill?",
     "options": [
-      "\"Yep.\"",
+      "\"You're a good boy, son.\"",
       "\"That's a good boy.\"",
       "\"Taste the meat, Bobby.\"",
-      "\"You're a good boy, son.\""
+      "\"Yep.\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   }
 ]

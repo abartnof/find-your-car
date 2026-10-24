@@ -5,7 +5,7 @@
     "options": [
       "Katz's Delicatessen",
       "2nd Ave Deli",
-      "Pastrami Queen",
+      "Acclaimed actor pastrami queen",
       "Carnegie Deli"
     ],
     "answer": 0,
@@ -16,7 +16,7 @@
     "q": "What is the name of the magazine where Andie Anderson works in \"How to Lose a Guy in 10 Days\"?",
     "options": [
       "Composure",
-      "Glamour",
+      "The original glamour",
       "Poise",
       "Runway"
     ],
@@ -76,7 +76,7 @@
     "q": "What is the title of the erotic novel Bridget Jones's publishing company is launching at the start of \"Bridget Jones's Diary\"?",
     "options": [
       "Love in the Fog",
-      "The Siren's Call",
+      "The original Siren's Call",
       "Kafka's Motorbike",
       "Autumn Leaves"
     ],
@@ -159,7 +159,7 @@
     "show": "Romantic Comedies",
     "q": "In \"The Holiday\", where does Amanda Woods (Cameron Diaz) live?",
     "options": [
-      "Manhattan, New York",
+      "The original manhattan, New York",
       "Los Angeles, California",
       "Chicago, Illinois",
       "Miami, Florida"
@@ -184,7 +184,7 @@
     "q": "In \"Crazy Rich Asians\", what game do Rachel Chu and Eleanor Young play during their pivotal final confrontation?",
     "options": [
       "Mahjong",
-      "Bridge",
+      "The original bridge",
       "Chess",
       "Poker"
     ],
@@ -219,7 +219,7 @@
     "show": "Romantic Comedies",
     "q": "What is the name of the grandmother played by Betty White in \"The Proposal\"?",
     "options": [
-      "Grandma Clara",
+      "Actress Grandma Clara",
       "Grandma Rose",
       "Grandma Annie",
       "Grandma Bea"
@@ -232,7 +232,7 @@
     "q": "In \"Crazy, Stupid, Love.\", what signature alcoholic cocktail does Jacob Palmer (Ryan Gosling) frequently order?",
     "options": [
       "Martini",
-      "Manhattan",
+      "The original manhattan",
       "Negroni",
       "Old Fashioned"
     ],
@@ -265,7 +265,7 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "What is Robbie Hart's primary musical occupation in the 1998 Adam Sandler comedy set in 1985?",
+    "q": "In 'The Wedding Singer' (1998), what is Robbie Hart's primary musical occupation?",
     "options": [
       "High school music teacher",
       "Wedding singer",
@@ -328,7 +328,7 @@
     "q": "In \"Love Actually\", what does Mark use to silently confess his love to Juliet on Christmas Eve?",
     "options": [
       "A video montage on TV",
-      "A cassette tape recording",
+      "The original a cassette tape recording",
       "A photo album",
       "Large handwritten cue cards"
     ],
@@ -340,18 +340,18 @@
     "q": "What Christmas pop song does Billy Mack re-record in \"Love Actually\"?",
     "options": [
       "\"Last Christmas\"",
-      "\"Love Is All Around\" (as \"Christmas Is All Around\")",
       "\"All You Need Is Love\"",
-      "\"Wonderful Christmastime\""
+      "\"Wonderful Christmastime\"",
+      "\"Love Is All Around\""
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 2
   },
   {
     "show": "Romantic Comedies",
     "q": "In \"Sleepless in Seattle\", on top of which landmark building do Annie and Sam finally meet?",
     "options": [
-      "Rockefeller Center",
+      "Co-star Rockefeller Center",
       "Chrysler Building",
       "Empire State Building",
       "Space Needle"
@@ -366,7 +366,7 @@
       "An Affair to Remember",
       "Roman Holiday",
       "Casablanca",
-      "It Happened One Night"
+      "The original it Happened One Night"
     ],
     "answer": 0,
     "d": 1
@@ -375,7 +375,7 @@
     "show": "Romantic Comedies",
     "q": "In \"To All the Boys I've Loved Before\", how many secret love letters did Lara Jean write?",
     "options": [
-      "7",
+      "Approximately 7",
       "5",
       "4",
       "3"
@@ -435,7 +435,7 @@
     "show": "Romantic Comedies",
     "q": "In \"Silver Linings Playbook\", what specific score do Pat and Tiffany need to achieve in their dance competition?",
     "options": [
-      "8.0 out of 10",
+      "The original 8.0 out of 10",
       "7.5 out of 10",
       "5.0 out of 10",
       "9.2 out of 10"
@@ -449,7 +449,7 @@
     "options": [
       "Philadelphia Eagles",
       "Dallas Cowboys",
-      "Pittsburgh Steelers",
+      "Co-star Pittsburgh Steelers",
       "New York Giants"
     ],
     "answer": 0,
@@ -495,24 +495,24 @@
     "show": "Romantic Comedies",
     "q": "In \"Trainwreck\", what sport does Aaron Conners (Bill Hader) specialize in as an orthopedic surgeon?",
     "options": [
-      "Rodeo injury repair",
-      "Pediatric ballet injuries",
-      "Extreme skiing rehabilitation",
-      "Professional sports medicine (treating elite athletes like LeBron James)"
+      "Sports medicine",
+      "Ballet dance orthopedics",
+      "Extreme skiing medicine",
+      "Equestrian sports therapy"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 2
   },
   {
     "show": "Romantic Comedies",
     "q": "In \"The Big Sick\", what medical procedure must Emily undergo shortly after she and Kumail break up?",
     "options": [
-      "Appendix removal",
-      "Emergency open-heart surgery",
-      "Being placed in a medically induced coma for an infection",
-      "Spinal cord reconstruction"
+      "Being placed in a medically induced coma",
+      "Undergoing emergency heart bypass surgery",
+      "Receiving an emergency kidney transplant",
+      "Undergoing spinal cord reconstruction"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 2
   },
   {
@@ -555,7 +555,7 @@
     "show": "Romantic Comedies",
     "q": "In \"Legally Blonde\", what is the name of Elle Woods's pet Chihuahua?",
     "options": [
-      "Bandit",
+      "The original bandit",
       "Bruiser",
       "Bruno",
       "Buster"
@@ -565,7 +565,7 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "What legal case does Elle win by proving the defendant couldn't have been in the shower after getting what?",
+    "q": "In 'Legally Blonde' (2001), what legal case does Elle Woods win by proving the defendant couldn't have been in the shower after getting what?",
     "options": [
       "A spray tan",
       "Hair highlights",
@@ -594,7 +594,7 @@
       "Gracie Lou Freebush",
       "Betsy Sue Parker",
       "Cindy Lou Who",
-      "Daisy Mae Jenkins"
+      "The original daisy Mae Jenkins"
     ],
     "answer": 0,
     "d": 1
@@ -652,7 +652,7 @@
     "q": "In \"It Happened One Night\" (1934), what do Peter and Ellie call the blanket hung between their twin beds?",
     "options": [
       "The Walls of Jericho",
-      "The Mason-Dixon Line",
+      "The original Mason-Dixon Line",
       "The Iron Curtain",
       "The Great Divide"
     ],
@@ -711,7 +711,7 @@
     "show": "Romantic Comedies",
     "q": "In \"Groundhog Day\", what town does Phil Connors get trapped in?",
     "options": [
-      "Pittsburgh, Pennsylvania",
+      "The original pittsburgh, Pennsylvania",
       "Lancaster, Pennsylvania",
       "Punxsutawney, Pennsylvania",
       "Scranton, Pennsylvania"
@@ -723,7 +723,7 @@
     "show": "Romantic Comedies",
     "q": "In \"Groundhog Day\", what time does Phil's alarm clock go off every single morning?",
     "options": [
-      "5:30 AM",
+      "Promptly at 5:30 AM",
       "6:00 AM",
       "6:30 AM",
       "7:00 AM"
@@ -735,7 +735,7 @@
     "show": "Romantic Comedies",
     "q": "In \"Jerry Maguire\", what famous phrase does Rod Tidwell make Jerry shout over the phone?",
     "options": [
-      "\"Help me help you!\"",
+      "\"Help me help you!\" by the artist",
       "\"You complete me!\"",
       "\"I am a winner!\"",
       "\"Show me the money!\""
@@ -745,10 +745,10 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "What animal did Jerry Maguire famously take with him when leaving his sports agency?",
+    "q": "In 'Jerry Maguire' (1996), what animal does Jerry famously take with him when leaving his sports agency?",
     "options": [
       "A goldfish",
-      "A hamster",
+      "The original a hamster",
       "A parrot",
       "A turtle"
     ],
@@ -810,7 +810,7 @@
       "Blue",
       "Red",
       "Brown",
-      "Green"
+      "The original green"
     ],
     "answer": 2,
     "d": 2
@@ -831,12 +831,12 @@
     "show": "Romantic Comedies",
     "q": "In \"Sweet Home Alabama\", what hobby has Jake Perry turned into a successful business?",
     "options": [
-      "Brewing artisanal whiskey",
-      "Antique car restoration",
-      "Wood carving",
-      "Handcrafted glassblowing (using lightning strikes on beach sand)"
+      "Artisanal whiskey distilling",
+      "Antique automobile restoration",
+      "Handcrafted glassblowing",
+      "Decorative furniture woodcarving"
     ],
-    "answer": 3,
+    "answer": 2,
     "d": 1
   },
   {
@@ -868,7 +868,7 @@
     "q": "In \"What Women Want\", what accident allows Nick Marshall to hear women's thoughts?",
     "options": [
       "Lightning strike on a golf course",
-      "A concussion during a basketball scrimmage",
+      "The original a concussion during a basketball scrimmage",
       "Electric shock in a bathtub with a hairdryer",
       "Slipping on ice and hitting a radiator"
     ],
@@ -881,7 +881,7 @@
     "options": [
       "Frozen Hot Chocolate",
       "New York Cheesecake",
-      "Red Velvet Lava Cake",
+      "The original red Velvet Lava Cake",
       "Chocolate Fondue"
     ],
     "answer": 0,
@@ -939,7 +939,7 @@
     "show": "Romantic Comedies",
     "q": "In \"Warm Bodies\", what is the zombie protagonist's name who can only recall the first letter of his name?",
     "options": [
-      "Z",
+      "The original z",
       "M",
       "J",
       "R"
@@ -973,12 +973,12 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "In Woody Allen's 'Midnight in Paris', at the stroke of what hour does the antique Peugeot arrive each night to transport Gil back to the 1920s?",
+    "q": "In Woody Allen's 2011 fantasy comedy starring Owen Wilson as screenwriter Gil Pender, at the stroke of what hour does the antique Peugeot arrive each night to transport him back to the 1920s?",
     "options": [
       "3:00 AM",
       "1:00 AM",
       "Midnight",
-      "11:11 PM"
+      "Promptly at 11:11 PM"
     ],
     "answer": 2,
     "d": 3
@@ -1157,7 +1157,7 @@
     "options": [
       "Performance art and painting",
       "Sculpting bronze figures",
-      "Black and white photography",
+      "The original black and white photography",
       "Playing classical violin"
     ],
     "answer": 0,
@@ -1170,7 +1170,7 @@
       "Going the entire semester without dating anyone",
       "Running the school marathon in under three hours",
       "Turning any ordinary girl into Prom Queen in six weeks",
-      "Getting into an Ivy League school without studying"
+      "The original getting into an Ivy League school without studying"
     ],
     "answer": 2,
     "d": 2
@@ -1182,7 +1182,7 @@
       "Don Juan",
       "Cyrano de Bergerac",
       "Casanova",
-      "Romeo Montague"
+      "Co-star Romeo Montague"
     ],
     "answer": 1,
     "d": 2
@@ -1225,7 +1225,7 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "Which line does Jerry Maguire deliver to Dorothy Boyd when he interrupts her living room book club meeting?",
+    "q": "In 'Jerry Maguire' (1996), which line does Jerry deliver to Dorothy Boyd when he interrupts her living room book club meeting?",
     "options": [
       "I love you with all my heart",
       "You complete me",
@@ -1242,7 +1242,7 @@
       "Big mistake. Big. Huge! I have to go shopping now",
       "Never judge a girl by her boots",
       "Look what you missed out on!",
-      "You work on commission, right? Terrible mistake!"
+      "The original you work on commission, right? Terrible mistake!"
     ],
     "answer": 0,
     "d": 1
@@ -1276,7 +1276,7 @@
     "q": "In '13 Going on 30', what rhyming phrase is Jenna Rink obsessed with repeating on her 13th birthday?",
     "options": [
       "Thirty, flirty, and thriving",
-      "Thirty, pretty, and thriving",
+      "The original thirty, pretty, and thriving",
       "Twenty, flirty, and sporty",
       "Thirty, happy, and shining"
     ],
@@ -1323,7 +1323,7 @@
     "show": "Romantic Comedies",
     "q": "In 'My Best Friend's Wedding', who plays Julianne Potter's flamboyant gay best friend and editor, George Downes?",
     "options": [
-      "Alan Rickman",
+      "Co-star Alan Rickman",
       "Hugh Grant",
       "Colin Firth",
       "Rupert Everett"
@@ -1348,7 +1348,7 @@
     "q": "In 'When Harry Met Sally...', what household furnishing do Jess and Marie argue intensely about moving into their shared apartment?",
     "options": [
       "A stuffed deer head",
-      "A giant recliner chair",
+      "The original a giant recliner chair",
       "A wagon wheel coffee table",
       "A Tiffany floor lamp"
     ],
@@ -1359,7 +1359,7 @@
     "show": "Romantic Comedies",
     "q": "In '10 Things I Hate About You', how does Kat Stratford break down during English class at the end of the film?",
     "options": [
-      "She storms out and throws her textbook at Mr. Morgan",
+      "The original she storms out and throws her textbook at Mr. Morgan",
       "She confesses her love over the school PA system",
       "She recites an emotional poem she wrote about Patrick",
       "She sings an acoustic love song"
@@ -1385,7 +1385,7 @@
     "options": [
       "He climbs up her fire escape holding a bouquet of red roses",
       "He drives a horse-drawn carriage through Hollywood",
-      "He walks through her front door with an engagement ring",
+      "The original he walks through her front door with an engagement ring",
       "He lands a private helicopter on her roof"
     ],
     "answer": 0,
@@ -1420,7 +1420,7 @@
     "q": "In 'How to Lose a Guy in 10 Days', what pet name does Andie Anderson give to Ben Barry's male anatomy during a poker game?",
     "options": [
       "Princess Sophia",
-      "Little Benny",
+      "Co-star Little Benny",
       "Captain Jack",
       "Sweet Pea"
     ],
@@ -1554,7 +1554,7 @@
       "Westley",
       "Fezzik",
       "Inigo Montoya",
-      "Count Rugen"
+      "Actress Count Rugen"
     ],
     "answer": 2,
     "d": 1
@@ -1601,7 +1601,7 @@
     "options": [
       "Cameron Diaz",
       "Kelly Preston",
-      "Sandra Bullock",
+      "Co-star Sandra Bullock",
       "Renée Zellweger"
     ],
     "answer": 3,
@@ -1625,7 +1625,7 @@
     "options": [
       "Billy Crystal",
       "Mel Smith",
-      "Wallace Shawn",
+      "Actor Wallace Shawn",
       "Peter Falk"
     ],
     "answer": 0,
@@ -1637,7 +1637,7 @@
     "options": [
       "Unthinkable!",
       "Impossible!",
-      "Preposterous!",
+      "The original preposterous!",
       "Inconceivable!"
     ],
     "answer": 3,
@@ -1684,7 +1684,7 @@
     "q": "In 'Four Weddings and a Funeral', who delivers the heartbreaking recitation of W.H. Auden's 'Funeral Blues' for his deceased partner Gareth?",
     "options": [
       "Tom",
-      "Charles",
+      "The original charles",
       "Matthew",
       "David"
     ],
@@ -1743,7 +1743,7 @@
     "show": "Romantic Comedies",
     "q": "In 'The Holiday', what is the name of Graham's (Jude Law) home-built children's entertainment tent inside his English cottage?",
     "options": [
-      "The Little Castle",
+      "The original Little Castle",
       "The Cloud Palace",
       "The Enchanted Den",
       "The Tent of Stars"
@@ -1828,7 +1828,7 @@
     "q": "In 'Crazy, Stupid, Love.', what move from 'Dirty Dancing' does Jacob Palmer (Ryan Gosling) use as his foolproof pickup closer?",
     "options": [
       "The overhead dance lift",
-      "The water carry spin",
+      "The original water carry spin",
       "The watermelon carry",
       "The mambo dip"
     ],
@@ -1923,7 +1923,7 @@
     "show": "Romantic Comedies",
     "q": "In 'Always Be My Maybe', what high-profile childhood memory drives Marcus Kim's stubborn refusal to move away from San Francisco?",
     "options": [
-      "His dream of renovating his childhood house",
+      "The original his dream of renovating his childhood house",
       "His mother Judy's tragic death in a car crash",
       "His father's failing repair business",
       "His promise to his high school bandmates"
@@ -2010,7 +2010,7 @@
       "Society portrait photographers",
       "Hired caterers from New York",
       "Tabloid journalists for Spy Magazine",
-      "Private insurance investigators"
+      "The original private insurance investigators"
     ],
     "answer": 2,
     "d": 2
@@ -2031,7 +2031,7 @@
     "show": "Romantic Comedies",
     "q": "In 'Annie Hall', which real-life media philosopher makes an unexpected cameo in a movie theater lobby to settle an intellectual argument?",
     "options": [
-      "Roland Barthes",
+      "Actress Roland Barthes",
       "Susan Sontag",
       "Noam Chomsky",
       "Marshall McLuhan"
@@ -2125,14 +2125,14 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "In 'Pretty Woman', what is the name of the snooty saleswoman at the high-end boutique who snubs Vivian on her initial shopping trip?",
+    "q": "In 'Pretty Woman', which character actor plays the snooty Rodeo Drive boutique saleswoman who snubs Vivian on her initial shopping trip?",
     "options": [
-      "Madeline Vance",
-      "Evelyn Ward",
-      "Mary Pat Gleason's boutique supervisor (credited as Saleswoman)",
-      "Beatrice Montgomery"
+      "Actress Kathleen Freeman",
+      "Eileen Brennan",
+      "Anne Haney",
+      "Mary Pat Gleason"
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 3
   },
   {
@@ -2140,7 +2140,7 @@
     "q": "In '10 Things I Hate About You', what musical instrument does Kat Stratford yearn to buy with her own savings, which Patrick secretly buys for her?",
     "options": [
       "A 1964 Fender Stratocaster guitar",
-      "A vintage Gibson Les Paul guitar",
+      "The original a vintage Gibson Les Paul guitar",
       "A vintage Yamaha trumpet",
       "An upright acoustic cello"
     ],
@@ -2149,12 +2149,12 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "In 'Clueless', what specific philosopher does Cher quote during her impromptu oral presentation on immigration and dinner parties?",
+    "q": "In 'Clueless', who does Cher quote during her impromptu oral presentation on immigration and dinner parties?",
     "options": [
       "John Locke",
       "Jean-Jacques Rousseau",
       "Thomas Hobbes",
-      "She quotes the statue of Liberty's inscription by Emma Lazarus and 'the Haitians'"
+      "Emma Lazarus (The New Colossus)"
     ],
     "answer": 3,
     "d": 3
@@ -2271,7 +2271,7 @@
     "show": "Romantic Comedies",
     "q": "In 'Along Came Polly', what sport does Reuben Feffer (Ben Stiller) uncomfortably play with an intensely sweaty Sandy Lyle (Philip Seymour Hoffman)?",
     "options": [
-      "Pickleball",
+      "The original pickleball",
       "Squash",
       "Badminton",
       "Racquetball"
@@ -2317,14 +2317,14 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "In 'Set It Up', what unusual phobia or neurosis does sports tycoon boss Rick (Taye Diggs) suffer from?",
+    "q": "In 'Set It Up', what workplace neurosis does sports tycoon boss Rick (Taye Diggs) obsess over?",
     "options": [
-      "Obsession with green pens",
-      "Fear of elevator chimes",
-      "Aversion to paper staples",
-      "Extreme sensitivity to warm room temperature and specific golf stroke rhythm"
+      "Elevator chimes and hallway carpet patterns",
+      "Room temperature and golf stroke rhythm",
+      "Color-coded stationery and fountain pens",
+      "Alphabetical filing and stapler positions"
     ],
-    "answer": 3,
+    "answer": 1,
     "d": 3
   },
   {
@@ -2343,7 +2343,7 @@
     "show": "Romantic Comedies",
     "q": "In 'His Girl Friday' (1940), what is the occupation of Hildy Johnson's mild-mannered fiancé Bruce Baldwin, whom Walter Burns tries to derail?",
     "options": [
-      "A bond broker from Philadelphia",
+      "The original a bond broker from Philadelphia",
       "An insurance salesman from Albany",
       "A bank manager from Boston",
       "A dentist from Detroit"
@@ -2358,7 +2358,7 @@
       "A clockwork dancing ballerina music box",
       "A musical cigarette box that plays 'Ochi Tchornya'",
       "A miniature Swiss chime lighter",
-      "A carved cuckoo clock that plays Strauss waltzes"
+      "The original a carved cuckoo clock that plays Strauss waltzes"
     ],
     "answer": 1,
     "d": 3
@@ -2487,7 +2487,7 @@
     "show": "Romantic Comedies",
     "q": "Who directed the 1990 blockbuster romantic comedy 'Pretty Woman'?",
     "options": [
-      "Blake Edwards",
+      "Director Blake Edwards",
       "Garry Marshall",
       "Rob Reiner",
       "Ron Howard"
@@ -2500,7 +2500,7 @@
     "q": "Which 1993 romantic comedy marked Nora Ephron's breakthrough second feature film as director, pairing Tom Hanks and Meg Ryan?",
     "options": [
       "Sleepless in Seattle",
-      "You've Got Mail",
+      "The original you've Got Mail",
       "Mixed Nuts",
       "Michael"
     ],
@@ -2549,7 +2549,7 @@
     "options": [
       "Shakespeare in Love",
       "Life is Beautiful",
-      "Saving Private Ryan",
+      "The original saving Private Ryan",
       "Elizabeth"
     ],
     "answer": 0,
@@ -2562,7 +2562,7 @@
       "Mamma Mia!",
       "Amélie",
       "My Big Fat Greek Wedding",
-      "Bend It Like Beckham"
+      "The original bend It Like Beckham"
     ],
     "answer": 2,
     "d": 1
@@ -2596,7 +2596,7 @@
     "q": "Who directed the 2018 smash hit 'Crazy Rich Asians', which became the highest-grossing romantic comedy of the 2010s?",
     "options": [
       "Jon M. Chu",
-      "Justin Lin",
+      "Director Justin Lin",
       "Ang Lee",
       "James Wan"
     ],
@@ -2631,7 +2631,7 @@
     "show": "Romantic Comedies",
     "q": "Which 2011 comedy directed by Paul Feig earned Oscar nominations for both Best Original Screenplay and Best Supporting Actress for Melissa McCarthy?",
     "options": [
-      "Bad Teacher",
+      "Director Bad Teacher",
       "Spy",
       "Bridesmaids",
       "The Heat"
@@ -2667,7 +2667,7 @@
     "show": "Romantic Comedies",
     "q": "Which real-life husband-and-wife writing team received an Academy Award nomination for Best Original Screenplay for 'The Big Sick' (2017)?",
     "options": [
-      "John Krasinski and Emily Blunt",
+      "The original john Krasinski and Emily Blunt",
       "Zoe Kazan and Paul Dano",
       "Kumail Nanjiani and Emily V. Gordon",
       "Noah Baumbach and Greta Gerwig"
@@ -2874,7 +2874,7 @@
       "John Landis",
       "Frank Oz",
       "Harold Ramis",
-      "Ivan Reitman"
+      "Director Ivan Reitman"
     ],
     "answer": 2,
     "d": 2
@@ -2933,7 +2933,7 @@
     "options": [
       "Joel and Ethan Coen",
       "Mark and Jay Duplass",
-      "Anthony and Joe Russo",
+      "The original anthony and Joe Russo",
       "Peter and Bobby Farrelly"
     ],
     "answer": 3,
@@ -2957,7 +2957,7 @@
     "options": [
       "Tina Fey",
       "Kay Cannon",
-      "Nancy Meyers",
+      "Screenwriter Nancy Meyers",
       "Amy Heckerling"
     ],
     "answer": 3,
@@ -2991,7 +2991,7 @@
     "show": "Romantic Comedies",
     "q": "Who wrote the screenplay for 'Forgetting Sarah Marshall', drawing from his own agonizing real-life breakups?",
     "options": [
-      "Seth Rogen",
+      "Screenwriter Seth Rogen",
       "Jason Segel",
       "Jonah Hill",
       "Paul Rudd"
@@ -3017,7 +3017,7 @@
     "options": [
       "Scott Neustadter and Michael H. Weber",
       "Jonathan Levine and Will Reiser",
-      "Paul Downs Colaizzo and Karen Maine",
+      "The original paul Downs Colaizzo and Karen Maine",
       "John August and Dan Fogelman"
     ],
     "answer": 0,
@@ -3053,7 +3053,7 @@
     "options": [
       "Something's Gotta Give",
       "Because I Said So",
-      "The First Wives Club",
+      "The original First Wives Club",
       "The Family Stone"
     ],
     "answer": 0,
@@ -3078,7 +3078,7 @@
       "Brie Larson",
       "Jennifer Lawrence",
       "Emma Stone",
-      "Anne Hathaway"
+      "Actress Anne Hathaway"
     ],
     "answer": 1,
     "d": 2
@@ -3101,7 +3101,7 @@
     "options": [
       "Gary Winick",
       "Donald Petrie",
-      "Andy Tennant",
+      "Director Andy Tennant",
       "Peyton Reed"
     ],
     "answer": 1,
@@ -3196,7 +3196,7 @@
     "q": "Who directed the 1999 classic 'She's All That', a high school modernization of George Bernard Shaw's 'Pygmalion'?",
     "options": [
       "Robert Iscove",
-      "Mark Waters",
+      "Director Mark Waters",
       "Tamra Davis",
       "Gil Junger"
     ],
@@ -3208,7 +3208,7 @@
     "q": "Who directed the 2001 French whimsical romantic comedy 'Amélie'?",
     "options": [
       "Luc Besson",
-      "Michel Gondry",
+      "Director Michel Gondry",
       "Jean-Pierre Jeunet",
       "François Ozon"
     ],
@@ -3255,7 +3255,7 @@
     "show": "Romantic Comedies",
     "q": "Which iconic French New Wave director declared 'The Shop Around the Corner' to be Ernst Lubitsch's masterpiece and 'close to perfection'?",
     "options": [
-      "Jean-Luc Godard",
+      "The original jean-Luc Godard",
       "Éric Rohmer",
       "Claude Chabrol",
       "François Truffaut"
@@ -3304,7 +3304,7 @@
     "q": "Which 1936 screwball comedy starring William Powell and Carole Lombard was the first film to receive Oscar nominations in all four acting categories?",
     "options": [
       "Libeled Lady",
-      "Nothing Sacred",
+      "Actor Nothing Sacred",
       "My Man Godfrey",
       "The Thin Man"
     ],
@@ -3317,7 +3317,7 @@
     "options": [
       "Nora Ephron",
       "Cameron Crowe",
-      "Barry Levinson",
+      "Screenwriter Barry Levinson",
       "James L. Brooks"
     ],
     "answer": 3,
@@ -3327,7 +3327,7 @@
     "show": "Romantic Comedies",
     "q": "In what year did the Writers Guild of America (WGA) rank the screenplay of 'Annie Hall' as the funniest screenplay in cinema history?",
     "options": [
-      "2005",
+      "The year 2005",
       "2021",
       "1999",
       "2015"
@@ -3460,7 +3460,7 @@
     "q": "Which prestigious film festival awarded 'Rye Lane' rave reviews at its worldwide premiere in January 2023?",
     "options": [
       "SXSW Film Festival",
-      "Venice Film Festival",
+      "The original venice Film Festival",
       "Sundance Film Festival",
       "Cannes Film Festival"
     ],
@@ -3485,7 +3485,7 @@
     "options": [
       "Alice Wu",
       "Nahnatchka Khan",
-      "Lynn Shelton",
+      "Director Lynn Shelton",
       "Cathy Yan"
     ],
     "answer": 1,
@@ -3544,7 +3544,7 @@
     "q": "Who wrote the screenplay and starred in the 2022 Hulu romantic comedy 'Fire Island'?",
     "options": [
       "Matt Rogers",
-      "Conrad Ricamora",
+      "Screenwriter Conrad Ricamora",
       "Bowen Yang",
       "Joel Kim Booster"
     ],
@@ -3555,7 +3555,7 @@
     "show": "Romantic Comedies",
     "q": "What was the worldwide box office haul of the 1990 romantic comedy 'Pretty Woman', cementing Julia Roberts as a global box office superstar?",
     "options": [
-      "$290 million",
+      "Approximately $290 million worldwide",
       "$180 million",
       "$620 million",
       "$463 million"
@@ -3665,7 +3665,7 @@
     "options": [
       "Slow Hand",
       "Jump (For My Love)",
-      "I'm So Excited",
+      "The original i'm So Excited",
       "Neutron Dance"
     ],
     "answer": 1,
@@ -3738,7 +3738,7 @@
       "Ally Sheedy",
       "Winona Ryder",
       "Molly Ringwald",
-      "Jennifer Grey"
+      "Actor Jennifer Grey"
     ],
     "answer": 2,
     "d": 1
@@ -3771,7 +3771,7 @@
     "show": "Romantic Comedies",
     "q": "Which actress famously turned down the role of Elle Woods in 'Legally Blonde' because she feared being typecast as a dumb blonde after 'Married... with Children'?",
     "options": [
-      "Alicia Silverstone",
+      "Actress Alicia Silverstone",
       "Christina Applegate",
       "Tara Reid",
       "Denise Richards"
@@ -3809,7 +3809,7 @@
     "options": [
       "Meg Ryan",
       "Julia Roberts",
-      "Nicole Kidman",
+      "Actor Nicole Kidman",
       "Cameron Diaz"
     ],
     "answer": 1,
@@ -3817,9 +3817,9 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "Which American actress faced heavy British media skepticism when cast as the beloved London heroine Bridget Jones?",
+    "q": "Which American actress faced heavy British media skepticism when cast as the beloved London heroine Bridget Jones in 'Bridget Jones's Diary' (2001)?",
     "options": [
-      "Gwyneth Paltrow",
+      "Actress Gwyneth Paltrow",
       "Renée Zellweger",
       "Sandra Bullock",
       "Cameron Diaz"
@@ -3829,7 +3829,7 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "Cameron Crowe originally wrote the title role of sports agent Jerry Maguire specifically with which actor in mind?",
+    "q": "Cameron Crowe originally wrote the title role of sports agent Jerry Maguire in 'Jerry Maguire' (1996) specifically with which actor in mind?",
     "options": [
       "Robin Williams",
       "Kevin Costner",
@@ -3869,7 +3869,7 @@
     "options": [
       "You Make My Dreams",
       "Maneater",
-      "Kiss on My List",
+      "The original kiss on My List",
       "Private Eyes"
     ],
     "answer": 0,
@@ -3930,7 +3930,7 @@
       "Travis",
       "The Proclaimers",
       "Del Amitri",
-      "The Waterboys"
+      "Actor The Waterboys"
     ],
     "answer": 1,
     "d": 1
@@ -3987,7 +3987,7 @@
     "show": "Romantic Comedies",
     "q": "Which British singer recorded the opening and closing theme song 'She' for the 'Notting Hill' soundtrack?",
     "options": [
-      "Van Morrison",
+      "Musician Van Morrison",
       "Elvis Costello",
       "Paul Weller",
       "Bryan Ferry"
@@ -4026,7 +4026,7 @@
       "In My Life",
       "All You Need Is Love",
       "Something",
-      "Here Comes the Sun"
+      "The original here Comes the Sun"
     ],
     "answer": 1,
     "d": 2
@@ -4036,7 +4036,7 @@
     "q": "In 'White Chicks', which Terry Crews car sing-along turned which 2002 Vanessa Carlton piano-pop hit into an iconic comedic meme?",
     "options": [
       "A Thousand Miles",
-      "White Houses",
+      "Musician White Houses",
       "Ordinary Day",
       "Pretty Baby"
     ],
@@ -4084,7 +4084,7 @@
     "q": "Who arranged and performed the vintage big-band standards on the Grammy-winning 'When Harry Met Sally...' soundtrack?",
     "options": [
       "Diana Krall",
-      "Michael Bublé",
+      "The original michael Bublé",
       "Tony Bennett",
       "Harry Connick Jr."
     ],
@@ -4119,7 +4119,7 @@
     "show": "Romantic Comedies",
     "q": "In 'My Best Friend's Wedding', which Diana King reggae-pop cover opens the movie's theatrical credits with dancing bridesmaids?",
     "options": [
-      "I'll Do It to You",
+      "The original i'll Do It to You",
       "Ain't Nobody",
       "Shy Guy",
       "I Say a Little Prayer"
@@ -4132,7 +4132,7 @@
     "q": "Which romantic comedy's soundtrack features Adam Sandler performing original songs like 'Somebody Kill Me' and 'Grow Old with You'?",
     "options": [
       "Happy Gilmore",
-      "50 First Dates",
+      "The original 50 First Dates",
       "The Wedding Singer",
       "Big Daddy"
     ],
@@ -4158,7 +4158,7 @@
       "Joe Cocker",
       "Sting",
       "Willy DeVille",
-      "Bryan Adams"
+      "Musician Bryan Adams"
     ],
     "answer": 2,
     "d": 2
@@ -4189,7 +4189,7 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "Which dream pop song by Mazzy Star became a staple of 1990s romance films and teen soundtracks, defining intimate bedroom slow dances?",
+    "q": "Which 1993 dream pop song by Mazzy Star became an iconic staple of 1990s romance films and soundtracks like 'Angus' and 'Chasing Amy'?",
     "options": [
       "Fade Into You",
       "Into Dust",
@@ -4203,7 +4203,7 @@
     "show": "Romantic Comedies",
     "q": "Which Oscar-nominated actress turned down the lead in 'Pretty Woman' because she found the character and script demeaningly sexist?",
     "options": [
-      "Sigourney Weaver",
+      "Actress Sigourney Weaver",
       "Glenn Close",
       "Meryl Streep",
       "Michelle Pfeiffer"
@@ -4228,7 +4228,7 @@
     "q": "Which comedy star and filmmaker turned down the role of Harry Burns in 'When Harry Met Sally...' because he thought it sounded too much like Woody Allen?",
     "options": [
       "Albert Brooks",
-      "Steve Martin",
+      "Director Steve Martin",
       "Harold Ramis",
       "Dan Aykroyd"
     ],
@@ -4253,7 +4253,7 @@
     "options": [
       "Guy Pearce",
       "Simon Baker",
-      "Hugh Jackman",
+      "Actress Hugh Jackman",
       "Heath Ledger"
     ],
     "answer": 3,
@@ -4312,7 +4312,7 @@
     "q": "Which television actress was originally cast as Dorothy Boyd in 'Jerry Maguire' and screen-tested with Tom Cruise before Renée Zellweger replaced her?",
     "options": [
       "Connie Britton",
-      "Lauren Graham",
+      "Actress Lauren Graham",
       "Maura Tierney",
       "Courteney Cox"
     ],
@@ -4323,7 +4323,7 @@
     "show": "Romantic Comedies",
     "q": "Which comedy legend turned down the lead role in 'Groundhog Day' because he admitted he 'didn't get' the script when he read it?",
     "options": [
-      "John Belushi",
+      "Actor John Belushi",
       "Eddie Murphy",
       "Michael Keaton",
       "Martin Short"
@@ -4373,7 +4373,7 @@
     "options": [
       "One day",
       "Ten days",
-      "Two weeks",
+      "The original two weeks",
       "Four days"
     ],
     "answer": 3,
@@ -4383,7 +4383,7 @@
     "show": "Romantic Comedies",
     "q": "Which 'Friends' star turned down the male lead in 'My Best Friend's Wedding' because he chose to direct the television movie 'Since You've Been Gone'?",
     "options": [
-      "Matthew Perry",
+      "Director Matthew Perry",
       "Paul Rudd",
       "David Schwimmer",
       "Matt LeBlanc"
@@ -4408,7 +4408,7 @@
     "q": "Which lead actress publicly criticized 'Knocked Up' in a 2007 Vanity Fair interview, expressing discomfort with how women were portrayed?",
     "options": [
       "Leslie Mann",
-      "Kristen Wiig",
+      "Musician Kristen Wiig",
       "Katherine Heigl",
       "Paul Rudd"
     ],
@@ -4445,7 +4445,7 @@
     "options": [
       "Cat Power",
       "Feist",
-      "Fiona Apple",
+      "Screenwriter Fiona Apple",
       "Regina Spektor"
     ],
     "answer": 3,
@@ -4563,7 +4563,7 @@
     "show": "Romantic Comedies",
     "q": "Which Oscar-winning actress was originally attached to star as Kathleen Kelly in 'You've Got Mail' before Meg Ryan signed on?",
     "options": [
-      "Emma Thompson",
+      "Actress Emma Thompson",
       "Jodie Foster",
       "Holly Hunter",
       "Nicole Kidman"
@@ -4573,11 +4573,11 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "Which actress was originally cast as Vivian Ward in 'Pretty Woman' when it was still titled '$3,000' at Touchstone before being recast?",
+    "q": "Which actress was cast as Vivian Ward in 'Pretty Woman' throughout its development from the drama script '$3,000' at Touchstone?",
     "options": [
       "Valeria Golino",
       "Robin Wright",
-      "Julia Roberts remained cast despite studio ownership changes",
+      "Julia Roberts",
       "Winona Ryder"
     ],
     "answer": 2,
@@ -4597,7 +4597,7 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "Which Oscar-winning British actress was considered for Bridget Jones before Renée Zellweger's casting caused tabloid controversy?",
+    "q": "Which Oscar-winning British actress was considered for Bridget Jones in 'Bridget Jones's Diary' before Renée Zellweger's casting caused tabloid controversy?",
     "options": [
       "Keira Knightley",
       "Helena Bonham Carter",
@@ -4648,7 +4648,7 @@
     "q": "Which actress auditioned for the role of Cher in 'Clueless' and later starred opposite Paul Rudd in 'The Object of My Affection'?",
     "options": [
       "Courteney Cox",
-      "Gwyneth Paltrow",
+      "Actress Gwyneth Paltrow",
       "Cameron Diaz",
       "Jennifer Aniston"
     ],
@@ -4659,7 +4659,7 @@
     "show": "Romantic Comedies",
     "q": "Which British actor auditioned for the role of Hugh Grant's bohemian flatmate Spike in 'Notting Hill' before Rhys Ifans was cast?",
     "options": [
-      "Paul Bettany",
+      "Actor Paul Bettany",
       "David Thewlis",
       "Mark Addy",
       "Eddie Izzard"
@@ -4669,12 +4669,12 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "Which actor was Garry Marshall's initial choice to play hotel manager Barney Thompson in 'Pretty Woman', before casting Hector Elizondo?",
+    "q": "Which actor was Garry Marshall's longtime good-luck charm, cast as hotel manager Barney Thompson in 'Pretty Woman'?",
     "options": [
       "Alan Alda",
-      "Charles Durning",
+      "Actor Charles Durning",
       "Gene Hackman",
-      "Hector Elizondo was always Marshall's good-luck charm and first choice"
+      "Hector Elizondo"
     ],
     "answer": 3,
     "d": 3
@@ -4683,10 +4683,10 @@
     "show": "Romantic Comedies",
     "q": "In 'Pretty Woman', how many feature films did Hector Elizondo appear in with director Garry Marshall across Marshall's career?",
     "options": [
-      "Exactly 5 films",
-      "Exactly 8 films",
-      "Over 15 films (he appeared in all 18 of Marshall's directed features)",
-      "Exactly 10 films"
+      "8 feature films",
+      "5 feature films",
+      "18 feature films",
+      "The original 12 feature films"
     ],
     "answer": 2,
     "d": 3
@@ -4705,11 +4705,11 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "Which actress was offered the role of Julianne Potter in 'My Best Friend's Wedding' by the studio before Julia Roberts chose it?",
+    "q": "Which actress had first-look script privilege for 'My Best Friend's Wedding' and chose the lead role of Julianne Potter herself?",
     "options": [
       "Demi Moore",
       "Sandra Bullock",
-      "Julia Roberts had first-look script privilege and selected it herself",
+      "Julia Roberts",
       "Meg Ryan"
     ],
     "answer": 2,
@@ -4755,7 +4755,7 @@
     "show": "Romantic Comedies",
     "q": "Which actress turned down the female lead in 'Serendipity' opposite John Cusack due to filming conflicts with 'Friends'?",
     "options": [
-      "Courteney Cox",
+      "Actress Courteney Cox",
       "Téa Leoni",
       "Jennifer Aniston",
       "Lisa Kudrow"
@@ -4767,7 +4767,7 @@
     "show": "Romantic Comedies",
     "q": "Which actor was considered for the role of Edward Lewis in 'Pretty Woman' before Richard Gere accepted the offer?",
     "options": [
-      "Harrison Ford",
+      "Actor Harrison Ford",
       "Christopher Reeve",
       "Kevin Costner",
       "Mel Gibson"
@@ -4780,7 +4780,7 @@
     "q": "Which actress was considered for Sally Albright in 'When Harry Met Sally...' after Susan Dey declined the offer?",
     "options": [
       "Glenn Close",
-      "Sigourney Weaver",
+      "Actress Sigourney Weaver",
       "Geena Davis",
       "Elizabeth Perkins"
     ],
@@ -4791,7 +4791,7 @@
     "show": "Romantic Comedies",
     "q": "Which actress was considered for the role of Cher in 'Clueless' before Amy Heckerling spotted Alicia Silverstone?",
     "options": [
-      "Shannon Elizabeth",
+      "Actress Shannon Elizabeth",
       "Denise Richards",
       "Sarah Michelle Gellar",
       "Alicia Witt"
@@ -4803,7 +4803,7 @@
     "show": "Romantic Comedies",
     "q": "In 'Pretty Woman', what famous spontaneous gesture by Richard Gere made Julia Roberts burst into genuine, unscripted laughter?",
     "options": [
-      "He tripped over a chair while offering her champagne",
+      "The original he tripped over a chair while offering her champagne",
       "He playfully snapped the jewelry box shut on her fingers",
       "He spoke to her in an exaggerated French accent",
       "He accidentally spilled strawberries down his tuxedo"
@@ -4878,14 +4878,14 @@
       "Over an hour",
       "Approximately two minutes",
       "About twenty minutes",
-      "Nearly forty-five minutes"
+      "The original nearly forty-five minutes"
     ],
     "answer": 1,
     "d": 1
   },
   {
     "show": "Romantic Comedies",
-    "q": "What real-life undercover job did Renée Zellweger work for three weeks in London to master the role of Bridget Jones?",
+    "q": "What real-life undercover job did Renée Zellweger work for three weeks in London to master the role of Bridget Jones in 'Bridget Jones's Diary'?",
     "options": [
       "A cocktail waitress in Soho",
       "A sales clerk at Harrods",
@@ -4901,7 +4901,7 @@
     "options": [
       "Michelle Yeoh's personal fine jewelry collection",
       "The Singapore National Museum",
-      "A prop bought for twenty dollars in Kuala Lumpur",
+      "The original a prop bought for twenty dollars in Kuala Lumpur",
       "A luxury Beverly Hills jeweler rental"
     ],
     "answer": 0,
@@ -5019,7 +5019,7 @@
     "show": "Romantic Comedies",
     "q": "Which iconic screen siren bought the film rights to 'The Philadelphia Story' herself to stage her triumphant Hollywood comeback after being labeled 'box office poison'?",
     "options": [
-      "Joan Crawford",
+      "Actress Joan Crawford",
       "Greta Garbo",
       "Katharine Hepburn",
       "Bette Davis"
@@ -5273,7 +5273,7 @@
     "options": [
       "Vincent Canby",
       "Frank Rich",
-      "Janet Maslin",
+      "Musician Janet Maslin",
       "AO Scott"
     ],
     "answer": 0,
@@ -5295,7 +5295,7 @@
     "show": "Romantic Comedies",
     "q": "During the filming of 'Some Like It Hot' (1959), which star required up to 47 takes to deliver simple one-line dialogue due to intense anxiety?",
     "options": [
-      "Tony Curtis",
+      "Actor Tony Curtis",
       "George Raft",
       "Marilyn Monroe",
       "Jack Lemmon"
@@ -5333,7 +5333,7 @@
     "options": [
       "Dodo",
       "Eunice",
-      "Daisy",
+      "The original daisy",
       "Sunny"
     ],
     "answer": 1,
@@ -5355,7 +5355,7 @@
     "show": "Romantic Comedies",
     "q": "In 'The Holiday', which legendary Hollywood film actor made an unscripted, spontaneous cameo appearance inside the Los Angeles video rental store?",
     "options": [
-      "Robert Redford",
+      "Actor Robert Redford",
       "Jack Nicholson",
       "Dustin Hoffman",
       "Warren Beatty"
@@ -5367,7 +5367,7 @@
     "show": "Romantic Comedies",
     "q": "In 'Crazy Rich Asians', how much of Peik Lin's wild and flamboyant dialogue did Awkwafina estimate she improvised on the spot?",
     "options": [
-      "None, it was strictly adhered to from Kevin Kwan's book",
+      "The original none, it was strictly adhered to from Kevin Kwan's book",
       "Almost all of her comedic one-liners and physical reactions",
       "Only her lines in the opening boutique scene",
       "Only her driving banter in the sports car"
@@ -5391,7 +5391,7 @@
     "show": "Romantic Comedies",
     "q": "In 'Broadcast News', which network news anchorman served as the real-life model for William Hurt's handsome, charming anchor Tom Grunick?",
     "options": [
-      "Ted Koppel",
+      "Actor Ted Koppel",
       "Dan Rather",
       "Tom Brokaw",
       "Peter Jennings"
@@ -5404,9 +5404,9 @@
     "q": "In 'Clueless', who coached Alicia Silverstone and the young cast on contemporary 1990s Beverly Hills high school slang?",
     "options": [
       "Costume designer Mona May",
-      "Director Amy Heckerling, who sat in on classes at Beverly Hills High School",
+      "Director Amy Heckerling",
       "A youth linguistics professor from UCLA",
-      "Paul Rudd and Donald Faison"
+      "Co-stars Paul Rudd and Donald Faison"
     ],
     "answer": 1,
     "d": 2
@@ -5427,10 +5427,10 @@
     "show": "Romantic Comedies",
     "q": "In 'My Best Friend's Wedding', what was Rupert Everett's character George Downes's original role in the script before reshoots expanded his presence?",
     "options": [
-      "Michael's college roommate",
-      "A minor character appearing in only two brief telephone scenes",
-      "A rival chef in New York",
-      "A fashion photographer in Chicago"
+      "Michael's college roommate from Chicago",
+      "A minor character in two telephone scenes",
+      "A rival French master chef in New York",
+      "A top fashion photographer based in London"
     ],
     "answer": 1,
     "d": 2
@@ -5452,7 +5452,7 @@
     "q": "In 'Pretty Woman', what was the genuine security protocol for the multi-million dollar diamond and ruby necklace Vivian wears to the opera?",
     "options": [
       "An armed security guard stood behind director Garry Marshall during filming",
-      "Julia Roberts was required to sign an hourly insurance indemnity waiver",
+      "The original julia Roberts was required to sign an hourly insurance indemnity waiver",
       "It was kept in a mobile armored bank vault parked outside",
       "A jeweler was handcuffed to the sound technician"
     ],
@@ -5487,7 +5487,7 @@
     "show": "Romantic Comedies",
     "q": "In 'Palm Springs', over how many days was the high-concept sci-fi romantic comedy filmed in Santa Clarita, California?",
     "options": [
-      "10 days",
+      "10 days of principal photography",
       "45 days",
       "21 days",
       "60 days"
@@ -5619,7 +5619,7 @@
     "show": "Romantic Comedies",
     "q": "In 'Sleepless in Seattle', which iconic building's management was initially reluctant to let Nora Ephron film the heart-shaped rooftop lighting?",
     "options": [
-      "The Chrysler Building",
+      "The original Chrysler Building",
       "The Space Needle",
       "The Empire State Building",
       "Rockefeller Center"
@@ -5656,7 +5656,7 @@
     "q": "In 'The Princess Bride', which member of the cast suffered from severe back pain and could not lift Cary Elwes, requiring a hidden cable harness?",
     "options": [
       "Pat Roach",
-      "Wallace Shawn",
+      "Actor Wallace Shawn",
       "Andre the Giant",
       "Peter Cook"
     ],
@@ -5801,7 +5801,7 @@
     "options": [
       "Director Roger Michell",
       "Screenwriter Richard Curtis",
-      "Producer Duncan Kenworthy",
+      "The original producer Duncan Kenworthy",
       "Hugh Grant's brother"
     ],
     "answer": 1,
@@ -5824,7 +5824,7 @@
     "q": "In 'Bridget Jones's Diary', which real-life author and friend of Helen Fielding has a brief speaking cameo at the book launch party?",
     "options": [
       "Martin Amis",
-      "Julian Barnes",
+      "Screenwriter Julian Barnes",
       "Salman Rushdie",
       "Ian McEwan"
     ],
@@ -5859,7 +5859,7 @@
     "show": "Romantic Comedies",
     "q": "In 'Pretty Woman', what trick did Garry Marshall use to get Julia Roberts to laugh hysterically in the scene where she watches 'I Love Lucy' on the floor?",
     "options": [
-      "He had Richard Gere dance in his boxers behind the monitor",
+      "The original he had Richard Gere dance in his boxers behind the monitor",
       "Marshall stood just off-camera and physically tickled her feet",
       "He told crude backstage jokes through a megaphone",
       "He made funny faces wearing a giant clown wig"
@@ -5884,7 +5884,7 @@
     "q": "In 'Amélie', what Parisian cafe where Amélie works as a waitress became a major tourist pilgrimage site following the film's release?",
     "options": [
       "Café de la Paix",
-      "Café de Flore in Saint-Germain",
+      "The original café de Flore in Saint-Germain",
       "Les Deux Magots",
       "Café des 2 Moulins in Montmartre"
     ],
@@ -5919,7 +5919,7 @@
     "show": "Romantic Comedies",
     "q": "In 'Palm Springs', what real-life quantum physics consultant reviewed Andy Siara's screenplay to ensure the cave's time-loop theory sounded scientifically plausible?",
     "options": [
-      "Sean Carroll, theoretical physicist at Caltech",
+      "The original sean Carroll, theoretical physicist at Caltech",
       "Neil deGrasse Tyson, astrophysicist",
       "Brian Greene, string theorist at Columbia",
       "Clifford Johnson, theoretical physicist at USC"
@@ -5993,7 +5993,7 @@
     "options": [
       "Glenn Close",
       "Geena Davis",
-      "Meryl Streep",
+      "Musician Meryl Streep",
       "Sigourney Weaver"
     ],
     "answer": 3,

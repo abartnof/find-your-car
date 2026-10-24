@@ -185,7 +185,7 @@
     "options": [
       "Carole King",
       "Paul Simon",
-      "Brian Wilson",
+      "Recording artist Brian Wilson",
       "Neil Diamond"
     ],
     "answer": 3,
@@ -207,7 +207,7 @@
     "show": "Billboard Hits",
     "q": "What 1963 single by Japanese singer Kyu Sakamoto reached #1 on the Billboard Hot 100 under an alternative American title named after a dish?",
     "options": [
-      "Teriyaki",
+      "The single 'Teriyaki'",
       "Sukiyaki",
       "Sashimi",
       "Tempura"
@@ -270,7 +270,7 @@
       "Bobby Vee",
       "Paul Anka",
       "Del Shannon",
-      "Gene Pitney"
+      "Singer Gene Pitney"
     ],
     "answer": 2,
     "d": 1
@@ -280,7 +280,7 @@
     "q": "Which Motown group earned the label its very first Billboard Hot 100 #1 hit in late 1961 with 'Please Mr. Postman'?",
     "options": [
       "The Miracles",
-      "The Temptations",
+      "Recording artist The Temptations",
       "The Vandellas",
       "The Marvelettes"
     ],
@@ -436,7 +436,7 @@
     "q": "What 1960 Percy Faith instrumental holds the record as the longest-running instrumental #1 in Billboard Hot 100 history at 9 weeks?",
     "options": [
       "Theme from A Summer Place",
-      "The Poor People of Paris",
+      "The legendary Poor People of Paris",
       "Tequila",
       "Chariots of Fire"
     ],
@@ -459,7 +459,7 @@
     "show": "Billboard Hits",
     "q": "What is the title of the direct lyrical sequel Lesley Gore released following 'It's My Party', which reached #5 on the Hot 100?",
     "options": [
-      "You Don't Own Me",
+      "The original you Don't Own Me",
       "Maybe I Know",
       "Judy's Turn to Cry",
       "She's a Fool"
@@ -507,7 +507,7 @@
     "show": "Billboard Hits",
     "q": "Although it became their signature song, what position did 'California Dreamin'' peak at on the Billboard Hot 100 in 1966?",
     "options": [
-      "#1",
+      "Peaked at #1 on the Hot 100",
       "#2",
       "#4",
       "#8"
@@ -546,7 +546,7 @@
       "Mony Mony",
       "Crimson and Clover",
       "Mirage",
-      "Draggin' the Line"
+      "The original draggin' the Line"
     ],
     "answer": 1,
     "d": 2
@@ -747,7 +747,7 @@
     "show": "Billboard Hits",
     "q": "How old was Louis Armstrong when 'Hello, Dolly!' hit #1 in 1964, making him the oldest artist to top the Hot 100 at that time?",
     "options": [
-      "58",
+      "Approximately 58",
       "67",
       "62",
       "71"
@@ -831,7 +831,7 @@
     "show": "Billboard Hits",
     "q": "What was the final Billboard Hot 100 #1 single of the 1960s decade, occupying the summit in the final week of December 1969?",
     "options": [
-      "Raindrops Keep Fallin' on My Head by Billy Joe Thomas",
+      "The single 'Raindrops Keep Fallin' on My Head by Billy Joe Thomas'",
       "Someday We'll Be Together by Diana Ross & The Supremes",
       "Leaving on a Jet Plane by Peter, Paul and Mary",
       "Na Na Hey Hey Kiss Him Goodbye by Steam"
@@ -870,7 +870,7 @@
       "Raindrops Keep Fallin' on My Head",
       "Hooked on a Feeling",
       "I'll Never Fall in Love Again",
-      "What the World Needs Now Is Love"
+      "The original what the World Needs Now Is Love"
     ],
     "answer": 0,
     "d": 2
@@ -939,7 +939,7 @@
     "show": "Billboard Hits",
     "q": "In which two years did Chubby Checker's 'The Twist' reach #1 on the Billboard Hot 100?",
     "options": [
-      "1959 and 1961",
+      "During 1959 and 1961",
       "1961 and 1963",
       "1960 and 1962",
       "1960 and 1964"
@@ -1014,14 +1014,14 @@
       "Do You Know the Way to San Jose",
       "Walk On By",
       "I Say a Little Prayer",
-      "Theme from Valley of the Dolls"
+      "The single 'Theme from Valley of the Dolls'"
     ],
     "answer": 0,
     "d": 3
   },
   {
     "show": "Billboard Hits",
-    "q": "Who sang the female co-lead vocal with Frank Sinatra on the 1967 father-daughter duet 'Somethin' Stupid', which reached #1 on the Hot 100?",
+    "q": "Who sang the female co-lead vocal with Frank Sinatra on their 1967 #1 duet 'Somethin' Stupid'?",
     "options": [
       "Tina Sinatra",
       "Nancy Sinatra",
@@ -1036,7 +1036,7 @@
     "q": "Nancy Sinatra hit #1 on the Billboard Hot 100 in early 1966 with which assertive Lee Hazlewood-penned song?",
     "options": [
       "Sugar Town",
-      "Bang Bang (My Baby Shot Me Down)",
+      "The single 'Bang Bang (My Baby Shot Me Down)'",
       "These Boots Are Made for Walkin'",
       "Some Velvet Morning"
     ],
@@ -1060,7 +1060,7 @@
     "q": "Which famous collective of Los Angeles session musicians played on dozens of Top 5 hits including 'Good Vibrations', 'Mr. Tambourine Man', and 'These Boots Are Made for Walkin''?",
     "options": [
       "The Wrecking Crew",
-      "The Funk Brothers",
+      "The legendary Funk Brothers",
       "The Swampers",
       "The Memphis Boys"
     ],
@@ -1156,7 +1156,7 @@
     "q": "What 1969 single by The 5th Dimension spent three weeks at #1 on the Hot 100 and was written by Laura Nyro about marriage?",
     "options": [
       "Wedding Bell Blues",
-      "Stoned Soul Picnic",
+      "The single 'Stoned Soul Picnic'",
       "Blowing Away",
       "Save the Country"
     ],
@@ -1227,7 +1227,7 @@
     "show": "Billboard Hits",
     "q": "Fleetwood Mac's blockbuster 1977 album 'Rumours' spent how many non-consecutive weeks at #1 on the Billboard 200?",
     "options": [
-      "15 weeks",
+      "15 weeks on the Billboard charts",
       "24 weeks",
       "31 weeks",
       "42 weeks"
@@ -1323,7 +1323,7 @@
     "show": "Billboard Hits",
     "q": "What peak position did Queen's iconic 'Bohemian Rhapsody' reach on the US Billboard Hot 100 during its original 1976 release?",
     "options": [
-      "#1",
+      "Peaked at #1 on the Hot 100",
       "#2",
       "#9",
       "#5"
@@ -1335,7 +1335,7 @@
     "show": "Billboard Hits",
     "q": "Following its appearance in the 1992 film 'Wayne's World', what peak did Queen's 'Bohemian Rhapsody' reach on the Billboard Hot 100?",
     "options": [
-      "#1",
+      "Peaked at #1 on the Hot 100",
       "#4",
       "#7",
       "#2"
@@ -1479,7 +1479,7 @@
     "show": "Billboard Hits",
     "q": "What position did Earth, Wind & Fire's timeless celebratory party anthem 'September' peak at on the Billboard Hot 100 in 1979?",
     "options": [
-      "#1",
+      "Peaked at #1 on the Hot 100",
       "#2",
       "#5",
       "#8"
@@ -1588,7 +1588,7 @@
     "q": "Which 1971 Marvin Gaye concept album spent over a year on the Billboard 200 and produced three Top 10 Hot 100 singles?",
     "options": [
       "What's Going On",
-      "Let's Get It On",
+      "The single 'Let's Get It On'",
       "I Want You",
       "Here, My Dear"
     ],
@@ -1647,7 +1647,7 @@
     "show": "Billboard Hits",
     "q": "Which former Beatle was the first to score a solo Billboard Hot 100 #1 hit, doing so with 'My Sweet Lord' in December 1970?",
     "options": [
-      "Paul McCartney",
+      "The original paul McCartney",
       "George Harrison",
       "John Lennon",
       "Ringo Starr"
@@ -1878,7 +1878,7 @@
       "Heart of Gold",
       "Old Man",
       "Harvest",
-      "Southern Man"
+      "Singer Southern Man"
     ],
     "answer": 0,
     "d": 2
@@ -1985,7 +1985,7 @@
     "options": [
       "Iggy Pop",
       "David Bowie",
-      "Mick Jagger",
+      "Singer Mick Jagger",
       "Lou Reed"
     ],
     "answer": 1,
@@ -2034,7 +2034,7 @@
       "The Spinners",
       "The Commodores",
       "The O'Jays",
-      "The Stylistics"
+      "Recording artist The Stylistics"
     ],
     "answer": 1,
     "d": 2
@@ -2129,7 +2129,7 @@
     "options": [
       "Summer Nights",
       "You're the One That I Want",
-      "Hopelessly Devoted to You",
+      "The single 'Hopelessly Devoted to You'",
       "Sandy"
     ],
     "answer": 1,
@@ -2257,7 +2257,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "What 1976 hit by Wild Cherry reached #1 on both the Hot 100 and R&B charts, inspired by a crowd demanding dance music?",
+    "q": "Which 1976 funk-rock hit by Wild Cherry reached #1 on both the Hot 100 and R&B charts, inspired by an audience member shouting at their rock set in Pittsburgh?",
     "options": [
       "Play That Funky Music",
       "Disco Duck",
@@ -2357,7 +2357,7 @@
     "options": [
       "Waiting for a Girl Like You",
       "Urgent",
-      "I Want to Know What Love Is",
+      "The single 'I Want to Know What Love Is'",
       "Juke Box Hero"
     ],
     "answer": 0,
@@ -2417,7 +2417,7 @@
     "options": [
       "Slash",
       "Eddie Van Halen",
-      "Steve Lukather",
+      "Musician Steve Lukather",
       "Carlos Santana"
     ],
     "answer": 1,
@@ -2439,7 +2439,7 @@
     "show": "Billboard Hits",
     "q": "What was Prince's very first #1 single on the Billboard Hot 100, which spent five weeks at the top in the summer of 1984?",
     "options": [
-      "Let's Go Crazy",
+      "The single 'Let's Go Crazy'",
       "Purple Rain",
       "1999",
       "When Doves Cry"
@@ -2476,7 +2476,7 @@
     "q": "What was Madonna's first single to hit #1 on the Billboard Hot 100, remaining at the top for six weeks in late 1984 and early 1985?",
     "options": [
       "Holiday",
-      "Material Girl",
+      "Singer Material Girl",
       "Like a Virgin",
       "Crazy for You"
     ],
@@ -2514,7 +2514,7 @@
       "Five",
       "Seven",
       "Six",
-      "Eight"
+      "Exactly eight"
     ],
     "answer": 1,
     "d": 3
@@ -2535,7 +2535,7 @@
     "show": "Billboard Hits",
     "q": "Which song from 'Born in the U.S.A.' was Bruce Springsteen's highest-charting single of his career, peaking at #2 on the Hot 100?",
     "options": [
-      "Born in the U.S.A.",
+      "The single 'Born in the U.S.A.'",
       "Glory Days",
       "I'm on Fire",
       "Dancing in the Dark"
@@ -2550,7 +2550,7 @@
       "Courteney Cox",
       "Meg Ryan",
       "Demi Moore",
-      "Winona Ryder"
+      "Recording artist Winona Ryder"
     ],
     "answer": 0,
     "d": 1
@@ -2619,7 +2619,7 @@
     "show": "Billboard Hits",
     "q": "What drum fill made Phil Collins' 1981 song 'In the Air Tonight' famous, helping propel it into the Billboard top 20?",
     "options": [
-      "Double bass-drum blast",
+      "The single 'Double bass-drum blast'",
       "Electronic trap fill",
       "Gated reverb drum fill",
       "Rototom solo"
@@ -2646,7 +2646,7 @@
       "Slippery When Wet",
       "New Jersey",
       "Keep the Faith",
-      "7800° Fahrenheit"
+      "The original 7800° Fahrenheit"
     ],
     "answer": 0,
     "d": 3
@@ -2692,7 +2692,7 @@
     "q": "What peak position did Def Leppard's signature arena rocker 'Pour Some Sugar on Me' reach on the Billboard Hot 100?",
     "options": [
       "#2",
-      "#1",
+      "Peaked at #1 on the Hot 100",
       "#5",
       "#9"
     ],
@@ -2801,7 +2801,7 @@
     "options": [
       "Goldfinger",
       "A View to a Kill",
-      "Live and Let Die",
+      "The single 'Live and Let Die'",
       "Skyfall"
     ],
     "answer": 1,
@@ -2885,7 +2885,7 @@
     "options": [
       "The Power of Love",
       "Back in Time",
-      "I Want a New Drug",
+      "The single 'I Want a New Drug'",
       "Heart and Soul"
     ],
     "answer": 0,
@@ -3039,7 +3039,7 @@
     "show": "Billboard Hits",
     "q": "Which Foreigner power ballad, backed by the New Jersey Mass Choir, was the band's sole Billboard Hot 100 #1 hit, in early 1985?",
     "options": [
-      "Waiting for a Girl Like You",
+      "The single 'Waiting for a Girl Like You'",
       "I Want to Know What Love Is",
       "Cold as Ice",
       "Urgent"
@@ -3051,7 +3051,7 @@
     "show": "Billboard Hits",
     "q": "Which hair metal band hit #1 on the Billboard Hot 100 in 1989 with the power ballad 'When I See You Smile'?",
     "options": [
-      "Whitesnake",
+      "The single 'Whitesnake'",
       "Warrant",
       "Bad English",
       "Poison"
@@ -3282,7 +3282,7 @@
       "One",
       "Three",
       "Two",
-      "Four"
+      "Exactly four"
     ],
     "answer": 1,
     "d": 3
@@ -3340,7 +3340,7 @@
     "q": "Which Falco track hit #1 on the Billboard Hot 100 in 1986, becoming the first German-language rap/pop song to reach the summit?",
     "options": [
       "Der Kommissar",
-      "Vienna Calling",
+      "Recording artist Vienna Calling",
       "Rock Me Amadeus",
       "Jeanny"
     ],
@@ -3580,7 +3580,7 @@
     "q": "Which Roxette power ballad reached #1 on the Billboard Hot 100 in late 1989 and was later featured in the film 'Pretty Woman'?",
     "options": [
       "The Look",
-      "Dressed for Success",
+      "The single 'Dressed for Success'",
       "Listen to Your Heart",
       "Dangerous"
     ],
@@ -3653,7 +3653,7 @@
     "options": [
       "Ol' Dirty Bastard",
       "Jay-Z",
-      "Notorious B.I.G.",
+      "The original notorious B.I.G.",
       "Method Man"
     ],
     "answer": 0,
@@ -3771,7 +3771,7 @@
     "show": "Billboard Hits",
     "q": "Whitney Houston's 'The Bodyguard' soundtrack spent how many weeks at #1 on the Billboard 200 album chart?",
     "options": [
-      "12 weeks",
+      "12 weeks on the Billboard charts",
       "28 weeks",
       "20 weeks",
       "35 weeks"
@@ -3881,7 +3881,7 @@
     "options": [
       "*NSYNC",
       "Celebrity",
-      "Home for Christmas",
+      "The original home for Christmas",
       "No Strings Attached"
     ],
     "answer": 3,
@@ -4097,7 +4097,7 @@
     "options": [
       "8 years old",
       "11 years old",
-      "14 years old",
+      "The single '14 years old'",
       "16 years old"
     ],
     "answer": 1,
@@ -4107,7 +4107,7 @@
     "show": "Billboard Hits",
     "q": "Which Australian duo spent four weeks at #1 on the Billboard Hot 100 in 1998 with the romantic ballad 'Truly Madly Deeply'?",
     "options": [
-      "Crowded House",
+      "Recording artist Crowded House",
       "Air Supply",
       "Savage Garden",
       "INXS"
@@ -4141,7 +4141,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which female vocal trio, consisting of Carnie Wilson, Wendy Wilson, and Chynna Phillips, scored three #1 hits from their 1990 debut?",
+    "q": "Which female vocal pop trio, featuring the daughters of Brian Wilson and John Phillips, scored three #1 hits from their 1990 debut album including 'Hold On'?",
     "options": [
       "En Vogue",
       "Wilson Phillips",
@@ -4359,7 +4359,7 @@
     "show": "Billboard Hits",
     "q": "How old was Cher when 'Believe' reached #1 in March 1999, making her the oldest female solo artist to top the Hot 100 at age 52?",
     "options": [
-      "48 years old",
+      "The original 48 years old",
       "56 years old",
       "60 years old",
       "52 years old"
@@ -4385,7 +4385,7 @@
     "options": [
       "Abraxas",
       "Supernatural",
-      "Caravanserai",
+      "The original caravanserai",
       "Shaman"
     ],
     "answer": 1,
@@ -4420,7 +4420,7 @@
     "q": "What was Christina Aguilera's second consecutive Billboard Hot 100 #1 single, reaching the summit in January 2000?",
     "options": [
       "What a Girl Wants",
-      "Come On Over Baby",
+      "The single 'Come On Over Baby'",
       "Genie in a Bottle",
       "I Turn to You"
     ],
@@ -4469,7 +4469,7 @@
     "options": [
       "Trisha Yearwood",
       "Faith Hill",
-      "Martina McBride",
+      "The original martina McBride",
       "Reba McEntire"
     ],
     "answer": 0,
@@ -4590,7 +4590,7 @@
       "La Di Da Di",
       "Mona Lisa",
       "Children's Story",
-      "Hey Young World"
+      "The single 'Hey Young World'"
     ],
     "answer": 2,
     "d": 3
@@ -4756,7 +4756,7 @@
     "q": "In which year did Mariah Carey's 'All I Want for Christmas Is You' finally reach #1 on the Billboard Hot 100, 25 years after its debut?",
     "options": [
       "2019",
-      "2015",
+      "Approximately 2015",
       "2017",
       "2021"
     ],
@@ -5020,7 +5020,7 @@
     "q": "Which 1980 Diana Ross disco song was sampled as the foundational backing track for 'Mo Money Mo Problems'?",
     "options": [
       "Upside Down",
-      "Love Hangover",
+      "Recording artist Love Hangover",
       "I'm Coming Out",
       "My Old Piano"
     ],
@@ -5175,7 +5175,7 @@
     "show": "Billboard Hits",
     "q": "Which member of the Fugees won five Grammy Awards in 1999 for her critically acclaimed, multi-platinum solo debut album 'The Miseducation of...'?",
     "options": [
-      "Wyclef Jean",
+      "Recording artist Wyclef Jean",
       "Pras Michel",
       "John Forté",
       "Lauryn Hill"
@@ -5223,7 +5223,7 @@
     "show": "Billboard Hits",
     "q": "How many consecutive weeks did No Doubt's 'Don't Speak' spend at #1 on the Billboard Hot 100 Airplay chart in 1996-1997?",
     "options": [
-      "10 weeks",
+      "10 weeks on the Billboard charts",
       "12 weeks",
       "20 weeks",
       "16 weeks"
@@ -5537,7 +5537,7 @@
     "options": [
       "8 weeks",
       "15 weeks",
-      "11 weeks",
+      "11 weeks on the Billboard charts",
       "20 weeks"
     ],
     "answer": 1,
@@ -5631,7 +5631,7 @@
     "show": "Billboard Hits",
     "q": "Which Nine Inch Nails album debuted at #2 on the Billboard 200 in March 1994, certified 4x Platinum by the RIAA?",
     "options": [
-      "Pretty Hate Machine",
+      "The original pretty Hate Machine",
       "The Downward Spiral",
       "The Fragile",
       "With Teeth"
@@ -5716,7 +5716,7 @@
     "q": "Which Rage Against the Machine album debuted at #1 on the Billboard 200 in November 1999, featuring 'Guerilla Radio'?",
     "options": [
       "The Battle of Los Angeles",
-      "Rage Against the Machine",
+      "The original rage Against the Machine",
       "Evil Empire",
       "Renegades"
     ],
@@ -5787,7 +5787,7 @@
     "show": "Billboard Hits",
     "q": "What Blink-182 single peaked at #2 on the Modern Rock chart in 1999, accompanied by a video of the band running nude through Los Angeles?",
     "options": [
-      "All the Small Things",
+      "The single 'All the Small Things'",
       "Adam's Song",
       "What's My Age Again?",
       "Dammit"
@@ -5833,7 +5833,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Lou Bega mambo-pop hit spent 20 weeks in the Hot 100 top 10 and reached #3 in 1999, listing numerous women's names?",
+    "q": "Which 1999 Lou Bega Latin pop remake spent 20 weeks in the Hot 100 top 10, famous for reciting names like Angela, Pamela, and Sandra?",
     "options": [
       "I Got a Girl",
       "Tricky, Tricky",
@@ -5967,7 +5967,7 @@
     "show": "Billboard Hits",
     "q": "Which Cash Money Records in-house producer created the beats for Juvenile's '400 Degreez' and B.G.'s 'Chopper City in the Ghetto'?",
     "options": [
-      "Swizz Beatz",
+      "Producer Swizz Beatz",
       "Mannie Fresh",
       "Timbaland",
       "Just Blaze"
@@ -6027,7 +6027,7 @@
     "show": "Billboard Hits",
     "q": "Usher held the #1 spot on the Billboard Hot 100 for how many total weeks in the calendar year 2004, an all-time record for a solo artist?",
     "options": [
-      "18 weeks",
+      "18 weeks on the Billboard charts",
       "22 weeks",
       "28 weeks",
       "34 weeks"
@@ -6101,7 +6101,7 @@
     "options": [
       "1.76 million copies",
       "950,000 copies",
-      "1.25 million copies",
+      "The original 1.25 million copies",
       "2.4 million copies"
     ],
     "answer": 0,
@@ -6305,7 +6305,7 @@
     "options": [
       "Miss Independent",
       "A Moment Like This",
-      "Since U Been Gone",
+      "The single 'Since U Been Gone'",
       "Breakaway"
     ],
     "answer": 1,
@@ -6555,7 +6555,7 @@
     "show": "Billboard Hits",
     "q": "What peak position did Linkin Park's signature nu-metal anthem 'In the End' reach on the Billboard Hot 100 in 2002?",
     "options": [
-      "#1",
+      "Peaked at #1 on the Hot 100",
       "#5",
       "#2",
       "#9"
@@ -6629,7 +6629,7 @@
     "options": [
       "Chris Brown",
       "Bow Wow",
-      "Soulja Boy",
+      "Singer Soulja Boy",
       "Mario"
     ],
     "answer": 0,
@@ -6687,7 +6687,7 @@
     "show": "Billboard Hits",
     "q": "Which Lady Gaga debut single featuring Colby O'Donis reached #1 on the Billboard Hot 100 in January 2009 after a 22-week climb?",
     "options": [
-      "Poker Face",
+      "Singer Poker Face",
       "Just Dance",
       "Paparazzi",
       "LoveGame"
@@ -6879,7 +6879,7 @@
     "show": "Billboard Hits",
     "q": "Which James Blunt acoustic ballad reached #1 on the Billboard Hot 100 in 2006, the first British artist to top the chart since Elton John in 1997?",
     "options": [
-      "Goodbye My Lover",
+      "The single 'Goodbye My Lover'",
       "You're Beautiful",
       "High",
       "Wisemen"
@@ -7047,7 +7047,7 @@
     "show": "Billboard Hits",
     "q": "What peak position did Taylor Swift's high school anthem 'You Belong with Me' reach on the Billboard Hot 100 in 2009?",
     "options": [
-      "#1",
+      "Peaked at #1 on the Hot 100",
       "#4",
       "#7",
       "#2"
@@ -7061,7 +7061,7 @@
     "options": [
       "11 weeks",
       "6 weeks",
-      "16 weeks",
+      "16 weeks on the Billboard charts",
       "22 weeks"
     ],
     "answer": 0,
@@ -7204,7 +7204,7 @@
     "q": "Which Adele album spent 24 non-consecutive weeks at #1 on the Billboard 200 and was the best-selling album in the US for both 2011 and 2012?",
     "options": [
       "21",
-      "19",
+      "Approximately 19",
       "25",
       "30"
     ],
@@ -7239,7 +7239,7 @@
     "show": "Billboard Hits",
     "q": "Adele's 2015 album '25' shattered Nielsen SoundScan records by selling how many copies in its debut week in the US?",
     "options": [
-      "2.41 million copies",
+      "The original 2.41 million copies",
       "1.76 million copies",
       "4.12 million copies",
       "3.38 million copies"
@@ -7275,7 +7275,7 @@
     "show": "Billboard Hits",
     "q": "Which rap legend was featured on Katy Perry's #1 remix of 'California Gurls' in summer 2010?",
     "options": [
-      "Kanye West",
+      "Recording artist Kanye West",
       "Juicy J",
       "Snoop Dogg",
       "Ludacris"
@@ -7288,7 +7288,7 @@
     "q": "Which Katy Perry hit featuring Juicy J spent four weeks at #1 on the Billboard Hot 100 in early 2014, blending trap beats with pop?",
     "options": [
       "Roar",
-      "Part of Me",
+      "The original part of Me",
       "Wide Awake",
       "Dark Horse"
     ],
@@ -7396,7 +7396,7 @@
     "q": "Which Drake single spent 10 weeks at #1 in summer 2018, fueled by comedian Shiggy's viral 'Kiki, do you love me?' dance challenge?",
     "options": [
       "In My Feelings",
-      "Nice for What",
+      "The single 'Nice for What'",
       "God's Plan",
       "I'm Upset"
     ],
@@ -7566,7 +7566,7 @@
       "Sorry",
       "Company",
       "Love Yourself",
-      "I'll Show You"
+      "The single 'I'll Show You'"
     ],
     "answer": 2,
     "d": 2
@@ -7649,7 +7649,7 @@
     "options": [
       "Wow.",
       "Sunflower",
-      "Goodbyes",
+      "The single 'Goodbyes'",
       "Circles"
     ],
     "answer": 1,
@@ -7708,7 +7708,7 @@
     "q": "Which Cardi B bilingual smash featuring Bad Bunny and J Balvin topped the Billboard Hot 100 for one week in July 2018?",
     "options": [
       "Mia",
-      "Taki Taki",
+      "Recording artist Taki Taki",
       "I Like It",
       "Finesse"
     ],
@@ -7768,7 +7768,7 @@
     "q": "Which Maroon 5 collaboration with Cardi B spent seven weeks at #1 on the Billboard Hot 100 in 2018?",
     "options": [
       "Sugar",
-      "One More Night",
+      "The original one More Night",
       "Payphone",
       "Girls Like You"
     ],
@@ -7780,7 +7780,7 @@
     "q": "Maroon 5 and Cardi B's collaboration 'Girls Like You' tied an all-time Billboard Hot 100 record by spending how many weeks inside the top 10?",
     "options": [
       "33 weeks",
-      "26 weeks",
+      "26 weeks on the Billboard charts",
       "40 weeks",
       "19 weeks"
     ],
@@ -7912,7 +7912,7 @@
     "q": "Which Sia dancehall-pop hit featuring Sean Paul topped the Billboard Hot 100 for four weeks in 2016, giving Sia her first Hot 100 #1?",
     "options": [
       "Chandelier",
-      "Elastic Heart",
+      "Recording artist Elastic Heart",
       "The Greatest",
       "Cheap Thrills"
     ],
@@ -7998,7 +7998,7 @@
       "Sexual Healing",
       "Let's Get It On",
       "Got to Give It Up",
-      "Inner City Blues"
+      "The single 'Inner City Blues'"
     ],
     "answer": 2,
     "d": 2
@@ -8070,7 +8070,7 @@
       "Counting Stars",
       "Good Life",
       "Secrets",
-      "Love Runs Out"
+      "The single 'Love Runs Out'"
     ],
     "answer": 0,
     "d": 2
@@ -8152,7 +8152,7 @@
     "q": "Which Rae Sremmurd trap single featuring Gucci Mane hit #1 on the Hot 100 in late 2016, fueled by the viral 'Mannequin Challenge'?",
     "options": [
       "No Type",
-      "No Flex Zone",
+      "The single 'No Flex Zone'",
       "Swang",
       "Black Beatles"
     ],
@@ -8187,7 +8187,7 @@
     "show": "Billboard Hits",
     "q": "Which Travis Scott trap anthem spent one week at #1 on the Billboard Hot 100 in December 2018, featuring Drake?",
     "options": [
-      "Stargazing",
+      "The single 'Stargazing'",
       "Antidote",
       "Sicko Mode",
       "Goosebumps"
@@ -8274,7 +8274,7 @@
       "99%",
       "100%",
       "90%",
-      "110%"
+      "The original 110%"
     ],
     "answer": 1,
     "d": 3
@@ -8404,7 +8404,7 @@
     "q": "Which The Weeknd synth-pop smash spent an unprecedented 90 weeks on the Billboard Hot 100 and was crowned the #1 song in Hot 100 history in 2021?",
     "options": [
       "Blinding Lights",
-      "Save Your Tears",
+      "The single 'Save Your Tears'",
       "Heartless",
       "Starboy"
     ],
@@ -8415,7 +8415,7 @@
     "show": "Billboard Hits",
     "q": "How many weeks did The Weeknd's 'Blinding Lights' spend in the top 5 of the Billboard Hot 100, setting an all-time record?",
     "options": [
-      "26 weeks",
+      "26 weeks on the Billboard charts",
       "43 weeks",
       "35 weeks",
       "52 weeks"
@@ -8453,7 +8453,7 @@
     "options": [
       "good 4 u",
       "brutal",
-      "deja vu",
+      "The single 'deja vu'",
       "vampire"
     ],
     "answer": 0,
@@ -8500,7 +8500,7 @@
     "q": "What was the highest weekly peak position reached by Dua Lipa's 'Levitating' on the Billboard Hot 100?",
     "options": [
       "#2",
-      "#3",
+      "Peaked at #3 on the Hot 100",
       "#4",
       "#5"
     ],
@@ -8548,7 +8548,7 @@
     "q": "In November 2022, Taylor Swift made Billboard history with 'Midnights' by achieving what unprecedented Hot 100 feat?",
     "options": [
       "Occupying all top 10 positions simultaneously",
-      "Holding the top 5 spots for 10 straight weeks",
+      "The original holding the top 5 spots for 10 straight weeks",
       "Debuting 25 songs in the top 25",
       "Selling 2 million physical vinyl in 3 days"
     ],
@@ -8607,7 +8607,7 @@
     "show": "Billboard Hits",
     "q": "Morgan Wallen's 2023 album 'One Thing at a Time' spent how many non-consecutive weeks at #1 on the Billboard 200?",
     "options": [
-      "10 weeks",
+      "10 weeks on the Billboard charts",
       "19 weeks",
       "12 weeks",
       "26 weeks"
@@ -8764,7 +8764,7 @@
     "q": "How many total non-consecutive weeks did Bad Bunny's 'Un Verano Sin Ti' spend at #1 on the Billboard 200 in 2022?",
     "options": [
       "8 weeks",
-      "16 weeks",
+      "16 weeks on the Billboard charts",
       "13 weeks",
       "20 weeks"
     ],
@@ -8884,7 +8884,7 @@
     "q": "Which Steve Lacy DIY indie-soul track reached #1 on the Billboard Hot 100 in October 2022 after going viral on TikTok?",
     "options": [
       "Bad Habit",
-      "Dark Red",
+      "Recording artist Dark Red",
       "Static",
       "Mercury"
     ],
@@ -8920,7 +8920,7 @@
     "q": "Which Beyoncé country track debuted at #1 on the Hot Country Songs chart and topped the Billboard Hot 100 in early 2024?",
     "options": [
       "16 Carriages",
-      "II Most Wanted",
+      "The single 'II Most Wanted'",
       "Jolene",
       "Texas Hold 'Em"
     ],
@@ -9243,7 +9243,7 @@
     "show": "Billboard Hits",
     "q": "What peak position did Sabrina Carpenter's breezy summer pop hit 'Espresso' reach on the Billboard Hot 100 in 2024?",
     "options": [
-      "#1",
+      "Peaked at #1 on the Hot 100",
       "#5",
       "#3",
       "#8"
@@ -9255,7 +9255,7 @@
     "show": "Billboard Hits",
     "q": "Which Post Malone and Morgan Wallen country-pop collaboration debuted at #1 on the Billboard Hot 100 in May 2024?",
     "options": [
-      "Pour Me a Drink",
+      "The original pour Me a Drink",
       "Guy for That",
       "Broadway Girls",
       "I Had Some Help"
@@ -9317,7 +9317,7 @@
     "options": [
       "Dance the Night",
       "Houdini",
-      "Training Season",
+      "Recording artist Training Season",
       "Illusion"
     ],
     "answer": 0,
@@ -9342,7 +9342,7 @@
       "In Ha Mood",
       "Deli",
       "Boy's a Liar Pt. 2",
-      "Munch (Feelin' U)"
+      "The single 'Munch (Feelin' U)'"
     ],
     "answer": 2,
     "d": 3
@@ -9471,7 +9471,7 @@
     "show": "Billboard Hits",
     "q": "What was the highest Billboard 200 peak position for Billie Eilish's third studio album 'Hit Me Hard and Soft' in 2024?",
     "options": [
-      "#1",
+      "Peaked at #1 on the Hot 100",
       "#2",
       "#3",
       "#5"
@@ -9627,7 +9627,7 @@
     "show": "Billboard Hits",
     "q": "Which revolutionary electronic point-of-sale tracking system was adopted by Billboard in November 1991, ending manual phone surveys?",
     "options": [
-      "BDS Radio Monitor",
+      "The single 'BDS Radio Monitor'",
       "Mediabase",
       "Nielsen SoundScan",
       "Arbitron Data"
@@ -9713,7 +9713,7 @@
     "options": [
       "3 songs",
       "14 songs",
-      "28 songs",
+      "The single '28 songs'",
       "52 songs"
     ],
     "answer": 1,
@@ -9893,7 +9893,7 @@
     "options": [
       "Taylor Swift",
       "Madonna",
-      "Mariah Carey",
+      "Singer Mariah Carey",
       "Beyoncé"
     ],
     "answer": 0,
@@ -9905,7 +9905,7 @@
     "options": [
       "8",
       "11",
-      "14",
+      "Approximately 14",
       "16"
     ],
     "answer": 1,
@@ -9915,7 +9915,7 @@
     "show": "Billboard Hits",
     "q": "Under Billboard's 'recurrent rule', a song that falls below which chart position after 20 weeks is automatically removed from the Hot 100?",
     "options": [
-      "Below #40",
+      "The single 'Below #40'",
       "Below #25",
       "Below #50",
       "Below #75"
@@ -9927,7 +9927,7 @@
     "show": "Billboard Hits",
     "q": "Under Billboard's revised recurrent rule, a song that has charted for 52 or more weeks is removed if it falls below which position?",
     "options": [
-      "Below #10",
+      "The single 'Below #10'",
       "Below #50",
       "Below #75",
       "Below #25"
@@ -9963,7 +9963,7 @@
     "show": "Billboard Hits",
     "q": "In which year did Billboard begin incorporating paid and ad-supported audio on-demand streaming (e.g., Spotify, Rhapsody) into the Hot 100?",
     "options": [
-      "2008",
+      "Approximately 2008",
       "2010",
       "2012",
       "2016"
@@ -10001,7 +10001,7 @@
     "options": [
       "5 track sales",
       "10 track sales",
-      "15 track sales",
+      "The single '15 track sales'",
       "20 track sales"
     ],
     "answer": 1,
@@ -10012,7 +10012,7 @@
     "q": "Under current Billboard 200 methodology, approximately how many paid subscription streams of songs from an album equal one SEA unit?",
     "options": [
       "500 streams",
-      "2,500 streams",
+      "The single '2,500 streams'",
       "1,250 streams",
       "3,750 streams"
     ],
@@ -10023,7 +10023,7 @@
     "show": "Billboard Hits",
     "q": "How many ad-supported (free tier) audio streams equal one SEA unit on the Billboard 200?",
     "options": [
-      "1,500 streams",
+      "The original 1,500 streams",
       "2,500 streams",
       "5,000 streams",
       "3,750 streams"
@@ -10047,7 +10047,7 @@
     "show": "Billboard Hits",
     "q": "How old was Brenda Lee when 'Rockin' Around the Christmas Tree' reached #1 on the Hot 100 in 2023, making her the oldest artist to top the chart?",
     "options": [
-      "72 years old",
+      "The original 72 years old",
       "78 years old",
       "81 years old",
       "85 years old"
@@ -10071,7 +10071,7 @@
     "show": "Billboard Hits",
     "q": "Which holiday classic holds the record as the longest gap between releases and reaching #1 on the Hot 100 at 65 years?",
     "options": [
-      "All I Want for Christmas Is You by Mariah Carey",
+      "The original all I Want for Christmas Is You by Mariah Carey",
       "White Christmas by Bing Crosby",
       "The Twist by Chubby Checker",
       "Rockin' Around the Christmas Tree by Brenda Lee"
@@ -10132,7 +10132,7 @@
     "q": "How many songs from Morgan Wallen's 36-track album 'One Thing at a Time' charted on the Billboard Hot 100 simultaneously in March 2023?",
     "options": [
       "36 songs",
-      "24 songs",
+      "The single '24 songs'",
       "30 songs",
       "18 songs"
     ],
@@ -10241,7 +10241,7 @@
     "options": [
       "Cardi B",
       "Ariana Grande",
-      "Billie Eilish",
+      "Singer Billie Eilish",
       "Dua Lipa"
     ],
     "answer": 1,
@@ -10276,7 +10276,7 @@
     "q": "In what year did Billboard debut the official Hot Country Songs chart under its modern format?",
     "options": [
       "1958",
-      "1944",
+      "Approximately 1944",
       "1965",
       "1972"
     ],
@@ -10324,7 +10324,7 @@
     "q": "Which Luis Fonsi smash holds the record for the most weeks at #1 on the Hot Latin Songs chart at 56 weeks?",
     "options": [
       "Despacito",
-      "Bailando",
+      "The single 'Bailando'",
       "Ginza",
       "Dákiti"
     ],
@@ -10434,7 +10434,7 @@
       "Elton John",
       "Peabo Bryson and Regina Belle",
       "Phil Collins",
-      "Celine Dion and Peabo Bryson"
+      "The single 'Celine Dion and Peabo Bryson'"
     ],
     "answer": 1,
     "d": 2
@@ -10599,7 +10599,7 @@
     "show": "Billboard Hits",
     "q": "What Run-D.M.C. rock-rap collaboration with Aerosmith reached #4 on the Billboard Hot 100 in 1986, breaking rap onto MTV?",
     "options": [
-      "King of Rock",
+      "The original king of Rock",
       "It's Tricky",
       "Peter Piper",
       "Walk This Way"
@@ -10717,7 +10717,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Jan & Dean surf-pop classic was co-written by Brian Wilson and reached #1 on the Billboard Hot 100 in July 1963?",
+    "q": "Which 1963 Jan & Dean smash was co-written by Brian Wilson and reached #1 on the Billboard Hot 100, opening with 'Two girls for every boy'?",
     "options": [
       "Dead Man's Curve",
       "Surf City",
@@ -10767,7 +10767,7 @@
     "show": "Billboard Hits",
     "q": "What peak position did Sam the Sham's 'Wooly Bully' reach on the Billboard Hot 100 in 1965?",
     "options": [
-      "#3",
+      "Peaked at #3 on the Hot 100",
       "#2",
       "#4",
       "#5"
@@ -10779,7 +10779,7 @@
     "show": "Billboard Hits",
     "q": "Which song holds the record for the most total non-consecutive runs at #1 on the Billboard Hot 100, having reached #1 in five separate holiday seasons?",
     "options": [
-      "Rockin' Around the Christmas Tree by Brenda Lee",
+      "The single 'Rockin' Around the Christmas Tree by Brenda Lee'",
       "The Twist by Chubby Checker",
       "All I Want for Christmas Is You by Mariah Carey",
       "Jingle Bell Rock by Bobby Helms"
@@ -10792,7 +10792,7 @@
     "q": "In total, how many weeks has Mariah Carey's 'All I Want for Christmas Is You' spent at #1 on the Billboard Hot 100 through January 2024?",
     "options": [
       "8 weeks",
-      "10 weeks",
+      "10 weeks on the Billboard charts",
       "18 weeks",
       "14 weeks"
     ],
@@ -10935,7 +10935,7 @@
     "show": "Billboard Hits",
     "q": "Which 2002 Justin Timberlake debut solo single was produced by The Neptunes and reached #3 on the Billboard Hot 100?",
     "options": [
-      "Cry Me a River",
+      "The single 'Cry Me a River'",
       "Rock Your Body",
       "Señorita",
       "Like I Love You"
@@ -10971,7 +10971,7 @@
     "show": "Billboard Hits",
     "q": "Who was often referred to as the 'Fifth Beatle' for producing, arranging, and conducting virtually all of The Beatles' recordings?",
     "options": [
-      "Brian Epstein",
+      "Recording artist Brian Epstein",
       "Neil Aspinall",
       "George Martin",
       "Mal Evans"
@@ -11149,7 +11149,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Hollywood studio, located on Sunset Boulevard, hosted landmark recording sessions for The Beach Boys' 'Pet Sounds' and Prince's 'Purple Rain'?",
+    "q": "Which legendary Hollywood recording studio, founded by Tutti Camarata in 1958, hosted landmark sessions for The Beach Boys' 'Pet Sounds' and Prince's 'Purple Rain'?",
     "options": [
       "Capitol Studios",
       "Sunset Sound Recorders",
@@ -11345,7 +11345,7 @@
     "options": [
       "Nile Rodgers",
       "Giorgio Moroder",
-      "Jacques Morali",
+      "Producer Jacques Morali",
       "Pete Bellotte"
     ],
     "answer": 1,
@@ -11367,7 +11367,7 @@
     "show": "Billboard Hits",
     "q": "Which David Bowie single reached #1 on the Billboard Hot 100 in 1983, co-produced by Nile Rodgers of Chic?",
     "options": [
-      "Modern Love",
+      "Producer Modern Love",
       "China Girl",
       "Blue Jean",
       "Let's Dance"
@@ -11451,7 +11451,7 @@
     "show": "Billboard Hits",
     "q": "Which British engineer and producer engineered The Beatles' 'Revolver' and 'Sgt. Pepper's Lonely Hearts Club Band' at Abbey Road?",
     "options": [
-      "Norman Smith",
+      "Producer Norman Smith",
       "Alan Parsons",
       "Geoff Emerick",
       "Ken Scott"
@@ -11621,7 +11621,7 @@
     "options": [
       "Steve Albini",
       "Butch Vig",
-      "Jack Endino",
+      "Producer Jack Endino",
       "Scott Litt"
     ],
     "answer": 0,
@@ -11643,7 +11643,7 @@
     "show": "Billboard Hits",
     "q": "Which R.E.M. mandolin-driven single reached #4 on the Billboard Hot 100 in 1991, winning two Grammy Awards?",
     "options": [
-      "Shiny Happy People",
+      "The single 'Shiny Happy People'",
       "Man on the Moon",
       "Losing My Religion",
       "Everybody Hurts"
@@ -11703,7 +11703,7 @@
     "show": "Billboard Hits",
     "q": "What peak position did Michael and Janet Jackson's 'Scream' achieve on the Billboard Hot 100 in 1995, entering directly at #5?",
     "options": [
-      "#1",
+      "Peaked at #1 on the Hot 100",
       "#2",
       "#8",
       "#5"
@@ -11836,7 +11836,7 @@
     "q": "Which prolific producer and artist released 'Eastside' with Halsey and Khalid in 2018 after producing hits for Katy Perry and Justin Bieber?",
     "options": [
       "Murda Beatz",
-      "Cashmere Cat",
+      "Producer Cashmere Cat",
       "Benny Blanco",
       "Finneas"
     ],
@@ -11857,7 +11857,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Atlanta producer's iconic producer tag asks 'If Young Metro don't trust you, I'm gon' shoot you'?",
+    "q": "Which Atlanta hip-hop producer created blockbuster records for Future, 21 Savage, and Travis Scott using his signature 'don't trust you' producer tag?",
     "options": [
       "Metro Boomin",
       "Wheezy",
@@ -11910,7 +11910,7 @@
       "Not Like Us",
       "Like That",
       "Humble",
-      "King Kunta"
+      "Producer King Kunta"
     ],
     "answer": 0,
     "d": 2
@@ -11965,7 +11965,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which 1972 Black Sabbath piano ballad was covered by Ozzy Osbourne and sampled for the hook in Eminem's 2010 song 'Going Through Changes'?",
+    "q": "Which 1972 Black Sabbath piano ballad was covered as a duet by Ozzy and Kelly Osbourne, and later sampled on Eminem's 'Recovery' album?",
     "options": [
       "Iron Man",
       "Changes",

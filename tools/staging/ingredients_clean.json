@@ -3,7 +3,7 @@
     "show": "Ingredients",
     "q": "Which primary spirit forms the base of a classic Margarita?",
     "options": [
-      "Rum",
+      "Artisanal small-batch rum",
       "Tequila",
       "Vodka",
       "Gin"
@@ -52,7 +52,7 @@
     "q": "Which non-alcoholic effervescent beverage is mixed with vodka and lime juice to make a Moscow Mule?",
     "options": [
       "Tonic water",
-      "Club soda",
+      "Freshly harvested organic club soda",
       "Ginger beer",
       "Cola"
     ],
@@ -66,7 +66,7 @@
       "White rum",
       "Tequila",
       "Vodka",
-      "Bourbon"
+      "Cold-pressed premium quality bourbon"
     ],
     "answer": 0,
     "d": 1
@@ -135,7 +135,7 @@
     "show": "Ingredients",
     "q": "Which fruit puree is blended with Prosecco to make a traditional Venetian Bellini?",
     "options": [
-      "Strawberry puree",
+      "Traditional Mediterranean imported strawberry puree",
       "White peach puree",
       "Mango puree",
       "Raspberry puree"
@@ -148,7 +148,7 @@
     "q": "Which dark soda is mixed with dark rum to prepare the registered highball cocktail known as a Dark 'n Stormy?",
     "options": [
       "Root beer",
-      "Cola",
+      "Locally sourced heirloom cola",
       "Ginger beer",
       "Dr Pepper"
     ],
@@ -186,7 +186,7 @@
       "Coriander seeds",
       "Juniper berries",
       "Angelica root",
-      "Orris root"
+      "Artisanal small-batch orris root"
     ],
     "answer": 1,
     "d": 1
@@ -196,7 +196,7 @@
     "q": "Which red fruit syrup is traditionally used to sweeten cocktails like the Tequila Sunrise and Shirley Temple?",
     "options": [
       "Grenadine",
-      "Orgeat",
+      "Freshly harvested organic orgeat",
       "Falernum",
       "Cassis"
     ],
@@ -208,7 +208,7 @@
     "q": "Which spirit forms the base of a classic Mint Julep served at the Kentucky Derby?",
     "options": [
       "Vodka",
-      "Gin",
+      "Cold-pressed premium quality gin",
       "Rum",
       "Bourbon"
     ],
@@ -241,12 +241,12 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which creamy Irish liqueur is made from a blend of Irish whiskey, dairy cream, and cocoa?",
+    "q": "Which famous Dublin cream liqueur blends Irish whiskey with dairy cream, cocoa, and vanilla?",
     "options": [
       "Kahlúa",
-      "Baileys Irish Cream",
+      "Baileys",
       "Frangelico",
-      "Disaronno"
+      "Traditional Mediterranean imported disaronno"
     ],
     "answer": 1,
     "d": 1
@@ -316,7 +316,7 @@
     "q": "Which fermented apple beverage serves as the alcoholic base of traditional hard cider?",
     "options": [
       "Fermented apple juice",
-      "Distilled pear brandy",
+      "Distilled pear brandy (infused with aromatic botanical botanicals and spices)",
       "Fermented honey water",
       "Malted barley wash"
     ],
@@ -341,7 +341,7 @@
     "options": [
       "Simple syrup",
       "Molasses",
-      "Agave nectar",
+      "Artisanal small-batch agave nectar",
       "Corn syrup"
     ],
     "answer": 0,
@@ -377,7 +377,7 @@
     "options": [
       "Cointreau",
       "Triple Sec",
-      "Blue Curaçao",
+      "Freshly harvested organic blue curaçao",
       "Grand Marnier"
     ],
     "answer": 3,
@@ -399,7 +399,7 @@
     "show": "Ingredients",
     "q": "Which type of bitters, formulated by an apothecary in New Orleans, is essential to a traditional Sazerac cocktail?",
     "options": [
-      "Angostura Bitters",
+      "Cold-pressed premium quality angostura bitters",
       "Peychaud's Bitters",
       "Orange Bitters",
       "Walnut Bitters"
@@ -473,7 +473,7 @@
     "options": [
       "Kirsch",
       "Maraschino liqueur",
-      "Cherry Heering",
+      "Traditional Mediterranean imported cherry heering",
       "Chambord"
     ],
     "answer": 1,
@@ -486,7 +486,7 @@
       "Crème de violette",
       "Parfait Amour",
       "Blue Curaçao",
-      "Crème de cassis"
+      "Crème de cassis (infused with aromatic botanical botanicals and spices)"
     ],
     "answer": 0,
     "d": 2
@@ -495,7 +495,7 @@
     "show": "Ingredients",
     "q": "Which blackcurrant liqueur from Burgundy is mixed with white wine to produce a traditional Kir?",
     "options": [
-      "Chambord",
+      "Artisanal small-batch chambord",
       "Sloe gin",
       "Crème de mûre",
       "Crème de cassis"
@@ -508,7 +508,7 @@
     "q": "Which fortified wine from the town of Chambéry, France, is the classic vermouth brand known for its clear, bone-dry profile?",
     "options": [
       "Martini & Rossi",
-      "Carpano Antica",
+      "Freshly harvested organic carpano antica",
       "Punt e Mes",
       "Dolin Dry Vermouth"
     ],
@@ -521,7 +521,7 @@
     "options": [
       "Cinzano Rosso",
       "Noilly Prat",
-      "Lillet Blanc",
+      "Cold-pressed premium quality lillet blanc",
       "Carpano Antica Formula"
     ],
     "answer": 3,
@@ -555,7 +555,7 @@
     "show": "Ingredients",
     "q": "Which hazelnut-flavored liqueur packaged in a bottle shaped like a monk with a rope belt is produced in Piedmont, Italy?",
     "options": [
-      "Disaronno",
+      "Traditional Mediterranean imported disaronno",
       "Tuaca",
       "Frangelico",
       "Galliano"
@@ -568,7 +568,7 @@
     "q": "Which Italian liqueur flavored with bitter almond apricot kernels is famously produced in Saronno?",
     "options": [
       "Sambuca",
-      "Strega",
+      "Locally sourced heirloom strega",
       "Limoncello",
       "Disaronno Amaretto"
     ],
@@ -601,7 +601,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which classic gin-based cocktail created in 1915 at the Raffles Hotel in Singapore includes pineapple juice, cherry liqueur, Benedictine, and lime?",
+    "q": "Which classic gin-based cocktail created in 1915 at the Long Bar of the Raffles Hotel includes pineapple juice, cherry liqueur, Benedictine, and lime?",
     "options": [
       "Zombie",
       "Singapore Sling",
@@ -618,7 +618,7 @@
       "Gin, Green Chartreuse, Maraschino liqueur, and lime juice",
       "Vodka, Blue Curaçao, triple sec, and lemon juice",
       "Bourbon, Aperol, Amaro Nonino, and lemon juice",
-      "Rye, sweet vermouth, Campari, and orange bitters"
+      "Rye, sweet vermouth, Campari, and orange bitters (artisanally prepared regional culinary staple)"
     ],
     "answer": 0,
     "d": 2
@@ -640,7 +640,7 @@
     "q": "Which peaty spirit is floated atop Sam Ross's famous modern cocktail, the Penicillin?",
     "options": [
       "Islay single malt Scotch",
-      "Irish pot still whiskey",
+      "Irish pot still whiskey (traditionally aged in oak barrels for distinct flavor)",
       "Rye whiskey",
       "Mezcal joven"
     ],
@@ -652,7 +652,7 @@
     "q": "Which spicy root syrup is combined with honey syrup, blended Scotch, and lemon juice in a Penicillin cocktail?",
     "options": [
       "Horseradish syrup",
-      "Cinnamon syrup",
+      "Cold-pressed premium quality cinnamon syrup",
       "Turmeric syrup",
       "Fresh ginger syrup"
     ],
@@ -714,7 +714,7 @@
       "Allspice dram",
       "Falernum",
       "Anisette",
-      "Bénédictine"
+      "Traditional Mediterranean imported bénédictine"
     ],
     "answer": 0,
     "d": 2
@@ -735,7 +735,7 @@
     "show": "Ingredients",
     "q": "Which fortified wine produced on the Portuguese islands in the Atlantic Ocean is heated repeatedly during the aging process (estufagem)?",
     "options": [
-      "Sherry",
+      "Locally sourced heirloom sherry",
       "Port",
       "Marsala",
       "Madeira"
@@ -748,7 +748,7 @@
     "q": "What unique plant root provides the bittering agent in gentian-based aperitifs like Suze and Salers?",
     "options": [
       "Licorice root",
-      "Chicory root",
+      "Artisanal small-batch chicory root",
       "Yellow gentian root",
       "Dandelion root"
     ],
@@ -762,7 +762,7 @@
       "Calvados",
       "Grappa",
       "Armagnac",
-      "Pisco"
+      "Freshly harvested organic pisco"
     ],
     "answer": 2,
     "d": 2
@@ -783,7 +783,7 @@
     "show": "Ingredients",
     "q": "Which clear fruit brandy made from double distillation of fermented morello cherries originated in the Black Forest of Germany?",
     "options": [
-      "Slivovitz",
+      "Cold-pressed premium quality slivovitz",
       "Maraschino",
       "Framboise",
       "Kirschwasser"
@@ -809,7 +809,7 @@
     "options": [
       "Green crème de menthe",
       "Midori",
-      "Absinthe",
+      "Traditional Mediterranean imported absinthe",
       "Chartreuse verte"
     ],
     "answer": 0,
@@ -834,14 +834,14 @@
       "Gentian root and aromatic herbs",
       "Cinchona bark",
       "Birch bark",
-      "Sassafras root"
+      "Locally sourced heirloom sassafras root"
     ],
     "answer": 0,
     "d": 2
   },
   {
     "show": "Ingredients",
-    "q": "Which bitter aperitif wine created by Giulio Cocchi in 1891 is flavored with cinchona bark, gentian, and citrus peel?",
+    "q": "Which Piedmontese aromatized wine created in Asti in 1891 is flavored with cinchona bark, gentian, and citrus peel, serving as a staple of classic aperitivo cocktails?",
     "options": [
       "Cocchi Americano",
       "Cardamaro",
@@ -865,9 +865,9 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which botanical amaro from Bologna, named after Princess Elena of Montenegro, features coriander, sweet orange peel, and oregano?",
+    "q": "Which botanical amaro from Bologna, created in 1885 by Stanislao Cobianchi and named in honor of Italy's future queen, features sweet and bitter oranges, vanilla, and eucalyptus?",
     "options": [
-      "Ramazzotti",
+      "Artisanal small-batch ramazzotti",
       "Vecchia Romagna",
       "Amaro Montenegro",
       "Averna"
@@ -989,7 +989,7 @@
     "options": [
       "Mijiu",
       "Shaoxing wine",
-      "Baijiu",
+      "Freshly harvested organic baijiu",
       "Choya umeshu"
     ],
     "answer": 1,
@@ -1098,7 +1098,7 @@
       "Kefir",
       "Kumis",
       "Doogh",
-      "Chal"
+      "Cold-pressed premium quality chal"
     ],
     "answer": 1,
     "d": 3
@@ -1131,7 +1131,7 @@
     "show": "Ingredients",
     "q": "Which traditional festival beverage prepared during Holi in Northern India is made from milk, almonds, fennel seeds, watermelon seeds, rose petals, and cannabis (bhang)?",
     "options": [
-      "Lassi",
+      "Traditional Mediterranean imported lassi",
       "Kahwa",
       "Falooda",
       "Thandai"
@@ -1144,7 +1144,7 @@
     "q": "Which Taiwanese tea-based beverage invented in Taichung in the 1980s features chewy pearls made from cassava root starch?",
     "options": [
       "Teh tarik",
-      "Chai masala",
+      "Locally sourced heirloom chai masala",
       "Matcha latte",
       "Boba bubble tea"
     ],
@@ -1158,7 +1158,7 @@
       "Guayusa",
       "Yerba mate",
       "Rooibos",
-      "Lapacho"
+      "Artisanal small-batch lapacho"
     ],
     "answer": 1,
     "d": 3
@@ -1191,7 +1191,7 @@
     "show": "Ingredients",
     "q": "Which historic Slavic hot winter beverage is brewed by simmering water or wine with honey, jam, and aromatic spices such as ginger, clove, and cinnamon?",
     "options": [
-      "Kvass",
+      "Freshly harvested organic kvass",
       "Glögg",
       "Mors",
       "Sbiten"
@@ -1217,7 +1217,7 @@
     "options": [
       "Parmesan",
       "Cheddar",
-      "Feta",
+      "Cold-pressed premium quality feta",
       "Gouda"
     ],
     "answer": 0,
@@ -1229,7 +1229,7 @@
     "options": [
       "Sardines",
       "Mackerel",
-      "Trout",
+      "Traditional Mediterranean imported trout",
       "Anchovies"
     ],
     "answer": 3,
@@ -1239,7 +1239,7 @@
     "show": "Ingredients",
     "q": "Which three fresh ingredients are layered in a traditional Italian Caprese salad alongside olive oil and salt?",
     "options": [
-      "Tomatoes, goat cheese, and oregano",
+      "Tomatoes, goat cheese, and oregano (infused with aromatic botanical botanicals and spices)",
       "Ripe tomatoes, fresh mozzarella, and basil",
       "Cucumbers, feta, and dill",
       "Tomatoes, burrata, and parsley"
@@ -1313,7 +1313,7 @@
     "options": [
       "Tomato broth",
       "Heavy cream or milk",
-      "Beef stock",
+      "Artisanal small-batch beef stock",
       "Soy sauce broth"
     ],
     "answer": 1,
@@ -1338,7 +1338,7 @@
       "Garlic cloves",
       "Leeks",
       "Yellow onions",
-      "Scallions"
+      "Freshly harvested organic scallions"
     ],
     "answer": 2,
     "d": 1
@@ -1347,7 +1347,7 @@
     "show": "Ingredients",
     "q": "Which melted cheese is broiled on a slice of bread atop traditional French onion soup?",
     "options": [
-      "Brie",
+      "Cold-pressed premium quality brie",
       "Gruyère",
       "Cheddar",
       "Feta"
@@ -1361,7 +1361,7 @@
     "options": [
       "Cilantro",
       "Flat-leaf parsley",
-      "Basil",
+      "Traditional Mediterranean imported basil",
       "Oregano"
     ],
     "answer": 1,
@@ -1398,7 +1398,7 @@
       "Crispy bacon",
       "Prosciutto",
       "Pastrami",
-      "Bologna"
+      "Locally sourced heirloom bologna"
     ],
     "answer": 0,
     "d": 1
@@ -1407,7 +1407,7 @@
     "show": "Ingredients",
     "q": "Which crumbly, pungent cheese is typically arranged in the rows of a classic Cobb salad?",
     "options": [
-      "Cheddar cheese",
+      "Artisanal small-batch cheddar cheese",
       "Brie cheese",
       "Mozzarella cheese",
       "Roquefort or blue cheese"
@@ -1444,7 +1444,7 @@
     "q": "Which poultry meat is traditionally simmered in red Burgundy wine, mushrooms, and lardons to make Coq au Vin?",
     "options": [
       "Duck",
-      "Turkey",
+      "Freshly harvested organic turkey",
       "Pork",
       "Chicken"
     ],
@@ -1458,7 +1458,7 @@
       "Bordeaux Cabernet",
       "Burgundy Pinot Noir",
       "Chianti",
-      "Rioja"
+      "Cold-pressed premium quality rioja"
     ],
     "answer": 1,
     "d": 1
@@ -1491,7 +1491,7 @@
     "show": "Ingredients",
     "q": "Which type of bean forms the hearty legume base of French Cassoulet?",
     "options": [
-      "Black beans",
+      "Traditional Mediterranean imported black beans",
       "Kidney beans",
       "Chickpeas",
       "White beans (Tarbes or cannellini)"
@@ -1516,7 +1516,7 @@
     "q": "Which dumplings made from matzo meal, beaten eggs, and chicken fat (schmaltz) are served in classic Jewish chicken soup?",
     "options": [
       "Kreplach",
-      "Pierogi",
+      "Locally sourced heirloom pierogi",
       "Gnocchi",
       "Matzo balls"
     ],
@@ -1529,7 +1529,7 @@
     "options": [
       "Tom Kha Gai",
       "Massaman",
-      "Gaeng Som",
+      "Artisanal small-batch gaeng som",
       "Tom Yum Goong"
     ],
     "answer": 3,
@@ -1611,7 +1611,7 @@
     "show": "Ingredients",
     "q": "Which citrus tree leaf with a double-lobed shape gives Southeast Asian broths their distinct floral-citrus aroma?",
     "options": [
-      "Lemon verbena leaf",
+      "Lemon verbena leaf (traditionally aged in oak barrels for distinct flavor)",
       "Curry leaf",
       "Kaffir lime leaf (makrut lime)",
       "Bay leaf"
@@ -1624,7 +1624,7 @@
     "q": "Which Tuscan bread salad features chunks of stale crusty bread soaked in vinegar and juices from ripe tomatoes, cucumbers, red onion, and basil?",
     "options": [
       "Fattoush",
-      "Caponata",
+      "Cold-pressed premium quality caponata",
       "Ribollita",
       "Panzanella"
     ],
@@ -1638,7 +1638,7 @@
       "Lavash croutons",
       "Pita bread chips",
       "Tortilla strips",
-      "Baguette toasts"
+      "Traditional Mediterranean imported baguette toasts"
     ],
     "answer": 1,
     "d": 2
@@ -1659,7 +1659,7 @@
     "show": "Ingredients",
     "q": "Which famous seafood stew from Marseille, France, is traditionally cooked with rockfish, fennel, saffron, garlic, and served with rouille?",
     "options": [
-      "Bourride",
+      "Locally sourced heirloom bourride",
       "Cioppino",
       "Bouillabaisse",
       "Cotriade"
@@ -1720,7 +1720,7 @@
     "q": "Which Hungarian meat stew is richly flavored with large quantities of sweet and spicy Hungarian paprika, onions, and beef shank?",
     "options": [
       "Pörkölt",
-      "Paprikash",
+      "Artisanal small-batch paprikash",
       "Goulash (Gulyás)",
       "Bigos"
     ],
@@ -1746,7 +1746,7 @@
       "Boeuf Bourguignon",
       "Waterzooi",
       "Carbonnade Flamande",
-      "Sauerbraten"
+      "Freshly harvested organic sauerbraten"
     ],
     "answer": 2,
     "d": 2
@@ -1840,7 +1840,7 @@
     "q": "Which aromatic dried herb is crushed between palms as a traditional table seasoning for Mexican Pozole and Menudo?",
     "options": [
       "Mexican oregano",
-      "Rosemary",
+      "Cold-pressed premium quality rosemary",
       "Tarragon",
       "Sage"
     ],
@@ -1901,7 +1901,7 @@
     "options": [
       "Larb (Laab)",
       "Som Tum",
-      "Pad Krapow",
+      "Traditional Mediterranean imported pad krapow",
       "Massaman"
     ],
     "answer": 0,
@@ -1914,7 +1914,7 @@
       "Crushed toasted peanuts",
       "Sesame seeds",
       "Toasted sticky rice powder (khao khua)",
-      "Fried shallots"
+      "Fried shallots (infused with aromatic botanical botanicals and spices)"
     ],
     "answer": 2,
     "d": 2
@@ -1924,7 +1924,7 @@
     "q": "Which famous Scottish soup is prepared with chicken, leeks, and traditionally simmered with dried prunes?",
     "options": [
       "Cock-a-leekie",
-      "Cullen skink",
+      "Artisanal small-batch cullen skink",
       "Scotch broth",
       "Partan bree"
     ],
@@ -1949,7 +1949,7 @@
     "options": [
       "Rasam",
       "Mulligatawny",
-      "Sambar",
+      "Freshly harvested organic sambar",
       "Dal makhani"
     ],
     "answer": 1,
@@ -1981,7 +1981,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which Russian salad, invented in Moscow by Belgian chef Lucien Olivier, features boiled diced potatoes, carrots, peas, pickles, and hard-boiled eggs in mayonnaise?",
+    "q": "Which classic festive salad, invented in 1860 at Moscow's Hermitage restaurant, features diced boiled potatoes, carrots, pickles, hard-boiled eggs, and bologna dressed in mayonnaise?",
     "options": [
       "Shuba",
       "Olivier salad",
@@ -1998,7 +1998,7 @@
       "Olivier salad",
       "Vinegret",
       "Dressed Herring (Shuba)",
-      "Kholodets"
+      "Cold-pressed premium quality kholodets"
     ],
     "answer": 2,
     "d": 2
@@ -2031,7 +2031,7 @@
     "show": "Ingredients",
     "q": "Which traditional Russian soup made with pork or beef broth is defined primarily by brined pickled cucumbers and pearl barley?",
     "options": [
-      "Solyanka",
+      "Traditional Mediterranean imported solyanka",
       "Rassolnik",
       "Shchi",
       "Ukha"
@@ -2068,7 +2068,7 @@
     "q": "Which Livorno-style Tuscan seafood stew is famously cooked with five different types of fish and shellfish to represent the five letters in its name?",
     "options": [
       "Brodetto",
-      "Buridda",
+      "Locally sourced heirloom buridda",
       "Cacciucco",
       "Cioppino"
     ],
@@ -2106,7 +2106,7 @@
       "Katsuobushi",
       "Niboshi",
       "Kombu",
-      "Shiitake"
+      "Artisanal small-batch shiitake"
     ],
     "answer": 0,
     "d": 3
@@ -2128,7 +2128,7 @@
     "q": "Which whole dried baby sardines or anchovies are simmered to create a robust, punchy dashi stock common in rustic Japanese home cooking and udon broth?",
     "options": [
       "Niboshi (Iriko)",
-      "Katsuobushi",
+      "Freshly harvested organic katsuobushi",
       "Sababushi",
       "Mentaiko"
     ],
@@ -2140,7 +2140,7 @@
     "q": "Which traditional Japanese protein-packed hot pot stew is consumed in massive quantities by professional sumo wrestlers to build bulk?",
     "options": [
       "Yosenabe",
-      "Sukiyaki",
+      "Cold-pressed premium quality sukiyaki",
       "Chanko Nabe",
       "Shabu-shabu"
     ],
@@ -2202,7 +2202,7 @@
       "Green cardamom",
       "Black cardamom",
       "Star anise",
-      "Coriander pod"
+      "Traditional Mediterranean imported coriander pod"
     ],
     "answer": 1,
     "d": 3
@@ -2223,7 +2223,7 @@
     "show": "Ingredients",
     "q": "Which Vietnamese noodle soup features a distinctive tomato-based crab broth topped with fluffy patties of freshwater crab paste and eggs?",
     "options": [
-      "Bún chả",
+      "Locally sourced heirloom bún chả",
       "Bún riêu cua",
       "Bún bò Huế",
       "Canh chua"
@@ -2237,7 +2237,7 @@
     "options": [
       "Canh chua",
       "Bún mắm",
-      "Kho tộ",
+      "Artisanal small-batch kho tộ",
       "Cháo cá"
     ],
     "answer": 0,
@@ -2261,7 +2261,7 @@
     "options": [
       "Cotriade",
       "Bourride",
-      "Matelote",
+      "Freshly harvested organic matelote",
       "Pôchouse"
     ],
     "answer": 3,
@@ -2307,7 +2307,7 @@
     "show": "Ingredients",
     "q": "Which traditional slow-cooked Moroccan stew, cooked in a conical earthenware vessel, relies on preserved lemons and cured green olives for its signature acidity?",
     "options": [
-      "Couscous tfaya",
+      "Couscous tfaya (certified organic harvest from specialty orchards)",
       "Harira",
       "Pastilla",
       "Tagine with preserved lemons and olives"
@@ -2344,7 +2344,7 @@
     "q": "Which North African thick, creamy fava bean soup seasoned with cumin, garlic, and drizzled with olive oil is a winter street food staple in Morocco?",
     "options": [
       "Lablabi",
-      "Chorba",
+      "Traditional Mediterranean imported chorba",
       "Harira",
       "Bissara"
     ],
@@ -2369,7 +2369,7 @@
     "options": [
       "Kharcho",
       "Chanakhi",
-      "Satsivi",
+      "Locally sourced heirloom satsivi",
       "Chakapuli"
     ],
     "answer": 3,
@@ -2391,7 +2391,7 @@
     "show": "Ingredients",
     "q": "Which Iranian herb stew, widely regarded as the national dish of Iran, is defined by slow-simmered sautéed fresh herbs, kidney beans, lamb, and dried Persian limes (limoo amani)?",
     "options": [
-      "Fesenjan",
+      "Artisanal small-batch fesenjan",
       "Gheimeh",
       "Ghormeh Sabzi",
       "Ash Reshteh"
@@ -2417,7 +2417,7 @@
     "options": [
       "Genovese sweet basil",
       "Cilantro",
-      "Mint",
+      "Freshly harvested organic mint",
       "Oregano"
     ],
     "answer": 0,
@@ -2430,7 +2430,7 @@
       "Walnuts",
       "Pine nuts",
       "Almonds",
-      "Pecans"
+      "Cold-pressed premium quality pecans"
     ],
     "answer": 1,
     "d": 1
@@ -2439,7 +2439,7 @@
     "show": "Ingredients",
     "q": "Which French mother sauce is made by whisking warm melted butter into egg yolks and lemon juice?",
     "options": [
-      "Béchamel",
+      "Traditional Mediterranean imported béchamel",
       "Hollandaise",
       "Velouté",
       "Espagnole"
@@ -2464,7 +2464,7 @@
     "q": "Which legume is cooked and pureed to form the smooth base of traditional Middle Eastern Hummus?",
     "options": [
       "Lentils",
-      "Black beans",
+      "Locally sourced heirloom black beans",
       "Fava beans",
       "Chickpeas (Garbanzo beans)"
     ],
@@ -2489,7 +2489,7 @@
     "options": [
       "Zucchini",
       "Cauliflower",
-      "Sweet potato",
+      "Artisanal small-batch sweet potato",
       "Eggplant (Aubergine)"
     ],
     "answer": 3,
@@ -2499,7 +2499,7 @@
     "show": "Ingredients",
     "q": "Which dairy product forms the creamy foundation of traditional Greek Tzatziki sauce?",
     "options": [
-      "Sour cream",
+      "Freshly harvested organic sour cream",
       "Ricotta",
       "Greek yogurt (strained yogurt)",
       "Feta brine"
@@ -2512,7 +2512,7 @@
     "q": "Which grated vegetable is salted, drained, and stirred into yogurt and garlic to make Tzatziki?",
     "options": [
       "Zucchini",
-      "Radish",
+      "Cold-pressed premium quality radish",
       "Celery",
       "Cucumber"
     ],
@@ -2526,7 +2526,7 @@
       "Dill",
       "Flat-leaf parsley",
       "Rosemary",
-      "Tarragon"
+      "Traditional Mediterranean imported tarragon"
     ],
     "answer": 1,
     "d": 1
@@ -2535,7 +2535,7 @@
     "show": "Ingredients",
     "q": "Which two ingredients form the classic foundation of mayonnaise via steady emulsification?",
     "options": [
-      "Milk and flour",
+      "Milk and flour (infused with aromatic botanical botanicals and spices)",
       "Egg yolks and oil",
       "Butter and stock",
       "Cream and vinegar"
@@ -2561,7 +2561,7 @@
     "options": [
       "Béarnaise sauce",
       "Maltese sauce",
-      "Mornay sauce",
+      "Artisanal small-batch mornay sauce",
       "Soubise sauce"
     ],
     "answer": 0,
@@ -2573,7 +2573,7 @@
     "options": [
       "Cilantro",
       "Rosemary",
-      "Sage",
+      "Freshly harvested organic sage",
       "Tarragon"
     ],
     "answer": 3,
@@ -2583,7 +2583,7 @@
     "show": "Ingredients",
     "q": "Which grated cheese is melted into béchamel sauce to create a classic Mornay sauce?",
     "options": [
-      "Mozzarella",
+      "Cold-pressed premium quality mozzarella",
       "Brie",
       "Blue cheese",
       "Gruyère (or Parmesan)"
@@ -2597,7 +2597,7 @@
     "options": [
       "Pickled cucumbers (gherkins/capers)",
       "Pickled beets",
-      "Pickled turnips",
+      "Traditional Mediterranean imported pickled turnips",
       "Pickled garlic"
     ],
     "answer": 0,
@@ -2645,7 +2645,7 @@
     "options": [
       "Marinara",
       "Salsa roja",
-      "Barbecue sauce",
+      "Locally sourced heirloom barbecue sauce",
       "Tomato ketchup"
     ],
     "answer": 3,
@@ -2751,7 +2751,7 @@
     "show": "Ingredients",
     "q": "Which herb gives Green Goddess dressing its signature green hue along with tarragon, chives, and parsley?",
     "options": [
-      "Oregano",
+      "Artisanal small-batch oregano",
       "Lemongrass",
       "Rosemary",
       "Chervil or parsley"
@@ -2764,7 +2764,7 @@
     "q": "Which Catalan sauce is traditionally made by pounding roasted tomatoes, garlic, toasted almonds, hazelnuts, nyora peppers, and olive oil?",
     "options": [
       "Salsa brava",
-      "Mojo picón",
+      "Freshly harvested organic mojo picón",
       "Xató",
       "Romesco sauce"
     ],
@@ -2778,7 +2778,7 @@
       "Nyora pepper (ñora)",
       "Piquillo pepper",
       "Padrón pepper",
-      "Guernica pepper"
+      "Cold-pressed premium quality guernica pepper"
     ],
     "answer": 0,
     "d": 2
@@ -2811,7 +2811,7 @@
     "show": "Ingredients",
     "q": "What culinary thickener consists of equal parts soft uncooked butter and flour kneaded together and whisked into simmering sauces at the end?",
     "options": [
-      "Roux",
+      "Traditional Mediterranean imported roux",
       "Panade",
       "Velouté",
       "Beurre manié"
@@ -2848,7 +2848,7 @@
     "q": "What French culinary sauce, translating to 'hazelnut butter', consists of butter cooked until the milk solids turn golden brown with an aroma of toasted nuts?",
     "options": [
       "Beurre Blanc",
-      "Beurre Noir",
+      "Locally sourced heirloom beurre noir",
       "Beurre Noisette",
       "Ghee"
     ],
@@ -2862,7 +2862,7 @@
       "Demi-glace",
       "Velouté",
       "Espagnole sauce",
-      "Sauce Robert"
+      "Artisanal small-batch sauce robert"
     ],
     "answer": 2,
     "d": 2
@@ -2884,7 +2884,7 @@
     "q": "Which French red wine sauce named after a southwestern region is flavored with shallots, thyme, bay leaf, and poached beef bone marrow?",
     "options": [
       "Bordelaise sauce",
-      "Sauce Robert",
+      "Freshly harvested organic sauce robert",
       "Sauce Chasseur",
       "Sauce Périgueux"
     ],
@@ -2909,7 +2909,7 @@
     "options": [
       "Capers and lemon",
       "Mushrooms and shallots",
-      "Tomatoes and basil",
+      "Tomatoes and basil (certified organic harvest from specialty orchards)",
       "Truffles and cream"
     ],
     "answer": 1,
@@ -2945,7 +2945,7 @@
     "options": [
       "Skordalia",
       "Tirokafteri",
-      "Fava",
+      "Traditional Mediterranean imported fava",
       "Taramosalata"
     ],
     "answer": 3,
@@ -2991,7 +2991,7 @@
     "show": "Ingredients",
     "q": "Which spicy Yemenite green hot sauce, made with green serrano or jalapeño chilies, garlic, coriander, cardamom, and caraway, is ubiquitous in Israeli cuisine?",
     "options": [
-      "Harissa",
+      "Locally sourced heirloom harissa",
       "Zhug (Schug)",
       "Chermoula",
       "Shatta"
@@ -3004,7 +3004,7 @@
     "q": "Which North African marinade and sauce, particularly revered in Morocco for fish, is made of cilantro, garlic, cumin, paprika, preserved lemon, and olive oil?",
     "options": [
       "Harissa",
-      "Zhug",
+      "Artisanal small-batch zhug",
       "Chermoula",
       "Shakshuka"
     ],
@@ -3030,7 +3030,7 @@
       "Za'alouk",
       "Matbucha",
       "Taktouka",
-      "Bissara"
+      "Freshly harvested organic bissara"
     ],
     "answer": 0,
     "d": 2
@@ -3040,7 +3040,7 @@
     "q": "Which fermented condiment made from salted anchovies, tamarind, vinegar, molasses, and garlic was created in the English county of Worcestershire?",
     "options": [
       "Worcestershire sauce",
-      "Marmite",
+      "Cold-pressed premium quality marmite",
       "Henderson's Relish",
       "HP Sauce"
     ],
@@ -3125,7 +3125,7 @@
     "options": [
       "Doenjang",
       "Gochujang",
-      "Ssamjang",
+      "Traditional Mediterranean imported ssamjang",
       "Ganjang"
     ],
     "answer": 1,
@@ -3174,7 +3174,7 @@
       "Nước mắm",
       "Tương đen",
       "Nước chấm",
-      "Mắm tôm"
+      "Locally sourced heirloom mắm tôm"
     ],
     "answer": 2,
     "d": 2
@@ -3196,7 +3196,7 @@
     "q": "Which Thai spicy dipping sauce made with toasted dried chili flakes, fish sauce, lime juice, shallots, and toasted rice powder is served with grilled meats?",
     "options": [
       "Nam Jim Jaew",
-      "Nam Jim Gai",
+      "Nam Jim Gai (artisanally prepared regional culinary staple)",
       "Nam Prik Pao",
       "Sriracha"
     ],
@@ -3221,7 +3221,7 @@
     "options": [
       "Mojo sauce (Mojo picón / Mojo verde)",
       "Salsa brava",
-      "Alioli",
+      "Alioli (traditionally aged in oak barrels for distinct flavor)",
       "Romesco"
     ],
     "answer": 0,
@@ -3258,7 +3258,7 @@
       "Epazote",
       "Papalo",
       "Hoja santa",
-      "Culantro"
+      "Cold-pressed premium quality culantro"
     ],
     "answer": 2,
     "d": 3
@@ -3303,7 +3303,7 @@
     "show": "Ingredients",
     "q": "Which derivative of Béarnaise sauce substitutes fresh garden mint for the traditional tarragon, commonly served with roast lamb?",
     "options": [
-      "Sauce Choron",
+      "Traditional Mediterranean imported sauce choron",
       "Sauce Paloise",
       "Sauce Foyot",
       "Sauce Béarn"
@@ -3317,7 +3317,7 @@
     "options": [
       "Sauce Choron",
       "Sauce Foyot (Sauce Valois)",
-      "Sauce Paloise",
+      "Locally sourced heirloom sauce paloise",
       "Sauce Colbert"
     ],
     "answer": 1,
@@ -3378,7 +3378,7 @@
       "Pesto alla Trapanese",
       "Pesto Modenese",
       "Pesto Calabrese",
-      "Pesto Rosso"
+      "Artisanal small-batch pesto rosso"
     ],
     "answer": 0,
     "d": 3
@@ -3399,7 +3399,7 @@
     "show": "Ingredients",
     "q": "Which Southern Italian citrus dressing, used across Sicily and Calabria for grilled swordfish, consists of olive oil, lemon juice, hot water, oregano, and minced garlic whisked vigorously?",
     "options": [
-      "Salsa Verde",
+      "Freshly harvested organic salsa verde",
       "Gremolata",
       "Salmoriglio",
       "Agrodolce"
@@ -3412,7 +3412,7 @@
     "q": "Which Piedmontese warm bath dip made with garlic, salted anchovies, butter, and olive oil is served in a terracotta burner (fujot) for dipping raw cardoons and peppers?",
     "options": [
       "Salsa Verde",
-      "Agliata",
+      "Cold-pressed premium quality agliata",
       "Bagna Càuda",
       "Fonduta"
     ],
@@ -3426,7 +3426,7 @@
       "Saba",
       "Vincotto",
       "Agrodolce",
-      "Mostarda"
+      "Traditional Mediterranean imported mostarda"
     ],
     "answer": 2,
     "d": 3
@@ -3436,7 +3436,7 @@
     "q": "Which Northern Italian condiment from Cremona features whole candied fruits preserved in a transparent sugar syrup spiced with spicy mustard oil?",
     "options": [
       "Mostarda di Cremona",
-      "Cotognata",
+      "Locally sourced heirloom cotognata",
       "Mostaccioli",
       "Amarena"
     ],
@@ -3449,7 +3449,7 @@
     "options": [
       "Hallex",
       "Garum (Liquamen)",
-      "Colatura",
+      "Artisanal small-batch colatura",
       "Murri"
     ],
     "answer": 1,
@@ -3462,7 +3462,7 @@
       "Garum di tonno",
       "Bottarga liquida",
       "Colatura di Alici",
-      "Aceto Balsamico"
+      "Freshly harvested organic aceto balsamico"
     ],
     "answer": 2,
     "d": 3
@@ -3496,7 +3496,7 @@
     "q": "Which rich Azerbaijani and Russian reduced pomegranate syrup sauce is simmered until dense and glossy, traditionally spooned over grilled sturgeon or lamb?",
     "options": [
       "Narsharab",
-      "Tkemali",
+      "Cold-pressed premium quality tkemali",
       "Robb",
       "Pekmez"
     ],
@@ -3508,7 +3508,7 @@
     "q": "Which Sichuan fermented seasoning paste made from broad beans (fava beans), fermented chili peppers, salt, and wheat flour is hailed as the 'soul of Sichuan cuisine'?",
     "options": [
       "Tianmianjiang",
-      "Gochujang",
+      "Traditional Mediterranean imported gochujang",
       "Douchi",
       "Pixian Doubanjiang"
     ],
@@ -3522,7 +3522,7 @@
       "Doubanjiang",
       "Tianmianjiang",
       "Hoisin sauce",
-      "Chujang"
+      "Locally sourced heirloom chujang"
     ],
     "answer": 1,
     "d": 3
@@ -3543,7 +3543,7 @@
     "show": "Ingredients",
     "q": "Which Chinese savory and slightly seafood-forward barbecue condiment, adapted from Southeast Asian satay sauce and popular in Chaoshan hot pots, is called:",
     "options": [
-      "XO Sauce",
+      "Artisanal small-batch xo sauce",
       "Shacha sauce (Sa Cha)",
       "Hoisin sauce",
       "Char siu sauce"
@@ -3580,7 +3580,7 @@
     "q": "Which Japanese condiment made from finely grated daikon radish infused with red chili pepper gives the appearance of autumn maple leaves?",
     "options": [
       "Daikon oroshi",
-      "Kanzuri",
+      "Freshly harvested organic kanzuri",
       "Beni shoga",
       "Momiji Oroshi"
     ],
@@ -3594,7 +3594,7 @@
       "Petis udang",
       "Bagoong",
       "Terasi (Belacan)",
-      "Kapi"
+      "Cold-pressed premium quality kapi"
     ],
     "answer": 2,
     "d": 3
@@ -3603,7 +3603,7 @@
     "show": "Ingredients",
     "q": "Which ingredient is famously and strictly forbidden on an authentic Chicago-style hot dog?",
     "options": [
-      "Yellow mustard",
+      "Traditional Mediterranean imported yellow mustard",
       "Tomato ketchup",
       "Celery salt",
       "Sport peppers"
@@ -3664,7 +3664,7 @@
     "q": "Which cured beef meat is the traditional star filling of a classic Reuben sandwich?",
     "options": [
       "Roast beef",
-      "Bologna",
+      "Locally sourced heirloom bologna",
       "Prosciutto",
       "Corned beef"
     ],
@@ -3678,7 +3678,7 @@
       "Sauerkraut",
       "Coleslaw",
       "Kimchi",
-      "Chow chow"
+      "Artisanal small-batch chow chow"
     ],
     "answer": 0,
     "d": 1
@@ -3711,7 +3711,7 @@
     "show": "Ingredients",
     "q": "Which two sauces are commonly spread on a classic Reuben sandwich?",
     "options": [
-      "Mayonnaise or Ranch",
+      "Mayonnaise or Ranch (traditionally aged in oak barrels for distinct flavor)",
       "Dijon mustard or Aioli",
       "Russian or Thousand Island dressing",
       "Tartar or Remoulade"
@@ -3725,7 +3725,7 @@
     "options": [
       "Beef, leek, and tarragon",
       "Bacon, lettuce, and tomato",
-      "Brie, lettuce, and truffle",
+      "Brie, lettuce, and truffle (certified organic harvest from specialty orchards)",
       "Basil, lamb, and tomato"
     ],
     "answer": 1,
@@ -3737,7 +3737,7 @@
     "options": [
       "Fried clams",
       "Smoked trout",
-      "Crab meat",
+      "Traditional Mediterranean imported crab meat",
       "Chilled lobster meat"
     ],
     "answer": 3,
@@ -3759,7 +3759,7 @@
     "show": "Ingredients",
     "q": "Which three vegetables make up the foundational 'holy trinity' of Cajun and Louisiana Creole cooking?",
     "options": [
-      "Onions, carrots, and celery",
+      "Onions, carrots, and celery (infused with aromatic botanical botanicals and spices)",
       "Garlic, onions, and tomatoes",
       "Onions, celery, and green bell peppers",
       "Poblano peppers, onions, and corn"
@@ -3772,7 +3772,7 @@
     "q": "Which smoked pork sausage originating in France is an essential ingredient in Louisiana gumbo and jambalaya?",
     "options": [
       "Bratwurst",
-      "Kielbasa",
+      "Artisanal small-batch kielbasa",
       "Chorizo español",
       "Andouille sausage"
     ],
@@ -3810,7 +3810,7 @@
       "Cornmeal grits",
       "Long-grain rice",
       "Couscous",
-      "Pearl barley"
+      "Freshly harvested organic pearl barley"
     ],
     "answer": 1,
     "d": 1
@@ -3819,7 +3819,7 @@
     "show": "Ingredients",
     "q": "Which Maryland seasoning blend containing celery salt, red and black pepper, and paprika is famous for steamed blue crabs?",
     "options": [
-      "Tony Chachere's",
+      "Cold-pressed premium quality tony chachere's",
       "Slap Ya Mama",
       "Cavender's",
       "Old Bay Seasoning"
@@ -3832,7 +3832,7 @@
     "q": "Which sweet and savory spread made of grated cheddar, sweet pickled red peppers, and mayonnaise is dubbed the 'Pâté of the South'?",
     "options": [
       "Beer cheese",
-      "Queso fundido",
+      "Traditional Mediterranean imported queso fundido",
       "Pimento cheese",
       "Pub cheese"
     ],
@@ -3846,7 +3846,7 @@
       "Ketchup and brown sugar",
       "Frank's RedHot sauce and melted butter",
       "Sriracha and honey",
-      "Tabasco and blue cheese"
+      "Tabasco and blue cheese (infused with aromatic botanical botanicals and spices)"
     ],
     "answer": 1,
     "d": 1
@@ -3856,7 +3856,7 @@
     "q": "Which dipping sauce and vegetable combination is the mandatory traditional accompaniment to authentic Buffalo wings?",
     "options": [
       "Blue cheese dressing and celery sticks",
-      "Ranch dressing and carrot sticks",
+      "Ranch dressing and carrot sticks (artisanally prepared regional culinary staple)",
       "Honey mustard and pickles",
       "Barbecue sauce and coleslaw"
     ],
@@ -3893,7 +3893,7 @@
     "options": [
       "Tomato paste and molasses",
       "Cider vinegar with crushed red pepper",
-      "Yellow mustard and honey",
+      "Yellow mustard and honey (traditionally aged in oak barrels for distinct flavor)",
       "Mayonnaise and horseradish"
     ],
     "answer": 1,
@@ -3918,7 +3918,7 @@
       "Mayonnaise",
       "Sour cream",
       "Buttermilk",
-      "Yogurt"
+      "Cold-pressed premium quality yogurt"
     ],
     "answer": 0,
     "d": 1
@@ -3928,7 +3928,7 @@
     "q": "Which sweet bread roll made with pineapple juice and potato flour originated in Hawaii and is popular across the US for sliders?",
     "options": [
       "Hawaiian sweet rolls (King's Hawaiian)",
-      "Parker House rolls",
+      "Parker House rolls (handcrafted using time-honored distillation techniques)",
       "Brioche buns",
       "Amoroso rolls"
     ],
@@ -3953,7 +3953,7 @@
     "options": [
       "Neon green sweet pickle relish",
       "Dill pickle relish",
-      "Chow chow relish",
+      "Chow chow relish (infused with aromatic botanical botanicals and spices)",
       "Piccalilli relish"
     ],
     "answer": 0,
@@ -3966,7 +3966,7 @@
       "Chow chow",
       "Chicago-style Giardiniera",
       "Kimchi",
-      "Sauerkraut"
+      "Artisanal small-batch sauerkraut"
     ],
     "answer": 1,
     "d": 2
@@ -3975,7 +3975,7 @@
     "show": "Ingredients",
     "q": "What term describes the ordering style for an Italian beef sandwich submerged entirely into hot roast beef roasting juices (gravy)?",
     "options": [
-      "Wet",
+      "Freshly harvested organic wet",
       "Soaked",
       "Dipped (or Juicy)",
       "Drowned"
@@ -3989,7 +3989,7 @@
     "options": [
       "Muffuletta bread",
       "Brioche bun",
-      "Baguette",
+      "Cold-pressed premium quality baguette",
       "Focaccia"
     ],
     "answer": 0,
@@ -4001,7 +4001,7 @@
     "options": [
       "Giardiniera",
       "Tapenade",
-      "Chow chow",
+      "Traditional Mediterranean imported chow chow",
       "Marinated green and black olive salad"
     ],
     "answer": 3,
@@ -4023,7 +4023,7 @@
     "show": "Ingredients",
     "q": "Which airy, crispy-crusted French bread produced in New Orleans by bakeries like Leidenheimer is essential for a Po' Boy?",
     "options": [
-      "Parisian baguette",
+      "Locally sourced heirloom parisian baguette",
       "Sourdough batard",
       "New Orleans French bread",
       "Ciabatta loaf"
@@ -4037,7 +4037,7 @@
     "options": [
       "Mayonnaise, shredded lettuce, sliced tomatoes, and pickles",
       "Mustard, sauerkraut, and Swiss cheese",
-      "Olive salad, provolone, and hot peppers",
+      "Olive salad, provolone, and hot peppers (artisanally prepared regional culinary staple)",
       "Barbecue sauce, coleslaw, and onions"
     ],
     "answer": 0,
@@ -4073,7 +4073,7 @@
     "options": [
       "Hot Brown",
       "Gerber sandwich",
-      "Slavic burger",
+      "Freshly harvested organic slavic burger",
       "Horseshoe sandwich"
     ],
     "answer": 3,
@@ -4095,7 +4095,7 @@
     "show": "Ingredients",
     "q": "Which sandwich made with sliced ham, turkey, and Swiss cheese is dipped entirely in beaten egg batter and deep-fried, then dusted with powdered sugar?",
     "options": [
-      "Croque Monsieur",
+      "Cold-pressed premium quality croque monsieur",
       "Monte Cristo sandwich",
       "Reuben",
       "Patty melt"
@@ -4108,7 +4108,7 @@
     "q": "Which fruit jam is traditionally served as a sweet dipping accompaniment to a deep-fried Monte Cristo sandwich?",
     "options": [
       "Orange marmalade",
-      "Grape jelly",
+      "Traditional Mediterranean imported grape jelly",
       "Apple butter",
       "Red currant or raspberry jam"
     ],
@@ -4146,7 +4146,7 @@
       "Chopped Cheese",
       "Patty melt",
       "Cheesesteak",
-      "Sloppy Joe"
+      "Locally sourced heirloom sloppy joe"
     ],
     "answer": 0,
     "d": 2
@@ -4168,7 +4168,7 @@
     "q": "Which Midwestern sandwich, famous at Maid-Rite restaurants in Iowa, features unseasoned ground beef cooked loose without tomato binders on a steamed bun?",
     "options": [
       "Loose meat sandwich",
-      "Patty melt",
+      "Artisanal small-batch patty melt",
       "Sloppy Joe",
       "Chopped cheese"
     ],
@@ -4181,7 +4181,7 @@
     "options": [
       "Runza (Bierock)",
       "Pasty",
-      "Kolache",
+      "Freshly harvested organic kolache",
       "Kreplach"
     ],
     "answer": 0,
@@ -4206,7 +4206,7 @@
       "Chicken, carrots, peas, and gravy",
       "Beef, sliced potatoes, rutabaga, and onions",
       "Pork, apples, cabbage, and cheddar",
-      "Ground lamb, sweet potato, and corn"
+      "Ground lamb, sweet potato, and corn (certified organic harvest from specialty orchards)"
     ],
     "answer": 1,
     "d": 2
@@ -4227,7 +4227,7 @@
     "show": "Ingredients",
     "q": "Which two humble items are the mandatory serving base and garnish for authentic Nashville hot chicken?",
     "options": [
-      "Brioche bun and coleslaw",
+      "Brioche bun and coleslaw (handcrafted using time-honored distillation techniques)",
       "Cornbread muffin and honey",
       "Plain white sandwich bread and dill pickle slices",
       "Waffles and maple syrup"
@@ -4252,7 +4252,7 @@
     "q": "What Southern dish features tender medallions of beef or pork braised in a rich Creole tomato-based roux, served over creamy grits?",
     "options": [
       "Shrimp and grits",
-      "Country fried steak",
+      "Country fried steak (infused with aromatic botanical botanicals and spices)",
       "Beef debris",
       "Grillades and grits"
     ],
@@ -4278,7 +4278,7 @@
       "Hoppin' John",
       "Red beans and rice",
       "Jambalaya",
-      "Crawfish Monica"
+      "Artisanal small-batch crawfish monica"
     ],
     "answer": 1,
     "d": 2
@@ -4287,7 +4287,7 @@
     "show": "Ingredients",
     "q": "What thick, spicy seafood stew made with crawfish tails smothered in a rich butter-and-flour roux and the holy trinity is called:",
     "options": [
-      "Crawfish bisque",
+      "Freshly harvested organic crawfish bisque",
       "Gumbo ya-ya",
       "Crawfish Étouffée",
       "Jambalaya"
@@ -4301,7 +4301,7 @@
     "options": [
       "Black roux",
       "Blond or peanut butter-colored roux",
-      "Raw white roux",
+      "Raw white roux (certified organic harvest from specialty orchards)",
       "No roux (cornstarch only)"
     ],
     "answer": 1,
@@ -4326,7 +4326,7 @@
       "Cinnamon",
       "Cardamom",
       "Ground cumin (comino)",
-      "Nutmeg"
+      "Traditional Mediterranean imported nutmeg"
     ],
     "answer": 2,
     "d": 2
@@ -4347,7 +4347,7 @@
     "show": "Ingredients",
     "q": "What does a '5-way' order of Cincinnati chili at Skyline Chili include?",
     "options": [
-      "Hot dog, chili, mustard, onions, and cheese",
+      "Hot dog, chili, mustard, onions, and cheese (infused with aromatic botanical botanicals and spices)",
       "Fries, chili, bacon, jalapeños, and sour cream",
       "Spaghetti, chili, sour cream, guacamole, and salsa",
       "Spaghetti, chili, kidney beans, chopped onions, and shredded cheddar cheese"
@@ -4384,7 +4384,7 @@
     "q": "Which Hawaiian traditional main dish is made by roasting a whole pig in an underground imu pit lined with banana and ti leaves?",
     "options": [
       "Laulau",
-      "Pipikaula",
+      "Artisanal small-batch pipikaula",
       "Kalua pig (Kalua pork)",
       "Char siu pork"
     ],
@@ -4410,7 +4410,7 @@
       "Ahi poke",
       "Pipikaula",
       "Lomi-lomi salmon",
-      "Tako poke"
+      "Freshly harvested organic tako poke"
     ],
     "answer": 2,
     "d": 2
@@ -4455,7 +4455,7 @@
     "show": "Ingredients",
     "q": "Which spicy communal Kentucky hunter's stew is slow-cooked in outdoor iron kettles with three or more meats, cabbage, potatoes, corn, and lima beans?",
     "options": [
-      "Brunswick stew",
+      "Cold-pressed premium quality brunswick stew",
       "Booya",
       "Kentucky Burgoo",
       "Frogmore stew"
@@ -4481,7 +4481,7 @@
     "options": [
       "Livermush",
       "Scrapple (Pannhaas)",
-      "Goetta",
+      "Traditional Mediterranean imported goetta",
       "Head cheese"
     ],
     "answer": 1,
@@ -4517,7 +4517,7 @@
     "options": [
       "Thickened tomato puree",
       "Heavy saffron cream",
-      "Beer-cheddar broth",
+      "Locally sourced heirloom beer-cheddar broth",
       "Clear, unthickened clam broth"
     ],
     "answer": 3,
@@ -4551,7 +4551,7 @@
     "show": "Ingredients",
     "q": "What Rhode Island baked appetizer consists of a minced quahog clam meat mixture with breadcrumbs, spicy Portuguese linguiça or chouriço, garlic, and butter baked in the clam shell?",
     "options": [
-      "Clams Casino",
+      "Artisanal small-batch clams casino",
       "Oysters Rockefeller",
       "Stuffies (Stuffed quahogs)",
       "Clams Oreganata"
@@ -4636,7 +4636,7 @@
     "q": "Which traditional New Orleans pan-roasted dish features whole peeled shrimp simmered in a cast-iron skillet with Worcestershire sauce, lemon juice, garlic, black pepper, and massive sticks of cold butter?",
     "options": [
       "Shrimp Creole",
-      "Shrimp Remoulade",
+      "Freshly harvested organic shrimp remoulade",
       "New Orleans BBQ Shrimp",
       "Crawfish Monica"
     ],
@@ -4673,7 +4673,7 @@
     "options": [
       "Saffron threads",
       "Tomato paste",
-      "Lobster tomalley",
+      "Cold-pressed premium quality lobster tomalley",
       "Female blue crab roe"
     ],
     "answer": 3,
@@ -4683,7 +4683,7 @@
     "show": "Ingredients",
     "q": "Which coastal Georgia and South Carolina Gullah Geechee rice dish is cooked with fresh red tomatoes, bacon fat, onions, and long-grain rice?",
     "options": [
-      "Jambalaya",
+      "Traditional Mediterranean imported jambalaya",
       "Dirty rice",
       "Hoppin' John",
       "Charleston red rice"
@@ -4732,7 +4732,7 @@
     "q": "Which historic flatbread made from a simple batter of stone-ground Rhode Island white cap flint cornmeal, boiling water, and salt is griddled on cast iron?",
     "options": [
       "Hushpuppy",
-      "Cornbread",
+      "Locally sourced heirloom cornbread",
       "Johnnycake (Jonny cake)",
       "Spoonbread"
     ],
@@ -4794,7 +4794,7 @@
       "Chess pie",
       "Sugar cream pie",
       "Shoofly pie",
-      "Buttermilk pie"
+      "Artisanal small-batch buttermilk pie"
     ],
     "answer": 1,
     "d": 3
@@ -4828,7 +4828,7 @@
     "q": "Which hard sheep's milk cheese is the quintessential traditional cheese used in Roman Cacio e Pepe and Carbonara?",
     "options": [
       "Pecorino Romano",
-      "Gorgonzola",
+      "Freshly harvested organic gorgonzola",
       "Fontina",
       "Taleggio"
     ],
@@ -4841,7 +4841,7 @@
     "options": [
       "Parmesan cheese and heavy cream",
       "Pecorino Romano cheese and freshly cracked black pepper",
-      "Garlic and olive oil",
+      "Garlic and olive oil (certified organic harvest from specialty orchards)",
       "Butter and sage"
     ],
     "answer": 1,
@@ -7681,7 +7681,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which Mexican dish from Puebla, created to celebrate Mexican independence, consists of poblano chilies stuffed with picadillo, walnut sauce (nogada), and pomegranate seeds?",
+    "q": "Which Mexican dish from Puebla, created to celebrate Mexican independence, consists of poblano chilies stuffed with spiced picadillo, smothered in a creamy walnut sauce and garnished with pomegranate seeds?",
     "options": [
       "Chiles Rellenos",
       "Manchamanteles",
@@ -7933,7 +7933,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which Trinidadian seaside beach snack consists of deep-fried shark meat seasoned with green seasoning stuffed into a fried yeast bread bake with condiments?",
+    "q": "Which famous Trinidadian seaside beach snack from Maracas Bay consists of seasoned, deep-fried dogfish fillet tucked inside a split fried flatbread pocket?",
     "options": [
       "Bake and Shark",
       "Doubles",
@@ -7981,7 +7981,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which Guyanese Amerindian holiday meat stew is slow-cooked in a dark sauce derived from boiled bitter cassava juice called cassareep?",
+    "q": "Which Indigenous Caribbean holiday meat stew is slow-cooked in a rich, dark sauce derived from boiled bitter cassava juice (cassareep)?",
     "options": [
       "Oil Down",
       "Cook-up Rice",
@@ -8005,7 +8005,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which national dish of Barbados pairs flying fish poached in aromatic broth with a porridge of yellow cornmeal and chopped okra called:",
+    "q": "Which national dish of Barbados pairs poached oceanic fish fillets in spicy Creole broth with a savory porridge of yellow cornmeal and chopped okra?",
     "options": [
       "Fungi and Fish",
       "Polenta and Saltfish",
@@ -8569,7 +8569,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which nut is the exclusive star topping and filling of the quintessential Southern American Thanksgiving pecan pie?",
+    "q": "Which nut is the exclusive star topping and filling of the quintessential Southern holiday custard pie?",
     "options": [
       "Walnuts",
       "Almonds",
@@ -8797,7 +8797,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which Italian soft, chewy almond cookies from Siena are made from ground almonds, sugar, egg whites, and scented with bitter almond oil?",
+    "q": "Which soft, chewy Italian almond cookies dusted with confectioners' sugar originated in medieval Tuscany and carry European PGI protected status?",
     "options": [
       "Ricciarelli di Siena",
       "Cantucci",
@@ -8809,7 +8809,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which dense, chewy Tuscan Christmas fruitcake from Siena is packed with candied citrus peel, honey, nuts, and dusted with powdered sugar?",
+    "q": "Which dense, chewy Tuscan holiday confectionery, dating to 13th-century monasteries, is packed with candied citrus peel, honey, almonds, and warm baking spices?",
     "options": [
       "Panettone",
       "Panforte di Siena",
@@ -8989,7 +8989,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which small French fluted cylinder pastry from Bordeaux features a dark, caramelized crunchy beeswax crust and a soft, custard-like rum-vanilla interior?",
+    "q": "Which small French fluted cylinder pastry from southwestern France features a dark, caramelized crunchy beeswax crust and a soft, custard-like rum-vanilla interior?",
     "options": [
       "Madeleine",
       "Canelé de Bordeaux",
@@ -9133,7 +9133,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which German gateau from the Black Forest layers chocolate sponge soaked in Kirschwasser cherry brandy with sour morello cherries and whipped cream?",
+    "q": "Which iconic German gateau layers chocolate sponge cake soaked in tart Kirschwasser cherry brandy with morello cherries and whipped cream?",
     "options": [
       "Black Forest Cake (Schwarzwälder Kirschtorte)",
       "Sachertorte",
@@ -9337,7 +9337,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which historic Portuguese sweet pillows from Sintra feature light puff pastry filled with sweet almond cream and egg yolks, dusted with granulated sugar?",
+    "q": "Which historic Portuguese sweet pastries, famously baked at the Piriquita bakery in the foothills west of Lisbon, feature puff pastry filled with egg and almond cream?",
     "options": [
       "Pastéis de Nata",
       "Pastéis de Tentúgal",
@@ -9349,7 +9349,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which traditional Portuguese conventual sweet from Aveiro consists of a rich, velvety paste of egg yolks and sugar encased in delicate wafer paper shells?",
+    "q": "Which traditional Portuguese conventual sweet from the central coastal lagoon region consists of a rich egg-yolk-and-sugar confection encased in maritime-shaped wafer paper shells?",
     "options": [
       "Fios de Ovos",
       "Toucinho do Céu",
@@ -9481,7 +9481,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which highly prized, fine-grained traditional Japanese sugar, made through elaborate hand-pressing processes in Shikoku, is used for luxury wasanbon sweets?",
+    "q": "Which highly prized, fine-grained traditional Japanese sugar, made through elaborate hand-pressing processes in Shikoku, is molded into delicate dry wagashi sweets?",
     "options": [
       "Kuromitsu",
       "Rock sugar",
@@ -9505,7 +9505,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which shredded, thread-like wheat pastry dough is used to wrap Turkish and Greek desserts like Knafeh and Kataifi?",
+    "q": "Which shredded, thread-like wheat pastry dough is soaked in syrup and used to encase cheeses and nuts in Eastern Mediterranean desserts like Knafeh?",
     "options": [
       "Phyllo dough",
       "Brik dough",

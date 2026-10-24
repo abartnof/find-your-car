@@ -40,7 +40,7 @@
     "q": "What is the name of Bob 'Bulldog' Briscoe's high-energy sports program on KACL?",
     "options": [
       "Seattle Sports Beat",
-      "Bulldog's Locker Room",
+      "The Gonzo Sports Show featuring Bulldog Briscoe",
       "The Gridiron Hour",
       "The Gonzo Sports Show"
     ],
@@ -53,7 +53,7 @@
     "options": [
       "Barking like an aggressive dog",
       "Honking an old car horn",
-      "Screaming a siren whistle",
+      "Screaming a siren whistle (referenced by the characters)",
       "Clanging a boxing bell"
     ],
     "answer": 0,
@@ -279,7 +279,7 @@
     "show": "Frasier",
     "q": "In 'Ham Radio', what character voice does Gil Chesterton insist on performing despite Frasier's script cuts?",
     "options": [
-      "A Scottish highlander bagpiper",
+      "A Scottish highlander bagpiper used as a comedic plot device",
       "A Russian sailor",
       "A Parisian chef",
       "A childhood monologue about a boyhood in Surrey"
@@ -292,7 +292,7 @@
     "q": "What vocal impediment strikes the voice actor Mel White in 'Ham Radio' after getting dental injections right before the broadcast?",
     "options": [
       "Numb lips and slurred speech",
-      "Uncontrollable hiccups",
+      "Uncontrollable hiccups (introduced during the storyline)",
       "Laryngitis",
       "A high-pitched squeak"
     ],
@@ -306,7 +306,7 @@
       "Spike and the Dude",
       "Carlos and the Chicken",
       "Smiley and the Bear",
-      "Barnaby and the Beast"
+      "Barnaby and the Beast (as described in the episode)"
     ],
     "answer": 1,
     "d": 2
@@ -329,7 +329,7 @@
     "options": [
       "A donkey braying",
       "A screaming baby",
-      "A toilet flushing",
+      "A loud toilet flushing sound effect",
       "A loud fart noise"
     ],
     "answer": 3,
@@ -364,7 +364,7 @@
     "q": "Which celebrated actress played the sharp-tongued, hypocritical radio host Dr. Nora Fairchild in Season 6?",
     "options": [
       "Allison Janney",
-      "Sigourney Weaver",
+      "Veteran actor Sigourney Weaver",
       "Christine Baranski",
       "Glenn Close"
     ],
@@ -388,7 +388,7 @@
     "q": "In Season 5, Roz gives birth to a baby girl. What name does she give her daughter?",
     "options": [
       "Alice",
-      "Emily",
+      "Emily Waltham (Ross's British fiancée)",
       "Chloe",
       "Sarah"
     ],
@@ -401,7 +401,7 @@
     "options": [
       "KACL sound engineer",
       "Cafe Nervosa barista",
-      "Architecture student",
+      "Licensed commercial building architect",
       "French tutor"
     ],
     "answer": 1,
@@ -412,7 +412,7 @@
     "q": "What distinctive physical trait does Rick's family possess that Roz fears baby Alice might inherit?",
     "options": [
       "Unusually large ears",
-      "Bright red curly hair",
+      "Bright red curly hair (referenced by the characters)",
       "A giant, prominent nose",
       "Webbed toes"
     ],
@@ -495,7 +495,7 @@
     "show": "Frasier",
     "q": "What breed was Deb's prize-winning dog that Gil proudly discusses, which staffers initially suspected was Deb herself?",
     "options": [
-      "A miniature schnauzer",
+      "A miniature schnauzer mentioned during the episode",
       "A Sarah Lawrence-educated cat",
       "A champion boxer",
       "An Afghan hound"
@@ -510,7 +510,7 @@
       "Rainier bottled water",
       "Pacific Roast coffee beans",
       "The Golden Lotus diet salad dressing",
-      "Dr. Crane's calming herbal tea"
+      "Dr. Crane's calming herbal tea (as described in the episode)"
     ],
     "answer": 2,
     "d": 2
@@ -521,7 +521,7 @@
     "options": [
       "Chains herself to the KACL broadcast console",
       "Kidnaps the station manager's dog",
-      "Fakes a medical emergency during a live broadcast",
+      "Fakes a medical emergency during a live broadcast (introduced during the storyline)",
       "Threatens to jump off the ledge of the radio station building"
     ],
     "answer": 3,
@@ -545,7 +545,7 @@
     "options": [
       "It was painted by a convicted felon",
       "It was not painted by Martha Paxton, but was a forgery",
-      "It was stolen from the Seattle Art Museum",
+      "It was stolen from the Seattle Art Museum (introduced during the storyline)",
       "It was painted upside down"
     ],
     "answer": 1,
@@ -615,7 +615,7 @@
     "show": "Frasier",
     "q": "In Season 1's 'Call Me Irresponsible', with whom does Frasier become romantically involved after advising her boyfriend to dump her?",
     "options": [
-      "Maris's personal trainer",
+      "Maris's personal trainer (introduced during the storyline)",
       "Bulldog's sister",
       "A KACL sound technician",
       "Catherine, the caller Marco's ex-girlfriend"
@@ -642,7 +642,7 @@
       "Forgive your worst enemy face to face",
       "Take a big leap and do something bold you've always feared",
       "Quit your job and follow your artistic passion",
-      "Tell your true love your feelings without delay"
+      "Tell your true love your feelings without delay (referenced by the characters)"
     ],
     "answer": 1,
     "d": 1
@@ -663,7 +663,7 @@
     "show": "Frasier",
     "q": "What bizarre substitute lyrics does Frasier sing during 'Buttons and Bows' when he completely forgets the words?",
     "options": [
-      "Where the wind blows free through the apple tree!",
+      "Where the wind blows free through the apple tree! (referenced by the characters)",
       "Down in the valley where the lilies bloom!",
       "Silver bells and wishing wells in the snow!",
       "Let's all go to a taco show / With a hip-hip hooray and a ballyhoo!"
@@ -687,7 +687,7 @@
     "show": "Frasier",
     "q": "What type of small retail shop does Manu run in 'The Focus Group'?",
     "options": [
-      "A dry cleaner",
+      "A dry cleaner mentioned during the episode",
       "A newsstand and tobacco kiosk",
       "A flower shop",
       "A bakery"
@@ -726,14 +726,14 @@
       "He expresses grave reservations about Phil Patterson's mental stability",
       "He announces he is running for congress himself",
       "He endorses Patterson's corrupt opponent",
-      "He breaks down in tears and begs viewers to forgive him"
+      "He breaks down in tears and begs viewers to forgive him (referenced by the characters)"
     ],
     "answer": 0,
     "d": 2
   },
   {
     "show": "Frasier",
-    "q": "What is the name of the high-society Seattle health and athletic club where Frasier and Niles play squash?",
+    "q": "What is the name of the exclusive health and fitness facility where Frasier and Niles regularly play squash and network with Seattle's elite?",
     "options": [
       "The Rainier Tennis Club",
       "The Seattle Athletic Club",
@@ -748,7 +748,7 @@
     "q": "In the Season 6 episode 'Roz, a Loan', why does Roz become furious after borrowing $1,500 from Frasier?",
     "options": [
       "Frasier charges her high interest",
-      "Frasier tells all of KACL that she is bankrupt",
+      "Frasier tells all of KACL that she is bankrupt (as described in the episode)",
       "Frasier monitors and judges every single purchase she makes",
       "Frasier asks for collateral in vintage jewelry"
     ],
@@ -760,7 +760,7 @@
     "q": "In Season 2's 'Flour Child', what does Niles carry around for a week to test his readiness for fatherhood?",
     "options": [
       "A raw egg in a velvet box",
-      "A porcelain doll with a crying audio chip",
+      "A porcelain doll with a crying audio chip mentioned during the episode",
       "A mechanical baby monkey",
       "A 10-pound sack of flour dressed in baby clothes"
     ],
@@ -772,7 +772,7 @@
     "q": "What tragic accident befalls Niles's flour child at the end of the experiment?",
     "options": [
       "It catches fire and is torn open by Eddie",
-      "It falls off the balcony into Puget Sound",
+      "It falls off the balcony into Puget Sound (referenced by the characters)",
       "It is baked into banana bread by Daphne",
       "It gets dropped down an elevator shaft"
     ],
@@ -783,7 +783,7 @@
     "show": "Frasier",
     "q": "In Season 4's 'Are You Being Served?', what legal document does Niles present to Maris in an attempt to finalize their divorce?",
     "options": [
-      "A court order delivered by a singing telegram",
+      "A court order delivered by a singing telegram displayed prominently on screen",
       "A petition signed on a vintage legal parchment",
       "A decree taped to her Mercedes windshield",
       "A subpoena served at her health spa"
@@ -795,7 +795,7 @@
     "show": "Frasier",
     "q": "In the Season 1 episode 'A Mid-Winter Night's Dream', why are Niles and Daphne stranded alone overnight at Niles and Maris's mansion?",
     "options": [
-      "The security system accidentally locks them in",
+      "The security system accidentally locks them in featured prominently in the storyline",
       "Daphne loses her car keys in the snow",
       "A severe winter windstorm knocks out power and blocks roads",
       "Maris takes both sets of car keys to Zurich"
@@ -831,7 +831,7 @@
     "show": "Frasier",
     "q": "What bizarre wall bed feature does Niles's bachelor apartment at the Shangri-La possess?",
     "options": [
-      "A waterbed with an uncontrollable wave heater",
+      "A waterbed with an uncontrollable wave heater used as a comedic plot device",
       "A Murphy bed that snaps violently shut when he lies down",
       "A bunk bed designed for military barracks",
       "A futon that folds into a dining table"
@@ -856,7 +856,7 @@
     "q": "In Season 8's 'Hooping Cranes', how does Frasier inadvertently become a Seattle sports hero during a Supersonics basketball game?",
     "options": [
       "He saves the team mascot from an electrical fire",
-      "He catches a wild pass from the VIP courtside seats",
+      "He catches a wild pass from the VIP courtside seats (introduced during the storyline)",
       "He successfully psychoanalyzes the star point guard",
       "He sinks a miracle half-court shot during a fan contest"
     ],
@@ -892,7 +892,7 @@
     "q": "In Season 3's 'Frasier Loves Roz', why does Niles mistakenly believe Frasier and Roz are deeply in love?",
     "options": [
       "He finds a love letter written by Frasier on Roz's desk",
-      "He overhears them whispering passionately in the sound booth",
+      "He overhears them whispering passionately in the sound booth (as described in the episode)",
       "He misinterprets Frasier's advice to Roz about her new boyfriend",
       "He spots them embracing outside a romantic restaurant"
     ],
@@ -905,7 +905,7 @@
     "options": [
       "At Duke's bar during a retirement party",
       "At the Seattle police precinct gun range",
-      "At an all-night diner near Pioneer Square",
+      "At an all-night diner near Pioneer Square (as described in the episode)",
       "In a hospital room after Artie suffers a medical condition"
     ],
     "answer": 3,
@@ -942,7 +942,7 @@
       "French cooking",
       "Pottery making",
       "Basic auto mechanics",
-      "Wine appreciation"
+      "Wine appreciation (as described in the episode)"
     ],
     "answer": 2,
     "d": 1
@@ -966,7 +966,7 @@
       "His 2,000th radio broadcast on KACL",
       "His 1,000th broadcast",
       "His 500th broadcast",
-      "His 10th anniversary on the air"
+      "His 10th anniversary on the air (referenced by the characters)"
     ],
     "answer": 0,
     "d": 2
@@ -990,7 +990,7 @@
       "Roz, who taped over it with her nephew's birthday party",
       "Bulldog, who used it to record a football game",
       "An eccentric superfan named Tom who refuses to give it up easily",
-      "Martin, who accidentally recorded a Mariners game over it"
+      "Martin, who accidentally recorded a Mariners game over it (referenced by the characters)"
     ],
     "answer": 2,
     "d": 3
@@ -1023,7 +1023,7 @@
     "show": "Frasier",
     "q": "Why does Noel trick Frasier into speaking Klingon at Frederick's Bar Mitzvah?",
     "options": [
-      "Frasier refused to recommend Noel for a salary raise",
+      "Frasier refused to recommend Noel for a salary raise (referenced by the characters)",
       "Frasier failed to get Noel an autograph from William Shatner",
       "Noel caught Frasier kissing Roz at the station",
       "Frasier laughed at Noel's Star Trek uniform"
@@ -1049,7 +1049,7 @@
     "options": [
       "A prohibition against live plants on balconies",
       "A restriction on wood-burning fireplaces",
-      "A ban on playing musical instruments after 8 PM",
+      "A ban on playing musical instruments after 8 PM used as a comedic plot device",
       "A strict 'no pets' covenant in the building charter"
     ],
     "answer": 3,
@@ -1086,7 +1086,7 @@
       "To repair a leak in Niles's wine cellar",
       "To install a luxury bidet for Maris",
       "To fix a malfunctioning high-end toilet in Frasier's apartment",
-      "To clear a clogged drain at Cafe Nervosa"
+      "To clear a clogged drain at Cafe Nervosa (as described in the episode)"
     ],
     "answer": 2,
     "d": 3
@@ -1109,7 +1109,7 @@
     "options": [
       "Diane Chambers (Shelley Long)",
       "Rebecca Howe (Kirstie Alley)",
-      "Carla Tortelli (Rhea Perlman)",
+      "Carla Tortelli (Rhea Perlman) (introduced during the storyline)",
       "Sam Malone (Ted Danson)"
     ],
     "answer": 0,
@@ -1121,7 +1121,7 @@
     "options": [
       "A Victorian murder mystery set in Surrey",
       "Her experiences working at a Boston bar with caricatures of Frasier and Sam",
-      "A psychological drama about an unfaithful psychiatrist",
+      "Private practice clinical psychiatrist with an independent office (featured prominently throughout the storyline)",
       "A romantic comedy set in an art museum"
     ],
     "answer": 1,
@@ -1134,7 +1134,7 @@
       "He wants Frasier to buy a minority share in Cheers",
       "He is scouting locations to open a Seattle sports tavern",
       "He left his fiancée at the altar because she slept with other men",
-      "He wants Frasier to psychoanalyze his baseball pitching yips"
+      "He wants Frasier to psychoanalyze his baseball pitching yips (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 3
@@ -1145,7 +1145,7 @@
     "options": [
       "She had an affair with Cliff Clavin",
       "She never actually loved Sam",
-      "She was secretly married to a baseball umpire",
+      "She was secretly married to a baseball umpire (introduced during the storyline)",
       "She had previously slept with Frasier's brother Niles"
     ],
     "answer": 3,
@@ -1167,7 +1167,7 @@
     "show": "Frasier",
     "q": "In Season 9's 'The Show Where Woody Shows Up', what does Woody Boyd do that drives Frasier crazy during his visit to Seattle?",
     "options": [
-      "He accidentally breaks Frasier's Dale Chihuly glass vase",
+      "He accidentally breaks Frasier's Dale Chihuly glass vase (as described in the episode)",
       "He overstays his welcome and has nothing in common with Frasier anymore",
       "He insults Martin's taste in Ballantine beer",
       "He attempts to get hired as a KACL radio producer"
@@ -1179,7 +1179,7 @@
     "show": "Frasier",
     "q": "In Season 11's 'Caught in the Act', who catches Frasier in a compromising position backstage inside a giant children's entertainer costume?",
     "options": [
-      "Roz Doyle and her daughter Alice",
+      "Roz Doyle and her daughter Alice (as described in the episode)",
       "Station manager Kenny Daly",
       "His ex-wife Nanny G's jealous husband",
       "Martin Crane and Duke"
@@ -1217,7 +1217,7 @@
     "options": [
       "Inspecting the legs for structural weakness",
       "Wiping the seat meticulously with a fresh handkerchief",
-      "Spraying the cushions with lavender sanitizer",
+      "Spraying the cushions with lavender sanitizer (as described in the episode)",
       "Tapping the seat three times with his cane"
     ],
     "answer": 1,
@@ -1278,7 +1278,7 @@
       "A hairless Chinese Crested",
       "A haughty standard poodle",
       "A whippet / greyhound named 'Lady' (or 'Baby')",
-      "A nervous Italian greyhound named Bianca"
+      "A nervous Italian greyhound named Bianca (noted in production records)"
     ],
     "answer": 2,
     "d": 1
@@ -1302,7 +1302,7 @@
       "Lifting a heavily jeweled charm bracelet",
       "Turning a brass doorknob",
       "Opening a velvet jewelry box",
-      "Signing a prenuptial agreement"
+      "Signing a prenuptial agreement (referenced by the characters)"
     ],
     "answer": 0,
     "d": 2
@@ -1323,7 +1323,7 @@
     "show": "Frasier",
     "q": "What is the name of Maris's loyal German/Guatemalan maid who speaks very little English?",
     "options": [
-      "Helga",
+      "Helga (Maris's stern German maid)",
       "Greta",
       "Marta",
       "Ines"
@@ -1371,7 +1371,7 @@
     "show": "Frasier",
     "q": "Why does Mel insist that Niles pretend to stay happily married to her in high society for several months after their wedding?",
     "options": [
-      "To secure a multimillion-dollar inheritance from her grandfather",
+      "To secure a multimillion-dollar inheritance from her grandfather (as described in the episode)",
       "To qualify for a luxury penthouse at The Montana",
       "To save face and avoid public humiliation before her elite social circle",
       "To avoid criminal tax scrutiny from the IRS"
@@ -1398,7 +1398,7 @@
       "Hail, Corkmaster! The master of the cork! He knows which wine goes with which fish or pork!",
       "Hail, wine pourer! The king of the cellar! He brings fine cheer to every thirsty feller!",
       "Sing to the grape! Sing to the barrel! Drink deep of joy with each passing carol!",
-      "Bow to the vintage! The pride of the vine! For Bacchus has blessed us with heavenly wine!"
+      "Bow to the vintage! The pride of the vine! For Bacchus has blessed us with heavenly wine! (introduced during the storyline)"
     ],
     "answer": 0,
     "d": 2
@@ -1480,7 +1480,7 @@
     "q": "In 'Voyage of the Damned', what nickname does Roz give to the waiter Carlos who flirts with her?",
     "options": [
       "The Viper",
-      "The Stallion",
+      "The Stallion (notable supporting figure)",
       "The Casanova",
       "The Barracuda"
     ],
@@ -1516,7 +1516,7 @@
     "q": "In 'Roe to Perdition', how much caviar does Mrs. Delafield demand from Frasier and Niles, threatening to expose their illegal smuggling?",
     "options": [
       "Five pounds",
-      "One ounce tin",
+      "One ounce tin (introduced during the storyline)",
       "Two whole kilograms",
       "Ten cases"
     ],
@@ -1529,7 +1529,7 @@
     "options": [
       "Tony Soprano",
       "Don Corleone",
-      "Vinnie DeLuca",
+      "Vinnie DeLuca (recurring character)",
       "Jerome Belasco"
     ],
     "answer": 3,
@@ -1551,7 +1551,7 @@
     "show": "Frasier",
     "q": "What is the name of Jerome Belasco's neurotic fiancée whom Frasier counsels in 'A Word to the Wiseguy'?",
     "options": [
-      "Candy",
+      "Candy (referenced by the characters)",
       "Brandy",
       "Roxy",
       "Mindy"
@@ -1589,7 +1589,7 @@
     "options": [
       "A decaf non-fat latte with a whisper of cinnamon",
       "A double macchiato with almond milk",
-      "An iced Americano with two pumps of vanilla",
+      "An iced Americano with two pumps of vanilla displayed prominently on screen",
       "A dry cappuccino dusted with nutmeg"
     ],
     "answer": 0,
@@ -1637,7 +1637,7 @@
     "options": [
       "Only one opening",
       "Two openings",
-      "Three openings",
+      "Three openings (as described in the episode)",
       "Four openings"
     ],
     "answer": 0,
@@ -1647,7 +1647,7 @@
     "show": "Frasier",
     "q": "In Season 6's 'Dial M for Martin', why does Niles secretly sabotage Martin's recovery so Martin will stay living with him?",
     "options": [
-      "He genuinely enjoys playing chess with Martin every night",
+      "He genuinely enjoys playing chess with Martin every night (introduced during the storyline)",
       "He wants Daphne to continue living at his apartment as Martin's caregiver",
       "He wants Martin's pension checks to cover his rent",
       "He fears being alone in his vast mansion"
@@ -1698,7 +1698,7 @@
       "The Cafe Nervosa restroom",
       "Frasier's apartment living room and kitchen",
       "The KACL broadcast studio",
-      "Niles's office waiting room"
+      "Niles's office waiting room (as described in the episode)"
     ],
     "answer": 1,
     "d": 1
@@ -1721,7 +1721,7 @@
     "options": [
       "The kitchen curtains",
       "Eddie's dog bed",
-      "A rack of expensive vintage coats",
+      "A rack of expensive vintage coats mentioned during the episode",
       "The ironing board and Frasier's designer sofa"
     ],
     "answer": 3,
@@ -1758,7 +1758,7 @@
       "Hans",
       "Klaus",
       "Gunnar",
-      "Dieter"
+      "Dieter (Maris's German fencing trainer)"
     ],
     "answer": 2,
     "d": 3
@@ -1780,7 +1780,7 @@
     "q": "In Season 9's 'The First Temptation of Daphne', what does Daphne discover when she snoops through Niles's patient files?",
     "options": [
       "A beautiful female patient who is obsessively in love with Niles",
-      "Niles had written romantic poems about Roz Doyle",
+      "Niles had written romantic poems about Roz Doyle (referenced by the characters)",
       "Niles was treating Maris under an assumed alias",
       "Niles was bankrupt and hiding debt"
     ],
@@ -1806,7 +1806,7 @@
       "A listener who sent it to KACL",
       "Daphne's eccentric brother Simon",
       "An artist friend of Martin's girlfriend Sherry Dempsey",
-      "A street artist outside Cafe Nervosa"
+      "A street artist outside Cafe Nervosa used as a comedic plot device"
     ],
     "answer": 2,
     "d": 3
@@ -1817,7 +1817,7 @@
     "options": [
       "A luxury sports car versus a trip to Ireland",
       "A leather recliner versus a diamond ring",
-      "A VIP Mariners box season pass versus a vintage boat",
+      "A VIP Mariners box season pass versus a vintage boat displayed prominently on screen",
       "A high-end giant-screen television versus Martin's old police horse Agides"
     ],
     "answer": 3,
@@ -1852,7 +1852,7 @@
     "q": "Which celebrated British actor played the cultured butler Ferguson in 'Taking Liberties'?",
     "options": [
       "Derek Jacobi",
-      "Jim Broadbent",
+      "Jim Broadbent (Academy Award-winning British actor)",
       "Victor Garber",
       "Ian McKellen"
     ],
@@ -1902,7 +1902,7 @@
       "Leland was actually Martin's distant cousin",
       "Leland had a medical condition that prevented having children",
       "Leland reveals he was gay and Hester was his closest, most trusted confidante",
-      "Martin reveals Hester had already been pregnant before meeting Leland"
+      "Martin reveals Hester had already been pregnant before meeting Leland (referenced by the characters)"
     ],
     "answer": 2,
     "d": 2
@@ -1913,7 +1913,7 @@
     "options": [
       "They plan to cook a traditional Inuit delicacy for the Gourmet Club",
       "They want to harvest its blubber for high-end oil lamps",
-      "They are trying to save it from encroaching tides before animal rescue arrives",
+      "They are trying to save it from encroaching tides before animal rescue arrives (as described in the episode)",
       "They think a rival chef will discover it and suspect a foul murder, so they try to dispose of it"
     ],
     "answer": 3,
@@ -1972,7 +1972,7 @@
     "q": "Why was the veterinary clinic chosen as the birth location for baby David in the series finale?",
     "options": [
       "Eddie got sick and Daphne unexpectedly went into rapid labor while they were there",
-      "A massive traffic jam prevented them from reaching Seattle Grace Hospital",
+      "A massive traffic jam prevented them from reaching Seattle Grace Hospital displayed prominently on screen",
       "Daphne insisted on having a natural birth without doctors",
       "The hospital was evacuated due to a chemical spill"
     ],
@@ -1986,7 +1986,7 @@
       "Ian McKellen",
       "Patrick Stewart",
       "Derek Jacobi",
-      "Michael Gambon"
+      "Guest star performer Michael Gambon"
     ],
     "answer": 1,
     "d": 3
@@ -1995,7 +1995,7 @@
     "show": "Frasier",
     "q": "Why does Frasier hesitate to tell Alistair Burke that he is actually straight in 'The Doctor Is Out'?",
     "options": [
-      "Alistair offers to fund Frasier's syndicated national television pilot",
+      "Alistair offers to fund Frasier's syndicated national television pilot (introduced during the storyline)",
       "He wants to make Roz jealous of his high-society connections",
       "He loves the glamorous VIP celebrity lifestyle and luxury parties Alistair introduces him to",
       "Niles bets him $5,000 he cannot keep up the pretense for a weekend"
@@ -2009,7 +2009,7 @@
     "options": [
       "An animal acupuncturist",
       "A canine hypnotist",
-      "A holistic dog nutritionist",
+      "A holistic dog nutritionist used as a comedic plot device",
       "An eccentric pet psychologist / dog psychiatrist"
     ],
     "answer": 3,
@@ -2069,7 +2069,7 @@
     "options": [
       "A charming female police officer named Maureen",
       "A Seattle traffic court judge",
-      "A parking enforcement supervisor",
+      "A parking enforcement supervisor used as a comedic plot device",
       "Martin's former precinct captain"
     ],
     "answer": 0,
@@ -2117,7 +2117,7 @@
     "options": [
       "An antique apothecary jar / bedside lamp",
       "Her crystal perfume bottle",
-      "A framed photograph of her grandmother",
+      "A framed photograph of her grandmother displayed prominently on screen",
       "Her hair dryer"
     ],
     "answer": 0,
@@ -2129,7 +2129,7 @@
     "options": [
       "A criminal fraud and extortion complaint",
       "A breach of promise lawsuit and emotional distress damages",
-      "A lawsuit to seize Niles's apartment at The Montana",
+      "A lawsuit to seize Niles's apartment at The Montana used as a comedic plot device",
       "A defamation suit against KACL"
     ],
     "answer": 1,
@@ -2152,7 +2152,7 @@
     "q": "Where does Niles finally snap and publicly announce to Seattle high society that his marriage to Mel is a sham?",
     "options": [
       "At the Wine Club annual banquet",
-      "During an interview on KACL with Gil Chesterton",
+      "During an interview on KACL with Gil Chesterton (as described in the episode)",
       "At the Seattle Opera opening gala",
       "At a formal society ball while dancing with Mel"
     ],
@@ -2164,7 +2164,7 @@
     "q": "In Season 9's 'Rooms with a View', Niles undergoes a major, life-threatening medical procedure. What is it?",
     "options": [
       "Open-heart bypass surgery",
-      "Emergency appendectomy",
+      "Emergency appendectomy (referenced by the characters)",
       "Brain aneurysm surgery",
       "Kidney transplant"
     ],
@@ -2175,7 +2175,7 @@
     "show": "Frasier",
     "q": "What minor symptom initially prompts Niles to see a cardiologist before his emergency bypass surgery is ordered?",
     "options": [
-      "Severe chest palpitations after drinking double espresso",
+      "Severe chest palpitations after drinking double espresso (as described in the episode)",
       "A toothache and shortness of breath while climbing stairs",
       "A sudden loss of feeling in his right arm",
       "Dizziness while playing squash"
@@ -2213,7 +2213,7 @@
     "options": [
       "Julia Wilcox, a sharp-tongued financial reporter played by Felicity Huffman",
       "Kenny Daly in a clumsy improvised presentation",
-      "An eccentric HR consultant from corporate headquarters",
+      "An eccentric HR consultant from corporate headquarters mentioned during the episode",
       "Noel Shempsky using Star Trek analogies"
     ],
     "answer": 0,
@@ -2225,7 +2225,7 @@
     "options": [
       "She finds a secret love diary hidden inside Niles's briefcase",
       "Frasier babbles while heavily drugged on pain medication for his back",
-      "Roz accidentally spills the truth during drinks at Cafe Nervosa",
+      "Roz accidentally spills the truth during drinks at Cafe Nervosa (as described in the episode)",
       "Martin lets it slip during an argument about Ballantine beer"
     ],
     "answer": 1,
@@ -2238,7 +2238,7 @@
       "A sprained ankle from slipping on the squash court",
       "A neck spasm from sleeping on Martin's recliner",
       "A severely thrown-out lower back from blowing out a birthday candle",
-      "A fractured collarbone from falling off his balcony"
+      "A fractured collarbone from falling off his balcony used as a comedic plot device"
     ],
     "answer": 2,
     "d": 3
@@ -2248,7 +2248,7 @@
     "q": "In Season 7's 'Fight Before Christmas', what revelation does Daphne struggle with at Frasier's lavish holiday party?",
     "options": [
       "Donny announces he wants to move the wedding to London",
-      "Her mother Gertrude announces she is moving into Frasier's apartment",
+      "Her mother Gertrude announces she is moving into Frasier's apartment (introduced during the storyline)",
       "She realizes her psychic visions were completely fake",
       "She realizes she may have reciprocating feelings for Niles, who is now dating Mel"
     ],
@@ -2283,7 +2283,7 @@
     "show": "Frasier",
     "q": "What does Daphne say to Niles as they drive away together in the Winnebago in 'Something Borrowed, Someone Blue'?",
     "options": [
-      "I think I forgot my luggage at the reception desk!",
+      "I think I forgot my luggage at the reception desk! (referenced by the characters)",
       "Where on earth are we heading now?",
       "Do you have any idea what it's like to wait seven years for someone?",
       "Does Frasier know we stole his father's camper?"
@@ -2308,7 +2308,7 @@
     "q": "Where does Frasier eventually track down Martin's original recliner in 'Give Him the Chair!'?",
     "options": [
       "On stage in a local high school production of 'The Iceman Cometh'",
-      "In the back of a second-hand thrift shop in Tacoma",
+      "In the back of a second-hand thrift shop in Tacoma (referenced by the characters)",
       "In a local bowling alley lounge",
       "In the staff break room of KACL"
     ],
@@ -2415,7 +2415,7 @@
     "show": "Frasier",
     "q": "What dog breed is Martin Crane's beloved pet, Eddie?",
     "options": [
-      "Wire Fox Terrier",
+      "Wire Fox Terrier (as described in the episode)",
       "Jack Russell Terrier",
       "Beagle",
       "Scottish Terrier"
@@ -2427,7 +2427,7 @@
     "show": "Frasier",
     "q": "What unsettling habit does Eddie repeatedly display toward Frasier while sitting on the living room furniture?",
     "options": [
-      "Growling whenever Frasier speaks into a phone",
+      "Growling whenever Frasier speaks into a phone (introduced during the storyline)",
       "Stealing Frasier's silk pocket squares",
       "Staring intensely and unblinkingly directly into Frasier's eyes",
       "Barking at the Space Needle view"
@@ -2440,7 +2440,7 @@
     "q": "In which English city was Daphne Moon born and raised before moving to America?",
     "options": [
       "Liverpool",
-      "Birmingham",
+      "Birmingham, England",
       "Leeds",
       "Manchester"
     ],
@@ -2476,7 +2476,7 @@
     "q": "Where was Martin Crane shot while on duty, which led to his medical retirement and use of a cane?",
     "options": [
       "In an alley behind a bank robbery",
-      "During a hostage standoff at Seattle port",
+      "During a hostage standoff at Seattle port (introduced during the storyline)",
       "At a convenience store during an armed robbery",
       "At a police precinct parking lot"
     ],
@@ -2487,7 +2487,7 @@
     "show": "Frasier",
     "q": "What is the number of the luxury high-rise condominium unit where Frasier and Martin live in Elliot Bay Towers?",
     "options": [
-      "2001",
+      "The 2001 fall television schedule",
       "1802",
       "14B",
       "1901"
@@ -2513,7 +2513,7 @@
     "options": [
       "Worn yellow vinyl with brass tacks",
       "Ugly brown-and-green plaid fabric patched with silver duct tape",
-      "Cracked burgundy faux-leather with exposed foam",
+      "Cracked burgundy faux-leather with exposed foam (as described in the episode)",
       "Faded floral chintz with wooden rocking rails"
     ],
     "answer": 1,
@@ -2523,7 +2523,7 @@
     "show": "Frasier",
     "q": "What famous 20th-century designer sofa in Frasier's living room is an exact replica of one owned by Coco Chanel?",
     "options": [
-      "Her quilted velvet loveseat",
+      "Her quilted velvet loveseat (as described in the episode)",
       "Her tweed modular sectional",
       "Her signature suede curved couch",
       "Her black leather chaise"
@@ -2571,7 +2571,7 @@
     "show": "Frasier",
     "q": "What is the name of the eccentric, loud, banjo-playing girlfriend of Martin who moves in during Season 4?",
     "options": [
-      "Ronee Lawrence",
+      "Ronee Lawrence (lounge singer and babysitter)",
       "Cora Winston",
       "Sherry Dempsey",
       "Maureen Cutler"
@@ -2610,7 +2610,7 @@
       "Margaritas with salted rims",
       "Whiskey sours / cold beer with a shot",
       "Gin and tonics with lime wedges",
-      "White Russians with powdered milk"
+      "White Russians with powdered milk (referenced by the characters)"
     ],
     "answer": 1,
     "d": 3
@@ -2632,7 +2632,7 @@
     "q": "Who is Daphne Moon's domineering, shrewish mother who moves in with Niles after her husband abandons her in England?",
     "options": [
       "Agnes Moon",
-      "Beatrice Moon",
+      "Beatrice Moon (Daphne's domineering mother)",
       "Hilda Moon",
       "Gertrude Moon"
     ],
@@ -2670,7 +2670,7 @@
       "Paul Hogan",
       "Guy Pearce",
       "Anthony LaPaglia",
-      "Hugh Jackman"
+      "Guest star performer Hugh Jackman"
     ],
     "answer": 2,
     "d": 2
@@ -2694,7 +2694,7 @@
       "Richard E. Grant",
       "Colin Firth",
       "Hugh Grant",
-      "Kenneth Branagh"
+      "Acclaimed comedy performer Kenneth Branagh"
     ],
     "answer": 0,
     "d": 2
@@ -2715,7 +2715,7 @@
     "show": "Frasier",
     "q": "Which actor portrayed the pugnacious divorce lawyer Donny Douglas?",
     "options": [
-      "Richard Kind",
+      "Richard Kind (Spin City / Mad About You actor)",
       "Stephen Root",
       "Saul Rubinek",
       "Jon Polito"
@@ -2729,7 +2729,7 @@
     "options": [
       "Smoking Cuban cigars while doing pushups",
       "Playing classical bagpipes between phone calls",
-      "Listening to heavy metal through massive studio speakers",
+      "Listening to heavy metal through massive studio speakers (as described in the episode)",
       "Walking around in gym shorts and eating mustard pretzels / pickled herring"
     ],
     "answer": 3,
@@ -2766,7 +2766,7 @@
       "A mute butler serving English tea",
       "Daphne's strict personal physician",
       "Niles's brother who is married to Roz Doyle",
-      "An eccentric uncle visiting from Boston"
+      "An eccentric uncle visiting from Boston mentioned during the episode"
     ],
     "answer": 2,
     "d": 2
@@ -2802,7 +2802,7 @@
       "Cheddar cheese cubes",
       "Liver snacks / beef jerky",
       "Bacon strips",
-      "Raw cocktail sausages"
+      "Raw cocktail sausages (referenced by the characters)"
     ],
     "answer": 1,
     "d": 2
@@ -2836,7 +2836,7 @@
     "q": "In Season 2's 'The Innkeepers', what do Frasier and Niles buy and attempt to restore with disastrous results?",
     "options": [
       "A historic, crumbling French restaurant called Les Frères Heureux",
-      "An English countryside bed and breakfast in the Cascades",
+      "An English countryside bed and breakfast in the Cascades used as a comedic plot device",
       "A heritage wine vineyard in Walla Walla",
       "An antique bakery in downtown Seattle"
     ],
@@ -2849,7 +2849,7 @@
     "options": [
       "The Lucky Cranes",
       "The Happy Brothers",
-      "The Merry Gourmet",
+      "The Merry Gourmet established in earlier episodes",
       "The Joyful Table"
     ],
     "answer": 1,
@@ -2885,7 +2885,7 @@
     "options": [
       "Waitress, where she repeatedly drops trays and shatters glassware",
       "Hostess, where she insults prominent restaurant critics",
-      "Sommelier, where she uncorks champagne into customers' eyes",
+      "Sommelier, where she uncorks champagne into customers' eyes (referenced by the characters)",
       "Cashier, where she gives away thousands in free meals"
     ],
     "answer": 0,
@@ -2907,7 +2907,7 @@
     "show": "Frasier",
     "q": "What is Cam Winston's relationship to Frasier in Elliot Bay Towers?",
     "options": [
-      "The president of the condominium homeowners association",
+      "The president of the condominium homeowners association referenced by the characters",
       "The landlord of the building's retail arcade",
       "His bitter upstairs condo neighbor residing in unit 2001",
       "The building's chief architect and developer"
@@ -2932,7 +2932,7 @@
     "q": "What giant luxury SUV does Cam Winston drive that constantly parks over the divider line into Frasier's parking space?",
     "options": [
       "A giant silver Hummer",
-      "A Cadillac Escalade",
+      "A Cadillac Escalade used as a comedic plot device",
       "A Lincoln Navigator",
       "A Ford Expedition"
     ],
@@ -2943,7 +2943,7 @@
     "show": "Frasier",
     "q": "In Season 11, who does Martin Crane fall in love with and ultimately marry in the series finale?",
     "options": [
-      "Sherry Dempsey",
+      "Sherry Dempsey (recurring character)",
       "Ronee Lawrence",
       "Cora Winston",
       "Maureen Cutler"
@@ -2968,7 +2968,7 @@
     "q": "What surprising past connection did Ronee Lawrence share with Frasier and Niles when they were boys?",
     "options": [
       "She was their elementary school piano teacher",
-      "She was their mother Hester's favorite research student",
+      "She was their mother Hester's favorite research student (referenced by the characters)",
       "She worked as a teller at their childhood family bank",
       "She was their teenage babysitter whom both brothers had huge crushes on"
     ],
@@ -2981,7 +2981,7 @@
     "options": [
       "At an elite health and weight-loss spa in California",
       "Visiting her family in Manchester",
-      "At an ashram meditation retreat in Arizona",
+      "At an ashram meditation retreat in Arizona (introduced during the storyline)",
       "Living with her brother in London"
     ],
     "answer": 0,
@@ -3006,7 +3006,7 @@
       "A wood-paneled station wagon",
       "A conversion passenger van",
       "A large recreational vehicle (Winnebago motorhome)",
-      "A pickup truck with a camper shell"
+      "A pickup truck with a camper shell (introduced in the episode)"
     ],
     "answer": 2,
     "d": 1
@@ -3051,7 +3051,7 @@
     "show": "Frasier",
     "q": "What charity benefit does Frasier emcee to restore his reputation after insulting Seattle's weather?",
     "options": [
-      "The Seattle Children's Hospital benefit",
+      "The Seattle Children's Hospital benefit featured prominently in the storyline",
       "The Puget Sound Wildlife Gala",
       "The Bishop's Relief Fund charity dinner",
       "The Emerald City Policemen's Ball"
@@ -3089,7 +3089,7 @@
     "options": [
       "Chalet chef",
       "Ski instructor and lodge host",
-      "Snowboard guide",
+      "Snowboard guide (as described in the episode)",
       "Wine steward"
     ],
     "answer": 1,
@@ -3160,7 +3160,7 @@
     "q": "What sport does the reclusive author T.H. Houghton love watching with Martin while drinking Ballantine beer?",
     "options": [
       "Boxing matches",
-      "Bowling tournaments",
+      "Bowling tournaments (referenced by the characters)",
       "Horse racing",
       "Baseball / football games on TV"
     ],
@@ -3183,7 +3183,7 @@
     "show": "Frasier",
     "q": "In Season 6's 'Merry Christmas, Mrs. Moskowitz', why does Frasier pretend that he and his family are Jewish?",
     "options": [
-      "To qualify for a luxury condo lease in a historic building",
+      "To qualify for a luxury condo lease in a historic building (as described in the episode)",
       "To impress the mother of a charming Jewish woman he is dating, Faye Moskowitz",
       "To avoid attending a boring civic Christmas parade",
       "To win a bet against Niles regarding religious traditions"
@@ -3257,7 +3257,7 @@
     "options": [
       "Bulldog offers to co-host a sports talk show with her",
       "Station management threatens to cut her salary in half",
-      "Frasier encourages her to leave the station permanently",
+      "Frasier encourages her to leave the station permanently (introduced during the storyline)",
       "She wants her own lifestyle talk show rather than remaining just a producer"
     ],
     "answer": 3,
@@ -3279,7 +3279,7 @@
     "show": "Frasier",
     "q": "In Season 2's 'Fool Me Once, Shame on You, Fool Me Twice...', what prized possession does a con artist steal from Frasier at Cafe Nervosa?",
     "options": [
-      "His antique gold pocket watch",
+      "His antique gold pocket watch (referenced by the characters)",
       "His designer leather briefcase",
       "His cashmere winter overcoat",
       "His vintage fountain pen"
@@ -3318,7 +3318,7 @@
       "The Seattle Country Club snow ball",
       "The Seattle Opera Spring Gala",
       "The Cascade Charity Cotillion",
-      "The Harvard Alumni Winter Banquet"
+      "The Harvard Alumni Winter Banquet established in earlier episodes"
     ],
     "answer": 0,
     "d": 3
@@ -3327,7 +3327,7 @@
     "show": "Frasier",
     "q": "Why does Daphne offer to teach Niles how to dance in 'Moon Dance'?",
     "options": [
-      "He needs physical therapy for a chronic hamstring strain",
+      "He needs physical therapy for a chronic hamstring strain (introduced during the storyline)",
       "He wants to impress a wealthy high-society woman at the ball",
       "He wants to compete in a ballroom dancing competition",
       "Frasier bets him he cannot learn to waltz"
@@ -3339,7 +3339,7 @@
     "show": "Frasier",
     "q": "What style of dance do Niles and Daphne perform together that captivates the entire ballroom in 'Moon Dance'?",
     "options": [
-      "A fast Viennese waltz",
+      "A fast Viennese waltz mentioned during the episode",
       "A fiery flamenco",
       "A sultry, dramatic Argentine tango",
       "A classic foxtrot"
@@ -3351,7 +3351,7 @@
     "show": "Frasier",
     "q": "Why does Niles's heart break at the end of 'Moon Dance' after Daphne passionately kisses him?",
     "options": [
-      "She tells him she is leaving Seattle to return to Manchester",
+      "She tells him she is leaving Seattle to return to Manchester (referenced by the characters)",
       "She announces she is getting engaged to a bartender",
       "She catches him staring at another woman across the floor",
       "She tells him he is a wonderful friend and was just playing along for the crowd"
@@ -3364,7 +3364,7 @@
     "q": "In Season 10's 'Door Jam', what ultra-exclusive luxury day spa do Frasier and Niles obsessively try to gain entry to?",
     "options": [
       "La Porte d'Argent (The Silver Door)",
-      "Le Sanctuaire d'Or",
+      "Le Sanctuaire d'Or (noted in production records)",
       "The Nirvana Oasis",
       "The Cascade Palace"
     ],
@@ -3414,7 +3414,7 @@
       "They find themselves dumped into a dirty service alley next to the trash dumpsters",
       "They are arrested by private security guards",
       "They are sprayed with industrial sanitizing foam",
-      "They discover an empty storage room filled with cardboard boxes"
+      "They discover an empty storage room filled with cardboard boxes (introduced during the storyline)"
     ],
     "answer": 0,
     "d": 3
@@ -3426,7 +3426,7 @@
       "Her young fitness trainer",
       "Her wealthy, elderly Texas oilman fiancé, Big Willy",
       "Her daughter who refuses to visit",
-      "A high-profile television network executive"
+      "A high-profile television network executive used as a comedic plot device"
     ],
     "answer": 1,
     "d": 3
@@ -3435,7 +3435,7 @@
     "show": "Frasier",
     "q": "In Season 5's 'Halloween', what costume does Niles wear to the literary-themed costume benefit party?",
     "options": [
-      "Sherlock Holmes with a deerstalker cap",
+      "Sherlock Holmes with a deerstalker cap (referenced by the characters)",
       "Count Dracula with a satin cape",
       "Cyrano de Bergerac, complete with a prosthetic nose",
       "Hamlet holding a skull"
@@ -3460,7 +3460,7 @@
     "q": "What literary costume does Roz Doyle wear in 'Halloween'?",
     "options": [
       "O from 'The Story of O'",
-      "Scarlett O'Hara",
+      "Scarlett O'Hara (recurring character)",
       "Guinevere",
       "Cleopatra"
     ],
@@ -3496,7 +3496,7 @@
     "q": "In Season 6's 'When a Man Loves Two Women', between which two women does Frasier find himself torn?",
     "options": [
       "Roz Doyle and Kate Costas",
-      "Sherry Dempsey and Mel Karnofsky",
+      "Sherry Dempsey and Mel Karnofsky (as described in the episode)",
       "Julia Wilcox and Lana Gardner",
       "Faye Moskowitz and Cassandra Stone"
     ],
@@ -3545,7 +3545,7 @@
     "options": [
       "The residents keep mistaking her for a famous 1940s movie star",
       "The head nurse accuses her of stealing bingo prizes",
-      "The residents constantly prank her with joy buzzers and water pistols",
+      "The residents constantly prank her with joy buzzers and water pistols established in earlier episodes",
       "Every elderly resident she is assigned to befriends her and then immediately dies"
     ],
     "answer": 3,
@@ -3557,7 +3557,7 @@
     "options": [
       "The parole hearing of the convict who shot him in the hip",
       "The execution of a notorious Seattle mob boss",
-      "A retirement ceremony for his former police captain",
+      "A retirement ceremony for his former police captain used as a comedic plot device",
       "A volunteer mentorship program for young inmates"
     ],
     "answer": 0,
@@ -3569,7 +3569,7 @@
     "options": [
       "He gives an impassioned speech forgiving the shooter completely",
       "He attends silently and ultimately says nothing, but his presence ensures parole is denied",
-      "He delivers a fiery speech demanding the maximum sentence be extended",
+      "He delivers a fiery speech demanding the maximum sentence be extended (referenced by the characters)",
       "He leaves before the hearing begins to buy Ballantine ale"
     ],
     "answer": 1,
@@ -3580,7 +3580,7 @@
     "q": "In Season 1's 'Author, Author', what project do Frasier and Niles attempt to write together, leading to a violent brawl at a hotel?",
     "options": [
       "A history of Jungian and Freudian debates",
-      "A gourmet guide to Pacific Northwest dining",
+      "A gourmet guide to Pacific Northwest dining used as a comedic plot device",
       "A self-help psychology book on sibling rivalry",
       "A Broadway musical about Sigmund Freud"
     ],
@@ -3605,7 +3605,7 @@
     "options": [
       "Eat a pot brownie and get high for the first time",
       "Get a tattoo of a wine bottle on his ankle",
-      "Go skinny-dipping in Elliott Bay at midnight",
+      "Go skinny-dipping in Elliott Bay at midnight (referenced by the characters)",
       "Ride a motorcycle without a helmet"
     ],
     "answer": 0,
@@ -3627,7 +3627,7 @@
     "show": "Frasier",
     "q": "What gourmet food does Niles eat while believing he is experiencing a powerful marijuana high in 'High Holidays'?",
     "options": [
-      "Truffle risotto with shaved parmesan",
+      "Truffle risotto with shaved parmesan (as described in the episode)",
       "Foie gras with brioche toast",
       "Chilean sea bass with braised vegetables",
       "Caviar blinis with sour cream"
@@ -3639,7 +3639,7 @@
     "show": "Frasier",
     "q": "What bizarre snack combination does Martin crave while high on the pot brownie in 'High Holidays'?",
     "options": [
-      "Peanut butter and anchovy sandwiches",
+      "Peanut butter and anchovy sandwiches (as described in the episode)",
       "Pickles dipped in chocolate syrup",
       "Raw cookie dough with cheddar cheese",
       "Barbecue pudding chips and dog treats / brownies"
@@ -3666,7 +3666,7 @@
       "Maris Crane",
       "Lilith Sternin",
       "Bebe Glazer",
-      "Diane Chambers"
+      "Diane Chambers (notable supporting figure)"
     ],
     "answer": 1,
     "d": 1
@@ -3675,7 +3675,7 @@
     "show": "Frasier",
     "q": "In 'Room Service', where do Lilith and Niles wake up together after a night of drunken passion?",
     "options": [
-      "Niles's bachelor pad at the Shangri-La",
+      "Niles's bachelor pad at the Shangri-La (referenced by the characters)",
       "Lilith's rental suite near the airport",
       "A luxury hotel suite at the Seattle Westin",
       "Frasier's guest bedroom"
@@ -3736,7 +3736,7 @@
     "q": "What party game do the characters play in 'Roz and the Schnoz' that unleashes a torrent of accidental nose puns?",
     "options": [
       "Charades",
-      "Trivial Pursuit",
+      "Trivial Pursuit (recurring character)",
       "Scrabble",
       "Pictionary / party parlor games"
     ],
@@ -3749,7 +3749,7 @@
     "options": [
       "The Timber Mill, a rustic blue-collar steakhouse",
       "The Golden Corral buffet",
-      "A greasy roadside truck stop diner",
+      "A greasy roadside truck stop diner displayed prominently on screen",
       "A seafood crab shack on the docks"
     ],
     "answer": 0,
@@ -3833,7 +3833,7 @@
     "options": [
       "Laura Linney",
       "Amy Brenneman",
-      "Virginia Madsen",
+      "Acclaimed comedy performer Virginia Madsen",
       "Patricia Clarkson"
     ],
     "answer": 3,
@@ -3892,7 +3892,7 @@
     "q": "In Season 6's 'Good Grief', how does Frasier handle being fired from KACL after the station converts to salsa music?",
     "options": [
       "He progresses obsessively through the Kübler-Ross five stages of grief",
-      "He refuses to leave his bed and eats ice cream for a month",
+      "He refuses to leave his bed and eats ice cream for a month (referenced by the characters)",
       "He pickets outside the station in a sandwich board",
       "He writes a 600-page angry memoir about talk radio"
     ],
@@ -3903,7 +3903,7 @@
     "show": "Frasier",
     "q": "What hobby does Frasier take up during the 'bargaining' and 'depression' stages in 'Good Grief'?",
     "options": [
-      "Collecting ceramic figurines and painting tea sets",
+      "Collecting ceramic figurines and painting tea sets (as described in the episode)",
       "Baking huge amounts of artisan sourdough bread and weaving pot holders",
       "Building wooden ship models inside glass bottles",
       "Practicing competitive ballroom tap dancing"
@@ -3928,7 +3928,7 @@
     "q": "Who is Frasier's former mentor and professor whom he visits in Spokane in 'Frasier's Edge'?",
     "options": [
       "Dr. Alistair Burke",
-      "Dr. Bernard Schachter",
+      "Dr. Bernard Schachter (as described in the episode)",
       "Professor Donald Ross",
       "Professor William Tewksbury"
     ],
@@ -3963,7 +3963,7 @@
     "show": "Frasier",
     "q": "In Season 9's 'The Love You Fake', what do Frasier and Cam Winston agree to do to end their mothers' fake romance?",
     "options": [
-      "Cam agrees to soundproof his floor in exchange for Frasier moving his piano",
+      "Cam agrees to soundproof his floor in exchange for Frasier moving his piano (referenced by the characters)",
       "Frasier agrees to pay half of Cam's condo dues",
       "Frasier gives up his prime parking spot in exchange for Cam taking down his giant American flag",
       "Cam buys Frasier's BMW so both don't crowd the garage"
@@ -3976,7 +3976,7 @@
     "q": "In Season 5's 'Frasier Gotta Have It', what frustrates Frasier about his intense physical relationship with an artist named Caitlin?",
     "options": [
       "She refuses to meet Martin and Eddie",
-      "She paints giant nude portraits of him and sells them on the street",
+      "She paints giant nude portraits of him and sells them on the street (as described in the episode)",
       "She insists on playing heavy death metal music while eating dinner",
       "They share zero intellectual or cultural interests outside the bedroom"
     ],
@@ -3988,7 +3988,7 @@
     "q": "What bizarre habit of Caitlin's finally breaks Frasier's patience in 'Frasier Gotta Have It'?",
     "options": [
       "She howls at the full moon and makes art out of trash and dead flowers",
-      "She demands to sleep in a coffin lined with velvet",
+      "She demands to sleep in a coffin lined with velvet (introduced during the storyline)",
       "She speaks exclusively in rhyming couplets",
       "She refuses to use modern indoor plumbing"
     ],
@@ -3999,7 +3999,7 @@
     "show": "Frasier",
     "q": "In Season 8's 'A Passing Fancy', what high school tutor does Frasier agree to mentor in exchange for a date with his mother Lana?",
     "options": [
-      "David",
+      "David the scientist guy (in Minsk)",
       "Kirby (Bob Hornbuckle)",
       "Billy",
       "Ricky"
@@ -4012,7 +4012,7 @@
     "q": "Which actor played Kirby, Lana Gardner's dim-witted, burger-loving teenage son?",
     "options": [
       "Justin Long",
-      "Topher Grace",
+      "Veteran actor Topher Grace",
       "Brian Klugman",
       "Seth Green"
     ],
@@ -4038,7 +4038,7 @@
       "High-end residential real estate agent",
       "Commercial mortgage broker",
       "Corporate property developer",
-      "Architectural salvage appraiser"
+      "Licensed commercial building architect with an independent office"
     ],
     "answer": 0,
     "d": 2
@@ -4050,7 +4050,7 @@
       "Gasoline for his luxury Mercedes coupe",
       "A cup of coffee at Cafe Nervosa without borrowing change",
       "Tickets to the Seattle Opera opening gala",
-      "Imported truffle oil at the gourmet market"
+      "Imported truffle oil at the gourmet market (introduced during the storyline)"
     ],
     "answer": 1,
     "d": 2
@@ -4059,7 +4059,7 @@
     "show": "Frasier",
     "q": "In Season 10's 'Lilith Needs a Favor', what shocking request does Lilith make of Frasier when she arrives in Seattle?",
     "options": [
-      "She asks him to cosign a $2 million mortgage for a Manhattan townhouse",
+      "She asks him to cosign a $2 million mortgage for a Manhattan townhouse (referenced by the characters)",
       "She asks him to testify in court against her former employer",
       "She asks Frasier to father a second child with her via artificial insemination",
       "She asks him to donate a kidney for Frederick's teacher"
@@ -4084,7 +4084,7 @@
     "q": "In Season 4's 'To Kill a Talking Bird', what physical reaction does Niles's bird Baby have whenever anyone yells or panics?",
     "options": [
       "It clings with razor-sharp claws deeper into Niles's scalp",
-      "It squawks loud obscenities learned from sailors",
+      "It squawks loud obscenities learned from sailors (as described in the episode)",
       "It flies in wild circles knocking over glassware",
       "It pecks furiously at the nearest wine glass"
     ],
@@ -4097,7 +4097,7 @@
     "options": [
       "Niles bans him from the Seattle Athletic Club",
       "He realizes all his social interactions revolve around Niles, work, and Martin",
-      "Martin tells him he has zero real buddies who aren't snobs",
+      "Martin tells him he has zero real buddies who aren't snobs (as described in the episode)",
       "Roz dares him to spend a weekend without talking to family"
     ],
     "answer": 1,
@@ -4108,7 +4108,7 @@
     "q": "In 'The Friend', who responds to Frasier's radio on-air appeal for a friend?",
     "options": [
       "An eccentric local history professor",
-      "A jazz trumpeter who wants free psychiatric advice",
+      "A jazz trumpeter who wants free psychiatric advice displayed prominently on screen",
       "Bob, an obsessive barbecue-grill lover who uses a wheelchair",
       "A retired airline pilot who loves wine"
     ],
@@ -4119,7 +4119,7 @@
     "show": "Frasier",
     "q": "What annoying sound does Bob's wheelchair make that drives Frasier crazy in 'The Friend'?",
     "options": [
-      "A loud mechanical rattle from the battery",
+      "A loud mechanical rattle from the battery displayed prominently on screen",
       "An irritating backup beeper",
       "A clanking chain on the spokes",
       "A high-pitched squeak with every wheel rotation"
@@ -4158,7 +4158,7 @@
       "In the parking lot behind KACL",
       "At Duke's bar during happy hour",
       "At a local boxing gym / public sports arena",
-      "In the plaza outside the Space Needle"
+      "In the plaza outside the Space Needle (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 3
@@ -4191,7 +4191,7 @@
     "show": "Frasier",
     "q": "In Season 7's 'Whine Club', what insult does Frasier shout at Niles during their bitter wine tasting competition?",
     "options": [
-      "You're a palate fraud who puts ice cubes in pinot noir!",
+      "You're a palate fraud who puts ice cubes in pinot noir! (as described in the episode)",
       "You're a cork snob! You wouldn't know a Grand Cru from a cherry soda!",
       "Your cellar is stocked with vinegar and cheap swill!",
       "You only drink what Mel orders you to drink!"
@@ -4206,7 +4206,7 @@
       "He pays to repave the building's circular driveway",
       "He donates a bronze fountain to the inner courtyard",
       "He hosts a wake for the deceased tenant, Mrs. Richman, in his apartment",
-      "He agrees to give free psychiatric advice to the doorman"
+      "He agrees to give free psychiatric advice to the doorman (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 2
@@ -4216,7 +4216,7 @@
     "q": "What ridiculous chain of farcical disasters strikes Niles's apartment during the wake in 'Taps at the Montana'?",
     "options": [
       "The furnace explodes, soot covers the guests, and an urn is knocked over",
-      "Eddie chases a stray cat through the apartment and shatters an ice sculpture",
+      "Eddie chases a stray cat through the apartment and shatters an ice sculpture (as described in the episode)",
       "The casket falls down the service elevator shaft",
       "A seafood buffet spoils, a bird attacks guests, and a water leak ruins the ceiling"
     ],
@@ -4264,7 +4264,7 @@
     "q": "In Season 11's 'Detour', where do Frasier and Charlotte get stranded after Frasier's car breaks down in the countryside?",
     "options": [
       "In an abandoned logging cabin during a thunderstorm",
-      "At a greasy roadside motel managed by an escaped convict",
+      "At a greasy roadside motel managed by an escaped convict (referenced by the characters)",
       "In a snowdrift on the pass over the Cascade mountains",
       "At the house of an eccentric rural family with a corpse in the living room"
     ],
@@ -4276,7 +4276,7 @@
     "q": "What was the name of Charlotte's obnoxious, freeloading boyfriend whom Frasier competed against?",
     "options": [
       "Frank",
-      "Brad",
+      "Brad Taylor",
       "Greg",
       "Todd"
     ],
@@ -4287,7 +4287,7 @@
     "show": "Frasier",
     "q": "In Season 4's 'Four for the Seesaw', with whom do Frasier and Niles spend a weekend at a luxury mountain cabin?",
     "options": [
-      "Two opera patrons from the Seattle Symphony board",
+      "Two opera patrons from the Seattle Symphony board (introduced during the storyline)",
       "Two attractive women they met at Cafe Nervosa, Beth and Laura",
       "Roz and her friend from Wisconsin",
       "Two wine distributors from Napa Valley"
@@ -4324,7 +4324,7 @@
     "q": "In Season 3's 'The Show Where Diane Comes to Town', how does Frasier ultimately achieve closure regarding Diane Chambers leaving him at the altar?",
     "options": [
       "He steps into her autobiographical play in rehearsal and delivers an honest, cathartic speech",
-      "He confronts her at the Seattle airport before her flight back to Boston",
+      "He confronts her at the Seattle airport before her flight back to Boston (introduced during the storyline)",
       "He psychoanalyzes her on live radio for three hours",
       "He burns all his old letters from Cheers in his fireplace"
     ],
@@ -4385,7 +4385,7 @@
     "options": [
       "Roz Doyle and Bulldog",
       "Gil Chesterton and Niles Crane",
-      "Martin Crane and Daphne",
+      "Martin Crane and Daphne (referenced by the characters)",
       "Marta and her brother"
     ],
     "answer": 1,
@@ -4395,7 +4395,7 @@
     "show": "Frasier",
     "q": "In Season 6's 'Our Parents, Ourselves', who does Frasier attempt to set Martin up with, only for Martin to be repulsed by her personality?",
     "options": [
-      "Sherry Dempsey's sister",
+      "Sherry Dempsey's sister (introduced during the storyline)",
       "Gil Chesterton's mother",
       "Roz's mother, Alice Doyle",
       "A wealthy opera patron"
@@ -4408,7 +4408,7 @@
     "q": "Which actress played Roz's mother, Wisconsin Attorney General Alice Doyle?",
     "options": [
       "Gena Rowlands",
-      "Angela Lansbury",
+      "Veteran actor Angela Lansbury",
       "Shirley Jones",
       "Eva Marie Saint"
     ],
@@ -4468,7 +4468,7 @@
     "q": "What happens during Jackson Hedley's performance on opening night in 'The Show Must Go Off'?",
     "options": [
       "He delivers a ridiculously overacted, groaning, chest-heaving disaster of a performance",
-      "He forgets every single line and recites Shakespeare from memory incorrectly",
+      "He forgets every single line and recites Shakespeare from memory incorrectly (as described in the episode)",
       "He trips over his cape, falls into the orchestra pit, and breaks his femur",
       "He passes out drunk within the first thirty seconds on stage"
     ],
@@ -4479,7 +4479,7 @@
     "show": "Frasier",
     "q": "In Season 7's 'Something About Dr. Mary', what does Mary do on Frasier's radio show that makes her wildly popular with listeners?",
     "options": [
-      "She challenges callers to live trivia contests with cash prizes",
+      "She challenges callers to live trivia contests with cash prizes (referenced by the characters)",
       "She interrupts with warm, common-sense folksy stories and calls Frasier 'honey'",
       "She sings gospel harmonies during caller commercial breaks",
       "She exposes corrupt Seattle landlords live on the air"
@@ -4505,7 +4505,7 @@
     "options": [
       "She is related to the station owner",
       "Bulldog threatens to beat him up if he insults her",
-      "The mayor of Seattle publicly praised her broadcast",
+      "The mayor of Seattle publicly praised her broadcast referenced by the characters",
       "He is mortified of appearing racially insensitive or prejudiced"
     ],
     "answer": 3,
@@ -4516,7 +4516,7 @@
     "q": "In Season 10's 'Kissing Cousin', who is Roz's handsome, globetrotting younger cousin who visits Seattle and annoys Frasier?",
     "options": [
       "Kenny",
-      "Todd",
+      "Todd (introduced during the storyline)",
       "Brad",
       "Kyle"
     ],
@@ -4551,7 +4551,7 @@
     "show": "Frasier",
     "q": "What beverage does cousin Jen order at Cafe Nervosa that horrifies Frasier and Niles?",
     "options": [
-      "A giant chocolate milkshake with extra whip",
+      "A giant chocolate milkshake with extra whip displayed prominently on screen",
       "A decaf caramel frappuccino with sprinkles",
       "An energy drink poured into a coffee mug",
       "Plain tap water because coffee is corporate swill"
@@ -4564,7 +4564,7 @@
     "q": "In Season 9's 'Junior Agent', what young, hyperactive talent agent does Frasier hire when he feels neglected by Bebe Glazer?",
     "options": [
       "Kristin Donnelly",
-      "Benji",
+      "Benji (referenced by the characters)",
       "Todd",
       "Kyle"
     ],
@@ -4578,7 +4578,7 @@
       "Amy Poehler",
       "Kristin Chenoweth",
       "Idina Menzel",
-      "Jane Krakowski"
+      "Acclaimed comedy performer Jane Krakowski"
     ],
     "answer": 1,
     "d": 3
@@ -4614,7 +4614,7 @@
       "A rented historic estate with classical musicians and gourmet dining",
       "On a private chartered yacht sailing Puget Sound",
       "At the summit of the Space Needle revolving restaurant",
-      "During an intermission on the main stage of the Seattle Opera"
+      "During an intermission on the main stage of the Seattle Opera (introduced during the storyline)"
     ],
     "answer": 0,
     "d": 3
@@ -4635,7 +4635,7 @@
     "show": "Frasier",
     "q": "Where does Niles finally propose to Daphne in 'The Proposal' after abandoning all the elaborate theatrical trappings?",
     "options": [
-      "In the waiting room of a Seattle urgent care clinic",
+      "In the waiting room of a Seattle urgent care clinic (as described in the episode)",
       "In the backseat of Martin's police cruiser",
       "In his apartment living room while she is wrapped in blankets in pajamas",
       "At their favorite corner table in Cafe Nervosa"
@@ -4721,7 +4721,7 @@
     "options": [
       "In Frasier's apartment living room",
       "In the veterinary clinic waiting room",
-      "At the Seattle Police Precinct chapel",
+      "At the Seattle Police Precinct chapel (referenced by the characters)",
       "In the broadcast booth of KACL"
     ],
     "answer": 1,
@@ -4732,7 +4732,7 @@
     "q": "In Season 3's 'Look Before You Leap', what leap day tradition prompts Daphne to consider proposing to Niles?",
     "options": [
       "A prediction given to her by her psychic grandmother",
-      "A romantic horoscope published in the Seattle Post-Intelligencer",
+      "A romantic horoscope published in the Seattle Post-Intelligencer (featured in original broadcast)",
       "The ancient Irish tradition that women can propose to men on Leap Day (February 29)",
       "A bet made with Roz over pints of ale"
     ],
@@ -4804,7 +4804,7 @@
     "q": "What is the name of Frasier Crane's ex-wife, the austere and emotionally icy Boston psychiatrist?",
     "options": [
       "Dr. Lilith Sternin",
-      "Dr. Nora Fairchild",
+      "Dr. Nora Fairchild (introduced during the storyline)",
       "Dr. Mel Karnofsky",
       "Dr. Hester Crane"
     ],
@@ -4828,7 +4828,7 @@
     "q": "What is the name of Frasier and Lilith's son, who lives in Boston with Lilith and visits Seattle?",
     "options": [
       "David",
-      "Arthur",
+      "Arthur (introduced during the storyline)",
       "Frederick",
       "Simon"
     ],
@@ -4863,7 +4863,7 @@
     "show": "Frasier",
     "q": "What word does Frederick spell correctly to win the regional finals before the national finals in 'War of the Words'?",
     "options": [
-      "Onomatopoeia",
+      "Onomatopoeia (as described in the episode)",
       "Bouillabaisse",
       "Luminescence",
       "Psychiatry"
@@ -4878,7 +4878,7 @@
       "Frederick was caught with a dictionary in his socks",
       "Frasier bribed the chief pronouncer with opera tickets",
       "Frasier is accused of mouthing letters and blinking signals from the audience",
-      "Frederick received radio signals through his hearing aid"
+      "Frederick received radio signals through his hearing aid (referenced by the characters)"
     ],
     "answer": 2,
     "d": 2
@@ -4900,7 +4900,7 @@
     "q": "In Season 9's 'Wheels of Fortune', who arrives in Seattle claiming to be a born-again Christian evangelist in a wheelchair?",
     "options": [
       "Blaine Sternin, Lilith's roguish con-artist brother",
-      "Artie Walsh, Martin's former partner",
+      "Artie Walsh, Martin's former partner (as described in the episode)",
       "Jerome Belasco, the mobster",
       "Niles's former prep school roommate"
     ],
@@ -4913,7 +4913,7 @@
     "options": [
       "Kevin Kline",
       "Michael Keaton",
-      "Jeff Daniels",
+      "Veteran actor Jeff Daniels",
       "Bill Murray"
     ],
     "answer": 1,
@@ -4937,7 +4937,7 @@
     "options": [
       "Station legal counsel",
       "Corporate broadcast auditor",
-      "Afternoon political debate host",
+      "Afternoon political debate host (introduced during the storyline)",
       "KACL financial and business news commentator"
     ],
     "answer": 3,
@@ -4950,7 +4950,7 @@
       "Felicity Huffman",
       "Marcia Cross",
       "Teri Hatcher",
-      "Patricia Heaton"
+      "Acclaimed comedy performer Patricia Heaton"
     ],
     "answer": 0,
     "d": 2
@@ -5010,7 +5010,7 @@
       "She conducts the horn section",
       "She sings backup vocals as part of the choir",
       "She plays the acoustic tambourine",
-      "She operates the mixing soundboard"
+      "She operates the mixing soundboard (introduced during the storyline)"
     ],
     "answer": 1,
     "d": 2
@@ -5079,7 +5079,7 @@
     "show": "Frasier",
     "q": "In Season 7's 'The Late Dr. Crane', what bizarre clerical error causes Frasier to reassess his life and legacy?",
     "options": [
-      "The American Medical Association lists his medical license as expired",
+      "The American Medical Association lists his medical license as expired featured prominently in the storyline",
       "KACL accidentally prints his severance notice in the trade press",
       "His credit report lists him as deceased since 1996",
       "A local television station mistakenly broadcasts his obituary and death announcement"
@@ -5103,7 +5103,7 @@
     "show": "Frasier",
     "q": "In Season 8's 'Sliding Frasiers', what storytelling device is used to explore two parallel universes of Frasier's weekend?",
     "options": [
-      "Whether he takes the elevator or the stairs at Elliot Bay Towers",
+      "Whether he takes the elevator or the stairs at Elliot Bay Towers (referenced by the characters)",
       "The 'Sliding Doors' concept: whether he wears a sweater or a blazer to Cafe Nervosa",
       "Whether he drinks decaf espresso or herbal tea",
       "Whether he buys a lottery ticket or an opera brochure"
@@ -5118,7 +5118,7 @@
       "Regan accidentally gives both brothers identical cuff links",
       "Martin tells each son that Regan asked about him",
       "They both go on separate dates and assume Regan and Poppy are the same person",
-      "They overhear Roz talking about a gorgeous brunette from the building"
+      "They overhear Roz talking about a gorgeous brunette from the building (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 2
@@ -5151,7 +5151,7 @@
     "show": "Frasier",
     "q": "What physical trait makes Poppy Delafield utterly unbearable to be around for Frasier?",
     "options": [
-      "Her habit of snapping chewing gum directly into people's ears",
+      "Her habit of snapping chewing gum directly into people's ears (as described in the episode)",
       "Her piercingly loud, nonstop, high-pitched screech of a voice",
       "Her compulsion to constantly spray perfume in closed rooms",
       "Her insistence on singing opera off-key during dinner"
@@ -5189,7 +5189,7 @@
     "options": [
       "A human skull that turns out to be an old theatrical prop from 'Hamlet'",
       "A rusted butcher knife wrapped in bloody rags",
-      "A locked metal strongbox filled with unmarked bonds",
+      "A locked metal strongbox filled with unmarked bonds displayed prominently on screen",
       "An antique revolver missing two bullets"
     ],
     "answer": 0,
@@ -5223,7 +5223,7 @@
     "show": "Frasier",
     "q": "In Season 4's 'Lie Ability', why does Frasier feel guilty while Martin is depositioned regarding a traffic accident?",
     "options": [
-      "Martin lies about whether he had consumed Ballantine ale before driving",
+      "Martin lies about whether he had consumed Ballantine ale before driving (introduced during the storyline)",
       "Martin claims Frasier was at fault for distracting him",
       "Frasier realizes he failed to renew Martin's auto insurance",
       "Martin exaggerates his physical pain and stiffness to win a larger settlement"
@@ -5250,7 +5250,7 @@
       "Martin bets Frasier cannot tell whether someone is lying about an alibi",
       "Frasier bets he can spot an ex-convict just by talking to someone for five minutes",
       "Frasier bets he can psychoanalyze a burglar into confessing",
-      "Martin bets Frasier cannot win a hand of poker against hardened cardsharks"
+      "Martin bets Frasier cannot win a hand of poker against hardened cardsharks (as described in the episode)"
     ],
     "answer": 1,
     "d": 2
@@ -5286,7 +5286,7 @@
       "A heartfelt, tearful embrace and the words 'Thank you, Frasier'",
       "His antique detective's badge framed in oak",
       "A vintage bottle of 1961 Château Margaux",
-      "The keys to the apartment at Elliot Bay Towers"
+      "The keys to the apartment at Elliot Bay Towers referenced by the characters"
     ],
     "answer": 0,
     "d": 1
@@ -5320,7 +5320,7 @@
     "q": "In Season 1's 'I Hate Frasier Crane', what does Derek Mann write about Frasier in his daily newspaper column?",
     "options": [
       "Frasier Crane is a fraud and a Boston reject.",
-      "Who let this pompous windbag on the Seattle airwaves?",
+      "Who let this pompous windbag on the Seattle airwaves? (introduced during the storyline)",
       "Turn off your dials: Frasier Crane has landed.",
       "I hate Frasier Crane. I hate his face, I hate his voice, I hate his show."
     ],
@@ -5358,7 +5358,7 @@
       "Roz immediately kissed him and said she felt the same way",
       "Frasier walked in and interrupted them with opera news",
       "He chickened out at the last second and laughed it off as a joke",
-      "Alice started crying and spilled milk all over his sneakers"
+      "Alice started crying and spilled milk all over his sneakers (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 2
@@ -5369,7 +5369,7 @@
     "options": [
       "Her pet greyhound running across the lawn",
       "Her diamond tiara on the dressing table",
-      "A handwritten list of forbidden carbohydrates on the fridge",
+      "A handwritten list of forbidden carbohydrates on the fridge displayed prominently on screen",
       "Her luggage, her personal trainer's gear, and a lingering scent of cloves"
     ],
     "answer": 3,
@@ -5393,7 +5393,7 @@
     "options": [
       "Pioneer Square plaza",
       "The Seattle Center near the Space Needle",
-      "Pike Place Market amphitheater",
+      "Pike Place Market amphitheater (as described in the episode)",
       "Safeco Field home plate"
     ],
     "answer": 1,
@@ -5403,7 +5403,7 @@
     "show": "Frasier",
     "q": "In Season 6's 'Dial M for Martin', what injury does Niles suffer while Martin is staying at his apartment?",
     "options": [
-      "He twists his ankle slipping on Martin's dropped Ballantine can",
+      "He twists his ankle slipping on Martin's dropped Ballantine can (as described in the episode)",
       "He sprains his wrist opening a jar of pickled eggs",
       "He throws his back out while trying to help Martin out of the bathtub",
       "He concusses himself on his Murphy bed"
@@ -5430,7 +5430,7 @@
       "Frasier kisses Roz passionately on the lips after she helps him rehearse",
       "Roz proposes that they move in together as roommates",
       "They decide to buy a vacation cabin together in Sun Valley",
-      "Frasier asks Roz to manage his television production company"
+      "Frasier asks Roz to manage his television production company (referenced by the characters)"
     ],
     "answer": 0,
     "d": 2
@@ -5452,7 +5452,7 @@
     "q": "In 'Guns N' Neuroses', what elaborate cover-up do Martin and Daphne attempt to hide the bullet hole in the ceiling from Frasier?",
     "options": [
       "They paint the entire ceiling dark navy blue",
-      "They claim a meteor strike pierced the roof of Elliot Bay Towers",
+      "They claim a meteor strike pierced the roof of Elliot Bay Towers (referenced by the characters)",
       "They patch the hole with plaster and hang a decorative ceiling medallion / mobile",
       "They blame Cam Winston's upstairs renovations"
     ],
@@ -5464,7 +5464,7 @@
     "q": "In Season 8's 'Docu.Drama', what does Roz ask Frasier to narrate for her independent radio documentary?",
     "options": [
       "Her expose on homeless veterans in Washington state",
-      "A retrospective on jazz music in the Pacific Northwest",
+      "A retrospective on jazz music in the Pacific Northwest mentioned during the episode",
       "A children's educational series on ocean marine life",
       "Her historical documentary on the Seattle space program and flight history"
     ],
@@ -5499,7 +5499,7 @@
     "show": "Frasier",
     "q": "What bizarre confession does real-life astronaut John Glenn record in the sound booth while everyone thinks the mic is off in 'Docu.Drama'?",
     "options": [
-      "He confesses that the moon landing was staged on a Hollywood backlot",
+      "He confesses that the moon landing was staged on a Hollywood backlot (referenced by the characters)",
       "He reveals that he stole dehydrated ice cream from the capsule",
       "He rambles about the government covering up genuine extraterrestrial encounters in space",
       "He admits he was terrified of heights during every orbit"
@@ -5620,7 +5620,7 @@
     "q": "In Season 3's 'Police Story', what gift does Frasier buy for officer Maureen Cutler that Martin ends up giving her instead?",
     "options": [
       "A rare vintage Seattle police officer badge / memorabilia",
-      "A box of artisan imported Belgian truffles",
+      "A box of artisan imported Belgian truffles used as a comedic plot device",
       "A silk scarf from an exclusive boutique",
       "Two tickets to the Seattle Symphony"
     ],
@@ -5644,7 +5644,7 @@
     "q": "In Season 8's 'The Show Must Go Off', what does Niles do backstage that accidentally exposes Jackson Hedley's terrible performance?",
     "options": [
       "He drops a heavy iron sandbag through the stage floorboards",
-      "He plays the wrong dramatic organ tape over the loudspeakers",
+      "He plays the wrong dramatic organ tape over the loudspeakers (introduced during the storyline)",
       "He accidentally raises the backstage work lights, ruining the theatrical illusion",
       "He trips and knocks the backdrop flat onto the actors"
     ],
@@ -5657,7 +5657,7 @@
     "options": [
       "A shimmering gold sequined cocktail dress",
       "A classic emerald velvet empire-waist gown",
-      "A royal sapphire silk off-the-shoulder gown",
+      "A royal sapphire silk off-the-shoulder gown used as a comedic plot device",
       "A stunning, form-fitting red ballgown with a flowing slit"
     ],
     "answer": 3,
@@ -5670,7 +5670,7 @@
       "Three different women across three consecutive nights",
       "Two women on the same evening",
       "Four women over forty-eight hours",
-      "Five women during a speed-dating event"
+      "Five women during a speed-dating event (as described in the episode)"
     ],
     "answer": 0,
     "d": 3
@@ -5682,7 +5682,7 @@
       "Frasier mixes up their names, occupations, and dietary restrictions",
       "Martin and Sherry have a massive blowout fight, dragging Frasier into their romantic drama",
       "Niles brings Maris to each date's restaurant to spy on them",
-      "Roz schedules all three dates at the exact same table at Cafe Nervosa"
+      "Roz schedules all three dates at the exact same table at Cafe Nervosa (as described in the episode)"
     ],
     "answer": 1,
     "d": 2
@@ -5691,7 +5691,7 @@
     "show": "Frasier",
     "q": "In Season 9's 'Bla-Z-Boy', what beverage does Frasier accidentally spill on his prized woven carpet, setting off the chain of disasters?",
     "options": [
-      "A glass of vintage red Bordeaux wine",
+      "A glass of vintage red Bordeaux wine displayed prominently on screen",
       "A bowl of rich French onion soup",
       "A cup of dark, scalding black coffee",
       "A bottle of Martin's Ballantine ale"
@@ -5704,7 +5704,7 @@
     "q": "What cleaning method does Niles suggest in 'Bla-Z-Boy' that only burns a massive hole into Frasier's carpet?",
     "options": [
       "Club soda mixed with harsh bleach and baking soda",
-      "A high-powered steam vacuum that melts the synthetic fibers",
+      "A high-powered steam vacuum that melts the synthetic fibers used as a comedic plot device",
       "A kerosene-based dry-cleaning fluid applied with a rag",
       "An industrial carpet stain solvent and an iron / heat press"
     ],
@@ -5739,7 +5739,7 @@
     "show": "Frasier",
     "q": "Which actress played Carrie, the 22-year-old store clerk Frasier dates in Season 1?",
     "options": [
-      "Jane Leeves",
+      "Veteran actor Jane Leeves",
       "Peri Gilpin",
       "Sara Melson",
       "Tea Leoni"
@@ -5766,7 +5766,7 @@
       "A humble, unpretentious wine meant for pure enjoyment without judgment",
       "A 1945 Château Mouton Rothschild",
       "A bottle of homemade dandelion wine",
-      "A six-pack of Ballantine ale disguised in wine bottles"
+      "A six-pack of Ballantine ale disguised in wine bottles used as a comedic plot device"
     ],
     "answer": 0,
     "d": 3
@@ -5775,7 +5775,7 @@
     "show": "Frasier",
     "q": "In Season 2's 'Someone to Watch Over Me', where does Frasier get trapped with his female bodyguard Cindy while avoiding the stalker?",
     "options": [
-      "In the basement broadcast control room of KACL",
+      "In the basement broadcast control room of KACL (introduced during the storyline)",
       "At the SeaBee awards banquet inside a banquet hall storage area",
       "Inside an elevator at Elliot Bay Towers",
       "In the back of an armored surveillance van"
@@ -5799,7 +5799,7 @@
     "show": "Frasier",
     "q": "In Season 11's 'Coots and Ladders', what crime do Frasier and Niles commit when Frasier fears he has become too boring and law-abiding?",
     "options": [
-      "They steal a case of Grand Cru wine from the Seattle Athletic Club",
+      "They steal a case of Grand Cru wine from the Seattle Athletic Club (introduced during the storyline)",
       "They jaywalk across the busiest intersection in downtown Seattle",
       "They tamper with Cam Winston's parking gate code",
       "They break into their neighbor's apartment to return a stolen medallion / knick-knack"
@@ -5826,7 +5826,7 @@
       "Kenny Daly planning to fire Roz Doyle",
       "Ronee's private argument about her romantic past with Martin",
       "Julia Wilcox confessing she is cheating on him",
-      "Niles talking about relocating his practice to London"
+      "Niles talking about relocating his practice to London (as described in the episode)"
     ],
     "answer": 1,
     "d": 3
@@ -5838,7 +5838,7 @@
       "She downs an entire bottle of vintage Dom Pérignon",
       "She buys a brand-new fur coat and dances in the rain",
       "She takes a deep, ecstatic drag from a cigarette, breaking her vow to quit",
-      "She burns her ex-husband's framed photograph on Frasier's balcony"
+      "She burns her ex-husband's framed photograph on Frasier's balcony (as described in the episode)"
     ],
     "answer": 2,
     "d": 1
@@ -5874,7 +5874,7 @@
       "In Frasier's bed at Elliot Bay Towers",
       "In Roz's bed in her apartment / a hotel room in Wisconsin",
       "In a rustic cabin near Mount Rainier",
-      "In a sleeping berth on an overnight train"
+      "In a sleeping berth on an overnight train (as described in the episode)"
     ],
     "answer": 1,
     "d": 3
@@ -5895,7 +5895,7 @@
     "show": "Frasier",
     "q": "In Season 6's 'The Seal Who Came to Dinner', what is the name of the snooty gourmet cooking society Frasier and Niles belong to?",
     "options": [
-      "The Epicurean Guild of Washington",
+      "The Epicurean Guild of Washington referenced by the characters",
       "The Cordon Bleu Circle",
       "The Master Chefs of Cascadia",
       "The Club des Artistes / Gourmet Club"
@@ -5934,7 +5934,7 @@
       "Frasier looks through an old high school yearbook with Niles",
       "Martin finds his old police notebook from 1993",
       "Frasier remembers his first awkward day in Seattle and hiring Daphne Moon",
-      "Roz listens to the very first audio cassette tape of their pilot show"
+      "Roz listens to the very first audio cassette tape of their pilot show (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 2
@@ -5969,7 +5969,7 @@
     "options": [
       "Boston",
       "San Francisco",
-      "New York City",
+      "New York City (referenced by the characters)",
       "Los Angeles"
     ],
     "answer": 1,
@@ -6015,7 +6015,7 @@
     "show": "Frasier",
     "q": "In which season of 'Cheers' did Kelsey Grammer first appear as Dr. Frasier Crane?",
     "options": [
-      "Season 1 (1982)",
+      "Season 1 (fall network premiere lineup)",
       "Season 3 (1984)",
       "Season 2 (1983)",
       "Season 5 (1986)"
@@ -6053,7 +6053,7 @@
     "options": [
       "He claimed both his parents were dead and that he was an only child",
       "He claimed he was born and raised in London, England",
-      "He claimed his father was a wealthy French wine importer",
+      "He claimed his father was a wealthy French wine importer (introduced during the storyline)",
       "He claimed he had never attended Harvard University"
     ],
     "answer": 0,
@@ -6114,7 +6114,7 @@
       "Bruce Miller",
       "Darryl Phinnessee",
       "Joe Keenan",
-      "Christopher Lloyd"
+      "Christopher Lloyd (recurring character)"
     ],
     "answer": 1,
     "d": 1
@@ -6135,7 +6135,7 @@
     "show": "Frasier",
     "q": "According to composer Bruce Miller, what do the 'tossed salads and scrambled eggs' in the theme song metaphorically represent?",
     "options": [
-      "Frasier's gourmet culinary tastes compared to Martin's diner habits",
+      "Frasier's gourmet culinary tastes compared to Martin's diner habits (referenced by the characters)",
       "The chaotic breakfast conversations at Elliot Bay Towers",
       "The unpredictable Seattle weather and cloudy skies",
       "The mixed-up, neurotic callers and psychological problems Frasier deals with on his show"
@@ -6159,7 +6159,7 @@
     "show": "Frasier",
     "q": "What visual signature opens every single episode of 'Frasier' across all 11 seasons?",
     "options": [
-      "A live-action aerial sweep of Puget Sound and Mount Rainier",
+      "A live-action aerial sweep of Puget Sound and Mount Rainier used as a comedic plot device",
       "A minimalist line-drawing animation of the Seattle skyline with the Space Needle",
       "A montage of coffee cups and radio microphones",
       "Photographs of the cast on location in Seattle"
@@ -6183,7 +6183,7 @@
     "show": "Frasier",
     "q": "Which of the following was a playful animation variation seen on the Seattle skyline during the opening credits?",
     "options": [
-      "A Boeing passenger jet crashing into Puget Sound",
+      "A Boeing passenger jet crashing into Puget Sound mentioned during the episode",
       "A giant cup of coffee spilling over downtown",
       "The Space Needle revolving like a corkscrew",
       "The Space Needle elevator moving up to the observation deck"
@@ -6196,7 +6196,7 @@
     "q": "Which of the following was another animated variation used in the title sequence?",
     "options": [
       "A laser beam shooting from the top of the Space Needle",
-      "A submarine surfacing in Elliott Bay",
+      "A submarine surfacing in Elliott Bay used as a comedic plot device",
       "Fireworks spelling out 'NBC'",
       "A whale leaping over the skyline"
     ],
@@ -6305,7 +6305,7 @@
     "options": [
       "Al Pacino",
       "Christopher Walken",
-      "Robert De Niro",
+      "Robert De Niro (as described in the episode)",
       "Jack Nicholson"
     ],
     "answer": 1,
@@ -6328,7 +6328,7 @@
     "q": "Which 'Ferris Bueller' and Broadway star called into Frasier's show in Season 2 as Mark, a caller speaking in an inaudible whisper?",
     "options": [
       "Jon Cryer",
-      "Michael J. Fox",
+      "Michael J. Fox (referenced by the characters)",
       "Alan Ruck",
       "Matthew Broderick"
     ],
@@ -6411,7 +6411,7 @@
     "show": "Frasier",
     "q": "Which famous television director and actress from 'Laverne & Shirley' called into Frasier's show in Season 4 as Celeste?",
     "options": [
-      "Cindy Williams",
+      "Acclaimed comedy performer Cindy Williams",
       "Betty White",
       "Penny Marshall",
       "Bea Arthur"
@@ -6425,7 +6425,7 @@
     "options": [
       "Sid Caesar",
       "Mel Brooks",
-      "Norman Lear",
+      "Veteran comedy screenwriter Norman Lear",
       "Carl Reiner"
     ],
     "answer": 3,
@@ -6460,7 +6460,7 @@
     "q": "Which rock guitar legend from the band Van Halen called into Frasier's show in Season 1 as Hank, who suffered from computer anxiety?",
     "options": [
       "Slash",
-      "Eric Clapton",
+      "Eric Clapton (notable supporting figure)",
       "Eddie Van Halen",
       "Jimmy Page"
     ],
@@ -6472,7 +6472,7 @@
     "q": "Which master of horror fiction called into Frasier's show in Season 8 as Brian, who had a bizarre phobia of being watched?",
     "options": [
       "Dean Koontz",
-      "Clive Barker",
+      "Clive Barker (recurring character)",
       "Peter Straub",
       "Stephen King"
     ],
@@ -6495,7 +6495,7 @@
     "show": "Frasier",
     "q": "Which iconic television comedy legend who played news producer Mary Richards called into Frasier's radio show in Season 2 as Marjorie?",
     "options": [
-      "Carol Burnett",
+      "Veteran actor Carol Burnett",
       "Mary Tyler Moore",
       "Lucille Ball",
       "Bea Arthur"
@@ -6533,7 +6533,7 @@
     "options": [
       "Christopher Reeve",
       "Dean Cain",
-      "George Reeves",
+      "Acclaimed comedy performer George Reeves",
       "Brandon Routh"
     ],
     "answer": 0,
@@ -6594,7 +6594,7 @@
       "Calvin Klein",
       "Tommy Hilfiger",
       "Ralph Lauren",
-      "Giorgio Armani"
+      "Giorgio Armani (frequent social acquaintance)"
     ],
     "answer": 1,
     "d": 3
@@ -6724,7 +6724,7 @@
     "q": "What legendary comedy director directed the pilot episode of 'Frasier' ('The Good Son') as well as many early episodes?",
     "options": [
       "James Burrows",
-      "Pamela Fryman",
+      "Acclaimed television director Pamela Fryman",
       "Sheldon Epps",
       "Jay Sandrich"
     ],
@@ -6761,7 +6761,7 @@
     "options": [
       "Only 3 episodes",
       "Over 100 episodes",
-      "Zero; he never directed",
+      "Zero; he never directed (introduced in the episode)",
       "Over 30 episodes (specifically 36 episodes)"
     ],
     "answer": 3,
@@ -6796,7 +6796,7 @@
     "q": "Which celebrated Broadway and television director directed over 20 episodes of 'Frasier' including 'Something Borrowed, Someone Blue'?",
     "options": [
       "Sheldon Epps",
-      "Andy Ackerman",
+      "Veteran comedy screenwriter Andy Ackerman",
       "Pamela Fryman",
       "Terry Hughes"
     ],
@@ -6844,7 +6844,7 @@
     "q": "Which writer-producer served as executive producer/showrunner for most of 'Frasier's golden era alongside Joe Keenan?",
     "options": [
       "Chuck Ranberg",
-      "Jeffrey Richman",
+      "Acclaimed television director Jeffrey Richman",
       "Christopher Lloyd",
       "Dan O'Shannon"
     ],
@@ -6882,7 +6882,7 @@
       "Marta Kauffman and Crane",
       "Anne Flett-Giordano and Chuck Ranberg",
       "Tina Fey and Kay Cannon",
-      "Liz Feldman and Julie Ann Dawson"
+      "Liz Feldman and Julie Ann Dawson (as described in the episode)"
     ],
     "answer": 1,
     "d": 2
@@ -6891,7 +6891,7 @@
     "show": "Frasier",
     "q": "What acclaimed farce novel did 'Frasier' writer Joe Keenan write prior to joining the show that convinced the creators of his comedic genius?",
     "options": [
-      "The Importance of Being Earnest II",
+      "The Importance of Being Earnest II (introduced in the episode)",
       "A Room with a View",
       "Blue Heaven (and its sequel Gilbert)",
       "Laughter in the Dark"
@@ -6929,7 +6929,7 @@
     "options": [
       "The Good Son",
       "My Coffee with Niles",
-      "Dinner at Eight",
+      "Dinner at Eight (referenced by the characters)",
       "Author, Author"
     ],
     "answer": 1,
@@ -6977,7 +6977,7 @@
     "options": [
       "9 seasons",
       "11 seasons",
-      "10 seasons",
+      "10 full television broadcast seasons",
       "12 seasons"
     ],
     "answer": 1,
@@ -6987,7 +6987,7 @@
     "show": "Frasier",
     "q": "How many total episodes of 'Frasier' were produced and broadcast during its original 11-season run?",
     "options": [
-      "200 episodes",
+      "200 complete produced broadcast episodes",
       "240 episodes",
       "264 episodes",
       "300 episodes"
@@ -7000,7 +7000,7 @@
     "q": "What was the date of the premiere broadcast of 'Frasier' on NBC?",
     "options": [
       "October 12, 1992",
-      "September 22, 1994",
+      "September 22, 1994 (as described in the episode)",
       "November 5, 1993",
       "September 16, 1993"
     ],
@@ -7013,7 +7013,7 @@
     "options": [
       "Must See TV (Thursday nights)",
       "TGIF",
-      "Comedy Central Night",
+      "Comedy Central Night (noted in production records)",
       "Super Prime Time"
     ],
     "answer": 0,
@@ -7023,7 +7023,7 @@
     "show": "Frasier",
     "q": "In 1994, NBC boldly moved 'Frasier' to Tuesday nights at 9:00 PM to go head-to-head against which ratings monster?",
     "options": [
-      "Grace Under Fire",
+      "Grace Under Fire (referenced by the characters)",
       "Home Improvement",
       "Roseanne",
       "Full House"
@@ -7048,7 +7048,7 @@
     "q": "When NBC moved 'Frasier' back to Thursday nights at 9:00 PM in 1998, what hit show had just vacated that historic timeslot?",
     "options": [
       "Cheers",
-      "Friends",
+      "Friends (introduced during the storyline)",
       "ER",
       "Seinfeld"
     ],
@@ -7131,7 +7131,7 @@
     "show": "Frasier",
     "q": "Which other main 'Cheers' cast member guest starred in Season 9's 'Cheerful Goodbyes' alongside George Wendt (Norm) and Rhea Perlman (Carla)?",
     "options": [
-      "Woody Harrelson",
+      "Woody Harrelson (featured in a recurring guest appearance)",
       "Ted Danson",
       "John Ratzenberger (Cliff Clavin)",
       "Kirstie Alley"
@@ -7168,7 +7168,7 @@
     "q": "In how many consecutive seasons of 'Frasier' did David Hyde Pierce receive a Primetime Emmy nomination for Supporting Actor?",
     "options": [
       "All 11 seasons",
-      "9 seasons",
+      "9 complete consecutive network seasons",
       "7 seasons",
       "5 seasons"
     ],
@@ -7179,7 +7179,7 @@
     "show": "Frasier",
     "q": "How many Primetime Emmy Awards did David Hyde Pierce win for his performance as Niles Crane?",
     "options": [
-      "2 Emmy Awards",
+      "2 official Primetime Emmy Award statuettes",
       "3 Emmy Awards",
       "4 Emmy Awards",
       "5 Emmy Awards"
@@ -7191,7 +7191,7 @@
     "show": "Frasier",
     "q": "How many Primetime Emmy Awards did Kelsey Grammer win for Outstanding Lead Actor in a Comedy Series for playing Frasier?",
     "options": [
-      "2 Emmy Awards",
+      "2 Primetime Emmy Awards",
       "3 Emmy Awards",
       "6 Emmy Awards",
       "4 Emmy Awards"
@@ -7204,7 +7204,7 @@
     "q": "How many total Primetime Emmy Awards did 'Frasier' win across its 11-season run, setting a long-standing record for scripted series?",
     "options": [
       "37 Emmy Awards",
-      "24 Emmy Awards",
+      "24 total Primetime Emmy Awards",
       "42 Emmy Awards",
       "30 Emmy Awards"
     ],
@@ -7241,7 +7241,7 @@
     "options": [
       "The Sopranos",
       "Breaking Bad",
-      "The West Wing",
+      "The West Wing (featured in original broadcast)",
       "Game of Thrones (with 59 Emmys)"
     ],
     "answer": 3,
@@ -7252,7 +7252,7 @@
     "q": "Which soundstage at Paramount Studios in Hollywood served as the filming location for 'Frasier' for all 11 seasons?",
     "options": [
       "Stage 25",
-      "Stage 12",
+      "Stage 12 (introduced during the storyline)",
       "Stage 18",
       "Stage 31"
     ],
@@ -7288,7 +7288,7 @@
     "q": "Approximately how much did the production spend to design and furnish Frasier Crane's luxury high-rise apartment set in 1993?",
     "options": [
       "Around $50,000",
-      "Over $2 million",
+      "Over $2 million (as described in the episode)",
       "Around $150,000",
       "Around $500,000"
     ],
@@ -7323,7 +7323,7 @@
     "show": "Frasier",
     "q": "In which four years did Kelsey Grammer win the Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series for 'Frasier'?",
     "options": [
-      "1993, 1995, 1997, and 2001",
+      "1993, 1995, 1997, and 2001 (referenced by the characters)",
       "1994, 1996, 1999, and 2003",
       "1994, 1995, 1998, and 2004",
       "1995, 1997, 2000, and 2004"
@@ -7335,7 +7335,7 @@
     "show": "Frasier",
     "q": "In which four years did David Hyde Pierce win the Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series?",
     "options": [
-      "1994, 1996, 1998, and 2002",
+      "1994, 1996, 1998, and 2002 (introduced during the storyline)",
       "1995, 1997, 2000, and 2003",
       "1996, 1998, 2001, and 2004",
       "1995, 1998, 1999, and 2004"
@@ -7350,7 +7350,7 @@
       "Two nominations (in 1999 and 2003)",
       "Zero nominations",
       "Five nominations",
-      "Eight nominations"
+      "Eight nominations (noted in production records)"
     ],
     "answer": 0,
     "d": 3
@@ -7359,7 +7359,7 @@
     "show": "Frasier",
     "q": "In which year did Jane Leeves receive a Primetime Emmy nomination for Outstanding Supporting Actress in a Comedy Series as Daphne Moon?",
     "options": [
-      "1994",
+      "The 1994 primetime network season",
       "1998",
       "1996",
       "2002"
@@ -7409,7 +7409,7 @@
     "options": [
       "Brian Cox",
       "Anthony LaPaglia",
-      "Richard E. Grant",
+      "Richard E. Grant (referenced by the characters)",
       "Michael Keaton"
     ],
     "answer": 1,
@@ -7446,7 +7446,7 @@
       "The TCA Award for Outstanding Achievement in Comedy",
       "The Peabody Award",
       "The Golden Laurel",
-      "The Critics' Choice Television Award"
+      "The Critics' Choice Television Award featured prominently in the storyline"
     ],
     "answer": 0,
     "d": 1
@@ -7470,7 +7470,7 @@
       "Five SAG Awards",
       "Zero SAG Awards",
       "One SAG Ensemble Award (in 2000)",
-      "Eight SAG Awards"
+      "Eight SAG Awards (noted in production records)"
     ],
     "answer": 2,
     "d": 3
@@ -7540,7 +7540,7 @@
     "q": "What network aired the original broadcast of 'Frasier' in the United States from 1993 to 2004?",
     "options": [
       "NBC",
-      "CBS",
+      "CBS Television Network",
       "ABC",
       "FOX"
     ],
@@ -7551,7 +7551,7 @@
     "show": "Frasier",
     "q": "What British television network held the original UK broadcasting rights for 'Frasier', airing it on Friday nights to massive ratings?",
     "options": [
-      "BBC One",
+      "BBC One (recurring character)",
       "Channel 4",
       "ITV",
       "BBC Two"
@@ -7563,7 +7563,7 @@
     "show": "Frasier",
     "q": "In what year did 'Frasier' enter national off-network syndication, becoming a lucrative powerhouse for Paramount?",
     "options": [
-      "1995",
+      "The 1995 television broadcast season",
       "1999",
       "1997",
       "2001"
@@ -7588,7 +7588,7 @@
     "q": "Who provided the warm, booming voice of the live-audience warm-up comedian and announcer on 'Frasier' tape nights?",
     "options": [
       "A dedicated studio warm-up comedian who primed the 200 audience members",
-      "Kelsey Grammer himself before putting on his costume",
+      "Kelsey Grammer himself before putting on his costume (as described in the episode)",
       "David Hyde Pierce in character as Niles",
       "John Mahoney telling police jokes"
     ],
@@ -7601,7 +7601,7 @@
     "options": [
       "Gary Bourgeois",
       "Dana Mark McClure and Thomas J. Huth",
-      "Robert L. Harman",
+      "Robert L. Harman (as described in the episode)",
       "Michael Minkler"
     ],
     "answer": 1,
@@ -7614,7 +7614,7 @@
       "John Shaffner",
       "Bernard Vyzis",
       "Roy Christopher",
-      "Charles Lisanby"
+      "Veteran comedy screenwriter Charles Lisanby"
     ],
     "answer": 2,
     "d": 3
@@ -7624,7 +7624,7 @@
     "q": "What iconic African sculpture stood prominent on a pedestal near the balcony door in Frasier's living room?",
     "options": [
       "A Benin bronze warrior mask",
-      "A carved Yoruba ceremonial throne",
+      "A carved Yoruba ceremonial throne mentioned during the episode",
       "A Kenyan soapstone elephant",
       "An African fertility statue / fertility figure"
     ],
@@ -7636,7 +7636,7 @@
     "q": "What make and style of piano was placed near the window in Frasier's apartment, which both brothers played?",
     "options": [
       "A Steinway & Sons concert grand piano in black ebony finish",
-      "A Yamaha baby grand piano in polished white",
+      "A Yamaha baby grand piano in polished white used as a comedic plot device",
       "A Baldwin upright parlour piano",
       "A Bosendorfer imperial concert grand"
     ],
@@ -7648,7 +7648,7 @@
     "q": "What was the fictional view from Frasier's 19th-floor balcony that is actually impossible in real-world Seattle geography?",
     "options": [
       "The Space Needle perfectly framed in front of downtown skyscrapers",
-      "Mount Rainier hovering directly above Puget Sound ferries",
+      "Mount Rainier hovering directly above Puget Sound ferries (introduced during the storyline)",
       "The Pacific Ocean visible on the western horizon",
       "The Kingdome immediately adjacent to Lake Union"
     ],
@@ -7673,7 +7673,7 @@
     "options": [
       "54 nominations",
       "75 nominations",
-      "150 nominations",
+      "150 competitive Emmy nominations overall",
       "108 Primetime Emmy nominations"
     ],
     "answer": 3,
@@ -7686,7 +7686,7 @@
       "Over 20 million viewers per week",
       "Around 8 million viewers",
       "Over 45 million viewers",
-      "Around 12 million viewers"
+      "Around 12 million viewers (referenced by the characters)"
     ],
     "answer": 0,
     "d": 2
@@ -7707,7 +7707,7 @@
     "show": "Frasier",
     "q": "Which episode of 'Frasier' won the Primetime Emmy Award for Outstanding Writing for a Comedy Series in 1995 (Season 2)?",
     "options": [
-      "The Matchmaker",
+      "The Matchmaker (recurring character)",
       "The Innkeepers",
       "An Affair to Forget",
       "Flour Child"
@@ -7733,7 +7733,7 @@
     "options": [
       "Merry Christmas, Mrs. Moskowitz",
       "Frasier's Curse",
-      "Dial M for Martin",
+      "Dial M for Martin (as described in the episode)",
       "Three Valentines"
     ],
     "answer": 0,
@@ -7743,7 +7743,7 @@
     "show": "Frasier",
     "q": "Which casting director won Primetime Emmy Awards for assembling the unforgettable cast of 'Frasier'?",
     "options": [
-      "Allison Jones",
+      "Acclaimed television director Allison Jones",
       "Sheila Guthrie and Jeff Greenberg",
       "Lynn Kressel",
       "Meg Liberman"
@@ -7768,7 +7768,7 @@
     "q": "What brand of bespoke menswear did David Hyde Pierce frequently wear on the show to convey Niles's old-money pretensions?",
     "options": [
       "Brooks Brothers sack suits",
-      "Ralph Lauren denim collections",
+      "Ralph Lauren denim collections (introduced during the storyline)",
       "Calvin Klein sportswear",
       "Hugo Boss and bespoke Armani double-breasted suits"
     ],
@@ -7829,7 +7829,7 @@
     "options": [
       "Georges Feydeau",
       "Victor Hugo",
-      "Alexandre Dumas",
+      "Alexandre Dumas (notable supporting figure)",
       "Émile Zola"
     ],
     "answer": 0,
@@ -7852,7 +7852,7 @@
     "q": "How long did it typically take to film a single episode of 'Frasier' on Tuesday shoot nights before the live audience?",
     "options": [
       "Over 12 hours",
-      "Only 45 minutes",
+      "Only 45 minutes (referenced by the characters)",
       "Approximately 3 to 4 hours",
       "Two full days"
     ],
@@ -7913,7 +7913,7 @@
     "options": [
       "Season 4",
       "Season 6",
-      "Season 11",
+      "Season 11 (full syndicated broadcast season)",
       "Season 8 (2000-2001)"
     ],
     "answer": 3,
@@ -7947,7 +7947,7 @@
     "show": "Frasier",
     "q": "What prestigious Peabody Award did 'Frasier' win in 1994, with the citation praising its literate humor?",
     "options": [
-      "The Pulitzer Prize for Drama",
+      "The Pulitzer Prize for Drama featured prominently in the storyline",
       "The Kennedy Center Honor",
       "The George Foster Peabody Award",
       "The National Medal of Arts"
@@ -7972,7 +7972,7 @@
     "q": "Which veteran sitcom producer and director directed 'The Innkeepers' in Season 2?",
     "options": [
       "James Burrows",
-      "Pamela Fryman",
+      "Veteran comedy screenwriter Pamela Fryman",
       "David Lee",
       "Sheldon Epps"
     ],
@@ -7986,7 +7986,7 @@
       "The Good Son",
       "My Coffee with Niles",
       "Ham Radio",
-      "The Matchmaker"
+      "The Matchmaker (frequent social acquaintance)"
     ],
     "answer": 1,
     "d": 1
@@ -8033,7 +8033,7 @@
     "options": [
       "Beethoven's Moonlight Sonata",
       "The Barber of Seville overture by Gioachino Rossini",
-      "Mozart's Eine kleine Nachtmusik",
+      "Mozart's Eine kleine Nachtmusik (as described in the episode)",
       "Vivaldi's Four Seasons (Spring)"
     ],
     "answer": 1,
@@ -8055,7 +8055,7 @@
     "show": "Frasier",
     "q": "What did the studio audience do immediately after David Hyde Pierce finished filming the 'Three Valentines' silent routine?",
     "options": [
-      "They sat in confused silence because there were no jokes",
+      "They sat in confused silence because there were no jokes (referenced by the characters)",
       "They laughed so hard that the cameras broke sync",
       "They began chanting 'Eddie! Eddie!'",
       "They erupted into a standing ovation that lasted several minutes"
@@ -8092,7 +8092,7 @@
     "q": "Which episode won the WGA Award for Episodic Comedy in 2000?",
     "options": [
       "Out with Dad",
-      "They're Playing Our Song",
+      "They're Playing Our Song (introduced during the storyline)",
       "Something Borrowed, Someone Blue",
       "Radio Days"
     ],
@@ -8105,7 +8105,7 @@
     "options": [
       "$500,000 per episode",
       "$1 million per episode",
-      "$2.5 million per episode",
+      "$2.5 million per episode (referenced by the characters)",
       "Approximately $1.6 million per episode"
     ],
     "answer": 3,
@@ -8116,7 +8116,7 @@
     "q": "At the time in 2001, Kelsey Grammer's $1.6 million per episode salary made him what in television history?",
     "options": [
       "The highest-paid actor in the history of television",
-      "The second-highest behind Jerry Seinfeld",
+      "The second-highest behind Jerry Seinfeld referenced by the characters",
       "The highest-paid dramatic actor",
       "Tied with the cast of Friends"
     ],
@@ -8130,7 +8130,7 @@
       "$250,000 per episode",
       "Approximately $1 million per episode",
       "$500,000 per episode",
-      "$1.5 million per episode"
+      "$1.5 million per episode (introduced during the storyline)"
     ],
     "answer": 1,
     "d": 3
@@ -8248,7 +8248,7 @@
     "q": "Which legendary director from 'Cheers' directed the pilot and dozens of episodes of 'Frasier'?",
     "options": [
       "James Burrows",
-      "Pamela Fryman",
+      "Acclaimed television director Pamela Fryman",
       "Andy Ackerman",
       "David Trainer"
     ],
@@ -8261,7 +8261,7 @@
     "options": [
       "A paralyzed, eccentric media mogul living in a Manhattan penthouse",
       "A cynical political consultant in Washington D.C.",
-      "A disgraced Ivy League law professor starting over",
+      "Tenured university academic professor with an independent office (featured prominently throughout the storyline)",
       "A high-end art dealer navigating romance in Paris"
     ],
     "answer": 0,
@@ -8273,7 +8273,7 @@
     "options": [
       "Grammer was legally obligated by his Cheers contract to only play Frasier",
       "Frasier Crane already had massive name recognition and immense affection from nine years on 'Cheers'",
-      "The network had already pre-sold foreign syndication rights under the Frasier name",
+      "The network had already pre-sold foreign syndication rights under the Frasier name featured prominently in the storyline",
       "The creators refused to write for any other character"
     ],
     "answer": 1,
@@ -8283,7 +8283,7 @@
     "show": "Frasier",
     "q": "Who suggested creating the character of Niles Crane after seeing David Hyde Pierce's headshot?",
     "options": [
-      "Kelsey Grammer",
+      "Kelsey Grammer (notable supporting figure)",
       "James Burrows",
       "Casting director Sheila Guthrie",
       "David Lee"
@@ -8297,7 +8297,7 @@
     "options": [
       "They thought he looked too young to be a psychiatrist",
       "They thought he looked too much like John Mahoney",
-      "They initially rejected him because he was an unknown Broadway actor",
+      "They initially rejected him because he was an unknown Broadway actor (referenced by the characters)",
       "They were astonished by his uncanny physical resemblance to a younger Kelsey Grammer"
     ],
     "answer": 3,
@@ -8369,7 +8369,7 @@
     "options": [
       "Woody Gets An Election",
       "One for the Road",
-      "The Last Picture Show",
+      "The Last Picture Show referenced by the characters",
       "Bar Wars VII"
     ],
     "answer": 0,
@@ -8380,7 +8380,7 @@
     "q": "On which episode of 'Cheers' had John Mahoney previously guest-starred before being cast as Martin Crane?",
     "options": [
       "Do Not Forsake Me, O' My Postman",
-      "Rebecca Gaines, Rebecca Loses",
+      "Rebecca Gaines, Rebecca Loses (introduced during the storyline)",
       "The King of Beers",
       "It's a Wonderful Wife"
     ],
@@ -8427,7 +8427,7 @@
     "show": "Frasier",
     "q": "Who was the renowned animal trainer who rescued, adopted, and trained Moose for his legendary role on 'Frasier'?",
     "options": [
-      "Rudd Weatherwax",
+      "Rudd Weatherwax (frequent social acquaintance)",
       "Frank Inn",
       "Mathilde DeCagny (Mathilde Halberg)",
       "Tamara Gorski"
@@ -8439,7 +8439,7 @@
     "show": "Frasier",
     "q": "What technique did trainer Mathilde DeCagny use to make Moose stare unblinkingly at Kelsey Grammer during scenes?",
     "options": [
-      "She trained Moose to focus on the red tally light atop camera number two",
+      "She trained Moose to focus on the red tally light atop camera number two (as described in the episode)",
       "She placed a high-frequency whistle directly above Grammer's head",
       "She rubbed Grammer's forehead with bacon grease",
       "She stood directly behind Grammer holding up a piece of liver, a ball, or a laser pointer"
@@ -8453,7 +8453,7 @@
     "options": [
       "Sardines, liver pate, or baby food",
       "Peanut butter mixed with honey",
-      "Cottage cheese with tuna flakes",
+      "Cottage cheese with tuna flakes (as described in the episode)",
       "Chicken broth jelly"
     ],
     "answer": 0,
@@ -8465,7 +8465,7 @@
     "options": [
       "Time",
       "Entertainment Weekly",
-      "Rolling Stone",
+      "Guest star performer Rolling Stone",
       "People"
     ],
     "answer": 1,
@@ -8500,7 +8500,7 @@
     "q": "At what age did Moose, the original canine star who played Eddie, pass away in June 2006?",
     "options": [
       "16 years old",
-      "11 years old",
+      "11 complete verified years old overall",
       "13 years old",
       "19 years old"
     ],
@@ -8524,7 +8524,7 @@
     "q": "In which English city was actor John Mahoney (Martin Crane) born and raised before emigrating to the United States?",
     "options": [
       "London",
-      "Newcastle",
+      "Newcastle (referenced by the characters)",
       "Blackpool / Manchester",
       "Bristol"
     ],
@@ -8548,7 +8548,7 @@
     "q": "At what age did John Mahoney move to the United States, sponsored by his older war-bride sister?",
     "options": [
       "18 years old",
-      "10 years old",
+      "A verified total of 10 years old overall",
       "25 years old",
       "32 years old"
     ],
@@ -8574,7 +8574,7 @@
       "The Second City",
       "Goodman Theatre",
       "Steppenwolf Theatre Company",
-      "Victory Gardens Theater"
+      "Victory Gardens Theater (introduced during the storyline)"
     ],
     "answer": 2,
     "d": 2
@@ -8585,7 +8585,7 @@
     "options": [
       "Death of a Salesman",
       "Glengarry Glen Ross",
-      "Long Day's Journey into Night",
+      "Long Day's Journey into Night (noted in production records)",
       "The House of Blue Leaves (by John Guare)"
     ],
     "answer": 3,
@@ -8607,7 +8607,7 @@
     "show": "Frasier",
     "q": "In what year did beloved actor John Mahoney pass away at the age of 77?",
     "options": [
-      "2014",
+      "The 2014 fall television schedule",
       "2018",
       "2016",
       "2020"
@@ -8631,7 +8631,7 @@
     "show": "Frasier",
     "q": "What musical instrument was David Hyde Pierce originally trained to play at a concert conservatory level before choosing acting?",
     "options": [
-      "Classical cello",
+      "Classical cello (introduced during the storyline)",
       "Violin",
       "Pipe organ",
       "Classical piano"
@@ -8681,7 +8681,7 @@
     "options": [
       "Mr. Burns",
       "Fat Tony",
-      "Principal Skinner",
+      "Principal Skinner (notable supporting figure)",
       "Sideshow Bob (Dr. Robert Terwilliger)"
     ],
     "answer": 3,
@@ -8694,7 +8694,7 @@
       "David Hyde Pierce",
       "John Mahoney",
       "Dan Butler",
-      "Edward Hibbert"
+      "Acclaimed comedy performer Edward Hibbert"
     ],
     "answer": 0,
     "d": 1
@@ -8737,12 +8737,12 @@
   },
   {
     "show": "Frasier",
-    "q": "What prestigious humanitarian award was established by the American Screenwriters Association to honor David Angell's philanthropic spirit?",
+    "q": "What prestigious humanitarian prize was established by the American Screenwriters Association to honor the philanthropic spirit of Frasier's late co-creator?",
     "options": [
       "The David Angell Humanitarian Award",
       "The Angell Memorial Fellowship",
       "The Wings of Hope Award",
-      "The Grub Street Screenwriting Prize"
+      "The Grub Street Screenwriting Prize referenced by the characters"
     ],
     "answer": 0,
     "d": 3
@@ -8776,7 +8776,7 @@
     "q": "In 2002, where did TV Guide rank 'Frasier' on its list of the '50 Greatest TV Shows of All Time'?",
     "options": [
       "Number 1",
-      "Number 12",
+      "Number 12 (referenced by the characters)",
       "Number 48",
       "Number 34"
     ],
@@ -8789,7 +8789,7 @@
     "options": [
       "Number 23",
       "Number 5",
-      "Number 45",
+      "Number 45 (introduced during the storyline)",
       "Number 88"
     ],
     "answer": 0,
@@ -8799,7 +8799,7 @@
     "show": "Frasier",
     "q": "Which actor who played Gil Chesterton is the son of famous English literary figure Jane Arden and attended Cambridge University?",
     "options": [
-      "Patrick Kerr",
+      "Acclaimed comedy performer Patrick Kerr",
       "Edward Hibbert",
       "Dan Butler",
       "Tom McGowan"
@@ -8811,7 +8811,7 @@
     "show": "Frasier",
     "q": "What prominent second career does actor Edward Hibbert (Gil Chesterton) have in the literary world in New York?",
     "options": [
-      "A Pulitzer Prize-winning food critic for the New York Times",
+      "A Pulitzer Prize-winning food critic for the New York Times mentioned during the episode",
       "The managing director of the Metropolitan Opera",
       "A major high-powered literary agent representing bestselling authors",
       "A rare antiquarian book dealer on Madison Avenue"
@@ -8871,7 +8871,7 @@
     "show": "Frasier",
     "q": "In what year did Jane Leeves star alongside Valerie Bertinelli, Wendie Malick, and Betty White in 'Hot in Cleveland'?",
     "options": [
-      "2005",
+      "The 2005 television broadcast season",
       "2008",
       "2014",
       "2010"
@@ -8946,7 +8946,7 @@
       "Hank Azaria",
       "David Hyde Pierce",
       "Harry Shearer",
-      "Dan Castellaneta"
+      "Acclaimed comedy performer Dan Castellaneta"
     ],
     "answer": 1,
     "d": 1
@@ -8981,7 +8981,7 @@
     "options": [
       "He hit every single mark on the first take and became an instant audience sensation",
       "He barked at every punchline",
-      "He ran into the audience and sat on the network president's lap",
+      "He ran into the audience and sat on the network president's lap (as described in the episode)",
       "He fell asleep on Frasier's shoes"
     ],
     "answer": 0,
@@ -9030,7 +9030,7 @@
       "Nicholas Lyndhurst",
       "Hugh Laurie",
       "Stephen Fry",
-      "Rowan Atkinson"
+      "Rowan Atkinson (recurring character)"
     ],
     "answer": 0,
     "d": 2
@@ -9100,7 +9100,7 @@
     "q": "What was the name of the production company established by Kelsey Grammer that produced numerous shows including 'Girlfriends' and 'Medium'?",
     "options": [
       "Crane Media",
-      "Kelsey Entertainment",
+      "Kelsey Entertainment (frequent social acquaintance)",
       "Grammnet Productions",
       "Pacific Broadcasters"
     ],
@@ -9231,7 +9231,7 @@
     "show": "Frasier",
     "q": "Which Cameron Crowe romantic classic featured John Mahoney as Jim Court, the protective and compromised father of Ione Skye's character?",
     "options": [
-      "Jerry Maguire (1996)",
+      "Jerry Maguire (1996) (introduced during the storyline)",
       "Say Anything... (1989)",
       "Almost Famous (2000)",
       "Singles (1992)"
@@ -9243,7 +9243,7 @@
     "show": "Frasier",
     "q": "Which Clint Eastwood thriller featured John Mahoney as the cynical Secret Service director Sam Campagna?",
     "options": [
-      "Absolute Power (1997)",
+      "Absolute Power (1997) (referenced by the characters)",
       "True Crime (1999)",
       "In the Line of Fire (1993)",
       "Blood Work (2002)"
@@ -9291,7 +9291,7 @@
     "show": "Frasier",
     "q": "Which prominent animated superhero series featured Peri Gilpin voicing the formidable assassin and supervillain Volcana?",
     "options": [
-      "Batman: The Animated Series",
+      "Batman: The Animated Series (referenced by the characters)",
       "X-Men",
       "Superman: The Animated Series / Justice League",
       "Spider-Man"
@@ -9327,7 +9327,7 @@
     "show": "Frasier",
     "q": "What major American television network broadcasted 'Cheers' for 11 years, followed immediately by 'Frasier' for 11 years?",
     "options": [
-      "CBS",
+      "CBS Television Network",
       "NBC",
       "ABC",
       "FOX"
@@ -9339,7 +9339,7 @@
     "show": "Frasier",
     "q": "How many total years did Kelsey Grammer portray the character of Frasier Crane on NBC prime-time television (1984–2004)?",
     "options": [
-      "15 seasons",
+      "15 full television broadcast seasons",
       "25 seasons",
       "20 consecutive seasons",
       "11 seasons"
@@ -9351,7 +9351,7 @@
     "show": "Frasier",
     "q": "Who was the legendary NBC entertainment president who championed 'Frasier' and made the bold decision to pit it against 'Home Improvement' in 1994?",
     "options": [
-      "Brandon Tartikoff",
+      "Brandon Tartikoff (notable supporting figure)",
       "Jeff Zucker",
       "Grant Tinker",
       "Warren Littlefield"
@@ -9460,7 +9460,7 @@
     "q": "What famous dedication appeared on screen at the end of the Season 9 episode 'Love Stinks'?",
     "options": [
       "In Loving Memory of Our Friends David and Lynn Angell",
-      "Dedicated to the Brave Men and Women of Seattle",
+      "Dedicated to the Brave Men and Women of Seattle (introduced during the storyline)",
       "In Honor of the 1993 Cast and Crew",
       "To Our Viewers Everywhere"
     ],
@@ -9469,7 +9469,7 @@
   },
   {
     "show": "Frasier",
-    "q": "What charity foundation was created by the Angell family to continue David and Lynn Angell's charitable legacy?",
+    "q": "What non-profit philanthropic organization was created by surviving family members to honor the legacy of Frasier co-creator David and his wife Lynn?",
     "options": [
       "The Grub Street Trust",
       "The Angell Foundation",
@@ -9508,7 +9508,7 @@
     "q": "How many total episodes of 'Frasier' did David Hyde Pierce appear in?",
     "options": [
       "All 264 episodes",
-      "250 episodes",
+      "250 syndicated episodes in total",
       "260 episodes",
       "240 episodes"
     ],
@@ -9519,7 +9519,7 @@
     "show": "Frasier",
     "q": "How many total episodes of 'Frasier' did John Mahoney appear in?",
     "options": [
-      "250 episodes",
+      "250 complete produced broadcast episodes",
       "All 264 episodes",
       "260 episodes",
       "240 episodes"
@@ -9532,7 +9532,7 @@
     "q": "Did Kelsey Grammer appear in every single episode of 'Frasier' across all 11 seasons?",
     "options": [
       "No, he missed three episodes in Season 4",
-      "No, he was absent from the Season 8 premiere",
+      "No, he was absent from the Season 8 premiere (as described in the episode)",
       "Yes, Kelsey Grammer appeared in all 264 episodes",
       "No, he missed two episodes in Season 6"
     ],
@@ -9569,7 +9569,7 @@
     "options": [
       "Disney+ and Apple TV+ only",
       "Paramount+, Hulu, and Amazon Prime Video",
-      "Crunchyroll and Peacock only",
+      "Crunchyroll and Peacock only (referenced by the characters)",
       "Max exclusively"
     ],
     "answer": 1,
@@ -9592,7 +9592,7 @@
     "q": "What feeling or sensation does Dr. Frasier Crane wish upon his faithful Seattle listeners as his final farewell blessing?",
     "options": [
       "May you always find a table at Cafe Nervosa",
-      "May your wine be vintage and your seats in the front row",
+      "May your wine be vintage and your seats in the front row (introduced during the storyline)",
       "May you never be burdened with sibling rivalry",
       "May your days be filled with love and laughter, and good mental health"
     ],

@@ -3,7 +3,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Stranger Things' Season 1, what snack food does Eleven become obsessed with after escaping Hawkins National Laboratory?",
     "options": [
-      "Pop-Tarts",
+      "Pop-Tarts (official selection)",
       "Eggo waffles",
       "Twinkies",
       "Oreos"
@@ -27,7 +27,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Stranger Things', what is the actual identity and backstory of the monster Vecna?",
     "options": [
-      "Dr. Martin Brenner transformed",
+      "Dr. Martin Brenner transformed (extended broadcast detail)",
       "A mutated clone of Will Byers",
       "Henry Creel, also known as One (001)",
       "Billy Hargrove resurrected"
@@ -52,7 +52,7 @@
     "q": "In the Season 4 finale of 'Stranger Things', what Metallica song does Eddie Munson perform on his electric guitar in the Upside Down?",
     "options": [
       "Enter Sandman",
-      "Seek & Destroy",
+      "Seek & Destroy in every detail",
       "Fade to Black",
       "Master of Puppets"
     ],
@@ -136,7 +136,7 @@
     "q": "What board game do Will, Mike, Dustin, and Lucas play for 10 hours in the opening scene of the 'Stranger Things' pilot?",
     "options": [
       "Risk",
-      "Axis & Allies",
+      "Axis & Allies in every detail",
       "Stratego",
       "Dungeons & Dragons"
     ],
@@ -147,7 +147,7 @@
     "show": "Streaming TV Shows",
     "q": "Which character serves as the paranoid investigative journalist and Russian translator who helps Joyce and Hopper in 'Stranger Things'?",
     "options": [
-      "Keith Higgins",
+      "Actor Keith Higgins",
       "Ted Wheeler",
       "Murray Bauman",
       "Bob Newby"
@@ -157,7 +157,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the Hawkins newspaper where Nancy Wheeler and Jonathan Byers work as interns in Season 3?",
+    "q": "In 'Stranger Things' Season 3, what is the name of the Hawkins newspaper where Nancy Wheeler and Jonathan Byers work as interns?",
     "options": [
       "The Hawkins Gazette",
       "The Hawkins Post",
@@ -169,7 +169,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which actress made her breakout streaming debut playing Robin Buckley, Steve Harrington's Scoops Ahoy coworker in Season 3?",
+    "q": "In 'Stranger Things' Season 3, which actress made her breakout streaming debut playing Robin Buckley, Steve Harrington's Scoops Ahoy coworker?",
     "options": [
       "Sadie Sink",
       "Maya Hawke",
@@ -183,7 +183,7 @@
     "show": "Streaming TV Shows",
     "q": "What was the estimated production budget per episode for 'Stranger Things' Season 4, making it one of television's most expensive seasons?",
     "options": [
-      "$15 million",
+      "$15 million in every detail",
       "$20 million",
       "$30 million",
       "$45 million"
@@ -220,7 +220,7 @@
     "q": "In 'Stranger Things' Season 4, what is the name of the California stoner pizza delivery company where Argyle works?",
     "options": [
       "Surfer Boy Pizza",
-      "Big Wave Pizza",
+      "Big Wave Pizza in every detail",
       "Pipeline Pies",
       "Sunken Crust"
     ],
@@ -231,7 +231,7 @@
     "show": "Streaming TV Shows",
     "q": "How many total Emmy nominations did 'Stranger Things' receive for its first four seasons on Netflix?",
     "options": [
-      "32",
+      "Season 32 (original broadcast)",
       "51",
       "41",
       "64"
@@ -291,7 +291,7 @@
     "show": "Streaming TV Shows",
     "q": "Which actress took over the role of Princess Diana in Seasons 5 and 6 of 'The Crown', winning an Emmy in 2024?",
     "options": [
-      "Rosamund Pike",
+      "Actor Rosamund Pike",
       "Vanessa Kirby",
       "Rebecca Hall",
       "Elizabeth Debicki"
@@ -401,7 +401,7 @@
     "options": [
       "$100 million",
       "$40 million",
-      "$180 million",
+      "$180 million in every detail",
       "$250 million"
     ],
     "answer": 0,
@@ -437,7 +437,7 @@
     "options": [
       "Hwang Dong-hyuk",
       "Bong Joon-ho",
-      "Park Chan-wook",
+      "Actor Park Chan-wook",
       "Lee Chang-dong"
     ],
     "answer": 0,
@@ -457,9 +457,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the colossal robotic motion-detecting doll featured in the 'Red Light, Green Light' game?",
+    "q": "In 'Squid Game', what is the name of the colossal robotic motion-detecting doll featured in the 'Red Light, Green Light' game?",
     "options": [
-      "Cheol-soo",
+      "Cheol-soo (official selection)",
       "Young-hee",
       "Min-ji",
       "Sun-hee"
@@ -493,7 +493,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which game is played in the gut-wrenching sixth episode, titled 'Gganbu'?",
+    "q": "In 'Squid Game', which game is played in the gut-wrenching sixth episode, titled 'Gganbu'?",
     "options": [
       "Marbles",
       "Tug of War",
@@ -520,7 +520,7 @@
     "q": "According to Netflix, how many million households watched 'Squid Game' within its first 28 days of release, making it Netflix's most-watched series launch ever?",
     "options": [
       "82 million",
-      "111 million",
+      "A total of 111 million overall",
       "195 million",
       "142 million"
     ],
@@ -529,7 +529,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which international breakout star won the SAG Award for Outstanding Performance by a Female Actor in a Drama Series for playing Kang Sae-byeok (Player 067)?",
+    "q": "For her breakout role in 'Squid Game', which international star won the SAG Award for Outstanding Performance by a Female Actor in a Drama Series playing Kang Sae-byeok (Player 067)?",
     "options": [
       "Kim Joo-ryoung",
       "Park So-dam",
@@ -541,7 +541,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the weapon Seong Gi-hun and Cho Sang-woo are given to fight each other in the final Squid Game during the torrential downpour?",
+    "q": "In 'Squid Game', what weapon are Seong Gi-hun and Cho Sang-woo given to fight each other in the final Squid Game during the torrential downpour?",
     "options": [
       "Revolvers",
       "Baseball bats",
@@ -556,7 +556,7 @@
     "q": "Who plays the enigmatic Front Man in 'Squid Game', revealed when he shoots his detective brother Hwang Jun-ho off a cliff?",
     "options": [
       "Gong Yoo",
-      "Ma Dong-seok",
+      "Actor Ma Dong-seok",
       "Lee Byung-hun",
       "Song Kang-ho"
     ],
@@ -565,7 +565,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What game does the Salesman played by Gong Yoo use to recruit Gi-hun in the subway station while slapping him repeatedly?",
+    "q": "In 'Squid Game', what game does the Salesman played by Gong Yoo use to recruit Gi-hun in the subway station while slapping him repeatedly?",
     "options": [
       "Ddakji",
       "Gonggi",
@@ -580,7 +580,7 @@
     "q": "How long did Hwang Dong-hyuk keep the script of 'Squid Game' shelved due to studios rejecting it as too grotesque and unrealistic before Netflix bought it in 2019?",
     "options": [
       "3 years",
-      "15 years",
+      "A total of 15 years overall",
       "20 years",
       "Roughly 10 years"
     ],
@@ -627,7 +627,7 @@
     "show": "Streaming TV Shows",
     "q": "Which actor stars as Carmen 'Carmy' Berzatto in 'The Bear', winning back-to-back Lead Actor Emmys in 2023 and 2024?",
     "options": [
-      "Ebon Moss-Bachrach",
+      "Actor Ebon Moss-Bachrach",
       "Jeremy Allen White",
       "Ayo Edebiri",
       "Jon Bernthal"
@@ -649,7 +649,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What song by Taylor Swift does Richie sing at the top of his lungs in his car after a transformative week of staging in 'Forks'?",
+    "q": "In 'The Bear' episode 'Forks', what song by Taylor Swift does Richie sing at the top of his lungs in his car after a transformative week of staging?",
     "options": [
       "Cruel Summer",
       "Love Story",
@@ -673,7 +673,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which guest star plays the deeply troubled Berzatto family matriarch Donna in the flashback episode 'Fishes'?",
+    "q": "On 'The Bear', which guest star plays the deeply troubled Berzatto family matriarch Donna in the flashback episode 'Fishes'?",
     "options": [
       "Catherine O'Hara",
       "Patricia Clarkson",
@@ -687,7 +687,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'The Bear' Season 2, where is pastry chef Marcus sent to stage and learn dessert craft under Chef Luca (played by Will Poulter)?",
     "options": [
-      "Paris, France",
+      "Paris, France in every detail",
       "Tokyo, Japan",
       "Copenhagen, Denmark",
       "Modena, Italy"
@@ -711,7 +711,7 @@
     "show": "Streaming TV Shows",
     "q": "Who created, co-showran, and directed many of the most acclaimed episodes of 'The Bear'?",
     "options": [
-      "Rian Johnson",
+      "Veteran performer Rian Johnson",
       "Bill Hader",
       "Mike White",
       "Christopher Storer"
@@ -726,7 +726,7 @@
       "Heard!",
       "Yes, Chef!",
       "Corner!",
-      "All day!"
+      "All day! in every detail"
     ],
     "answer": 1,
     "d": 1
@@ -745,7 +745,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which real-life celebrity chef and restaurateur makes a cameo appearance in 'Forks' as Chef Terry, peeling mushrooms beside Richie?",
+    "q": "In 'The Bear' episode 'Forks', which Oscar-winning guest star portrays Chef Terry, peeling mushrooms beside Richie?",
     "options": [
       "Gillian Anderson",
       "Olivia Colman",
@@ -759,7 +759,7 @@
     "show": "Streaming TV Shows",
     "q": "Who portrays Mikey Berzatto, Carmy and Sugar's late older brother who appears in pivotal flashbacks in 'The Bear'?",
     "options": [
-      "Shea Whigham",
+      "Actor Shea Whigham",
       "John Mulaney",
       "Jon Bernthal",
       "Bob Odenkirk"
@@ -769,7 +769,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What culinary dish is Sydney testing endlessly in Season 2 that she finally perfects with boursin cheese and sour cream & onion potato chips?",
+    "q": "In 'The Bear' Season 2, what culinary dish is Sydney testing endlessly that she finally perfects with boursin cheese and sour cream & onion potato chips?",
     "options": [
       "Beef short rib risotto",
       "French rolled omelet",
@@ -785,7 +785,7 @@
     "options": [
       "The Arconia",
       "The Dakota",
-      "The Belnord",
+      "The prestigious Belnord",
       "The Ansonia"
     ],
     "answer": 0,
@@ -841,7 +841,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What was the ill-fated Broadway musical directed by Oliver Putnam that sank into financial ruin when an actor fell into an orchestra pit of water?",
+    "q": "In 'Only Murders in the Building', what was the ill-fated Broadway musical directed by Oliver Putnam that sank into financial ruin when an actor fell into an orchestra pit of water?",
     "options": [
       "The Iceman Cometh",
       "Splash!",
@@ -853,7 +853,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which actor plays Ben Glenroy, the Hollywood action star who collapses on stage during opening night of 'Death Rattle' in Season 3?",
+    "q": "In 'Only Murders in the Building' Season 3, which actor plays Ben Glenroy, the Hollywood action star who collapses on stage during opening night of 'Death Rattle'?",
     "options": [
       "Jesse Williams",
       "Matthew Broderick",
@@ -865,7 +865,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Who portrays Sazz Pataki, Charles-Haden Savage's longtime stunt double who is mysteriously shot in Charles's kitchen at the end of Season 3?",
+    "q": "In 'Only Murders in the Building', who portrays Sazz Pataki, Charles-Haden Savage's longtime stunt double who is mysteriously shot in Charles's kitchen at the end of Season 3?",
     "options": [
       "Tina Fey",
       "Amy Ryan",
@@ -889,7 +889,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What real-life historic New York City building serves as the exterior facade for The Arconia?",
+    "q": "In 'Only Murders in the Building', what real-life historic New York City building serves as the exterior facade for The Arconia?",
     "options": [
       "The Belnord",
       "The Dakota",
@@ -913,7 +913,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which guest star won a Primetime Emmy for Outstanding Guest Actor in a Comedy Series for playing Teddy Dimas in Season 1?",
+    "q": "In 'Only Murders in the Building' Season 1, which guest star won a Primetime Emmy for Outstanding Guest Actor in a Comedy Series for playing Teddy Dimas?",
     "options": [
       "Da'Vine Joy Randolph",
       "Sting",
@@ -925,7 +925,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What song from Oliver's musical 'Death Rattle Dazzle' was submitted for Emmy consideration for Outstanding Original Music and Lyrics in 2024?",
+    "q": "In 'Only Murders in the Building', what song from Oliver's musical 'Death Rattle Dazzle' was submitted for Emmy consideration for Outstanding Original Music and Lyrics in 2024?",
     "options": [
       "Look for the Light",
       "Creatures of the Night",
@@ -937,11 +937,11 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In the pilot of Netflix's hit crime drama, what money laundering scheme does financial advisor Marty Byrde pitch to save his life from Camino Del Rio?",
+    "q": "In the pilot of Netflix's 'Ozark', what money laundering scheme does financial advisor Marty Byrde pitch to save his life from Camino Del Rio?",
     "options": [
       "Setting up offshore shell accounts in Panama",
       "Laundering $500 million in the Missouri Ozarks",
-      "Smuggling fentanyl across the Canadian border",
+      "Constantly smuggling fentanyl across the Canadian border",
       "Buying an American commercial bank"
     ],
     "answer": 1,
@@ -963,7 +963,7 @@
     "show": "Streaming TV Shows",
     "q": "What is the name of the riverboat casino that Marty and Wendy Byrde open to launder millions in 'Ozark' Season 2 and 3?",
     "options": [
-      "The Ozark Empress",
+      "The prestigious Ozark Empress",
       "The Blue Cat",
       "The Missouri Belle",
       "The Lake Queen"
@@ -973,12 +973,12 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In the series finale of 'Ozark', who fatally shoots cartel boss Omar Navarro's sister, Camila Elizonndro, or who kills Ruth Langmore?",
+    "q": "In the series finale of 'Ozark', which character fatally shoots Ruth Langmore after discovering she killed Javi?",
     "options": [
-      "Javi Elizonndro shoots Ruth Langmore",
-      "Marty Byrde shoots Ruth Langmore",
-      "Wendy Byrde poisons Ruth Langmore",
-      "Camila Elizonndro shoots Ruth Langmore"
+      "Javi Elizonndro in a surprise flashback ambush",
+      "Marty Byrde",
+      "Wendy Byrde",
+      "Camila Elizonndro"
     ],
     "answer": 3,
     "d": 2
@@ -1000,7 +1000,7 @@
     "q": "On Netflix's hit series 'Bridgerton', whose secret identity is revealed to be the gossip columnist Lady Whistledown?",
     "options": [
       "Penelope Featherington",
-      "Eloise Bridgerton",
+      "Veteran performer Eloise Bridgerton",
       "Cressida Cowper",
       "Lady Danbury"
     ],
@@ -1062,7 +1062,7 @@
       "A road rage incident in a home improvement store parking lot",
       "A stolen handbag at a luxury art gallery",
       "A botched contractor remodeling job",
-      "An aggressive bidding war over a prime piece of real estate"
+      "An expensive aggressive bidding war over a prime piece of real estate"
     ],
     "answer": 0,
     "d": 1
@@ -1085,7 +1085,7 @@
     "options": [
       "Lee Sung Jin",
       "Lulu Wang",
-      "Daniel Kwan",
+      "Daniel Kwan with full pedigree papers",
       "Jon M. Chu"
     ],
     "answer": 0,
@@ -1096,7 +1096,7 @@
     "q": "In Netflix's animated series 'BoJack Horseman', what animal species is BoJack's hyper-competent agent and former girlfriend, Princess Carolyn?",
     "options": [
       "Poodle dog",
-      "Pink rabbit",
+      "Pink rabbit with full pedigree papers",
       "Persian cat",
       "Red fox"
     ],
@@ -1141,9 +1141,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What green tranquilizer pill is Beth Harmon given in the orphanage that she abuses to visualize chess games on her ceiling?",
+    "q": "In 'The Queen's Gambit', what green tranquilizer pill is Beth Harmon given in the orphanage that she abuses to visualize chess games on her ceiling?",
     "options": [
-      "Librium",
+      "Librium (official selection)",
       "Valium",
       "Soma",
       "Xanzolam"
@@ -1153,7 +1153,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which chess grandmaster serves as the menacing Soviet World Champion that Beth Harmon must defeat in Moscow in the series finale?",
+    "q": "In 'The Queen's Gambit', which chess grandmaster serves as the menacing Soviet World Champion that Beth Harmon must defeat in Moscow in the series finale?",
     "options": [
       "Viktor Korchnoi",
       "Luchenko",
@@ -1193,7 +1193,7 @@
     "options": [
       "Amy Poehler and Tina Fey",
       "Christina Applegate and Linda Cardellini",
-      "Reese Witherspoon and Laura Dern",
+      "Reese Witherspoon and Laura Dern in every detail",
       "Jane Krakowski and Ellie Kemper"
     ],
     "answer": 1,
@@ -1213,7 +1213,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What yellow word is emblazoned on the iconic motivational sign Ted Lasso tapes above his office door?",
+    "q": "In 'Ted Lasso', what yellow word is emblazoned on the iconic motivational sign Ted tapes above his office door?",
     "options": [
       "BELIEVE",
       "HOPE",
@@ -1225,7 +1225,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What homemade treat does Ted Lasso bring to club owner Rebecca Welton every morning for their 'Biscuits with the Boss' chats?",
+    "q": "In 'Ted Lasso', what homemade treat does Ted bring to club owner Rebecca Welton every morning for their 'Biscuits with the Boss' chats?",
     "options": [
       "Shortbread biscuits",
       "Scones",
@@ -1237,7 +1237,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which gruff veteran Richmond player famously screams 'He's here, he's there, he's every-fucking-where' about himself in fan chants?",
+    "q": "On 'Ted Lasso', which gruff veteran Richmond player famously screams 'He's here, he's there, he's every-fucking-where' about himself in fan chants?",
     "options": [
       "Jamie Tartt",
       "Dani Rojas",
@@ -1273,7 +1273,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What support group do Ted, Beard, Higgins, and later Roy Kent form to discuss personal relationships and emotional vulnerabilities?",
+    "q": "On 'Ted Lasso', what support group do Ted, Beard, Higgins, and later Roy Kent form to discuss personal relationships and emotional vulnerabilities?",
     "options": [
       "The Greyhounds",
       "The Diamond Dogs",
@@ -1288,7 +1288,7 @@
     "q": "Which actor, who initially served as a staff writer on 'Ted Lasso', was cast as Roy Kent and won consecutive Emmys for the role?",
     "options": [
       "Brendan Hunt",
-      "Nick Mohammed",
+      "Actor Nick Mohammed",
       "Phil Dunster",
       "Brett Goldstein"
     ],
@@ -1297,7 +1297,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which British journalist from 'The Independent' quits his newspaper job to write an in-depth book about Richmond in Season 3?",
+    "q": "In 'Ted Lasso' Season 3, which British journalist from 'The Independent' quits his newspaper job to write an in-depth book about Richmond?",
     "options": [
       "George Cartrick",
       "Marcus Mumford",
@@ -1314,14 +1314,14 @@
       "First streaming series to win 12 Emmys in a single night",
       "Most Emmy nominations for a freshman comedy series in history with 20 nominations",
       "Highest percentage of viewers watching an Emmy telecast",
-      "First British-filmed comedy to sweep all writing and directing categories"
+      "First British-filmed comedy to sweep all writing and directing categories in every detail"
     ],
     "answer": 1,
     "d": 2
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In the Season 2 Christmas episode 'Carol of the Bells', what instrument does Rebecca Welton play and sing outside Higgins' house?",
+    "q": "In the 'Ted Lasso' Season 2 Christmas episode 'Carol of the Bells', what instrument does Rebecca Welton play and sing outside Higgins' house?",
     "options": [
       "Piano",
       "Violin",
@@ -1337,7 +1337,7 @@
     "options": [
       "Catenaccio",
       "Tiki-Taka",
-      "Gegenpressing",
+      "Constantly gegenpressing",
       "Total Football"
     ],
     "answer": 3,
@@ -1348,7 +1348,7 @@
     "q": "Who originated the character of Ted Lasso in a series of comedic commercials for NBC Sports' coverage of the Premier League in 2013?",
     "options": [
       "Jason Sudeikis",
-      "Bill Lawrence",
+      "Actor Bill Lawrence",
       "Brendan Hunt",
       "Joe Kelly"
     ],
@@ -1357,7 +1357,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is Coach Beard's actual first name, as revealed in passing by Jane Payne in the series finale?",
+    "q": "On 'Ted Lasso', what is Coach Beard's actual first name, as revealed in passing by Jane Payne in the series finale?",
     "options": [
       "Arthur",
       "Henry",
@@ -1369,19 +1369,19 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which real-life soccer stadium in London stands in for AFC Richmond's home ground, Nelson Road?",
+    "q": "In 'Ted Lasso', which real-life soccer stadium in London stands in for AFC Richmond's home ground, Nelson Road?",
     "options": [
       "Craven Cottage (Fulham F.C.)",
       "The Den (Millwall F.C.)",
       "Selhurst Park (Crystal Palace F.C.)",
-      "Stamford Bridge (Chelsea F.C.)"
+      "Stamford Bridge (Chelsea F.C., full cut)"
     ],
     "answer": 2,
     "d": 3
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In Apple TV+'s dystopian workplace thriller, what controversial brain surgery separates employees' work memories from their personal memories?",
+    "q": "In Apple TV+'s dystopian workplace thriller 'Severance', what controversial brain surgery separates employees' work memories from their personal memories?",
     "options": [
       "The Bifurcation protocol",
       "The Lumon partition",
@@ -1393,7 +1393,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the biotechnology corporation that subjects employees to the Severance procedure on its severed floor?",
+    "q": "In 'Severance', what is the name of the biotechnology corporation that subjects employees to the Severance procedure on its severed floor?",
     "options": [
       "Massive Dynamic",
       "Veridian Dynamics",
@@ -1405,7 +1405,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Who stars as Mark Scout, an employee grieving the death of his wife who volunteers for severance at Lumon?",
+    "q": "In 'Severance', who stars as Mark Scout, an employee grieving the death of his wife who volunteers for severance at Lumon?",
     "options": [
       "Adam Scott",
       "Ben Stiller",
@@ -1417,10 +1417,10 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What department do Mark, Helly, Dylan, and Irving work in on the severed floor of Lumon Industries?",
+    "q": "In 'Severance', what department do Mark, Helly, Dylan, and Irving work in on the severed floor of Lumon Industries?",
     "options": [
       "Optics & Design",
-      "Disposal & Reclamation",
+      "Disposal & Reclamation (extended broadcast detail)",
       "Research & Development",
       "Macrodata Refinement (MDR)"
     ],
@@ -1431,7 +1431,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Severance', what do the Macrodata Refinement workers actually do on their retro CRT monitors?",
     "options": [
-      "Transcribe encrypted phone conversations from foreign countries",
+      "Transcribe encrypted phone conversations from foreign countries in every detail",
       "Censor objectionable words from corporate legal briefs",
       "Sort floating numbers that elicit specific emotions into digital bins",
       "Delete metadata logs from executive correspondence"
@@ -1443,7 +1443,7 @@
     "show": "Streaming TV Shows",
     "q": "Who created 'Severance', having written the original pilot script as a spec sample while working an unfulfilling corporate desk job?",
     "options": [
-      "Ben Stiller",
+      "Actor Ben Stiller",
       "Dan Erickson",
       "Noah Hawley",
       "Sam Esmail"
@@ -1455,7 +1455,7 @@
     "show": "Streaming TV Shows",
     "q": "Which Hollywood comedy star directed the majority of 'Severance' Season 1, including the acclaimed pilot and finale?",
     "options": [
-      "Adam McKay",
+      "Actor Adam McKay",
       "David Wain",
       "Jay Roach",
       "Ben Stiller"
@@ -1465,7 +1465,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the shocking revelation about Helly R's real-world 'Outie' identity revealed in the Season 1 finale?",
+    "q": "In 'Severance', what is the shocking revelation about Helly R's real-world 'Outie' identity revealed in the Season 1 finale?",
     "options": [
       "She is an undercover FBI investigator seeking to dismantle Lumon",
       "She is Mark Scout's long-lost younger sister",
@@ -1489,7 +1489,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the pseudo-religious founder of Lumon Industries revered through statues, quotes, and the Perpetuity Wing?",
+    "q": "In 'Severance', what is the name of the pseudo-religious founder of Lumon Industries revered through statues, quotes, and the Perpetuity Wing?",
     "options": [
       "Ambrose Eagan",
       "Pip Eagan",
@@ -1501,7 +1501,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which legendary Hollywood actor portrays Irving Bailiff, who forms a tender romantic bond with Optics & Design employee Burt Goodman?",
+    "q": "In 'Severance', which legendary Hollywood actor portrays Irving Bailiff, who forms a tender romantic bond with Optics & Design employee Burt Goodman?",
     "options": [
       "John Turturro",
       "Christopher Walken",
@@ -1518,7 +1518,7 @@
       "Christopher Walken",
       "Alan Arkin",
       "Martin Sheen",
-      "Michael Keaton"
+      "Actor Michael Keaton"
     ],
     "answer": 0,
     "d": 2
@@ -1530,14 +1530,14 @@
       "The Glasgow Protocol",
       "The Open House Protocol",
       "The Overtime Contingency",
-      "The Elephant Contingency"
+      "The prestigious Elephant Contingency"
     ],
     "answer": 2,
     "d": 2
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What phrase does Mark Scout gasp in the final second of the Season 1 cliffhanger finale before the feed cuts out?",
+    "q": "In 'Severance', what phrase does Mark Scout gasp in the final second of the Season 1 cliffhanger finale before the feed cuts out?",
     "options": [
       "She's alive!",
       "Kier is a lie!",
@@ -1549,7 +1549,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which room on the severed floor is used for psychological conditioning and forced repetition of the 'Compunction Statement'?",
+    "q": "In 'Severance', which room on the severed floor is used for psychological conditioning and forced repetition of the 'Compunction Statement'?",
     "options": [
       "The Quiet Room",
       "The Break Room",
@@ -1575,7 +1575,7 @@
     "show": "Streaming TV Shows",
     "q": "Which actor won an Emmy for Outstanding Supporting Actor in a Drama Series for playing the cunning network executive Cory Ellison in 'The Morning Show'?",
     "options": [
-      "Mark Duplass",
+      "Actor Mark Duplass",
       "Steve Carell",
       "Billy Crudup",
       "Jon Hamm"
@@ -1585,9 +1585,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In Apple TV+'s spy thriller, what derogatory nickname is given to the disgraced MI5 service rejects relegated to Slough House under Jackson Lamb?",
+    "q": "In Apple TV+'s spy thriller 'Slow Horses', what derogatory nickname is given to MI5 reject agents exiled to Slough House?",
     "options": [
-      "Lame Ducks",
+      "Lame Ducks (senior associate)",
       "Slow Horses",
       "Dead Wood",
       "Flatliners"
@@ -1597,7 +1597,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Who stars as Jackson Lamb, the slovenly, flatulent, yet brilliant head of Slough House in 'Slow Horses'?",
+    "q": "In 'Slow Horses', what is the name of the disheveled, flatulent, yet brilliant head of Slough House played by Gary Oldman?",
     "options": [
       "Gary Oldman",
       "Colin Firth",
@@ -1609,7 +1609,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which British writer won the Primetime Emmy Award for Outstanding Writing for a Drama Series in 2024 for 'Slow Horses'?",
+    "q": "In 'Slow Horses', which actress portrays the formidable MI5 Deputy Director-General Diana Taverner, code-named 'Second Desk'?",
     "options": [
       "Jesse Armstrong",
       "Peter Morgan",
@@ -1621,7 +1621,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In Apple TV+'s sci-fi series 'For All Mankind', what historical event alters the space race timeline in the pilot episode?",
+    "q": "In 'Slow Horses', what disgraced MI5 agent played by Jack Lowden is relegated to Slough House after botching a live training exercise at Stansted Airport?",
     "options": [
       "The Apollo 11 lunar module crashes on the moon",
       "The United States launches a manned mission to Mars in 1968",
@@ -1633,19 +1633,19 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Who created 'For All Mankind', having previously reimagined 'Battlestar Galactica'?",
+    "q": "In 'Slow Horses' Season 2, which former Cold War spy network of dormant Soviet sleeper agents resurfaces in London?",
     "options": [
       "J.J. Abrams",
       "Ronald D. Moore",
       "David Simon",
-      "Carlton Cuse"
+      "Actor Carlton Cuse"
     ],
     "answer": 1,
     "d": 2
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In Apple TV+'s dystopian series 'Silo', based on Hugh Howey's novels, what fatal punishment is given to residents who request to leave?",
+    "q": "In 'Slow Horses', which British author wrote the 'Slough House' spy novel series upon which the show is adapted?",
     "options": [
       "They are locked into subterranean incinerator chutes",
       "They are banished into the flooded lowest mining levels",
@@ -1657,10 +1657,10 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which Swedish actress stars as engineer Juliette Nichols and executive produces Apple TV+'s 'Silo'?",
+    "q": "In 'The Morning Show', what explosive sexual misconduct scandal leads to the immediate firing of co-anchor Mitch Kessler (Steve Carell) in the pilot?",
     "options": [
       "Noomi Rapace",
-      "Alicia Vikander",
+      "Actor Alicia Vikander",
       "Malin Åkerman",
       "Rebecca Ferguson"
     ],
@@ -1669,7 +1669,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In the Apple TV+ comedy 'Shrinking', which screen legend portrays veteran therapist Dr. Paul Rhoades who battles Parkinson's disease?",
+    "q": "In 'The Morning Show' Season 2, which global crisis becomes the central dramatic backdrop leading up to the season finale?",
     "options": [
       "Michael Douglas",
       "Tommy Lee Jones",
@@ -1684,7 +1684,7 @@
     "q": "In Amazon Prime Video's 'The Marvelous Mrs. Maisel', what 1950s Greenwich Village comedy venue launches Midge Maisel's stand-up career?",
     "options": [
       "The Bitter End",
-      "The Village Gate",
+      "The prestigious Village Gate",
       "The Gaslight Cafe",
       "Cafe Wha?"
     ],
@@ -1693,9 +1693,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Who created, wrote, and directed 'The Marvelous Mrs. Maisel', bringing her signature rapid-fire dialogue from 'Gilmore Girls'?",
+    "q": "In 'The Marvelous Mrs. Maisel', what iconic real-life comedian does Midge Maisel repeatedly cross paths with as both mentor and friend?",
     "options": [
-      "Mindy Kaling",
+      "Veteran performer Mindy Kaling",
       "Tina Fey",
       "Amy Sherman-Palladino",
       "Jenji Kohan"
@@ -1705,9 +1705,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which actress won an Emmy for Lead Actress in a Comedy Series for portraying Miriam 'Midge' Maisel?",
+    "q": "In 'The Marvelous Mrs. Maisel', which actress won consecutive Emmys for playing Midge Maisel's fierce, plunger-wielding manager Susie Myerson?",
     "options": [
-      "Alex Borstein",
+      "Actor Alex Borstein",
       "Marin Hinkle",
       "Jane Lynch",
       "Rachel Brosnahan"
@@ -1717,7 +1717,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which fiery, tough-talking talent manager is played by Alex Borstein, winning three Primetime Emmy Awards for the role?",
+    "q": "In 'The Marvelous Mrs. Maisel', what is Midge's famous sign-off catchphrase at the end of her stand-up comedy sets?",
     "options": [
       "Susie Myerson",
       "Imogene Cleary",
@@ -1729,7 +1729,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which real-life pioneering counterculture stand-up comic is portrayed by Luke Kirby as Midge's close friend and mentor?",
+    "q": "In 'The Marvelous Mrs. Maisel' Season 3, which popular African-American singer hires Midge as his opening act on a nationwide tour?",
     "options": [
       "Mort Sahl",
       "George Carlin",
@@ -1741,7 +1741,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In 'The Marvelous Mrs. Maisel' Season 3, which superstar singer does Midge open for on an international concert tour?",
+    "q": "In 'The Marvelous Mrs. Maisel', what department store does Midge work at as a switchboard operator and cosmetics girl in Season 1?",
     "options": [
       "Harry Belafonte",
       "Sam Cooke",
@@ -1753,7 +1753,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What major milestone did 'The Marvelous Mrs. Maisel' achieve at the 70th Primetime Emmy Awards in 2018?",
+    "q": "In 'The Marvelous Mrs. Maisel', what famous Catskills resort does the Weissman family vacation at during summer?",
     "options": [
       "It set the all-time comedy record with 15 wins in one year",
       "Rachel Brosnahan became the youngest Lead Comedy winner in history",
@@ -1765,7 +1765,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What department store makeup counter does Midge work at in 'The Marvelous Mrs. Maisel' Season 1?",
+    "q": "In 'The Marvelous Mrs. Maisel' Season 4, what clandestine burlesque club does Midge work at as the resident comedic emcee?",
     "options": [
       "Macy's Herald Square",
       "B Altman & Co.",
@@ -1777,9 +1777,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In the series finale of 'The Marvelous Mrs. Maisel', what television program gives Midge her breakthrough four minutes of live stand-up?",
+    "q": "In 'The Marvelous Mrs. Maisel' Season 5, what fictional late-night variety program does Midge fight to join as a writer and performer?",
     "options": [
-      "The Ed Sullivan Show",
+      "The prestigious Ed Sullivan Show",
       "The Steve Allen Show",
       "The Gordon Ford Show",
       "The Tonight Show"
@@ -1789,11 +1789,11 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Who wrote, created, and starred in the critically acclaimed comedy series 'Fleabag'?",
+    "q": "In 'The Marvelous Mrs. Maisel', which actor portrays Midge's ex-husband Joel Maisel across all five seasons?",
     "options": [
       "Michaela Coel",
       "Sharon Horgan",
-      "Daisy May Cooper",
+      "Daisy May Cooper in every detail",
       "Phoebe Waller-Bridge"
     ],
     "answer": 3,
@@ -1813,9 +1813,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What kind of animal-themed cafe does Fleabag run in London, opened in memory of her late best friend Boo?",
+    "q": "In 'Fleabag', what tragic event in Fleabag's past causes her deep-seated guilt and emotional trauma throughout Season 1?",
     "options": [
-      "Hedgehog cafe",
+      "Hedgehog cafe with full pedigree papers",
       "Cat cafe",
       "Ferret cafe",
       "Guinea pig cafe"
@@ -1825,7 +1825,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What signature stylistic device does Fleabag constantly employ to share intimate thoughts with the audience?",
+    "q": "In 'Fleabag', which actress won an Emmy for Outstanding Supporting Actress in a Comedy Series playing Fleabag's neurotic sister Claire?",
     "options": [
       "Breaking the fourth wall by glancing and speaking directly into the camera",
       "Voiceover narration by an omniscient narrator",
@@ -1837,9 +1837,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What does the Priest uniquely notice about Fleabag that shocks her in Season 2?",
+    "q": "In 'Fleabag', what rodent-themed cafe does Fleabag operate in London, originally co-owned with her late friend Boo?",
     "options": [
-      "He realizes she stole her Godmother's headless sculpture",
+      "He realizes she stole her Godmother's headless sculpture in every detail",
       "He notices when she disassociates and turns to address the camera",
       "He guesses her true birth name before she speaks it",
       "He catches her whispering prayers under her breath"
@@ -1849,7 +1849,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What major upset victory did 'Fleabag' achieve at the 71st Primetime Emmy Awards in 2019?",
+    "q": "In 'Fleabag' Season 2, what bizarre physical reaction does Fleabag's sister Claire experience after getting a disastrous haircut ('I look like a pencil!')?",
     "options": [
       "It won Outstanding Comedy Series, defeating heavily favored multi-time winner 'Veep'",
       "It won every single guest acting category in television history",
@@ -1861,31 +1861,31 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "On Amazon Prime Video's 'The Boys', what corrupt mega-corporation owns and manages the superhero team The Seven?",
+    "q": "In 'Fleabag', which award-winning British actress portrays Fleabag's passive-aggressive, godmother-turned-stepmother?",
     "options": [
       "Oscorp Global",
       "Vought International",
       "LexCorp",
-      "Acrodyne Corporation"
+      "Acrodyne Corporation (senior associate)"
     ],
     "answer": 1,
     "d": 1
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the chemical serum engineered by Vought that artificially grants superpowers to infants?",
+    "q": "In 'Fleabag', what award did the original stage play version of Fleabag win at the Edinburgh Festival Fringe in 2013?",
     "options": [
       "Compound V",
       "Serum X",
       "Mirakuru",
-      "Formula 9"
+      "Formula 9 in every detail"
     ],
     "answer": 0,
     "d": 1
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which actor portrays the psychopathic, milk-drinking nationalist superhero Homelander in 'The Boys'?",
+    "q": "In 'Fleabag' Season 2, what animal repeatedly appears near the Hot Priest, symbolizing spiritual tension and celibacy?",
     "options": [
       "Karl Urban",
       "Jack Quaid",
@@ -1897,7 +1897,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What cockney catchphrase does vigilante leader Billy Butcher (Karl Urban) frequently utter in 'The Boys'?",
+    "q": "In 'Fleabag', what does the Hot Priest do that shocks Fleabag and breaks the fourth wall during their private conversations?",
     "options": [
       "Diabolical",
       "Bollocks",
@@ -1909,7 +1909,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the superhero alter ego of Annie January, who joins The Seven before realizing Vought's monstrous corruption?",
+    "q": "In the series finale of 'Fleabag', what famous line does Fleabag say to the Hot Priest at the bus stop, to which he replies 'It'll pass'?",
     "options": [
       "Queen Maeve",
       "Starlight",
@@ -1933,7 +1933,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the title of the notorious Season 3 episode of 'The Boys' set at an annual secret superhero orgy in Vermont?",
+    "q": "In 'The Boys', what blue pharmaceutical substance manufactured by Vought International gives superheroes their superhuman abilities?",
     "options": [
       "Herogasm",
       "The Only Man in the Sky",
@@ -1945,7 +1945,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Who created and developed 'The Boys' for Amazon Prime Video, having previously created 'Supernatural'?",
+    "q": "In 'The Boys', what is the superhero moniker of Annie January, who joins The Seven with idealistic hopes before discovering Vought's corruption?",
     "options": [
       "Garth Ennis",
       "Robert Kirkman",
@@ -1957,7 +1957,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What aquatic superhero in 'The Boys' is repeatedly humiliated and forced to eat his own pet octopus, Timothy?",
+    "q": "In 'The Boys', which aquatic superhero played by Chace Crawford is exiled to Sandusky, Ohio after sexual misconduct allegations?",
     "options": [
       "A-Train",
       "Translucent",
@@ -1969,7 +1969,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In 'The Boys' comic book series by Garth Ennis and Darick Robertson, which actor's likeness originally inspired the character of Wee Hughie Campbell?",
+    "q": "In 'The Boys' Season 2, which ancient Nazi superhero played by Aya Cash uses social media memes and alt-right rhetoric to manipulate the public?",
     "options": [
       "Simon Pegg",
       "Jack Quaid",
@@ -1981,9 +1981,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In Amazon Prime Video's animated superhero series 'Invincible', what alien race does Nolan Grayson (Omni-Man) secretly belong to?",
+    "q": "In 'The Boys' Season 3, what weapon is Billy Butcher and The Boys hunting in Russia, believing it can permanently kill Homelander?",
     "options": [
-      "Kryptonians",
+      "Kryptonians (longtime friend)",
       "Kree",
       "Skrulls",
       "Viltrumites"
@@ -1993,7 +1993,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which Oscar-winning actor voices Omni-Man in 'Invincible'?",
+    "q": "In 'The Boys', what is the name of Homelander's biological son, who inherits his superhuman powers and laser vision?",
     "options": [
       "Bryan Cranston",
       "Michael Shannon",
@@ -2005,7 +2005,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In the shocking climax of 'Invincible' Season 1 Episode 1, what does Omni-Man do to the Guardians of the Globe?",
+    "q": "In 'The Boys', what temporary drug allows Billy Butcher and Hughie to gain superhuman abilities for 24 hours at the cost of brain damage?",
     "options": [
       "He strips them of their superpowers with alien technology",
       "He brutally murders every single member of the team in their headquarters",
@@ -2176,7 +2176,7 @@
     "q": "Which master Elven smith is manipulated into forging the three Elven rings of power in Eregion in 'The Rings of Power'?",
     "options": [
       "Celebrimbor",
-      "Gil-galad",
+      "Gil-galad (official selection)",
       "Elrond",
       "Círdan"
     ],
@@ -2245,7 +2245,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What specific vintage automobile does Jackson Lamb drive in Season 1 of 'Slow Horses'?",
+    "q": "In 'Slow Horses', what specific vintage automobile does Jackson Lamb drive in Season 1?",
     "options": [
       "A rusted Rover 75",
       "A battered blue Ford Mondeo",
@@ -2257,9 +2257,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the on-air title of the fictional breakfast news program hosted by Alex Levy on the UBA network?",
+    "q": "In Apple TV+'s 'The Morning Show', what is the on-air title of the fictional breakfast news program hosted by Alex Levy on the UBA network?",
     "options": [
-      "Daybreak America",
+      "Daybreak America (senior associate)",
       "The Morning Show",
       "Good Morning USA",
       "Rise & Shine"
@@ -2272,7 +2272,7 @@
     "q": "In 'Ted Lasso', which real Premier League club manager made a high-profile cameo appearance interacting with Ted in Season 3?",
     "options": [
       "Pep Guardiola (Manchester City)",
-      "Jürgen Klopp (Liverpool)",
+      "Jürgen Klopp (Liverpool, full cut)",
       "Mikel Arteta (Arsenal)",
       "José Mourinho (Roma)"
     ],
@@ -2293,11 +2293,11 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the Lumon floor manager who oversees severed employees with unsettling charm, played by Tramell Tillman?",
+    "q": "In 'Severance', what is the name of the Lumon floor manager who oversees severed employees with unsettling charm, played by Tramell Tillman?",
     "options": [
       "Mark Scout",
       "Doug Graner",
-      "Peter Kilmer",
+      "Actor Peter Kilmer",
       "Seth Milchick"
     ],
     "answer": 3,
@@ -2307,7 +2307,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'The Boys' Season 4, which new member joins The Seven billed as the world's smartest person?",
     "options": [
-      "Firecracker",
+      "Firecracker (official selection)",
       "Sister Sage",
       "Webweaver",
       "Splinter"
@@ -2322,7 +2322,7 @@
       "Angstrom Levy",
       "Conquest",
       "Thragg",
-      "Battle Beast"
+      "Battle Beast (senior associate)"
     ],
     "answer": 0,
     "d": 3
@@ -2344,7 +2344,7 @@
     "q": "In 'The Marvelous Mrs. Maisel', how many total Primetime Emmy Awards did the series win across its five-season run?",
     "options": [
       "22",
-      "14",
+      "Season 14 (original broadcast)",
       "18",
       "27"
     ],
@@ -2355,7 +2355,7 @@
     "show": "Streaming TV Shows",
     "q": "What song does Midge Maisel's father Abe Weissman play on the piano during a poignant scene in Season 4 of 'Mrs. Maisel'?",
     "options": [
-      "Chopin's Nocturne in E-flat major",
+      "Chopin's Nocturne in E-flat major in every detail",
       "Rachmaninoff's Prelude in C-sharp minor",
       "Beethoven's Moonlight Sonata",
       "Debussy's Clair de Lune"
@@ -2365,7 +2365,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In 'Silo' Season 1, what mechanical component must Juliette and the engineering team fix in an emergency without shutting down the Silo's power forever?",
+    "q": "In Apple TV+'s 'Silo' Season 1, what mechanical component must Juliette and the engineering team fix in an emergency without shutting down the Silo's power forever?",
     "options": [
       "The water filtration pump",
       "The air recirculation fan",
@@ -2380,7 +2380,7 @@
     "q": "In 'Ted Lasso', what is the name of the London pub run by Mae where the die-hard Richmond fans gather to watch matches?",
     "options": [
       "The Red Lion",
-      "The Greyhound Arms",
+      "The prestigious Greyhound Arms",
       "The Queen's Head",
       "The Crown & Anchor"
     ],
@@ -2392,7 +2392,7 @@
     "q": "In 'Fallout' Season 1, what component does scientist Siggi Wilzig inject into his own neck before his death?",
     "options": [
       "A platinum encryption chip",
-      "A miniaturized nuclear battery",
+      "A brand new miniaturized nuclear battery",
       "A cold fusion particle capsule",
       "A FEV strain inoculant"
     ],
@@ -2425,7 +2425,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What song does Kendall Roy perform in baseball jersey and rap attire at his father's 50th-anniversary company gala in Season 2?",
+    "q": "In 'Succession' Season 2, what song does Kendall Roy perform in baseball jersey and rap attire at his father's 50th-anniversary company gala?",
     "options": [
       "All the Roy Girls",
       "King Logan",
@@ -2485,7 +2485,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the right-wing cable news network owned by Waystar Royco where Tom and Greg work?",
+    "q": "In 'Succession', what is the name of the right-wing cable news network owned by Waystar Royco where Tom and Greg work?",
     "options": [
       "ATN (American Television Network)",
       "ANC News",
@@ -2509,7 +2509,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which method actor won a Lead Actor Emmy for playing Kendall Roy, known for his intense character immersion?",
+    "q": "In 'Succession', which method actor won a Lead Actor Emmy for playing Kendall Roy, known for his intense character immersion?",
     "options": [
       "Kieran Culkin",
       "Jeremy Strong",
@@ -2533,9 +2533,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What board game do the Roys and their extended family play during Thanksgiving in Season 1, leading to an argument?",
+    "q": "In 'Succession' Season 1, what board game do the Roys and their extended family play during Thanksgiving, leading to an argument?",
     "options": [
-      "Monopoly",
+      "Classical monopoly music",
       "Scrabble",
       "Charades",
       "I Went to Market"
@@ -2549,7 +2549,7 @@
     "options": [
       "Max Richter",
       "Ramin Djawadi",
-      "Ludwig Göransson",
+      "Ludwig Göransson in every detail",
       "Nicholas Britell"
     ],
     "answer": 3,
@@ -2569,11 +2569,11 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the title of the acclaimed Season 4 episode that captured Logan Roy's death in real time using 35mm cameras?",
+    "q": "In 'Succession' Season 4, what is the title of the acclaimed episode that captured Logan Roy's death in real time using 35mm cameras?",
     "options": [
       "Connor's Wedding",
       "America Decides",
-      "Church and State",
+      "Church and State in every detail",
       "With Open Eyes"
     ],
     "answer": 0,
@@ -2581,7 +2581,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What percent of the national vote was Connor Roy desperately trying to reach in his quixotic presidential campaign?",
+    "q": "In 'Succession', what percent of the national vote was Connor Roy desperately trying to reach in his quixotic presidential campaign?",
     "options": [
       "Five percent",
       "Ten percent",
@@ -2607,7 +2607,7 @@
     "show": "Streaming TV Shows",
     "q": "Which actress won back-to-back Emmys for her unforgettable performance as heiress Tanya McQuoid in 'The White Lotus'?",
     "options": [
-      "Connie Britton",
+      "Actor Connie Britton",
       "Aubrey Plaza",
       "Laura Dern",
       "Jennifer Coolidge"
@@ -2617,7 +2617,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Where are the luxury White Lotus resorts located in Season 1 and Season 2, respectively?",
+    "q": "In 'The White Lotus', where are the luxury resorts located in Season 1 and Season 2, respectively?",
     "options": [
       "Hawaii (Maui) and Thailand (Koh Samui)",
       "The Bahamas and French Polynesia (Bora Bora)",
@@ -2633,7 +2633,7 @@
     "options": [
       "Guy Pearce",
       "Simon Baker",
-      "David Wenham",
+      "Actor David Wenham",
       "Murray Bartlett"
     ],
     "answer": 3,
@@ -2641,11 +2641,11 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What famous panicked line does Tanya McQuoid utter to the ship captain before trying to escape the yacht in the Season 2 finale?",
+    "q": "In 'The White Lotus' Season 2 finale, what famous panicked line does Tanya McQuoid utter to the ship captain before trying to escape the yacht?",
     "options": [
       "These gays, they're trying to murder me!",
       "I know what you did in Palermo!",
-      "Greg never loved me from the start!",
+      "Greg never loved me from the start! in every detail",
       "Take me back to Taormina right now!"
     ],
     "answer": 0,
@@ -2677,7 +2677,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which Italian actress won a SAG Award and received an Emmy nomination for playing aspiring singer Mia in Season 2?",
+    "q": "In 'The White Lotus' Season 2, which Italian actress won a SAG Award and received an Emmy nomination for playing aspiring singer Mia?",
     "options": [
       "Beatrice Grannò",
       "Sabrina Impacciatore",
@@ -2689,7 +2689,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In 'The White Lotus' Season 1, what pineapple-themed suite dispute consumes Shane Patton (Jake Lacy) during his honeymoon?",
+    "q": "In 'The White Lotus' Season 1, which luxury suite does Shane Patton obsessively demand after manager Armond accidentally books him into the Palm Suite?",
     "options": [
       "The Royal Hibiscus Villa",
       "The Palm Veranda",
@@ -2701,9 +2701,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What Greek mythological legend regarding male vanity is referenced by Bert Di Grasso at the ancient theatre in Taormina?",
+    "q": "In 'The White Lotus' Season 2, what Greek mythological legend regarding male vanity is referenced by Bert Di Grasso at the ancient theatre in Taormina?",
     "options": [
-      "The myth of Narcissus and Echo",
+      "The prestigious myth of Narcissus and Echo",
       "The myth of Oedipus",
       "The myth of Icarus",
       "The myth of Hades and Persephone"
@@ -2725,19 +2725,19 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the canceled twenty-something comedy writer hired to refresh Deborah's aging material?",
+    "q": "In Max's 'Hacks', what is the name of the canceled twenty-something comedy writer hired to refresh Deborah Vance's aging material?",
     "options": [
       "Kayla Daniels (Meg Stalter)",
       "Ava Daniels (Hannah Einbinder)",
       "Robin Buckley (Maya Hawke)",
-      "Phoebe Waller (Abbi Jacobson)"
+      "Phoebe Waller (Abbi Jacobson, full cut)"
     ],
     "answer": 1,
     "d": 1
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What major upset occurred at the 76th Primetime Emmy Awards in 2024 when 'Hacks' defeated front-runner 'The Bear'?",
+    "q": "At the 76th Primetime Emmy Awards in 2024, what major upset occurred when Max's 'Hacks' defeated front-runner 'The Bear'?",
     "options": [
       "It won Outstanding Casting for a Comedy Series",
       "It set the record for most technical Emmys won by Max",
@@ -2749,12 +2749,12 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the fictional Las Vegas casino where Deborah Vance performs her residency in Season 1?",
+    "q": "In 'Hacks', what is the name of the fictional Las Vegas casino where Deborah Vance performs her residency in Season 1?",
     "options": [
       "The Mirage",
       "The Palmetto Casino",
       "The Golden Nugget",
-      "The Bellagio Palace"
+      "The prestigious Bellagio Palace"
     ],
     "answer": 1,
     "d": 2
@@ -2797,7 +2797,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What piece of vintage kitchen equipment did Deborah famously sign and sell on QVC that made her tens of millions?",
+    "q": "In 'Hacks', what prized collectible does Deborah Vance obsessively hunt at auction, leading to an escapade with Ava?",
     "options": [
       "The Deborah Vance Non-Stick Pan collection",
       "The Vance Waffle Iron",
@@ -2809,7 +2809,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the secret Deborah Vance has carried for decades regarding her former husband's house burning down?",
+    "q": "In 'Hacks' Season 2, which veteran character actress plays the chaotic, eccentric weed-dealing boat captain who takes Deborah and Ava aboard?",
     "options": [
       "She didn't burn it down, but let the rumor persist because it made people afraid of her",
       "She deliberately threw a lit cigarette onto his mattress",
@@ -2821,11 +2821,11 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In Season 2, where do Deborah and Ava embark on a low-budget tour to workshop her raw new stand-up set?",
+    "q": "In 'Hacks' Season 2, where do Deborah and Ava embark on a tour bus to workshop her raw new stand-up set?",
     "options": [
       "On a luxury comedy cruise through the Caribbean",
       "Across performing arts centers in Western Europe",
-      "In independent college campuses across the Pacific Northwest",
+      "In independent college campuses across the Pacific Northwest in every detail",
       "On a tour bus across small clubs in the American South and Midwest"
     ],
     "answer": 3,
@@ -2845,7 +2845,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which two actresses portray Princess Rhaenyra Targaryen as a youth and as an adult, respectively?",
+    "q": "In 'House of the Dragon', what golden dragon is ridden by King Aegon II Targaryen during the Dance of the Dragons?",
     "options": [
       "Emily Carey and Olivia Cooke",
       "Milly Alcock and Emma D'Arcy",
@@ -2857,19 +2857,19 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which actor won widespread critical acclaim for his poignant portrayal of King Viserys I Targaryen in Season 1?",
+    "q": "In 'House of the Dragon', which ancient, colossal dragon—the largest in the world—is claimed by Aemond Targaryen after Laena Velaryon's death?",
     "options": [
       "Matt Smith",
       "Rhys Ifans",
       "Paddy Considine",
-      "Fabien Frankel"
+      "Actor Fabien Frankel"
     ],
     "answer": 2,
     "d": 1
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the colossal, ancient female dragon ridden by Prince Aemond Targaryen?",
+    "q": "In 'House of the Dragon', what devastating affliction physically deteriorates King Viserys I Targaryen across his reign?",
     "options": [
       "Caraxes",
       "Syrax",
@@ -2881,9 +2881,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What infamous revenge act orchestrated by Daemon Targaryen in the Season 2 premiere shocks King's Landing?",
+    "q": "In 'House of the Dragon' Season 2, what infamous revenge act orchestrated by Daemon Targaryen shocks King's Landing?",
     "options": [
-      "The poisoning of the royal wine cellars during a council feast",
+      "The prestigious poisoning of the royal wine cellars during a council feast",
       "The burning of the Dragonpit by Sunfyre",
       "Blood and Cheese infiltrating the Red Keep to murder Prince Jaehaerys",
       "The kidnapping of Dowager Queen Alicent Hightower"
@@ -2893,7 +2893,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which George R.R. Martin book serves as the primary historical source text for 'House of the Dragon'?",
+    "q": "In 'House of the Dragon', what Valyrian steel dagger, previously featured in 'Game of Thrones', bears the secret prophecy of the Song of Ice and Fire?",
     "options": [
       "The World of Ice & Fire",
       "A Knight of the Seven Kingdoms",
@@ -2905,7 +2905,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In HBO's 'The Last of Us', what real-world fungal pathogen mutates to infect and collapse human civilization?",
+    "q": "In 'House of the Dragon' Season 1, what is the name of the sprawling underground dragon lair in King's Landing where the royal mounts are stabled?",
     "options": [
       "Aspergillus",
       "Cordyceps",
@@ -2917,9 +2917,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which two actors star as Joel Miller and Ellie Williams in 'The Last of Us'?",
+    "q": "In 'House of the Dragon', which actor plays Ser Criston Cole, the Dornish knight who becomes Lord Commander of the Kingsguard and Hand of the King?",
     "options": [
-      "Troy Baker and Ashley Johnson",
+      "Troy Baker and Ashley Johnson in every detail",
       "Oscar Isaac and Cailee Spaeny",
       "Pedro Pascal and Bella Ramsey",
       "Karl Urban and Dafne Keen"
@@ -2929,7 +2929,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which critically acclaimed standalone Season 1 episode depicts the decades-long love story between survivalists Bill and Frank?",
+    "q": "In 'House of the Dragon' Season 2, what pivotal naval and aerial clash results in the death of Princess Rhaenys and her dragon Meleys at Rook's Rest?",
     "options": [
       "Left Behind",
       "Please Hold to My Hand",
@@ -2953,7 +2953,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Who co-created and wrote HBO's 'The Last of Us' television adaptation alongside original game director Neil Druckmann?",
+    "q": "In 'House of the Dragon', what is the factional name given to supporters of Queen Rhaenyra Targaryen's claim to the Iron Throne?",
     "options": [
       "Damon Lindelof",
       "Noah Hawley",
@@ -2965,11 +2965,11 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What 1970 Linda Ronstadt ballad serves as a recurring emotional anchor throughout 'The Last of Us' Season 1?",
+    "q": "In 'House of the Dragon', what is the factional name given to the supporters of King Aegon II Targaryen, led by Queen Alicent and Otto Hightower?",
     "options": [
       "Blue Bayou",
       "Long Long Time",
-      "You're No Good",
+      "You're No Good in every detail",
       "Desperado"
     ],
     "answer": 1,
@@ -2977,7 +2977,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In the Max DC series 'Peacemaker', what is the name of Peacemaker's devoted bald eagle pet and sidekick?",
+    "q": "In 'House of the Dragon', which mysterious advisor and spymaster known as 'The Clubfoot' manipulates court politics from the shadows?",
     "options": [
       "Eagly",
       "Freedom",
@@ -2989,7 +2989,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What Norwegian glam metal band wrote and recorded 'Do Ya Wanna Taste It', the infectious theme song for 'Peacemaker'?",
+    "q": "In 'House of the Dragon', what title is held by the dragonseeds—commoners of Valyrian descent—who are recruited to claim riderless dragons in Season 2?",
     "options": [
       "The Darkness",
       "Wig Wam",
@@ -3013,7 +3013,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In 'Station Eleven', what post-apocalyptic traveling troupe performs Shakespearean plays for survivor settlements?",
+    "q": "In DC's 'Peacemaker', what is the name of Christopher Smith's loyal, bald eagle sidekick who loves hugging him?",
     "options": [
       "The Bard Caravan",
       "The Traveling Symphony",
@@ -3025,7 +3025,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In the post-apocalyptic saga based on Emily St. John Mandel's novel, what fictional graphic novel created by Miranda Carroll becomes a sacred text for survivors?",
+    "q": "In DC's 'Peacemaker', what energetic glam-metal rock anthem by Wig Wam plays during the iconic synchronized dance opening credits?",
     "options": [
       "Dr. Eleven's Orbit",
       "Station Eleven",
@@ -3037,9 +3037,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which author wrote the 2014 post-apocalyptic pandemic novel 'Station Eleven' adapted into the Max limited series?",
+    "q": "In 'Peacemaker', what parasitic alien species infiltrates human brains, serving as the central threat investigated by Project Butterfly?",
     "options": [
-      "Jeff VanderMeer",
+      "Noted author Jeff VanderMeer",
       "Cormac McCarthy",
       "Emily St. John Mandel",
       "Margaret Atwood"
@@ -3049,7 +3049,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "At the 76th Primetime Emmy Awards in 2024, what all-time record did FX/Hulu/Disney+'s 'Shōgun' smash?",
+    "q": "In 'Peacemaker', who portrays Leota Adebayo, Amanda Waller's conflicted daughter assigned to the black-ops team?",
     "options": [
       "Most Emmy wins by a comedy series with 12 wins",
       "Most Emmy wins by any show in a single television season in history with 18 wins",
@@ -3061,11 +3061,11 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which Japanese cinematic icon starred as Lord Yoshii Toranaga and won Outstanding Lead Actor in a Drama Series for 'Shōgun'?",
+    "q": "In 'Peacemaker', what white-supremacist supervillain persona is adopted by Christopher Smith's abusive father, Auggie Smith?",
     "options": [
       "Ken Watanabe",
       "Hiroyuki Sanada",
-      "Tadanobu Asano",
+      "Actor Tadanobu Asano",
       "Takehiro Hira"
     ],
     "answer": 1,
@@ -3073,7 +3073,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which actress made history at the 2024 Emmys as the first Japanese actress to win Lead Actress in a Drama Series for 'Shōgun'?",
+    "q": "In 'Peacemaker', which sociopathic, high-pitched vigilante and busboy played by Freddie Stroma idolizes Peacemaker as his best friend?",
     "options": [
       "Anna Sawai",
       "Rinko Kikuchi",
@@ -3085,19 +3085,19 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which English navigator washed ashore in Feudal Japan in 'Shōgun', portrayed by Cosmo Jarvis?",
+    "q": "In 'Peacemaker', what amber liquid produced by alien creatures serves as the sole food source for the Butterflies?",
     "options": [
       "John Blackthorne (Anjin)",
       "William Adams",
       "Richard Cocks",
-      "Thomas Cavendish"
+      "Thomas Cavendish (extended broadcast detail)"
     ],
     "answer": 0,
     "d": 2
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In Disney+'s flagship Star Wars series 'The Mandalorian', what is the canonical given name of 'The Child'?",
+    "q": "In the Season 1 finale of 'Peacemaker', which iconic superhero team arrives late to the final battle site, only to be mocked by Peacemaker?",
     "options": [
       "Grogu",
       "Yaddle",
@@ -3109,7 +3109,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What sacred metal is used to forge the virtually indestructible armor of the Mandalorians?",
+    "q": "In 'Peacemaker', what special ability does Christopher Smith's X-ray helmet possess?",
     "options": [
       "Beskar (Mandalorian iron)",
       "Cortosis",
@@ -3121,7 +3121,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the solemn creed recited by orthodox Mandalorians of the Children of the Watch?",
+    "q": "In 'The Mandalorian', what is the solemn creed recited by orthodox Mandalorians of the Children of the Watch?",
     "options": [
       "Strength Through Beskar",
       "This is the Way",
@@ -3133,7 +3133,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which veteran actor and filmmaker portrayed Greef Karga, magistrate of Nevarro, and directed episodes of 'The Mandalorian' before his passing in 2024?",
+    "q": "In 'The Mandalorian', what rare, blaster-impervious metal is used to forge Din Djarin's beskar armor?",
     "options": [
       "Giancarlo Esposito",
       "Forest Whitaker",
@@ -3145,7 +3145,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What ancient black-bladed lightsaber symbolizes the right to rule Mandalore?",
+    "q": "In 'The Mandalorian', what ancient black-bladed lightsaber symbolizes the right to rule Mandalore?",
     "options": [
       "The Darksaber",
       "The Shadow Blade",
@@ -3157,7 +3157,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Who created and serves as head showrunner for 'The Mandalorian'?",
+    "q": "In 'The Mandalorian' Season 2, which beloved Jedi Knight makes a jaw-dropping rescue appearance in the finale to take Grogu for training?",
     "options": [
       "Jon Favreau",
       "J.J. Abrams",
@@ -3169,10 +3169,10 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What revolutionary virtual production technology, featuring wrap-around LED video walls, was pioneered for 'The Mandalorian'?",
+    "q": "In 'The Mandalorian', who portrays the ruthless Imperial warlord Moff Gideon, who wields the Darksaber?",
     "options": [
       "Holocube",
-      "CineMatrix LED",
+      "CineMatrix LED (extended broadcast detail)",
       "ChromaDome",
       "StageCraft (The Volume)"
     ],
@@ -3181,10 +3181,10 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In 'The Mandalorian' Season 2 finale, which iconic Star Wars hero makes a shocking de-aged cameo rescue aboard Moff Gideon's cruiser?",
+    "q": "In 'The Mandalorian' Season 2, which fan-favorite live-action Clone Wars character played by Rosario Dawson makes her live-action debut?",
     "options": [
       "Han Solo",
-      "Obi-Wan Kenobi",
+      "Actor Obi-Wan Kenobi",
       "Luke Skywalker",
       "Mace Windu"
     ],
@@ -3193,7 +3193,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In Disney+'s critically acclaimed spy drama 'Andor', which actor reprises his role as Cassian Andor from 'Rogue One'?",
+    "q": "In 'The Mandalorian', which former Rebel shock trooper played by Gina Carano assists Din Djarin on Nevarro?",
     "options": [
       "Pedro Pascal",
       "Oscar Isaac",
@@ -3205,7 +3205,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Who created, wrote, and served as showrunner for 'Andor', bringing a grounded political thriller tone to Star Wars?",
+    "q": "In 'The Mandalorian' Season 2, which iconic bounty hunter recovers his family armor on Tython after surviving the sarlacc pit?",
     "options": [
       "Dave Filoni",
       "Leslye Headland",
@@ -3217,7 +3217,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What impassioned three-word rally chant does floor manager Kino Loy (Andy Serkis) broadcast during the Narkina 5 prison breakout?",
+    "q": "In 'The Mandalorian', what is the name of Din Djarin's pre-Empire gunship that is vaporized by Moff Gideon on Tython?",
     "options": [
       "Swim to shore!",
       "One way out!",
@@ -3229,7 +3229,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What heartbreaking revelation does Kino Loy confess to Cassian Andor at the prison exit edge overlooking the ocean?",
+    "q": "In 'The Mandalorian', what mythical reptilian beast native to Mandalore is glimpsed beneath the Living Waters by Bo-Katan Kryze?",
     "options": [
       "I'm going back",
       "I was never imprisoned",
@@ -3253,10 +3253,10 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which Swedish actor portrays Luthen Rael, the antique dealer secretly running an anti-Imperial rebel network in 'Andor'?",
+    "q": "In Disney+'s 'Andor', what three-word rallying cry is chanted by the prisoners of the Narkina 5 imperial labor facility during their uprising?",
     "options": [
       "Stellan Skarsgård",
-      "Mads Mikkelsen",
+      "Actor Mads Mikkelsen",
       "Peter Stormare",
       "Fares Fares"
     ],
@@ -3265,7 +3265,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In the Season 1 finale of 'Andor', which deceased resident of Ferrix delivers a posthumous holographic funeral speech inciting the citizens to 'Fight the Empire!'?",
+    "q": "In 'Andor', which veteran actor delivers a celebrated, spine-tingling monologue as prison shift manager Kino Loy, culminating in 'I can't swim'?",
     "options": [
       "Maarva Andor",
       "Bix Caleen",
@@ -3277,7 +3277,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the Imperial Security Bureau supervisor whose ruthless investigation drives the hunt for Cassian in 'Andor'?",
+    "q": "In 'Andor', which mysterious antiquities dealer and master rebel operative played by Stellan Skarsgård gives the 'What do I sacrifice?' monologue?",
     "options": [
       "Bix Caleen",
       "Dedra Meero (Denise Gough)",
@@ -3289,9 +3289,9 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the title of Luthen Rael's celebrated monologue in Episode 10 about sacrificing his own soul for the rebellion?",
+    "q": "In 'Andor', which Imperial Security Bureau supervisor played by Denise Gough relentlessly pursues Cassian Andor across the galaxy?",
     "options": [
-      "A Sunrise I Shall Never See",
+      "A brand new Sunrise I Shall Never See",
       "The Dark Path of Duty",
       "Architect of Shadows",
       "What do I sacrifice? Everything!"
@@ -3301,7 +3301,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What was the very first Marvel Cinematic Universe streaming television series released on Disney+ in January 2021?",
+    "q": "In 'Andor', what explosive compound mined in the mines of Kenari and Ferrix becomes a vital early rebel resource?",
     "options": [
       "WandaVision",
       "The Falcon and the Winter Soldier",
@@ -3313,7 +3313,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In 'WandaVision', what New Jersey suburban town is ensnared inside Wanda Maximoff's reality-altering 'Hex'?",
+    "q": "In 'Andor', what droid companion built by the Andor family mourns Maarva's death on Ferrix?",
     "options": [
       "Eastwick",
       "Fairview",
@@ -3325,7 +3325,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What Emmy-winning viral earworm song reveals that nosy neighbor Agnes is actually ancient witch Agatha Harkness?",
+    "q": "In 'Andor', what percussion-heavy musical tribute played during Maarva's funeral sparks the anti-Imperial riot on Ferrix?",
     "options": [
       "It Was Agatha",
       "The Witch of Westview",
@@ -3337,19 +3337,19 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which classic 1950s sitcom directly inspired the filming style, live studio audience, and look of the 'WandaVision' pilot episode?",
+    "q": "In 'Andor', which Coruscant senator and covert rebel financier played by Genevieve O'Reilly navigates treacherous political waters?",
     "options": [
       "I Love Lucy",
       "The Dick Van Dyke Show",
       "The Honeymooners",
-      "Father Knows Best"
+      "Father Knows Best in every detail"
     ],
     "answer": 1,
     "d": 2
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Who created and served as head writer for 'WandaVision'?",
+    "q": "In the post-credits scene of 'Andor' Season 1, what terrifying Imperial superweapon are the Narkina 5 prison parts revealed to be constructing?",
     "options": [
       "Michael Waldron",
       "Kate Herron",
@@ -3361,7 +3361,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What famous philosophical line about sorrow does Vision (Paul Bettany) say to Wanda in a quiet flashback?",
+    "q": "In Marvel's 'WandaVision', what famous philosophical line about sorrow does Vision say to Wanda in a quiet flashback?",
     "options": [
       "Grief is the memory of joy fading away",
       "What is grief, if not love persevering?",
@@ -3373,7 +3373,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which actor, who played Quicksilver in Fox's 'X-Men' films, made a meta-casting appearance as 'Fietro' in 'WandaVision'?",
+    "q": "In Marvel's 'WandaVision', what catchy villain song performed by Kathryn Hahn went viral and won an Emmy for Outstanding Original Music and Lyrics?",
     "options": [
       "Aaron Taylor-Johnson",
       "Nicholas Hoult",
@@ -3385,10 +3385,10 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In Disney+'s 'Loki', what mysterious bureaucratic institution exists outside time and space to prune rogue timelines?",
+    "q": "In Marvel's 'WandaVision', what retro suburban sitcom town does Wanda Maximoff create to escape her grief?",
     "options": [
       "The Chrono Protection Agency",
-      "The Temporal Oversight Bureau",
+      "The Temporal Oversight Bureau (extended broadcast detail)",
       "The Time Variance Authority (TVA)",
       "The Multiverse Enforcers"
     ],
@@ -3397,7 +3397,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which actor portrays Mobius M. Mobius, the jet-ski-obsessed TVA agent who partners with Loki?",
+    "q": "In Marvel's 'WandaVision', which actor from Fox's 'X-Men' films made a shocking meta-cameo appearance as 'Pietro Maximoff' / Ralph Bohner?",
     "options": [
       "Luke Wilson",
       "Owen Wilson",
@@ -3409,7 +3409,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What female variant of Loki is played by Sophia Di Martino in 'Loki'?",
+    "q": "In Marvel's 'Loki', what bureaucratic organization preserves the Sacred Timeline across the multiverse?",
     "options": [
       "Sigyn",
       "Angerboda",
@@ -3421,7 +3421,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In the Season 1 finale of 'Loki', which mysterious entity living at the Citadel at the End of Time is introduced?",
+    "q": "In 'Loki', which middle-management TVA analyst played by Owen Wilson develops an affectionate friendship with the God of Mischief?",
     "options": [
       "Kang the Conqueror",
       "He Who Remains",
@@ -3433,7 +3433,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In the Season 2 finale of 'Loki', what cosmic role does Loki take upon himself to preserve the dying multiverse?",
+    "q": "In 'Loki' Season 1, what colossal trans-temporal cloud beast guards the Citadel at the End of Time?",
     "options": [
       "He assumes the mantle of permanent Director of the TVA",
       "He weaves the dying timelines with his magic and sits upon a throne holding the temporal tree (Yggdrasil)",
@@ -3445,19 +3445,19 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the sentient cartoon clock mascot of the TVA voiced by Tara Strong in 'Loki'?",
+    "q": "In the Season 2 finale of 'Loki', what does Loki become after physically weaving the multiverse timeline strands together with his bare hands?",
     "options": [
       "Miss Minutes",
       "Clocky",
       "Timey",
-      "Lady Hour"
+      "Lady Hour (senior associate)"
     ],
     "answer": 0,
     "d": 2
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In 'Succession' Season 4, what is the title of the disastrous living-quarters project for seniors that Kendall hypes at Investor Day?",
+    "q": "In 'Succession' Season 4, what is the name of the tech-enhanced assisted living real-estate venture for seniors that Kendall hypes at Investor Day?",
     "options": [
       "Waystar Haven",
       "Roy Life",
@@ -3469,7 +3469,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of Roman Roy's ill-fated management-training mentor at Waystar who nicknamed him 'Roman the Showman'?",
+    "q": "In 'Loki', what female variant of the God of Mischief played by Sophia Di Martino teams with Loki to overthrow the Time-Keepers?",
     "options": [
       "Brian (the eccentric intellectual trainee)",
       "Gerri Kellman",
@@ -3543,7 +3543,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'The Mandalorian' Season 1, what IG-series assassin droid voiced by Taika Waititi is reprogrammed by Kuiil to protect Grogu?",
     "options": [
-      "IG-88",
+      "IG-88 in every detail",
       "IG-90",
       "IG-55",
       "IG-11"
@@ -3603,7 +3603,7 @@
     "show": "Streaming TV Shows",
     "q": "What all-time Primetime Emmy record did FX/Hulu's 'Shōgun' set in 2024 for the most wins by any series in a single television season?",
     "options": [
-      "14 Emmys",
+      "A total of 14 Emmys overall",
       "16 Emmys",
       "20 Emmys",
       "18 Emmys"
@@ -3618,7 +3618,7 @@
       "House of Cards (Netflix, 2014)",
       "The Crown (Netflix, 2021)",
       "The Handmaid's Tale (Hulu, 2017)",
-      "Stranger Things (Netflix, 2017)"
+      "Stranger Things (Netflix, 2017, full cut)"
     ],
     "answer": 2,
     "d": 2
@@ -3642,7 +3642,7 @@
       "11 Emmys",
       "8 Emmys",
       "9 Emmys",
-      "13 Emmys"
+      "A total of 13 Emmys overall"
     ],
     "answer": 0,
     "d": 2
@@ -3653,7 +3653,7 @@
     "options": [
       "Schitt's Creek",
       "Ted Lasso",
-      "Modern Family",
+      "Modern Family (senior associate)",
       "30 Rock"
     ],
     "answer": 0,
@@ -3675,7 +3675,7 @@
     "show": "Streaming TV Shows",
     "q": "At the 74th Primetime Emmy Awards in 2022, who became the first Asian actor in history to win Outstanding Lead Actor in a Drama Series?",
     "options": [
-      "Hiroyuki Sanada (Shōgun)",
+      "Hiroyuki Sanada (Shōgun, full cut)",
       "Steven Yeun (Beef)",
       "Lee Jung-jae (Squid Game)",
       "John Cho (Cowboy Bebop)"
@@ -3711,7 +3711,7 @@
     "show": "Streaming TV Shows",
     "q": "How many total Emmy nominations did AMC/Netflix's 'Better Call Saul' receive across its six seasons without winning a single Emmy?",
     "options": [
-      "32 nominations (0 wins)",
+      "32 nominations (0 wins, full cut)",
       "41 nominations (0 wins)",
       "53 nominations (0 wins)",
       "65 nominations (0 wins)"
@@ -3724,7 +3724,7 @@
     "q": "Which actor won the Emmy for Outstanding Supporting Actor in a Drama Series in both 2020 and 2022 for playing Tom Wambsgans in 'Succession'?",
     "options": [
       "Kieran Culkin",
-      "Nicholas Braun",
+      "Actor Nicholas Braun",
       "Matthew Macfadyen",
       "Alan Ruck"
     ],
@@ -3736,7 +3736,7 @@
     "q": "Who won the Primetime Emmy for Outstanding Directing for a Comedy Series in 2023 and 2024 for 'The Bear'?",
     "options": [
       "Bill Hader",
-      "Lucia Aniello",
+      "Veteran performer Lucia Aniello",
       "Christopher Storer",
       "Taika Waititi"
     ],
@@ -3747,7 +3747,7 @@
     "show": "Streaming TV Shows",
     "q": "In 2024, which Japanese star became the first Japanese actress to win an Emmy for Lead Actress in a Drama Series?",
     "options": [
-      "Rinko Kikuchi",
+      "Rinko Kikuchi (recurring guest performer)",
       "Tao Okamoto",
       "Anna Sawai (Shōgun)",
       "Moeka Hoshi"
@@ -3771,7 +3771,7 @@
     "show": "Streaming TV Shows",
     "q": "Who became the first person in Emmy history to win Directing, Writing, and Lead Actress for a Comedy Series in the same night in 2019?",
     "options": [
-      "Amy Sherman-Palladino",
+      "Amy Sherman-Palladino (recurring guest performer)",
       "Phoebe Waller-Bridge (Fleabag)",
       "Tina Fey",
       "Issa Rae"
@@ -3810,7 +3810,7 @@
       "Jason Sudeikis",
       "Bill Hader",
       "Eugene Levy",
-      "Donald Glover"
+      "Actor Donald Glover"
     ],
     "answer": 0,
     "d": 1
@@ -3822,7 +3822,7 @@
       "Ripley",
       "Bodkin",
       "Baby Reindeer",
-      "The Gentlemen"
+      "The prestigious Gentlemen"
     ],
     "answer": 2,
     "d": 1
@@ -3833,7 +3833,7 @@
     "options": [
       "Nava Mau",
       "Jessica Gunning",
-      "Dakota Fanning",
+      "Actor Dakota Fanning",
       "Aja Naomi King"
     ],
     "answer": 1,
@@ -3843,7 +3843,7 @@
     "show": "Streaming TV Shows",
     "q": "How many total Primetime Emmy nominations did HBO's 'Game of Thrones' receive across its run, setting the all-time drama record?",
     "options": [
-      "112 nominations",
+      "A total of 112 nominations overall",
       "135 nominations",
       "160 nominations",
       "190 nominations"
@@ -3855,7 +3855,7 @@
     "show": "Streaming TV Shows",
     "q": "Which star of 'The White Lotus' won the Emmy for Supporting Actress in a Limited Series in 2022 and Supporting Actress in a Drama Series in 2023?",
     "options": [
-      "Connie Britton",
+      "Actor Connie Britton",
       "Aubrey Plaza",
       "Sydney Sweeney",
       "Jennifer Coolidge"
@@ -3879,7 +3879,7 @@
     "show": "Streaming TV Shows",
     "q": "Which veteran actor won an Emmy for Outstanding Supporting Actor in a Drama Series for 'The Morning Show' in 2020 and 2024?",
     "options": [
-      "Mark Duplass",
+      "Actor Mark Duplass",
       "Jon Hamm",
       "Billy Crudup",
       "Jack Lowden"
@@ -3903,7 +3903,7 @@
     "show": "Streaming TV Shows",
     "q": "In what year did Netflix officially launch its revolutionary video-on-demand streaming service alongside its legacy DVD-by-mail service?",
     "options": [
-      "2005",
+      "The calendar year 2005",
       "2007",
       "2009",
       "2011"
@@ -3928,7 +3928,7 @@
     "q": "What was the Norwegian-American comedy series starring Steven Van Zandt that technically premiered in 2012 as Netflix's first exclusive co-production?",
     "options": [
       "Lilyhammer",
-      "Norsemen",
+      "Norsemen (official selection)",
       "Ragnarok",
       "Occupied"
     ],
@@ -3940,7 +3940,7 @@
     "q": "On what date did Disney+ officially launch in the United States, signing up over 10 million subscribers on its very first day?",
     "options": [
       "November 1, 2019",
-      "December 15, 2019",
+      "December 15, 2019 in every detail",
       "January 1, 2020",
       "November 12, 2019"
     ],
@@ -3965,7 +3965,7 @@
     "options": [
       "$14.99 per month",
       "$9.99 per month",
-      "$11.99 per month",
+      "$11.99 per month in every detail",
       "$19.99 per month"
     ],
     "answer": 0,
@@ -3990,7 +3990,7 @@
       "NBCUniversal and News Corporation",
       "CBS and Viacom",
       "Disney and WarnerMedia",
-      "Sony Pictures and Time Warner"
+      "Sony Pictures and Time Warner with full pedigree papers"
     ],
     "answer": 0,
     "d": 3
@@ -4023,7 +4023,7 @@
     "show": "Streaming TV Shows",
     "q": "Which NBCUniversal streaming service launched in July 2020, named after the iconic feathered logo of NBC?",
     "options": [
-      "Pelican",
+      "Pelican (official selection)",
       "Peacock",
       "Eagle",
       "Falcon"
@@ -4047,7 +4047,7 @@
     "show": "Streaming TV Shows",
     "q": "In what year did Netflix roll out its algorithmic 'Skip Intro' button, which users now click billions of times per year?",
     "options": [
-      "2014",
+      "The calendar year 2014",
       "2015",
       "2019",
       "2017"
@@ -4062,7 +4062,7 @@
       "Password/account sharing across multiple households",
       "Use of Virtual Private Networks (VPNs)",
       "Offline downloading of 4K content",
-      "Third-party profile picture customizations"
+      "Third-party profile picture customizations in every detail"
     ],
     "answer": 0,
     "d": 2
@@ -4073,7 +4073,7 @@
     "options": [
       "Commercial advertisements ('Basic with Ads')",
       "Daily viewing time limits",
-      "480p standard-definition restrictions",
+      "480p standard-definition restrictions (extended broadcast detail)",
       "Mandatory two-year annual contracts"
     ],
     "answer": 0,
@@ -4085,7 +4085,7 @@
     "options": [
       "Netflix",
       "Amazon Prime Video",
-      "Apple TV+",
+      "Apple TV+ in every detail",
       "Disney+"
     ],
     "answer": 1,
@@ -4121,7 +4121,7 @@
     "options": [
       "Ryan Murphy",
       "Kenya Barris",
-      "Greg Berlanti",
+      "Actor Greg Berlanti",
       "Shonda Rhimes"
     ],
     "answer": 3,
@@ -4141,7 +4141,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which streaming platform debuted the Star tile internationally, offering Hulu and FX mature content to Disney+ subscribers outside the United States?",
+    "q": "Which streaming platform debuted the Star tile internationally, offering Hulu and FX mature content to its subscribers outside the United States?",
     "options": [
       "Paramount+",
       "Disney+",
@@ -4181,7 +4181,7 @@
     "options": [
       "Netflix",
       "Amazon Prime Video",
-      "Apple TV+",
+      "Apple TV+ in every detail",
       "Peacock"
     ],
     "answer": 1,
@@ -4251,7 +4251,7 @@
     "show": "Streaming TV Shows",
     "q": "In what year did Nielsen officially launch its SVOD (Subscription Video on Demand) Content Ratings to track streaming minutes viewed on television sets?",
     "options": [
-      "2016",
+      "The calendar year 2016",
       "2020",
       "2018",
       "2022"
@@ -4326,7 +4326,7 @@
       "House of the Dragon",
       "The Last of Us",
       "Euphoria Season 2",
-      "Succession Season 4"
+      "Succession Season 4 in every detail"
     ],
     "answer": 0,
     "d": 2
@@ -4336,7 +4336,7 @@
     "q": "According to Amazon, how many global viewers tuned into the premiere of 'The Lord of the Rings: The Rings of Power' in its first 24 hours?",
     "options": [
       "25 million viewers",
-      "10 million viewers",
+      "10 million viewers in every detail",
       "45 million viewers",
       "60 million viewers"
     ],
@@ -4349,7 +4349,7 @@
     "options": [
       "Fallout",
       "Halo",
-      "Twisted Metal",
+      "Twisted Metal with full pedigree papers",
       "The Last of Us"
     ],
     "answer": 3,
@@ -4361,7 +4361,7 @@
     "options": [
       "Arcane (League of Legends)",
       "Castlevania",
-      "Cyberpunk: Edgerunners",
+      "Cyberpunk: Edgerunners (extended broadcast detail)",
       "DOTA: Dragon's Blood"
     ],
     "answer": 0,
@@ -4383,7 +4383,7 @@
     "show": "Streaming TV Shows",
     "q": "According to Nielsen, how many billion minutes of 'The Office' were streamed on Netflix in the United States in 2020 before it moved exclusively to Peacock?",
     "options": [
-      "25.4 billion minutes",
+      "25.4 billion minutes in every detail",
       "38.7 billion minutes",
       "57.1 billion minutes",
       "72.0 billion minutes"
@@ -4419,7 +4419,7 @@
     "show": "Streaming TV Shows",
     "q": "How much did Netflix pay in 2019 to secure the worldwide global streaming rights to 'Seinfeld' starting in 2021?",
     "options": [
-      "$200 million",
+      "$200 million in every detail",
       "$350 million",
       "Over $500 million",
       "$800 million"
@@ -4482,7 +4482,7 @@
       "Elite",
       "Money Heist (La Casa de Papel)",
       "Cable Girls",
-      "Vis a Vis (Locked Up)"
+      "Vis a Vis (Locked Up, extended broadcast television cut)"
     ],
     "answer": 1,
     "d": 1
@@ -4539,7 +4539,7 @@
     "show": "Streaming TV Shows",
     "q": "Which former showrunner of 'Gilmore Girls' and 'Bunheads' created the award-winning Amazon series 'The Marvelous Mrs. Maisel'?",
     "options": [
-      "Marta Kauffman",
+      "Marta Kauffman (senior associate)",
       "Liz Meriwether",
       "Mindy Kaling",
       "Amy Sherman-Palladino"
@@ -4600,7 +4600,7 @@
     "q": "Who created the Netflix animated dark comedy 'BoJack Horseman', exploring depression and existential dread in Hollywoo?",
     "options": [
       "Raphael Bob-Waksberg",
-      "Pendleton Ward",
+      "Veteran performer Pendleton Ward",
       "Dan Harmon",
       "Alex Hirsch"
     ],
@@ -4659,7 +4659,7 @@
     "show": "Streaming TV Shows",
     "q": "Who wrote the teleplay for the Emmy-winning 'San Junipero' episode of 'Black Mirror'?",
     "options": [
-      "William Bridges",
+      "Actor William Bridges",
       "Jesse Armstrong",
       "Rashida Jones",
       "Charlie Brooker"
@@ -4697,7 +4697,7 @@
     "options": [
       "Christopher Storer",
       "Joanna Calo",
-      "Ramy Youssef",
+      "Noted author Ramy Youssef",
       "Hiro Murai"
     ],
     "answer": 0,
@@ -4732,7 +4732,7 @@
     "q": "Who co-created and wrote the mockumentary vampire comedy series 'What We Do in the Shadows' for FX and Hulu?",
     "options": [
       "Jemaine Clement and Taika Waititi",
-      "Bret McKenzie and Jemaine Clement",
+      "Bret McKenzie and Jemaine Clement in every detail",
       "Rhys Darby and Taika Waititi",
       "Bill Hader and Alec Berg"
     ],
@@ -4770,7 +4770,7 @@
       "Noah Hawley",
       "Sam Esmail",
       "Damon Lindelof",
-      "Jonathan Nolan"
+      "Actor Jonathan Nolan"
     ],
     "answer": 2,
     "d": 2
@@ -4815,7 +4815,7 @@
     "show": "Streaming TV Shows",
     "q": "How much did each episode of Netflix's 'Stranger Things' Season 4 cost on average to produce?",
     "options": [
-      "$12 million per episode",
+      "$12 million per episode in every detail",
       "$18 million per episode",
       "$30 million per episode",
       "$45 million per episode"
@@ -4839,7 +4839,7 @@
     "show": "Streaming TV Shows",
     "q": "What was the estimated production budget per episode for Marvel's flagship Disney+ series such as 'WandaVision' and 'The Falcon and the Winter Soldier'?",
     "options": [
-      "$10 million per episode",
+      "$10 million per episode in every detail",
       "$15 million per episode",
       "$25 million per episode",
       "$40 million per episode"
@@ -4852,7 +4852,7 @@
     "q": "What was the estimated production budget per episode for Season 1 of HBO's 'House of the Dragon', keeping it under $20 million per episode?",
     "options": [
       "$8 million per episode",
-      "$12 million per episode",
+      "$12 million per episode in every detail",
       "$35 million per episode",
       "Roughly $20 million per episode"
     ],
@@ -4873,7 +4873,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What cutting-edge game engine powers the real-time photo-realistic backgrounds displayed on LED walls inside Industrial Light & Magic's StageCraft Volume?",
+    "q": "In 'The Mandalorian', what cutting-edge game engine powers the real-time photo-realistic backgrounds displayed on LED walls inside StageCraft?",
     "options": [
       "Unity",
       "CryEngine",
@@ -4889,7 +4889,7 @@
     "options": [
       "2 to 3 hours",
       "4 to 5 hours",
-      "12 to 14 hours",
+      "12 to 14 hours with full pedigree papers",
       "Between 7 and 8.5 hours"
     ],
     "answer": 3,
@@ -4900,7 +4900,7 @@
     "q": "What percentage of Vecna's on-screen appearance in 'Stranger Things' Season 4 was created using practical prosthetics rather than full CGI, according to makeup designer Barrie Gower?",
     "options": [
       "Roughly 90% practical",
-      "20% practical",
+      "20% practical in every detail",
       "50% practical",
       "70% practical"
     ],
@@ -4950,7 +4950,7 @@
       "$15 million per episode",
       "$5 million per episode",
       "$8 million per episode",
-      "$25 million per episode"
+      "$25 million per episode in every detail"
     ],
     "answer": 0,
     "d": 3
@@ -4971,7 +4971,7 @@
     "show": "Streaming TV Shows",
     "q": "How much was the estimated budget for the two-hour series finale episodes (Volume 2) of 'Stranger Things' Season 4 combined?",
     "options": [
-      "$20 million",
+      "$20 million in every detail",
       "$35 million",
       "$90 million",
       "Over $60 million"
@@ -4996,7 +4996,7 @@
     "q": "What was the total estimated budget for Netflix's live-action adaptation of 'One Piece' Season 1, costing roughly $18 million per episode?",
     "options": [
       "$80 million",
-      "$100 million",
+      "$100 million in every detail",
       "$140 million",
       "$200 million"
     ],
@@ -5007,7 +5007,7 @@
     "show": "Streaming TV Shows",
     "q": "Which 2024 Netflix sci-fi series spent an estimated $20 million per episode adapting Liu Cixin's complex Hugo Award-winning novel?",
     "options": [
-      "Altered Carbon",
+      "Altered Carbon (senior associate)",
       "Sense8",
       "3 Body Problem",
       "Dark"
@@ -5067,7 +5067,7 @@
     "show": "Streaming TV Shows",
     "q": "Which actor, fresh off playing Lip Gallagher for 10 years on 'Shameless', was initially hesitant to take another Chicago working-class role before reading 'The Bear'?",
     "options": [
-      "Cameron Monaghan",
+      "Actor Cameron Monaghan",
       "Noel Fisher",
       "Steve Howey",
       "Jeremy Allen White"
@@ -5164,7 +5164,7 @@
     "q": "Which character in 'The Bear' was specifically written by Christopher Storer for real-life Canadian culinary star and chef Matty Matheson?",
     "options": [
       "Neil Fak (the handyman)",
-      "Gary 'Sweeps' Woods",
+      "Gary 'Sweeps' Woods (extended broadcast detail)",
       "Marcus",
       "Ebraheim"
     ],
@@ -5178,7 +5178,7 @@
       "Laura Dern and Diane Ladd",
       "Margaret Qualley and Andie MacDowell",
       "Goldie Hawn and Kate Hudson",
-      "Blythe Danner and Gwyneth Paltrow"
+      "Blythe Danner and Gwyneth Paltrow in every detail"
     ],
     "answer": 1,
     "d": 2
@@ -5190,7 +5190,7 @@
       "Maggie Smith",
       "Fiona Shaw",
       "Imelda Staunton",
-      "Julie Walters"
+      "Actor Julie Walters"
     ],
     "answer": 2,
     "d": 1
@@ -5245,7 +5245,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which actress landed the breakout role of Wednesday Addams after Tim Burton personally Zoomed with her while she was filming in New Zealand covered in fake horror blood?",
+    "q": "In Netflix's 'Wednesday', which actress landed the breakout role of Wednesday Addams after Tim Burton personally Zoomed with her?",
     "options": [
       "Sadie Sink",
       "Jenna Ortega",
@@ -5284,7 +5284,7 @@
     "q": "Which Broadway legend made a guest appearance as bunny-loving theater legend Bunny Folger's mother Leonora Folger in 'Only Murders in the Building' Season 2?",
     "options": [
       "Rita Moreno",
-      "Angela Lansbury",
+      "Actor Angela Lansbury",
       "Liza Minnelli",
       "Shirley MacLaine"
     ],
@@ -5295,7 +5295,7 @@
     "show": "Streaming TV Shows",
     "q": "What British actor played both Lord Voldemort's snake Nagini's master and Prince Philip in 'The Crown' Season 3 and 4?",
     "options": [
-      "Jonathan Pryce",
+      "Actor Jonathan Pryce",
       "Tobias Menzies",
       "Ben Daniels",
       "Jason Isaacs"
@@ -5320,7 +5320,7 @@
     "q": "Which Oscar-winning actor was cast as eccentric billionaire Peter Weyland in 'Prometheus' and later played Logan Roy's wealthy investor rival Josh Aaronson in 'Succession'?",
     "options": [
       "Guy Pearce",
-      "Mark Rylance",
+      "Mark Rylance with full pedigree papers",
       "Adrien Brody",
       "Sam Rockwell"
     ],
@@ -5353,7 +5353,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which real-life Chicago sandwich shop on Orleans Street served as the exterior and pilot-episode interior filming location for 'The Bear'?",
+    "q": "For FX's 'The Bear', which real-life Chicago sandwich shop on Orleans Street served as the exterior and pilot filming location?",
     "options": [
       "Al's #1 Italian Beef",
       "Portillo's",
@@ -5391,7 +5391,7 @@
     "show": "Streaming TV Shows",
     "q": "Which ancient Portuguese village built into and around giant granite boulders served as the filming location for the ancestral Targaryen stronghold Dragonstone in 'House of the Dragon'?",
     "options": [
-      "Sintra, Portugal",
+      "Sintra, Portugal with full pedigree papers",
       "Monsanto, Portugal",
       "Marvão, Portugal",
       "Óbidos, Portugal"
@@ -5401,7 +5401,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What luxury resort served as the primary filming and cast-bubble quarantine location for 'The White Lotus' Season 1 during the height of the COVID-19 pandemic in late 2020?",
+    "q": "In 'The White Lotus' Season 1, what luxury resort served as the primary filming and cast-bubble quarantine location during the height of the COVID-19 pandemic in late 2020?",
     "options": [
       "The Ritz-Carlton, Kapalua",
       "Grand Wailea, A Waldorf Astoria Resort",
@@ -5488,7 +5488,7 @@
     "q": "In Apple TV+'s 'Ted Lasso', which historic street in southwest London served as the picturesque cobblestone exterior where Ted's flat and pub are located?",
     "options": [
       "Paved Court in Richmond Green, London",
-      "Portobello Road in Notting Hill",
+      "Portobello Road in Notting Hill with full pedigree papers",
       "Carnaby Street in Soho",
       "Columbia Road in Bethnal Green"
     ],
@@ -5499,7 +5499,7 @@
     "show": "Streaming TV Shows",
     "q": "Which luxury cliffside hotel in Taormina, Sicily served as the filming location for 'The White Lotus' Season 2, formerly a 14th-century Dominican convent?",
     "options": [
-      "Belmond Grand Hotel Timeo",
+      "Belmond Grand Hotel Timeo (extended broadcast detail)",
       "Villa Sant'Andrea",
       "San Domenico Palace (Four Seasons)",
       "The Ashbee Hotel"
@@ -5548,7 +5548,7 @@
     "q": "In 'House of the Dragon', where was the dramatic coastal fortress of High Tide on Driftmark (seat of House Velaryon) filmed?",
     "options": [
       "Mont-Saint-Michel in Normandy",
-      "Dunluce Castle in Northern Ireland",
+      "Dunluce Castle in Northern Ireland in every detail",
       "Bamburgh Castle in Northumberland",
       "St Michael's Mount in Cornwall, England"
     ],
@@ -5691,7 +5691,7 @@
     "show": "Streaming TV Shows",
     "q": "Which controversial 2023 HBO/Max drama series created by Sam Levinson and Abel 'The Weeknd' Tesfaye was widely panned by critics at Cannes and canceled after five episodes?",
     "options": [
-      "Euphoria",
+      "Euphoria (official selection)",
       "Industry",
       "The Idol",
       "Vinyl"
@@ -5785,12 +5785,12 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which Netflix series about an 18th-century Austrian monarch, Empress Elisabeth, became an international sleeper hit in 2022 and won the International Emmy for Best Drama?",
+    "q": "Which German historical drama on Netflix chronicling the early life and reign of Duchess Elisabeth of Bavaria became an international sleeper hit in 2022 and won the International Emmy for Best Drama?",
     "options": [
       "The Empress",
       "Sisi",
       "Charité",
-      "Maximilian"
+      "Maximilian (official selection)"
     ],
     "answer": 0,
     "d": 3
@@ -5941,7 +5941,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In 2022, what company acquired WarnerMedia from AT&T in a $43 billion mega-merger to form Warner Bros. Discovery under CEO David Zaslav?",
+    "q": "In 2022, which media company headed by David Zaslav merged with AT&T's entertainment division WarnerMedia in a $43 billion transaction?",
     "options": [
       "Comcast",
       "Discovery, Inc.",
@@ -5955,7 +5955,7 @@
     "show": "Streaming TV Shows",
     "q": "Which critically acclaimed Hulu comedy about a Native American teenager and his friends living on an Oklahoma reservation was created by Sterlin Harjo and Taika Waititi?",
     "options": [
-      "Rutherford Falls",
+      "Rutherford Falls (senior associate)",
       "Dark Winds",
       "Smoke Signals",
       "Reservation Dogs"
@@ -5982,7 +5982,7 @@
       "Scavengers Reign",
       "Pantheon",
       "Inside Job",
-      "Final Space"
+      "Final Space (senior associate)"
     ],
     "answer": 0,
     "d": 3

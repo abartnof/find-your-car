@@ -3,12 +3,12 @@
     "show": "Arrested Development",
     "q": "What was the name of the Bluth family frozen banana stand?",
     "options": [
-      "Bluth's Frozen Treats",
-      "The Big Yellow Joint",
       "Bluth's Original Frozen Banana Stand",
+      "The Big Yellow Joint",
+      "Bluth's Frozen Treats",
       "Banana Shack"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
@@ -21,43 +21,43 @@
       "Fear"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What condition does Tobias claim causes him extreme anxiety when completely naked?",
     "options": [
       "Hydrophobia",
-      "Never-nude syndrome (gymnophobia)",
       "Agoraphobia",
+      "Never-nude syndrome (gymnophobia)",
       "Trichotillomania"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What garment does Tobias always wear under his clothes or in the shower to cope with being a never-nude?",
     "options": [
       "Silk boxers",
-      "Denim cutoffs",
+      "Board shorts",
       "Lycra bike shorts",
-      "Board shorts"
+      "Denim cutoffs"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Who narrates the series Arrested Development?",
     "options": [
-      "Mitchell Hurwitz",
       "Ron Howard",
+      "Mitchell Hurwitz",
       "Henry Winkler",
       "Jeffrey Tambor"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -69,90 +69,90 @@
       "Fast food franchises"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is Buster Bluth's birth name?",
     "options": [
       "George Michael Bluth Jr.",
-      "Byron Bluth",
       "Bartholomew Bluth",
+      "Byron Bluth",
       "Beau Bluth"
-    ],
-    "answer": 1,
-    "d": 1
-  },
-  {
-    "show": "Arrested Development",
-    "q": "What marine animal bites off Buster Bluth's left hand?",
-    "options": [
-      "Great white shark",
-      "Seal wearing a yellow bowtie",
-      "Barracuda",
-      "Dolphin"
-    ],
-    "answer": 1,
-    "d": 1
-  },
-  {
-    "show": "Arrested Development",
-    "q": "What is the name of G.O.B.'s beloved puppet?",
-    "options": [
-      "Mister Bananagrabber",
-      "Franklin Delano Bluth",
-      "Chuckles",
-      "Little George"
-    ],
-    "answer": 1,
-    "d": 1
-  },
-  {
-    "show": "Arrested Development",
-    "q": "What song plays nearly every time G.O.B. performs an illusion?",
-    "options": [
-      "\"The Final Countdown\" by Europe",
-      "\"Eye of the Tiger\" by Survivor",
-      "\"Magic\" by The Cars",
-      "\"Abracadabra\" by Steve Miller Band"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Arrested Development",
-    "q": "Why does G.O.B. insist on calling his magic acts \"illusions\"?",
-    "options": [
-      "Because magic is illegal in California",
-      "\"Tricks are what a whore does for money... or candy!\"",
-      "The Alliance of Magicians banned the word magic",
-      "His father forbade the word"
-    ],
-    "answer": 1,
-    "d": 1
-  },
-  {
-    "show": "Arrested Development",
-    "q": "What was the name of the Bluth company's chief legal counsel, played by Henry Winkler?",
-    "options": [
-      "Bob Loblaw",
-      "Wayne Jarvis",
-      "Barry Zuckerkorn",
-      "Maggie Lizer"
     ],
     "answer": 2,
     "d": 1
   },
   {
     "show": "Arrested Development",
+    "q": "What marine animal bites off Buster Bluth's left hand?",
+    "options": [
+      "Great white shark with full pedigree papers",
+      "Dolphin",
+      "Barracuda",
+      "Seal wearing a yellow bowtie"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Arrested Development",
+    "q": "What is the name of G.O.B.'s beloved puppet?",
+    "options": [
+      "Franklin Delano Bluth",
+      "Mister Bananagrabber with full pedigree papers",
+      "Chuckles",
+      "Little George"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Arrested Development",
+    "q": "What song plays nearly every time G.O.B. performs an illusion?",
+    "options": [
+      "\"Eye of the Tiger\" by Survivor",
+      "\"The Final Countdown\" by Europe",
+      "\"Magic\" by The Cars",
+      "\"Abracadabra\" by Steve Miller Band"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Arrested Development",
+    "q": "Why does G.O.B. insist on calling his magic acts \"illusions\"?",
+    "options": [
+      "Because magic is illegal in California",
+      "The prestigious Alliance of Magicians banned the word magic",
+      "\"Tricks are what a whore does for money... or candy!\"",
+      "His father forbade the word"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Arrested Development",
+    "q": "What was the name of the Bluth company's chief legal counsel, played by Henry Winkler?",
+    "options": [
+      "Bob Loblaw",
+      "Actor Wayne Jarvis",
+      "Maggie Lizer",
+      "Barry Zuckerkorn"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Arrested Development",
     "q": "What is the name of Barry Zuckerkorn's replacement, played by Scott Baio?",
     "options": [
-      "Wayne Jarvis",
       "Bob Loblaw",
+      "Wayne Jarvis",
       "J. Walter Weatherman",
       "Stan Sitwell"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -160,11 +160,11 @@
     "q": "What is the name of Bob Loblaw's online publication?",
     "options": [
       "Bob Loblaw's Legal Blog",
-      "The Law According to Bob",
       "Bob Loblaw's Law Blog",
+      "The Law According to Bob",
       "Loblaw's Legal Gazette"
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
@@ -172,36 +172,36 @@
     "q": "What recurring character was hired by George Sr. to teach his children lessons through staged, horrifying amputations?",
     "options": [
       "Gene Parmesan",
-      "Uncle Father Oscar",
+      "Uncle Father Oscar in every detail",
       "J. Walter Weatherman",
       "Carl Weathers"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was J. Walter Weatherman's signature line after staging an accident?",
     "options": [
       "\"And that's why you don't cross your father!\"",
-      "\"And that's why you always leave a note!\"",
+      "\"Safety is no illusion!\"",
       "\"Never forget who pays the bills!\"",
-      "\"Safety is no illusion!\""
+      "\"And that's why you always leave a note!\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What award does Maeby win when posing as a film executive?",
     "options": [
-      "Golden Globe",
+      "The Shirley Temple Award",
       "Young Producer of the Year",
       "The Oppenheimer Award",
-      "The Shirley Temple Award"
+      "Golden Globe"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -213,54 +213,54 @@
       "Marilu Henner"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What is Lucille Bluth's signature alcoholic drink?",
     "options": [
       "Gin and tonic",
-      "Vodka on the rocks (often with a piece of toast)",
       "Martini with an olive",
+      "Vodka on the rocks (often with a piece of toast)",
       "White wine spritzer"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
-    "q": "What is Lucille Austero commonly known as?",
+    "q": "What numerical nickname does the Bluth family give to Buster's vertigo-suffering romantic interest, Lucille Austero?",
     "options": [
       "Lucille 1",
-      "Lucille 2",
+      "Auntie Lucille",
       "The Other Lucille",
-      "Auntie Lucille"
+      "Lucille 2"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What medical affliction causes Lucille Austero to lose balance and fall over?",
     "options": [
-      "Narcolepsy",
-      "Vertigo",
       "Severe inner-ear vertigo",
-      "Low blood sugar"
+      "Vertigo",
+      "Narcolepsy",
+      "Low blood sugar in every detail"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Who played Lucille Austero?",
     "options": [
-      "Liza Minnelli",
       "Carol Burnett",
+      "Liza Minnelli",
       "Shirley MacLaine",
       "Bernadette Peters"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -268,35 +268,35 @@
     "q": "What animal does G.O.B. inadvertently kill and store in the family freezer in a bag marked \"DEAD DOVE DO NOT EAT\"?",
     "options": [
       "Pigeon",
-      "White dove",
       "Seagull",
-      "Parakeet"
+      "White dove",
+      "Parakeet the beloved pet dog"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What does Michael say right after opening the bag labeled \"DEAD DOVE DO NOT EAT\"?",
     "options": [
-      "\"I don't know what I expected.\"",
+      "\"That's disgusting without a doubt.\"",
       "\"Why did I look?\"",
       "\"Classic G.O.B.\"",
-      "\"That's disgusting.\""
+      "\"I don't know what I expected.\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is the name of the prison softball team George Sr. plays on?",
     "options": [
-      "The Orange Crush",
-      "The Inmates",
       "The C.O.s",
+      "The Inmates",
+      "The Orange Crush",
       "The Orange County Convicts"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
@@ -309,19 +309,19 @@
       "Christian Science"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What does George Sr. call his spiritual teachings on prison tapes?",
     "options": [
       "Wisdom of the Cells",
-      "Caged Wisdom",
       "The Wall Teachings",
+      "Caged Wisdom",
       "Incarcerated Enlightenment"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -329,22 +329,22 @@
     "options": [
       "Super Plumber",
       "Mega Man",
-      "Boyfight",
-      "Slammin' Salmon"
+      "Slammin' Salmon",
+      "Boyfight"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is the name of the martial arts video series produced by George Bluth Sr. featuring his sons?",
     "options": [
-      "Karate Kids",
       "Boyfights",
+      "Karate Kids",
       "Backyard Brawl",
       "Brother Wars"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -364,11 +364,11 @@
     "q": "How does Lucille Bluth typically react whenever Gene Parmesan reveals his disguise?",
     "options": [
       "She faints",
-      "She screams with delight: \"Gene! Isn't he the best?!\"",
       "She scolds him for being late",
+      "She screams with delight: \"Gene! Isn't he the best?!\"",
       "She gives him a dry martini"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -376,95 +376,95 @@
     "q": "What is Oscar Bluth's relationship to George Bluth Sr.?",
     "options": [
       "Estranged cousin",
-      "Identical twin brother",
+      "Former business partner",
       "Half-brother",
-      "Former business partner"
+      "Identical twin brother"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is the name of Oscar Bluth's citrus orchard property?",
     "options": [
-      "Lemon Grove Estates",
+      "Lemon Grove",
       "Motherboy Acres",
       "Balboa Towers",
-      "Lemon Grove"
+      "Lemon Grove Estates"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What did Oscar name his camper van?",
     "options": [
-      "The Oscar-Bago",
       "The Love Machine",
+      "The Oscar-Bago",
       "The Freedom Cruiser",
       "The Bluth Mobile"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is the recurring dance that members of the Bluth family perform when calling someone a chicken?",
     "options": [
       "The Funky Chicken",
-      "Four completely different, bizarre, non-chicken-like dances",
       "A synchronized tap dance",
-      "Flapping arms while clucking \"bawk bawk\" perfectly"
+      "Four completely different, bizarre, non-chicken-like dances",
+      "Constantly flapping arms while clucking \"bawk bawk\" perfectly"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What is G.O.B.'s chicken sound?",
     "options": [
-      "\"Caw-ca-caw! Caw-ca-caw!\"",
+      "\"Cheep-cheep-cheep!\"",
       "\"Coo-coo-ca-cha! Coo-coo-ca-cha!\"",
       "\"A-doodle-doodle-doo!\"",
-      "\"Cheep-cheep-cheep!\""
+      "\"Caw-ca-caw! Caw-ca-caw!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is Lindsay's chicken sound?",
     "options": [
-      "\"Caw-ca-caw!\"",
       "\"Cha-chee-cha-chee-cha!\"",
-      "\"Cluck-cluck-cluck!\"",
+      "\"Caw-ca-caw!\"",
+      "\"Cluck-cluck-cluck with pure conviction!\"",
       "\"Bawk-bawk!\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is Lucille's chicken sound?",
     "options": [
-      "\"A-coodle-doodle-doo!\"",
       "\"Caw-ca-caw!\"",
-      "\"Chick-chick-chick!\"",
+      "\"A-coodle-doodle-doo!\"",
+      "\"Chick-chick-chick with pure conviction!\"",
       "\"Coo-coo-ca-cha!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is the annual mother-son pageant/dance that Buster attends with Lucille?",
     "options": [
       "Mother and Child Reunion",
-      "Motherboy",
       "Oedipus Ball",
+      "Motherboy",
       "Mommy & Me Gala"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -472,12 +472,12 @@
     "q": "Why was the Motherboy organization forced to add the number \"XXX\" to its annual convention name?",
     "options": [
       "It was adult-rated",
-      "To avoid copyright infringement with the heavy metal band Motherboy",
+      "Lucille demanded it",
       "It celebrated its 30th anniversary",
-      "Lucille demanded it"
+      "To avoid copyright infringement with the heavy metal band Motherboy"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -485,7 +485,7 @@
     "options": [
       "Stan Sitwell",
       "Bob Loblaw",
-      "Wayne Jarvis",
+      "Actor Wayne Jarvis",
       "John Beard"
     ],
     "answer": 0,
@@ -501,31 +501,31 @@
       "Fingernails"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is the name of Stan Sitwell's charity that G.O.B. mistakenly targets?",
     "options": [
-      "Children with Alopecia",
-      "Sitwell Housing Foundation",
       "Balboa Youth Services",
+      "Sitwell Housing Foundation",
+      "Children with Alopecia",
       "The Clean Air Society"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What actor guest stars as himself offering acting lessons for $1,100 to Tobias?",
     "options": [
-      "Carl Weathers",
+      "Billy Dee Williams",
       "James Lipton",
       "Richard Roundtree",
-      "Billy Dee Williams"
+      "Carl Weathers"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -537,66 +537,66 @@
       "\"Fast food napkins save on paper towels!\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the slogan printed on Lindsay Bluth's activist blouse that Tobias misread?",
     "options": [
-      "\"Save the Wetlands\"",
+      "\"Save the Wetlands (full version)\"",
       "\"Shemale\" (misreading \"Shémale\")",
       "\"Solidarity\"",
       "\"SLUT\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What does Tobias believe the title of his combined profession—psychiatrist and psychoanalyst—should be?",
     "options": [
       "Psychotherapist",
-      "Analrapist",
       "Shrink-Master",
+      "Analrapist",
       "Dual-Analyst"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What vanity license plate does Tobias get that results in misunderstandings?",
     "options": [
-      "BLUEMAN",
-      "ANUSTART",
+      "BLUEMAN (official selection)",
+      "ACTOR1",
       "NEVERNU",
-      "ACTOR1"
+      "ANUSTART"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
-    "q": "How does Tobias intend \"ANUSTART\" to be read?",
+    "q": "What motivational phrase did Tobias Fünke intend his vanity license plate 'ANUSTART' to express?",
     "options": [
-      "A Nu Start",
-      "Anustart",
       "A New Start",
+      "Anustart",
+      "A brand new Nu Start",
       "An U Start"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What is the name of the stair car vehicle inherited by Michael Bluth?",
     "options": [
-      "The Bluth Stair Truck",
-      "The Mobile Escalator",
+      "The prestigious Bluth Stair Truck",
       "The Airport Stair Car",
+      "The Mobile Escalator",
       "The Bluth Jet-Step"
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
@@ -604,12 +604,12 @@
     "q": "What hazard frequently happens to the Bluth stair car on the road?",
     "options": [
       "The brakes fail completely",
-      "\"Watch out for hop-ons. You're gonna get hop-ons.\"",
       "It tips over backwards",
+      "\"Watch out for hop-ons. You're gonna get hop-ons.\"",
       "The windshield shatters"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -617,59 +617,59 @@
     "options": [
       "Home Depot",
       "The Climate Control company",
-      "The Wheeler Company",
-      "The Phoenix Housing Project"
+      "The Phoenix Housing Project",
+      "The Wheeler Company"
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What was George Michael's girlfriend's name, whom Michael constantly forgets?",
     "options": [
-      "Amy",
       "Ann Paul Veal",
+      "Amy",
       "Rita",
-      "Sally"
+      "Sally (close confidante)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What nickname does Michael frequently use for Ann?",
     "options": [
-      "\"Egg\"",
       "\"Blank\"",
+      "\"Egg\"",
       "\"Who?\"",
       "\"Plain\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What does George Michael call the snack where Ann puts mayonnaise in her mouth and eats a hard-boiled egg?",
     "options": [
       "\"Egg-in-a-basket\"",
-      "\"Mayonegg\"",
       "\"Custard mouth\"",
+      "\"Mayonegg\"",
       "\"Pocket salad\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What one-word question does Michael repeatedly and incredulously utter whenever George Michael mentions his girlfriend Ann?",
     "options": [
       "\"Who?\"",
-      "\"Her?\"",
+      "\"Why?\"",
       "\"Really?\"",
-      "\"Why?\""
+      "\"Her?\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -678,10 +678,10 @@
       "Pastor (Pastor Terry Veal)",
       "Dentist",
       "Carpenter",
-      "Real estate agent"
+      "Real estate agent (extended broadcast detail)"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -699,12 +699,12 @@
     "show": "Arrested Development",
     "q": "Who played Rita Leeds in Season 3?",
     "options": [
-      "Charlize Theron",
-      "Nicole Kidman",
       "Isla Fisher",
+      "Actor Nicole Kidman",
+      "Charlize Theron",
       "Naomi Watts"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -712,12 +712,12 @@
     "q": "What big secret about Rita Leeds is revealed to the audience through subtle clues before Michael realizes it?",
     "options": [
       "She is an undercover CIA agent",
-      "She is an MRF (Mentally Retarded Female / has an intellectual disability)",
+      "She is an escaped convict",
       "She is George Sr.'s secret daughter",
-      "She is an escaped convict"
+      "She is an MRF (Mentally Retarded Female / has an intellectual disability)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -729,55 +729,55 @@
       "\"Alone Again (Naturally)\" by Gilbert O'Sullivan"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is Buster Bluth's favorite sugar-laden beverage, which causes him to go hyperactive?",
     "options": [
       "Mountain Dew",
-      "Red Bull",
       "Juice",
+      "Red Bull",
       "Yoo-hoo"
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What phrase does Buster scream when he discovers the kitchen pantry is stocked with sweet beverages?",
     "options": [
-      "\"UNLIMITED JUICE?!\"",
-      "\"THIS PARTY IS GOING TO BE OFF THE HOOK!\"",
       "\"JUICE BOX PARTY!\"",
+      "\"THIS PARTY IS GOING TO BE OFF THE HOOK!\"",
+      "\"UNLIMITED JUICE?!\"",
       "\"SWEET NECTAR!\""
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What instrument does George Michael play in the high school woodwind ensemble?",
     "options": [
-      "Clarinet",
+      "Classical clarinet music",
       "Flute",
       "Oboe",
       "French horn"
     ],
     "answer": 3,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What instrument did George Michael attempt to play before switching to the woodblock?",
     "options": [
-      "Drums",
-      "Triangle",
       "Woodblock / Timpani",
+      "Classical triangle music",
+      "Drums",
       "Trumpet"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -789,19 +789,19 @@
       "\"Oh Cecelia\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What real-life news anchor plays a fictionalized version of himself on the local Orange County news?",
     "options": [
       "Kent Brockman",
-      "John Beard",
       "Tom Brokaw",
+      "John Beard",
       "Wolf Blitzer"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -809,34 +809,34 @@
     "options": [
       "The Bluth Queen",
       "The Seaward",
-      "The Lucille",
-      "The Star-Spangled Cruiser"
+      "The Star-Spangled Cruiser",
+      "The Lucille"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "When Michael tells Lucille, \"I'll be down at the clinic,\" and she says, \"Get rid of the Seaward,\" how does Michael respond?",
     "options": [
-      "\"I'm selling it tomorrow.\"",
       "\"I'll leave when I'm good and ready.\"",
+      "\"I'm selling it tomorrow.\"",
       "\"She's your sister!\"",
-      "\"Don't talk about Lindsay that way.\""
+      "\"Don't talk about Lindsay that way without a doubt.\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What did Gob name his pet seal before it attacked Buster?",
     "options": [
-      "Lucille",
       "Captain",
+      "Lucille",
       "Bluthy",
       "Hand-Biter"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -844,132 +844,132 @@
     "q": "Why was the seal released into the ocean craving human flesh?",
     "options": [
       "It was trained by the military",
-      "It was fed a taste for mammal blood through raw cat food / mammal meat",
       "It was starved at the aquarium",
+      "It was fed a taste for mammal blood through raw cat food / mammal meat",
       "Buster provoked it"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is Buster's prosthetic replacement hook made of?",
     "options": [
       "Solid gold",
-      "Medical-grade stainless steel",
+      "Wood",
       "Plastic",
-      "Wood"
+      "Medical-grade stainless steel"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What brand of candy does G.O.B. constantly consume or offer?",
     "options": [
-      "Skittles",
+      "Candy beans / jelly beans",
       "M&Ms",
       "Mike and Ike",
-      "Candy beans / jelly beans"
+      "Skittles"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is the name of the Mexican soap opera in which Tobias plays an American doctor?",
     "options": [
       "El Amor Prohibido",
-      "Los Hermanos de la Telenovela",
       "Amor Prohibido",
+      "Los Hermanos de la Telenovela",
       "Me Enamoro de Ti"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What character does Tobias portray on the telenovela *El Amor Prohibido*?",
     "options": [
       "Dr. Tobias",
+      "Doctor Corazón in every detail",
       "El Doctor / El Americano",
-      "Doctor Corazón",
       "Dr. Love"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What is the name of Buster's scholarly nurse and romantic interest?",
     "options": [
-      "Marta Estrella",
+      "Starla",
       "Lupe",
-      "Annyong",
-      "Starla"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Arrested Development",
-    "q": "Who is the housekeeper for the Bluth family who inherits various castoff items from Lucille?",
-    "options": [
-      "Marta",
-      "Rosa",
-      "Lupe",
-      "Maria"
-    ],
-    "answer": 2,
-    "d": 1
-  },
-  {
-    "show": "Arrested Development",
-    "q": "What holiday banner does Lupe hang that is perpetually cut off or recycled?",
-    "options": [
-      "\"HAPPY BIRTHDAY\"",
-      "\"WELCOME HOME\"",
-      "\"YOU'RE A REGULAR CASANOVA\"",
-      "\"FAMILY LOVE MICHAEL\""
+      "Annyong (official selection)",
+      "Marta Estrella"
     ],
     "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
+    "q": "Who is the housekeeper for the Bluth family who inherits various castoff items from Lucille?",
+    "options": [
+      "Lupe",
+      "Rosa",
+      "Marta",
+      "Maria"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Arrested Development",
+    "q": "What holiday banner does Lupe hang that is perpetually cut off or recycled?",
+    "options": [
+      "\"HAPPY BIRTHDAY\"",
+      "\"FAMILY LOVE MICHAEL\"",
+      "\"YOU'RE A REGULAR CASANOVA\"",
+      "\"WELCOME HOME\""
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Arrested Development",
     "q": "What does the banner say when the family welcomes Michael back to the office?",
     "options": [
       "\"WELCOME HOME SON\"",
-      "\"FAMILY LOVE MICHAEL\"",
       "\"WE LOVE YOU MICHAEL\"",
+      "\"FAMILY LOVE MICHAEL\"",
       "\"MICHAEL IS NUMBER ONE\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the original Korean name of Lucille's adopted son, Annyong?",
     "options": [
       "Park Jae",
-      "Hel-loh",
+      "An-Nyong",
       "Min-ho",
-      "An-Nyong"
+      "Hel-loh"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Why did the family think his name was \"Annyong\"?",
     "options": [
-      "It was stitched onto his jacket",
       "It is the Korean greeting (\"Hello\"), which he repeated upon meeting them",
+      "It was stitched onto his jacket",
       "The agency misprinted the paperwork",
       "Buster named him"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -981,43 +981,43 @@
       "He was an undercover FBI operative"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
-    "q": "What was the name of Annyong's grandfather's original banana stand?",
+    "q": "What rival business in Orange County was established in 1953 before George Bluth built the Frozen Banana stand?",
     "options": [
       "Korea Banana",
-      "The Original Banana",
       "Banana Republic",
+      "The Original Banana",
       "The Big Yellow Joint"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What protest did Lindsay and Tobias take part in while trapped in a cage at the rally?",
     "options": [
       "Anti-war rally",
-      "Free speech rally",
-      "Save the Wetlands",
-      "Protect the Seals"
+      "Free speech rally in every detail",
+      "Protect the Seals",
+      "Save the Wetlands"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What fake medical device does George Sr. invent to hide his baldness before discovering wigs?",
     "options": [
-      "The Scalp Sock",
       "The Hair Helmet",
+      "The Scalp Sock",
       "The Hair-Loss Cap",
       "The Baldbuster"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -1029,31 +1029,31 @@
       "The Quick-Grill"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "Where was the Cornballer legal to sell?",
     "options": [
-      "Only in Mexico",
-      "Only in California",
       "Everywhere in the US except California",
+      "Only in California",
+      "Only in Mexico",
       "Only in Japan"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What happened to anyone who touched the Cornballer while it was on?",
     "options": [
       "Electric shock",
-      "Severe second- and third-degree burns (\"Every damn time!\")",
+      "It shorted out the house",
       "The handle fell off",
-      "It shorted out the house"
+      "Severe second- and third-degree burns (\"Every damn time!\")"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -1071,24 +1071,24 @@
     "show": "Arrested Development",
     "q": "What is Stan Sitwell's daughter's name, whom Michael dates?",
     "options": [
-      "Sally Sitwell",
       "Maggie Sitwell",
+      "Sally Sitwell",
       "Marta Sitwell",
       "Lindsay Sitwell"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the soap opera actress both G.O.B. and Buster were in love with?",
     "options": [
       "Starla",
+      "Carlotta (official selection)",
       "Marta Estrella",
-      "Carlotta",
       "Lupe"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -1096,47 +1096,47 @@
     "q": "How many different actresses played the role of Marta Estrella during the series?",
     "options": [
       "One",
-      "Two",
+      "Four",
       "Three",
-      "Four"
+      "Two"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What sport does Steve Holt play for the high school football team?",
     "options": [
-      "Quarterback",
       "Star running back / linebacker",
+      "Quarterback",
       "Kicker",
       "Wide receiver"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Arrested Development",
-    "q": "What is Steve Holt's famous celebratory catchphrase, accompanied by raising both fists?",
+    "q": "What name does Beatrice's son shout aloud while thrusting both fists in the air whenever he enters a room?",
     "options": [
       "\"HOLT ON!\"",
       "\"STEVE HOLT!\"",
       "\"GO PACK!\"",
-      "\"TOUCHDOWN!\""
+      "\"TOUCHDOWN with pure conviction!\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Who is revealed to be Steve Holt's biological father?",
     "options": [
       "Michael Bluth",
-      "G.O.B. Bluth",
       "George Bluth Sr.",
+      "G.O.B. Bluth",
       "Uncle Oscar"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -1144,24 +1144,24 @@
     "q": "What was the name of the high school play that George Michael operated the lights for?",
     "options": [
       "The Crucible",
-      "The Trial of Captain Hook",
-      "The Miracle Worker",
-      "Our Town"
+      "Our Town",
+      "The prestigious Miracle Worker",
+      "The Trial of Captain Hook"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the title of Tobias's self-help book for couples coping with intimacy issues?",
     "options": [
-      "Anus Tart: The Journey",
       "The Man Inside Me",
+      "Anus Tart: The Journey",
       "Overcoming the Denim",
       "Blue Horizons"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -1173,42 +1173,42 @@
       "Lucille Bluth"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the prison warden who wrote screenplays and courted Lucille?",
     "options": [
-      "Warden Gentles",
-      "Warden Stefan Silas",
       "Warden Walker",
+      "Warden Stefan Silas",
+      "Warden Gentles",
       "Warden James"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was Warden Stefan Silas's screenplay about?",
     "options": [
       "A prison escape",
-      "A baseball team in prison",
+      "A romance between guards",
       "A correctional facility musical",
-      "A romance between guards"
+      "A baseball team in prison"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of Michael's deceased wife?",
     "options": [
-      "Sarah",
       "Tracy",
+      "Sarah",
       "Jessica",
       "Claire"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -1216,54 +1216,54 @@
     "q": "What did George Michael build for the school science fair in an attempt to impress Ann?",
     "options": [
       "A model of the solar system",
-      "A potato clock",
       "A model of the human heart",
+      "A potato clock",
       "A diorama of ancient Rome"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What did George Michael use inside his diorama of the banana stand?",
     "options": [
-      "Real dried bananas",
-      "Yellow LEGO bricks",
+      "Real dried bananas in every detail",
       "Carved soap",
+      "Yellow LEGO bricks",
       "Cheetos"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What phrase does George Sr. whisper to Michael when warning him about the family finances?",
     "options": [
-      "\"There's always money in the banana stand.\"",
+      "\"Sell the cabin.\"",
       "\"Check the attic floorboards.\"",
-      "\"Trust no one, not even your mother.\"",
-      "\"Sell the cabin.\""
+      "\"Trust no one, not even your mother without a doubt.\"",
+      "\"There's always money in the banana stand.\""
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "How much cash was actually hidden inside the walls of the banana stand before Michael burned it down?",
     "options": [
-      "$50,000",
-      "$100,000",
       "$250,000",
+      "$100,000 in crisp cash bills",
+      "$50,000",
       "$500,000"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "Who set fire to the banana stand along with Michael?",
     "options": [
-      "G.O.B.",
+      "G.O.B. (official selection)",
       "George Michael",
       "Tobias",
       "Buster"
@@ -1278,10 +1278,10 @@
       "A banana",
       "A dead dove",
       "A letter inside an ice block",
-      "A certified envelope"
+      "A brand new certified envelope"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -1289,27 +1289,27 @@
     "options": [
       "The Glider",
       "The Chariot",
-      "Segway HT (Human Transporter)",
-      "The G.O.B.-Mobile"
+      "The G.O.B.-Mobile (extended broadcast detail)",
+      "Segway HT (Human Transporter)"
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What was the running joke about Lindsay's cooking abilities?",
     "options": [
-      "She only cooked with sugar",
       "She made \"hot ham water\"",
+      "She only cooked with sugar",
       "She set the stove on fire every time",
       "She refused to use pots"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
-    "q": "What did Lindsay call the hot water left over from boiling a ham?",
+    "q": "What watery broth did Lindsay proudly serve to the family made simply from the leftover boiling liquid of a smoked meat?",
     "options": [
       "Ham broth",
       "Hot ham water",
@@ -1317,90 +1317,90 @@
       "Pig tea"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
-    "q": "What did Lindsay serve when she boiled chicken breasts in water?",
+    "q": "What uninspired culinary creation did Lindsay serve after boiling poultry in water with a smack of ham?",
     "options": [
-      "Chicken bouillon",
-      "Hot chicken water",
+      "Chicken bouillon in every detail",
       "Poached poultry",
+      "Hot chicken water",
       "Clear bird stew"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the Bluth model home's fictional subdivision?",
     "options": [
       "Orange Oaks",
-      "Sudden Valley",
-      "Balboa Pines",
-      "Hidden Hills"
+      "Hidden Hills",
+      "Balboa Pines (senior associate)",
+      "Sudden Valley"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "Why did prospective homebuyers dislike the name \"Sudden Valley\"?",
     "options": [
-      "It sounded like a retirement home",
       "\"It sounds like a sinkhole or a sudden tragedy.\"",
+      "It sounded like a retirement home",
       "It had no trees",
       "It sounded cheap"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What alternative name did G.O.B. suggest for the subdivision instead of Sudden Valley?",
     "options": [
-      "Paradise Point",
+      "Paradise Point (senior associate)",
       "\"Fuck Mountain\"",
       "Bluth Meadows",
       "Sunshine Acres"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the blind attorney Michael briefly dated?",
     "options": [
-      "Maggie Lizer",
-      "Sally Sitwell",
       "Starla",
+      "Sally Sitwell",
+      "Maggie Lizer",
       "Amy Anderssen"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of Maggie Lizer's guide dog?",
     "options": [
-      "Justice",
+      "Liberty",
       "Freedom",
       "Blind Faith",
-      "Liberty"
+      "Justice"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What condition was Maggie Lizer's dog actually suffering from?",
     "options": [
-      "Hip dysplasia",
       "He was actually blind himself",
+      "Hip dysplasia",
       "Deafness",
       "Extreme obesity"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -1419,12 +1419,12 @@
     "show": "Arrested Development",
     "q": "What was the name of the school Michael and Buster attended as boys?",
     "options": [
-      "The Milford Academy",
+      "Newport Country Day in every detail",
       "Balboa Prep",
-      "Newport Country Day",
+      "The Milford Academy",
       "St. Jude's"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -1432,23 +1432,23 @@
     "q": "What was the motto of the Milford Academy?",
     "options": [
       "\"Duty, Honor, Country\"",
-      "\"Children should be neither seen nor heard.\"",
+      "\"Virtue and Discipline\"",
       "\"Silence is Golden\"",
-      "\"Virtue and Discipline\""
+      "\"Children should be neither seen nor heard.\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Which Bluth son was awarded the Milford Academy prize for being the most invisible student?",
     "options": [
-      "Michael",
-      "G.O.B.",
       "Buster",
+      "G.O.B.",
+      "Michael",
       "George Michael"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
@@ -1480,35 +1480,35 @@
     "q": "What subject did Buster study that involved digging in the sand?",
     "options": [
       "Egyptology",
-      "Native American archaeology",
+      "Cartography",
       "Paleontology",
-      "Cartography"
+      "Native American archaeology"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What was Buster's response when asked what 18th-century agrarian business was?",
     "options": [
-      "\"It's mostly farming techniques.\"",
       "\"It was a very different time, Michael.\"",
+      "\"It's mostly farming techniques without a doubt.\"",
       "\"Plowing and such.\"",
       "\"It's about crops.\""
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of Tobias's all-male singing group that focused on prostate health awareness?",
     "options": [
-      "The Balladeers",
-      "The Prostates",
+      "The prestigious Balladeers",
       "The Upside Downs",
+      "The Prostates",
       "The Blue Boys"
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
@@ -1516,11 +1516,11 @@
     "q": "What was the name of the vocal group Tobias formed in medical school?",
     "options": [
       "The Do-Wops",
-      "The Def-Docs",
       "The Dr. Tones",
+      "The Def-Docs",
       "Men of Medicine"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -1533,19 +1533,19 @@
       "\"Amazing Grace\""
     ],
     "answer": 3,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the acting method Tobias studied under Carl Weathers?",
     "options": [
-      "The Strasberg Method",
       "The Weathers System",
+      "The Strasberg Method",
       "The Method",
       "Action Acting"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -1557,31 +1557,31 @@
       "The Yamagishi Corporation"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What monster did Buster pretend to be when stomping on the Bluth miniature city model?",
     "options": [
       "King Kong",
-      "Godzilla",
       "Gamera",
+      "Godzilla",
       "Mothra"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Why did the Japanese investors become terrified during Buster's rampage on the miniature city?",
     "options": [
       "They thought it was real earthquake footage",
-      "Buster yelled \"Godzilla!\" while wearing a giant lizard mask",
+      "They thought the building collapse was a real structural test",
       "It triggered memories of classic monster attacks",
-      "They thought the building collapse was a real structural test"
+      "Buster yelled \"Godzilla!\" while wearing a giant lizard mask"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -1589,11 +1589,11 @@
     "options": [
       "A brick-patterned bodysuit",
       "Soot and coal",
-      "Fire-retardant felt",
+      "Fire-retardant felt in every detail",
       "Black velvet"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -1605,91 +1605,91 @@
       "Watercolors"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What dangerous health effect did Tobias experience from using the wrong blue body paint?",
     "options": [
-      "Lead and copper toxicity",
-      "Severe dermatitis",
       "Hypothermia",
-      "Temporary blindness"
+      "Severe dermatitis",
+      "Lead and copper toxicity",
+      "Temporary blindness in every detail"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What famous pop singer's single \"Free At Last\" was referenced when George Sr. escaped house arrest?",
     "options": [
-      "George Michael",
+      "Prince",
       "Elton John",
       "Michael Jackson",
-      "Prince"
+      "George Michael"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What singer is George Michael named after?",
     "options": [
-      "George Harrison and Michael Jackson",
-      "Boy George",
       "George Michael of Wham!",
+      "Boy George",
+      "George Harrison and Michael Jackson",
       "George Michael Bluth (his great-grandfather)"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What does George Michael reveal he wants to change his name to in Season 4?",
     "options": [
+      "Michael George (senior associate)",
       "George Maharis",
-      "Michael George",
       "George Sr. Jr.",
       "Boy Michael"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "Who was the real-life pop icon George Maharis?",
     "options": [
-      "An American actor who starred in *Route 66*",
-      "A Greek pop singer",
       "A professional boxer",
+      "A Greek pop singer",
+      "An American actor who starred in *Route 66*",
       "A famous racecar driver"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What software application did George Michael build in college?",
     "options": [
-      "FakeBlock",
+      "FriendSpace",
       "BlockChain",
       "WoodBlock",
-      "FriendSpace"
+      "FakeBlock"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was FakeBlock originally marketed as before people believed it was anti-piracy software?",
     "options": [
-      "A photo-sharing app",
       "A digital woodblock tuning app",
-      "A college dating app",
+      "A photo-sharing app",
+      "A vintage collectible college dating app",
       "An alarm clock"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -1697,22 +1697,22 @@
     "options": [
       "John McAfee",
       "Mark Sackett",
-      "Herbert Love",
+      "Actor Herbert Love",
       "Rebel Alley"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "Who played the political candidate Herbert Love in Season 4?",
     "options": [
-      "Terry Crews",
-      "Keith David",
       "Dennis Haysbert",
+      "Keith David",
+      "Terry Crews",
       "Carl Weathers"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -1720,23 +1720,23 @@
     "q": "What was Herbert Love's political platform focused on building?",
     "options": [
       "A high-speed rail",
-      "A border wall between California and Mexico",
+      "Offshore oil rigs",
       "New prisons",
-      "Offshore oil rigs"
+      "A border wall between California and Mexico"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of Ron Howard's daughter who played Rebel Alley?",
     "options": [
-      "Bryce Dallas Howard",
       "Paige Howard",
+      "Bryce Dallas Howard",
       "Cheryl Howard",
       "Jocelyn Howard"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -1749,42 +1749,42 @@
       "Judy Greer"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is the name of George Sr.'s hyper-loyal, unhinged executive assistant?",
     "options": [
-      "Kitty Sanchez",
-      "Starla",
       "Maggie Lizer",
+      "Starla",
+      "Kitty Sanchez",
       "Cindi Lightballoon"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What is Kitty Sanchez's signature catchphrase whenever she flashes her breasts?",
     "options": [
       "\"Look at these!\"",
-      "\"Say goodbye to these!\"",
-      "\"Take a good look!\"",
-      "\"Last chance!\""
+      "\"Last chance!\"",
+      "\"Take a good look with pure conviction!\"",
+      "\"Say goodbye to these!\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Who played Kitty Sanchez?",
     "options": [
-      "Jane Lynch",
       "Judy Greer",
+      "Jane Lynch",
       "Amy Poehler",
       "Julia Louis-Dreyfus"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -1797,30 +1797,30 @@
       "George Sr.'s diary"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What cosmetic surgery procedure did Kitty undergo?",
     "options": [
       "Rhinoplasty",
-      "Breast augmentation (one larger than the other initially)",
       "Lip injections",
+      "Breast augmentation (one larger than the other initially)",
       "Facelift"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What animal did G.O.B. purchase to guard the banana stand?",
     "options": [
       "A guard dog",
-      "A badger",
+      "An angry pitbull",
       "A seal",
-      "An angry pitbull"
+      "A badger"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1828,7 +1828,7 @@
     "q": "What was the name of the prison where George Sr. was held?",
     "options": [
       "Orange County Corrections",
-      "Chino State Penitentiary",
+      "Chino State Penitentiary in every detail",
       "Balboa County Jail",
       "Pelican Bay"
     ],
@@ -1845,7 +1845,7 @@
       "\"Guilty! Guilty!\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -1857,103 +1857,103 @@
       "\"Step away!\""
     ],
     "answer": 2,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What did G.O.B. attempt to smuggle to his father in prison inside a cake?",
     "options": [
       "A file",
-      "An illusion key",
+      "A brand new diamond shank",
       "A cell phone",
-      "A diamond shank"
+      "An illusion key"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What happened to G.O.B. when he got stabbed in prison during his magic act?",
     "options": [
-      "He was hospitalized with a punctured lung",
       "He claimed it was an illusion and yelled \"Ta-da!\"",
+      "He was hospitalized with a punctured lung in every detail",
       "He pressed charges against the inmate",
       "He escaped in an ambulance"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the inmate who became George Sr.'s spiritual rival?",
     "options": [
-      "White Power Bill",
       "Big Mike",
-      "Redneck Rick",
+      "White Power Bill",
+      "Actor Redneck Rick",
       "Shadow"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What happened to White Power Bill after George Sr. spoke with him?",
     "options": [
       "He escaped",
-      "He converted to Judaism and renounced white supremacy",
       "He became warden",
+      "He converted to Judaism and renounced white supremacy",
       "He killed another inmate"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What weapon did White Power Bill use to commit suicide in prison?",
     "options": [
       "A razor",
-      "He jumped from the third tier onto a concrete floor",
+      "Overdose",
       "A shank",
-      "Overdose"
+      "He jumped from the third tier onto a concrete floor"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What did Lucille give Tobias to treat his severe hair loss after hair plug surgery?",
     "options": [
-      "Steroid cream",
-      "Diamond dust",
       "Medication that suppressed his immune system",
+      "Diamond dust",
+      "Steroid cream",
       "Horse shampoo"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What unexpected side effect did Tobias suffer from his ill-fated hair transplant?",
     "options": [
-      "Graft versus host disease",
       "Blue skin",
-      "Temporary muteness",
+      "Graft versus host disease",
+      "Temporary muteness in every detail",
       "Severe blindness"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the doctor famous for delivering horrifyingly ambiguous news to the Bluths?",
     "options": [
       "Dr. Stein",
-      "Dr. Fishman",
       "Dr. Zuckerkorn",
+      "Dr. Fishman",
       "Dr. Roberts"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -1961,10 +1961,10 @@
     "options": [
       "\"He's gone.\"",
       "\"It looks like he's dead.\"",
-      "\"He's going to be all right\"",
-      "\"There is nothing left of him.\""
+      "\"There is nothing left of him.\"",
+      "\"He's going to be all right\""
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1977,43 +1977,43 @@
       "\"Prepare for the worst.\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "Who played the Literal Doctor, Dr. Fishman?",
     "options": [
-      "Ian Roberts",
       "Rob Corddry",
+      "Ian Roberts",
       "Bob Odenkirk",
       "Matt Walsh"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What real-life husband and wife played G.O.B. and his accidental bride in Season 1 and 2?",
     "options": [
-      "Will Arnett and Amy Poehler",
-      "David Cross and Amber Tamblyn",
       "Jason Bateman and Amanda Anka",
+      "David Cross and Amber Tamblyn",
+      "Will Arnett and Amy Poehler",
       "Jeffrey Tambor and Kasia Ostlun"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "How did G.O.B. accidentally marry his wife, played by Amy Poehler?",
     "options": [
-      "At a drive-through chapel in Vegas while drunk",
-      "As part of a dare during a series of escalating dares",
+      "At a drive-through chapel in Vegas while drunk in every detail",
+      "On a cruise ship",
       "To get health insurance",
-      "On a cruise ship"
+      "As part of a dare during a series of escalating dares"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -2025,66 +2025,66 @@
       "\"Amy\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What did G.O.B.'s wife do for a living?",
     "options": [
       "Magician's assistant",
-      "Seal trainer",
+      "It was never fully specified; she was an eccentric competitive woman",
       "Army recruit",
-      "It was never fully specified; she was an eccentric competitive woman"
+      "Seal trainer"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What song does Tobias enthusiastically sing when cleaning the apartment with Lindsay?",
     "options": [
       "\"Downtown\"",
-      "\"Putting on the Ritz\"",
-      "\"Big Yellow Taxi\"",
-      "\"Morning Train (Nine to Five)\""
+      "\"Putting on the Ritz (full version)\"",
+      "\"Morning Train (Nine to Five)\"",
+      "\"Big Yellow Taxi\""
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the club where Lucille and her society peers had lunch?",
     "options": [
-      "Balboa Bay Club",
+      "The Montecito Country Club",
       "Newport Yacht Club",
       "The Citrus Club",
-      "The Montecito Country Club"
+      "Balboa Bay Club"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What did Lucille order at the country club when trying to embarrass Buster's girlfriend?",
     "options": [
-      "\"Vodka and a piece of celery\"",
-      "\"A plate of hot ham water\"",
       "\"A side of fries with club sauce\"",
+      "\"A plate of hot ham water\"",
+      "\"Vodka and a piece of celery\"",
       "\"Two bottles of champagne and no food\""
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What is the name of the family cruise ship destroyed at sea?",
     "options": [
-      "The Lucille 1",
       "The Star-Spangled Dandy",
+      "The Lucille 1",
       "The Queen of Balboa",
       "The S.S. Bluth"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -2092,24 +2092,24 @@
     "q": "What did George Sr. use to stage his escape from the hospital?",
     "options": [
       "An illusion trunk",
-      "A fake body made of pillows",
       "Disguising himself as Oscar",
+      "A fake body made of pillows",
       "Climbing out a laundry chute"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Where did George Sr. hide out in the Bluth model home during Season 2?",
     "options": [
       "In the basement crawl space",
-      "In the attic",
+      "Behind the drywall",
       "Inside the secret wine cellar",
-      "Behind the drywall"
+      "In the attic"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -2118,10 +2118,10 @@
       "Ice cream sandwiches",
       "Potato chips",
       "Bananas",
-      "Canned peaches"
+      "Canned peaches in every detail"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -2133,79 +2133,79 @@
       "\"Nothing tastes as good as freedom!\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the religious pageant where George Sr. was forced to play God?",
     "options": [
-      "The Pageant of the Masters",
-      "The Passion Play",
       "The Living Canvas",
-      "The Miracle of Laguna"
+      "The Passion Play",
+      "The Pageant of the Masters",
+      "The prestigious Miracle of Laguna"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "In the Pageant of the Masters, what famous Michelangelo painting did the Bluths recreate?",
     "options": [
-      "The Last Judgment",
-      "The Creation of Adam",
+      "The prestigious Last Judgment",
+      "Pieta",
       "The Fall of Man",
-      "Pieta"
+      "The Creation of Adam"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "Who played Adam to George Sr.'s God in the recreation of *The Creation of Adam*?",
     "options": [
-      "Tobias",
-      "Buster",
       "George Michael (in a muscle suit)",
+      "Buster",
+      "Tobias",
       "G.O.B."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Why was George Michael wearing a front-padded muscle suit during the pageant?",
     "options": [
-      "He was embarrassed about his body",
       "Tobias gave it to him to hide his natural physique",
+      "He was embarrassed about his body",
       "Maeby forced him to wear it",
       "The costume was too big"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the Bluth company's chief competitor in building homes in Newport?",
     "options": [
-      "Stan Sitwell Enterprises",
-      "Dumb Construction",
       "Anchor Homes",
+      "Dumb Construction with full pedigree papers",
+      "Stan Sitwell Enterprises",
       "Pacific Estates"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What performance art company does Tobias obsessively attempt to join, leading him to constantly cover his skin in blue diamond lotion?",
     "options": [
-      "Blue Man Group",
+      "Stomp",
       "Cirque du Soleil",
       "The Living Theatre",
-      "Stomp"
+      "Blue Man Group"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -2213,11 +2213,11 @@
     "options": [
       "Mrs. Featherbottom",
       "Nanny McPhee",
-      "Mrs. Doubtfire",
+      "Mrs. Doubtfire (senior associate)",
       "Aunt Poppins"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -2225,23 +2225,23 @@
     "options": [
       "London",
       "Blackstool",
-      "Liverpool",
+      "Liverpool (official selection)",
       "Edinburgh"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What Mary Poppins-style entrance does Mrs. Featherbottom attempt, jumping from the staircase landing?",
     "options": [
-      "Floating down with an umbrella (and crashing through a coffee table)",
-      "Sliding down the bannister",
       "Rappelling with curtains",
+      "Sliding down the bannister",
+      "Floating down with an umbrella (and crashing through a coffee table)",
       "Gliding with balloons"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -2249,46 +2249,46 @@
     "options": [
       "\"A Spoonful of Sugar\"",
       "\"We Love to See You Smile\"",
-      "\"When You Put a Squirt of Mustard on Your Sausage\"",
-      "\"Chim Chim Cher-ee\""
+      "\"Chim Chim Cher-ee\"",
+      "\"When You Put a Squirt of Mustard on Your Sausage\""
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the teen girl who dated Michael Bluth mistakenly thinking he was her age group?",
     "options": [
-      "Starla",
-      "Ann",
       "Amy",
+      "Ann",
+      "Starla",
       "Rita"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the school teacher George Michael and Michael both had a crush on?",
     "options": [
-      "Miss Barely",
-      "Miss Baerly",
+      "Miss Barely (senior associate)",
       "Beth Baerly",
+      "Miss Baerly",
       "Miss Temple"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Who played Miss Beth Baerly?",
     "options": [
-      "Heather Graham",
-      "Jane Lynch",
       "Judy Greer",
+      "Jane Lynch",
+      "Heather Graham",
       "Charlize Theron"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2297,107 +2297,107 @@
     "options": [
       "Lupe",
       "Marta",
-      "Nurse Rosa",
-      "Nurse Robinson"
+      "Nurse Robinson",
+      "Nurse Rosa"
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What did Buster bid on at the charity bachelors auction to outbid his mother?",
     "options": [
-      "A sports car",
       "Lucille Austero (Lucille 2)",
-      "A dinner date with Starla",
+      "A sports car",
+      "A dinner date with Starla (extended broadcast detail)",
       "A magic kit"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the medical diagnosis Tobias received when his body turned completely blue from silver dye ingestion?",
     "options": [
-      "Argyria",
       "Cyanosis",
+      "Argyria",
       "Methemoglobinemia",
       "Jaundice"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the fictional disease Maeby invented to raise money from her classmates?",
     "options": [
-      "BS (Bullshit)",
-      "Circumvallo-thoracic Syndrome",
       "Marfan's",
+      "Circumvallo-thoracic Syndrome",
+      "BS (Bullshit)",
       "Encephalitis"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the fake charity Maeby founded for her imaginary dying twin sister?",
     "options": [
-      "The Surely Fünke Foundation (BS Awareness)",
+      "Help Surely Walk",
       "Save the Twins",
       "Maeby's Miracles",
-      "Help Surely Walk"
+      "The Surely Fünke Foundation (BS Awareness)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What name did Maeby give to her fictional, wheelchair-bound twin sister?",
     "options": [
-      "Shirley",
       "Surely",
+      "Shirley",
       "Truly",
       "Bailey"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What comedy legend played the wheelchair-bound, wildly energetic character Uncle Jack who needed to be carried everywhere?",
     "options": [
+      "Actor Steve Martin",
       "Martin Short",
-      "Steve Martin",
       "Chevy Chase",
       "Dan Aykroyd"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What does Uncle Jack constantly shout while being carried around by his buff assistant Dragon?",
     "options": [
       "\"Up! Up! To the skies!\"",
-      "\"Swoop me! Shoot me!\"",
       "\"To the cloud!\"",
+      "\"Swoop me! Shoot me!\"",
       "\"Higher! Higher!\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was Dragon's primary duty as Uncle Jack's assistant?",
     "options": [
       "Driving his car",
-      "Carrying Uncle Jack physically everywhere because Jack refused to use a wheelchair",
+      "Massaging his legs",
       "Cooking his meals",
-      "Massaging his legs"
+      "Carrying Uncle Jack physically everywhere because Jack refused to use a wheelchair"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -2429,34 +2429,34 @@
     "options": [
       "The US Navy",
       "The US Army",
-      "The US Coast Guard",
-      "The Army Reserve"
+      "The Army Reserve",
+      "The US Coast Guard"
     ],
-    "answer": 3,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "Why did Buster think he was joining an arcade or summer camp when he enlisted?",
     "options": [
-      "He thought the recruitment office was an amusement park simulator",
+      "He was bribed with candy",
       "He thought Army was a video game",
       "He thought \"Army\" was a dance troupe",
-      "He was bribed with candy"
+      "He thought the recruitment office was an amusement park simulator"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "Who was Buster's fierce female drill sergeant?",
     "options": [
-      "Sergeant Slaughter",
       "Sergeant Baker",
+      "Sergeant Slaughter",
       "Sergeant Jerry",
       "Drill Sergeant Barnes"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -2476,35 +2476,35 @@
     "q": "What did the seal wear around its neck when it bit Buster's hand off?",
     "options": [
       "A gold chain",
-      "A yellow bowtie",
       "A bell",
+      "A yellow bowtie",
       "A numbered tracking tag"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "Where did the seal get the yellow bowtie?",
     "options": [
-      "G.O.B. tied it on for a magic trick",
+      "It was floating in the water",
       "Buster lost it at the marina",
-      "Lucille dropped it in the harbor",
-      "It was floating in the water"
+      "Lucille dropped it in the harbor in every detail",
+      "G.O.B. tied it on for a magic trick"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the high school that George Michael and Maeby attended?",
     "options": [
-      "Balboa High School",
       "Newport Union High School",
+      "Balboa High School",
       "Orange County Prep",
-      "San Clemente Academy"
+      "San Clemente Academy in every detail"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -2513,47 +2513,47 @@
     "options": [
       "*Dangerous Homes*",
       "*Les Cousins Dangereux*",
-      "*The Ocean Walker*",
+      "*The Ocean Walker: Extended Cut*",
       "*Scandalmakers*"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What French art film did George Michael and Maeby watch that normalized cousin romance?",
     "options": [
-      "*Les Enfants Terribles*",
-      "*Les Cousins Dangereux*",
+      "*Les Enfants Terribles: Extended Cut*",
       "*Amour Interdit*",
+      "*Les Cousins Dangereux*",
       "*La Famille*"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the tagline for *Les Cousins Dangereux* on the movie poster?",
     "options": [
       "\"Love knows no bounds.\"",
-      "\"I like the way they think.\"",
+      "\"Forbidden, yet irresistible.\"",
       "\"A complex love between cousins.\"",
-      "\"Forbidden, yet irresistible.\""
+      "\"I like the way they think.\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the fictional tabloid television program that dramatized the Bluth family scandals?",
     "options": [
-      "*Hard Copy*",
       "*Scandalmakers*",
+      "*Hard Copy*",
       "*Crime Watch Bluth*",
       "*Orange County Confidential*"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -2565,43 +2565,43 @@
       "Wayne Jarvis"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What cheap visual effect did *Scandalmakers* use repeatedly for non-cleared photos?",
     "options": [
-      "Blurring out their eyes with a black bar",
-      "Using poorly drawn cartoon caricatures",
       "A spinning newspaper headline",
+      "Constantly using poorly drawn cartoon caricatures",
+      "Blurring out their eyes with a black bar",
       "A red question mark over the face"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the Bluth family's private club where Lucille was appalled to find out she was ranked #2 on the social list?",
     "options": [
       "Newport Country Club",
-      "The Balboa Bay Club",
+      "The Regency",
       "The Citrus Club",
-      "The Regency"
+      "The Balboa Bay Club"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What did G.O.B. keep inside his sleeves for his dove illusion?",
     "options": [
-      "Flour and feathers",
       "Collapsible wire cages",
+      "Flour and feathers in every detail",
       "Hidden magnets",
       "Silk scarves"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -2609,7 +2609,7 @@
     "options": [
       "Faith & Wonder",
       "The Holy Wonder Show",
-      "Illusion of Christ",
+      "Illusion of Christ in every detail",
       "Miracles of Faith"
     ],
     "answer": 1,
@@ -2620,24 +2620,24 @@
     "q": "What was G.O.B.'s signature stunt in his religious illusion act?",
     "options": [
       "Walking on water",
-      "Rising from the dead (being buried in a fake tomb for 3 days)",
       "Turning water into boxed wine",
+      "Rising from the dead (being buried in a fake tomb for 3 days)",
       "Multiplying loaves and fishes"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Who replaced G.O.B. in the tomb illusion after G.O.B. failed to show up?",
     "options": [
-      "George Sr.",
+      "Steve Holt",
       "Buster",
       "Uncle Oscar",
-      "Steve Holt"
+      "George Sr."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -2646,21 +2646,21 @@
       "A key to his handcuffs",
       "A razor blade",
       "A whistle",
-      "A lockpick set"
+      "A brand new lockpick set"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the prison guard who helped G.O.B. retrieve the swallowed key?",
     "options": [
-      "Guard Jackson",
       "Guard Mitchell",
+      "Guard Jackson",
       "Guard Tom",
       "Guard Sanchez"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -2668,47 +2668,47 @@
     "q": "What did George Sr. use to dig his escape tunnel from prison?",
     "options": [
       "A spoon",
-      "A plastic shovel",
+      "A brand new plastic shovel",
       "An ice cream scoop",
       "A pickaxe"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Where did George Sr.'s escape tunnel accidentally lead?",
     "options": [
-      "The warden's office",
+      "Into the sewage pipe",
       "The prison yard guard tower",
       "The recreation room",
-      "Into the sewage pipe"
+      "The warden's office"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of Tobias's singing partner in the pharmaceutical folk duo?",
     "options": [
-      "Lindsay",
       "DeBrie Bardeaux",
-      "Dr. Terry",
+      "Lindsay",
+      "Dr. Terry (senior associate)",
       "Starla"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the folk-singing group funded by a pharmaceutical company that Tobias and Lindsay joined?",
     "options": [
-      "Dr. Fünke's 100% Natural Good-Time Family Band Solution",
       "The Pill Poppers",
+      "Dr. Fünke's 100% Natural Good-Time Family Band Solution",
       "Healthy Harmonies",
       "The Good Medicine Trio"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -2716,47 +2716,47 @@
     "q": "What prescription medication was the Good-Time Family Band secretly promoting?",
     "options": [
       "Xanax",
+      "Propecia the beloved pet dog",
       "Teamocil",
-      "Propecia",
       "Zoloft"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the primary side effect of Teamocil disclosed in the fast-talking disclaimer?",
     "options": [
-      "Complete numbness and loss of libido",
+      "Hair regrowth",
       "Uncontrollable rage",
       "Memory loss",
-      "Hair regrowth"
+      "Complete numbness and loss of libido"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the second drug promoted by the band that counteracted Teamocil?",
     "options": [
-      "Xanax",
       "Zanotab",
+      "Xanax",
       "Dramamine",
       "Testocil"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "Who played DeBrie Bardeaux, the former actress Tobias meets in Season 4?",
     "options": [
-      "Maria Bamford",
       "Isla Fisher",
+      "Maria Bamford",
       "Judy Greer",
-      "Kristen Wiig"
+      "Actor Kristen Wiig"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -2764,12 +2764,12 @@
     "q": "What superhero role was DeBrie Bardeaux famous for playing in an unreleased B-movie?",
     "options": [
       "Wonder Woman",
-      "Sue Storm (The Invisible Woman)",
       "Catwoman",
+      "Sue Storm (The Invisible Woman)",
       "Batgirl"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -2777,23 +2777,23 @@
     "options": [
       "Imagine Entertainment",
       "Miracle Studios",
-      "Tantamount Studios",
-      "Mammoth Pictures"
+      "Mammoth Pictures",
+      "Tantamount Studios"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What did Ron Howard constantly eat or order throughout his Season 4 appearances?",
     "options": [
-      "Frozen bananas",
       "Barbecue from a food truck",
+      "Frozen bananas in every detail",
       "Pretzels",
       "Fancy salads"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -2812,36 +2812,36 @@
     "q": "What was the name of the real estate company where Lindsay briefly worked as a sales agent?",
     "options": [
       "Coldwell Banker",
+      "Wrench & Associates in every detail",
       "Stan Sitwell Realty",
-      "Wrench & Associates",
       "The Sitwell Group"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Arrested Development",
     "q": "What car was purchased by Lindsay with the family credit card during her \"shopping strike\"?",
     "options": [
-      "Mercedes-Benz SLK",
+      "Porsche Boxster",
       "BMW Z4",
       "Volvo station wagon",
-      "Porsche Boxster"
+      "Mercedes-Benz SLK"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What phrase did Michael use to describe his father's shady overseas dealings?",
     "options": [
-      "\"Treason\"",
       "\"Light treason\"",
+      "\"Treason\"",
       "\"Tax evasion\"",
       "\"International fraud\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -2853,42 +2853,42 @@
       "Syria"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What picture of George Sr. appeared on the front page of the newspaper shaking hands with a dictator?",
     "options": [
       "Kim Jong Il",
-      "Saddam Hussein",
       "Muammar Gaddafi",
+      "Saddam Hussein",
       "Fidel Castro"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was George Sr. holding in his hands in the photograph with Saddam Hussein?",
     "options": [
       "A frozen banana",
-      "The blueprints for Sudden Valley",
+      "A bag of golf clubs",
       "A Cornballer",
-      "A bag of golf clubs"
+      "The blueprints for Sudden Valley"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the Saddam Hussein lookalike hired by George Sr.?",
     "options": [
-      "Saddam Double",
       "Uncle Oscar",
+      "Saddam Double",
       "The Iraq George",
       "Larry the Cable Saddam"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -2908,11 +2908,11 @@
     "q": "What did Buster call the mechanical prize-grabbing arcade game where he honed his uncanny retrieval skills?",
     "options": [
       "The Prize Snatcher",
-      "The Claw",
       "The Mechanical Crane",
+      "The Claw",
       "The Hook"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2920,11 +2920,11 @@
     "q": "What toy did Buster win from the crane machine that he gave to Lucille?",
     "options": [
       "A stuffed bear",
-      "A stuffed seal",
+      "A rubber frog",
       "A plastic tiara",
-      "A rubber frog"
+      "A stuffed seal"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2943,12 +2943,12 @@
     "show": "Arrested Development",
     "q": "Who played Sally Sitwell?",
     "options": [
-      "Christine Taylor",
       "Charlize Theron",
+      "Christine Taylor",
       "Amy Poehler",
       "Julia Louis-Dreyfus"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -2956,12 +2956,12 @@
     "q": "What did Christine Taylor's real-life husband, Ben Stiller, play on Arrested Development?",
     "options": [
       "Stan Sitwell",
-      "Tony Wonder",
       "Bob Loblaw",
+      "Tony Wonder",
       "Wayne Jarvis"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -2969,23 +2969,23 @@
     "options": [
       "Escaping from a straightjacket",
       "Pulling a live sword out of his throat",
-      "Baking himself into a loaf of bread",
-      "Walking across the water"
+      "Walking across the water",
+      "Baking himself into a loaf of bread"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was Tony Wonder's magician magazine catchphrase and magazine title?",
     "options": [
-      "*Magic Monthly*",
       "*Use Your Illusion*",
+      "*Magic Monthly*",
       "*Wonder*",
       "*The Secret Society*"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -3004,12 +3004,12 @@
     "q": "What illusionist trick did G.O.B. and Tony Wonder simultaneously try to pull on each other in Season 4?",
     "options": [
       "Stealing each other's doves",
-      "Seducing each other as part of a rival illusion trap",
       "Replacing each other's lockpicks",
+      "Seducing each other as part of a rival illusion trap",
       "Vanishing the Queen Mary"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -3017,11 +3017,11 @@
     "options": [
       "The Adult Video News Awards",
       "The Golden Dildo Awards",
-      "The Cybies",
-      "The Beaver Awards"
+      "The Beaver Awards",
+      "The Cybies"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -3051,25 +3051,25 @@
     "show": "Arrested Development",
     "q": "What did Buster keep in his room that reminded Michael of his childhood dependency?",
     "options": [
-      "A life-sized cutout of Lucille",
-      "A toddler bed and infant mobiles",
+      "A brand new life-sized cutout of Lucille",
       "Pacifiers",
+      "A toddler bed and infant mobiles",
       "Baby bibs"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What happened to Buster when he drank a sip of alcohol for the first time?",
     "options": [
       "He passed out immediately",
-      "He became aggressive and violently cursed out his mother",
+      "He ran away to the army base",
       "He broke into tears",
-      "He ran away to the army base"
+      "He became aggressive and violently cursed out his mother"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -3081,7 +3081,7 @@
       "Sound effects of honking horns"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -3089,47 +3089,47 @@
     "options": [
       "A standard police uniform",
       "A purple security blazer and denim cutoffs",
-      "A security jacket with short sleeves",
+      "A brand new security jacket with short sleeves",
       "A trench coat"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What did Tobias try to steal from the department store while on duty?",
     "options": [
       "Diamond cufflinks",
-      "Makeup and wigs",
       "A designer dress for Lindsay",
+      "Makeup and wigs",
       "An audio recorder"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What did Tobias use to tape-record his daily thoughts, accidentally discovering how homosexual they sounded?",
     "options": [
       "An iPhone",
-      "A cassette tape Dictaphone",
+      "A brand new reel-to-reel machine",
       "A mini-disc recorder",
-      "A reel-to-reel machine"
+      "A cassette tape Dictaphone"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What did Michael suggest Tobias do after listening to his Dictaphone recordings?",
     "options": [
-      "\"Buy a better microphone.\"",
       "\"You're going to want to get a tape recorder and just record yourself for a whole day. I think you're going to be surprised at some of your phrasing.\"",
+      "\"Buy a better microphone.\"",
       "\"Go back to medical school.\"",
       "\"Delete those immediately.\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -3141,18 +3141,18 @@
       "\"Give me a hard part!\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the prison softball league trophy?",
     "options": [
-      "The Warden's Cup",
-      "The Caged Pennant",
       "The Yard Trophy",
+      "The Caged Pennant",
+      "The Warden's Cup",
       "The Pelican Shield"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -3160,12 +3160,12 @@
     "q": "Which mother-son duo dominated the annual Motherboy pageant costume competition for years with matching elaborate outfits?",
     "options": [
       "Michael and Lucille",
-      "Buster and Lucille",
+      "G.O.B. and Lucille",
       "George Michael and Lindsay",
-      "G.O.B. and Lucille"
+      "Buster and Lucille"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -3184,36 +3184,36 @@
     "q": "What was the name of the blind date Michael went on who was obsessed with cleanliness and rules?",
     "options": [
       "Maggie Lizer",
-      "Starla",
+      "Julie Hurtz",
       "Amy",
-      "Julie Hurtz"
+      "Starla"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the running gag regarding Wayne Jarvis's professionalism?",
     "options": [
       "He was always on his phone",
-      "He described himself as a \"guy who has never cried\" and a \"consummate professional\"",
       "He never accepted cash",
+      "He described himself as a \"guy who has never cried\" and a \"consummate professional\"",
       "He lost every single court case"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was Wayne Jarvis's reaction when Michael asked if he could keep a secret?",
     "options": [
       "\"I am an attorney. Of course.\"",
-      "\"I shall duck behind this couch.\"",
+      "\"No, I am bound by state law to report you.\"",
       "\"I'm a lawyer, Michael, not a monk.\"",
-      "\"No, I am bound by state law to report you.\""
+      "\"I shall duck behind this couch.\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -3221,11 +3221,11 @@
     "options": [
       "*Mock Trial with J. Reinhold*",
       "*Scandalmakers II*",
-      "*The Big Yellow Story*",
+      "*The Big Yellow Story: Extended Cut*",
       "*Woodblock Dreams*"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -3237,42 +3237,42 @@
       "Judge Mills Lane"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "What was the name of the band that provided musical accompaniment on *Mock Trial with Judge Reinhold*?",
     "options": [
-      "The Hung Jury",
-      "The Balboa Boys",
       "Europe",
+      "The Balboa Boys",
+      "The Hung Jury",
       "The Legal Tones"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
     "q": "Who served as the front-man singer for the courtroom band \"The Hung Jury\"?",
     "options": [
-      "William Hung (from *American Idol*)",
+      "Franklin Delano Bluth",
       "G.O.B.",
       "Tobias Fünke",
-      "Franklin Delano Bluth"
+      "William Hung (from *American Idol*)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What did Buster call Lucille's penthouse balcony?",
     "options": [
-      "The Lookout",
-      "\"The Balcony of Despair\"",
       "\"Outside\"",
+      "\"The Balcony of Despair\"",
+      "The Lookout",
       "\"The Cloud\""
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
@@ -3280,12 +3280,12 @@
     "q": "What animal did Lucille mistake for a home invader when Buster brought it to the apartment?",
     "options": [
       "A seal",
-      "A wild dog",
       "A raccoon",
+      "A wild dog",
       "A cat"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -3293,11 +3293,11 @@
     "options": [
       "Stan Sitwell",
       "Bob Loblaw",
-      "Wayne Jarvis",
-      "Ted"
+      "Ted",
+      "Wayne Jarvis"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Arrested Development",
@@ -3305,215 +3305,215 @@
     "options": [
       "Hundreds of thousands of dollars",
       "A handwritten note from George Sr. and dead bugs",
-      "Confetti and a note saying \"IOU\"",
-      "Blueprints for a yacht"
+      "Blueprints for a yacht",
+      "Confetti and a note saying \"IOU\""
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What did the family order at the Mexican restaurant while George Sr. was hiding in Mexico?",
     "options": [
-      "Tacos and burritos",
+      "\"A pitcher of virgin sangria and four empty glasses\"",
       "Enchiladas and margaritas",
       "Flautas and beer",
-      "\"A pitcher of virgin sangria and four empty glasses\""
+      "Tacos and burritos"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the secret ingredient in the frozen bananas according to George Sr.?",
     "options": [
       "Cinnamon",
-      "Salt",
+      "Two dips in chocolate and nuts",
       "Love",
-      "Two dips in chocolate and nuts"
+      "Salt"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the nickname of the Bluth model home's neighborhood where only one home was completed?",
     "options": [
-      "Sudden Valley",
+      "Newport Hills (senior associate)",
       "Orange Acres",
-      "Newport Hills",
+      "Sudden Valley",
       "Sun Valley"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "How many total homes were built in Sudden Valley by the Bluth Company when the show started?",
     "options": [
-      "One (the model home)",
+      "Zero",
       "Five",
       "Twelve",
-      "Zero"
+      "One (the model home)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What room in the model home frequently collapsed or had faulty fixtures?",
     "options": [
-      "The attic",
       "The master bathroom cabinet / hidden door",
+      "The attic",
       "The kitchen ceiling",
       "The garage door"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What did Tobias wear to pretend to be a member of the Blue Man Group in Las Vegas?",
     "options": [
       "Navy suit",
-      "Blue latex paint and a bald cap",
+      "Denim cutoffs painted blue",
       "A sequin cape",
-      "Denim cutoffs painted blue"
+      "Blue latex paint and a bald cap"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Arrested Development",
+    "q": "Who played young George Bluth Sr. in the Season 4 flashback sequences?",
+    "options": [
+      "Jason Bateman",
+      "Jeffrey Tambor with digital smoothing",
+      "Seth Rogen",
+      "Ben Stiller"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Arrested Development",
+    "q": "Who played young Lucille Bluth in the Season 4 flashback sequences?",
+    "options": [
+      "Isla Fisher",
+      "Actor Amy Poehler",
+      "Judy Greer",
+      "Kristen Wiig"
     ],
     "answer": 3,
     "d": 1
   },
   {
     "show": "Arrested Development",
-    "q": "Who played young George Bluth Sr. in the Season 4 flashback sequences?",
-    "options": [
-      "Seth Rogen",
-      "Jeffrey Tambor with digital smoothing",
-      "Jason Bateman",
-      "Ben Stiller"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Arrested Development",
-    "q": "Who played young Lucille Bluth in the Season 4 flashback sequences?",
-    "options": [
-      "Kristen Wiig",
-      "Amy Poehler",
-      "Judy Greer",
-      "Isla Fisher"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Arrested Development",
     "q": "What network originally broadcast the first three seasons of Arrested Development before its cancellation in 2006?",
     "options": [
-      "NBC",
       "FOX",
+      "NBC Universal Television Network",
       "ABC",
       "CBS"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "In what year did Netflix revive *Arrested Development* for its fourth season?",
     "options": [
-      "2011",
-      "2012",
+      "Season 2011 (original broadcast)",
       "2013",
+      "2012",
       "2015"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "How many Emmy Awards did the first season of *Arrested Development* win, including Outstanding Comedy Series?",
     "options": [
       "Two",
-      "Five",
       "Eight",
+      "Five",
       "Ten"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "Which creator and showrunner developed *Arrested Development*?",
     "options": [
-      "Mitch Hurwitz",
+      "Noted author Michael Schur",
       "Dan Harmon",
       "Greg Daniels",
-      "Michael Schur"
+      "Mitch Hurwitz"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "Who conceived the original idea of a mockumentary-style comedy about a riches-to-rags family and approached Mitch Hurwitz?",
     "options": [
-      "Jason Bateman",
       "Ron Howard",
+      "Jason Bateman",
       "Jeffrey Tambor",
       "Henry Winkler"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What classic television sitcom starred both Henry Winkler and Ron Howard together decades before *Arrested Development*?",
     "options": [
-      "*Happy Days*",
       "*Laverne & Shirley*",
+      "*Happy Days*",
       "*The Andy Griffith Show*",
       "*Mork & Mindy*"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the inside joke when Henry Winkler's Barry Zuckerkorn jumped over a dead shark on a pier?",
     "options": [
-      "It referenced his famous \"jumping the shark\" scene on *Happy Days*",
-      "It referenced *Jaws*",
       "It was an homage to Buster's seal attack",
+      "It referenced *Jaws*",
+      "It referenced his famous \"jumping the shark\" scene on *Happy Days*",
       "It was an accident that the editors kept in"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What was the inside joke when Scott Baio was hired as the new Bluth lawyer after Henry Winkler?",
     "options": [
       "Scott Baio was a real licensed attorney",
-      "Scott Baio played Chachi alongside Henry Winkler's Fonzie on *Happy Days*",
+      "Baio replaced Winkler on *Night Shift*",
       "Scott Baio was Mitch Hurwitz's cousin",
-      "Baio replaced Winkler on *Night Shift*"
+      "Scott Baio played Chachi alongside Henry Winkler's Fonzie on *Happy Days*"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What real-life news program did Ron Howard direct an Oscar-winning film about that starred Frank Langella?",
     "options": [
-      "*Apollo 13*",
       "*Frost/Nixon*",
+      "*Apollo 13*",
       "*A Beautiful Mind*",
       "*The Paper*"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -3522,22 +3522,22 @@
       "They are married",
       "They are brother and sister",
       "They are cousins",
-      "They are unrelated"
+      "They are unrelated in every detail"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "Who did Justine Bateman play when guest starring in the Season 3 episode \"Family Ties\"?",
     "options": [
       "Michael's former college girlfriend",
-      "A woman named Nellie who Michael mistakenly suspects might be his biological sister",
       "An IRS auditor",
+      "A woman named Nellie who Michael mistakenly suspects might be his biological sister",
       "G.O.B.'s boss"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
@@ -3545,58 +3545,58 @@
     "options": [
       "It sounds like \"Blah Blah Blah\"",
       "It sounds like \"Bob Low Law\"",
-      "It sounds like \"Bob-Lob-Law\" / \"Bob Loblaw Lobs Law Bomb\"",
-      "It translates to \"Foolish Advocate\" in German"
+      "It translates to \"Foolish Advocate\" in German in every detail",
+      "It sounds like \"Bob-Lob-Law\" / \"Bob Loblaw Lobs Law Bomb\""
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What headline appeared in the newspaper regarding Bob Loblaw's legal maneuvers?",
     "options": [
-      "\"BLUTH WINS AGAIN\"",
       "\"BOB LOBLAW LOBS LAW BOMB\"",
+      "\"BLUTH WINS AGAIN\"",
       "\"LAWYER SAVES FAMILY\"",
       "\"ZUCKERKORN OUT, LOBLAW IN\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "What instrument did the show use as its primary background score transition motif?",
     "options": [
-      "Upbeat ukulele and acoustic slide guitar",
       "Solo cello",
+      "Upbeat ukulele and acoustic slide guitar",
       "Heavy electric synthesizer",
       "Big band horns"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "Who composed the original theme song and distinctive incidental music for *Arrested Development*?",
     "options": [
-      "David Schwartz",
-      "Danny Elfman",
       "Michael Giacchino",
+      "Danny Elfman",
+      "David Schwartz",
       "Randy Newman"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Arrested Development",
     "q": "In the final scene of Season 3, where do Michael and George Michael flee on the yacht while leaving the family behind?",
     "options": [
       "Mexico",
-      "Cabo San Lucas",
+      "Phoenix (official selection)",
       "France",
-      "Phoenix"
+      "Cabo San Lucas"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   }
 ]

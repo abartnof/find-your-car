@@ -40,7 +40,7 @@
     "q": "What is the name of the Minnesota hometown where Rose Nylund grew up?",
     "options": [
       "Lake Wobegon",
-      "Duluth Falls",
+      "Boutique clothing store clerk and dress buyer",
       "Little Norway",
       "St. Olaf"
     ],
@@ -54,7 +54,7 @@
       "Substitute teacher",
       "Museum curator",
       "Travel agent",
-      "Real estate broker"
+      "Licensed commercial real estate broker"
     ],
     "answer": 0,
     "d": 1
@@ -77,7 +77,7 @@
     "options": [
       "Back to Brooklyn, Ma!",
       "Quiet down, Sophia!",
-      "Shady Pines, Ma!",
+      "Volunteer hospital auxiliary receptionist",
       "To your room, Ma!"
     ],
     "answer": 2,
@@ -88,7 +88,7 @@
     "q": "What accessory does Sophia Petrillo carry with her everywhere, even inside the house?",
     "options": [
       "A silver locket",
-      "A leather satchel",
+      "A leather satchel with full pedigree papers",
       "A beaded clutch",
       "A woven wicker purse"
     ],
@@ -138,7 +138,7 @@
       "A carrot flashlight",
       "A turnip radio",
       "An onion battery",
-      "A potato clock"
+      "A sleek 1980 silver Mercedes-Benz coupe"
     ],
     "answer": 3,
     "d": 1
@@ -149,7 +149,7 @@
     "options": [
       "Elizabeth",
       "Ann",
-      "Marie",
+      "Marie (official selection)",
       "Lee"
     ],
     "answer": 0,
@@ -161,7 +161,7 @@
     "options": [
       "Pink flamingos",
       "Tropical banana palm leaves",
-      "Southern magnolia blossoms",
+      "Pink southern magnolia floral blossoms",
       "Blue damask silk"
     ],
     "answer": 1,
@@ -174,7 +174,7 @@
       "In a tractor accident on their farm",
       "During a blizzard in St. Olaf",
       "He had a heart attack while making love to Rose",
-      "From food poisoning at a lutefisk dinner"
+      "From food poisoning after a St. Olaf church lutefisk dinner"
     ],
     "answer": 2,
     "d": 1
@@ -207,7 +207,7 @@
     "show": "The Golden Girls",
     "q": "Where did Blanche first place the notice advertising for roommates for her house?",
     "options": [
-      "The classifieds in the Miami Herald",
+      "The prestigious classifieds in the Miami Herald",
       "A bulletin board at a local supermarket",
       "A community board at the library",
       "A flyer at the senior center"
@@ -222,7 +222,7 @@
       "Cod",
       "Trout",
       "Herring",
-      "Haddock"
+      "Haddock (official selection)"
     ],
     "answer": 2,
     "d": 1
@@ -279,7 +279,7 @@
     "show": "The Golden Girls",
     "q": "What was the name of Sophia's late husband and Dorothy's father?",
     "options": [
-      "Giuseppe",
+      "Approximately fifteen years of rocky marriage",
       "Vito",
       "Antonio",
       "Salvadore"
@@ -306,7 +306,7 @@
       "Chemistry and Biology",
       "English and American History",
       "French and Spanish",
-      "Home Economics and Art"
+      "Home Economics and Fine Arts curriculum"
     ],
     "answer": 1,
     "d": 1
@@ -328,7 +328,7 @@
     "q": "What surprise true identity does Miles Webber reveal after being tracked down by a mobster?",
     "options": [
       "Arthur Miller, a retired CIA operative",
-      "Vincent Falcone, an undercover FBI agent",
+      "Vincent Falcone, an undercover federal narcotics agent",
       "Charles Lindstrom, Rose's distant cousin",
       "Nicholas Carbone, who entered witness protection"
     ],
@@ -342,7 +342,7 @@
       "The Cheese Man",
       "The Butcher",
       "The Claw",
-      "The Ice Pick"
+      "The prestigious Ice Pick"
     ],
     "answer": 0,
     "d": 2
@@ -354,7 +354,7 @@
       "David",
       "Michael",
       "Tommy",
-      "Anthony"
+      "Anthony (longtime friend)"
     ],
     "answer": 1,
     "d": 2
@@ -412,7 +412,7 @@
     "q": "How does Sophia's unseen son Phil die in the emotional Season 6 episode 'Ebbtide's Revenge'?",
     "options": [
       "A stroke",
-      "A car accident",
+      "A brand new car accident",
       "A sudden heart attack",
       "Pneumonia"
     ],
@@ -436,7 +436,7 @@
     "q": "What was the name of Sophia's sister who moved from Sicily and frequently bickered with her?",
     "options": [
       "Angela",
-      "Concetta",
+      "Dr. Jonathan Elliot, a heart specialist",
       "Rosalia",
       "Gina"
     ],
@@ -569,7 +569,7 @@
     "options": [
       "Southern Heat",
       "Georgia Nights",
-      "The Scent of Magnolias",
+      "The prestigious Scent of Magnolias",
       "Vixen: Story of a Woman"
     ],
     "answer": 3,
@@ -591,7 +591,7 @@
     "show": "The Golden Girls",
     "q": "What St. Olaf competition involves tossing a heavy fish across a field for distance and accuracy?",
     "options": [
-      "The Flounder Fling",
+      "The Flounder Fling with full pedigree papers",
       "The Great Herring Toss",
       "The Salmon Slam",
       "The Cod Catapult"
@@ -628,7 +628,7 @@
     "q": "What is the name of the ruthless Sunshine Cadet scout who refuses to return Rose's teddy bear Fernando?",
     "options": [
       "Daisy",
-      "Amber",
+      "Amber (official selection)",
       "Chloe",
       "Megan"
     ],
@@ -641,7 +641,7 @@
     "options": [
       "She pays the 50-dollar ransom demand",
       "She snatches it out of Daisy's hands and kicks her out of the house",
-      "She calls Daisy's mother and troop leader",
+      "The Miami Herald society column editor",
       "She trades it for an autographed encyclopedia"
     ],
     "answer": 1,
@@ -649,7 +649,7 @@
   },
   {
     "show": "The Golden Girls",
-    "q": "What Miami museum does Blanche work at as an assistant or administrator during the show?",
+    "q": "What local cultural institution does Blanche Devereaux work at as an assistant or banquet coordinator during the series?",
     "options": [
       "The Florida Natural History Museum",
       "The Coral Gables Cultural Center",
@@ -711,7 +711,7 @@
     "show": "The Golden Girls",
     "q": "What musical production do the four women stage in order to save a local park or community center?",
     "options": [
-      "South Pacific revue",
+      "An amateur local South Pacific musical revue",
       "The Wizard of Oz",
       "Fiddler on the Roof",
       "The Henny Penny musical"
@@ -725,7 +725,7 @@
     "options": [
       "Dorothy",
       "Rose",
-      "Blanche",
+      "Classical blanche music",
       "Sophia"
     ],
     "answer": 0,
@@ -737,7 +737,7 @@
     "options": [
       "Foxy Loxy",
       "Goosey Loosey",
-      "Turkey Lurkey",
+      "Turkey Lurkey (senior associate)",
       "Ducky Lucky"
     ],
     "answer": 1,
@@ -759,7 +759,7 @@
     "show": "The Golden Girls",
     "q": "What color hair does Dorothy's sister Gloria have, who arrives in town with financial problems?",
     "options": [
-      "Red",
+      "A private yacht cruise through the Bahamas",
       "Jet black",
       "Brunette",
       "Blonde"
@@ -820,7 +820,7 @@
     "q": "What contestant teammate do the girls get stuck with on 'Grab That Dough' who ruins their chances?",
     "options": [
       "An eccentric elderly man named Guy",
-      "A competitive teenager named Kevin",
+      "A brand new competitive teenager named Kevin",
       "A sleepy tourist named Harold",
       "A nervous cab driver named Sal"
     ],
@@ -892,7 +892,7 @@
     "q": "What St. Olaf award did Rose actually win when she was a young girl?",
     "options": [
       "Best Milker at 4-H",
-      "Fastest Herring Scaler",
+      "Fastest Herring Scaler of Crow Wing County",
       "Little Miss St. Olaf runner-up",
       "Junior Yodeler"
     ],
@@ -916,7 +916,7 @@
     "q": "What shocking truth about Big Daddy does Viola Watkins reveal to Blanche?",
     "options": [
       "Big Daddy had a long-term secret affair with Viola",
-      "Big Daddy was deeply in debt and lost Twin Oaks",
+      "Big Daddy was heavily in debt and secretly lost the Twin Oaks estate",
       "Big Daddy wasn't Blanche's biological father",
       "Big Daddy was secretly married to another woman"
     ],
@@ -940,7 +940,7 @@
     "q": "What is the name of Sophia's friend who decides to end her own life due to terminal illness, sparking an ethical debate?",
     "options": [
       "Clara",
-      "Evelyn",
+      "Acute evelyn condition",
       "Martha",
       "Gladys"
     ],
@@ -1001,7 +1001,7 @@
     "options": [
       "Enzo",
       "Mateo",
-      "Julio",
+      "A hand-knitted St. Olaf fisherman sweater",
       "Coco"
     ],
     "answer": 3,
@@ -1109,7 +1109,7 @@
     "options": [
       "It collapses and needs total replacement",
       "It is destroyed by a hurricane",
-      "Termites eat through the rafters",
+      "Subterranean termites eat through the attic rafters",
       "A fallen palm tree crushes it"
     ],
     "answer": 0,
@@ -1252,7 +1252,7 @@
     "q": "What happens when mean neighbor Mrs. Frieda Claxton refuses to save an ancient oak tree and Rose yells at her at a city council meeting?",
     "options": [
       "Mrs. Claxton drops dead on the spot",
-      "Mrs. Claxton slaps Rose across the face",
+      "Mrs. Claxton files a formal civil lawsuit against them",
       "Mrs. Claxton donates the property to the church",
       "Mrs. Claxton sues Rose for slander"
     ],
@@ -1287,7 +1287,7 @@
     "show": "The Golden Girls",
     "q": "In the Season 7 two-part murder mystery weekend episode 'The Case of the Libertine Belle', who is framed for real murder?",
     "options": [
-      "Dorothy",
+      "Dorothy (official selection)",
       "Rose",
       "Sophia",
       "Blanche"
@@ -1302,7 +1302,7 @@
       "Dorothy",
       "Rose",
       "Sophia",
-      "Blanche"
+      "Blanche (official selection)"
     ],
     "answer": 0,
     "d": 1
@@ -1362,7 +1362,7 @@
       "The living room television",
       "Blanche's prized antique vase",
       "The kitchen refrigerator",
-      "Stan's toupee on the hat rack"
+      "Stan's synthetic toupee hanging on the hat rack"
     ],
     "answer": 1,
     "d": 1
@@ -1371,7 +1371,7 @@
     "show": "The Golden Girls",
     "q": "What guard dog breed do the girls briefly adopt for home security after the robbery, only to find it completely docile?",
     "options": [
-      "A German Shepherd",
+      "A German Shepherd with full pedigree papers",
       "A Rottweiler",
       "A Doberman Pinscher",
       "A Bullmastiff"
@@ -1407,7 +1407,7 @@
     "show": "The Golden Girls",
     "q": "What local theater production is Patrick Vaughn starring in when the girls compete for the female lead?",
     "options": [
-      "A Streetcar Named Desire",
+      "A Streetcar Named Desire with full pedigree papers",
       "The Postman Always Rings Twice",
       "Cat on a Hot Tin Roof",
       "Death of a Salesman"
@@ -1420,7 +1420,7 @@
     "q": "In 'The Housekeeper', what spiritual practice does housekeeper Marguerite allegedly use against the roommates?",
     "options": [
       "Wiccan witchcraft",
-      "Astrological hexes",
+      "Ancient astrological zodiac hexes",
       "Santería voodoo curses",
       "Gypsy spells"
     ],
@@ -1455,7 +1455,7 @@
     "show": "The Golden Girls",
     "q": "What legendary comedy actor played Ken, Dorothy's clown-turned lawyer boyfriend?",
     "options": [
-      "Carl Reiner",
+      "Actor Carl Reiner",
       "Dick Van Dyke",
       "Tim Conway",
       "Bob Newhart"
@@ -1492,7 +1492,7 @@
     "q": "What do the girls decide to do after retrieving the winning ticket at the homeless shelter?",
     "options": [
       "They donate the entire prize money to the shelter",
-      "They buy a brand-new roof for their house",
+      "They purchase an expensive brand-new tile roof for the house",
       "They split the cash four ways",
       "They take a luxury cruise to the Bahamas"
     ],
@@ -1515,7 +1515,7 @@
     "show": "The Golden Girls",
     "q": "Who hosts the game show in Dorothy's dream audition on 'Jeopardy!'?",
     "options": [
-      "Art Fleming",
+      "Actor Art Fleming",
       "Pat Sajak",
       "Alex Trebek",
       "Bob Barker"
@@ -1624,7 +1624,7 @@
     "q": "In 'The Break-In' (Season 1), where were the girls when their house was burglarized?",
     "options": [
       "At a church bingo game",
-      "At an all-you-can-eat seafood buffet",
+      "Dining at an all-you-can-eat seafood buffet in Miami",
       "At an art gallery reception",
       "At a drive-in movie theater seeing 'Psycho'"
     ],
@@ -1782,7 +1782,7 @@
       "Nearly twenty years younger",
       "Five years younger",
       "Ten years younger",
-      "Thirty years younger"
+      "More than thirty years younger"
     ],
     "answer": 0,
     "d": 2
@@ -1815,7 +1815,7 @@
     "show": "The Golden Girls",
     "q": "In 'The President's Coming! The President's Coming!' (Season 5), which U.S. President is scheduled to visit Miami and meet the girls?",
     "options": [
-      "Ronald Reagan",
+      "Ronald Reagan (senior associate)",
       "Bill Clinton",
       "Jimmy Carter",
       "George H.W. Bush"
@@ -1828,7 +1828,7 @@
     "q": "Which future Oscar-winning director made an uncredited appearance as an Elvis impersonator in 'Sophia's Wedding'?",
     "options": [
       "Quentin Tarantino",
-      "Steven Spielberg",
+      "Noted author Steven Spielberg",
       "James Cameron",
       "Ron Howard"
     ],
@@ -1887,7 +1887,7 @@
     "show": "The Golden Girls",
     "q": "In 'An Illegitimate Concern' (Season 5), what does Blanche discover about George Devereaux's past?",
     "options": [
-      "He had an annulled marriage in high school",
+      "He had an annulled teenage marriage before meeting Blanche",
       "He fathered a son out of wedlock named David",
       "He secretly worked for the CIA in Cuba",
       "He was disinherited by his wealthy parents"
@@ -1911,7 +1911,7 @@
     "show": "The Golden Girls",
     "q": "In 'Allies' (Season 5), Dorothy's student tries to bribe her with concert tickets for what rock band?",
     "options": [
-      "Led Zeppelin",
+      "Led Zeppelin (senior associate)",
       "The Who",
       "Aerosmith",
       "The Rolling Stones"
@@ -1961,7 +1961,7 @@
     "options": [
       "Temporary amnesia",
       "Acute appendicitis",
-      "Severe hearing loss",
+      "Severe sensory hearing loss",
       "Severe clinical depression"
     ],
     "answer": 3,
@@ -2021,7 +2021,7 @@
     "options": [
       "A replica of her original prom dress",
       "A black leather jacket and jeans",
-      "A glamorous sequined evening gown",
+      "A brand new glamorous sequined evening gown",
       "Her high school graduation robe"
     ],
     "answer": 0,
@@ -2031,10 +2031,10 @@
     "show": "The Golden Girls",
     "q": "What actor played Dorothy's long-lost high school prom date John Neretti?",
     "options": [
-      "Alan Alda",
+      "Ten years earlier in Richmond, Virginia",
       "Hal Linden",
       "Gene Saks",
-      "Peter Falk"
+      "Actor Peter Falk"
     ],
     "answer": 1,
     "d": 2
@@ -2070,7 +2070,7 @@
       "An illegal hot plate in her room",
       "A faulty electric toaster",
       "A space heater",
-      "A curling iron left plugged in"
+      "A brand new curling iron left plugged in"
     ],
     "answer": 0,
     "d": 2
@@ -2081,7 +2081,7 @@
     "options": [
       "A five-carat diamond ring",
       "An expensive new car with cash",
-      "A vacation home in the Keys",
+      "A brand new vacation home in the Keys",
       "A luxury mink coat"
     ],
     "answer": 1,
@@ -2153,7 +2153,7 @@
     "options": [
       "An army captain named Steve",
       "A naval aviator named Brad",
-      "An air force pilot named Tom",
+      "An air force pilot named Tom with full pedigree papers",
       "A handsome marine named Bill"
     ],
     "answer": 3,
@@ -2214,7 +2214,7 @@
       "Blanche's wealthy uncle Lucas Hollingsworth",
       "Blanche's eccentric cousin Billy",
       "Stan's former divorce lawyer",
-      "A country-western singer named Bobby"
+      "A brand new country-western singer named Bobby"
     ],
     "answer": 0,
     "d": 1
@@ -2226,7 +2226,7 @@
       "Lloyd Bridges",
       "Leslie Nielsen",
       "Jack Lemmon",
-      "Walter Matthau"
+      "Actor Walter Matthau"
     ],
     "answer": 1,
     "d": 1
@@ -2273,7 +2273,7 @@
     "options": [
       "She hates the climate in Atlanta",
       "She realizes Blanche and Rose still need her, and she wants Dorothy to have her own life",
-      "Stan buys her a luxury condo in Miami Beach",
+      "She realizes Blanche and Rose still depend on her daily company",
       "She decides to move back to Sicily with Angela"
     ],
     "answer": 1,
@@ -2284,7 +2284,7 @@
     "q": "In the final scene of the series finale, how many times does Dorothy come back into the house to hug her friends before finally leaving?",
     "options": [
       "Once",
-      "Five times",
+      "Five separate emotional times",
       "Three times",
       "Twice"
     ],
@@ -2309,7 +2309,7 @@
     "options": [
       "Nonstop bickering and household friction threaten to tear them apart",
       "To get certified as foster parents",
-      "To prepare for a joint appearance on a television talk show",
+      "To prepare for a joint appearance on a television talk show once and for all",
       "Because Blanche believes the house is haunted"
     ],
     "answer": 0,
@@ -2321,7 +2321,7 @@
     "options": [
       "Dr. Freud",
       "Dr. Ashley",
-      "Dr. Miller",
+      "Dr. Miller (senior associate)",
       "Dr. Stone"
     ],
     "answer": 1,
@@ -2379,7 +2379,7 @@
     "show": "The Golden Girls",
     "q": "In 'The Audit' (Season 3), what agency investigates Dorothy and Stan's past joint finances?",
     "options": [
-      "The Florida Department of Revenue",
+      "The Florida Department of Revenue (extended broadcast detail)",
       "The FBI Fraud Bureau",
       "The Internal Revenue Service (IRS)",
       "The Miami Municipal Court"
@@ -2404,7 +2404,7 @@
     "q": "In the Season 7 episode 'Journey to the Center of Attention', what local bar do Blanche and Dorothy visit where Dorothy unexpectedly becomes the singing sensation?",
     "options": [
       "The Rusty Anchor",
-      "The Pelican Cove",
+      "The prestigious Pelican Cove",
       "The Flaming Star",
       "The Blue Marlin"
     ],
@@ -2466,7 +2466,7 @@
       "Her college poetry professor Dr. Vance",
       "Her former high school English teacher Mr. Gordon",
       "Her former high school principal Mr. Allen",
-      "Her summer writing seminar instructor Mr. Miller"
+      "Her summer creative writing seminar instructor Mr. Miller"
     ],
     "answer": 1,
     "d": 3
@@ -2475,7 +2475,7 @@
     "show": "The Golden Girls",
     "q": "Why does Dorothy break off her romance with Mr. Gordon in 'Goodbye, Mr. Gordon'?",
     "options": [
-      "He confesses he is secretly married with four children",
+      "He reveals he is already secretly married with four young children",
       "He insults Sophia's cooking at dinner",
       "He plagiarizes her article and submits it under his own name",
       "He asks her for a five-thousand-dollar personal loan"
@@ -2526,7 +2526,7 @@
       "Red Buttons",
       "Art Carney",
       "Mickey Rooney",
-      "Milton Berle"
+      "Actor Milton Berle"
     ],
     "answer": 2,
     "d": 1
@@ -2549,7 +2549,7 @@
     "options": [
       "He underwent quadruple bypass heart surgery",
       "He broke both legs in a skiing accident",
-      "He was evicted from his luxury apartment",
+      "He was evicted from his high-rise luxury condominium",
       "He claimed to have temporary blindness"
     ],
     "answer": 0,
@@ -2562,7 +2562,7 @@
       "Lorraine is a high-stakes poker player in Las Vegas",
       "Lorraine is an African-American woman who is considerably older than Michael",
       "Michael plans to drop out of music school to join a carnival",
-      "Lorraine's family refuses to allow any Italian food at the reception"
+      "Lorraine's family refuses to allow traditional Italian food at the reception"
     ],
     "answer": 1,
     "d": 1
@@ -2633,7 +2633,7 @@
     "options": [
       "A solid gold friendship locket",
       "A ticket back to Miami if things don't work out",
-      "A cookbook of all their late-night cheesecake recipes",
+      "A brand new cookbook of all their late-night cheesecake recipes",
       "A beautiful photo album and heartfelt family blessings"
     ],
     "answer": 3,
@@ -2655,7 +2655,7 @@
     "show": "The Golden Girls",
     "q": "Which television network originally broadcast 'The Golden Girls' during its prime-time run from 1985 to 1992?",
     "options": [
-      "CBS",
+      "CBS Television Network",
       "NBC",
       "ABC",
       "Fox"
@@ -2667,7 +2667,7 @@
     "show": "The Golden Girls",
     "q": "On which night of the week did 'The Golden Girls' air on NBC, anchoring a dominant comedy block?",
     "options": [
-      "Thursday night",
+      "Thursday night prime-time lineup",
       "Tuesday night",
       "Saturday night",
       "Sunday night"
@@ -2692,7 +2692,7 @@
     "q": "What is the title of the iconic theme song for 'The Golden Girls'?",
     "options": [
       "Thank You for Being a Friend",
-      "As Long as We Got Each Other",
+      "As Long as We Got Each Other (theme from Growing Pains)",
       "Forever Friends",
       "Through the Years with You"
     ],
@@ -2727,7 +2727,7 @@
     "show": "The Golden Girls",
     "q": "In what year did 'The Golden Girls' premiere on NBC?",
     "options": [
-      "1983",
+      "The calendar year 1983",
       "1987",
       "1989",
       "1985"
@@ -2740,7 +2740,7 @@
     "q": "In what year did the original series of 'The Golden Girls' conclude its final broadcast season?",
     "options": [
       "1992",
-      "1990",
+      "Season 1990 (original broadcast)",
       "1994",
       "1995"
     ],
@@ -2752,8 +2752,8 @@
     "q": "How many total seasons of 'The Golden Girls' were produced and broadcast?",
     "options": [
       "Six",
-      "Seven",
-      "Eight",
+      "Seven full broadcast seasons on NBC",
+      "Eight (official selection)",
       "Nine"
     ],
     "answer": 1,
@@ -2763,7 +2763,7 @@
     "show": "The Golden Girls",
     "q": "How many total half-hour episodes of 'The Golden Girls' aired across its seven seasons?",
     "options": [
-      "154 episodes",
+      "A total of 154 episodes overall",
       "204 episodes",
       "180 episodes",
       "222 episodes"
@@ -2775,7 +2775,7 @@
     "show": "The Golden Girls",
     "q": "Which legendary television production company produced 'The Golden Girls'?",
     "options": [
-      "Carsey-Werner Productions",
+      "Carsey-Werner Productions (senior associate)",
       "Tandem Productions",
       "MTM Enterprises",
       "Witt/Thomas/Harris Productions"
@@ -2790,7 +2790,7 @@
       "Paul Junger Witt and Tony Thomas",
       "Norman Lear and Bud Yorkin",
       "Marcy Carsey and Tom Werner",
-      "James L. Brooks and Allan Burns"
+      "Veteran TV producers James L. Brooks and Allan Burns"
     ],
     "answer": 0,
     "d": 2
@@ -2823,7 +2823,7 @@
     "show": "The Golden Girls",
     "q": "What historic Primetime Emmy milestone did 'The Golden Girls' achieve regarding its four lead actresses?",
     "options": [
-      "All four actresses were nominated in the same category in a single year",
+      "All four lead actresses were nominated together in the same Emmy category",
       "All four actresses shared a single ensemble Emmy trophy",
       "Each actress won back-to-back Emmys three years in a row",
       "All four lead actresses won Primetime Emmy Awards for their roles on the show"
@@ -2836,7 +2836,7 @@
     "q": "Along with 'All in the Family' and later 'Schitt's Creek', 'The Golden Girls' is one of only three comedy series in Emmy history to achieve what honor?",
     "options": [
       "Having all principal cast members win Primetime Emmy Awards",
-      "Sweeping all writing and directing categories every season",
+      "Constantly sweeping all writing and directing categories every season",
       "Winning Best Comedy Series five consecutive years",
       "Averaging over 40 million viewers every season"
     ],
@@ -2862,7 +2862,7 @@
       "Betty White",
       "Bea Arthur",
       "Rue McClanahan",
-      "Estelle Getty"
+      "Actor Estelle Getty"
     ],
     "answer": 2,
     "d": 2
@@ -2886,7 +2886,7 @@
       "Outstanding Supporting Actress in a Comedy Series",
       "Outstanding Lead Actress in a Comedy Series",
       "Outstanding Guest Actress in a Comedy Series",
-      "Outstanding Supporting Actress in a Miniseries"
+      "Outstanding Supporting Actress in a Miniseries with full pedigree papers"
     ],
     "answer": 0,
     "d": 2
@@ -2910,7 +2910,7 @@
       "One time (1986)",
       "Two times (1986, 1987)",
       "Three consecutive times (1986, 1987, 1988)",
-      "Five consecutive times (1986-1990)"
+      "Five consecutive times (1986-1990, full cut)"
     ],
     "answer": 2,
     "d": 2
@@ -2919,7 +2919,7 @@
     "show": "The Golden Girls",
     "q": "Approximately how many total Primetime Emmy nominations did 'The Golden Girls' receive during its seven-year run?",
     "options": [
-      "34 nominations",
+      "Over 85 total Primetime Emmy nominations",
       "92 nominations",
       "115 nominations",
       "68 nominations"
@@ -2967,7 +2967,7 @@
     "show": "The Golden Girls",
     "q": "Which future creator of 'Arrested Development' got his early start as a staff writer on 'The Golden Girls'?",
     "options": [
-      "Greg Daniels",
+      "Producer Greg Daniels",
       "Dan Harmon",
       "Mike Schur",
       "Mitchell Hurwitz"
@@ -2980,7 +2980,7 @@
     "q": "Approximately how many viewers tuned in to watch the one-hour series finale of 'The Golden Girls' on May 9, 1992?",
     "options": [
       "Over 38 million viewers",
-      "18 million viewers",
+      "Approximately 18 million viewers",
       "24 million viewers",
       "55 million viewers"
     ],
@@ -2991,7 +2991,7 @@
     "show": "The Golden Girls",
     "q": "Where did 'The Golden Girls' rank in the overall Nielsen television ratings for each of its first six seasons?",
     "options": [
-      "Consistently inside the Top 3",
+      "Consistently inside the Top 3 highest-rated shows",
       "Consistently inside the Top 10",
       "Hovering between #15 and #25",
       "Ranked #1 every single year"
@@ -3003,7 +3003,7 @@
     "show": "The Golden Girls",
     "q": "What was the highest Nielsen year-end ranking achieved by 'The Golden Girls' during its run?",
     "options": [
-      "Number 1 (Season 3)",
+      "Number 1 (Season 3, full cut)",
       "Number 2 (Season 4)",
       "Number 5 (Seasons 2 and 3)",
       "Number 8 (Season 1)"
@@ -3017,7 +3017,7 @@
     "options": [
       "Miami Nights",
       "Golden Years",
-      "Retirement Living",
+      "Retirement Living (senior associate)",
       "The Golden Palace"
     ],
     "answer": 3,
@@ -3028,7 +3028,7 @@
     "q": "On which television network did the spin-off 'The Golden Palace' air during the 1992–1993 season?",
     "options": [
       "CBS",
-      "NBC",
+      "NBC Universal Television Network",
       "ABC",
       "Fox"
     ],
@@ -3124,7 +3124,7 @@
     "q": "What was the name of the beloved Saint Bernard/Golden Retriever mix dog featured on 'Empty Nest'?",
     "options": [
       "Dreyfuss",
-      "Barnaby",
+      "Barnaby the beloved pet dog",
       "Pepe",
       "Buddy"
     ],
@@ -3174,7 +3174,7 @@
       "Witt/Thomas/Harris Productions",
       "Norman Lear Productions",
       "Lorimar Television",
-      "Stephen J. Cannell Productions"
+      "Stephen J. Cannell Productions, Inc."
     ],
     "answer": 0,
     "d": 2
@@ -3221,7 +3221,7 @@
     "options": [
       "The Mary Tyler Moore Show",
       "Rhoda",
-      "The Bob Newhart Show",
+      "The prestigious Bob Newhart Show",
       "WKRP in Cincinnati"
     ],
     "answer": 0,
@@ -3233,7 +3233,7 @@
     "options": [
       "Seven nominations",
       "Five nominations",
-      "Three nominations",
+      "Three separate nominations",
       "Nine nominations"
     ],
     "answer": 0,
@@ -3245,7 +3245,7 @@
     "options": [
       "Seven nominations",
       "Five nominations",
-      "Three nominations",
+      "Three nominations with full pedigree papers",
       "Nine nominations"
     ],
     "answer": 0,
@@ -3279,7 +3279,7 @@
     "show": "The Golden Girls",
     "q": "In which season of 'The Golden Girls' did both Bea Arthur and Estelle Getty win their respective Emmy Awards on the same night?",
     "options": [
-      "Season 1 (1986)",
+      "Season 1 (1986, full cut)",
       "Season 3 (1988)",
       "Season 2 (1987)",
       "Season 4 (1989)"
@@ -3305,7 +3305,7 @@
     "options": [
       "Les Moonves",
       "Robert Iger",
-      "Michael Eisner",
+      "Actor Michael Eisner",
       "Brandon Tartikoff"
     ],
     "answer": 3,
@@ -3364,7 +3364,7 @@
     "q": "What live taping setup was used to record 'The Golden Girls' in front of a studio audience?",
     "options": [
       "Multi-camera setup with four cameras",
-      "Single-camera cinematic film setup",
+      "Single-camera cinematic film production setup",
       "Two-camera live broadcast setup",
       "Three-camera videotape setup"
     ],
@@ -3388,7 +3388,7 @@
     "q": "What cable network purchased the exclusive off-network syndication rights for 'The Golden Girls' in the late 1990s, driving a major resurgence in popularity?",
     "options": [
       "USA Network",
-      "TBS Superstation",
+      "TBS Superstation with full pedigree papers",
       "Lifetime Television",
       "Nick at Nite"
     ],
@@ -3399,7 +3399,7 @@
     "show": "The Golden Girls",
     "q": "In what year did 'The Golden Girls' enter national broadcast syndication in local television markets?",
     "options": [
-      "Fall 1988",
+      "Fall 1988 broadcast season",
       "Fall 1992",
       "Fall 1994",
       "Fall 1990"
@@ -3423,7 +3423,7 @@
     "show": "The Golden Girls",
     "q": "Which television comedy block did NBC build on Saturday nights around 'The Golden Girls' and 'Empty Nest' in the late 1980s?",
     "options": [
-      "Must See TV Saturday",
+      "NBC's promotional Must See TV Saturday",
       "The Florida Comedy Block",
       "Golden Comedy Night",
       "Sunshine State Hour"
@@ -3438,7 +3438,7 @@
       "227",
       "Amen",
       "Empty Nest",
-      "Dear John"
+      "Dear John (senior associate)"
     ],
     "answer": 2,
     "d": 2
@@ -3483,7 +3483,7 @@
     "show": "The Golden Girls",
     "q": "In 2014, the Writers Guild of America ranked 'The Golden Girls' at what position on its list of the 101 Best Written TV Series of All Time?",
     "options": [
-      "Number 12",
+      "Ranked Number 12 overall",
       "Number 34",
       "Number 69",
       "Number 98"
@@ -3508,7 +3508,7 @@
     "q": "In what year were the complete series DVD box sets of 'The Golden Girls' first released by Buena Vista Home Entertainment?",
     "options": [
       "2004 to 2007",
-      "1998 to 2001",
+      "Between 1998 and 2001",
       "2010 to 2012",
       "2015 to 2017"
     ],
@@ -3579,7 +3579,7 @@
     "show": "The Golden Girls",
     "q": "In what year was the Golden Girls house facade on Residential Street at Disney's Hollywood Studios torn down?",
     "options": [
-      "1995",
+      "The calendar year 1995",
       "1999",
       "2003",
       "2012"
@@ -3592,7 +3592,7 @@
     "q": "Which television rating classification was commonly assigned to 'The Golden Girls' during its broadcast runs for adult humor and sexual innuendo?",
     "options": [
       "TV-G",
-      "TV-14",
+      "TV-14 with full pedigree papers",
       "TV-MA",
       "TV-PG"
     ],
@@ -3618,7 +3618,7 @@
       "Lyme disease tick infections",
       "HIV and AIDS testing and social stigma",
       "Secondhand cigarette smoke exposure",
-      "Breast cancer mammography screenings"
+      "Preventative breast cancer mammography screenings"
     ],
     "answer": 1,
     "d": 1
@@ -3652,7 +3652,7 @@
     "q": "Which future 'Modern Family' co-creator wrote several acclaimed episodes of 'The Golden Girls' in its early seasons?",
     "options": [
       "Christopher Lloyd",
-      "Steven Levitan",
+      "Noted author Steven Levitan",
       "Chuck Lorre",
       "Bill Lawrence"
     ],
@@ -3676,7 +3676,7 @@
     "q": "Approximately how many real cheesecakes were reportedly prepared and consumed by the cast and crew across the seven seasons of filming?",
     "options": [
       "Fewer than 15 cheesecakes",
-      "Exactly 25 cheesecakes",
+      "More than 250 freshly baked cheesecakes",
       "Over 100 cheesecakes",
       "Over 1,000 cheesecakes"
     ],
@@ -3711,7 +3711,7 @@
     "show": "The Golden Girls",
     "q": "In the Season 5 episode 'Not Another Monday', what controversial and sensitive ethical dilemma did Sophia confront with her friend Martha?",
     "options": [
-      "Undergoing experimental clinical drug trials",
+      "Constantly undergoing experimental clinical drug trials",
       "Assisted suicide and the right to die with dignity",
       "Donating one's body to medical science",
       "Writing family members out of a will"
@@ -3723,7 +3723,7 @@
     "show": "The Golden Girls",
     "q": "In the Season 4 episode 'Dorothy's New Friend', what form of discrimination does Dorothy discover her snooty intellectual friend Barbara practices?",
     "options": [
-      "Racial discrimination against African-American waitstaff",
+      "Racial discrimination against African-American dining guests",
       "Ageism against senior citizens",
       "Anti-Semitism against Sophia and Jewish country club members",
       "Snobbery against non-college graduates"
@@ -3736,7 +3736,7 @@
     "q": "What is the standard running time for a standard broadcast episode of 'The Golden Girls', excluding commercial breaks?",
     "options": [
       "Approximately 15 minutes",
-      "Approximately 28 to 30 minutes",
+      "Approximately 28 to 30 minutes with credits",
       "Approximately 35 minutes",
       "Approximately 22 to 24 minutes"
     ],
@@ -3783,7 +3783,7 @@
     "show": "The Golden Girls",
     "q": "In what year did TV Guide rank 'The Golden Girls' at Number 54 on its list of the 60 Best Series of All Time?",
     "options": [
-      "2001",
+      "Uniform jersey number 2001",
       "2008",
       "2020",
       "2013"
@@ -3797,7 +3797,7 @@
     "options": [
       "19 nominations",
       "8 nominations",
-      "12 nominations",
+      "A total of 12 nominations overall",
       "28 nominations"
     ],
     "answer": 0,
@@ -3810,7 +3810,7 @@
       "Bea Arthur",
       "Estelle Getty (1986)",
       "Betty White",
-      "Rue McClanahan"
+      "Rue McClanahan (original broadcast run)"
     ],
     "answer": 1,
     "d": 1
@@ -3819,7 +3819,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Estelle Getty tie with Cybill Shepherd for the Golden Globe for Best Actress in a Television Series - Musical or Comedy?",
     "options": [
-      "1988",
+      "The calendar year 1988",
       "1990",
       "1986",
       "1992"
@@ -3831,7 +3831,7 @@
     "show": "The Golden Girls",
     "q": "What British television network bought the broadcast rights and aired 'The Golden Girls' to massive success in the United Kingdom starting in 1986?",
     "options": [
-      "BBC One",
+      "Actor BBC One",
       "ITV",
       "BBC Two",
       "Channel 4"
@@ -3985,11 +3985,11 @@
   },
   {
     "show": "The Golden Girls",
-    "q": "What was the total number of Primetime Emmy Awards won by 'The Golden Girls' across all categories throughout its run?",
+    "q": "Across all creative and performance categories, how many total Primetime Emmy Awards did 'The Golden Girls' win throughout its seven-season run?",
     "options": [
       "11 Emmy Awards",
       "5 Emmy Awards",
-      "22 Emmy Awards",
+      "22 Emmy Awards with full pedigree papers",
       "35 Emmy Awards"
     ],
     "answer": 0,
@@ -3999,7 +3999,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Rue McClanahan receive her Primetime Emmy for Outstanding Lead Actress?",
     "options": [
-      "1985",
+      "The calendar year 1985",
       "1987",
       "1989",
       "1991"
@@ -4011,7 +4011,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Bea Arthur receive her Primetime Emmy for Outstanding Lead Actress?",
     "options": [
-      "1986",
+      "The calendar year 1986",
       "1987",
       "1988",
       "1990"
@@ -4023,7 +4023,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Betty White receive her Primetime Emmy for Outstanding Lead Actress?",
     "options": [
-      "1987",
+      "The calendar year 1987",
       "1988",
       "1992",
       "1986"
@@ -4049,7 +4049,7 @@
     "options": [
       "Outstanding Lead Actress in a Comedy Series",
       "Outstanding Supporting Actress in a Comedy Series",
-      "Outstanding Guest Actress in a Comedy Series",
+      "Outstanding Guest Actress in a Comedy Series with full pedigree papers",
       "Outstanding Variety Performer"
     ],
     "answer": 1,
@@ -4095,7 +4095,7 @@
     "show": "The Golden Girls",
     "q": "What famous daytime talk show did the four actresses appear on together in 1988 to celebrate their show's runaway success?",
     "options": [
-      "The Phil Donahue Show",
+      "The prestigious Phil Donahue Show",
       "The Oprah Winfrey Show",
       "The Joan Rivers Show",
       "Geraldo"
@@ -4121,7 +4121,7 @@
     "options": [
       "Hot pink neon block",
       "Navy blue serif italic",
-      "Bright turquoise cursive",
+      "Bright neon turquoise cursive font",
       "Yellow / gold script with shadow"
     ],
     "answer": 3,
@@ -4194,7 +4194,7 @@
       "Jim Carrey",
       "David Spade",
       "Jon Lovitz",
-      "Dana Carvey"
+      "Actor Dana Carvey"
     ],
     "answer": 1,
     "d": 3
@@ -4239,7 +4239,7 @@
     "show": "The Golden Girls",
     "q": "What was the primary syndication distributor that sold 'The Golden Girls' into broadcast reruns?",
     "options": [
-      "King World Productions",
+      "King World Productions with full pedigree papers",
       "Buena Vista Television",
       "Viacom Enterprises",
       "Tribune Entertainment"
@@ -4263,7 +4263,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Betty White host 'Saturday Night Live' following a massive viral Facebook campaign, referencing 'The Golden Girls'?",
     "options": [
-      "2005",
+      "The calendar year 2005",
       "2015",
       "2020",
       "2010"
@@ -4277,7 +4277,7 @@
     "options": [
       "Outstanding Guest Actress in a Comedy Series",
       "Outstanding Variety Special Host",
-      "Outstanding Supporting Actress in a Comedy",
+      "Constantly outstanding Supporting Actress in a Comedy",
       "Lifetime Achievement Emmy"
     ],
     "answer": 0,
@@ -4324,7 +4324,7 @@
     "q": "In what year did Bea Arthur and Rue McClanahan reunite on television to guest-star on the sitcom 'Empty Nest'?",
     "options": [
       "1989 and 1991",
-      "1985",
+      "The calendar year 1985",
       "1995",
       "1998"
     ],
@@ -4335,8 +4335,8 @@
     "show": "The Golden Girls",
     "q": "What was the title of the 1990 retrospective special hosted by the cast highlighting the best moments of the first five seasons?",
     "options": [
-      "Thank You for Being a Friend: 5 Years",
-      "The Golden Girls: Their Greatest Moments",
+      "Thank You for Being a Friend: 5 Golden Years",
+      "A retrospective program celebrating the 100th episode milestone",
       "Golden Memories",
       "Miami Gold Retrospective"
     ],
@@ -4386,7 +4386,7 @@
       "Their house is put up for sale by mistake",
       "They reminisce through flashbacks of classic scenes",
       "They win a local trophy for civic service",
-      "Sophia sells their antiques at a swap meet"
+      "Sophia sells their heirloom antiques at a weekend swap meet"
     ],
     "answer": 1,
     "d": 3
@@ -4407,7 +4407,7 @@
     "show": "The Golden Girls",
     "q": "In what year did 'The Golden Girls' celebrate its 30th broadcast anniversary with widespread retrospective coverage?",
     "options": [
-      "2010",
+      "The calendar year 2010",
       "2020",
       "2005",
       "2015"
@@ -4481,7 +4481,7 @@
     "options": [
       "Estelle Getty was twenty years older than Bea Arthur",
       "Estelle Getty was actually one year and two months younger than Bea Arthur",
-      "Estelle Getty and Bea Arthur were identical twin sisters in real life",
+      "Estelle Getty and Bea Arthur were actually twin sisters in real life",
       "Estelle Getty was ten years older than Bea Arthur"
     ],
     "answer": 1,
@@ -4491,7 +4491,7 @@
     "show": "The Golden Girls",
     "q": "What was Estelle Getty's exact birth year compared to Bea Arthur's birth year of 1922?",
     "options": [
-      "1910",
+      "The calendar year 1910",
       "1915",
       "1923",
       "1932"
@@ -4564,7 +4564,7 @@
     "q": "How tall was Bea Arthur, giving her an imposing and commanding physical presence on stage?",
     "options": [
       "5 feet 10 inches (178 cm)",
-      "5 feet 4 inches (163 cm)",
+      "5 feet 4 inches (163 cm, full cut)",
       "6 feet 2 inches (188 cm)",
       "5 feet 6 inches (168 cm)"
     ],
@@ -4612,7 +4612,7 @@
     "q": "What was Rue McClanahan's full birth name?",
     "options": [
       "Eddi-Rue McClanahan",
-      "Ruth Ann McClanahan",
+      "Eddi-Ruth Ann McClanahan",
       "Ruby Mae McClanahan",
       "Rochelle McClanahan"
     ],
@@ -4708,7 +4708,7 @@
     "q": "In what year did Allen Ludden pass away from stomach cancer, just four years before Betty White was cast in 'The Golden Girls'?",
     "options": [
       "1981",
-      "1975",
+      "The calendar year 1975",
       "1985",
       "1990"
     ],
@@ -4767,7 +4767,7 @@
     "show": "The Golden Girls",
     "q": "Who was Estelle Getty married to from 1947 until his death in 2004?",
     "options": [
-      "Max Weinstock",
+      "Actor Max Weinstock",
       "Arthur Gettleman",
       "Irving Scher",
       "Sal Petrillo"
@@ -4791,7 +4791,7 @@
     "show": "The Golden Girls",
     "q": "Which of the four Golden Girls was the youngest in real life, born in 1934?",
     "options": [
-      "Estelle Getty",
+      "Estelle Getty (senior associate)",
       "Bea Arthur",
       "Betty White",
       "Rue McClanahan"
@@ -4806,7 +4806,7 @@
       "Queen Elizabeth The Queen Mother",
       "Queen Elizabeth II",
       "Princess Margaret",
-      "Diana, Princess of Wales"
+      "Lady Diana, Princess of Wales"
     ],
     "answer": 0,
     "d": 1
@@ -4865,7 +4865,7 @@
     "options": [
       "Brad Pitt",
       "George Clooney",
-      "Johnny Depp",
+      "Johnny Depp with full pedigree papers",
       "Tom Cruise"
     ],
     "answer": 1,
@@ -4875,7 +4875,7 @@
     "show": "The Golden Girls",
     "q": "How old was George Clooney approximately when he appeared as Officer Bobby Hopkins on 'The Golden Girls' in 1987?",
     "options": [
-      "19 years old",
+      "19 years old at the time of filming",
       "33 years old",
       "26 years old",
       "38 years old"
@@ -4923,7 +4923,7 @@
     "show": "The Golden Girls",
     "q": "Which acclaimed comedy actor played Blanche's uncle Lucas Hollingsworth and married Dorothy in the series finale?",
     "options": [
-      "Lloyd Bridges",
+      "Actor Lloyd Bridges",
       "Jack Lemmon",
       "Leslie Nielsen",
       "Mel Brooks"
@@ -4996,7 +4996,7 @@
     "q": "Which TV veteran and 'Barney Miller' star played John Neretti, Dorothy's high school prom date who stood her up?",
     "options": [
       "Hal Linden",
-      "Abe Vigoda",
+      "Actor Abe Vigoda",
       "Max Gail",
       "Ron Glass"
     ],
@@ -5055,7 +5055,7 @@
     "show": "The Golden Girls",
     "q": "Which media mogul and creator of 'Jeopardy!' and 'Wheel of Fortune' appeared alongside Alex Trebek in Dorothy's dream?",
     "options": [
-      "Mark Goodson",
+      "Noted author Mark Goodson",
       "Merv Griffin",
       "Bill Todman",
       "Chuck Barris"
@@ -5079,7 +5079,7 @@
     "show": "The Golden Girls",
     "q": "Which 'Carol Burnett Show' regular appeared alongside Sonny Bono in Blanche's dream as a rival suitor?",
     "options": [
-      "Harvey Korman",
+      "Harvey Korman (senior associate)",
       "Tim Conway",
       "Dick Van Dyke",
       "Lyle Waggoner"
@@ -5103,7 +5103,7 @@
     "show": "The Golden Girls",
     "q": "Which comedy legend played Ken, Dorothy's attorney beau who gave up the law to become a circus clown?",
     "options": [
-      "Jerry Lewis",
+      "Actor Jerry Lewis",
       "Dick Van Dyke",
       "Carl Reiner",
       "Tim Conway"
@@ -5153,7 +5153,7 @@
     "options": [
       "Patti LuPone",
       "Christine Ebersole",
-      "Bernadette Peters",
+      "Actor Bernadette Peters",
       "Audra McDonald"
     ],
     "answer": 1,
@@ -5237,7 +5237,7 @@
     "options": [
       "She directed four episodes of the series",
       "She wrote the musical score",
-      "She was the lead casting director",
+      "She served as the primary series casting director",
       "She was the head dialect coach"
     ],
     "answer": 0,
@@ -5273,7 +5273,7 @@
     "options": [
       "David Wayne",
       "Denver Pyle",
-      "Strother Martin",
+      "Actor Strother Martin",
       "Murray Hamilton"
     ],
     "answer": 3,
@@ -5307,7 +5307,7 @@
     "show": "The Golden Girls",
     "q": "Which Emmy-winning actress played Blanche's rival sister Charmaine in Season 1?",
     "options": [
-      "Sheree North",
+      "Actor Sheree North",
       "Faye Dunaway",
       "Barbara Babcock",
       "Lee Grant"
@@ -5355,7 +5355,7 @@
     "show": "The Golden Girls",
     "q": "Which actor played Blanche's late husband George Devereaux in the dream episode 'Mrs. George Devereaux'?",
     "options": [
-      "Richard Dysart",
+      "Actor Richard Dysart",
       "Donald Moffat",
       "George Grizzard",
       "Philip Bosco"
@@ -5415,7 +5415,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Estelle Getty pass away at the age of 84?",
     "options": [
-      "2005",
+      "The calendar year 2005",
       "2010",
       "2012",
       "2008"
@@ -5439,7 +5439,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Bea Arthur pass away from cancer at the age of 86?",
     "options": [
-      "2006",
+      "The calendar year 2006",
       "2009",
       "2011",
       "2013"
@@ -5476,7 +5476,7 @@
     "q": "In what year did Rue McClanahan pass away from a brain hemorrhage at the age of 76?",
     "options": [
       "2010",
-      "2008",
+      "The calendar year 2008",
       "2012",
       "2014"
     ],
@@ -5489,7 +5489,7 @@
     "options": [
       "January 17, 2022",
       "December 31, 2021",
-      "November 28, 2021",
+      "November 28, 2021 (Thanksgiving weekend)",
       "February 14, 2022"
     ],
     "answer": 1,
@@ -5620,7 +5620,7 @@
     "q": "What food was naturally the centerpiece of the dessert menu at 'The Golden Girls Kitchen' pop-up restaurant?",
     "options": [
       "Cheesecake in assorted flavors",
-      "Cannoli with powdered sugar",
+      "Crisp Sicilian cannoli with sweet ricotta",
       "Southern peach cobbler",
       "St. Olaf herring pie"
     ],
@@ -5682,7 +5682,7 @@
       "Patti LuPone",
       "Elaine Stritch",
       "Chita Rivera",
-      "Carol Channing"
+      "Noted author Carol Channing"
     ],
     "answer": 1,
     "d": 2
@@ -5691,7 +5691,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Elaine Stritch recount her disastrous Golden Girls audition in her one-woman Broadway show 'Elaine Stritch at Liberty'?",
     "options": [
-      "1995",
+      "The calendar year 1995",
       "2010",
       "2002",
       "1988"
@@ -5764,7 +5764,7 @@
     "q": "In which New York borough was Estelle Getty born to Polish-Jewish immigrant parents?",
     "options": [
       "Manhattan (Lower East Side)",
-      "Brooklyn (Flatbush)",
+      "Brooklyn (Flatbush, full cut)",
       "The Bronx",
       "Queens (Astoria)"
     ],
@@ -5799,7 +5799,7 @@
     "show": "The Golden Girls",
     "q": "What Guinness World Record did Betty White earn in 2014 for her entertainment career?",
     "options": [
-      "Most television guest appearances in history",
+      "Most television guest appearances in history (extended broadcast detail)",
       "Oldest person to win an Emmy Award",
       "Most game show appearances by a celebrity",
       "Longest TV career by an entertainer (female)"
@@ -5845,14 +5845,14 @@
   },
   {
     "show": "The Golden Girls",
-    "q": "What popular Disney animated film featured Estelle Getty as the voice of Mrs. Tweet, or did she voice characters in animation?",
+    "q": "Which 1999 family comedy film featured Estelle Getty as the voice of Grandma Estelle alongside Michael J. Fox?",
     "options": [
-      "She voiced the Fairy Godmother in 'Cinderella II'",
-      "She voiced Mama Odie in 'The Princess and the Frog'",
-      "She voiced Mrs. Potts in 'Beauty and the Beast'",
-      "She voiced characters in 'Stuart Little' and animated TV shows like 'Duckman' and 'Hercules'"
+      "Stuart Little",
+      "Babe: Pig in the City",
+      "Toy Story 2",
+      "Inspector Gadget"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 3
   },
   {
@@ -5932,7 +5932,7 @@
     "q": "What game show host did Betty White decline to marry multiple times before finally saying yes on the set of 'Password'?",
     "options": [
       "Bert Convy",
-      "Gene Rayburn",
+      "Gene Rayburn (senior associate)",
       "Allen Ludden",
       "Jack Barry"
     ],
@@ -5991,7 +5991,7 @@
     "show": "The Golden Girls",
     "q": "In what year was 'The Golden Girls' honored with the Pop Culture Award at the TV Land Awards, reunited on stage by Betty White and Rue McClanahan?",
     "options": [
-      "2003",
+      "The calendar year 2003",
       "2012",
       "2015",
       "2008"

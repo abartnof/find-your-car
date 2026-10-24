@@ -5,7 +5,7 @@
     "options": [
       "Norman Bethune",
       "Frederick Banting",
-      "Gerhard Herzberg",
+      "Canadian icon Gerhard Herzberg",
       "David Suzuki"
     ],
     "answer": 1,
@@ -16,11 +16,11 @@
     "q": "What Canadian actor starred as Neo in \"The Matrix\" franchise and John Wick?",
     "options": [
       "Ryan Gosling",
-      "Keanu Reeves",
+      "Christopher Plummer",
       "Ryan Reynolds",
-      "Christopher Plummer"
+      "Keanu Reeves"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -28,23 +28,23 @@
     "q": "Which Canadian singer-songwriter recorded the globally renowned anthem \"Hallelujah\"?",
     "options": [
       "Neil Young",
-      "Leonard Cohen",
       "Gordon Lightfoot",
+      "Leonard Cohen",
       "Joni Mitchell"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the first female Prime Minister of Canada, serving briefly in 1993?",
     "options": [
-      "Kim Campbell",
+      "Flora MacDonald",
       "Agnes Macphail",
       "Nellie McClung",
-      "Flora MacDonald"
+      "Kim Campbell"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -52,7 +52,7 @@
     "q": "Which Canadian hockey legend is widely referred to as \"The Great One\"?",
     "options": [
       "Bobby Orr",
-      "Mario Lemieux",
+      "Hockey star Mario Lemieux",
       "Wayne Gretzky",
       "Gordie Howe"
     ],
@@ -64,11 +64,11 @@
     "q": "What Canadian author wrote the dystopian classic \"The Handmaid's Tale\"?",
     "options": [
       "Alice Munro",
-      "Margaret Atwood",
       "Carol Shields",
+      "Margaret Atwood",
       "Robertson Davies"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -87,12 +87,12 @@
     "show": "Famous Canadians",
     "q": "Born in Ontario, which pop star rose to global fame with the 2010 hit \"Baby\"?",
     "options": [
-      "Shawn Mendes",
       "Justin Bieber",
+      "Actor Shawn Mendes",
       "Drake",
       "The Weeknd"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -111,12 +111,12 @@
     "show": "Famous Canadians",
     "q": "Which Canadian filmmaker directed \"Titanic\", \"Avatar\", and \"The Terminator\"?",
     "options": [
-      "Denis Villeneuve",
-      "David Cronenberg",
       "James Cameron",
+      "David Cronenberg",
+      "Denis Villeneuve",
       "Atom Egoyan"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
@@ -124,23 +124,23 @@
     "q": "What Canadian singer achieved international superstardom with the 1997 album \"Come On Over\"?",
     "options": [
       "Céline Dion",
-      "Shania Twain",
       "Sarah McLachlan",
+      "Shania Twain",
       "Alanis Morissette"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian engineer introduced worldwide Standard Time zones in the late 19th century?",
     "options": [
-      "Sandford Fleming",
+      "Alexander Graham Bell",
       "Reginald Fessenden",
       "Joseph-Armand Bombardier",
-      "Alexander Graham Bell"
+      "Sandford Fleming"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -148,11 +148,11 @@
     "q": "Who portrayed Deadpool in the Marvel Cinematic Universe and co-owns Wrexham AFC?",
     "options": [
       "Ryan Gosling",
-      "Ryan Reynolds",
       "Seth Rogen",
+      "Ryan Reynolds",
       "Nathan Fillion"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -171,36 +171,36 @@
     "show": "Famous Canadians",
     "q": "What Canadian runner gained worldwide admiration during his 1980 \"Marathon of Hope\"?",
     "options": [
-      "Terry Fox",
+      "Andre De Grasse",
       "Rick Hansen",
       "Donovan Bailey",
-      "Andre De Grasse"
+      "Terry Fox"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian rapper and singer, born Aubrey Graham, starred on \"Degrassi: The Next Generation\"?",
     "options": [
-      "Drake",
+      "PartyNextDoor",
       "Tory Lanez",
       "Nav",
-      "PartyNextDoor"
+      "Drake"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Who served as Canada's Prime Minister through most of the 1970s and repatriated the Constitution in 1982?",
     "options": [
-      "Lester B. Pearson",
       "Pierre Trudeau",
+      "Lester B. Pearson",
       "Brian Mulroney",
       "Jean Chrétien"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -208,23 +208,23 @@
     "q": "What Canadian comedian starred in \"Ace Ventura\", \"The Mask\", and \"The Truman Show\"?",
     "options": [
       "Mike Myers",
-      "Jim Carrey",
       "John Candy",
+      "Jim Carrey",
       "Dan Aykroyd"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian astronaut became a global sensation for singing David Bowie's \"Space Oddity\" aboard the ISS?",
     "options": [
-      "Marc Garneau",
       "Chris Hadfield",
+      "Marc Garneau",
       "Roberta Bondar",
       "David Saint-Jacques"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -243,48 +243,48 @@
     "show": "Famous Canadians",
     "q": "What Canadian won the 1997 Formula One World Championship?",
     "options": [
-      "Gilles Villeneuve",
-      "Jacques Villeneuve",
+      "Canadian icon Gilles Villeneuve",
+      "Paul Tracy",
       "Lance Stroll",
-      "Paul Tracy"
-    ],
-    "answer": 1,
-    "d": 1
-  },
-  {
-    "show": "Famous Canadians",
-    "q": "Which Canadian painter belonged to the Group of Seven and captured northern Ontario's landscapes?",
-    "options": [
-      "Tom Thomson",
-      "A.Y. Jackson",
-      "Emily Carr",
-      "Lawren Harris"
+      "Jacques Villeneuve"
     ],
     "answer": 3,
     "d": 1
   },
   {
     "show": "Famous Canadians",
+    "q": "Which Canadian painter belonged to the Group of Seven and captured northern Ontario's landscapes?",
+    "options": [
+      "Lawren Harris",
+      "Alexander Y. Jackson",
+      "Emily Carr",
+      "Tom Thomson"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Famous Canadians",
     "q": "Who was Canada’s first female Member of Parliament, elected in 1921?",
     "options": [
-      "Nellie McClung",
       "Agnes Macphail",
+      "Nellie McClung",
       "Emily Murphy",
       "Thérèse Casgrain"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Which singer from Charlemagne, Quebec sang \"My Heart Will Go On\" for the film \"Titanic\"?",
     "options": [
-      "Céline Dion",
-      "Ginette Reno",
       "Isabelle Boulay",
+      "Ginette Reno",
+      "Céline Dion",
       "Mitsou"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -292,23 +292,23 @@
     "q": "What Canadian inventor developed the snowmobile in Valcourt, Quebec?",
     "options": [
       "Bombardier",
-      "Joseph-Armand Bombardier",
+      "Arthur Sicard",
       "Armand Bombardier",
-      "Arthur Sicard"
+      "Joseph-Armand Bombardier"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian actor won five Emmy Awards for his role as Alex P. Keaton and starred in \"Back to the Future\"?",
     "options": [
-      "Michael J. Fox",
+      "Eugene Levy",
       "Martin Short",
       "Rick Moranis",
-      "Eugene Levy"
+      "Michael J. Fox"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -327,24 +327,24 @@
     "show": "Famous Canadians",
     "q": "Which Canadian singer-songwriter composed folk-rock classics like \"Sundown\" and \"The Wreck of the Edmund Fitzgerald\"?",
     "options": [
-      "Gordon Lightfoot",
-      "Neil Young",
       "Bruce Cockburn",
+      "Neil Young",
+      "Gordon Lightfoot",
       "Stan Rogers"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Who became the first Canadian woman to travel into space in 1992?",
     "options": [
-      "Julie Payette",
       "Roberta Bondar",
+      "Julie Payette",
       "Jenni Sidey-Gibbons",
       "Maryse Carmichael"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -352,11 +352,11 @@
     "q": "What Canadian media theorist coined the phrases \"the medium is the message\" and \"global village\"?",
     "options": [
       "Northrop Frye",
-      "Marshall McLuhan",
+      "George Grant",
       "Harold Innis",
-      "George Grant"
+      "Marshall McLuhan"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -364,7 +364,7 @@
     "q": "Which Canadian won the Nobel Peace Prize in 1957 for organizing the first UN peacekeeping force?",
     "options": [
       "Lester B. Pearson",
-      "John Diefenbaker",
+      "Canadian icon John Diefenbaker",
       "Mackenzie King",
       "Arthur Meighen"
     ],
@@ -375,12 +375,12 @@
     "show": "Famous Canadians",
     "q": "What Canadian actor and comedian played Austin Powers, Dr. Evil, and Wayne Campbell?",
     "options": [
-      "Mike Myers",
-      "Dana Carvey",
       "Will Arnett",
+      "Dana Carvey",
+      "Mike Myers",
       "Dave Foley"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -399,24 +399,24 @@
     "show": "Famous Canadians",
     "q": "Which Canadian won the Academy Award for Best Actor in 2011 for \"Beginners\" at age 82?",
     "options": [
-      "Donald Sutherland",
       "Christopher Plummer",
+      "Donald Sutherland",
       "William Shatner",
       "Leslie Nielsen"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Who is the Toronto-born R&B/pop superstar whose real name is Abel Tesfaye?",
     "options": [
-      "The Weeknd",
+      "Majid Jordan",
       "Drake",
       "PARTYNEXTDOOR",
-      "Majid Jordan"
+      "The Weeknd"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -435,24 +435,24 @@
     "show": "Famous Canadians",
     "q": "What Canadian comedian starred in \"Uncle Buck\", \"Planes, Trains and Automobiles\", and \"Cool Runnings\"?",
     "options": [
-      "John Candy",
       "Dan Aykroyd",
+      "John Candy",
       "Chris Farley",
       "Eugene Levy"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian medical doctor became a national hero in China for treating soldiers during the Second Sino-Japanese War?",
     "options": [
-      "Norman Bethune",
+      "William Osler",
       "Frederick Banting",
       "Charles Best",
-      "William Osler"
+      "Norman Bethune"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -460,7 +460,7 @@
     "q": "Who portrayed Captain James T. Kirk in the original \"Star Trek\" television series?",
     "options": [
       "William Shatner",
-      "Patrick Stewart",
+      "Actor Patrick Stewart",
       "Leonard Nimoy",
       "DeForest Kelley"
     ],
@@ -471,36 +471,36 @@
     "show": "Famous Canadians",
     "q": "What Canadian sprinter set a world record of 9.84 seconds to win 100m gold at the 1996 Atlanta Olympics?",
     "options": [
-      "Donovan Bailey",
+      "Bruny Surin",
       "Ben Johnson",
       "Andre De Grasse",
-      "Bruny Surin"
+      "Donovan Bailey"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian singer released the critically acclaimed 1971 album \"Blue\"?",
     "options": [
-      "Joni Mitchell",
+      "k.d. lang",
       "Buffy Sainte-Marie",
       "Anne Murray",
-      "k.d. lang"
+      "Joni Mitchell"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Who served as Canada's longest-serving Prime Minister, totaling over 21 years in office?",
     "options": [
-      "William Lyon Mackenzie King",
       "Sir Wilfrid Laurier",
+      "William Lyon Mackenzie King",
       "Pierre Trudeau",
       "Sir John A. Macdonald"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -508,143 +508,143 @@
     "q": "Which Canadian architect designed the Canadian Museum of History and the National Museum of the American Indian in Washington, D.C.?",
     "options": [
       "Douglas Cardinal",
-      "Arthur Erickson",
+      "Canadian icon Arthur Erickson",
       "Frank Gehry",
       "Moshe Safdie"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian-born star co-founded United Artists and was known as \"America's Sweetheart\" during the silent film era?",
     "options": [
-      "Mary Pickford",
-      "Norma Shearer",
       "Marie Dressler",
+      "Norma Shearer",
+      "Mary Pickford",
       "Fay Wray"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian environmentalist hosted CBC's long-running science series \"The Nature of Things\"?",
     "options": [
-      "David Suzuki",
+      "Severn Cullis-Suzuki",
       "Bob McDonald",
       "Farley Mowat",
-      "Severn Cullis-Suzuki"
+      "David Suzuki"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian singer recorded the iconic 1995 album \"Jagged Little Pill\"?",
     "options": [
-      "Alanis Morissette",
       "Avril Lavigne",
+      "Alanis Morissette",
       "Sarah McLachlan",
-      "Chantal Kreviazuk"
+      "Recording artist Chantal Kreviazuk"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Which hockey player scored the iconic Stanley Cup-winning \"flying goal\" in 1970 for Boston?",
     "options": [
-      "Bobby Orr",
-      "Phil Esposito",
       "Gordie Howe",
+      "Phil Esposito",
+      "Bobby Orr",
       "Jean Béliveau"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Who wrote the haunting World War I poem \"In Flanders Fields\"?",
     "options": [
-      "John McCrae",
-      "Robert Service",
       "Bliss Carman",
+      "Robert Service",
+      "John McCrae",
       "Wilfred Owen"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian entrepreneur co-founded Cirque du Soleil in Baie-Saint-Paul, Quebec?",
     "options": [
+      "Canadian icon Robert Lepage",
       "Guy Laliberté",
-      "Robert Lepage",
       "René Angélil",
       "Céline Dion"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian actor starred in \"La La Land\", \"Drive\", and \"The Notebook\"?",
     "options": [
-      "Ryan Gosling",
-      "Ryan Reynolds",
       "Hayden Christensen",
+      "Ryan Reynolds",
+      "Ryan Gosling",
       "Taylor Kitsch"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the celebrated artist from Victoria, BC famous for painting West Coast Indigenous totem poles and lush forests?",
     "options": [
-      "Emily Carr",
-      "Lawren Harris",
       "Maud Lewis",
+      "Lawren Harris",
+      "Emily Carr",
       "Kenojuak Ashevak"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian neurosurgeon developed the \"Montreal procedure\" to treat severe epilepsy?",
     "options": [
-      "Wilder Penfield",
       "William Osler",
+      "Wilder Penfield",
       "Charles Best",
       "Norman Bethune"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the first Canadian to travel into outer space in 1984?",
     "options": [
-      "Marc Garneau",
-      "Chris Hadfield",
       "Steve MacLean",
+      "Chris Hadfield",
+      "Marc Garneau",
       "Bjarni Tryggvason"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian singer-songwriter was inducted into the Rock and Roll Hall of Fame twice, both solo and with Buffalo Springfield?",
     "options": [
-      "Neil Young",
-      "Robbie Robertson",
       "Randy Bachman",
+      "Robbie Robertson",
+      "Neil Young",
       "Bryan Adams"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -652,7 +652,7 @@
     "q": "Which Canadian filmmaker directed \"Arrival\", \"Blade Runner 2049\", and the \"Dune\" film series?",
     "options": [
       "Denis Villeneuve",
-      "Jean-Marc Vallée",
+      "Jean-Marc Vallée of Canada",
       "David Cronenberg",
       "Xavier Dolan"
     ],
@@ -675,25 +675,25 @@
     "show": "Famous Canadians",
     "q": "Which Canadian figure skater won back-to-back Olympic silver medals in 1984 and 1988, dubbed \"the Battle of the Brians\"?",
     "options": [
-      "Brian Orser",
+      "Elvis Stojko",
       "Brian Boitano",
       "Kurt Browning",
-      "Elvis Stojko"
+      "Brian Orser"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian comedian and writer created and starred in \"Schitt's Creek\" alongside his son Dan Levy?",
     "options": [
-      "Eugene Levy",
+      "Rick Moranis",
       "Catherine O'Hara",
       "Martin Short",
-      "Rick Moranis"
+      "Eugene Levy"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -705,31 +705,31 @@
       "Henrietta Muir Edwards"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian musician had major worldwide rock hits with \"(Everything I Do) I Do It for You\" and \"Summer of '69\"?",
     "options": [
-      "Bryan Adams",
       "Corey Hart",
+      "Bryan Adams",
       "Tom Cochrane",
       "Colin James"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian businessman and \"Dragon\" on Dragon's Den founded SoftKey and became known as \"Mr. Wonderful\" on Shark Tank?",
     "options": [
-      "Kevin O'Leary",
-      "Robert Herjavec",
       "Arlene Dickinson",
+      "Robert Herjavec",
+      "Kevin O'Leary",
       "Jim Treliving"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -741,67 +741,67 @@
       "Mary Simon"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the first Inuk to be appointed Governor General of Canada in 2021?",
     "options": [
-      "Mary Simon",
+      "Leona Aglukkaq",
       "Sheila Watt-Cloutier",
       "Eva Aariak",
-      "Leona Aglukkaq"
+      "Mary Simon"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian actor played Chandler Bing's eccentric rival, or rather starred in \"The Naked Gun\" and \"Airplane!\"?",
     "options": [
-      "Leslie Nielsen",
+      "Lloyd Bochner",
       "Christopher Plummer",
       "Donald Sutherland",
-      "Lloyd Bochner"
+      "Leslie Nielsen"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian tennis player won the 2019 US Open Women's Singles title defeating Serena Williams?",
     "options": [
-      "Bianca Andreescu",
-      "Eugenie Bouchard",
       "Leylah Fernandez",
+      "Eugenie Bouchard",
+      "Bianca Andreescu",
       "Gabriela Dabrowski"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who wrote the bestselling 2001 novel \"Life of Pi\", which won the Man Booker Prize?",
     "options": [
-      "Yann Martel",
       "Michael Ondaatje",
+      "Yann Martel",
       "Rohinton Mistry",
       "Austin Clarke"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian voice pioneer sent the first wireless voice and music transmission on Christmas Eve, 1906?",
     "options": [
-      "Reginald Fessenden",
-      "Alexander Graham Bell",
       "Guglielmo Marconi",
+      "Alexander Graham Bell",
+      "Reginald Fessenden",
       "Thomas Ahearn"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -813,7 +813,7 @@
       "Raymond Moriyama"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -825,199 +825,199 @@
       "Carly Rae Jepsen"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the charismatic leader of the federal New Democratic Party (NDP) who led them to Official Opposition status in 2011?",
     "options": [
-      "Jack Layton",
+      "Jagmeet Singh",
       "Tommy Douglas",
       "Ed Broadbent",
-      "Jagmeet Singh"
+      "Jack Layton"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian politician from Saskatchewan is widely revered as the \"Father of Medicare\"?",
     "options": [
-      "Tommy Douglas",
-      "John Diefenbaker",
       "Allan Blakeney",
+      "John Diefenbaker",
+      "Tommy Douglas",
       "Woodrow Lloyd"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian actor portrayed Hawkeye Pierce in the film \"M*A*S*H\" and President Snow in \"The Hunger Games\"?",
     "options": [
-      "Donald Sutherland",
+      "Gordon Pinsent",
       "Kiefer Sutherland",
       "Christopher Plummer",
-      "Gordon Pinsent"
+      "Donald Sutherland"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian soccer icon holds the world record for the most international goals scored by any soccer player (male or female)?",
     "options": [
-      "Christine Sinclair",
       "Charmaine Hooper",
+      "Christine Sinclair",
       "Diana Matheson",
       "Janine Beckie"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who wrote the internationally acclaimed novel \"The English Patient\", adapted into an Oscar-winning film?",
     "options": [
+      "Author Robertson Davies",
       "Michael Ondaatje",
-      "Robertson Davies",
       "Timothy Findley",
       "Mordecai Richler"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian singer recorded the infectious viral hit \"Call Me Maybe\" in 2011?",
     "options": [
-      "Carly Rae Jepsen",
+      "Lights",
       "Alessia Cara",
       "Nelly Furtado",
-      "Lights"
+      "Carly Rae Jepsen"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian paleontologist and geologist led expeditions discovering remarkable fossils in the Burgess Shale?",
     "options": [
-      "Charles Doolittle Walcott",
       "Joseph Burr Tyrrell",
+      "Charles Doolittle Walcott",
       "Alice Wilson",
       "Lawrence Lambe"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian actress won an Emmy for portraying Moira Rose in \"Schitt's Creek\" and starred in \"Home Alone\"?",
     "options": [
-      "Catherine O'Hara",
-      "Andrea Martin",
       "Mary Walsh",
+      "Andrea Martin",
+      "Catherine O'Hara",
       "Sandra Oh"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian athlete pushed his wheelchair around the world on the \"Man in Motion\" tour from 1985 to 1987?",
     "options": [
-      "Rick Hansen",
       "Terry Fox",
+      "Rick Hansen",
       "Chantal Petitclerc",
       "Jeff Adams"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Montreal-born author wrote satirical novels about Montreal Jewish life such as \"The Apprenticeship of Duddy Kravitz\"?",
     "options": [
-      "Mordecai Richler",
       "Irving Layton",
-      "A.M. Klein",
+      "Mordecai Richler",
+      "Author Abraham M. Klein",
       "Leonard Cohen"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who was Canada’s first French-Canadian Prime Minister, serving from 1896 to 1911?",
     "options": [
-      "Sir Wilfrid Laurier",
+      "Henri Bourassa",
       "Louis St. Laurent",
       "Sir Georges-Étienne Cartier",
-      "Henri Bourassa"
+      "Sir Wilfrid Laurier"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian rock trio, featuring Geddy Lee, Alex Lifeson, and Neil Peart, is renowned for songs like \"Tom Sawyer\"?",
     "options": [
-      "Rush",
       "Triumph",
+      "Rush",
       "The Guess Who",
       "Bachman-Turner Overdrive"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian actress starred as Cristina Yang on \"Grey's Anatomy\" and Eve Polastri on \"Killing Eve\"?",
     "options": [
-      "Sandra Oh",
-      "Cobie Smulders",
       "Evangeline Lilly",
+      "Cobie Smulders",
+      "Sandra Oh",
       "Tatiana Maslany"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who founded the athletic apparel company Lululemon Athletica in Vancouver in 1998?",
     "options": [
-      "Chip Wilson",
-      "Joe Mimran",
       "Brett Wilson",
+      "Joe Mimran",
+      "Chip Wilson",
       "Galen Weston"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian track and field athlete won gold in the 200m at the 2020 Tokyo Olympics?",
     "options": [
-      "Andre De Grasse",
-      "Donovan Bailey",
       "Damian Warner",
+      "Donovan Bailey",
+      "Andre De Grasse",
       "Aaron Brown"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian folk singer wrote and performed the maritime anthem \"Barrett's Privateers\"?",
     "options": [
-      "Stan Rogers",
-      "Stompin' Tom Connors",
       "David Francey",
+      "Stompin' Tom Connors",
+      "Stan Rogers",
       "Bruce Cockburn"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1029,7 +1029,7 @@
       "Mackenzie King"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1041,115 +1041,115 @@
       "Willard Boyle"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian comedian starred in \"Superbad\", \"Knocked Up\", and co-wrote \"Pineapple Express\"?",
     "options": [
-      "Seth Rogen",
-      "Jay Baruchel",
       "Michael Cera",
+      "Jay Baruchel",
+      "Seth Rogen",
       "Jonah Hill"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian pianist gained legendary fame for his eccentric habits and revolutionary 1955 recording of Bach's \"Goldberg Variations\"?",
     "options": [
-      "Glenn Gould",
-      "Oscar Peterson",
       "Louis Lortie",
+      "Oscar Peterson",
+      "Glenn Gould",
       "Marc-André Hamelin"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the Mohawk chief, statesman, and British military officer during the American Revolution?",
     "options": [
-      "Joseph Brant (Thayendanegea)",
+      "Crowfoot",
       "Tecumseh",
       "Pontiac",
-      "Crowfoot"
+      "Joseph Brant (Thayendanegea)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Emmy-winning Canadian actress played Sarah Manning and numerous other clones in BBC America's sci-fi thriller series 'Orphan Black'?",
     "options": [
-      "Tatiana Maslany",
       "Sarah Gadon",
+      "Tatiana Maslany",
       "Emily VanCamp",
       "Rachel McAdams"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian author wrote the humorous semi-autobiographical sketches collected in \"Sunshine Sketches of a Little Town\"?",
     "options": [
-      "Stephen Leacock",
       "Farley Mowat",
+      "Stephen Leacock",
       "W.O. Mitchell",
       "Thomas Chandler Haliburton"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian speed skater won six Olympic medals, including gold in 2006, and also competed as an Olympic cyclist?",
     "options": [
-      "Clara Hughes",
-      "Cindy Klassen",
       "Catriona Le May Doan",
+      "Cindy Klassen",
+      "Clara Hughes",
       "Gaétan Boucher"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian artist from Nova Scotia was known for her vibrant, cheerful folk paintings despite living with severe arthritis?",
     "options": [
-      "Maud Lewis",
-      "Emily Carr",
       "Pitseolak Ashoona",
+      "Emily Carr",
+      "Maud Lewis",
       "Mary Pratt"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian industrialist and newspaper baron controlled Britain's Beaverbrook newspapers and served in Churchill’s war cabinet?",
     "options": [
-      "Lord Beaverbrook (Max Aitken)",
+      "Kenneth Thomson",
       "Roy Thomson",
       "Conrad Black",
-      "Kenneth Thomson"
+      "Lord Beaverbrook (Max Aitken)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the leader of the Shawnee confederacy who allied with British forces under Isaac Brock during the War of 1812?",
     "options": [
-      "Tecumseh",
       "Pontiac",
+      "Tecumseh",
       "Black Hawk",
       "Joseph Brant"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1161,55 +1161,55 @@
       "Richard Manuel"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian woman was an unsung pioneer of computer animation and co-developed IMAX?",
     "options": [
       "Graeme Ferguson",
-      "Roman Kroitor",
+      "Evelyn Lambart",
       "Colin Low",
-      "Evelyn Lambart"
+      "Roman Kroitor"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian film star played Regina George in \"Mean Girls\" and starred in \"The Notebook\"?",
     "options": [
-      "Rachel McAdams",
-      "Amanda Seyfried",
       "Elisha Cuthbert",
+      "Amanda Seyfried",
+      "Rachel McAdams",
       "Evangeline Lilly"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who was Canada’s Prime Minister who introduced the Canadian Bill of Rights in 1960 and extended the vote to all Indigenous peoples?",
     "options": [
-      "John Diefenbaker",
       "Louis St. Laurent",
+      "John Diefenbaker",
       "Lester B. Pearson",
       "Joe Clark"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian business leader created Research In Motion (RIM) and launched the BlackBerry smartphone?",
     "options": [
-      "Mike Lazaridis",
+      "Michael Cowpland",
       "Jim Balsillie",
       "Terry Matthews",
-      "Michael Cowpland"
+      "Mike Lazaridis"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1221,7 +1221,7 @@
       "Al Purdy"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1233,115 +1233,115 @@
       "Jason Bay"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian comic actor starred as Jack Bauer in the hit thriller series \"24\"?",
     "options": [
-      "Kiefer Sutherland",
-      "Donald Sutherland",
+      "Roy Dupuis",
+      "Actor Donald Sutherland",
       "Barry Pepper",
-      "Roy Dupuis"
+      "Kiefer Sutherland"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the pioneer nurse and lay healer known as the founder of the Hôtel-Dieu de Montréal in 1645?",
     "options": [
-      "Jeanne Mance",
       "Marguerite Bourgeoys",
+      "Jeanne Mance",
       "Kateri Tekakwitha",
       "Marie de l'Incarnation"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian singer from Victoria, BC broke out internationally with \"I'm Like a Bird\" and \"Promiscuous\"?",
     "options": [
-      "Nelly Furtado",
       "Sarah McLachlan",
+      "Nelly Furtado",
       "Alessia Cara",
       "Feist"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian figure skater became the first person to land a ratified quadruple jump in competition in 1988?",
     "options": [
-      "Kurt Browning",
-      "Elvis Stojko",
       "Patrick Chan",
+      "Elvis Stojko",
+      "Kurt Browning",
       "Brian Orser"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian director made distinctive body-horror and sci-fi films including \"The Fly\", \"Videodrome\", and \"Scanners\"?",
     "options": [
-      "David Cronenberg",
-      "Guy Maddin",
       "Atom Egoyan",
+      "Guy Maddin",
+      "David Cronenberg",
       "Deepa Mehta"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the prominent Black Canadian publisher, lawyer, and abolitionist who edited \"The Provincial Freeman\"?",
     "options": [
-      "Mary Ann Shadd Cary",
+      "Addie Aylestock",
       "Viola Desmond",
       "Carrie Best",
-      "Addie Aylestock"
+      "Mary Ann Shadd Cary"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian civil rights icon was featured on the Canadian $10 bill for challenging racial segregation in a New Glasgow cinema in 1946?",
     "options": [
-      "Viola Desmond",
-      "Mary Ann Shadd",
       "Rose Fortune",
+      "Mary Ann Shadd",
+      "Viola Desmond",
       "Lincoln Alexander"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Who was Canada’s first Black Member of Parliament and later the Lieutenant Governor of Ontario?",
     "options": [
-      "Lincoln Alexander",
+      "Jean Augustine",
       "Howard McCurdy",
       "Alvin Curling",
-      "Jean Augustine"
+      "Lincoln Alexander"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian comedian starred in \"Saturday Night Live\", \"Ghostbusters\", and \"The Blues Brothers\"?",
     "options": [
-      "Dan Aykroyd",
-      "John Candy",
       "Rick Moranis",
+      "John Candy",
+      "Dan Aykroyd",
       "Phil Hartman"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1353,7 +1353,7 @@
       "Wilder Penfield"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1365,67 +1365,67 @@
       "Ernest Thompson Seton"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian singer had a massive hit with \"Snowbird\" in 1970, becoming the first Canadian female solo artist to top the US charts?",
     "options": [
-      "Anne Murray",
+      "Rita MacNeil",
       "Buffy Sainte-Marie",
       "Sylvia Tyson",
-      "Rita MacNeil"
+      "Anne Murray"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian philosopher and political theorist wrote \"Sources of the Self\" and won the Templeton Prize?",
     "options": [
-      "Charles Taylor",
-      "George Grant",
       "Will Kymlicka",
+      "George Grant",
+      "Charles Taylor",
       "John Ralston Saul"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian actor starred in \"Juno\", \"Inception\", and \"The Umbrella Academy\"?",
     "options": [
-      "Elliot Page",
-      "Michael Cera",
       "Finn Wolfhard",
+      "Michael Cera",
+      "Elliot Page",
       "Joshua Jackson"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the Quebec Premier who led the Quiet Revolution in the 1960s under the slogan \"Maîtres chez nous\"?",
     "options": [
-      "Jean Lesage",
-      "Maurice Duplessis",
       "René Lévesque",
+      "Maurice Duplessis",
+      "Jean Lesage",
       "Robert Bourassa"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian singer founded the Lilith Fair touring music festival celebrating female artists?",
     "options": [
-      "Sarah McLachlan",
-      "Chantal Kreviazuk",
       "Jann Arden",
+      "Chantal Kreviazuk",
+      "Sarah McLachlan",
       "Sarah Harmer"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1437,31 +1437,31 @@
       "Guy Lafleur"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who founded the separatist Parti Québécois and served as Premier during the 1980 sovereignty referendum?",
     "options": [
-      "René Lévesque",
       "Jacques Parizeau",
+      "René Lévesque",
       "Lucien Bouchard",
       "Bernard Landry"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian actor and comedian voiced Zapp Brannigan and Troy McClure on \"The Simpsons\" and starred on \"NewsRadio\"?",
     "options": [
-      "Phil Hartman",
       "Dave Foley",
+      "Phil Hartman",
       "Kevin McDonald",
       "Colin Mochrie"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1473,103 +1473,103 @@
       "Rudolph Marcus"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian singer-songwriter wrote and sang the beloved folk song \"The Hockey Song\" (\"The Good Old Hockey Game\")?",
     "options": [
-      "Stompin' Tom Connors",
       "Fred Penner",
+      "Stompin' Tom Connors",
       "Ian Tyson",
       "Murray McLauchlan"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the Canadian-born co-founder of eBay who served as its first president and funded film studio Participant Media?",
     "options": [
-      "Jeff Skoll",
+      "Tobias Lütke",
       "Pierre Omidyar",
       "David Cheriton",
-      "Tobias Lütke"
+      "Jeff Skoll"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian female ice hockey superstar scored the winning goal at three consecutive Winter Olympic Games (2002, 2006, 2010)?",
     "options": [
       "Jayna Hefford",
-      "Hayley Wickenheiser",
+      "Hockey star Hayley Wickenheiser",
       "Marie-Philip Poulin",
       "Cassie Campbell"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian female hockey pioneer is widely regarded as one of the greatest female players of all time and competed in five Winter Olympics?",
     "options": [
+      "Marie-Philip Poulin of Canada",
       "Hayley Wickenheiser",
-      "Marie-Philip Poulin",
       "Danielle Goyette",
       "Angela James"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian TV personality and contractor became a household name hosting HGTV's \"Holmes on Homes\"?",
     "options": [
-      "Mike Holmes",
       "Bryan Baeumler",
+      "Mike Holmes",
       "Scott McGillivray",
       "Jonathan Scott"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian actor played Scott Pilgrim in \"Scott Pilgrim vs. the World\" and George Michael Bluth in \"Arrested Development\"?",
     "options": [
-      "Michael Cera",
       "Jay Baruchel",
+      "Michael Cera",
       "Seth Rogen",
       "Christopher Mintz-Plasse"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the Canadian suffragist, legislator, and author who staged the famous \"Mock Parliament\" in Winnipeg in 1914?",
     "options": [
-      "Nellie McClung",
       "Emily Murphy",
+      "Nellie McClung",
       "Irene Parlby",
       "Cora Hind"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian scientist won the 2015 Nobel Prize in Physics for demonstrating that neutrinos have mass at the Sudbury Neutrino Observatory?",
     "options": [
-      "Arthur B. McDonald",
       "Richard E. Taylor",
-      "Bertram Brockhouse",
+      "Arthur B. McDonald",
+      "Canadian icon Bertram Brockhouse",
       "Willard Boyle"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
@@ -1581,7 +1581,7 @@
       "Our Lady Peace"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1593,43 +1593,43 @@
       "June Bamford"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the world's first female aeronautical engineer, known as \"Queen of the Hurricanes\" for overseeing Hawker Hurricane production?",
     "options": [
-      "Elsie MacGill",
-      "Roberta Bondar",
       "Jennie Trout",
+      "Roberta Bondar",
+      "Elsie MacGill",
       "Charlotte Whitton"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian comedian starred in \"Whose Line Is It Anyway?\" and is famous for his improv comedy alongside Ryan Stiles?",
     "options": [
-      "Colin Mochrie",
+      "Mark McKinney of Canada",
       "Wayne Brady",
       "Brent Butt",
-      "Mark McKinney"
+      "Colin Mochrie"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian-born media proprietor built the modern Thomson Reuters corporation?",
     "options": [
-      "Roy Thomson",
+      "David Thomson",
       "Kenneth Thomson",
       "Conrad Black",
-      "David Thomson"
+      "Roy Thomson"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1641,67 +1641,67 @@
       "Sir Charles Tupper"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian singer won the 2016 Grammy for Best New Artist and sang \"Here\" and \"Scars to Your Beautiful\"?",
     "options": [
-      "Alessia Cara",
+      "Charlotte Cardin",
       "Ruth B",
       "Jessie Reyez",
-      "Charlotte Cardin"
+      "Alessia Cara"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian basketball player was named NBA MVP two years in a row (2005 and 2006) while playing for the Phoenix Suns?",
     "options": [
-      "Steve Nash",
-      "Shai Gilgeous-Alexander",
       "Andrew Wiggins",
+      "Shai Gilgeous-Alexander",
+      "Steve Nash",
       "Jamal Murray"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who wrote the classic Canadian prairie novel \"Who Has Seen the Wind\"?",
     "options": [
-      "W.O. Mitchell",
       "Sinclair Ross",
+      "W.O. Mitchell",
       "Margaret Laurence",
       "Rudy Wiebe"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian actress played Robin Scherbatsky on the sitcom \"How I Met Your Mother\" and Maria Hill in Marvel films?",
     "options": [
-      "Cobie Smulders",
       "Evangeline Lilly",
+      "Cobie Smulders",
       "Missy Peregrym",
       "Sarah Chalke"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian chemist won the 1986 Nobel Prize in Chemistry for his work in reaction dynamics?",
     "options": [
-      "John Polanyi",
+      "Henry Taube",
       "Gerhard Herzberg",
       "Michael Smith",
-      "Henry Taube"
+      "John Polanyi"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1713,7 +1713,7 @@
       "Shelagh Rogers"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1725,43 +1725,43 @@
       "Kim Mitchell"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian tennis star reached the Wimbledon gentlemen's singles final in 2016?",
     "options": [
-      "Milos Raonic",
       "Vasek Pospisil",
+      "Milos Raonic",
       "Félix Auger-Aliassime",
       "Denis Shapovalov"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who was Canada's first female physician, licensed to practice medicine in 1875?",
     "options": [
-      "Jennie Trout",
       "Emily Stowe",
+      "Jennie Trout",
       "Maude Abbott",
       "Elizabeth Bagshaw"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian author wrote the celebrated Manawaka series of novels, including \"The Stone Angel\"?",
     "options": [
-      "Margaret Laurence",
-      "Carol Shields",
       "Adele Wiseman",
+      "Carol Shields",
+      "Margaret Laurence",
       "Marian Engel"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Famous Canadians",
@@ -1773,19 +1773,19 @@
       "Ron James"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the famous Canadian bush pilot and WWI flying ace credited with shooting down 72 enemy aircraft, awarded the Victoria Cross?",
     "options": [
-      "Billy Bishop",
       "William Barker",
+      "Billy Bishop",
       "Raymond Collishaw",
       "Wop May"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
@@ -1797,79 +1797,79 @@
       "Bruce Fairbairn"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian Olympic figure skater won gold in ice dance with partner Scott Moir in both 2010 and 2018?",
     "options": [
-      "Tessa Virtue",
-      "Shae-Lynn Bourne",
       "Meagan Duhamel",
+      "Shae-Lynn Bourne",
+      "Tessa Virtue",
       "Kaetlyn Osmond"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the Canadian explorer and mapmaker who surveyed over 4.9 million square kilometers of North America for the North West Company?",
     "options": [
-      "David Thompson",
-      "Alexander Mackenzie",
       "Simon Fraser",
+      "Alexander Mackenzie",
+      "David Thompson",
       "Peter Pond"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian actor played Finnick Odair in \"The Hunger Games\" or rather played Logan Roy in \"Succession\"?",
     "options": [
-      "Brian Cox (Note: Scottish)",
       "Donald Sutherland",
+      "Brian Cox (Note: Scottish)",
       "Colm Feore",
       "Alan Thicke"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian-born TV dad played Dr. Jason Seaver on \"Growing Pains\" and composed theme songs for \"Diff'rent Strokes\" and \"Wheel of Fortune\"?",
     "options": [
-      "Alan Thicke",
       "John Candy",
+      "Alan Thicke",
       "Michael J. Fox",
       "Eugene Levy"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian scientist co-invented the charge-coupled device (CCD), the sensor behind digital cameras, earning the 2009 Nobel Prize in Physics?",
     "options": [
-      "Willard Boyle",
       "Arthur B. McDonald",
+      "Willard Boyle",
       "Bertram Brockhouse",
       "Martin Green"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the iconic Canadian historian and author of popular history books like \"The National Dream\" and \"The Last Spike\"?",
     "options": [
-      "Pierre Berton",
       "Donald Creighton",
+      "Pierre Berton",
       "Jack Granatstein",
       "Charlotte Gray"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
@@ -1881,67 +1881,67 @@
       "Stars"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian diplomat orchestrated the \"Canadian Caper\", smuggling six American diplomats out of Tehran in 1980?",
     "options": [
-      "Ken Taylor",
       "John de Chastelain",
+      "Ken Taylor",
       "Paul Heinbecker",
       "Tommy Carter"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian stand-up comedian became one of the highest-earning comedians in the world, famous for his catchphrase \"Somebody gonna get a hurt real bad\"?",
     "options": [
-      "Russell Peters",
+      "K. Trevor Wilson",
       "Ronny Chieng",
       "Sugar Sammy",
-      "K. Trevor Wilson"
+      "Russell Peters"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian filmmaker made evocative coming-of-age and drama films such as \"C.R.A.Z.Y.\", \"Dallas Buyers Club\", and \"Wild\"?",
     "options": [
-      "Jean-Marc Vallée",
+      "Denis Côté",
       "Xavier Dolan",
       "Philippe Falardeau",
-      "Denis Côté"
+      "Jean-Marc Vallée"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the first woman to be elected Mayor of a major Canadian city (Ottawa) in 1951?",
     "options": [
-      "Charlotte Whitton",
       "Marion Dewar",
+      "Charlotte Whitton",
       "Hazel McCallion",
       "June Rowlands"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which beloved long-serving mayor, known as \"Hurricane Hazel\", governed Mississauga from 1978 to 2014 until age 93?",
     "options": [
-      "Hazel McCallion",
+      "Mel Lastman",
       "Charlotte Whitton",
       "Bonnie Crombie",
-      "Mel Lastman"
+      "Hazel McCallion"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
@@ -1953,43 +1953,43 @@
       "Ann-Marie MacDonald"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian track athlete became an Olympic decathlon champion at the 2020 Tokyo Games?",
     "options": [
-      "Damian Warner",
+      "Michael Smith",
       "Pierce LePage",
       "Brianne Theisen-Eaton",
-      "Michael Smith"
+      "Damian Warner"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian pop star won widespread recognition with hits like \"Treat You Better\" and \"Stitches\"?",
     "options": [
-      "Shawn Mendes",
       "Justin Bieber",
+      "Shawn Mendes",
       "Alessia Cara",
       "Daniel Caesar"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the prominent Indigenous Cree leader who advocated for his people during the North-West Rebellion of 1885?",
     "options": [
       "Mistahimaskwa (Big Bear)",
-      "Pitikwahanapiwiyin (Poundmaker)",
+      "Red Crow",
       "Crowfoot",
-      "Red Crow"
+      "Pitikwahanapiwiyin (Poundmaker)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
@@ -2001,7 +2001,7 @@
       "Norman McLaren"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
@@ -2013,174 +2013,174 @@
       "Denis Potvin"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian singer-songwriter recorded the classic 1970 album \"After the Gold Rush\" and the song \"Heart of Gold\"?",
     "options": [
-      "Neil Young",
       "Gordon Lightfoot",
+      "Neil Young",
       "Robbie Robertson",
       "Bruce Cockburn"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the Indigenous soldier from Wasauksing First Nation who became the most decorated Indigenous soldier of WWI as an elite sniper?",
     "options": [
-      "Francis Pegahmagabow",
+      "Alexander Decoteau",
       "Tommy Prince",
       "Henry Norwest",
-      "Alexander Decoteau"
+      "Francis Pegahmagabow"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian actor starred as Ted Mosby's friend Barney Stinson's co-star or rather starred in \"Arrested Development\" as Gob Bluth?",
     "options": [
-      "Will Arnett",
-      "Jason Bateman",
       "Tony Hale",
+      "Jason Bateman",
+      "Will Arnett",
       "David Cross"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian painter was a founding member of the Group of Seven known for his stylized, spiritual paintings of Lake Superior and the Arctic?",
     "options": [
-      "Lawren Harris",
       "Franklin Carmichael",
+      "Lawren Harris",
       "Arthur Lismer",
       "Frank Johnston"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian general commanded the Canadian Corps during their historic victory at Vimy Ridge in April 1917?",
     "options": [
-      "Sir Arthur Currie",
-      "Julian Byng",
       "Sam Hughes",
+      "Julian Byng",
+      "Sir Arthur Currie",
       "Guy Simonds"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian-American actor played Marty McFly's father in \"Back to the Future\" or rather starred as the Dad in \"Honey, I Shrunk the Kids\"?",
     "options": [
-      "Rick Moranis",
+      "Joe Flaherty",
       "Michael J. Fox",
       "Dave Thomas",
-      "Joe Flaherty"
+      "Rick Moranis"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian R&B/soul singer-songwriter won a Grammy Award for \"Best R&B Performance\" for his collaboration on \"Best Part\" with H.E.R.?",
     "options": [
-      "Daniel Caesar",
-      "PARTYNEXTDOOR",
+      "Roy Woods",
+      "PARTYNEXTDOOR of Canada",
       "Majid Jordan",
-      "Roy Woods"
+      "Daniel Caesar"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Who was the prominent Canadian jurist who served as Chief Justice of Canada from 2000 to 2017, the longest-serving in Canadian history?",
     "options": [
-      "Beverley McLachlin",
       "Antonio Lamer",
+      "Beverley McLachlin",
       "Brian Dickson",
       "Bora Laskin"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian musician co-founded the band Bachman-Turner Overdrive (BTO) after leaving The Guess Who?",
     "options": [
-      "Randy Bachman",
-      "Burton Cummings",
       "Fred Turner",
+      "Burton Cummings",
+      "Randy Bachman",
       "Chad Allan"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian astronaut served as the Governor General of Canada from 2017 to 2021?",
     "options": [
-      "Julie Payette",
+      "Chris Hadfield",
       "Roberta Bondar",
       "Marc Garneau",
-      "Chris Hadfield"
+      "Julie Payette"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian author wrote the Giller Prize-winning historical novel \"Alias Grace\"?",
     "options": [
-      "Margaret Atwood",
+      "Joseph Boyden",
       "Michael Ondaatje",
       "Rohinton Mistry",
-      "Joseph Boyden"
+      "Margaret Atwood"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian hockey legend was nicknamed \"Mr. Hockey\" and played across five decades?",
     "options": [
-      "Gordie Howe",
-      "Maurice Richard",
       "Jean Béliveau",
+      "Maurice Richard",
+      "Gordie Howe",
       "Bobby Hull"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian singer-songwriter wrote and recorded the iconic song \"Universal Soldier\"?",
     "options": [
-      "Buffy Sainte-Marie",
       "Joni Mitchell",
+      "Buffy Sainte-Marie",
       "Ian Tyson",
       "Sylvia Tyson"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian actor played Green Lantern, Deadpool, and starred in \"The Proposal\"?",
     "options": [
-      "Ryan Reynolds",
       "Ryan Gosling",
+      "Ryan Reynolds",
       "Chris Evans",
       "Chris Pratt"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -2193,7 +2193,7 @@
       "Stéphane Dion"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
@@ -2205,7 +2205,7 @@
       "Thomas Ahearn"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
@@ -2217,31 +2217,31 @@
       "Paula Cole"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian film producer and director produced landmark television shows like \"SCTV\" and directed \"Ghostbusters\" (1984)?",
     "options": [
-      "Ivan Reitman",
-      "Jason Reitman",
       "Norman Jewison",
+      "Jason Reitman",
+      "Ivan Reitman",
       "Arthur Hiller"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian director received an Academy Honorary Award in 1999 and directed classics like \"In the Heat of the Night\" and \"Moonstruck\"?",
     "options": [
-      "Norman Jewison",
+      "Sidney J. Furie",
       "Arthur Hiller",
       "Ted Kotcheff",
-      "Sidney J. Furie"
+      "Norman Jewison"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
@@ -2253,18 +2253,18 @@
       "Rosalie Abella"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian entrepreneur founded the news agency Reuters in 1851?",
     "options": [
-      "Paul Julius Reuter (German-born)",
-      "Roy Thomson",
       "Sandford Fleming",
+      "Roy Thomson",
+      "Paul Julius Reuter (German-born)",
       "Joseph Flavelle"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2272,12 +2272,12 @@
     "q": "Which Canadian runner famously carried Canada's flag and won two bronze medals at the 1928 Amsterdam Olympics, later becoming a national hero?",
     "options": [
       "Percy Williams",
-      "Bobbie Rosenfeld",
+      "Robert Kerr",
       "Harry Jerome",
-      "Robert Kerr"
+      "Bobbie Rosenfeld"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
@@ -2285,23 +2285,23 @@
     "options": [
       "Percy Williams",
       "Harry Jerome",
-      "Donovan Bailey",
+      "Canadian icon Donovan Bailey",
       "Ray Lewis"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian writer won the Giller Prize twice, for \"A Fine Balance\" and \"Such a Long Journey\"?",
     "options": [
-      "Rohinton Mistry",
+      "Vincent Lam",
       "M.G. Vassanji",
       "Austin Clarke",
-      "Vincent Lam"
+      "Rohinton Mistry"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
@@ -2313,55 +2313,55 @@
       "Rick Hillier"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian actor starred as Dan Conner's brother in law or rather starred as Dr. Dick Solomon in \"3rd Rock from the Sun\" (John Lithgow is American), but played the lead in \"Due South\"?",
     "options": [
-      "Paul Gross",
       "Callum Keith Rennie",
+      "Paul Gross",
       "David James Elliott",
       "Yannick Bisson"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian musician and visual artist from Toronto released the hit single \"1234\" used in an iconic iPod Nano commercial?",
     "options": [
-      "Feist (Leslie Feist)",
       "Peaches",
+      "Feist (Leslie Feist)",
       "Emily Haines",
       "Grimes"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian politician from Quebec served as Prime Minister from 1993 to 2003, nicknamed \"the little guy from Shawinigan\"?",
     "options": [
-      "Jean Chrétien",
       "Brian Mulroney",
+      "Jean Chrétien",
       "Paul Martin",
       "Joe Clark"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian singer, whose real name is Claire Boucher, is an experimental pop producer known for albums like \"Visions\" and \"Art Angels\"?",
     "options": [
-      "Grimes",
+      "Alice Glass",
       "Lights",
       "Allie X",
-      "Alice Glass"
+      "Grimes"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
@@ -2369,34 +2369,34 @@
     "options": [
       "Peter Jennings",
       "Morley Safer",
-      "Robert MacNeil",
+      "Robert MacNeil of Canada",
       "Keith Morrison"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "What Canadian actor played Captain Christopher Pike in \"Star Trek: Strange New Worlds\"?",
     "options": [
-      "Anson Mount (American)",
       "Bruce Greenwood",
+      "Anson Mount (American)",
       "Shawn Ashmore",
       "Stephen Amell"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Famous Canadians",
     "q": "Which Canadian hockey superstar led the Pittsburgh Penguins to three Stanley Cups and scored the \"Golden Goal\" at the 2010 Vancouver Olympics?",
     "options": [
-      "Sidney Crosby",
+      "Steven Stamkos",
       "Connor McDavid",
       "Nathan MacKinnon",
-      "Steven Stamkos"
+      "Sidney Crosby"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   }
 ]

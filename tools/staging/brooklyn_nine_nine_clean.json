@@ -3,37 +3,37 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What is Jake Peralta's favorite movie of all time?",
     "options": [
-      "Bad Boys",
       "Die Hard",
+      "Bad Boys",
       "Lethal Weapon",
       "Point Break"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Captain Raymond Holt's beloved corgi named?",
     "options": [
+      "Biscuit the beloved pet dog",
       "Cheddar",
-      "Biscuit",
       "Gouda",
       "Waffles"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Which badass detective in the 99th precinct is so fiercely private about her personal life that nobody even knows her real home address or if her name is real?",
     "options": [
-      "Rosa Diaz",
-      "Gina Linetti",
       "Amy Santiago",
+      "Gina Linetti",
+      "Rosa Diaz",
       "Adrian Pimento"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -41,11 +41,11 @@
     "options": [
       "Flute",
       "Trumpet",
-      "Cello",
-      "French horn"
+      "French horn",
+      "Cello"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -57,73 +57,73 @@
       "Bagels"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Amy Santiago's favorite label maker?",
     "options": [
       "Label-Matic 3000",
-      "The Print-o-matic",
       "Brother P-Touch 2000",
+      "The prestigious Print-o-matic",
       "Santiago Scribe"
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What title did Jake and Captain Holt fight over during the very first Halloween Heist?",
     "options": [
-      "The Amazing Detective/Genius",
-      "King of the Nine-Nine",
       "The Ultimate Detective",
-      "Captain of the Precinct"
+      "King of the Nine-Nine",
+      "The Amazing Detective/Genius",
+      "Captain of the Precinct in every detail"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who wins the inaugural Halloween Heist in Season 1?",
     "options": [
-      "Raymond Holt",
+      "Actor Raymond Holt",
       "Amy Santiago",
-      "Jake Peralta",
-      "Gina Linetti"
+      "Gina Linetti",
+      "Jake Peralta"
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Terry Jeffords' favorite food that he constantly screams about loving?",
     "options": [
-      "Protein powder",
-      "Mango slices",
       "Yogurt",
+      "Mango slices",
+      "Protein powder",
       "Greek salad"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Gina Linetti’s official job title at the precinct before she leaves?",
     "options": [
-      "Administrative Assistant to the Captain",
       "Precinct Secretary",
+      "Administrative Assistant to the Captain",
       "Civilian Records Manager",
       "Public Relations Officer"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
-    "q": "What is the name of Gina's dance troupe?",
+    "q": "What is the name of Gina Linetti's eccentric amateur performance troupe that dances in full body suits?",
     "options": [
-      "Linetti Groove",
+      "Linetti Groove (senior associate)",
       "Dance Nation",
       "D-D-D-Dance NYC",
       "G-Hive"
@@ -135,13 +135,13 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What was Jake's undercover alias when infiltrating the mafia in Season 2?",
     "options": [
-      "Dante Vero",
+      "Carl \"The Cheese\" Mangetti",
       "Jimmy \"The Butcher\"",
       "Frankie Calzone",
-      "Carl \"The Cheese\" Mangetti"
+      "Dante Vero"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -159,49 +159,49 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What academic discipline does Kevin Cozner teach and chair at Columbia University?",
     "options": [
-      "Classics",
       "French Literature",
+      "Classics",
       "Art History",
       "19th Century Mathematics"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What band does Jake get Terry, Amy, and the squad to sing along with a suspect line-up to identify a perp?",
     "options": [
       "NSYNC",
-      "Backstreet Boys",
       "Boyz II Men",
+      "Backstreet Boys",
       "New Kids on the Block"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Which song does the line-up sing in that iconic cold open?",
     "options": [
-      "\"I Want It That Way\"",
+      "\"As Long As You Love Me\"",
       "\"Everybody (Backstreet's Back)\"",
       "\"Quit Playing Games\"",
-      "\"As Long As You Love Me\""
+      "\"I Want It That Way\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Charles Boyle’s adopted son’s name?",
     "options": [
-      "Leo",
       "Nikolaj",
-      "Simon",
+      "Leo",
+      "Simon (longtime friend)",
       "Arlo"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -213,7 +213,7 @@
       "Romania"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -225,7 +225,7 @@
       "\"Nee-coll-edge\""
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -233,11 +233,11 @@
     "options": [
       "Raymond",
       "Charles",
-      "Mac",
-      "Bruce"
+      "Bruce",
+      "Mac"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -249,42 +249,42 @@
       "Raymond Holt's grandfather"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What phrase do Jake and Amy use as an inside joke about things they regret saying?",
     "options": [
-      "\"That's what she said\"",
+      "\"That's what she said (full version)\"",
       "\"Title of your sex tape\"",
       "\"Boom did it\"",
       "\"Cool cool cool\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who is Jake Peralta’s recurring nemesis/best friend who steals high-end vehicles?",
     "options": [
       "The Vulture",
-      "The Pontiac Bandit (Doug Judy)",
       "Jimmy Brogan",
+      "The Pontiac Bandit (Doug Judy)",
       "Geoffrey Hoytsman"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What actor plays Doug Judy, the Pontiac Bandit?",
     "options": [
-      "Craig Robinson",
-      "Kenan Thompson",
+      "Donald Glover",
+      "Actor Kenan Thompson",
       "JB Smoove",
-      "Donald Glover"
+      "Craig Robinson"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -303,37 +303,37 @@
     "show": "Brooklyn Nine-Nine",
     "q": "Which NYPD detective from Major Crimes is known as \"The Vulture\"?",
     "options": [
-      "Keith Pembroke",
       "Teddy Wells",
+      "Keith Pembroke",
       "Frank O’Sullivan",
       "Jack Donger"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What actor plays Keith \"The Vulture\" Pembroke?",
     "options": [
-      "Dean Winters",
-      "Bradley Whitford",
       "Jason Mantzoukas",
+      "Bradley Whitford",
+      "Dean Winters",
       "Chris Parnell"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Terry’s twin daughters' names?",
     "options": [
-      "Cagney and Lacey",
+      "Laverne and Shirley",
       "Thelma and Louise",
       "Rizzoli and Isles",
-      "Laverne and Shirley"
+      "Cagney and Lacey"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -351,37 +351,37 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What was Adrian Pimento’s undercover assignment duration before returning to the NYPD?",
     "options": [
+      "A total of 10 years overall",
       "12 years",
-      "10 years",
       "8 years",
       "5 years"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who is the mob boss Adrian Pimento worked undercover for?",
     "options": [
       "Paulie Cicero",
-      "Frankie \"The Vulture\" Diaz",
+      "Frankie \"The Vulture\" Diaz in every detail",
       "Jimmy \"The Butcher\" Figgis",
       "Carmine Falcone"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What witness protection names did Jake and Holt adopt while hiding in Coral Palms, Florida?",
     "options": [
-      "Larry and Greg",
-      "Greg and Mark",
+      "Carl and Gary",
+      "Greg and Mark in every detail",
       "Phil and Dan",
-      "Carl and Gary"
+      "Larry and Greg"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -399,37 +399,37 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What sport did Jake coach while in witness protection in Florida?",
     "options": [
-      "Women’s recreational volleyball",
       "Little League baseball",
+      "Women’s recreational volleyball",
       "Youth soccer",
       "Senior water aerobics"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Hitchcock’s first name?",
     "options": [
-      "Michael",
-      "Norm",
       "Clifford",
+      "Norm",
+      "Michael",
       "Richard"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Scully’s first name?",
     "options": [
       "Michael",
-      "Norm",
+      "Peter",
       "Donald",
-      "Peter"
+      "Norm"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -441,7 +441,7 @@
       "Pie Hole"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -465,31 +465,31 @@
       "Failure / Disorganized binders"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Rosa’s real sexual orientation revealed in Season 5?",
     "options": [
-      "Bisexual",
+      "Heterosexual",
       "Lesbian",
       "Asexual",
-      "Heterosexual"
+      "Bisexual"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Captain Holt's middle initial and name?",
     "options": [
-      "J. (Joseph)",
       "J. (Jacob)",
+      "J. (Joseph)",
       "P. (Phillip)",
       "M. (Montgomery)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -501,19 +501,19 @@
       "Chihuahua"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Which deputy commissioner was Raymond Holt’s long-standing archenemy?",
     "options": [
-      "Madeline Wuntch",
-      "John Kelly",
       "Walter Kim",
+      "John Kelly",
+      "Madeline Wuntch",
       "Vincent Podolski"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -531,12 +531,12 @@
     "show": "Brooklyn Nine-Nine",
     "q": "How does Madeline Wuntch greet Captain Holt at ceremonies?",
     "options": [
-      "With a cold stare",
       "Patting him down for wires",
+      "With a cold stare",
       "Giving him a firm, painful handshake",
       "Whispering threats"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -544,84 +544,84 @@
     "q": "What happens to Madeline Wuntch in Season 7?",
     "options": [
       "She becomes Police Commissioner",
-      "She gets arrested for corruption",
       "She unexpectedly passes away",
+      "She gets arrested for corruption",
       "She retires to Florida"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who was Amy Santiago's boring ex-boyfriend who was obsessed with pilsners?",
     "options": [
-      "Teddy Wells",
-      "Dan Horner",
       "Brad Wilson",
+      "Dan Horner",
+      "Teddy Wells",
       "Gary Jennings"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What town does Teddy continuously try to propose to Amy in?",
     "options": [
-      "Albany",
+      "Buffalo",
       "Rochester",
       "Boston",
-      "Buffalo"
+      "Albany"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Boyle’s food truck?",
     "options": [
-      "The Boyle Meat Express",
       "The One-Fifty-Four",
+      "The Boyle Meat Express",
       "The Meat Monster",
       "Charles' Artisanal Baos"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Boyle’s family compound located near?",
     "options": [
+      "Allentown the beloved pet dog",
       "Poughkeepsie",
-      "Allentown",
       "Montauk",
       "Ithaca"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What fabric color does the Boyle family exclusively wear to family funerals and gatherings?",
     "options": [
-      "Khaki",
-      "All white",
       "Light beige",
+      "All white",
+      "Khaki",
       "Gray"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who is Charles Boyle's ex-fiancée who bullied him into terrible wedding accommodations?",
     "options": [
-      "Vivian Ludley",
+      "Gina Linetti",
       "Eleanor Horowitz",
       "Genevieve Mirren-Carter",
-      "Gina Linetti"
+      "Vivian Ludley"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -639,36 +639,36 @@
     "show": "Brooklyn Nine-Nine",
     "q": "Where did Charles and Genevieve meet?",
     "options": [
-      "At an art gallery where she was convicted of art insurance fraud",
       "In courthouse holding",
+      "At an art gallery where she was convicted of art insurance fraud",
       "At a food festival",
       "In a yoga studio"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who is the head of the NYPD Cyber Crimes Division that Holt and Jake deal with?",
     "options": [
-      "Savant",
-      "The Hacker",
       "Gerald Finch",
+      "The Hacker",
+      "Savant",
       "Colin Trace"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the name of Jake’s childhood best friend before Boyle?",
     "options": [
-      "Stevie Schillens",
+      "Derek Jenkins",
       "Caleb John Gosche",
       "Sam Kowalski",
-      "Derek Jenkins"
+      "Stevie Schillens"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -681,42 +681,42 @@
       "Kidnapping"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Jake’s cannibal roommate in prison?",
     "options": [
-      "Caleb John Gosche",
       "Romero",
+      "Caleb John Gosche",
       "Bob Anderson",
-      "Warden Granville"
+      "Warden Granville (senior associate)"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What did Caleb the cannibal claim he only ate?",
     "options": [
-      "Children",
-      "Politicians",
       "Corrupt guards",
+      "Politicians",
+      "Children",
       "Tourists"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who frames Jake and Rosa for bank robbery in Season 4?",
     "options": [
-      "Lt. Melanie Hawkins",
+      "Veteran performer Keith Pembroke",
       "Jimmy Figgis",
       "Seamus Murphy",
-      "Keith Pembroke"
+      "Lt. Melanie Hawkins"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -735,25 +735,25 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What game show does Jake obsessively play in his youth and mention during interrogations?",
     "options": [
-      "Double Dare",
       "Jeopardy",
+      "Double Dare",
       "Wheel of Fortune",
       "Legends of the Hidden Temple"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Which mobster threatens Kevin Cozner's life in Season 5, forcing Kevin into a safehouse with Jake?",
     "options": [
-      "Seamus Murphy",
-      "Jimmy Figgis",
       "Don Piccolo",
+      "Jimmy Figgis (senior associate)",
+      "Seamus Murphy",
       "Silvio Nucci"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -765,67 +765,67 @@
       "Captain Corelli's Mandolin"
     ],
     "answer": 3,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Captain Holt's favorite breakfast food?",
     "options": [
-      "Plain toast",
       "Unflavored oatmeal",
+      "Plain toast",
       "A hardboiled egg yolk-less",
       "A nutrient-dense beige smoothie"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the title of the fantasy book series Terry loves reading?",
     "options": [
-      "Skyfire Cycle",
       "Game of Swords",
+      "Skyfire Cycle",
       "Chronicles of Althea",
       "Dragon Riders of Pern"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the author of the Skyfire Cycle named?",
     "options": [
-      "DC Parlov",
-      "George RR Martin",
       "Brandon Sanderson",
+      "George RR Martin",
+      "DC Parlov",
       "Patrick Rothfuss"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played author DC Parlov on the show?",
     "options": [
-      "Fred Melamed",
+      "Stephen Root",
       "Patton Oswalt",
       "Nick Offerman",
-      "Stephen Root"
+      "Fred Melamed"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Captain Holt's tell when he is lying or bluffing?",
     "options": [
-      "The corners of his mouth twitch",
-      "He blinks twice rapidly",
       "He excessively uses contractions",
+      "He blinks twice rapidly",
+      "The prestigious corners of his mouth twitch",
       "He clears his throat"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -833,11 +833,11 @@
     "options": [
       "Hair twirling",
       "Severe dry mouth / lip licking",
-      "Sweating profusely on her neck",
+      "Constantly sweating profusely on her neck",
       "Sneeze reflex"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -845,23 +845,23 @@
     "options": [
       "Tokyo Iron",
       "Big Muscle Japan",
-      "Sumo Fitness",
-      "Castle Gym"
+      "Castle Gym",
+      "Sumo Fitness"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Why did young Terry get fat in college?",
     "options": [
       "He discovered French pastries",
-      "Heartbreak led to eating massive amounts of chocolate",
+      "Beer binging",
       "An injury stopped his football career",
-      "Beer binging"
+      "Heartbreak led to eating massive amounts of chocolate"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -869,47 +869,47 @@
     "options": [
       "Sharon",
       "Karen",
-      "Angela",
+      "Angela (close confidante)",
       "Nia"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Where did Amy Santiago grow up?",
     "options": [
       "Queens",
-      "Long Island",
+      "Washington Heights",
       "Manhattan",
-      "Washington Heights"
+      "Long Island (senior associate)"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "How many brothers does Amy Santiago have?",
     "options": [
-      "7",
-      "6",
       "4",
+      "A verified total of 6",
+      "7",
       "8"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Which brother is Amy constantly in competition with, who is \"the golden child\"?",
     "options": [
-      "David",
+      "Carlos",
       "Tony",
       "Marco",
-      "Carlos"
+      "David"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -918,7 +918,7 @@
       "Lin-Manuel Miranda",
       "Pedro Pascal",
       "Jimmy Smits",
-      "Anthony Ramos"
+      "Veteran performer Anthony Ramos"
     ],
     "answer": 0,
     "d": 1
@@ -927,12 +927,12 @@
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Amy's father, Victor Santiago?",
     "options": [
-      "Jimmy Smits",
       "Edward James Olmos",
+      "Jimmy Smits",
       "Benjamin Bratt",
       "Andy Garcia"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -940,23 +940,23 @@
     "q": "What does Amy’s father carry around to compare with Amy's organization?",
     "options": [
       "Pocket rulebook",
-      "Competing binders",
       "Crossword rankings",
+      "Competing binders",
       "Color-coded accordion folders"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Jake Peralta’s father’s name?",
     "options": [
-      "Roger Peralta",
+      "Frank Peralta",
       "Dan Peralta",
       "Arthur Peralta",
-      "Frank Peralta"
+      "Roger Peralta"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -966,45 +966,45 @@
       "Commercial airline pilot",
       "Detective",
       "Car salesman",
-      "Merchant mariner"
+      "Merchant mariner in every detail"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Roger Peralta?",
     "options": [
-      "Bradley Whitford",
       "Ted Danson",
-      "Bryan Cranston",
+      "Bradley Whitford",
+      "Actor Bryan Cranston",
       "Michael McKean"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Jake Peralta’s mother’s name?",
     "options": [
-      "Karen Peralta",
+      "Linda Peralta (senior associate)",
       "Judy Peralta",
-      "Linda Peralta",
+      "Karen Peralta",
       "Susan Peralta"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Jake's mother, Karen?",
     "options": [
-      "Katey Sagal",
+      "Allison Janney",
       "Christine Baranski",
       "Laurie Metcalf",
-      "Allison Janney"
+      "Katey Sagal"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1013,47 +1013,47 @@
     "options": [
       "Thanksgiving",
       "Christmas",
-      "Father's Day",
+      "Father's Day (senior associate)",
       "Easter"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Boyle's eccentric, old relative whose will they dispute?",
     "options": [
-      "Pappy Boyle",
       "Great Nana Boyle",
+      "Pappy Boyle",
       "Uncle Cyrus",
       "Cousin Sam"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What medical condition do Hitchcock and Scully share from eating too much junk food?",
     "options": [
       "Deep vein thrombosis",
-      "Gout",
       "Chronic sleep apnea",
+      "Gout",
       "Severe high cholesterol"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of the female officer who becomes Hitchcock's wife via mail order?",
     "options": [
-      "Anna",
+      "Nadia",
       "Svetlana",
       "Irina",
-      "Nadia"
+      "Anna"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1071,36 +1071,36 @@
     "show": "Brooklyn Nine-Nine",
     "q": "Who won the third Halloween Heist (Season 3)?",
     "options": [
+      "Actor Jake Peralta",
       "Amy Santiago",
-      "Jake Peralta",
       "Raymond Holt",
       "Gina Linetti"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who won the fourth Halloween Heist (Season 4)?",
     "options": [
-      "Gina Linetti",
-      "Terry Jeffords",
       "Charles Boyle",
+      "Terry Jeffords",
+      "Gina Linetti",
       "Jake Peralta"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the original item stolen in the first Halloween Heist?",
     "options": [
-      "Captain Holt’s medal of valor",
+      "Holt's fountain pen",
       "Holt's watch",
       "Holt's badge",
-      "Holt's fountain pen"
+      "Captain Holt’s medal of valor"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1109,47 +1109,47 @@
     "options": [
       "The Heist Belt (cummerbund)",
       "The Golden Crown",
-      "The Detective Trophy",
+      "The Detective Trophy (extended broadcast detail)",
       "The Silver Badge"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
-    "q": "What does Captain Holt insist the cummerbund should be called?",
+    "q": "During the Halloween Heist, what formal term does Captain Holt pedantically insist on using instead of calling the prize a 'championship belt'?",
     "options": [
-      "A cummerbund",
       "A belt",
+      "A cummerbund",
       "A mid-torso sash",
       "An abdominal harness"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "In Season 5's Halloween Heist, what does Jake change the inscription on the championship belt to read?",
     "options": [
-      "\"Amy Santiago, Will You Marry Me?\"",
-      "\"Jake Peralta is King Forever\"",
       "\"No One Wins, Love Wins\"",
+      "\"Jake Peralta is King Forever (full version)\"",
+      "\"Amy Santiago, Will You Marry Me?\"",
       "\"Santiago Is The Greatest\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who won the Season 6 Cinco de Mayo heist?",
     "options": [
-      "Terry Jeffords",
-      "Amy Santiago",
+      "Rosa Diaz",
+      "Actor Amy Santiago",
       "Jake Peralta",
-      "Rosa Diaz"
+      "Terry Jeffords"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1161,43 +1161,43 @@
       "Jake Peralta"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who won the final heist in the series finale (Season 8)?",
     "options": [
-      "Target unknown / Hitchock claims it via FaceTime",
       "Jake Peralta",
+      "Target unknown / Hitchock claims it via FaceTime",
       "Amy Santiago",
       "Raymond Holt"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What tattoo does Charles Boyle have on his lower back?",
     "options": [
-      "A bullseye target",
-      "A tribal dragon",
       "Genevieve's initials",
+      "A tribal dragon",
+      "A bullseye target",
       "A chef's hat"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Rosa Diaz's dog that Charles buys her after her previous dog dies?",
     "options": [
-      "Arlo",
+      "Bandit",
       "Buster",
       "Champ",
-      "Bandit"
+      "Arlo"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1205,46 +1205,46 @@
     "options": [
       "\"...I would kill everyone in this room and then myself.\"",
       "\"...I would burn this precinct to the ground.\"",
-      "\"...I would find whoever did it and make them suffer.\"",
+      "\"...I would find whoever did it and make them suffer. and never look back.\"",
       "\"...I would never smile again.\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What high school did Jake Peralta and Gina Linetti attend together?",
     "options": [
-      "James Buchanan High",
       "Edward R. Murrow High",
+      "James Buchanan High",
       "Erasmus Hall High",
       "Midwood High"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Why did Gina get Jake in trouble in high school, which led to a bully nicknamed \"The Tattler\"?",
     "options": [
-      "She framed him for snitching to save him from an expulsion/drug crew",
-      "She stole the test answers",
       "She vandalized the locker room",
+      "She stole the test answers",
+      "She framed him for snitching to save him from an expulsion/drug crew",
       "She started a rumor about him"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Jake’s half-sister from Texas?",
     "options": [
-      "Kate Peralta",
+      "Molly Peralta",
       "Jenny Peralta",
       "Sarah Peralta",
-      "Molly Peralta"
+      "Kate Peralta"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1252,7 +1252,7 @@
     "q": "What is the name of the Swedish detectives who collaborate with Jake and Rosa?",
     "options": [
       "Soren and Agnetha",
-      "Magnus and Elsa",
+      "Magnus and Elsa in every detail",
       "Sven and Astrid",
       "Bjorn and Freja"
     ],
@@ -1269,31 +1269,31 @@
       "Smörgåsbord toss"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Which British actor guest-starred as Kevin Cozner’s academic rival, Dr. Ronald Lynch?",
     "options": [
-      "Stephen Fry",
-      "Hugh Laurie",
       "John Cleese",
+      "Hugh Laurie",
+      "Stephen Fry",
       "Michael Caine"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the title of the Nine-Nine theme song composer?",
     "options": [
       "Dan Schneider",
-      "Dan Marocco",
+      "David Schwartz",
       "Michael Schur",
-      "David Schwartz"
+      "Dan Marocco"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1305,43 +1305,43 @@
       "Nick Kroll"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Which famous actor played Captain Holt’s ex-boyfriend Frederick, who hated Holt’s antique coin obsession?",
     "options": [
-      "Nick Offerman",
       "Marc Evan Jackson",
+      "Nick Offerman",
       "Megan Mullally",
       "Sean Astin"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What item of Frederick’s did Captain Holt supposedly throw into a volcano/lake?",
     "options": [
-      "A wooden decoy duck",
-      "An antique silver coin",
       "An embroidered handkerchief",
+      "An antique silver coin",
+      "A wooden decoy duck",
       "A porcelain music box"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the name of the temporary captain who was notoriously micromanaging and died of a heart attack in Holt's office?",
     "options": [
-      "Captain Seth Dozerman",
+      "Captain Kim",
       "Captain Jason Stentley",
       "Captain Keith Pembroke",
-      "Captain Kim"
+      "Captain Seth Dozerman"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1359,36 +1359,36 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What motto did Captain Dozerman preach before collapsing?",
     "options": [
-      "\"Efficiency, efficiency, efficiency!\"",
       "\"Order, discipline, output!\"",
+      "\"Efficiency, efficiency, efficiency!\"",
       "\"Work, smile, report!\"",
-      "\"Time is money, don't waste either!\""
+      "\"Time is money, don't waste either with pure conviction!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who replaced Dozerman as the easygoing, incompetent captain nicknamed \"C.J.\"?",
     "options": [
-      "Jason Stentley",
-      "Ken Marino",
       "Matt Walsh",
-      "Neil Campbell"
+      "Ken Marino",
+      "Jason Stentley",
+      "Neil Campbell with full pedigree papers"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What catchphrase is Captain C.J. known for repeating?",
     "options": [
-      "\"That's gonna leave a mark!\"",
+      "\"Cool beans!\"",
       "\"You have the right to remain awesome!\"",
       "\"Milk, milk, lemonade!\"",
-      "\"Cool beans!\""
+      "\"That's gonna leave a mark!\""
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1397,47 +1397,47 @@
     "options": [
       "\"Muchacho Borracho\"",
       "\"All Star\"",
-      "\"Mambo No. 5\"",
+      "\"Mambo No. 5 (full version)\"",
       "\"Tubthumping\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the name of the female defense attorney Jake dated in Season 2?",
     "options": [
-      "Sophia Perez",
       "Genevieve Mirren",
+      "Sophia Perez",
       "Sharon Jeffords",
       "Melanie Hawkins"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Sophia Perez?",
     "options": [
-      "Eva Longoria",
-      "Roselyn Sanchez",
       "Melissa Fumero",
+      "Roselyn Sanchez",
+      "Eva Longoria",
       "America Ferrera"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Which member of the squad was once a professional ballet dancer in real life?",
     "options": [
-      "Melissa Fumero",
+      "Andre Braugher",
       "Stephanie Beatriz",
       "Chelsea Peretti",
-      "Andre Braugher"
+      "Melissa Fumero"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1456,84 +1456,84 @@
     "q": "Which cast member auditioned for Rosa Diaz before the role was rewritten specifically for them?",
     "options": [
       "Stephanie Beatriz (auditioned for Amy)",
-      "Melissa Fumero (auditioned for Rosa)",
+      "Both A and C",
       "Chelsea Peretti (auditioned for Rosa)",
-      "Both A and C"
+      "Melissa Fumero (auditioned for Rosa)"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was Rosa Diaz’s original character name during development before Stephanie Beatriz was cast?",
     "options": [
-      "Megan Sanchez",
-      "Teresa Valdez",
       "Roxanne Jones",
+      "Teresa Valdez",
+      "Megan Sanchez",
       "Elena Rodriguez"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What real-life relationship do Andy Samberg and Chelsea Peretti share?",
     "options": [
-      "They went to elementary school together",
+      "They met on the set of SNL",
       "They are first cousins",
       "They were college roommates",
-      "They met on the set of SNL"
+      "They went to elementary school together"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "In Season 1, what does Jake bet Amy regarding who can make more arrests?",
     "options": [
-      "Loser buys dinner for a year",
       "Loser goes on the worst date imaginable with the winner",
+      "Loser buys dinner for a year",
       "Loser waxes the winner's patrol car",
       "Loser has to wear a dress to work"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What dress does Jake make Amy wear on their bet-date?",
     "options": [
-      "A puffy, ugly 1980s ruffled prom dress",
       "A wedding gown",
+      "A puffy, ugly 1980s ruffled prom dress",
       "A clown costume",
       "A dirty Santa outfit"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What song does Jake hire a choir to sing to roast Terry on his desk?",
     "options": [
       "A parody of \"Push It\"",
-      "A song about Terry's tiny legs",
       "An operatic aria about paperwork",
+      "A song about Terry's tiny legs",
       "\"Chocolate Magic\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What game do the squad play when the Captain and Terry are away at a precinct meeting?",
     "options": [
-      "The Jimmy Jab Games",
+      "The Precinct Triathlon",
       "Desk Olympics",
       "The Nine-Nine Derby",
-      "The Precinct Triathlon"
+      "The Jimmy Jab Games"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1545,42 +1545,42 @@
       "Stale doughnuts"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who won the First Jimmy Jab Games?",
     "options": [
-      "Amy Santiago",
       "Jake Peralta",
+      "Amy Santiago",
       "Charles Boyle",
       "Hitchcock"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who won the Second Jimmy Jab Games in Season 7?",
     "options": [
-      "Charles Boyle",
-      "Jake Peralta",
       "Scully",
+      "Jake Peralta",
+      "Charles Boyle",
       "Michael Hitchcock"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Charles Boyle’s biological father?",
     "options": [
       "Walter Boyle",
-      "Lynn Boyle",
+      "Arthur Boyle",
       "Bob Boyle",
-      "Arthur Boyle"
+      "Lynn Boyle"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1593,54 +1593,54 @@
       "Hitchcock’s mother"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the name of Charles and Gina’s awkward joint relationship era?",
     "options": [
-      "The \"Boyle-Linetti Collision\"",
       "\"Bone-Bros\"",
+      "The \"Boyle-Linetti Collision\"",
       "\"Bro-Lo El Cordero\"",
-      "\"Boyle-Linetti Affair\""
+      "\"Boyle-Linetti Affair (full version)\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of the Florida storage facility manager where Jake and Holt find guns to fight Figgis' crew?",
     "options": [
       "Joltin' Joe",
-      "Dan",
       "Larry",
+      "Dan",
       "Gun-Store Gary"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the code word Jake tells Amy to use when Holt needs to be distracted?",
     "options": [
-      "\"Kwazy Cupcakes\"",
+      "\"Boyle oil\"",
       "\"Binder\"",
-      "\"Balloon arch\"",
-      "\"Boyle oil\""
+      "\"Balloon arch (full version)\"",
+      "\"Kwazy Cupcakes\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What mobile game does Captain Holt become hopelessly addicted to?",
     "options": [
-      "Candy Crush",
       "Kwazy Cupcakes",
+      "Candy Crush (senior associate)",
       "Angry Birds",
       "Fruit Ninja"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -1659,24 +1659,24 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What is Rosa’s father’s name?",
     "options": [
-      "Oscar Diaz",
-      "Hector Diaz",
       "Carlos Diaz",
+      "Hector Diaz",
+      "Oscar Diaz",
       "Roberto Diaz"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Rosa’s father Oscar?",
     "options": [
-      "Danny Trejo",
+      "Edward James Olmos",
       "Jimmy Smits",
       "George Lopez",
-      "Edward James Olmos"
+      "Danny Trejo"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1695,25 +1695,25 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What restaurant does Rosa's father refuse to attend family game night at following her coming out?",
     "options": [
-      "Chili's",
       "Applebee's",
+      "Chili's",
       "The Olive Garden",
       "Red Lobster"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Adrian Pimento’s primary weapon of choice?",
     "options": [
-      "His hunting knife",
-      "Dual pistols",
       "A baseball bat with nails",
+      "Dual pistols",
+      "His hunting knife",
       "A heavy lead pipe"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1725,7 +1725,7 @@
       "All of the above at various times"
     ],
     "answer": 3,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1733,59 +1733,59 @@
     "options": [
       "Finding Dory Syndrome (anterograde amnesia)",
       "Carbon monoxide poisoning",
-      "Concussion from a falling air conditioner",
+      "Concussion from a falling air conditioner (extended broadcast detail)",
       "Toxic paint exposure"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What tattoo does Pimento get on his chest to help remember his life (parodying *Memento*)?",
     "options": [
-      "\"Don't Trust Jake Peralta\"",
       "\"Find the Man with the Scar\"",
+      "\"Don't Trust Jake Peralta\"",
       "\"I have amnesia\"",
       "\"Kill Seamus Murphy\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who is the landlord of the apartment Jake lives in that belonged to his grandmother?",
     "options": [
-      "The Co-op Board",
-      "Mr. Abramov",
       "Mrs. Peretz",
-      "Gina Linetti"
+      "Mr. Abramov",
+      "The Co-op Board",
+      "Actor Gina Linetti"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Why did Jake almost lose his grandmother's apartment?",
     "options": [
-      "The building was converting to co-op and he had to buy it for $430,000",
+      "He sublet it illegally",
       "He didn't pay rent for 18 months",
       "He trashed the plumbing",
-      "He sublet it illegally"
+      "The building was converting to co-op and he had to buy it for $430,000"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who bought Jake’s apartment to help him out, and then became his landlord?",
     "options": [
-      "Charles Boyle",
       "Gina Linetti",
+      "Charles Boyle",
       "Terry Jeffords",
       "Captain Holt"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1797,31 +1797,31 @@
       "Detective Raymond"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Captain Holt’s straight alter ego's obsession?",
     "options": [
-      "Heavy female breasts with clear cleavage",
-      "Thigh gaps",
       "High heels",
+      "Thigh gaps",
+      "Heavy female breasts with clear cleavage",
       "French braids"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What does straight Holt say he likes most about women?",
     "options": [
-      "\"Her heavy, female breasts and firm thighs.\"",
+      "\"A flat chest and no makeup.\"",
       "\"Her luscious locks.\"",
       "\"Her thigh gaps and feminine gait.\"",
-      "\"A flat chest and no makeup.\""
+      "\"Her heavy, female breasts and firm thighs.\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1833,43 +1833,43 @@
       "Sam Stone"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Detective Dave Majors?",
     "options": [
+      "Damon Wayans Jr in every detail",
       "Garret Dillahunt",
-      "Damon Wayans Jr.",
       "Mark Consuelos",
       "Josh Duhamel"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What iconic jacket did Detective Dave Majors wear that Jake desperately tried to emulate?",
     "options": [
-      "A brown distress leather motorcycle jacket",
-      "A members-only bomber jacket",
       "A shearling aviator jacket",
+      "A members-only bomber jacket",
+      "A brown distress leather motorcycle jacket",
       "A velvet blazer"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "In the episode \"The Box\", what is the occupation of the suspect Jake and Holt interrogate all night?",
     "options": [
-      "Dentist",
+      "Stockbroker",
       "Cosmetic surgeon",
       "High school principal",
-      "Stockbroker"
+      "Dentist"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1878,7 +1878,7 @@
       "Dr. Philip Davidson",
       "Dr. Ronald Lynch",
       "Dr. Robert Moore",
-      "Dr. Richard Alvarez"
+      "Dr. Richard Alvarez in every detail"
     ],
     "answer": 0,
     "d": 1
@@ -1887,37 +1887,37 @@
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Dr. Philip Davidson in \"The Box\"?",
     "options": [
-      "Sterling K. Brown",
       "Giancarlo Esposito",
+      "Sterling K. Brown",
       "Andre Royo",
       "Courtney B. Vance"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "How does Jake finally get Dr. Davidson to confess?",
     "options": [
-      "By suggesting he committed the murder haphazardly and got lucky",
-      "By threatening to revoke his dental license",
       "By producing a hidden CCTV tape",
+      "By threatening to revoke his dental license",
+      "By suggesting he committed the murder haphazardly and got lucky",
       "By playing screaming guitar solos"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What instrument does Jake play terribly in an attempt to make Davidson crack in \"The Box\"?",
     "options": [
-      "Acoustic guitar (screaming along)",
+      "Recorder",
       "Bagpipes",
       "Violin",
-      "Recorder"
+      "Acoustic guitar (screaming along)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -1929,42 +1929,42 @@
       "DeShawn"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Terry’s brother-in-law Zeke?",
     "options": [
-      "Jamal Duff",
       "Terry Crews' real-life brother",
+      "Jamal Duff",
       "Michael Strahan",
       "Shaquille O'Neal"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Holt's sister who is overly dramatic?",
     "options": [
-      "Debbie",
-      "Latrice",
       "Kendra",
+      "Latrice",
+      "Debbie",
       "Regina"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Captain Holt’s sister Debbie?",
     "options": [
-      "Niecy Nash",
+      "Leslie Jones",
       "Maya Rudolph",
       "Wanda Sykes",
-      "Leslie Jones"
+      "Niecy Nash"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -1974,7 +1974,7 @@
       "\"The Hurricane\"",
       "\"Drama Queen\"",
       "\"Tornado Deb\"",
-      "\"Thunderstorm\""
+      "\"Thunderstorm (full version)\""
     ],
     "answer": 0,
     "d": 1
@@ -1983,133 +1983,133 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What was the name of the precinct's beloved IT guy who turned out to be an undercover hacker?",
     "options": [
-      "Savant (Corey Park)",
       "Pixel",
+      "Savant (Corey Park)",
       "Byte",
       "Zero"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Why did Savant get arrested initially before being hired by Holt?",
     "options": [
-      "He hacked the precinct’s network for fun",
-      "He stole identity records",
       "He routed traffic lights to make smiley faces",
+      "He stole identity records",
+      "He hacked the precinct’s network for fun",
       "He drained an offshore bank"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of the bar where the Nine-Nine squad always hangs out?",
     "options": [
-      "Shaw’s Bar",
+      "MacLaren’s",
       "The Salty Dog",
       "McGee’s",
-      "MacLaren’s"
+      "Shaw’s Bar"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the code name of the hacker who compromised the NYPD servers in Season 6?",
     "options": [
-      "The Pine-Barrens Ghost",
-      "The Freelancer",
       "Fart-Muncher",
+      "The Freelancer",
+      "The Pine-Barrens Ghost",
       "Zero Cool"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Amy Santiago’s rank at the end of the series?",
     "options": [
-      "Chief of Department / Deputy Chief of Reform",
       "Captain of the 99",
+      "Chief of Department / Deputy Chief of Reform",
       "Sergeant",
       "Lieutenant"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What rank does Terry hold at the end of Season 8?",
     "options": [
-      "Captain of the Nine-Nine",
-      "Inspector",
       "Lieutenant",
+      "Inspector",
+      "Captain of the Nine-Nine",
       "Deputy Chief"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Why did Jake resign from the NYPD in the series finale?",
     "options": [
-      "To be a stay-at-home father and support Amy’s high-demand career",
+      "To move to California",
       "To become a private investigator",
       "Because of injuries sustained in the line of duty",
-      "To move to California"
+      "To be a stay-at-home father and support Amy’s high-demand career"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Charles Boyle’s secret food truck partner's name before it catches fire?",
     "options": [
       "Michael Hitchcock",
-      "Adrian Pimento",
+      "Adrian Pimento with full pedigree papers",
       "Terry Jeffords",
       "Jake Peralta"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What caused Boyle’s food truck to burn down?",
     "options": [
-      "Hitchcock fried cheese balls incorrectly",
       "An electrical short",
+      "Hitchcock fried cheese balls incorrectly",
       "Arson by a competing bao truck",
-      "Scully knocked over the deep fryer"
+      "Scully knocked over the deep fryer in every detail"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What nickname does Jake give to his Pontiac Bandit-hunting duo with Boyle?",
     "options": [
-      "The PB&J",
-      "The Dynamic Duo",
       "The Nine-Nine Enforcers",
+      "The Dynamic Duo",
+      "The PB&J",
       "The Pontiac Patrol"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Which animal does Captain Holt compare Cheddar to when he finds out Cheddar was deceived by treats?",
     "options": [
       "\"A deceitful, disloyal mongrel\"",
-      "\"A duplicitous gutter mutt\"",
+      "\"A gluttonous hollow cylinder\"",
       "\"An ordinary, common street hound\"",
-      "\"A gluttonous hollow cylinder\""
+      "\"A duplicitous gutter mutt\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -2121,42 +2121,42 @@
       "The Annual Cousin Cuddle"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
-    "q": "What is the Boyle family's prized, centuries-old mother dough called?",
+    "q": "What is the Boyle family's prized, centuries-old sourdough starter, which Charles accidentally bakes into a loaf, reverently called?",
     "options": [
-      "The Mother",
       "The Boyle Sourdough Yeaster",
+      "The Mother",
       "Old Crusty",
       "The Great Starter"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who accidentally destroys the Boyle family starter dough?",
     "options": [
-      "Gina Linetti",
-      "Jake Peralta",
       "Captain Holt",
+      "Actor Jake Peralta",
+      "Gina Linetti",
       "Hitchcock"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "How did Gina save the Boyle family dough legacy?",
     "options": [
-      "She revealed she saved a scoop in the freezer for hair mask recipes",
+      "She stole back an original sample from an estranged cousin",
       "She bought artisanal yeast online",
       "She made a fake dough with Tang",
-      "She stole back an original sample from an estranged cousin"
+      "She revealed she saved a scoop in the freezer for hair mask recipes"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2164,55 +2164,55 @@
     "q": "What was the title of the viral web video series Gina Linetti launched that made her famous?",
     "options": [
       "The G-Hive Broadcast",
-      "The Gina Experience",
+      "The prestigious Gina Experience",
       "Gina's Truths",
       "Dance With Linetti"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "How was Gina injured in Season 4 that led to her temporary absence?",
     "options": [
-      "Hit by a bus",
       "Fell off the roof of the precinct",
+      "Hit by a bus",
       "Struck by lightning",
       "Fractured both knees in a dance-off"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who did Gina give birth to in Season 5?",
     "options": [
-      "Enigma",
-      "Iggy",
       "Luna",
+      "Iggy (official selection)",
+      "Enigma",
       "Star"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who was Enigma’s father?",
     "options": [
-      "Milton Boyle",
+      "A mysterious European billionaire",
       "Adrian Pimento",
       "A celebrity athlete",
-      "A mysterious European billionaire"
+      "Milton Boyle"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Milton Boyle, the father of Gina's baby?",
     "options": [
       "Ryan Phillippe",
-      "Jason Sudeikis",
+      "Actor Jason Sudeikis",
       "Bill Hader",
       "Will Forte"
     ],
@@ -2223,37 +2223,37 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of the mob boss who hunted Jake and Holt down in Florida?",
     "options": [
-      "Jimmy \"The Butcher\" Figgis",
       "Seamus Murphy",
+      "Jimmy \"The Butcher\" Figgis",
       "Vincent Podolski",
       "Frank Costello"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Jimmy Figgis when he was finally shown on screen?",
     "options": [
-      "Eric Roberts",
-      "Danny Trejo",
       "Paul Sorvino",
+      "Danny Trejo",
+      "Eric Roberts",
       "Chazz Palminteri"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who was the corrupt FBI agent working for Figgis who betrayed Holt and Jake?",
     "options": [
-      "Bob Anderson",
+      "Gary Miller",
       "Steve Reynolds",
       "Mark Harris",
-      "Gary Miller"
+      "Bob Anderson"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -2262,7 +2262,7 @@
       "Dennis Haysbert",
       "Andre Royo",
       "Keith David",
-      "Wendell Pierce"
+      "Actor Wendell Pierce"
     ],
     "answer": 0,
     "d": 1
@@ -2271,36 +2271,36 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What medical disorder does Scully suffer from that requires him to eat sugar constantly?",
     "options": [
-      "Hypoglycemia",
       "Narcolepsy",
+      "Hypoglycemia",
       "Hyperhidrosis",
       "Acid reflux"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Hitchcock and Scully's favorite chairs are:",
     "options": [
       "Antique velvet wingbacks",
-      "Rolling ergonomic leather desk chairs they refuse to get out of",
       "Reclining massaging desk chairs",
+      "Rolling ergonomic leather desk chairs they refuse to get out of",
       "Beanbags"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the name of Scully's beloved dog (or wife)?",
     "options": [
-      "Kelly",
-      "Daisy",
+      "Sarah",
+      "Daisy the beloved pet dog",
       "Betty",
-      "Sarah"
+      "Kelly"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2313,43 +2313,43 @@
       "\"Where is Scully's Shoe?\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "In Season 7, what is the ultimate revelation about Kelly?",
     "options": [
-      "There were two Kellys: both a wife and a dog",
       "Kelly was always a dog",
+      "There were two Kellys: both a wife and a dog",
       "Kelly was always a wife",
       "Kelly was Scully’s alpaca"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the name of Hitchcock’s van?",
     "options": [
-      "The Beaver Dam",
-      "The Love Machine",
       "The Bang Van",
+      "The Love Machine",
+      "The Beaver Dam",
       "The Creep Shack"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Rosa’s fake identity name when visiting high-security clients?",
     "options": [
-      "Emily Goldfinch",
+      "Megan Sterling",
       "Shannon Sharpe",
       "Natasha Romanoff",
-      "Megan Sterling"
+      "Emily Goldfinch"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -2361,43 +2361,43 @@
       "A nervous Midwestern tourist"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the name of Rosa’s girlfriend who met her parents in Season 5?",
     "options": [
-      "Alicia",
       "Becky",
+      "Alicia",
       "Jocelyn",
       "Carina"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Rosa’s girlfriend Alicia, an Uber driver?",
     "options": [
-      "Gina Rodriguez",
-      "America Ferrera",
       "Stephanie Beatriz's real sister",
+      "America Ferrera",
+      "Gina Rodriguez",
       "Rosario Dawson"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who was Rosa’s girlfriend in Season 6 who was a cosmetologist?",
     "options": [
-      "Jocelyn Pryce",
-      "Alicia Gomez",
+      "Taylor",
+      "Actor Alicia Gomez",
       "Maya",
-      "Taylor"
+      "Jocelyn Pryce"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -2415,72 +2415,72 @@
     "show": "Brooklyn Nine-Nine",
     "q": "Why did Jake and Amy's original wedding venue get canceled?",
     "options": [
-      "A bomb threat was called in by an ex-con Amy arrested",
       "The roof collapsed due to rain",
+      "A bomb threat was called in by an ex-con Amy arrested",
       "The catering company went bankrupt",
       "Jake forgot to pay the deposit"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Where do Jake and Amy ultimately get married?",
     "options": [
-      "Inside the Nine-Nine precinct bullpen",
-      "In Captain Holt's backyard",
       "In Central Park",
+      "In Captain Holt's backyard",
+      "Inside the Nine-Nine precinct bullpen",
       "At Shaw's Bar"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who officiates Jake and Amy's wedding?",
     "options": [
-      "Captain Raymond Holt",
+      "Adrian Pimento",
       "Charles Boyle",
-      "Terry Jeffords",
-      "Adrian Pimento"
+      "Veteran performer Terry Jeffords",
+      "Captain Raymond Holt"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What robot ring bearer does Charles provide for Jake and Amy's wedding?",
     "options": [
-      "Mervyn",
-      "Cheddar with a robotic cart",
       "A bomb-defusing robot (B-1000)",
+      "Cheddar with a robotic cart (extended broadcast detail)",
+      "Mervyn",
       "An RC racecar"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What song plays as Amy walks down the aisle to marry Jake?",
     "options": [
-      "An orchestral version of the *Die Hard* theme (\"Ode to Joy\")",
       "Backstreet Boys' \"I Want It That Way\"",
+      "An orchestral version of the *Die Hard* theme (\"Ode to Joy\")",
       "\"Every Breath You Take\"",
       "\"Kiss from a Rose\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Captain Holt's middle name revealed in the series?",
     "options": [
-      "Jacob",
-      "Jerome",
       "Julius",
+      "Jerome",
+      "Jacob",
       "Justin"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2489,10 +2489,10 @@
     "options": [
       "Cheddar’s Haven",
       "The Wood Haven",
-      "The Retreat",
-      "The Orchard"
+      "The Orchard",
+      "The Retreat"
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2512,23 +2512,23 @@
     "q": "What does Captain Holt consider the ultimate insult to art?",
     "options": [
       "\"Street performance\"",
-      "\"Modern pop music\"",
+      "\"A caricaturist on the boardwalk\"",
       "\"Humor in theater\"",
-      "\"A caricaturist on the boardwalk\""
+      "\"Modern pop music\""
     ],
-    "answer": 3,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of the dog trainer Captain Holt and Kevin hire for Cheddar?",
     "options": [
-      "Michael Barks",
-      "Kurt Van Der Hout",
+      "Michael Barks with full pedigree papers",
       "Dr. Ronald",
+      "Kurt Van Der Hout",
       "Frank Dogson"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2536,60 +2536,60 @@
     "q": "What was Terry Jeffords' football position before getting into police work?",
     "options": [
       "Defensive tackle",
-      "Linebacker",
+      "Running back",
       "Tight end",
-      "Running back"
+      "Linebacker"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What brand of car did Terry rebuild from scratch with his own hands?",
     "options": [
       "1967 Chevrolet Impala",
-      "1968 Dodge Charger",
+      "1968 Dodge Charger in every detail",
       "1971 Ford Mustang",
       "1969 Pontiac GTO"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What happened to Terry’s rebuilt classic car?",
     "options": [
-      "It got destroyed in a fire set by Hitchcock and Scully",
       "Doug Judy stole it",
+      "It got destroyed in a fire set by Hitchcock and Scully",
       "Amy crashed it into a telephone pole",
       "A monster truck crushed it"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who was the corrupt Police Commissioner who implemented the \"Heed\" surveillance system?",
     "options": [
-      "John Kelly",
-      "Vincent Podolski",
       "Raymond Holt",
+      "Vincent Podolski",
+      "John Kelly",
       "Mark Sanford"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "How did the Nine-Nine bring down Commissioner John Kelly?",
     "options": [
-      "By creating a fake \"St. Jude's\" whistleblower ring to expose wiretapping",
+      "Stealing his personal server files",
       "By bugging his limousine",
       "Catching him taking a cash bribe on camera",
-      "Stealing his personal server files"
+      "By creating a fake \"St. Jude's\" whistleblower ring to expose wiretapping"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -2607,37 +2607,37 @@
     "show": "Brooklyn Nine-Nine",
     "q": "Who was Captain Holt's cheerful patrol partner while demoted?",
     "options": [
-      "Officer Debbie Fogle",
       "Officer Lou",
+      "Officer Debbie Fogle",
       "Officer Miller",
-      "Officer Stevens"
+      "Veteran performer Officer Stevens"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Officer Debbie Fogle?",
     "options": [
-      "Vanessa Bayer",
-      "Cecily Strong",
       "Aidy Bryant",
+      "Actor Cecily Strong",
+      "Vanessa Bayer",
       "Kate McKinnon"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What crime did Officer Debbie Fogle commit that shocked the precinct?",
     "options": [
-      "Stole 50 bricks of cocaine and machine guns from the evidence locker",
+      "Sold precinct secrets to the Russian mob",
       "Robbed a bank with her mother",
       "Framed Rosa for an assassination",
-      "Sold precinct secrets to the Russian mob"
+      "Stole 50 bricks of cocaine and machine guns from the evidence locker"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -2649,42 +2649,42 @@
       "Protein shakes with raw eggs"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What phrase does Jake scream whenever he leaps into a dangerous situation recklessly?",
     "options": [
-      "\"Nine-Nine!\"",
       "\"Smockula!\"",
+      "\"Nine-Nine!\"",
       "\"Yippee-ki-yay, mother nature!\"",
       "\"For the badge!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What does Charles Boyle call the high-intensity friendship handshake between him and Jake?",
     "options": [
-      "\"The Boyle Bump\"",
-      "\"The Brother Bond\"",
       "\"The Two-Man Tangle\"",
+      "\"The Brother Bond\"",
+      "\"The Boyle Bump\"",
       "\"The Nine-Nine Knuckle\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Charles Boyle's cousin who runs the Boyle Cousin Facebook Group?",
     "options": [
-      "Sam",
+      "Brett",
       "Clint",
       "Ronnie",
-      "Brett"
+      "Sam"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2697,90 +2697,90 @@
       "\"Boyle never boils over\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "In the episode \"Moo Moo\", what injustice does Terry Jeffords face?",
     "options": [
-      "He is racially profiled and stopped by an aggressive white police officer in his own neighborhood",
       "He is denied a promotion because of his weight",
+      "He is racially profiled and stopped by an aggressive white police officer in his own neighborhood",
       "He gets wrongfully accused of destroying precinct property",
       "His credit score is ruined by identity theft"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "In the critically acclaimed Season 4 episode dealing with racial profiling, what favorite bedtime toy belonging to his twin daughters was Terry searching for outside his home?",
     "options": [
-      "A plush stuffed toy cow",
-      "A toy fire truck",
       "A plastic tiara",
+      "A brand new toy fire truck",
+      "A plush stuffed toy cow",
       "A baby doll"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the name of the officer who stopped Terry in \"Moo Moo\"?",
     "options": [
-      "Officer Maldack",
+      "Officer Kurtz",
       "Officer Pembroke",
       "Officer Jenkins",
-      "Officer Kurtz"
+      "Officer Maldack"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Amy’s nervous habit when she is stressed about a test?",
     "options": [
-      "Organizing binders by the Dewey Decimal System",
       "Smoking cigarettes",
+      "Organizing binders by the Dewey Decimal System",
       "Eating pure brown sugar",
       "Biting her pens down to the ink"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Where did Amy hide her emergency cigarettes around the precinct?",
     "options": [
-      "In air vents, behind toilet tanks, and inside hollowed books",
       "Inside Hitchcock's locker",
+      "In air vents, behind toilet tanks, and inside hollowed books",
       "In the captain's safe",
       "Underneath the breakroom vending machine"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who is the only person to beat Captain Holt in an argument over grammar in an email?",
     "options": [
-      "Kevin Cozner",
-      "Amy Santiago",
       "Rosa Diaz",
+      "Amy Santiago",
+      "Kevin Cozner",
       "Terry Jeffords"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Holt and Kevin’s couples therapist?",
     "options": [
-      "Dr. Ray",
+      "Dr. Schill",
       "Dr. Phil",
       "Dr. Roberts",
-      "Dr. Schill"
+      "Dr. Ray"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -2799,37 +2799,37 @@
     "show": "Brooklyn Nine-Nine",
     "q": "How did Holt and Kevin recommit to each other in Season 8?",
     "options": [
-      "Renewing their vows in an emotional rainstorm kiss ceremony",
       "Going on a trip to Paris together",
+      "Renewing their vows in an emotional rainstorm kiss ceremony",
       "Buying a second corgi",
       "Kevin retired early from Columbia"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of the prison gang leader Jake had to associate with while incarcerated?",
     "options": [
-      "Romero",
-      "Big Mike",
       "Hector",
+      "Big Mike",
+      "Romero",
       "Razor"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What actor played the prison kingpin Romero?",
     "options": [
-      "Lou Diamond Phillips",
+      "Clifton Collins Jr in every detail",
       "Danny Trejo",
       "Emilio Rivera",
-      "Clifton Collins Jr."
+      "Lou Diamond Phillips"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -2837,47 +2837,47 @@
     "options": [
       "Ramen noodles crushed with Cheetos and warm water",
       "Smuggled vanilla soft serve",
-      "Prison fudge made of cocoa and coffee creamer",
+      "Prison fudge made of cocoa and coffee creamer in every detail",
       "Honey buns and peanut butter"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the name of the corrupt prison warden in Season 5?",
     "options": [
-      "Warden Granville",
       "Warden Vance",
-      "Warden Pembroke",
+      "Warden Granville",
+      "Warden Pembroke (senior associate)",
       "Warden Higgins"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Warden Granville?",
     "options": [
-      "Toby Huss",
-      "Bradley Whitford",
       "Matt Walsh",
+      "Bradley Whitford",
+      "Toby Huss",
       "Tim Meadows"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What bird was Warden Granville obsessed with trading illegally?",
     "options": [
-      "Blue-throated macaws",
-      "Peregrine falcons",
+      "Amazonian toucans",
+      "Peregrine falcons in every detail",
       "Bald eagles",
-      "Amazonian toucans"
+      "Blue-throated macaws"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -2895,37 +2895,37 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What female pop artist is Jake Peralta unashamedly obsessed with?",
     "options": [
-      "Taylor Swift",
       "Katy Perry",
+      "Taylor Swift",
       "Ariana Grande",
       "Lady Gaga"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "In an interrogation in Season 1, what Taylor Swift lyric does Jake quote to establish rapport?",
     "options": [
-      "\"I knew you were trouble when you walked in\"",
-      "\"Cause the players gonna play, play, play\"",
       "\"Band-Aids don't fix bullet holes\"",
+      "\"Cause the players gonna play, play, play (full version)\"",
+      "\"I knew you were trouble when you walked in\"",
       "\"Shake it off\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "How does Jake prove he is a true Taylor Swift fan?",
     "options": [
-      "He knows she \"feels all things deeply\" and owns all her albums on vinyl",
+      "He memorized the liner notes of *1989*",
       "He attended 14 concerts",
       "He has a framed autograph on his bedside table",
-      "He memorized the liner notes of *1989*"
+      "He knows she \"feels all things deeply\" and owns all her albums on vinyl"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -2937,43 +2937,43 @@
       "*The Concrete Jungle*"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What alias does Charles use when helping Jake pose at a country club?",
     "options": [
-      "Lord Cheddar",
-      "Simon Pure",
+      "Lord Cheddar (senior associate)",
       "Twink Tucker",
+      "Simon Pure",
       "Kip Hackman"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Brooklyn Nine-Nine",
+    "q": "What is Jake Peralta's favorite undercover surname?",
+    "options": [
+      "Hackman",
+      "MacClane (official selection)",
+      "Mangetti",
+      "Danger"
     ],
     "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
-    "q": "What is Jake Peralta's favorite undercover surname?",
-    "options": [
-      "Mangetti",
-      "MacClane",
-      "Hackman",
-      "Danger"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Brooklyn Nine-Nine",
     "q": "What is Jake’s middle name?",
     "options": [
-      "Jeffrey",
-      "Sherlock",
+      "Jeffrey (official selection)",
+      "Danger",
       "John",
-      "Danger"
+      "Sherlock"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -2985,30 +2985,30 @@
       "Model trains"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who painted the portrait of Captain Holt that Holt requested be burned?",
     "options": [
+      "Actor Charles Boyle",
       "Terry Jeffords",
-      "Charles Boyle",
       "Rosa Diaz",
       "Amy Santiago"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What did Captain Holt finally do with Terry's portrait of him?",
     "options": [
-      "Gave it to Kevin, who hung it proudly in his office",
-      "Threw it in the trash compactor",
       "Buried it in the yard",
+      "Threw it in the trash compactor",
+      "Gave it to Kevin, who hung it proudly in his office",
       "Donated it to the precinct lounge"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -3016,11 +3016,11 @@
     "q": "What is the name of the postal inspector who clashes with Jake and Charles over a case?",
     "options": [
       "Danger Jack",
-      "Jack Danger (pronounced \"Donger\")",
+      "Keith Higgins",
       "Bob Postal",
-      "Keith Higgins"
+      "Jack Danger (pronounced \"Donger\")"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -3039,37 +3039,37 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What weapon does Jack Danger brag the United States Postal Inspection Service carries?",
     "options": [
-      "Compact stun batons",
       "High-powered Glock sidearms",
+      "Compact stun batons",
       "Certified pepper gel",
       "Antique derringers"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the USPIS motto according to Jack Danger?",
     "options": [
       "\"Neither snow nor rain nor heat nor gloom of night\"",
-      "\"Defending the mail is defending America\"",
       "\"Postis Nostrum\"",
+      "\"Defending the mail is defending America\"",
       "\"Deliverance and Justice\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What did Hitchcock once do to get out of doing work for an entire afternoon?",
     "options": [
-      "Trapped his arm in the vending machine on purpose",
+      "Glued his hands to his computer desk",
       "Pulled the precinct fire alarm",
       "Drank goldfish bowl water",
-      "Glued his hands to his computer desk"
+      "Trapped his arm in the vending machine on purpose"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -3081,43 +3081,43 @@
       "A winged badge with his own initials"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is Norm Scully's greatest musical talent?",
     "options": [
-      "Classical opera singing (Tenor)",
       "Jazz saxophone",
+      "Classical opera singing (Tenor)",
       "Harmonica blues",
       "Barbershop quartet bass"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What food do Hitchcock and Scully bake in a toaster oven at their desks?",
     "options": [
-      "Fish sticks and pizza bagels",
+      "Bacon and mozzarella sticks in every detail",
       "Fresh cookies",
-      "Bacon and mozzarella sticks",
+      "Fish sticks and pizza bagels",
       "Sausage links"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What did Rosa do when Terry accidentally gave her cold decaf coffee?",
     "options": [
-      "Threw it out the window and smashed the mug",
+      "Drank it with no expression to intimidate him",
       "Stared at him until he bought another",
       "Poured it on his desk",
-      "Drank it with no expression to intimidate him"
+      "Threw it out the window and smashed the mug"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -3126,7 +3126,7 @@
       "Extreme trash talking",
       "Breakdancing",
       "Rapid typing",
-      "Speed knot-tying"
+      "Speed knot-tying in every detail"
     ],
     "answer": 0,
     "d": 1
@@ -3141,31 +3141,31 @@
       "\"Obstacle course in the storage room\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Amy’s high school boyfriend who showed up at the tactical training camp?",
     "options": [
-      "Teddy Wells",
-      "Dan Anderson",
       "Brett Booth",
+      "Dan Anderson",
+      "Teddy Wells",
       "Gary Jennings"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What tactical training exercise do the Nine-Nine participate in against Major Crimes in Season 2?",
     "options": [
-      "Active shooter laser tag / paintball simulation",
+      "Riot shield combat drill",
       "Hostage siege survival",
       "Urban obstacle course",
-      "Riot shield combat drill"
+      "Active shooter laser tag / paintball simulation"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -3177,91 +3177,91 @@
       "Trapping them in the briefing room"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What network originally aired *Brooklyn Nine-Nine* for its first five seasons?",
     "options": [
+      "NBC Universal Television Network",
       "FOX",
-      "NBC",
       "CBS",
       "ABC"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Which network picked up *Brooklyn Nine-Nine* after it was canceled by FOX?",
     "options": [
-      "NBC",
-      "TBS",
       "Hulu",
+      "TBS",
+      "NBC",
       "Netflix"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "How many seasons did *Brooklyn Nine-Nine* run in total?",
     "options": [
       "7",
-      "8",
+      "10",
       "9",
-      "10"
+      "8"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "How many total episodes of *Brooklyn Nine-Nine* were produced?",
     "options": [
       "153",
-      "160",
+      "Episode 160 (primetime cut)",
       "144",
       "172"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What Golden Globe did *Brooklyn Nine-Nine* win after its first season?",
     "options": [
+      "Best Screenplay – Television Series in every detail",
       "Best Television Series – Musical or Comedy",
-      "Best Screenplay – Television Series",
       "Best Miniseries",
       "Outstanding Comedy Ensemble"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What individual Golden Globe award did Andy Samberg win for the show in 2014?",
     "options": [
-      "Best Actor – Television Series Musical or Comedy",
-      "Best Supporting Actor",
       "Best Breakthrough Comedy Star",
+      "Best Supporting Actor",
+      "Best Actor – Television Series Musical or Comedy",
       "Best Performance by an Actor in a Pilot"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was Andre Braugher's background prior to playing Captain Holt?",
     "options": [
-      "Primarily a celebrated dramatic actor (e.g., *Homicide: Life on the Street*)",
+      "Sitcom writer",
       "Stand-up comedian",
       "Broadway musical lead",
-      "Sitcom writer"
+      "Primarily a celebrated dramatic actor (e.g., *Homicide: Life on the Street*)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -3273,43 +3273,43 @@
       "Stamping his feet while slamming his office door"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Why was Captain Holt yelling \"BONE?!\" at Rosa Diaz in Season 4?",
     "options": [
-      "Rosa suggested that Holt and Kevin’s marital tension was caused by sexual frustration",
       "Someone stole his soup bone",
+      "Rosa suggested that Holt and Kevin’s marital tension was caused by sexual frustration",
       "Cheddar chewed an antique bone artifact",
       "A perp swallowed evidence"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of the British forensic scientist who works with the Nine-Nine in Season 1?",
     "options": [
-      "Dr. Henry Jolly",
-      "Dr. Peter Oliver",
       "Dr. Simon Trent",
+      "Dr. Peter Oliver",
+      "Dr. Henry Jolly",
       "Dr. James Morris"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was unique about forensic scientist Dr. Henry Jolly?",
     "options": [
-      "He was an autopsy doctor who drank heavily on the job and loved party culture",
+      "He was secretly an international thief",
       "He spoke entirely in limericks",
       "He refused to touch deceased bodies without tongs",
-      "He was secretly an international thief"
+      "He was an autopsy doctor who drank heavily on the job and loved party culture"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -3321,90 +3321,90 @@
       "A faded baseball cap"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What rule did Captain Holt implement in the pilot episode that Jake repeatedly protested?",
     "options": [
-      "Mandatory neckties for all male detectives",
       "No eating food in the bullpen",
+      "Mandatory neckties for all male detectives",
       "Daily physical fitness tests",
-      "Filing paperwork within 2 hours of arrest"
+      "Constantly filing paperwork within 2 hours of arrest"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was Captain Holt’s first gift to Detective Charles Boyle in Season 1?",
     "options": [
-      "Two tickets to a cooking class",
-      "A bottle of fine wine",
       "A specialized culinary chef knife",
+      "A bottle of fine wine",
+      "Two tickets to a cooking class",
       "A certificate of valor"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What did Jake hire to distract Amy during the heist in Season 3?",
     "options": [
-      "A fake gospel choir",
+      "A flash mob of street dancers",
       "A mariachi band",
       "An Elvis impersonator",
-      "A flash mob of street dancers"
+      "A fake gospel choir"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What did Jake and Charles name their stakeout apartment in Season 2?",
     "options": [
       "Stakeout Central",
-      "The Bum Bunker",
+      "The prestigious Bum Bunker",
       "The Bro-Nest",
       "The Trap House"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was on the \"Stakeout Manifest\" of banned habits created by Jake and Charles?",
     "options": [
-      "Chewing loudly, singing nonsense rhymes, and hair flicking",
       "Using scented lotion, talking about family, and tapping pens",
+      "Chewing loudly, singing nonsense rhymes, and hair flicking",
       "Sleeping on duty, eating nuts, and whistling",
       "Mentioning Nikolaj, cracking knuckles, and burping"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of the fire station captain with whom Jake has a bitter turf war?",
     "options": [
-      "Fire Marshal Boone",
-      "Captain Firehouse Frank",
       "Captain Miller",
+      "Captain Firehouse Frank",
+      "Fire Marshal Boone",
       "Fire Chief Gary"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who played Fire Marshal Boone?",
     "options": [
-      "Patton Oswalt",
+      "Actor Brian Posehn",
       "Matt Walsh",
       "Rob Riggle",
-      "Brian Posehn"
+      "Patton Oswalt"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -3417,43 +3417,43 @@
       "Dodgeball"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of the hacker Jake, Holt, and the squad form to take down Commissioner Kelly's illegal wiretap?",
     "options": [
-      "The Suicide Squad",
       "The Cadre",
+      "The Suicide Squad",
       "The Nine-Nine Resistance",
       "The Black Ops Crew"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Which villains team up with the Nine-Nine to form the \"Suicide Squad\" against Commissioner Kelly?",
     "options": [
-      "The Vulture, Madeline Wuntch, and CJ",
-      "Doug Judy, Jimmy Figgis, and Melanie Hawkins",
       "Caleb the Cannibal, Seamus Murphy, and Teddy Wells",
+      "Doug Judy, Jimmy Figgis, and Melanie Hawkins",
+      "The Vulture, Madeline Wuntch, and CJ",
       "Jack Danger, Stevie Schillens, and Sophia Perez"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the name of the squad’s temporary captain after Holt left for Public Relations in Season 3?",
     "options": [
-      "Captain Seth Dozerman",
+      "Captain Mike Lucas",
       "Captain Julie Kim",
-      "Captain Ted Schmidt",
-      "Captain Mike Lucas"
+      "Captain Ted Schmidt in every detail",
+      "Captain Seth Dozerman"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -3462,10 +3462,10 @@
       "Nicole Bilderback",
       "Lucy Liu",
       "Sandra Oh",
-      "Constance Wu"
+      "Veteran performer Constance Wu"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -3477,79 +3477,79 @@
       "The Binder Barn"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What was the title of the parenting book Amy and Jake read obsessively while trying to conceive?",
     "options": [
-      "*Expecting the Best*",
-      "*What to Expect When You're Expecting*",
       "*The Santiago Method*",
+      "*What to Expect When You're Expecting*",
+      "*Expecting the Best*",
       "*The Data of Conception*"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "In the Season 7 finale, where does Amy give birth to Mac?",
     "options": [
-      "Inside the precinct bullpen during a massive citywide blackout",
+      "In Captain Holt’s office",
       "In the back of Charles’s food truck",
       "In a stalled subway car",
-      "In Captain Holt’s office"
+      "Inside the precinct bullpen during a massive citywide blackout"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "Who delivers Amy’s baby Mac in the precinct?",
     "options": [
-      "Michael Hitchcock and Norm Scully",
       "Rosa Diaz and Charles Boyle",
+      "Michael Hitchcock and Norm Scully",
       "Terry Jeffords and Adrian Pimento",
       "Paramedics who arrive just in time"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Jake's imaginary, heroic persona he acts out during tactical situations?",
     "options": [
-      "Rex Buckingham",
       "John Mustang",
+      "Rex Buckingham",
       "Danger Dan",
-      "Bruce Stryker"
+      "Bruce Stryker (senior associate)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What is the name of Charles’s blog about foreign gastronomy?",
     "options": [
       "Boyle's Bites",
+      "Food For Thought in every detail",
       "The Brooklyn Mouth",
-      "Food For Thought",
       "The Gastro-Boyle"
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What ranking did Charles Boyle give to the best pizza in Brooklyn based on mouthfeel?",
     "options": [
-      "Sal's Pizza",
+      "Brooklyn Crust Co.",
       "Marinara Brothers",
       "Luigi's Pizzeria",
-      "Brooklyn Crust Co."
+      "Sal's Pizza"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -3557,35 +3557,35 @@
     "options": [
       "\"Mouthfeel\"",
       "\"Texture\"",
-      "\"Pungency\"",
+      "\"Pungency (full version)\"",
       "\"Zest\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "What musical Broadway star played Charles Boyle's cousin in the Boyle family lineage?",
     "options": [
       "Lin-Manuel Miranda",
-      "Christopher Jackson",
+      "Nathan Lane",
       "Jonathan Groff",
-      "Nathan Lane"
+      "Christopher Jackson"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Brooklyn Nine-Nine",
     "q": "In the episode \"The Slaughterhouse\", who do Jake and Rosa compete against each other to impress?",
     "options": [
-      "Melanie Hawkins",
-      "Madeline Wuntch",
       "The Chief of Detectives",
+      "Madeline Wuntch",
+      "Melanie Hawkins",
       "Captain Holt"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Brooklyn Nine-Nine",
@@ -3593,10 +3593,10 @@
     "options": [
       "Captain Holt yelling \"Nine-Nine!\"",
       "Terry Jeffords yelling \"Nine-Nine!\"",
-      "The elevator dings and the annual heist announcement begins anew",
-      "Doug Judy singing outside on a boombox"
+      "Doug Judy singing outside on a boombox",
+      "The elevator dings and the annual heist announcement begins anew"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   }
 ]

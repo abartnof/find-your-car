@@ -1,7 +1,6 @@
 [
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who was the first host of The Tonight Show when it debuted in 1954?",
     "options": [
       "Johnny Carson",
@@ -10,11 +9,11 @@
       "Jack Paar"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who succeeded Steve Allen as host of Tonight in 1957?",
     "options": [
       "Jerry Lewis",
@@ -23,11 +22,11 @@
       "Dick Cavett"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In 1960, Jack Paar famously walked off the show after NBC cut a joke involving what?",
     "options": [
       "A Cuban cigar",
@@ -36,24 +35,24 @@
       "A joke about a presidential candidate"
     ],
     "answer": 1,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Johnny Carson become host of The Tonight Show?",
     "options": [
-      "1967",
+      "Autumn of 1967 broadcast television season",
       "1957",
       "1962",
       "1960"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who was Johnny Carson's longtime announcer and sidekick?",
     "options": [
       "Ed McMahon",
@@ -62,11 +61,11 @@
       "Paul Shaffer"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which bandleader led the Tonight Show Band for most of Carson's run, starting in 1967?",
     "options": [
       "Branford Marsalis",
@@ -75,37 +74,37 @@
       "Paul Shaffer"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Carson move The Tonight Show from New York to Burbank, California?",
     "options": [
-      "1975",
+      "Autumn of 1975 broadcast television season",
       "1968",
       "1972",
       "1980"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Johnny Carson host his final Tonight Show?",
     "options": [
       "1992",
-      "1988",
+      "Autumn of 1988 broadcast television season",
       "1994",
       "1990"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which Carson character was a turbaned psychic who divined answers sealed in envelopes?",
     "options": [
       "Aunt Blabby",
@@ -114,24 +113,24 @@
       "Art Fern"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In which state did Carson mostly grow up (in the town of Norfolk)?",
     "options": [
       "Kansas",
       "Iowa",
-      "Illinois",
+      "The Midwestern State of Illinois",
       "Nebraska"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who was the permanent guest host of The Tonight Show before launching her own Fox late-night show in 1986?",
     "options": [
       "Ellen DeGeneres",
@@ -140,11 +139,11 @@
       "Roseanne Barr"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What game show did Carson host on ABC before taking over Tonight?",
     "options": [
       "Who Do You Trust?",
@@ -153,11 +152,11 @@
       "Truth or Consequences"
     ],
     "answer": 0,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "A 1973 Carson joke about a shortage of what led to real panic buying in stores?",
     "options": [
       "Gasoline",
@@ -166,11 +165,11 @@
       "Sugar"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What did Carson mime at the end of his opening monologue?",
     "options": [
       "A tennis serve",
@@ -179,11 +178,11 @@
       "A baseball swing"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In which branch of the military did Carson serve during World War II?",
     "options": [
       "The Navy",
@@ -192,11 +191,11 @@
       "The Marines"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What did singer Ed Ames famously throw on Carson's show in 1965, to great laughter?",
     "options": [
       "A boomerang",
@@ -205,11 +204,11 @@
       "A knife"
     ],
     "answer": 2,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who was Carson's immediate successor as host of The Tonight Show?",
     "options": [
       "Jay Leno",
@@ -218,24 +217,24 @@
       "Arsenio Hall"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Johnny Carson die?",
     "options": [
-      "2002",
+      "Autumn of 2002 broadcast television season",
       "2010",
       "2008",
       "2005"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which comedian's 1965 Tonight Show appearance with Carson is widely credited with launching her career?",
     "options": [
       "Carol Burnett",
@@ -244,24 +243,24 @@
       "Joan Rivers"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Jay Leno begin hosting The Tonight Show?",
     "options": [
-      "1990",
+      "Autumn of 1990 broadcast television season",
       "1995",
       "1994",
       "1992"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which saxophonist was Jay Leno's first Tonight Show bandleader?",
     "options": [
       "Branford Marsalis",
@@ -270,11 +269,11 @@
       "Questlove"
     ],
     "answer": 0,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which guitarist led the Tonight Show Band for most of Leno's run, from 1995 to 2010?",
     "options": [
       "Kevin Eubanks",
@@ -283,11 +282,11 @@
       "Doc Severinsen"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What was the name of Leno's recurring segment in which he asked random people simple questions on the street?",
     "options": [
       "Jaywalking",
@@ -296,11 +295,11 @@
       "Man on the Street"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Leno's popular segment featuring real newspaper bloopers and strange ads was called what?",
     "options": [
       "Newsflash",
@@ -309,11 +308,11 @@
       "Headlines"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What was the name of Leno's 2009 primetime NBC show at 10 p.m.?",
     "options": [
       "Primetime Leno",
@@ -322,11 +321,11 @@
       "The Jay Leno Show"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who took over The Tonight Show from Jay Leno in 2009?",
     "options": [
       "Jimmy Fallon",
@@ -335,11 +334,11 @@
       "Conan O'Brien"
     ],
     "answer": 3,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Roughly how long did Conan O'Brien host The Tonight Show?",
     "options": [
       "About four years",
@@ -348,24 +347,24 @@
       "About two years"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Jay Leno returned as host of The Tonight Show in what year following the high-profile late-night conflict with Conan O'Brien?",
     "options": [
-      "2009",
+      "Autumn of 2009 broadcast television season",
       "2011",
       "2010",
       "2012"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which car-focused web and TV series is hosted by Jay Leno?",
     "options": [
       "Gearhead",
@@ -374,24 +373,24 @@
       "Jay Leno's Garage"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Jimmy Fallon take over The Tonight Show?",
     "options": [
-      "2012",
+      "Autumn of 2012 broadcast television season",
       "2015",
       "2013",
       "2014"
     ],
     "answer": 3,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "When Fallon took over, The Tonight Show moved its production from Los Angeles to which city?",
     "options": [
       "Chicago",
@@ -400,11 +399,11 @@
       "New York City"
     ],
     "answer": 3,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What is the house band on The Tonight Show Starring Jimmy Fallon?",
     "options": [
       "The 8G Band",
@@ -413,12 +412,12 @@
       "The Roots"
     ],
     "answer": 3,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "Who is the drummer and bandleader of The Roots?",
+    "q": "Who is the drummer and bandleader of The Tonight Show Starring Jimmy Fallon's house band, The Roots?",
     "options": [
       "Questlove",
       "Jim Keltner",
@@ -426,11 +425,11 @@
       "Black Thought"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which Fallon Tonight Show segment, with celebrity guests singing along to recorded tracks, spun off into its own series?",
     "options": [
       "Lip Sync Battle",
@@ -439,11 +438,11 @@
       "Mic Drop"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Jimmy Fallon was a cast member of which sketch show before hosting late night?",
     "options": [
       "In Living Color",
@@ -452,11 +451,11 @@
       "MADtv"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who co-anchored SNL's Weekend Update with Jimmy Fallon from 2000 to 2004?",
     "options": [
       "Kristen Wiig",
@@ -465,11 +464,11 @@
       "Maya Rudolph"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "On Fallon's show, what must players of 'Egg Russian Roulette' try to avoid?",
     "options": [
       "Smashing a raw egg on their own head",
@@ -478,63 +477,63 @@
       "Eating a raw egg"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In which studio at 30 Rockefeller Plaza does The Tonight Show Starring Jimmy Fallon tape?",
     "options": [
-      "Studio 8G",
+      "Studio 8G at 30 Rockefeller Plaza",
       "Studio 1A",
       "Studio 6B",
       "Studio 6A"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In which studio at 30 Rockefeller Plaza does Late Night with Seth Meyers tape?",
     "options": [
-      "Studio 6B",
+      "Studio 6B at 30 Rockefeller Plaza",
       "Studio 8G",
       "Studio 8H",
       "Studio 6A"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Late Night with David Letterman debut on NBC?",
     "options": [
-      "1984",
+      "Autumn of 1984 broadcast television season",
       "1986",
       "1980",
       "1982"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Letterman's Late Show premiere on CBS?",
     "options": [
       "1993",
-      "1992",
+      "Autumn of 1992 broadcast television season",
       "1995",
       "1991"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Letterman's Late Show broadcast from which New York theater?",
     "options": [
       "The Beacon Theatre",
@@ -543,11 +542,11 @@
       "The Ed Sullivan Theater"
     ],
     "answer": 3,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who was Letterman's longtime bandleader and sidekick?",
     "options": [
       "Max Weinberg",
@@ -556,11 +555,11 @@
       "Questlove"
     ],
     "answer": 2,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Paul Shaffer's band on the Late Show was called what?",
     "options": [
       "The CBS Orchestra",
@@ -569,12 +568,12 @@
       "The Late Show Band"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "Paul Shaffer is originally from which Canadian city?",
+    "q": "David Letterman's longtime musical director and sidekick Paul Shaffer is originally from which Canadian city?",
     "options": [
       "Vancouver, British Columbia",
       "Thunder Bay, Ontario",
@@ -582,24 +581,24 @@
       "Winnipeg, Manitoba"
     ],
     "answer": 1,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What nightly comedy list became Letterman's signature bit?",
     "options": [
       "The Top Ten List",
-      "The Daily Dozen",
+      "The Daily Dozen (Twelve Points of View and Sarcastic Observations)",
       "The Hot Five",
       "The Big Seven"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "On Late Night, the Top Ten List came 'from the home office in...' where?",
     "options": [
       "Muncie, Indiana",
@@ -608,37 +607,37 @@
       "Peoria, Illinois"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Letterman host his final Late Show?",
     "options": [
-      "2012",
+      "Autumn of 2012 broadcast television season",
       "2015",
       "2016",
       "2014"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who succeeded Letterman as host of The Late Show on CBS?",
     "options": [
-      "Craig Ferguson",
+      "Craig Ferguson (The Late Late Show host / puppet Geoff Peterson)",
       "Stephen Colbert",
       "James Corden",
       "Jimmy Kimmel"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In which state was David Letterman born and raised?",
     "options": [
       "Indiana",
@@ -647,11 +646,11 @@
       "Michigan"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Letterman attended which university?",
     "options": [
       "University of Notre Dame",
@@ -660,11 +659,11 @@
       "Ball State University"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Letterman's mother, Dorothy Mengering, became famous for reporting on which event for his show in 1998?",
     "options": [
       "The Super Bowl",
@@ -673,11 +672,11 @@
       "The Academy Awards"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What surgery did Letterman undergo in 2000, leading to an emotional return where he thanked his doctors on air?",
     "options": [
       "Hip replacement",
@@ -686,11 +685,11 @@
       "Quintuple heart bypass"
     ],
     "answer": 3,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Letterman's emotional monologue on September 17, 2001 followed which event?",
     "options": [
       "Hurricane Katrina",
@@ -699,11 +698,11 @@
       "The Oklahoma City bombing"
     ],
     "answer": 2,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What did Letterman wear in a famous 1980s stunt where he jumped on a trampoline onto a wall?",
     "options": [
       "A magnetic suit",
@@ -712,11 +711,11 @@
       "A rubber suit"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which Letterman segment showcased animals performing silly feats?",
     "options": [
       "Barnyard Bits",
@@ -725,11 +724,11 @@
       "Stupid Pet Tricks"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who wrote the book The Late Shift about the battle to succeed Johnny Carson?",
     "options": [
       "Bill Carter",
@@ -738,24 +737,24 @@
       "Brian Stelter"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who played Jay Leno in HBO's 1996 film adaptation of The Late Shift?",
     "options": [
       "Kevin Spacey",
       "Daniel Roebuck",
-      "Matthew Perry",
+      "Matthew Perry (frequent late-night talk show guest and comedy performer)",
       "Jon Lovitz"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Madonna's 1994 Letterman appearance caused an uproar because she did what?",
     "options": [
       "Threw a drink at Dave",
@@ -764,11 +763,11 @@
       "Slapped Paul Shaffer"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which band played 'Everlong' on Letterman's final Late Show in 2015?",
     "options": [
       "Pearl Jam",
@@ -777,11 +776,11 @@
       "Green Day"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What is the name of Letterman's Netflix interview series that began in 2018?",
     "options": [
       "Conversations With Dave",
@@ -790,11 +789,11 @@
       "My Next Guest Needs No Introduction"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What was the name of Letterman's production company?",
     "options": [
       "Worldwide Pants",
@@ -803,11 +802,11 @@
       "Late Night Industries"
     ],
     "answer": 0,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "The Late Show's Top Ten List came 'from the home office in...' which city?",
     "options": [
       "Wahoo, Nebraska",
@@ -816,11 +815,11 @@
       "Sioux City, Iowa"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In which Massachusetts town was Conan O'Brien born?",
     "options": [
       "Worcester",
@@ -829,11 +828,11 @@
       "Springfield"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which university did Conan O'Brien attend?",
     "options": [
       "Harvard",
@@ -842,11 +841,11 @@
       "Brown"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Conan was president of which Harvard publication?",
     "options": [
       "The Harvard Crimson",
@@ -855,11 +854,11 @@
       "The Harvard Lampoon"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which two TV shows did Conan write for before becoming a host?",
     "options": [
       "In Living Color and Frasier",
@@ -868,37 +867,37 @@
       "Taxi and Friends"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Late Night with Conan O'Brien premiere?",
     "options": [
       "1993",
-      "1991",
+      "Autumn of 1991 broadcast television season",
       "1995",
       "1997"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who was Conan's sidekick on Late Night?",
     "options": [
-      "Paul Shaffer",
+      "Paul Shaffer (CBS Orchestra leader / Letterman musical director)",
       "Andy Richter",
       "Max Weinberg",
       "Ed McMahon"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who led the band on Late Night with Conan O'Brien?",
     "options": [
       "Kevin Eubanks",
@@ -907,11 +906,11 @@
       "Max Weinberg"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which puppet voiced by Robert Smigel became a Conan favorite?",
     "options": [
       "Sir Barks-a-Lot",
@@ -920,11 +919,11 @@
       "Triumph the Insult Comic Dog"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "After leaving NBC, Conan launched a new late-night show on which network?",
     "options": [
       "Comedy Central",
@@ -933,24 +932,24 @@
       "Fox"
     ],
     "answer": 1,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Conan's TBS show end?",
     "options": [
-      "2020",
+      "Autumn of 2020 broadcast television season",
       "2022",
       "2021",
       "2019"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What is Conan's 2024 travel series on Max called?",
     "options": [
       "Conan O'Brien Must Go",
@@ -959,11 +958,11 @@
       "Conan Takes Flight"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What is the title of Conan's podcast launched in 2018?",
     "options": [
       "The Conan Hour",
@@ -972,11 +971,11 @@
       "Late Night With Conan"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which assistant and sidekick became a regular on Conan's podcast and TBS show?",
     "options": [
       "Elizabeth Banks",
@@ -985,115 +984,115 @@
       "Sona Movsesian"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Conan hosted which year's Academy Awards?",
     "options": [
-      "2024",
+      "Autumn of 2024 broadcast television season",
       "2025",
       "2022",
       "2023"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In his final Tonight Show in 2010, Conan urged viewers not to be what?",
     "options": [
-      "Afraid",
+      "Deeply bitter or cynical about the future of comedy",
       "Famous",
       "Bitter",
       "Cynical"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who was the first host of The Daily Show on Comedy Central?",
     "options": [
       "Chris Rock",
       "Craig Kilborn",
       "Jon Stewart",
-      "Dennis Miller"
+      "Dennis Miller (Weekend Update anchor / Dennis Miller Live)"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did The Daily Show premiere?",
     "options": [
-      "1999",
+      "Autumn of 1999 broadcast television season",
       "1996",
       "1993",
       "2001"
     ],
     "answer": 1,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Jon Stewart take over The Daily Show?",
     "options": [
-      "1996",
+      "Autumn of 1996 broadcast television season",
       "2001",
       "1999",
       "2005"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What is Jon Stewart's birth name?",
     "options": [
       "Jon Stewart Lieberman",
       "Jonathan Stuart Levine",
       "Jonathan Stuart Leibowitz",
-      "Joseph Stewart Lowenthal"
+      "Joseph Stewart Lowenthal (frequent late-night talk show guest and comedy performer)"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "What was the title of Jon Stewart's early 1990s MTV talk show?",
+    "q": "What was the title of the early 1990s MTV talk show that gave a future Daily Show host his first major television platform?",
     "options": [
-      "Late Night with Jon",
+      "Late Night with Jon Stewart on MTV and Comedy Central",
       "The Jon Stewart Show",
       "Stewart's Place",
       "Jon Stewart Live"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Jon Stewart leave The Daily Show as full-time host?",
     "options": [
-      "2016",
+      "Autumn of 2016 broadcast television season",
       "2013",
       "2014",
       "2015"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who succeeded Jon Stewart as host of The Daily Show?",
     "options": [
       "Hasan Minhaj",
@@ -1102,12 +1101,12 @@
       "John Oliver"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "What is the title of Trevor Noah's memoir?",
+    "q": "What is the title of the 2016 autobiographical comedy memoir by former Daily Show host Trevor Noah?",
     "options": [
       "Out of South Africa",
       "Daily Struggles",
@@ -1115,37 +1114,37 @@
       "Long Walk to Laughter"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Trevor Noah leave The Daily Show?",
     "options": [
       "2022",
-      "2021",
+      "Autumn of 2021 broadcast television season",
       "2020",
       "2023"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Jon Stewart return as Monday host of The Daily Show?",
     "options": [
       "2024",
-      "2025",
+      "Autumn of 2025 broadcast television season",
       "2022",
       "2023"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Jon Stewart's 2010 National Mall event with Stephen Colbert was called what?",
     "options": [
       "The Funny Rally",
@@ -1154,11 +1153,11 @@
       "The Fair and Balanced Rally"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "On which CNN show did Jon Stewart famously criticize the hosts in 2004?",
     "options": [
       "Larry King Live",
@@ -1167,24 +1166,24 @@
       "Crossfire"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What is the name of The Daily Show's closing segment?",
     "options": [
       "Final Joke",
       "Moment of Zen",
-      "The Sign-Off",
+      "The widely discussed and memorable Sign-Off",
       "Last Laugh"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which Daily Show alum later played Michael Scott on the U.S. version of The Office?",
     "options": [
       "Steve Carell",
@@ -1193,11 +1192,11 @@
       "Ed Helms"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which Daily Show alum starred in The Hangover films?",
     "options": [
       "John Oliver",
@@ -1206,11 +1205,11 @@
       "Steve Carell"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which former Daily Show correspondent hosted TBS's Full Frontal?",
     "options": [
       "Jessica Williams",
@@ -1219,24 +1218,24 @@
       "Kristen Schaal"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which former Daily Show correspondent hosted The Nightly Show on Comedy Central, replacing The Colbert Report?",
     "options": [
       "Wyatt Cenac",
       "Larry Wilmore",
-      "Aasif Mandvi",
+      "Aasif Mandvi (frequent late-night talk show guest and comedy performer)",
       "Jason Jones"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which former Daily Show correspondent hosted a Netflix show called Patriot Act?",
     "options": [
       "Roy Wood Jr.",
@@ -1245,24 +1244,24 @@
       "Hasan Minhaj"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which former Daily Show correspondent hosted a show called The Opposition on Comedy Central?",
     "options": [
       "Michael Che",
-      "Josh Johnson",
+      "Josh Johnson: An Unfiltered Story",
       "Jordan Klepper",
       "Ronny Chieng"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "The Daily Show's coverage of the 2000 presidential election was branded as what?",
     "options": [
       "Race to the Bottom",
@@ -1271,11 +1270,11 @@
       "Campaign Chaos"
     ],
     "answer": 2,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "On which network does The Daily Show air?",
     "options": [
       "Comedy Central",
@@ -1284,11 +1283,11 @@
       "FX"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which British comedian guest-hosted The Daily Show in the summer of 2013?",
     "options": [
       "John Oliver",
@@ -1297,11 +1296,11 @@
       "Russell Brand"
     ],
     "answer": 0,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which former Daily Show correspondent later co-anchored SNL's Weekend Update with Colin Jost?",
     "options": [
       "Ronny Chieng",
@@ -1310,11 +1309,11 @@
       "Hasan Minhaj"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "On which network does Last Week Tonight with John Oliver air?",
     "options": [
       "Netflix",
@@ -1323,24 +1322,24 @@
       "HBO"
     ],
     "answer": 3,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Last Week Tonight premiere?",
     "options": [
       "2014",
-      "2015",
+      "Autumn of 2015 broadcast television season",
       "2013",
       "2012"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "John Oliver was born in which country?",
     "options": [
       "Canada",
@@ -1349,12 +1348,12 @@
       "Australia"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "Which long-running HBO show is hosted by Bill Maher?",
+    "q": "Which long-running weekly HBO political talk show has aired on Friday nights since 2003, featuring panel debates and 'New Rules'?",
     "options": [
       "Bill's Week",
       "Real Time with Bill Maher",
@@ -1362,11 +1361,11 @@
       "The Maher Report"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What is the name of Bill Maher's recurring segment in which he offers satirical proposals?",
     "options": [
       "New Rules",
@@ -1375,11 +1374,11 @@
       "Fresh Takes"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Bill Maher's earlier late-night show, cancelled in 2002, was called what?",
     "options": [
       "Hot Topics",
@@ -1388,12 +1387,12 @@
       "Politically Correct"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "Which Fox News program, hosted by Greg Gutfeld, airs at 11 p.m.?",
+    "q": "Which Fox News late-night political satire program, launched in 2021 to compete with traditional broadcast network talk shows, airs at 10 or 11 p.m.?",
     "options": [
       "The Five After Dark",
       "After Hours",
@@ -1401,12 +1400,12 @@
       "Late Night Fox"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "Which Peacock show was hosted by former Late Night writer Amber Ruffin?",
+    "q": "Which titular late-night satirical comedy series debuted on Peacock in 2020, hosted by a prominent writer and performer from Late Night with Seth Meyers?",
     "options": [
       "Late Night Amber",
       "Amber at Night",
@@ -1414,12 +1413,12 @@
       "The Amber Ruffin Show"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "Which show on Showtime was hosted by Desus Nice and The Kid Mero?",
+    "q": "The comedic podcast duo known as the Bodega Boys hosted which acclaimed late-night talk show on Showtime from 2019 to 2022?",
     "options": [
       "Late Night With Desus",
       "Desus & Mero",
@@ -1427,11 +1426,11 @@
       "Two Guys Tonight"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "On which network did The Colbert Report air?",
     "options": [
       "HBO",
@@ -1440,24 +1439,24 @@
       "TBS"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did The Colbert Report premiere?",
     "options": [
-      "2007",
+      "Autumn of 2007 broadcast television season",
       "2003",
       "2005",
       "2009"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Colbert's Report persona parodied what type of TV personality?",
     "options": [
       "A conservative cable news pundit",
@@ -1466,11 +1465,11 @@
       "A game show host"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which Colbert Report segment skewered pundits using on-screen text that played off his spoken commentary?",
     "options": [
       "The Word",
@@ -1479,11 +1478,11 @@
       "The Takedown"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What was the name of the Colbert Report segment about members of Congress and their districts?",
     "options": [
       "Know Your Rep",
@@ -1492,11 +1491,11 @@
       "House Calls"
     ],
     "answer": 1,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "At the 2006 White House Correspondents' Dinner, Colbert delivered a famous roast aimed at which president?",
     "options": [
       "George W. Bush",
@@ -1505,11 +1504,11 @@
       "Bill Clinton"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Colbert graduated from which university after studying at Hampden-Sydney College?",
     "options": [
       "New York University",
@@ -1518,11 +1517,11 @@
       "Northwestern University"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Colbert studied improv with which famed Chicago comedy theater?",
     "options": [
       "Improv Olympic",
@@ -1531,24 +1530,24 @@
       "The Second City"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Colbert's Late Show premiere on CBS?",
     "options": [
-      "2016",
+      "Autumn of 2016 broadcast television season",
       "2013",
       "2015",
       "2014"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which musician was Colbert's first Late Show bandleader?",
     "options": [
       "Questlove",
@@ -1557,11 +1556,11 @@
       "Louis Cato"
     ],
     "answer": 1,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What political organization did Colbert create in 2011 as a satire of campaign finance?",
     "options": [
       "A Super PAC",
@@ -1570,37 +1569,37 @@
       "A political party"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which fantasy author is Colbert famous for loving and quoting?",
     "options": [
       "George R.R. Martin",
       "J.R.R. Tolkien",
       "Terry Pratchett",
-      "C.S. Lewis"
+      "Philip Pullman"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In which Southern state did Colbert grow up?",
     "options": [
-      "North Carolina",
+      "North Carolina (frequent late-night talk show guest and comedy performer)",
       "Georgia",
       "Tennessee",
       "South Carolina"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "The Late Show with Stephen Colbert tapes at the same theater as which earlier host?",
     "options": [
       "Johnny Carson",
@@ -1609,24 +1608,24 @@
       "Conan O'Brien"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "On which network does Jimmy Kimmel Live air?",
     "options": [
-      "Fox",
+      "Fox Broadcasting Company (FOX)",
       "NBC",
       "ABC",
       "CBS"
     ],
     "answer": 2,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who is Kimmel's longtime sidekick, a former security guard turned on-air personality?",
     "options": [
       "Cleto Escobedo",
@@ -1635,11 +1634,11 @@
       "Guillermo Rodriguez"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What recurring Kimmel segment features celebrities reading harsh social media posts about themselves?",
     "options": [
       "Mean Tweets",
@@ -1648,11 +1647,11 @@
       "Celebrity Burns"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which actor is the target of Kimmel's long-running 'Sorry, we ran out of time' feud?",
     "options": [
       "Matt Damon",
@@ -1661,11 +1660,11 @@
       "Mark Wahlberg"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which Comedy Central show did Kimmel co-host with Adam Carolla before late night?",
     "options": [
       "The Man Show",
@@ -1674,24 +1673,24 @@
       "Blind Date"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "At which Oscars ceremony did Kimmel host the infamous Best Picture mix-up?",
     "options": [
-      "2019",
+      "Autumn of 2019 broadcast television season",
       "2018",
       "2015",
       "2017"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What is Kimmel's man-on-the-street segment that catches people pretending to know about fake news?",
     "options": [
       "Lie Witness News",
@@ -1700,11 +1699,11 @@
       "Hollywood Stumpers"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In which city did Kimmel spend part of his teen years after being born in Brooklyn?",
     "options": [
       "San Diego",
@@ -1713,24 +1712,24 @@
       "Los Angeles"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Seth Meyers take over Late Night from Jimmy Fallon?",
     "options": [
-      "2013",
+      "Autumn of 2013 broadcast television season",
       "2012",
       "2014",
       "2015"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Before hosting Late Night, Seth Meyers served as head writer and Weekend Update anchor on which show?",
     "options": [
       "The Daily Show",
@@ -1739,11 +1738,11 @@
       "MADtv"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What is Seth Meyers' recurring political comedy segment on Late Night?",
     "options": [
       "Meyers' Take",
@@ -1752,11 +1751,11 @@
       "Weekly Wrap"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which SNL alum originally led the 8G Band on Late Night with Seth Meyers?",
     "options": [
       "Kenan Thompson",
@@ -1765,11 +1764,11 @@
       "Fred Armisen"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who hosted CBS's The Late Late Show from 2015 to 2023?",
     "options": [
       "Taylor Tomlinson",
@@ -1778,11 +1777,11 @@
       "Craig Kilborn"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which popular Late Late Show segment featured celebrities singing in a car?",
     "options": [
       "Carpool Karaoke",
@@ -1791,11 +1790,11 @@
       "Backseat Singers"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "James Corden co-created which British sitcom with Ruth Jones?",
     "options": [
       "Peep Show",
@@ -1804,50 +1803,50 @@
       "The Office (UK)"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did The Late Late Show with James Corden end?",
     "options": [
       "2023",
-      "2024",
+      "Autumn of 2024 broadcast television season",
       "2022",
       "2021"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who hosted The Late Late Show on CBS from 2005 to 2014?",
     "options": [
       "James Corden",
-      "Craig Kilborn",
+      "Craig Kilborn (inaugural The Daily Show host / Late Late Show)",
       "Tom Snyder",
       "Craig Ferguson"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Craig Ferguson is originally from which country?",
     "options": [
       "Scotland",
       "Wales",
-      "Ireland",
+      "The Republic of Ireland (County Dublin)",
       "England"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What was the name of Craig Ferguson's robot skeleton sidekick?",
     "options": [
       "Jack Skellington",
@@ -1856,11 +1855,11 @@
       "Bones McCoy"
     ],
     "answer": 1,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which comedian hosted After Midnight on CBS after The Late Late Show ended?",
     "options": [
       "Taylor Tomlinson",
@@ -1869,11 +1868,11 @@
       "Ali Wong"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "NBC's Last Call hosted by Carson Daly followed which show?",
     "options": [
       "Saturday Night Live",
@@ -1882,11 +1881,11 @@
       "Late Night with Conan O'Brien"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which YouTube star hosted NBC's A Little Late in 2019?",
     "options": [
       "Jenna Marbles",
@@ -1895,12 +1894,12 @@
       "Hannah Hart"
     ],
     "answer": 1,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "Which E! host fronted the late-night show Chelsea Lately?",
+    "q": "Which stand-up comedian and author hosted the hit pop-culture roundtable comedy series on E! alongside sidekick Chuy Bravo from 2007 to 2014?",
     "options": [
       "Whitney Cummings",
       "Chelsea Handler",
@@ -1908,12 +1907,12 @@
       "Joan Rivers"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "Which comedian hosted TBS's Lopez Tonight?",
+    "q": "Which veteran sitcom star and stand-up comedian hosted TBS's energetic late-night talk show featuring a live band led by Michael Bearden from 2009 to 2011?",
     "options": [
       "Carlos Mencia",
       "Gabriel Iglesias",
@@ -1921,12 +1920,12 @@
       "Cheech Marin"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "Which 1989-1994 syndicated show was hosted by Arsenio Hall?",
+    "q": "Which groundbreaking 1989-1994 syndicated late-night program featured the 'Dog Pound' section in the audience barking and pumping their fists?",
     "options": [
       "The Hall Report",
       "Late Show with Arsenio",
@@ -1934,11 +1933,11 @@
       "Arsenio at Night"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Arsenio's studio audience was famous for doing what?",
     "options": [
       "Chanting his name",
@@ -1947,11 +1946,11 @@
       "Standing for every guest"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which presidential candidate played saxophone on The Arsenio Hall Show in 1992?",
     "options": [
       "George H. W. Bush",
@@ -1960,11 +1959,11 @@
       "Ross Perot"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which SNL alum's short-lived 1993 Fox late-night show was a notorious flop?",
     "options": [
       "Martin Short",
@@ -1973,11 +1972,11 @@
       "Dana Carvey"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which former Wheel of Fortune host fronted a CBS late-night talk show in 1989?",
     "options": [
       "Alex Trebek",
@@ -1986,24 +1985,24 @@
       "Pat Sajak"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who starred as the neurotic talk-show host in HBO's The Larry Sanders Show?",
     "options": [
       "David Spade",
       "Garry Shandling",
-      "Jerry Seinfeld",
+      "Jerry Seinfeld (I'm Telling You for the Last Time / Comedians in Cars)",
       "Martin Short"
     ],
     "answer": 1,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who hosted NBC's 1970s late-night talk show Tomorrow?",
     "options": [
       "Merv Griffin",
@@ -2012,11 +2011,11 @@
       "Dick Cavett"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which witty talk-show host, known for intellectual conversations with figures like Truman Capote, Salvador Dalí, and Groucho Marx, hosted an acclaimed namesake late-night show on ABC?",
     "options": [
       "Merv Griffin",
@@ -2025,11 +2024,11 @@
       "Dick Cavett"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which NBC late-night show hosted by a sports broadcaster aired from 1988 to 1994?",
     "options": [
       "Late Night Sports",
@@ -2038,24 +2037,24 @@
       "Later with Bob Costas"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In what year did Saturday Night Live premiere?",
     "options": [
       "1975",
-      "1978",
+      "Autumn of 1978 broadcast television season",
       "1980",
       "1972"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who created Saturday Night Live and also produces the Tonight Show and Late Night?",
     "options": [
       "Dick Ebersol",
@@ -2064,50 +2063,50 @@
       "Lorne Michaels"
     ],
     "answer": 3,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who was the first Weekend Update anchor on SNL?",
     "options": [
-      "Dan Aykroyd",
+      "Dan Aykroyd (The Blues Brothers / original SNL cast)",
       "Jane Curtin",
       "Chevy Chase",
       "Bill Murray"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What time does The Tonight Show traditionally begin airing on NBC?",
     "options": [
-      "11:00 p.m.",
+      "11:00 p.m. Eastern / 10:00 p.m. Central standard time",
       "11:35 p.m.",
       "10:30 p.m.",
       "12:00 a.m."
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which network has aired The Tonight Show since 1954?",
     "options": [
-      "ABC",
+      "American Broadcasting Company (ABC)",
       "Fox",
       "NBC",
       "CBS"
     ],
     "answer": 2,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which Fallon Tonight Show game has players wear headphones and try to read each other's lips?",
     "options": [
       "Headphone Hijinks",
@@ -2116,24 +2115,24 @@
       "The Whisper Challenge"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "Which Fallon segment features him writing mock-sincere notes every Friday?",
+    "q": "Which recurring Friday segment on The Tonight Show features Jimmy Fallon scribbling mock-sincere messages to inanimate objects and pop-culture trends while quiet piano music plays?",
     "options": [
       "Thank You Notes",
-      "Friday Letters",
+      "Friday Letters to Viewer Correspondents",
       "Notes to Self",
       "Dear Diary"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which late-night show is famous for the segment 'Wheel of Musical Impressions'?",
     "options": [
       "The Late Late Show",
@@ -2142,25 +2141,25 @@
       "Jimmy Kimmel Live"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who has hosted both The Late Show on CBS and Late Night on NBC?",
     "options": [
       "David Letterman",
       "Conan O'Brien",
-      "Stephen Colbert",
+      "Stephen Colbert (The Late Show / The Colbert Report host)",
       "Craig Ferguson"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "Which host's final broadcast featured the line 'I bid you a heartfelt good night'?",
+    "q": "Which legendary late-night host concluded his emotional final broadcast in May 1992 with the words 'I bid you a heartfelt good night'?",
     "options": [
       "Johnny Carson",
       "Jay Leno",
@@ -2168,11 +2167,11 @@
       "David Letterman"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which Late Night host's show features 'Jokes Seth Can't Tell'?",
     "options": [
       "Jimmy Kimmel",
@@ -2181,12 +2180,12 @@
       "Seth Meyers"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "What phrase did Ed McMahon use to introduce Johnny Carson each night?",
+    "q": "What famous drawn-out catchphrase did announcer Ed McMahon boom into the microphone each night to introduce the host of The Tonight Show?",
     "options": [
       "It's Showtime!",
       "Heeeere's Johnny!",
@@ -2194,11 +2193,11 @@
       "Good evening, America!"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who succeeded Bill Wendell as David Letterman's announcer in 1995?",
     "options": [
       "Hugh Downs",
@@ -2207,11 +2206,11 @@
       "Ed McMahon"
     ],
     "answer": 1,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "On Late Night, Jimmy Fallon's 'Slow Jam the News' segment featured which news anchor reading the news over a slow jam?",
     "options": [
       "Anderson Cooper",
@@ -2220,11 +2219,11 @@
       "Brian Williams"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Conan's 'Walker, Texas Ranger Lever' bit playfully spoofed which action star?",
     "options": [
       "Bruce Willis",
@@ -2233,11 +2232,11 @@
       "Chuck Norris"
     ],
     "answer": 3,
-    "d": 1
+    "d": 1,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who replaced Conan O'Brien as host of Late Night in 2009?",
     "options": [
       "Craig Ferguson",
@@ -2246,11 +2245,11 @@
       "Jimmy Fallon"
     ],
     "answer": 3,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "In a classic Letterman stunt, items like watermelons were dropped from where to see what happened?",
     "options": [
       "A five-story building",
@@ -2259,24 +2258,24 @@
       "A Ferris wheel"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Which real-life stage manager became a Letterman field-piece regular?",
     "options": [
       "Lenny Johnson",
       "Chuck Roberts",
       "Biff Henderson",
-      "Skip Henderson"
+      "Skip Henderson (frequent late-night talk show guest and comedy performer)"
     ],
     "answer": 2,
-    "d": 3
+    "d": 3,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "What was the name of Colbert Report's recurring segment praising and criticizing newsworthy items?",
     "options": [
       "Props/Slops",
@@ -2285,12 +2284,12 @@
       "Thumbs Up/Thumbs Down"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
-    "q": "Ed McMahon also hosted which long-running talent competition show?",
+    "q": "Johnny Carson's longtime Tonight Show sidekick Ed McMahon also hosted which long-running syndicated talent competition show?",
     "options": [
       "Star Search",
       "The Original Amateur Hour",
@@ -2298,11 +2297,11 @@
       "Queen for a Day"
     ],
     "answer": 0,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Who succeeded Jon Batiste as bandleader of The Late Show with Stephen Colbert in 2022?",
     "options": [
       "Questlove",
@@ -2311,11 +2310,11 @@
       "Branford Marsalis"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   },
   {
     "show": "Late Night TV",
-    "section": "Late Night",
     "q": "Jimmy Kimmel Live is taped on which famous Los Angeles boulevard?",
     "options": [
       "Sunset Boulevard",
@@ -2324,6 +2323,7 @@
       "Santa Monica Boulevard"
     ],
     "answer": 2,
-    "d": 2
+    "d": 2,
+    "section": "Late Night"
   }
 ]

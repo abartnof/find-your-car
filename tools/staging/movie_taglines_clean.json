@@ -3,36 +3,36 @@
     "show": "Movie Taglines",
     "q": "What was the official tagline for Alien (1979)?",
     "options": [
-      "In space no one can hear you scream.",
+      "Terror in deep space.",
       "The ultimate terror is about to awaken.",
       "Beyond the stars lies fear.",
-      "Terror in deep space."
+      "In space no one can hear you scream."
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Jaws 2 (1978)?",
     "options": [
-      "Just when you thought it was safe to go back in the water...",
-      "The terror continues offshore.",
       "He's back for another bite.",
+      "The terror continues offshore.",
+      "Just when you thought it was safe to go back in the water...",
       "You can't escape the deep."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Fly (1986)?",
     "options": [
-      "Change is coming.",
       "Be afraid. Be very afraid.",
+      "Change is coming.",
       "Science has gone too far.",
       "A horrifying transformation begins."
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -53,10 +53,10 @@
     "options": [
       "He cannot be stopped.",
       "The future is not set.",
-      "Your future is in his hands.",
-      "Back from the future to kill."
+      "Back from the future to kill.",
+      "Your future is in his hands."
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
@@ -64,47 +64,47 @@
     "q": "What was the official tagline for Back to the Future (1985)?",
     "options": [
       "Roads are optional.",
-      "He's the only kid ever to get into trouble before he was born.",
       "Time travel is just the beginning.",
+      "He's the only kid ever to get into trouble before he was born.",
       "Yesterday is today."
-    ],
-    "answer": 1,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
-    "q": "What was the official tagline for Poltergeist (1982)?",
-    "options": [
-      "They're here.",
-      "The house is watching.",
-      "Don't touch the screen.",
-      "Sleep tight tonight."
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
-    "q": "What was the official tagline for Jurassic Park (1993)?",
-    "options": [
-      "Evolution has found a way.",
-      "Life will not be contained.",
-      "An adventure 65 million years in the making.",
-      "Welcome to the ultimate sanctuary."
     ],
     "answer": 2,
     "d": 1
   },
   {
     "show": "Movie Taglines",
-    "q": "What was the official tagline for The Matrix (1999)?",
+    "q": "What was the official tagline for Poltergeist (1982)?",
     "options": [
-      "Free your mind.",
-      "Wake up to reality.",
-      "Choose your destiny.",
-      "The digital trap is sprung."
+      "Sleep tight tonight.",
+      "The house is watching.",
+      "Don't touch the screen.",
+      "They're here."
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Movie Taglines",
+    "q": "What was the official tagline for Jurassic Park (1993)?",
+    "options": [
+      "An adventure 65 million years in the making.",
+      "Life will not be contained.",
+      "Evolution has found a way.",
+      "Welcome to the ultimate sanctuary in the darkness."
     ],
     "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Movie Taglines",
+    "q": "What was the official tagline for The Matrix (1999)?",
+    "options": [
+      "Choose your destiny.",
+      "Wake up to reality.",
+      "Free your mind.",
+      "The digital trap is sprung."
+    ],
+    "answer": 2,
     "d": 1
   },
   {
@@ -123,60 +123,60 @@
     "show": "Movie Taglines",
     "q": "What was the official tagline for Apollo 13 (1995)?",
     "options": [
-      "A mission of survival.",
-      "Lost in the vast darkness.",
       "Houston, we have a problem.",
+      "Lost in the vast darkness in the darkness.",
+      "A mission of survival.",
       "Failure is not an option."
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Taxi Driver (1976)?",
     "options": [
-      "On every street in every city, there's a nobody who dreams of being a somebody.",
+      "Looking for justice in the neon shadows.",
       "The streets never sleep, and neither does he.",
       "A dark drive through the city's underbelly.",
-      "Looking for justice in the neon shadows."
+      "On every street in every city, there's a nobody who dreams of being a somebody."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Close Encounters of the Third Kind (1977)?",
     "options": [
-      "We are not alone.",
+      "A signal from beyond.",
       "Contact has been made.",
       "The skies are watching.",
-      "A signal from beyond."
+      "We are not alone."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Superman: The Movie (1978)?",
     "options": [
       "The Man of Steel takes flight.",
-      "You'll believe a man can fly.",
       "Hope arrives from Krypton.",
+      "You'll believe a man can fly.",
       "Truth, justice, and the American way."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Jaws (1975)?",
     "options": [
       "Don't go into the ocean.",
-      "The terrifying motion picture from the terrifying No. 1 best seller.",
+      "Danger lurks below the surface.",
       "A great white nightmare.",
-      "Danger lurks below the surface."
+      "The terrifying motion picture from the terrifying No. 1 best seller."
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -185,23 +185,23 @@
     "options": [
       "Cold as ice, pure terror.",
       "Man is the warmest place to hide.",
-      "Trust no one in the storm.",
+      "Trust no one in the storm in the darkness.",
       "Frozen in absolute fear."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Predator (1987)?",
     "options": [
-      "Soon the hunt will begin.",
       "Nothing like it has ever been on Earth before.",
+      "Soon the hunt will begin.",
       "The hunter becomes hunted.",
-      "In the jungle, you cannot hide."
+      "In the jungle, you cannot hide across the edge of time."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -209,47 +209,47 @@
     "options": [
       "The ultimate law enforcement machine.",
       "Justice has a new steel face.",
-      "Part man. Part machine. All cop.",
-      "Defending the innocent with iron will."
+      "Defending the innocent with iron will.",
+      "Part man. Part machine. All cop."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Die Hard (1988)?",
     "options": [
-      "40 stories of sheer adventure!",
       "Trapped in a high-rise nightmare.",
+      "40 stories of sheer adventure!",
       "One man against an army of thieves.",
       "Yippee-ki-yay, holiday terror."
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Blade Runner (1982)?",
     "options": [
-      "More human than human.",
       "A man on a mission in a city of mirrors.",
+      "More human than human.",
       "The future is electric.",
       "A killer thriller in a futuristic world."
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for A Nightmare on Elm Street (1984)?",
     "options": [
-      "If you sleep, you die.",
       "If Nancy doesn't wake up screaming, she won't wake up at all.",
+      "If you sleep, you die.",
       "Sleep was never this dangerous.",
       "The nightmare that never ends."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -257,11 +257,11 @@
     "options": [
       "Camp Crystal Lake has a visitor.",
       "A dark omen in the woods.",
-      "They were warned... They are doomed... And on Friday the 13th, nothing will save them.",
-      "Jason lives in every shadow."
+      "Jason lives in every shadow.",
+      "They were warned... They are doomed... And on Friday the 13th, nothing will save them."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -273,42 +273,42 @@
       "Lock your doors this October."
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Texas Chain Saw Massacre (1974)?",
     "options": [
-      "What happened is true. Now the motion picture that's just as real.",
       "Run for your life across Texas.",
+      "What happened is true. Now the motion picture that's just as real.",
       "Meat is back on the menu.",
       "The sound of sheer terror."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Exorcist (1973)?",
     "options": [
-      "Evil resides within.",
       "Somewhere between science and superstition, there is another world.",
+      "Evil resides within.",
       "Pray for her soul.",
       "The ultimate battle of good versus evil."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Psycho (1960)?",
     "options": [
-      "The picture you MUST see from the beginning... Or not at all!",
+      "Meet Norman and his mother.",
       "A shower scene you will never forget.",
       "Check in, but never check out.",
-      "Meet Norman and his mother."
+      "The picture you MUST see from the beginning... Or not at all!"
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -316,11 +316,11 @@
     "q": "What was the official tagline for The Shining (1980)?",
     "options": [
       "All work and no play.",
+      "Welcome to the Overlook in the darkness.",
       "A masterpiece of modern horror.",
-      "Welcome to the Overlook.",
       "Cabin fever gone mad."
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -330,7 +330,7 @@
       "I see dead people.",
       "Not every gift is a blessing.",
       "Whispers from the beyond.",
-      "An unsettling mystery awaits."
+      "An unsettling mystery awaits in the darkness."
     ],
     "answer": 1,
     "d": 1
@@ -340,23 +340,23 @@
     "q": "What was the official tagline for Fight Club (1999)?",
     "options": [
       "Chaos is the new order.",
-      "Mischief. Mayhem. Soap.",
+      "Rule number one is silence.",
       "Break free from reality.",
-      "Rule number one is silence."
+      "Mischief. Mayhem. Soap."
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for American Beauty (1999)?",
     "options": [
-      "Suburban bliss dismantled.",
-      "Beneath the surface lies truth.",
       "...look closer.",
+      "Beneath the surface lies truth.",
+      "Suburban bliss dismantled.",
       "Life isn't what it appears."
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
@@ -365,7 +365,7 @@
     "options": [
       "A lot can happen in the middle of nowhere.",
       "Blood on the pure snow.",
-      "Kidnapping goes completely wrong.",
+      "Kidnapping goes completely wrong in the darkness.",
       "Minnesotan mayhem."
     ],
     "answer": 0,
@@ -381,30 +381,30 @@
       "You won't know the facts until you've seen the fiction."
     ],
     "answer": 3,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Reservoir Dogs (1992)?",
     "options": [
-      "Let's go to work.",
+      "Five perfect strangers plan a perfect crime.",
       "Every dog has its day.",
       "Trust no one when diamonds bleed.",
-      "Five perfect strangers plan a perfect crime."
+      "Let's go to work."
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Goodfellas (1990)?",
     "options": [
-      "Three decades of life in the mafia.",
-      "Shooting from the hip.",
       "Loyalty has a price.",
-      "The wise guys rule New York."
+      "Shooting from the hip.",
+      "Three decades of life in the mafia.",
+      "The wise guys rule New York in the darkness."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -413,7 +413,7 @@
     "options": [
       "Family is everything.",
       "An offer you can't refuse.",
-      "Blood, honor, and empire.",
+      "Blood, honor, and empire in the darkness.",
       "Power corrupts the soul."
     ],
     "answer": 1,
@@ -423,12 +423,12 @@
     "show": "Movie Taglines",
     "q": "What was the official tagline for Scarface (1983)?",
     "options": [
-      "Say hello to my little friend.",
       "He loved the American Dream. With a vengeance.",
+      "Say hello to my little friend.",
       "The king of Miami narcotics.",
-      "A world built on power and greed."
+      "A world built on power and greed in the darkness."
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -437,142 +437,142 @@
     "options": [
       "Fire meets fury in LA.",
       "Two masterminds on opposite sides.",
-      "A Los Angeles crime saga.",
-      "Walk away in thirty seconds flat."
+      "Walk away in thirty seconds flat.",
+      "A Los Angeles crime saga."
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Se7en (1995)?",
     "options": [
-      "Seven sins. Seven ways to die.",
+      "Gluttony, greed, sloth, envy, wrath, pride, lust.",
       "What's in the box?",
       "Seven deadly sins. Seven ways to die.",
-      "Gluttony, greed, sloth, envy, wrath, pride, lust."
+      "Seven sins. Seven ways to die."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Silence of the Lambs (1991)?",
     "options": [
       "Enter the twisted mind of a cannibal.",
-      "To enter the mind of a killer she must challenge the mind of a madman.",
       "Screaming lambs in the dark.",
+      "To enter the mind of a killer she must challenge the mind of a madman.",
       "A chilling encounter behind glass."
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Basic Instinct (1992)?",
     "options": [
-      "A lethal passion.",
       "A mind-bending game of seduction.",
+      "A lethal passion.",
       "A novel way to commit murder.",
       "A police detective is caught in a web of intrigue."
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Roman Polanski's 1974 neo-noir classic starring Jack Nicholson as private investigator J.J. Gittes?",
     "options": [
-      "You can't change the past in Chinatown.",
+      "You can't beat the system.",
       "Murder in the water supply.",
-      "A private eye in deep trouble.",
-      "You can't beat the system."
+      "A private eye in deep trouble in the darkness.",
+      "You can't change the past in Chinatown."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for L.A. Confidential (1997)?",
     "options": [
-      "Everything is suspect... especially the truth.",
-      "Behind the glamour lies corruption.",
+      "Off the record, on the QT.",
+      "Behind the glamour lies corruption in the darkness.",
       "City of angels, city of demons.",
-      "Off the record, on the QT."
+      "Everything is suspect... especially the truth."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Usual Suspects (1995)?",
     "options": [
-      "The greatest trick the Devil ever pulled was convincing the world he didn't exist.",
-      "Who is Keyser Söze?",
       "Five men, one betrayal.",
+      "Who is Keyser Söze?",
+      "The greatest trick the Devil ever pulled was convincing the world he didn't exist.",
       "Five criminals caught in a web."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Memento (2000)?",
     "options": [
       "Remember who you are.",
-      "Don't believe his lies.",
-      "Some memories are best forgotten.",
-      "Remember to forget."
+      "Don't believe his lies in the darkness.",
+      "Remember to forget.",
+      "Some memories are best forgotten."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Dark Knight (2008)?",
     "options": [
       "Why so serious?",
-      "Gotham's reckoning arrives.",
       "Welcome to a world without rules.",
+      "Gotham's reckoning arrives in the darkness.",
       "Chaos will reign supreme."
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Batman Begins (2005)?",
     "options": [
-      "Evil fears the shadow.",
       "Evil fears the knight.",
+      "Evil fears the shadow.",
       "The legend begins anew.",
       "The origin of fear."
-    ],
-    "answer": 1,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
-    "q": "What was the official tagline for Inception (2010)?",
-    "options": [
-      "Your mind is the scene of the crime.",
-      "Don't wake up until it's over.",
-      "Architecture of the unconscious.",
-      "Dreams become reality."
     ],
     "answer": 0,
     "d": 1
   },
   {
     "show": "Movie Taglines",
+    "q": "What was the official tagline for Inception (2010)?",
+    "options": [
+      "Architecture of the unconscious in the darkness.",
+      "Don't wake up until it's over.",
+      "Your mind is the scene of the crime.",
+      "Dreams become reality."
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Movie Taglines",
     "q": "What was the official tagline for Interstellar (2014)?",
     "options": [
-      "Beyond the edge of space and time.",
       "Mankind was born on Earth. It was never meant to die here.",
+      "Beyond the edge of space and time.",
       "The stars are calling us home.",
       "Find a new world among the stars."
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -580,23 +580,23 @@
     "q": "What was the official tagline for The Prestige (2006)?",
     "options": [
       "Magic is pure deception.",
-      "Are you watching closely?",
+      "Every secret has a price.",
       "Two rivals on a dangerous stage.",
-      "Every secret has a price."
+      "Are you watching closely?"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Shutter Island (2010)?",
     "options": [
-      "Someone is missing.",
+      "Madness surrounds the asylum.",
       "There is no escape from yourself.",
       "The island harbors many ghosts.",
-      "Madness surrounds the asylum."
+      "Someone is missing."
     ],
-    "answer": 0,
+    "answer": 3,
     "d": 1
   },
   {
@@ -609,19 +609,19 @@
       "The general who became a slave. The slave who became a gladiator. The gladiator who defied an emperor."
     ],
     "answer": 3,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Braveheart (1995)?",
     "options": [
-      "His passion captivated a woman. His courage inspired a nation. His heart defied a king.",
+      "Every man dies, not every man really lives.",
       "Freedom is won through fire.",
       "Scotland's greatest legend awakens.",
-      "Every man dies, not every man really lives."
+      "His passion captivated a woman. His courage inspired a nation. His heart defied a king."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -633,19 +633,19 @@
       "Surviving the bloody shores."
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Full Metal Jacket (1987)?",
     "options": [
-      "In Vietnam the wind doesn't blow, it sucks.",
+      "An uncompromising look at basic training in the darkness.",
       "War is hell in every theater.",
       "Born to kill in the jungle.",
-      "An uncompromising look at basic training."
+      "In Vietnam the wind doesn't blow, it sucks."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -657,31 +657,31 @@
       "No heroes left in combat."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Apocalypse Now (1979)?",
     "options": [
-      "The horror, the horror.",
       "The journey into the heart of darkness.",
+      "The horror, the horror.",
       "This is the end of reason.",
-      "Deep in the river lies madness."
+      "Deep in the river lies madness in the darkness."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Deer Hunter (1978)?",
     "options": [
-      "A game of Russian roulette with life.",
-      "About three friends who go through hell and back.",
+      "A game of Russian roulette with life in the darkness.",
+      "The steel town boys go to war.",
       "One shot is what it takes.",
-      "The steel town boys go to war."
+      "About three friends who go through hell and back."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -693,54 +693,54 @@
       "Coming of age along the tracks."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Breakfast Club (1985)?",
     "options": [
-      "Five strangers with nothing in common, except each other.",
+      "Brain, athlete, basket case, princess, criminal in the darkness.",
       "Detention will never be the same.",
-      "Brain, athlete, basket case, princess, criminal.",
+      "Five strangers with nothing in common, except each other.",
       "Saturday morning confessions."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Ferris Bueller's Day Off (1986)?",
     "options": [
       "Life moves pretty fast.",
-      "One man's struggle for take-it-easy.",
-      "Skipping class is an art form.",
-      "Chicago is his playground."
+      "Chicago is his playground.",
+      "Skipping class is an art form in the darkness.",
+      "One man's struggle for take-it-easy."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Clueless (1995)?",
     "options": [
       "Totally obsessed with Beverly Hills.",
-      "As if high school wasn't tough enough.",
       "Sex. Clothes. Popularity. Is there a problem here?",
+      "As if high school wasn't tough enough in the darkness.",
       "Fashion, gossip, and shopping."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Mean Girls (2004)?",
     "options": [
-      "On Wednesdays we wear pink.",
-      "Welcome to the girl world.",
       "Watch your back.",
+      "Welcome to the girl world.",
+      "On Wednesdays we wear pink.",
       "Beware of the Plastics."
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
@@ -749,23 +749,23 @@
     "options": [
       "Fake IDs, real disasters.",
       "One night to make history.",
-      "Two best friends on an epic liquor run.",
-      "Some guys just can't handle high school."
+      "Some guys just can't handle high school.",
+      "Two best friends on an epic liquor run."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Harold Ramis's 1993 comedy classic starring Bill Murray as a cynical Pittsburgh weatherman stuck in a time loop?",
     "options": [
-      "Tomorrow never happens.",
       "He's having the day of his life... over and over again.",
+      "Tomorrow never happens.",
       "Reliving Punxsutawney forever.",
       "Winter never ends."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -783,37 +783,37 @@
     "show": "Movie Taglines",
     "q": "What was the official tagline for Dumb and Dumber (1994)?",
     "options": [
-      "For Harry and Lloyd, every day is a no-brainer.",
+      "So you're saying there's a chance in the darkness.",
       "Two idiots on an aspen road trip.",
-      "So you're saying there's a chance.",
+      "For Harry and Lloyd, every day is a no-brainer.",
       "High IQ not required."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Ace Ventura: Pet Detective (1994)?",
     "options": [
-      "He's the best there is! (Actually, he's the only one there is.)",
+      "All righty then, the hunt is on.",
       "Finding animals is his business.",
       "Miami's wackiest private eye.",
-      "All righty then, the hunt is on."
+      "He's the best there is! (Actually, he's the only one there is.)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Liar Liar (1997)?",
     "options": [
       "Trust me, he's a lawyer.",
-      "The truth shall set him completely loose.",
+      "Trust me.",
       "A lawyer who must tell the truth.",
-      "Trust me."
+      "The truth shall set him completely loose."
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -825,102 +825,102 @@
       "Help is on the way, dear!"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Home Alone (1990)?",
     "options": [
-      "A family comedy without the family.",
       "Leaving the kid behind was an accident.",
+      "A family comedy without the family.",
       "Don't mess with Kevin's house.",
       "Two burglars, one clever eight-year-old."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Ghost (1990)?",
     "options": [
       "Love transcends death itself.",
-      "Before you leave, you must say goodbye.",
       "You will believe.",
-      "A lingering soul protects his love."
+      "Before you leave, you must say goodbye.",
+      "A lingering soul protects his love in the darkness."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Titanic (1997)?",
     "options": [
       "The ship of dreams sinks tonight.",
-      "An unsinkable romance.",
       "Nothing on Earth could come between them.",
+      "An unsinkable romance.",
       "Experience the greatest catastrophe of the sea."
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Notebook (2004)?",
     "options": [
-      "Behind every great love is a great story.",
+      "Summer romances change lives forever in the darkness.",
       "Love never forgets.",
-      "Summer romances change lives forever.",
+      "Behind every great love is a great story.",
       "A lifetime of devoted passion."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Michel Gondry's 2004 romantic sci-fi drama starring Jim Carrey and Kate Winslet undergoing memory-erasure?",
     "options": [
       "Erase the heartbreak from your brain.",
-      "You can erase someone from your mind. Getting them out of your heart is another story.",
+      "Memories are made to be erased.",
       "Forget me not, Clementine.",
-      "Memories are made to be erased."
+      "You can erase someone from your mind. Getting them out of your heart is another story."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Cast Away (2000)?",
     "options": [
       "Alone on a deserted island.",
+      "The survival of one man's spirit in the darkness.",
       "At the edge of the world, his journey begins.",
-      "The survival of one man's spirit.",
       "Lost among the infinite waves."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for the 1994 Oscar-winning drama starring Tom Hanks as an Alabama man traversing 20th-century American history?",
     "options": [
       "Life is a box of chocolates.",
-      "Run along through American history.",
       "The world will never be the same once you've seen it through the eyes of Forrest Gump.",
+      "Run along through American history.",
       "A simple man with a remarkable heart."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Shawshank Redemption (1994)?",
     "options": [
       "Hope is a dangerous thing.",
-      "Fear can hold you prisoner. Hope can set you free.",
       "Escape from Maine's toughest walls.",
-      "An innocent man's triumph over despair."
+      "Fear can hold you prisoner. Hope can set you free.",
+      "An innocent man's triumph over despair in the darkness."
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -929,71 +929,71 @@
     "options": [
       "Miracles happen in the most unexpected places.",
       "Walking the long stretch of death row.",
-      "An innocent giant on the brink of death.",
+      "An innocent giant on the brink of death in the darkness.",
       "Healing hands behind iron bars."
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for A Beautiful Mind (2001)?",
     "options": [
-      "Numbers told him the secrets of the world.",
+      "Numbers told him the secrets of the world in the darkness.",
       "The codebreaker battling his own mind.",
-      "He saw the world in ways no one could imagine.",
-      "Mathematics and madness collide."
+      "Mathematics and madness collide.",
+      "He saw the world in ways no one could imagine."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Good Will Hunting (1997)?",
     "options": [
-      "Some people can never believe in themselves, until someone believes in them.",
+      "It's not your fault.",
       "Solving the hardest equations of the heart.",
       "A janitor with a genius mind.",
-      "It's not your fault."
+      "Some people can never believe in themselves, until someone believes in them."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Dead Poets Society (1989)?",
     "options": [
-      "Seize the day, boys.",
       "He was that teacher who made a difference.",
-      "Words and ideas can change the world.",
+      "Seize the day, boys.",
+      "Words and ideas can change the world in the darkness.",
       "Carpe Diem before youth is gone."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Rain Man (1988)?",
     "options": [
       "Two brothers bound by a common past.",
-      "A journey across America that changes everything.",
       "A journey through the mind and heart.",
-      "Two brothers on a road trip across America."
+      "A journey across America that changes everything.",
+      "Two brothers on a road trip across America in the darkness."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for One Flew Over the Cuckoo's Nest (1975)?",
     "options": [
       "Rebellion in the asylum ward.",
-      "If he's crazy, what does that make you?",
+      "Sanity is a relative concept.",
       "Defying the nurse who controls the mind.",
-      "Sanity is a relative concept."
+      "If he's crazy, what does that make you?"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -1002,34 +1002,34 @@
       "His whole life was a million-to-one shot.",
       "Fighting for Philadelphia's pride.",
       "Going the distance against Apollo.",
-      "The underdog who stunned the world."
+      "The underdog who stunned the world in the darkness."
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Raging Bull (1980)?",
     "options": [
-      "He fought like he had nothing to lose.",
-      "The violent rise and fall of Jake LaMotta.",
       "Anger in the boxing ring.",
+      "The violent rise and fall of Jake LaMotta.",
+      "He fought like he had nothing to lose.",
       "Destructive fury of a champion."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for the 1989 fantasy-drama starring Kevin Costner as an Iowa corn farmer who builds a baseball diamond?",
     "options": [
       "If you build it, he will come.",
-      "All his life, Ray Kinsella was searching for his dreams.",
+      "Build the diamond, save the memories.",
       "Baseball echoes across the cornfields.",
-      "Build the diamond, save the memories."
+      "All his life, Ray Kinsella was searching for his dreams."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -1041,18 +1041,18 @@
       "An agent's search for conscience and heart."
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Moneyball (2011)?",
     "options": [
-      "What are you paying for?",
       "Winning on a shoestring budget.",
+      "What are you paying for?",
       "How can you not be romantic about baseball?",
       "A revolution on the baseball diamond."
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -1060,120 +1060,120 @@
     "q": "What was the official tagline for Oliver Stone's 1999 ensemble football drama starring Al Pacino as coach Tony D'Amato?",
     "options": [
       "Life is a game of inches.",
-      "On any given Sunday you're gonna win or you're gonna lose.",
       "The gridiron is no place for weakness.",
+      "On any given Sunday you're gonna win or you're gonna lose.",
       "Hard hits and high stakes in Miami."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Peter Berg's 2004 high school football drama set in Odessa, Texas, starring Billy Bob Thornton?",
     "options": [
       "Clear eyes, full hearts, can't lose.",
-      "A town that breathes high school football.",
       "When the lights come on, everything else fades.",
-      "There is nothing else like football in Texas."
+      "A town that breathes high school football.",
+      "There is nothing else like football in Texas in the darkness."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Remember the Titans (2000)?",
     "options": [
       "History is made by those who unite.",
-      "One team, one goal, one town.",
       "Music helped them listen, but football made them brothers.",
+      "One team, one goal, one town.",
       "They became brothers under the helmet."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Hoosiers (1986)?",
     "options": [
-      "In Indiana, basketball is king.",
       "Five boys, one coach, an impossible dream.",
+      "In Indiana, basketball is king.",
       "Small towns have the biggest hearts.",
-      "Celebrating the spirit of the underdog."
+      "Celebrating the spirit of the underdog in the darkness."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for John G. Avildsen's 1984 martial arts drama starring Ralph Macchio and Pat Morita?",
     "options": [
-      "Wax on, wax off.",
-      "A secret of the martial arts passed down.",
       "He was the kid from New Jersey who learned to fight back.",
+      "A secret of the martial arts passed down.",
+      "Wax on, wax off.",
       "A teacher. A student. A martial art."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Speed (1994)?",
     "options": [
-      "Keep it over fifty or die.",
       "Get ready for rush hour.",
+      "Keep it over fifty or die.",
       "Fasten your seat belts.",
       "A bus wired to explode."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Twister (1996)?",
     "options": [
-      "Chase the funnel of pure terror.",
-      "It sucks you right in.",
       "The dark side of nature.",
+      "It sucks you right in.",
+      "Chase the funnel of pure terror.",
       "Don't look back at the storm."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Armageddon (1998)?",
     "options": [
       "An asteroid heading for Earth.",
-      "The earth's extinction event is imminent.",
       "Earth. It was fun while it lasted.",
+      "The earth's extinction event is imminent.",
       "Drillers become astronauts to save humanity."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Independence Day (1996)?",
     "options": [
       "We will not go quietly into the night.",
-      "The invasion of planet Earth begins today.",
+      "We've always believed we weren't alone. On July 4th, we'll wish we were.",
       "Welcome to Earth!",
-      "We've always believed we weren't alone. On July 4th, we'll wish we were."
+      "The invasion of planet Earth begins today."
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Men in Black (1997)?",
     "options": [
-      "Protecting the earth from the scum of the universe.",
+      "Neutralize your memories of fear.",
       "Aliens walk among us in New York.",
       "Look directly into the red flash.",
-      "Neutralize your memories of fear."
+      "Protecting the earth from the scum of the universe."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -1181,11 +1181,11 @@
     "options": [
       "The only good bug is a dead bug.",
       "Join the Mobile Infantry and save Earth.",
-      "Mankind is at war with an alien species.",
+      "Mankind is at war with an alien species in the darkness.",
       "Would you like to know more?"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -1194,46 +1194,46 @@
       "Get your ass to Mars.",
       "What is real and what is memory?",
       "They stole his mind, now he wants it back.",
-      "A trip to Mars is about to turn deadly."
+      "A trip to Mars is about to turn deadly in the darkness."
     ],
     "answer": 2,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Minority Report (2002)?",
     "options": [
-      "What would you do if you were accused of a murder you haven't committed yet?",
-      "Stop the future before it happens.",
       "Precrime knows what you're thinking.",
+      "Stop the future before it happens.",
+      "What would you do if you were accused of a murder you haven't committed yet?",
       "Can you change your destiny?"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for I, Robot (2004)?",
     "options": [
-      "The laws were made to be broken.",
       "One man suspects the machines.",
+      "The laws were made to be broken.",
       "In 2035, robots are trusted by all except one.",
       "Can a machine have a soul?"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Fifth Element (1997)?",
     "options": [
       "Multipass to the 23rd century.",
-      "There is no future without it.",
+      "The universe is running out of time.",
       "Only love can stop supreme evil.",
-      "The universe is running out of time."
+      "There is no future without it."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -1245,30 +1245,30 @@
       "Find the army before the plague strikes."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Alfonso Cuarón's 2006 dystopian thriller about a world facing two decades of human infertility?",
     "options": [
-      "A world without children has no hope.",
       "No children. No future. No hope.",
+      "A world without children has no hope.",
       "Protect the last miracle on Earth.",
       "The silence of a barren generation."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for District 9 (2009)?",
     "options": [
-      "Slums in Johannesburg for aliens.",
       "You are not welcome here.",
+      "Slums in Johannesburg for aliens.",
       "Segregation goes intergalactic.",
       "Evolution reaches the outcast prawns."
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -1276,23 +1276,23 @@
     "q": "What was the official tagline for Gravity (2013)?",
     "options": [
       "In space, survival is an art.",
-      "Don't let go.",
       "Stranded miles above the blue planet.",
+      "Don't let go.",
       "Breath is running out fast."
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Martian (2015)?",
     "options": [
-      "Science the heck out of this.",
       "Bring him home.",
+      "Science the heck out of this.",
       "Solitary existence on the red planet.",
       "Never leave an astronaut behind."
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -1312,33 +1312,21 @@
     "q": "What was the official tagline for Ex Machina (2014)?",
     "options": [
       "Can an artificial mind love?",
-      "There is nothing more human than the will to survive.",
       "Beware the test of consciousness.",
+      "There is nothing more human than the will to survive.",
       "A machine with desires of her own."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Her (2013)?",
     "options": [
       "Love in the digital age.",
-      "Falling for an operating system.",
       "A spike Jonze love story.",
+      "Falling for an operating system.",
       "An impossible bond between human and machine."
-    ],
-    "answer": 2,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
-    "q": "What was the official tagline for Michel Gondry's 2004 romantic sci-fi drama starring Jim Carrey and Kate Winslet undergoing memory-erasure?",
-    "options": [
-      "Erase the heartbreak from your brain.",
-      "You can erase someone from your mind. Getting them out of your heart is another story.",
-      "Forget me not, Clementine.",
-      "Memories are made to be erased."
     ],
     "answer": 1,
     "d": 1
@@ -1347,36 +1335,36 @@
     "show": "Movie Taglines",
     "q": "What was the official tagline for Being John Malkovich (1999)?",
     "options": [
-      "Ever wanted to be someone else? Now's your chance.",
       "Inside the celebrity's portal.",
+      "Ever wanted to be someone else? Now's your chance.",
       "The seventh and a half floor awaits.",
-      "Discover the secret door in the wall."
+      "Discover the secret door in the wall in the darkness."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Adaptation (2002)?",
     "options": [
-      "Charlie Kaufman struggles to write.",
-      "Screenwriting meets rare flowers.",
       "What happens when you love a flower too much?",
-      "A screenplay about writing a screenplay."
+      "Screenwriting meets rare flowers.",
+      "Charlie Kaufman struggles to write.",
+      "A screenplay about writing a screenplay in the darkness."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Lost in Translation (2003)?",
     "options": [
       "Tokyo nights and wandering souls.",
-      "Everyone wants to be found.",
       "Strangers meeting in a quiet bar.",
+      "Everyone wants to be found.",
       "Words unspoken in a neon city."
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -1385,118 +1373,118 @@
     "options": [
       "Murder, pastries, and a lost empire.",
       "A concierge with impeccable manners.",
-      "A captivating tale of intrigue, mystery, and exquisite service.",
-      "Behind the doors of Europe's grandest hotel."
+      "Behind the doors of Europe's grandest hotel.",
+      "A captivating tale of intrigue, mystery, and exquisite service."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Moonrise Kingdom (2012)?",
     "options": [
       "Two twelve-year-olds escape into love.",
-      "An adventure of youthful romance.",
       "A tormented heart finds island refuge.",
+      "An adventure of youthful romance.",
       "Khaki scouts and runaways."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Royal Tenenbaums (2001)?",
     "options": [
       "Dysfunctional family royalty.",
-      "Family isn't a word... It's a sentence.",
       "Geniuses who forgot how to grow up.",
-      "Royal comes back to mend old bridges."
+      "Family isn't a word... It's a sentence.",
+      "Royal comes back to mend old bridges in the darkness."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Rushmore (1998)?",
     "options": [
-      "Max Fischer loves his private school.",
+      "Max Fischer loves his private school in the darkness.",
       "Extracurricular activities are his life.",
       "Playwright, founder, romantic rival.",
       "Better than Harvard."
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Scott Pilgrim vs. The World (2010)?",
     "options": [
-      "An epic of epic epicness.",
-      "Defeat the seven evil exes.",
       "Level up to win her heart.",
+      "Defeat the seven evil exes.",
+      "An epic of epic epicness.",
       "High-score video game romance."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Shaun of the Dead (2004)?",
     "options": [
-      "A romantic comedy. With zombies.",
+      "Winchester pub survival guide.",
       "Grab a pint and wait for it to blow over.",
       "Fighting the undead with vinyl records.",
-      "Winchester pub survival guide."
+      "A romantic comedy. With zombies."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Hot Fuzz (2007)?",
     "options": [
       "Bad boys of the English countryside.",
-      "Big cops. Small town. Moderate violence.",
       "For the greater good.",
+      "Big cops. Small town. Moderate violence.",
       "Action arrives in a quiet English village."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The World's End (2013)?",
     "options": [
-      "Good food. Fine ales. Total annihilation.",
+      "Reconnect with your high school crew in the darkness.",
       "Twelve pints to save the human race.",
-      "Reconnect with your high school crew.",
+      "Good food. Fine ales. Total annihilation.",
       "Pub crawling through the apocalypse."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Baby Driver (2017)?",
     "options": [
-      "All you need is one killer track.",
       "Music is his only escape.",
+      "All you need is one killer track.",
       "Getaway driving set to the beat.",
       "Fast cars, tight corners, loud tunes."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Drive (2011)?",
     "options": [
-      "There are no clean getaways.",
       "A scorpion wearing a satin jacket.",
+      "There are no clean getaways.",
       "Just five minutes, that's what you get.",
       "Cruising the neon Los Angeles streets."
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -1504,83 +1492,83 @@
     "q": "What was the official tagline for Nightcrawler (2014)?",
     "options": [
       "If it bleeds, it leads.",
-      "The city shines brightest at night.",
       "Chasing accidents for TV news.",
+      "The city shines brightest at night.",
       "A camera, a scanner, no moral compass."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Whiplash (2014)?",
     "options": [
-      "The road to greatness can take you to the edge.",
+      "Pushed past the breaking point.",
       "Not quite my tempo.",
-      "Blood, sweat, and drumming tears.",
-      "Pushed past the breaking point."
+      "Blood, sweat, and drumming tears in the darkness.",
+      "The road to greatness can take you to the edge."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for La La Land (2016)?",
     "options": [
-      "Here's to the fools who dream.",
-      "Auditioning for Hollywood stars.",
       "Jazz, tap dancing, and true love.",
+      "Auditioning for Hollywood stars.",
+      "Here's to the fools who dream.",
       "A vibrant romance under Los Angeles skies."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Birdman (2014)?",
     "options": [
-      "Broadway is ready for an old superhero.",
+      "Broadway is ready for an old superhero in the darkness.",
       "(Or The Unexpected Virtue of Ignorance)",
       "Voices in an aging actor's mind.",
       "Fly high or fall on the stage."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Black Swan (2010)?",
     "options": [
       "Perfecting the dual ballet role.",
-      "Innocence gives way to darkness.",
       "The descent into graceful madness.",
+      "Innocence gives way to darkness.",
       "Feathered obsession on the stage."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Requiem for a Dream (2000)?",
     "options": [
       "An unflinching look at human addiction.",
-      "From Coney Island to total collapse.",
+      "From Coney Island to total collapse in the darkness.",
       "Distorted reality on Brighton Beach.",
       "It hurts to be an addict."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Wrestler (2008)?",
     "options": [
-      "Love. Pain. Glory.",
       "The ring is the only home left.",
+      "Love. Pain. Glory.",
       "One last match for the broken hero.",
       "Hard hits in a dirty gymnasium."
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -1605,67 +1593,67 @@
       "Running from FBI across continents."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Aviator (2004)?",
     "options": [
-      "Aviation mogul battles his inner demons.",
+      "Aviation mogul battles his inner demons in the darkness.",
       "Some men dream of the future. He built it.",
       "Flying higher than any man before.",
       "Hollywood, speed, and obsessive madness."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Departed (2006)?",
     "options": [
-      "Boston cops, Boston rats.",
+      "Lies. Betrayal. Sacrifice. How far will you take it?",
       "Lies, betrayal, and mob justice.",
       "Lying to survive on both sides.",
-      "Lies. Betrayal. Sacrifice. How far will you take it?"
+      "Boston cops, Boston rats."
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Gangs of New York (2002)?",
     "options": [
-      "America was born in the streets.",
       "Five Points soaked in vengeance.",
+      "America was born in the streets.",
       "Bloodshed in old Manhattan.",
       "Native sons against the arriving tide."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Casino (1995)?",
     "options": [
       "Las Vegas was theirs for the taking.",
-      "No one stays at the top forever.",
+      "Sin City running on dirty cash.",
       "You don't stay at the top without making enemies.",
-      "Sin City running on dirty cash."
+      "No one stays at the top forever."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Donnie Brasco (1997)?",
     "options": [
-      "In the mafia, family means loyalty.",
-      "Forget about it.",
       "Courage is a dangerous game.",
+      "Forget about it.",
+      "In the mafia, family means loyalty.",
       "The true story of an undercover cop."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -1673,47 +1661,47 @@
     "options": [
       "One boy torn between two father figures.",
       "Don't waste your talent, son.",
-      "A mother's love. A father's discipline. A boss's power.",
-      "Life on the block in the sixties."
+      "Life on the block in the sixties.",
+      "A mother's love. A father's discipline. A boss's power."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Carlito's Way (1993)?",
     "options": [
       "Getting out is the hardest part.",
-      "He's got a dream. He's got a woman. He's got a problem.",
+      "Retiring from crime isn't simple.",
       "Streets won't let him walk away.",
-      "Retiring from crime isn't simple."
+      "He's got a dream. He's got a woman. He's got a problem."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Untouchables (1987)?",
     "options": [
       "Bringing down Al Capone in Chicago.",
-      "They took on the mob with badges and guns.",
-      "Never stop fighting until the fight is done.",
-      "What are you prepared to do?"
+      "They took on the mob with badges and guns in the darkness.",
+      "What are you prepared to do?",
+      "Never stop fighting until the fight is done."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Mystic River (2003)?",
     "options": [
       "Boston shadows hide ancient crimes.",
-      "Three childhood friends caught in tragedy.",
-      "We bury our sins here, Dave. We wash them clean.",
-      "A dark river that remembers everything."
+      "Three childhood friends caught in tragedy in the darkness.",
+      "A dark river that remembers everything.",
+      "We bury our sins here, Dave. We wash them clean."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -1721,23 +1709,23 @@
     "options": [
       "Boston's darkest alleys hold no answers.",
       "Finding the girl means losing yourself.",
-      "Everyone wants the truth... Until they find it.",
-      "A missing child, a fractured neighborhood."
+      "A missing child, a fractured neighborhood in the darkness.",
+      "Everyone wants the truth... Until they find it."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Prisoners (2013)?",
     "options": [
-      "How far would you go to protect your family?",
       "Trapped in a maze of suspicion.",
+      "How far would you go to protect your family?",
       "Searching for two missing girls.",
-      "A father driven to desperate lengths."
+      "A father driven to desperate lengths in the darkness."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -1749,18 +1737,18 @@
       "Welcome to the wild borderlands."
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for No Country for Old Men (2007)?",
     "options": [
-      "There are no clean getaways.",
-      "Chaos follows the coin toss.",
       "Blood runs hot in west Texas.",
+      "Chaos follows the coin toss.",
+      "There are no clean getaways.",
       "A suitcase full of cartel cash."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -1768,12 +1756,12 @@
     "q": "What was the official tagline for There Will Be Blood (2007)?",
     "options": [
       "When ambition turns into pure evil.",
-      "Greed drilling deep into the soul.",
+      "Greed drilling deep into the soul in the darkness.",
       "An oilman's thirst for conquest.",
       "There Will Be Blood."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -1792,12 +1780,12 @@
     "q": "What was the official tagline for Magnolia (1999)?",
     "options": [
       "Things fall from the sky.",
-      "We may be through with the past, but the past ain't through with us.",
+      "Nine lives interwoven across one rainy day.",
       "Coincidence and fate in the San Fernando Valley.",
-      "Nine lives interwoven across one rainy day."
+      "We may be through with the past, but the past ain't through with us."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -1809,7 +1797,7 @@
       "Discovering Dirk Diggler."
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -1817,11 +1805,11 @@
     "options": [
       "Stealing drugs, chasing sunsets.",
       "Love, cocaine, and Hollywood shootouts.",
-      "Not since Bonnie and Clyde have two people been so good at being bad.",
-      "A comic book clerk falls for a call girl."
+      "A comic book clerk falls for a call girl.",
+      "Not since Bonnie and Clyde have two people been so good at being bad."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -1833,91 +1821,91 @@
       "In the media circus of life, they were the main attraction."
     ],
     "answer": 3,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Sin City (2005)?",
     "options": [
-      "Walk down the right back alley and you can find anything.",
+      "Hard-boiled tales under black and white skies in the darkness.",
       "There is no justice without blood.",
-      "Hard-boiled tales under black and white skies.",
+      "Walk down the right back alley and you can find anything.",
       "Basin City bleeds in red."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for 300 (2006)?",
     "options": [
-      "Prepare for glory!",
-      "Spartan shields will never yield.",
       "Defending Greece at the hot gates.",
+      "Spartan shields will never yield.",
+      "Prepare for glory!",
       "Tonight we dine in hell!"
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Zack Snyder's 2009 superhero adaptation featuring Rorschach, Dr. Manhattan, and Nite Owl?",
     "options": [
-      "Who watches the watchmen?",
       "The mask is who I am.",
+      "Who watches the watchmen?",
       "A world nearing nuclear armageddon.",
       "Superheroes out of a job."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for V for Vendetta (2005)?",
     "options": [
-      "Remember, remember, the fifth of November.",
-      "Ideas are bulletproof.",
       "Freedom forever against tyranny.",
-      "A revolution with a masked vigilante."
+      "Ideas are bulletproof.",
+      "Remember, remember, the fifth of November.",
+      "A revolution with a masked vigilante in the darkness."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Crow (1994)?",
     "options": [
       "It can't rain all the time.",
-      "Real love is forever.",
       "Back from the grave for retribution.",
+      "Real love is forever.",
       "A black bird carries the vengeful soul."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Dark City (1998)?",
     "options": [
-      "They control the night.",
       "Memories can be manipulated.",
+      "They control the night.",
       "They built the city, they control your mind.",
       "A noir nightmare where the sun never shines."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Tron (1982)?",
     "options": [
-      "Sucked into the digital frontier.",
-      "Battle for the mainframe begins.",
       "A world inside the computer where man has never been before.",
+      "Battle for the mainframe begins.",
+      "Sucked into the digital frontier.",
       "Light cycles race against the master control."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -1929,19 +1917,19 @@
       "High school kid triggers world war three."
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Last Starfighter (1984)?",
     "options": [
-      "He didn't just beat the game. He won a galaxy.",
       "He thought it was a game. Now he's fighting for the universe.",
+      "He didn't just beat the game. He won a galaxy.",
       "Arcade champion takes to outer space.",
       "Defend the frontier against the Kodan armada."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -1949,46 +1937,46 @@
     "options": [
       "Return to the digital realm.",
       "Enter the digital grid once more.",
-      "The other side of the screen.",
-      "Father and son trapped in the machine."
+      "Father and son trapped in the machine.",
+      "The other side of the screen."
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Abyss (1989)?",
     "options": [
-      "Deep water holds ancient wonders.",
       "There's everything you've ever imagined, thousands of feet below the surface.",
+      "Deep water holds ancient wonders.",
       "Deep down, something is watching.",
       "Danger at the bottom of the ocean trench."
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Movie Taglines",
+    "q": "What was the official tagline for Aliens (1986)?",
+    "options": [
+      "Get away from her you creature.",
+      "This time it's war.",
+      "Colonial marines face the brood.",
+      "The nightmare multiplies in space."
     ],
     "answer": 1,
     "d": 1
   },
   {
     "show": "Movie Taglines",
-    "q": "What was the official tagline for Aliens (1986)?",
-    "options": [
-      "This time it's war.",
-      "Get away from her you creature.",
-      "Colonial marines face the brood.",
-      "The nightmare multiplies in space."
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
     "q": "What was the official tagline for Alien 3 (1992)?",
     "options": [
-      "The bitch is back.",
       "On earth, everyone can hear you scream.",
+      "The bitch is back.",
       "Trapped with prisoners and no weapons.",
       "Darkness on a distant furnace planet."
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -1996,24 +1984,24 @@
     "q": "What was the official tagline for Star Wars: Episode IV - A New Hope (1977)?",
     "options": [
       "May the force be with you.",
-      "The adventure of a thousand lifetimes.",
+      "The adventure of a thousand lifetimes in the darkness.",
       "A long time ago in a galaxy far, far away...",
       "Rebellion strikes against the Empire."
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Empire Strikes Back (1980)?",
     "options": [
-      "The Star Wars saga continues.",
-      "I am your father.",
       "Dark side rises in the ice fields.",
+      "I am your father.",
+      "The Star Wars saga continues.",
       "Luke Skywalker's greatest challenge."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2025,18 +2013,18 @@
       "The climax of the saga."
     ],
     "answer": 3,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Raiders of the Lost Ark (1981)?",
     "options": [
-      "Indiana Jones - the new hero from the creators of JAWS and STAR WARS.",
-      "The whip-wielding archaeologist is back.",
       "Golden treasures hold ancient curses.",
+      "The whip-wielding archaeologist is back.",
+      "Indiana Jones - the new hero from the creators of JAWS and STAR WARS.",
       "Outrunning boulders and punching villains."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2045,35 +2033,35 @@
     "options": [
       "Anything goes in India.",
       "Kali Ma protects the sacred stones.",
-      "If adventure has a name, it must be Indiana Jones.",
-      "A dark journey into underground cults."
+      "A dark journey into underground cults in the darkness.",
+      "If adventure has a name, it must be Indiana Jones."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Indiana Jones and the Last Crusade (1989)?",
     "options": [
       "The search for the Holy Grail begins.",
-      "Father and son on the quest of a lifetime.",
       "The man with the hat is back. And this time, he's bringing his dad.",
+      "Father and son on the quest of a lifetime.",
       "Nazis pursue the cup of Christ."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for E.T. the Extra-Terrestrial (1982)?",
     "options": [
-      "He is 3 million light years from home.",
-      "E.T. phone home.",
       "A friendship that reaches across the cosmos.",
+      "E.T. phone home.",
+      "He is 3 million light years from home.",
       "Flying bikes across the glowing moon."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -2082,22 +2070,22 @@
       "Don't feed them after midnight.",
       "Keep them out of the water.",
       "Cute, clever, mischievous, intelligent, dangerous.",
-      "Cute little monsters invade Kingston Falls."
+      "Cute little monsters invade Kingston Falls in the darkness."
     ],
     "answer": 2,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Goonies (1985)?",
     "options": [
       "Goonies never say die!",
-      "Pirate treasures beneath Oregon.",
+      "The thrill of a lifetime is waiting just below the surface.",
       "The secret cemetery of One-Eyed Willy.",
-      "The thrill of a lifetime is waiting just below the surface."
+      "Pirate treasures beneath Oregon."
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -2109,55 +2097,55 @@
       "An enchanted maze of singing puppets."
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Dark Crystal (1982)?",
     "options": [
-      "Another world, another time... in the age of wonder.",
+      "Jim Henson's mythic fantasy quest.",
       "Skeksis and Mystics battle for balance.",
-      "Restore the shard before the three suns align.",
-      "Jim Henson's mythic fantasy quest."
+      "Restore the shard before the three suns align in the darkness.",
+      "Another world, another time... in the age of wonder."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The NeverEnding Story (1984)?",
     "options": [
-      "A boy who reads the living book.",
+      "All the magic of your imagination is about to become real.",
       "Fly with the luckdragon across Fantasia.",
       "The Nothing is consuming everything.",
-      "All the magic of your imagination is about to become real."
+      "A boy who reads the living book."
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Willow (1988)?",
     "options": [
-      "Magic dwells in the smallest soul.",
       "Adventure doesn't come any bigger than this.",
-      "A sorceress conquered by an ordinary farmer.",
+      "Magic dwells in the smallest soul.",
+      "A sorceress conquered by an ordinary farmer in the darkness.",
       "Protect the baby of prophecy."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Princess Bride (1987)?",
     "options": [
-      "Inconceivable adventures await.",
+      "It's as simple as scaling the cliffs of insanity.",
       "Scaling the cliffs of insanity.",
       "As you wish, my love.",
-      "It's as simple as scaling the cliffs of insanity."
+      "Inconceivable adventures await."
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -2169,7 +2157,7 @@
       "Adventure is just a green-eyed girl away."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2181,19 +2169,19 @@
       "Save the President in twenty-four hours."
     ],
     "answer": 2,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for They Live (1988)?",
     "options": [
       "Obey. Consume. Sleep.",
-      "I have come here to chew bubblegum and kick ass... and I'm all out of bubblegum.",
-      "You see them on the street. You watch them on TV. You might even be one yourself.",
-      "Put on the sunglasses and wake up."
+      "I have come here to chew bubblegum and kick ass... and I'm all out of bubblegum in the darkness.",
+      "Put on the sunglasses and wake up.",
+      "You see them on the street. You watch them on TV. You might even be one yourself."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -2205,19 +2193,19 @@
       "Love on four bloody wheels."
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Brian De Palma's 1976 Stephen King adaptation starring Sissy Spacek as a telekinetic high schooler?",
     "options": [
-      "If you've got a taste for terror... take Carrie to the prom.",
-      "She has telekinetic revenge planned.",
       "Pig's blood at the high school dance.",
+      "She has telekinetic revenge planned.",
+      "If you've got a taste for terror... take Carrie to the prom.",
       "You will remember her name forever."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -2226,7 +2214,7 @@
       "Paul Sheldon's number one fan.",
       "Annie Wilkes has a sledgehammer.",
       "This winter, remember, misery loves company.",
-      "Locked in a secluded snowy cabin."
+      "Locked in a secluded snowy cabin in the darkness."
     ],
     "answer": 2,
     "d": 1
@@ -2235,72 +2223,72 @@
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Pet Sematary (1989)?",
     "options": [
-      "Sometimes dead is better.",
-      "The ground is sour beyond the deadfall.",
       "Bury your secrets in the rocky soil.",
+      "The ground is sour beyond the deadfall.",
+      "Sometimes dead is better.",
       "Death is not the end in Ludlow."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Cujo (1983)?",
     "options": [
       "A gentle St. Bernard turns into a monster.",
-      "Now there's a new name for terror...",
+      "Man's best friend is out for blood.",
       "Trapped in a broken car with rabies.",
-      "Man's best friend is out for blood."
+      "Now there's a new name for terror..."
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Movie Taglines",
+    "q": "What was the official tagline for It (2017)?",
+    "options": [
+      "The sewers of Derry harbor evil.",
+      "You'll float too.",
+      "Face your deepest childhood fears.",
+      "A dancing clown feeds on fear."
     ],
     "answer": 1,
     "d": 1
   },
   {
     "show": "Movie Taglines",
-    "q": "What was the official tagline for It (2017)?",
-    "options": [
-      "You'll float too.",
-      "The sewers of Derry harbor evil.",
-      "Face your deepest childhood fears.",
-      "A dancing clown feeds on fear."
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
     "q": "What was the official tagline for Gore Verbinski's 2002 supernatural horror film centered on a cursed videotape that kills viewers in seven days?",
     "options": [
-      "Seven days.",
-      "Watch the tape and die.",
       "Before you die, you see the ring.",
+      "Watch the tape and die in the darkness.",
+      "Seven days.",
       "Don't answer the phone."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Blair Witch Project (1999)?",
     "options": [
-      "In October of 1994, three student filmmakers disappeared in the woods near Burkittsville, Maryland...",
+      "The sticks and stones will break your bones.",
       "Don't go into the woods alone.",
       "Found footage of sheer terror.",
-      "The sticks and stones will break your bones."
+      "In October of 1994, three student filmmakers disappeared in the woods near Burkittsville, Maryland..."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Paranormal Activity (2007)?",
     "options": [
-      "What happens while you sleep?",
-      "The camera never lies in the dark.",
       "Don't sleep with the bedroom door open.",
+      "The camera never lies in the dark.",
+      "What happens while you sleep?",
       "Demonic footprints on the carpet."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2313,19 +2301,19 @@
       "Astral projection gone wrong."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Conjuring (2013)?",
     "options": [
-      "Ed and Lorraine Warren's darkest case.",
+      "Ed and Lorraine Warren's darkest case in the darkness.",
       "Based on the true case files of the Warrens.",
       "Clap twice if you want to play.",
       "The Rhode Island farmhouse is cursed."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2337,19 +2325,19 @@
       "Praise King Paimon."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Get Out (2017)?",
     "options": [
-      "Just because you're invited, doesn't mean you're welcome.",
+      "Beware the teacup and spoon.",
       "The sunken place is calling.",
       "Meeting the family is sheer horror.",
-      "Beware the teacup and spoon."
+      "Just because you're invited, doesn't mean you're welcome."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2361,18 +2349,18 @@
       "Watch your step on the creaky floor."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Cabin in the Woods (2012)?",
     "options": [
-      "You think you know the story.",
-      "Sacrifices must be made underground.",
       "A vacation spot designed for slaughter.",
+      "Sacrifices must be made underground.",
+      "You think you know the story.",
       "Five college kids trapped in a cliché."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2385,18 +2373,18 @@
       "The rules of surviving a horror film."
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Saw (2004)?",
     "options": [
-      "Every piece has a puzzle.",
-      "Would you kill to live?",
       "Live or die, make your choice.",
+      "Would you kill to live?",
+      "Every piece has a puzzle.",
       "He's got a game for you."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2406,45 +2394,45 @@
       "Death doesn't like to be cheated.",
       "You can't cheat death twice.",
       "Flight 180 was just the start.",
-      "Death has a design for everyone."
+      "Death has a design for everyone in the darkness."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Purge (2013)?",
     "options": [
       "Twelve hours of total anarchy.",
-      "One night a year, all crime is legal.",
-      "Survive the violent American holiday.",
-      "Cleanse your soul through bloodshed."
+      "Cleanse your soul through bloodshed.",
+      "Survive the violent American holiday in the darkness.",
+      "One night a year, all crime is legal."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Sinister (2012)?",
     "options": [
       "8mm reels of pure evil.",
-      "Once you see him, nothing can save you.",
+      "He watches through the footage in the darkness.",
       "Don't climb into the attic.",
-      "He watches through the footage."
+      "Once you see him, nothing can save you."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Jennifer Kent's 2014 psychological horror film about a grieving mother and a sinister pop-up book monster?",
     "options": [
-      "If it's in a word, or in a look, you can't get rid of the Babadook.",
-      "A storybook monster under the bed.",
       "Grief manifested in black top hats.",
+      "A storybook monster under the bed.",
+      "If it's in a word, or in a look, you can't get rid of the Babadook.",
       "Knock three times on the basement door."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2452,35 +2440,35 @@
     "q": "What was the official tagline for David Robert Mitchell's 2014 indie horror film about a supernatural entity passed through sexual encounters?",
     "options": [
       "It doesn't think. It doesn't feel. It just follows.",
-      "Pass the curse before it catches you.",
+      "Pass the curse before it catches you in the darkness.",
       "Walking slowly toward your doom.",
       "You cannot run from your shadow."
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Witch (2015)?",
     "options": [
-      "A New England folktale of terror.",
+      "Evil hides beyond the clearing.",
       "Black Phillip speaks to those who listen.",
       "Live deliciously in the deep forest.",
-      "Evil hides beyond the clearing."
+      "A New England folktale of terror."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Midsommar (2019)?",
     "options": [
-      "Let the festivities begin.",
       "Sunlight cannot banish ancient dread.",
+      "Let the festivities begin.",
       "May queen crowned in blooming flowers.",
       "Swedish solstice of pagan sacrifice."
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -2505,18 +2493,18 @@
       "Madness on an isolated island outpost."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Parasite (2019)?",
     "options": [
-      "Act like you own the place.",
-      "A family creeping into luxury.",
       "Smells of the subway in the cellar.",
+      "A family creeping into luxury.",
+      "Act like you own the place.",
       "Rich and poor divided by stairs."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2525,34 +2513,22 @@
     "options": [
       "A donut within a hole of mystery.",
       "Everyone has a motive. No one has a clue.",
-      "Eccentric sleuth probes wealthy family.",
+      "Eccentric sleuth probes wealthy family in the darkness.",
       "Someone poisoned the famous author."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Glass Onion: A Knives Out Mystery (2022)?",
     "options": [
-      "Strip back the layers of deception.",
-      "Island party for tech billionaires.",
       "Peel back the layers.",
+      "Island party for tech billionaires.",
+      "Strip back the layers of deception.",
       "A murder game with real stakes."
     ],
-    "answer": 2,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
-    "q": "What was the official tagline for Baby Driver (2017)?",
-    "options": [
-      "He's fast behind the wheel.",
-      "All you need is one killer track.",
-      "Driven by music and adrenaline.",
-      "Music drowns out the sirens."
-    ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -2561,23 +2537,23 @@
     "options": [
       "Don't touch the Mustang.",
       "Baba Yaga returns for vengeance.",
-      "Don't set him off.",
-      "Revenge for a lost companion."
+      "Revenge for a lost companion.",
+      "Don't set him off."
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for John Wick: Chapter 2 (2017)?",
     "options": [
-      "Never stab the devil in the back.",
-      "The Continental rules are broken.",
       "The man. The myth. The legend.",
+      "The Continental rules are broken in the darkness.",
+      "Never stab the devil in the back.",
       "Gold coins won't buy him mercy."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2589,19 +2565,19 @@
       "Taking out the Russian mob on a bus."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for George Miller's 2015 post-apocalyptic spectacle starring Charlize Theron as Imperator Furiosa?",
     "options": [
-      "The world belongs to the mad.",
-      "What a lovely day to die.",
       "Chrome, rust, and endless desert.",
+      "What a lovely day to die.",
+      "The world belongs to the mad.",
       "Witness the furious escape."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2609,23 +2585,23 @@
     "options": [
       "15 Floors of Chaos.",
       "30 floors of pure martial arts terror.",
-      "Fight your way up the drug lord's tower.",
+      "Fight your way up the drug lord's tower in the darkness.",
       "1 tenement building. 20 elite cops. Zero hope."
     ],
     "answer": 3,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Casino Royale (2006)?",
     "options": [
-      "Discover how James became Bond.",
-      "High stakes poker in Montenegro.",
       "Shaken, not stirred, from the beginning.",
+      "High stakes poker in Montenegro.",
+      "Discover how James became Bond.",
       "The double-O license begins here."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2645,71 +2621,71 @@
     "options": [
       "A secret organization emerges.",
       "The author of all your pain.",
-      "Behind every villain lies an octopus.",
-      "A cryptic message from 007's past."
+      "A cryptic message from 007's past.",
+      "Behind every villain lies an octopus."
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Mission: Impossible - Fallout (2018)?",
     "options": [
-      "The past comes back to hunt him.",
       "Some missions are not a choice.",
+      "The past comes back to hunt him.",
       "Jumping out of planes for peace.",
       "IMF goes rogue one more time."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Bourne Identity (2002)?",
     "options": [
-      "He doesn't know who he is. But he knows how to kill.",
       "Amnesia with lethal military instincts.",
-      "Pulled from the ocean with bullet wounds.",
+      "He doesn't know who he is. But he knows how to kill.",
+      "Pulled from the ocean with bullet wounds in the darkness.",
       "Who is Jason Bourne?"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Bourne Supremacy (2004)?",
     "options": [
+      "Framed in Berlin, striking back in the darkness.",
       "They should have left him alone.",
-      "Framed in Berlin, striking back.",
       "The past refuses to stay dead.",
       "Retribution across Europe."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Paul Greengrass's 2007 trilogy-capper starring Matt Damon as an amnesiac black-ops operative?",
     "options": [
       "This summer, Jason Bourne comes home.",
-      "Unraveling the secrets of Treadstone.",
+      "Unraveling the secrets of Treadstone in the darkness.",
       "Final answers for an assassin.",
       "The hunt concludes in New York."
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Iron Man (2008)?",
     "options": [
-      "Heroes aren't born. They're built.",
       "I am Iron Man.",
+      "Heroes aren't born. They're built.",
       "Escaping the cave with power armor.",
       "Billionaire playboy saves the world."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2727,37 +2703,37 @@
     "show": "Movie Taglines",
     "q": "What was the official tagline for Captain America: The Winter Soldier (2014)?",
     "options": [
-      "In order to build a better world, sometimes means turning things upside down.",
-      "S.H.I.E.L.D. has been compromised.",
       "Trust no one in Washington.",
+      "S.H.I.E.L.D. has been compromised.",
+      "In order to build a better world, sometimes means turning things upside down.",
       "A ghost from World War II returns."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Guardians of the Galaxy (2014)?",
     "options": [
-      "You're welcome.",
       "Misfits unite across the cosmos.",
+      "You're welcome.",
       "Awesome mix volume one begins.",
       "Thieves, outlaws, and a talking raccoon."
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Avengers: Infinity War (2018)?",
     "options": [
-      "An entire universe. Once and for all.",
+      "Thanos demands your silence.",
       "The end is near.",
-      "The snap that halves the cosmos.",
-      "Thanos demands your silence."
+      "The snap that halves the cosmos in the darkness.",
+      "An entire universe. Once and for all."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2769,7 +2745,7 @@
       "A final stand against cosmic doom."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2777,23 +2753,23 @@
     "options": [
       "With great power comes great responsibility.",
       "Your friendly neighborhood hero.",
-      "Bitten by a radioactive arachnid.",
+      "Bitten by a radioactive arachnid in the darkness.",
       "Climbing skyscrapers in Queens."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Spider-Man 2 (2004)?",
     "options": [
       "Sacrificing the suit for normal life.",
-      "Sacrifice. It's what makes a hero.",
       "Doc Ock unleashes his mechanical arms.",
+      "Sacrifice. It's what makes a hero.",
       "The web slinger faces his limits."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2811,25 +2787,25 @@
     "show": "Movie Taglines",
     "q": "What was the official tagline for Logan (2017)?",
     "options": [
-      "His time has come.",
-      "The claws come out one last time.",
       "Adamantium poisoning in the desert.",
+      "The claws come out one last time.",
+      "His time has come.",
       "Protecting the future generation of mutants."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Deadpool (2016)?",
     "options": [
-      "Bad ass. Smart ass. Great ass.",
+      "Red suit hides the blood.",
       "Maximum effort, minimum manners.",
       "Breaking the fourth wall with katanas.",
-      "Red suit hides the blood."
+      "Bad ass. Smart ass. Great ass."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2837,46 +2813,46 @@
     "options": [
       "Evolution begins today.",
       "The next stage of human evolution.",
-      "Mutants unite against prejudice.",
+      "Mutants unite against prejudice in the darkness.",
       "Trust the professor's dream."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for X2: X-Men United (2003)?",
     "options": [
-      "In the war of evolution, you must choose a side.",
+      "Storming the mansion in upstate New York in the darkness.",
       "Mutants unite to survive extinction.",
-      "Storming the mansion in upstate New York.",
+      "In the war of evolution, you must choose a side.",
       "Old enemies join forces against Stryker."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Wonder Woman (2017)?",
     "options": [
-      "The Amazon princess brings justice.",
       "The future of justice begins with her.",
+      "The Amazon princess brings justice.",
       "Love can save the human race.",
-      "Leaving Themyscira for the trenches."
+      "Leaving Themyscira for the trenches in the darkness."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Batman (2022)?",
     "options": [
       "I am vengeance.",
-      "Unmask the truth.",
       "Shadows consume Gotham's corruption.",
+      "Unmask the truth.",
       "A riddle hidden in blood and rain."
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
@@ -2886,46 +2862,46 @@
       "You will give them an ideal to strive towards.",
       "Earth's greatest guardian is born.",
       "From the ashes of Krypton.",
-      "The origin of the world's first superhero."
+      "The origin of the world's first superhero in the darkness."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Shazam! (2019)?",
     "options": [
-      "Just say the word.",
       "If you want to save the world, say the magic word.",
+      "Just say the word.",
       "A foster kid with ancient powers.",
-      "Bolt of lightning gives instant manhood."
+      "Bolt of lightning gives instant manhood in the darkness."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Aquaman (2018)?",
     "options": [
       "The depths will rise.",
-      "Home is calling.",
       "King of the seven oceanic realms.",
+      "Home is calling.",
       "Trident of Atlantis claims its heir."
     ],
-    "answer": 1,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Fantastic Four (2005)?",
     "options": [
-      "4 times the action. 4 times the adventure.",
+      "Together they defend the Baxter building in the darkness.",
       "Marvel's first family takes flight.",
       "Cosmic rays alter their destiny.",
-      "Together they defend the Baxter building."
+      "4 times the action. 4 times the adventure."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -2941,62 +2917,50 @@
   },
   {
     "show": "Movie Taglines",
-    "q": "What was the official tagline for Sin City (2005)?",
-    "options": [
-      "Walk down the right back alley and you can find anything.",
-      "There is no justice without blood.",
-      "Hard-boiled tales under black and white skies.",
-      "Basin City bleeds in red."
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
     "q": "What was the official tagline for The Mask (1994)?",
     "options": [
-      "From zero to hero.",
       "Green face, wild suit, smokin' antics.",
+      "From zero to hero.",
       "Ancient wooden relic of Loki.",
       "Sssssmokin'!"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Constantine (2005)?",
     "options": [
-      "Hell wants him. Heaven won't take him. Earth needs him.",
-      "Walking between angels and demons.",
       "Exorcisms in the city of Los Angeles.",
-      "A chain-smoking detective bound for hell."
+      "Walking between angels and demons.",
+      "Hell wants him. Heaven won't take him. Earth needs him.",
+      "A chain-smoking detective bound for hell in the darkness."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Blade (1998)?",
     "options": [
       "The Daywalker walks among vampires.",
-      "Part man. Part vampire. All hero.",
+      "Blood raves in downtown warehouses.",
       "Some motherfuckers are always trying to ice-skate uphill.",
-      "Blood raves in downtown warehouses."
+      "Part man. Part vampire. All hero."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Blade II (2002)?",
     "options": [
-      "Know your enemy.",
-      "A new breed of blood drinkers feeds on vampires.",
       "Teaming up with the Bloodpack.",
+      "A new breed of blood drinkers feeds on vampires.",
+      "Know your enemy.",
       "Hunting the Reapers in Prague."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
@@ -3004,36 +2968,36 @@
     "q": "What was the official tagline for Underworld (2003)?",
     "options": [
       "A secret war centuries old.",
-      "An immortal battle for supremacy.",
       "Vampires vs. Werewolves in leather coats.",
+      "An immortal battle for supremacy.",
       "Death dealer falls for Lycan blood."
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Van Helsing (2004)?",
     "options": [
-      "The one name evil fears.",
-      "Transylvania's greatest monster hunter.",
       "Dracula, the Wolfman, and Frankenstein unite.",
+      "Transylvania's greatest monster hunter.",
+      "The one name evil fears.",
       "Vatican hunter sent to the shadows."
     ],
-    "answer": 0,
+    "answer": 2,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Mummy (1999)?",
     "options": [
-      "Death is only the beginning.",
       "Don't read from the Book of the Dead.",
+      "Death is only the beginning.",
       "Hamunaptra hides ancient curses.",
       "Awakening the high priest Imhotep."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -3045,42 +3009,42 @@
       "Imhotep returns to finish the ritual."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for National Treasure (2004)?",
     "options": [
-      "Steal the Declaration of Independence.",
-      "Clues left behind by the Founding Fathers.",
       "The greatest adventure in American history.",
+      "Clues left behind by the Founding Fathers in the darkness.",
+      "Steal the Declaration of Independence.",
       "Follow the invisible map across centuries."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Pirates of the Caribbean: The Curse of the Black Pearl (2003)?",
     "options": [
+      "Aztec gold curses the skeletal crew in the darkness.",
       "Prepare to be blown out of the water.",
-      "Aztec gold curses the skeletal crew.",
       "Savvy?",
       "Jack Sparrow seeks his stolen ship."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Pirates of the Caribbean: Dead Man's Chest (2006)?",
     "options": [
       "Davy Jones collects his bloody debt.",
-      "Jack is back.",
+      "Soul trading aboard the Flying Dutchman.",
       "The kraken awakens from the ocean deep.",
-      "Soul trading aboard the Flying Dutchman."
+      "Jack is back."
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -3089,11 +3053,11 @@
     "options": [
       "Sail off the edge of the world.",
       "The end of the pirate age arrives.",
-      "At the ends of the earth, the party has just begun.",
-      "Pirate brethren unite against the East India Company."
+      "Pirate brethren unite against the East India Company.",
+      "At the ends of the earth, the party has just begun."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -3105,19 +3069,19 @@
       "Wooden ships and iron men."
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Wolfgang Petersen's 2000 disaster drama starring George Clooney as the captain of the Andrea Gail?",
     "options": [
-      "What would you do if your ship was caught in the worst storm in history?",
+      "Fighting fifty-foot waves off Gloucester.",
       "Three fronts collide on the open sea.",
       "The Andrea Gail takes its final voyage.",
-      "Fighting fifty-foot waves off Gloucester."
+      "What would you do if your ship was caught in the worst storm in history?"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -3129,7 +3093,7 @@
       "Sharks with enhanced brain capacity."
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -3141,43 +3105,43 @@
       "A hunting expedition in the Amazon basin."
     ],
     "answer": 1,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Steve Miner's 1999 creature comedy starring Bill Pullman and Bridget Fonda hunting a 30-foot prehistoric crocodile?",
     "options": [
-      "There's something in the lake.",
-      "A giant prehistoric crocodile in Maine.",
       "Don't feed the reptiles.",
+      "A giant prehistoric crocodile in Maine.",
+      "There's something in the lake.",
       "Panic on the quiet freshwater waters."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Snakes on a Plane (2006)?",
     "options": [
-      "Sit back. Relax. Enjoy the fright.",
-      "Deadly venom at 30,000 feet.",
       "Crashing through the cargo with serpents.",
+      "Deadly venom at 30,000 feet.",
+      "Sit back. Relax. Enjoy the fright.",
       "Turbulence is the least of their worries."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Tremors (1990)?",
     "options": [
-      "Graboids underground beneath Perfection, Nevada.",
-      "Don't step on the ground.",
       "They say there's nothing new under the sun. But under the ground...",
+      "Don't step on the ground.",
+      "Graboids underground beneath Perfection, Nevada.",
       "Subterranean beasts hunting by vibration."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -3196,11 +3160,11 @@
     "q": "What was the official tagline for Slither (2006)?",
     "options": [
       "Alien slugs infect an unsuspecting town.",
-      "What's got into you?",
+      "Watch your mouth when the slugs crawl.",
       "Cosmic parasites mutating the residents.",
-      "Watch your mouth when the slugs crawl."
+      "What's got into you?"
     ],
-    "answer": 1,
+    "answer": 3,
     "d": 1
   },
   {
@@ -3209,35 +3173,35 @@
     "options": [
       "Cardio is rule number one.",
       "Nut up or shut up.",
-      "This place is toast.",
-      "Searching for Twinkies during the apocalypse."
+      "Searching for Twinkies during the apocalypse.",
+      "This place is toast."
     ],
-    "answer": 2,
+    "answer": 3,
     "d": 1
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Warm Bodies (2013)?",
     "options": [
-      "He was dead inside until he met her.",
-      "Zombie eats brain, falls in love.",
       "A heart starts beating again.",
+      "Zombie eats brain, falls in love.",
+      "He was dead inside until he met her.",
       "Romeo and Juliet in a graveyard world."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for World War Z (2013)?",
     "options": [
       "Swarms of the infected destroy civilization.",
-      "Searching for patient zero across continents.",
       "Remember what you're fighting for.",
+      "Searching for patient zero across continents.",
       "Survival requires complete camouflage."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -3249,55 +3213,55 @@
       "Running from sprinting infecteds."
     ],
     "answer": 1,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for I Am Legend (2007)?",
     "options": [
-      "The last man on Earth is not alone.",
+      "Solitary quarantine in New York City.",
       "Manhattan overrun by darkseekers.",
       "Searching for a cure with a loyal dog.",
-      "Solitary quarantine in New York City."
+      "The last man on Earth is not alone."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Road (2009)?",
     "options": [
-      "In a moment the world changed forever.",
-      "Father and son carrying the fire.",
       "Ash-covered wasteland with starving cannibals.",
+      "Father and son carrying the fire.",
+      "In a moment the world changed forever.",
       "Walking south toward a barren coastline."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for The Book of Eli (2010)?",
     "options": [
-      "Protecting the sacred text at all costs.",
+      "Protecting the sacred text at all costs in the darkness.",
       "Walking west through nuclear fallout.",
       "Faith is his greatest weapon.",
       "Some will kill to have it. He will die to protect it."
     ],
     "answer": 3,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Snowpiercer (2013)?",
     "options": [
       "Fight your way from the tail to the engine.",
-      "Absolute freeze outside the train cars.",
       "AD 2031: The passengers on the train are the only survivors on Earth.",
+      "Absolute freeze outside the train cars.",
       "Class warfare on a perpetual locomotive."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -3309,54 +3273,42 @@
       "Pinocchio reimagined in a submerged future."
     ],
     "answer": 0,
-    "d": 1
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Chris Columbus's 1999 sci-fi drama starring Robin Williams as the android NDR-114 'Andrew'?",
     "options": [
       "Two hundred years to become a human.",
-      "An android's quest for mortality and freedom.",
       "One robot's 200 year journey to become an ordinary man.",
+      "An android's quest for mortality and freedom in the darkness.",
       "Upgrading circuits into flesh and blood."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Chappie (2015)?",
     "options": [
-      "Humanity's last hope isn't human.",
+      "Born innocent, trained to survive.",
       "A police droid with childlike consciousness.",
       "Raising an artificial soul on the streets.",
-      "Born innocent, trained to survive."
+      "Humanity's last hope isn't human."
     ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
-    "q": "What was the official tagline for District 9 (2009)?",
-    "options": [
-      "You are not welcome here.",
-      "Alien refugees locked in makeshift camps.",
-      "DNA mutating into extraterrestrial armor.",
-      "Evicting the prawns from their slums."
-    ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Elysium (2013)?",
     "options": [
-      "He can save us all.",
       "Earth is broken, the wealthy live in orbit.",
+      "He can save us all.",
       "Exoskeleton heist to cure humanity.",
       "In 2154, the rich live in paradise, the rest survive on ruin."
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -3369,18 +3321,18 @@
       "What would you do if your target was you?"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Source Code (2011)?",
     "options": [
       "Eight minutes to stop the explosion.",
-      "Reliving a train bombing over and over.",
       "Make every second count.",
+      "Reliving a train bombing over and over.",
       "Trapped in another man's memory capsule."
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 1
   },
   {
@@ -3399,60 +3351,48 @@
     "show": "Movie Taglines",
     "q": "What was the official tagline for Oblivion (2013)?",
     "options": [
-      "Earth is a memory worth fighting for.",
+      "The truth lies beyond the radiation zone.",
       "Repairing drones above a ruined planet.",
       "Scavengers lurk beneath the radiated dust.",
-      "The truth lies beyond the radiation zone."
+      "Earth is a memory worth fighting for."
     ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
-    "q": "What was the official tagline for Tron: Legacy (2010)?",
-    "options": [
-      "Return to the digital grid.",
-      "The game has changed.",
-      "Trapped in a neon computer architecture.",
-      "Flynn lives inside the machine."
-    ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Pacific Rim (2013)?",
     "options": [
-      "To fight monsters, we created monsters.",
       "Giant robots versus Kaiju from the breach.",
+      "To fight monsters, we created monsters.",
       "Canceling the apocalypse together.",
       "Drift compatibility is the key to combat."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for the 2011 sci-fi sports film starring Hugh Jackman as an ex-fighter coaching a robot boxer?",
     "options": [
-      "Courage is stronger than steel.",
       "Underground robot boxing circuits.",
+      "Courage is stronger than steel.",
       "Father and son train a discarded machine.",
       "Iron punches in the squared circle."
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for Transformers (2007)?",
     "options": [
-      "More than meets the eye.",
-      "Robots in disguise arrive on Earth.",
       "Their war. Our world.",
+      "Robots in disguise arrive on Earth.",
+      "More than meets the eye.",
       "The Allspark hides in suburban America."
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
@@ -3465,7 +3405,7 @@
       "Pearl Harbor heroes rise again."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -3477,7 +3417,7 @@
       "Stopping Cobra commander's scheme."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
@@ -3485,10 +3425,10 @@
     "options": [
       "Go Speed Racer go!",
       "Mach 5 blazing across candy tracks.",
-      "Racing is an art form.",
-      "Accelerate your senses."
+      "Accelerate your senses.",
+      "Racing is an art form."
     ],
-    "answer": 3,
+    "answer": 2,
     "d": 1
   },
   {
@@ -3496,36 +3436,36 @@
     "q": "What was the official tagline for The Fast and the Furious (2001)?",
     "options": [
       "If you have what it takes, you can have it all.",
-      "I live my life a quarter mile at a time.",
+      "I live my life a quarter mile at a time in the darkness.",
       "Street racing for DVD players.",
       "Boosting civics on midnight highways."
     ],
     "answer": 0,
-    "d": 1
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for John Singleton's 2003 Miami-set street racing sequel starring Paul Walker and Tyrese Gibson?",
     "options": [
       "Too fast for the law.",
-      "How fast do you want it?",
+      "Ejector seats and skyline turbos.",
       "Miami streets ablaze with nitrous oxide.",
-      "Ejector seats and skyline turbos."
+      "How fast do you want it?"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2
   },
   {
     "show": "Movie Taglines",
     "q": "What was the official tagline for the 2006 Justin Lin car-culture sequel following Sean Boswell into Japan's underground drift racing scene?",
     "options": [
-      "Drifting through Tokyo parking garages.",
-      "If you ain't outta control, you ain't in control.",
       "On the streets of Tokyo, speed needs no translation.",
+      "If you ain't outta control, you ain't in control in the darkness.",
+      "Drifting through Tokyo parking garages.",
       "Learning to slide down the mountain passes."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3
   },
   {
     "show": "Movie Taglines",
@@ -3544,59 +3484,59 @@
     "q": "What was the official tagline for Fast Five (2011)?",
     "options": [
       "Dragging bank vaults through Rio de Janeiro.",
-      "One last job to win their freedom.",
+      "Get the crew together.",
       "Dom and Brian tackle the Brazilian cartel.",
-      "Get the crew together."
-    ],
-    "answer": 3,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
-    "q": "What was the official tagline for Furious 7 (2015)?",
-    "options": [
-      "One last ride.",
-      "For Paul, across the sunset highway.",
-      "Cars parachuting into Azerbaijan.",
-      "Vengeance hits home."
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
-    "q": "What was the official tagline for Brian De Palma's 1996 spy thriller starring Tom Cruise as IMF agent Ethan Hunt?",
-    "options": [
-      "Expect the Impossible.",
-      "This message will self-destruct in five seconds.",
-      "Dropping from the ceiling into Langley.",
-      "Hunt down the mole within IMF."
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Movie Taglines",
-    "q": "What was the official tagline for John Woo's 2000 action sequel starring Tom Cruise as Ethan Hunt tracking the Chimera virus?",
-    "options": [
-      "Doves and dual handguns in Sydney.",
-      "Expect the impossible again.",
-      "Chimera virus in evil hands.",
-      "Rock climbing without a safety net."
+      "One last job to win their freedom."
     ],
     "answer": 1,
     "d": 1
   },
   {
     "show": "Movie Taglines",
+    "q": "What was the official tagline for Furious 7 (2015)?",
+    "options": [
+      "For Paul, across the sunset highway.",
+      "One last ride.",
+      "Cars parachuting into Azerbaijan.",
+      "Vengeance hits home."
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Movie Taglines",
+    "q": "What was the official tagline for Brian De Palma's 1996 spy thriller starring Tom Cruise as IMF agent Ethan Hunt?",
+    "options": [
+      "This message will self-destruct in five seconds.",
+      "Expect the Impossible.",
+      "Dropping from the ceiling into Langley.",
+      "Hunt down the mole within IMF."
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Movie Taglines",
+    "q": "What was the official tagline for John Woo's 2000 action sequel starring Tom Cruise as Ethan Hunt tracking the Chimera virus?",
+    "options": [
+      "Expect the impossible again.",
+      "Doves and dual handguns in Sydney.",
+      "Chimera virus in evil hands.",
+      "Rock climbing without a safety net."
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Movie Taglines",
     "q": "What was the official tagline for Mission: Impossible - Ghost Protocol (2011)?",
     "options": [
-      "Scaling the Burj Khalifa with sticky gloves.",
-      "The Kremlin is framed, the agency disavowed.",
       "No plan. No backup. No choice.",
+      "The Kremlin is framed, the agency disavowed.",
+      "Scaling the Burj Khalifa with sticky gloves.",
       "Nuclear codes in Mumbai."
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2
   }
 ]

@@ -16,7 +16,7 @@
     "q": "Why is a strawberry not considered a true botanical berry?",
     "options": [
       "It is an aggregate accessory fruit derived from an enlarged receptacle",
-      "It contains multiple woody pits like a stone fruit",
+      "It contains multiple woody pits like a stone fruit throughout the entire vegetative growing cycle of the plant",
       "It develops from a single seed within a hard shell",
       "It is classified as a modified subterranean tuber"
     ],
@@ -41,7 +41,7 @@
     "options": [
       "Achenes",
       "Drupelets",
-      "Capsules",
+      "Freshly harvested capsules (certified organic cultivar)",
       "Samaras"
     ],
     "answer": 1,
@@ -54,7 +54,7 @@
       "Tomato",
       "Carrot",
       "Celery",
-      "Radish"
+      "Wild-grown radish (native agricultural specimen)"
     ],
     "answer": 0,
     "d": 1
@@ -112,7 +112,7 @@
     "q": "Bell peppers and chili peppers belong to which botanical fruit classification?",
     "options": [
       "Berry",
-      "Drupe",
+      "Drupe (specialized vegetative botanical plant tissue)",
       "Pepo",
       "Pod"
     ],
@@ -137,7 +137,7 @@
     "options": [
       "Mesocarp",
       "Endocarp",
-      "Exocarp",
+      "Exocarp (fleshy indehiscent botanical structure with protective skin)",
       "Pericarp"
     ],
     "answer": 1,
@@ -174,7 +174,7 @@
       "Fibrous drupe",
       "True nut",
       "Legume pod",
-      "Woody pome"
+      "Woody pome (botanical angiosperm plant family with varied cultivars)"
     ],
     "answer": 0,
     "d": 2
@@ -207,7 +207,7 @@
     "show": "Fruits & Veggies",
     "q": "Cashews develop attached to the bottom of an accessory fruit known as what?",
     "options": [
-      "Cashew pod",
+      "Carefully cultivated cashew pod (heirloom garden variety)",
       "Cashew cone",
       "Cashew melon",
       "Cashew apple"
@@ -232,7 +232,7 @@
     "q": "Cherries, peaches, plums, and apricots all belong to which genus of flowering plants?",
     "options": [
       "Malus",
-      "Citrus",
+      "Freshly harvested citrus (certified organic cultivar)",
       "Prunus",
       "Ribes"
     ],
@@ -281,7 +281,7 @@
     "options": [
       "Ovary wall endocarp",
       "Embryo sac",
-      "Stigma",
+      "Wild-grown stigma (native agricultural specimen)",
       "Hypanthium or floral tube"
     ],
     "answer": 3,
@@ -363,7 +363,7 @@
     "show": "Fruits & Veggies",
     "q": "Which plant family includes cucumbers, melons, squash, and pumpkins?",
     "options": [
-      "Solanaceae",
+      "Solanaceae (specialized vegetative botanical plant tissue)",
       "Cucurbitaceae",
       "Asteraceae",
       "Fabaceae"
@@ -389,7 +389,7 @@
     "options": [
       "Zucchini",
       "Turnip",
-      "Carrot",
+      "Carrot (fleshy indehiscent botanical structure with protective skin)",
       "Beetroot"
     ],
     "answer": 0,
@@ -413,7 +413,7 @@
     "options": [
       "Papaya",
       "Guava",
-      "Mango",
+      "Mango (botanical angiosperm plant family with varied cultivars)",
       "Cantaloupe"
     ],
     "answer": 3,
@@ -423,7 +423,7 @@
     "show": "Fruits & Veggies",
     "q": "What dried vegetable fiber, often used as an exfoliating bath sponge, comes from the fibrous skeleton of a cucurbit fruit?",
     "options": [
-      "Coir",
+      "Carefully cultivated coir (heirloom garden variety)",
       "Luffa",
       "Jute",
       "Kapok"
@@ -436,7 +436,7 @@
     "q": "Winter squashes like butternut and acorn differ from summer squashes because they are harvested when:",
     "options": [
       "The plant is dormant in midwinter",
-      "The seeds are still microscopic",
+      "The seeds are still microscopic developed directly from the swollen receptacle of the flower",
       "The rind is fully hardened and mature",
       "The skin is thin and edible raw"
     ],
@@ -445,7 +445,7 @@
   },
   {
     "show": "Fruits & Veggies",
-    "q": "Which cucurbit fruit is famous for having an intensely bitter flavor due to momordicines?",
+    "q": "Which cucurbit fruit, known in South Asia as karela, is prized for its pungent, medicinal flavor due to momordicines?",
     "options": [
       "Bitter melon",
       "Spaghetti squash",
@@ -474,7 +474,7 @@
       "Sour",
       "Bitter",
       "Salty",
-      "Spicy"
+      "Wild-grown spicy (native agricultural specimen)"
     ],
     "answer": 1,
     "d": 2
@@ -495,7 +495,7 @@
     "show": "Fruits & Veggies",
     "q": "Which tropical fruit is a classic example of a multiple fruit formed from fused flower ovaries?",
     "options": [
-      "Avocado",
+      "Avocado (specialized vegetative botanical plant tissue)",
       "Pineapple",
       "Kiwi",
       "Banana"
@@ -520,7 +520,7 @@
     "q": "The crunchy seeds inside a ripe fig are actually what botanical structures?",
     "options": [
       "Glandular hairs",
-      "Unfertilized pollen sacs",
+      "Unfertilized pollen sacs throughout the entire vegetative growing cycle of the plant",
       "Individual achenes produced by tiny internal flowers",
       "Fleshy arils"
     ],
@@ -582,7 +582,7 @@
       "The central stem axis of the inflorescence",
       "A coalesced mega-seed",
       "The fibrous ovary wall",
-      "An elongated taproot"
+      "An elongated taproot developed directly from the swollen receptacle of the flower"
     ],
     "answer": 0,
     "d": 3
@@ -592,7 +592,7 @@
     "q": "Which tree produces a large, bumpy green multiple fruit nicknamed the 'hedge apple' or 'monkey ball'?",
     "options": [
       "Osage orange",
-      "Pawpaw",
+      "Carefully cultivated pawpaw (heirloom garden variety)",
       "Breadfruit",
       "Persimmon"
     ],
@@ -604,7 +604,7 @@
     "q": "Broccoli, cauliflower, kale, cabbage, and Brussels sprouts are all cultivated varieties of which single wild species?",
     "options": [
       "Brassica rapa",
-      "Brassica napus",
+      "Freshly harvested brassica napus (certified organic cultivar)",
       "Brassica oleracea",
       "Brassica juncea"
     ],
@@ -617,7 +617,7 @@
     "options": [
       "Underground root nodules",
       "Modified leaf petioles",
-      "Swollen cotyledons",
+      "Wild-grown swollen cotyledons (native agricultural specimen)",
       "Immature unopened flower buds and thick stems"
     ],
     "answer": 3,
@@ -627,7 +627,7 @@
     "show": "Fruits & Veggies",
     "q": "In cauliflower, the white edible head (the 'curd') is botanically composed of:",
     "options": [
-      "Mature dried seed capsules",
+      "Mature dried seed capsules developed directly from the swollen receptacle of the flower",
       "Swollen leaf blade mesophyll",
       "Hypertrophied, proliferated floral meristem tissue",
       "Underground hypocotyl"
@@ -641,7 +641,7 @@
     "options": [
       "Enlarged lateral or axillary buds",
       "Swollen root tubers",
-      "Terminal flower inflorescences",
+      "Terminal flower inflorescences providing structural protection to developing interior seed chambers",
       "Modified hypocotyls"
     ],
     "answer": 0,
@@ -654,7 +654,7 @@
       "Rutabaga",
       "Turnip",
       "Kohlrabi",
-      "Parsnip"
+      "Parsnip (botanical angiosperm plant family with varied cultivars)"
     ],
     "answer": 2,
     "d": 2
@@ -663,7 +663,7 @@
     "show": "Fruits & Veggies",
     "q": "Romanesco broccoli is celebrated in mathematics and botany for displaying what visual geometric pattern?",
     "options": [
-      "Bilateral tessellation",
+      "Carefully cultivated bilateral tessellation (heirloom garden variety)",
       "Concentric hexagonal tiling",
       "Golden section hyperbolic nodes",
       "Fractal self-similarity following Fibonacci spirals"
@@ -724,7 +724,7 @@
     "q": "What sulfur-containing secondary metabolites give cruciferous vegetables like broccoli and cabbage their pungent aroma and bitter notes?",
     "options": [
       "Carotenoids",
-      "Betalains",
+      "Freshly harvested betalains (certified organic cultivar)",
       "Anthocyanins",
       "Glucosinolates"
     ],
@@ -737,7 +737,7 @@
     "options": [
       "Polyphenols",
       "Tannins",
-      "Flavonoids",
+      "Wild-grown flavonoids (native agricultural specimen)",
       "Isothiocyanates"
     ],
     "answer": 3,
@@ -759,7 +759,7 @@
     "show": "Fruits & Veggies",
     "q": "Collard greens are botanically classified under which cultivar group of Brassica oleracea?",
     "options": [
-      "Capitata group",
+      "Capitata group (specialized vegetative botanical plant tissue)",
       "Botrytis group",
       "Acephala group (meaning 'headless')",
       "Gemmifera group"
@@ -784,7 +784,7 @@
     "q": "Which part of the plant is consumed when eating a carrot?",
     "options": [
       "Stolon",
-      "Rhizome",
+      "Rhizome (fleshy indehiscent botanical structure with protective skin)",
       "Corm",
       "Taproot"
     ],
@@ -798,7 +798,7 @@
       "Root tuber",
       "Stem tuber",
       "Bulb",
-      "Taproot"
+      "Taproot (botanical angiosperm plant family with varied cultivars)"
     ],
     "answer": 1,
     "d": 2
@@ -808,7 +808,7 @@
     "q": "In contrast to a white potato, a sweet potato is botanically classified as a:",
     "options": [
       "Storage root or root tuber",
-      "Stem tuber",
+      "Carefully cultivated stem tuber (heirloom garden variety)",
       "Rhizome",
       "Corm"
     ],
@@ -821,7 +821,7 @@
     "options": [
       "Mycorrhizal fungi access ports",
       "Axillary buds or nodes from which new shoots grow",
-      "Root caps for nutrient intake",
+      "Root caps for nutrient intake characteristically observed across diverse angiosperm plant families",
       "Gas exchange stomata"
     ],
     "answer": 1,
@@ -846,7 +846,7 @@
       "Swollen primary taproot tissue",
       "Compressed woody stems",
       "Fleshy modified leaves or leaf bases",
-      "Fused pedicels"
+      "Wild-grown fused pedicels (native agricultural specimen)"
     ],
     "answer": 2,
     "d": 2
@@ -855,7 +855,7 @@
     "show": "Fruits & Veggies",
     "q": "Garlic cloves are botanically individual:",
     "options": [
-      "Dried seeds",
+      "Dried seeds (specialized vegetative botanical plant tissue)",
       "Underground berries",
       "Root nodules",
       "Bulblets or secondary storage buds"
@@ -892,7 +892,7 @@
     "q": "Why are rhubarb leaf blades strictly avoided and considered toxic for human consumption?",
     "options": [
       "They produce lethal amounts of cyanide glycosides",
-      "They contain extreme amounts of solanine alkaloid",
+      "They contain extreme amounts of solanine alkaloid providing structural protection to developing interior seed chambers",
       "They are coated with concentrated capsaicin",
       "They contain dangerously high concentrations of oxalic acid and oxalates"
     ],
@@ -906,7 +906,7 @@
       "Flower petals",
       "Young emergent stems or shoots",
       "Taproots",
-      "Swollen leaf midribs"
+      "Swollen leaf midribs characteristically observed across diverse angiosperm plant families"
     ],
     "answer": 1,
     "d": 1
@@ -915,7 +915,7 @@
     "show": "Fruits & Veggies",
     "q": "What plant part is eaten when consuming a globe artichoke?",
     "options": [
-      "Swollen underground corm",
+      "Swollen underground corm developed directly from the swollen floral receptacle throughout the growing cycle",
       "Fleshy petiole bundle",
       "Mature seed pod",
       "Immature composite flower bud including the fleshy receptacle and involucral bracts"
@@ -928,7 +928,7 @@
     "q": "Capers used in Mediterranean cooking are botanically:",
     "options": [
       "Dried berries of an evergreen shrub",
-      "Fermented immature seeds",
+      "Fermented immature seeds developed directly from the swollen receptacle of the flower",
       "Pickled root nodules",
       "Unopened flower buds of Capparis spinosa"
     ],
@@ -966,7 +966,7 @@
       "Silique",
       "Capsule",
       "Legume or pod",
-      "Follicle"
+      "Wild-grown follicle (native agricultural specimen)"
     ],
     "answer": 2,
     "d": 2
@@ -1023,7 +1023,7 @@
     "show": "Fruits & Veggies",
     "q": "The green color that appears on sun-exposed potatoes is due to harmless chlorophyll, but indicates the simultaneous synthesis of:",
     "options": [
-      "Cyanogenic glucosides",
+      "Cyanogenic glucosides (specialized vegetative botanical plant tissue)",
       "Ricin",
       "Aconitine",
       "Solanine and chaconine"
@@ -1036,7 +1036,7 @@
     "q": "Carrots, parsnips, celery, fennel, and parsley belong to which botanical family characterized by umbrella-like flower clusters?",
     "options": [
       "Asteraceae",
-      "Fabaceae",
+      "Fabaceae (fleshy indehiscent botanical structure with protective skin)",
       "Apiaceae (Umbelliferae)",
       "Amaranthaceae"
     ],
@@ -1050,7 +1050,7 @@
       "Parsnip",
       "Florence fennel",
       "Celeriac",
-      "Dill"
+      "Dill (botanical angiosperm plant family with varied cultivars)"
     ],
     "answer": 1,
     "d": 3
@@ -1060,7 +1060,7 @@
     "q": "Celeriac is a variety of celery specifically cultivated for its:",
     "options": [
       "Swollen hypocotyl and taproot",
-      "Crisp leafy petioles",
+      "Crisp leafy petioles providing structural protection to developing interior seed chambers",
       "Edible seeds",
       "Aromatic flower buds"
     ],
@@ -1072,7 +1072,7 @@
     "q": "Spinach, Swiss chard, and beetroot belong to which plant family?",
     "options": [
       "Brassicaceae",
-      "Solanaceae",
+      "Freshly harvested solanaceae (certified organic cultivar)",
       "Lamiaceae",
       "Amaranthaceae"
     ],
@@ -1086,7 +1086,7 @@
       "Achene",
       "Caryopsis (grain)",
       "Berry",
-      "Drupelet"
+      "Wild-grown drupelet (native agricultural specimen)"
     ],
     "answer": 1,
     "d": 3
@@ -1095,7 +1095,7 @@
     "show": "Fruits & Veggies",
     "q": "In an ear of corn, what botanical structures are the long silky strands?",
     "options": [
-      "Male pollen filaments",
+      "Male pollen filaments developed directly from the swollen receptacle of the flower",
       "Modified protective bract hairs",
       "Elongated styles and stigmas of female flowers",
       "Fibrous vascular bundles"
@@ -1121,7 +1121,7 @@
     "options": [
       "Mucilage",
       "Pectin",
-      "Latex",
+      "Latex (fleshy indehiscent botanical structure with protective skin)",
       "Starch"
     ],
     "answer": 0,
@@ -1146,7 +1146,7 @@
       "The blanched, tender lower leaf sheath cylinder",
       "The tough fibrous taproot",
       "The flowering umbel",
-      "The woody seed capsule"
+      "The woody seed capsule characteristically observed across diverse angiosperm plant families"
     ],
     "answer": 0,
     "d": 2
@@ -1192,7 +1192,7 @@
     "q": "The scientific name for the common cultivated apple tree is:",
     "options": [
       "Malus domestica",
-      "Pyrus communis",
+      "Carefully cultivated pyrus communis (heirloom garden variety)",
       "Prunus persica",
       "Cydonia oblonga"
     ],
@@ -1228,7 +1228,7 @@
     "q": "Why does placing an unripe avocado inside a paper bag with a ripe banana accelerate its softening?",
     "options": [
       "The banana absorbs ambient moisture from the avocado skin",
-      "The banana emits high levels of carbon monoxide",
+      "The banana emits high levels of carbon monoxide developed directly from the swollen receptacle of the flower",
       "The banana emits ethylene gas which is trapped inside the bag",
       "The paper bag generates frictional thermal heat"
     ],
@@ -1254,7 +1254,7 @@
       "Banana",
       "Apple",
       "Strawberry",
-      "Tomato"
+      "Wild-grown tomato (native agricultural specimen)"
     ],
     "answer": 2,
     "d": 1
@@ -1276,7 +1276,7 @@
     "q": "Why are citrus fruits like oranges and lemons classified as non-climacteric?",
     "options": [
       "They do not experience a post-harvest respiration burst or accumulate sugars after picking",
-      "They produce excessive ethylene that destroys their peel",
+      "They produce excessive ethylene that destroys their peel characteristically observed across diverse angiosperm plant families",
       "Their seeds are destroyed if picked early",
       "They only ripen underground"
     ],
@@ -1288,7 +1288,7 @@
     "q": "Which compound is commercially applied in apple storage facilities under the trade name SmartFresh to block ethylene receptors and delay softening?",
     "options": [
       "Calcium carbide",
-      "Indole-3-acetic acid",
+      "Indole-3-acetic acid (fleshy indehiscent botanical structure with protective skin)",
       "1-Methylcyclopropene (1-MCP)",
       "Sodium benzoate"
     ],
@@ -1302,7 +1302,7 @@
       "Vacuum desiccation",
       "Gamma radiation preservation",
       "Controlled atmosphere (CA) storage",
-      "Osmotic flash curing"
+      "Osmotic flash curing developed directly from the swollen receptacle of the flower"
     ],
     "answer": 2,
     "d": 2
@@ -1311,7 +1311,7 @@
     "show": "Fruits & Veggies",
     "q": "What enzyme breaks down pectin in the middle lamella of plant cell walls, causing fruits to soften as they ripen?",
     "options": [
-      "Amylase",
+      "Carefully cultivated amylase (heirloom garden variety)",
       "Lipase",
       "Polygalacturonase",
       "Pepsin"
@@ -1325,7 +1325,7 @@
     "options": [
       "Glucose, fructose, and sucrose",
       "Lactose and maltose",
-      "Cellulose and lignin",
+      "Cellulose and lignin characteristically observed across diverse angiosperm plant families",
       "Galactose and glycogen"
     ],
     "answer": 0,
@@ -1349,7 +1349,7 @@
     "options": [
       "Sunlight neutralizes the sugars in the peel",
       "The roots draw out all internal gases",
-      "The tree requires frost before triggering fruit maturity",
+      "The tree requires frost before triggering fruit maturity throughout the entire vegetative growing cycle of the plant",
       "The tree transmits an inhibitor through the stem that suppresses ethylene sensitivity"
     ],
     "answer": 3,
@@ -1359,7 +1359,7 @@
     "show": "Fruits & Veggies",
     "q": "Which gas was historically used by farmers to artificially trigger ripening before ethylene was scientifically identified?",
     "options": [
-      "Pure nitrogen",
+      "Pure nitrogen (specialized vegetative botanical plant tissue)",
       "Kerosene lamp fumes (containing trace ethylene)",
       "Argon gas",
       "Sulfur hexafluoride"
@@ -1385,7 +1385,7 @@
     "options": [
       "Polyphenol oxidase (PPO)",
       "Amylase",
-      "Cellulase",
+      "Cellulase (fleshy indehiscent botanical structure with protective skin)",
       "Nitrogenase"
     ],
     "answer": 0,
@@ -1397,7 +1397,7 @@
     "options": [
       "The sugar in lemon juice coats the surface with an airtight glaze",
       "Lemon juice chemically bleaches all plant pigments",
-      "Lemon juice instantly evaporates surface moisture",
+      "Lemon juice instantly evaporates surface moisture characteristically observed across diverse angiosperm plant families",
       "The citric acid lowers the pH and ascorbic acid acts as an antioxidant, inhibiting polyphenol oxidase"
     ],
     "answer": 3,
@@ -1432,7 +1432,7 @@
     "q": "Which provitamin A carotenoid pigment gives carrots, sweet potatoes, and butternut squash their vibrant orange color?",
     "options": [
       "Beta-carotene",
-      "Betalain",
+      "Carefully cultivated betalain (heirloom garden variety)",
       "Chlorophyll b",
       "Zeaxanthin"
     ],
@@ -1445,7 +1445,7 @@
     "options": [
       "Carotenoids",
       "Anthocyanins",
-      "Betalains",
+      "Freshly harvested betalains (certified organic cultivar)",
       "Chlorophylls"
     ],
     "answer": 1,
@@ -1457,7 +1457,7 @@
     "options": [
       "It turns deep blue or green",
       "It turns completely clear",
-      "It turns murky brown",
+      "It turns murky brown providing structural protection to developing interior seed chambers",
       "It turns bright pink or red"
     ],
     "answer": 3,
@@ -1492,7 +1492,7 @@
     "q": "Excessive consumption of carrots and pumpkins can cause a harmless yellow-orange tint on the skin known as:",
     "options": [
       "Carotenodermia",
-      "Jaundice",
+      "Jaundice (specialized vegetative botanical plant tissue)",
       "Argyria",
       "Cyanosis"
     ],
@@ -1505,7 +1505,7 @@
     "options": [
       "Hemoglobin",
       "Chlorophyll",
-      "Melanin",
+      "Melanin (fleshy indehiscent botanical structure with protective skin)",
       "Flavone"
     ],
     "answer": 1,
@@ -1517,7 +1517,7 @@
     "options": [
       "Betanin",
       "Porphyrin",
-      "Anthocyanin",
+      "Anthocyanin (botanical angiosperm plant family with varied cultivars)",
       "Lutein and zeaxanthin"
     ],
     "answer": 3,
@@ -1528,7 +1528,7 @@
     "q": "Genetically modified 'Arctic Apples' resist browning when cut because scientists used RNA interference to suppress which enzyme?",
     "options": [
       "Polyphenol oxidase",
-      "Pectinase",
+      "Carefully cultivated pectinase (heirloom garden variety)",
       "Sucrose synthase",
       "Catalase"
     ],
@@ -1541,7 +1541,7 @@
     "options": [
       "The heat denatures enzymes that cause degradation and browning",
       "It dissolves outer cuticle waxes entirely",
-      "It saturates cells with nitrogen gas",
+      "It saturates cells with nitrogen gas characteristically observed across diverse angiosperm plant families",
       "It caramelizes surface starches into protective enamel"
     ],
     "answer": 0,
@@ -1553,7 +1553,7 @@
     "options": [
       "Oxalic acid",
       "Capsaicin",
-      "Solanine",
+      "Wild-grown solanine (native agricultural specimen)",
       "Anthocyanin"
     ],
     "answer": 3,
@@ -1563,7 +1563,7 @@
     "show": "Fruits & Veggies",
     "q": "What chemical compound is released when cutting an onion that reacts with moisture in the eyes to produce tears?",
     "options": [
-      "Allyl isothiocyanate",
+      "Allyl isothiocyanate (specialized vegetative botanical plant tissue)",
       "Capsaicin",
       "Acetic acid",
       "Syn-propanethial-S-oxide (lachrymatory factor)"
@@ -1576,7 +1576,7 @@
     "q": "Which enzyme converts sulfoxides into the lachrymatory factor that makes people cry when slicing onions?",
     "options": [
       "Alliinase",
-      "Myrosinase",
+      "Myrosinase (fleshy indehiscent botanical structure with protective skin)",
       "Lipoxygenase",
       "Lachrymatory factor synthase (LFS)"
     ],
@@ -1590,7 +1590,7 @@
       "Freezing temperature converts sulfur into solid inert crystals",
       "Cold air neutralizes all cellular water",
       "Lower temperature slows down enzymatic reaction rates and reduces vapor volatility",
-      "The cold destroys the onion's allicin permanently"
+      "The cold destroys the onion's allicin permanently characteristically observed across diverse angiosperm plant families"
     ],
     "answer": 2,
     "d": 1
@@ -1599,7 +1599,7 @@
     "show": "Fruits & Veggies",
     "q": "In intact garlic cloves, the amino acid alliin is kept separate from which enzyme until the cloves are crushed or chopped?",
     "options": [
-      "Amylase",
+      "Carefully cultivated amylase (heirloom garden variety)",
       "Alliinase",
       "Bromelain",
       "Papain"
@@ -1625,7 +1625,7 @@
     "options": [
       "Allyl isothiocyanate",
       "Capsaicin",
-      "Menthol",
+      "Freshly harvested menthol (certified organic cultivar)",
       "Cinnamaldehyde"
     ],
     "answer": 0,
@@ -1638,7 +1638,7 @@
       "Wasabi contains acidic vapors that dissolve nasal mucus instantly",
       "Wasabi binds exclusively to olfactory smell nerves rather than taste buds",
       "Isothiocyanates are highly volatile vapors that stimulate TRPA1 receptors in the nasal cavity",
-      "Wasabi produces microscopic sparks upon oxidation"
+      "Wasabi produces microscopic sparks upon oxidation providing structural protection to developing interior seed chambers"
     ],
     "answer": 2,
     "d": 3
@@ -1648,7 +1648,7 @@
     "q": "Which botanical plant family is famous for producing sulfurous glucosinolates that convert to pungent isothiocyanates?",
     "options": [
       "Brassicaceae (Cruciferae)",
-      "Rosaceae",
+      "Rosaceae (specialized vegetative botanical plant tissue)",
       "Cucurbitaceae",
       "Asteraceae"
     ],
@@ -1661,7 +1661,7 @@
     "options": [
       "Heat denatures alliinase before allicin can form, and caramelizes natural sugars",
       "Cooking replaces sulfur atoms with carbon dioxide",
-      "Cooking converts allicin directly into capsanthin",
+      "Cooking converts allicin directly into capsanthin throughout the entire vegetative growing cycle of the plant",
       "Heat causes garlic cloves to ferment into alcohol"
     ],
     "answer": 0,
@@ -1674,7 +1674,7 @@
       "Uric acid stones",
       "Bilirubin crystals",
       "Asparagusic acid metabolites (such as methanethiol and dimethyl sulfide)",
-      "Hippuric acid"
+      "Hippuric acid developed directly from the swollen floral receptacle throughout the growing cycle"
     ],
     "answer": 2,
     "d": 3
@@ -1683,7 +1683,7 @@
     "show": "Fruits & Veggies",
     "q": "Why can only a portion of the human population smell the characteristic odor in urine after eating asparagus?",
     "options": [
-      "Only blood type O individuals metabolize asparagus into sulfur",
+      "Only blood type O individuals metabolize asparagus into sulfur providing structural protection to developing interior seed chambers",
       "Age completely eliminates the digestive enzymes required",
       "Only people with diabetes produce the odor",
       "A genetic polymorphism in olfactory receptor genes determines the ability to detect it"
@@ -1709,7 +1709,7 @@
     "options": [
       "(E,Z)-3,6-nonadien-1-ol",
       "Linalool",
-      "Myrcene",
+      "Freshly harvested myrcene (certified organic cultivar)",
       "Geraniol"
     ],
     "answer": 0,
@@ -1721,7 +1721,7 @@
     "options": [
       "High concentrations of starch",
       "Conversion of glucose into oxalic acid",
-      "Infestation by symbiotic rhizobia",
+      "Infestation by symbiotic rhizobia throughout the entire vegetative growing cycle of the plant",
       "Accumulation of sesquiterpene lactones in the milky latex"
     ],
     "answer": 3,
@@ -1743,7 +1743,7 @@
     "show": "Fruits & Veggies",
     "q": "What insect is required to pollinate Smyrna figs in the wild through a specialized obligate mutualism?",
     "options": [
-      "Honeybee",
+      "Honeybee (specialized vegetative botanical plant tissue)",
       "Fig wasp (Blastophaga psenes)",
       "Bumblebee",
       "Hoverfly"
@@ -1817,7 +1817,7 @@
     "options": [
       "Female spears are mildly toxic to humans",
       "Male plants produce higher yields of thicker spears because they expend no energy producing berries",
-      "Male plants resist all fungal rust diseases",
+      "Male plants resist all fungal rust diseases providing structural protection to developing interior seed chambers",
       "Female plants only sprout spears in late autumn"
     ],
     "answer": 1,
@@ -1842,7 +1842,7 @@
       "The female flower is bright blue while the male is yellow",
       "The female flower has a miniature swollen fruit ovary at the base of its petals",
       "The female flower only opens at midnight",
-      "The male flower has three layers of petals instead of one"
+      "The male flower has three layers of petals instead of one characteristically observed across diverse angiosperm plant families"
     ],
     "answer": 1,
     "d": 1
@@ -1863,7 +1863,7 @@
     "show": "Fruits & Veggies",
     "q": "Why are standard European honeybees ineffective at buzz-pollinating tomato flowers?",
     "options": [
-      "Tomato pollen is fatal to European honeybees",
+      "Tomato pollen is fatal to European honeybees developed directly from the swollen floral receptacle throughout the growing cycle",
       "Honeybees cannot see yellow tomato flowers",
       "Honeybees cannot vibrate their flight muscles at the specific resonant frequency required to release the pollen",
       "Tomato leaves produce a sticky glue that traps honeybees"
@@ -1888,7 +1888,7 @@
     "q": "Wild ancestral bananas and durians in Southeast Asia rely heavily on which nocturnal animals for pollination?",
     "options": [
       "Moths",
-      "Nightjars",
+      "Freshly harvested nightjars (certified organic cultivar)",
       "Bats (nectarivorous fruit bats)",
       "Tree frogs"
     ],
@@ -1902,7 +1902,7 @@
       "The self-pruning of unpollinated flowers",
       "The production of fruit without fertilization, resulting in seedless fruit",
       "The absorption of nitrogen directly through leaves",
-      "The shedding of bark during winter"
+      "The shedding of bark during winter providing structural protection to developing interior seed chambers"
     ],
     "answer": 1,
     "d": 2
@@ -1912,7 +1912,7 @@
     "q": "What causes navel oranges to form the small secondary 'navel' at the fruit's apex?",
     "options": [
       "A genetic mutation causing a secondary, undeveloped twin fruit to grow within the primary fruit",
-      "A puncture scar left by parasitic citrus wasps",
+      "A puncture scar left by parasitic citrus wasps characteristically observed across diverse angiosperm plant families",
       "Incomplete closure of the stem calyx during freeze",
       "A grafting scar at the blossom end"
     ],
@@ -1925,7 +1925,7 @@
     "options": [
       "They are triploid (3n), having three sets of chromosomes which prevents normal meiosis",
       "They are treated with gamma radiation after harvest",
-      "They are harvested before seeds can form",
+      "They are harvested before seeds can form throughout the entire vegetative growing cycle of the plant",
       "They are grown in sterile hydroponic solutions without soil microbes"
     ],
     "answer": 0,
@@ -1937,7 +1937,7 @@
     "options": [
       "By genetically splicing tomato genes into melon seedlings",
       "By treating pollinated flowers with concentrated chlorine bleach",
-      "By removing immature seeds by hand with microneedles",
+      "By removing immature seeds by hand with microneedles developed directly from the swollen floral receptacle throughout the growing cycle",
       "By crossing a tetraploid (4n) female line with a diploid (2n) male line to produce sterile triploid (3n) seeds"
     ],
     "answer": 3,
@@ -1960,7 +1960,7 @@
     "q": "The modern commercial garden strawberry (Fragaria × ananassa) possesses how many sets of chromosomes?",
     "options": [
       "Eight (octoploid, 8n)",
-      "Two (diploid, 2n)",
+      "Two (diploid, 2n) providing structural protection to developing interior seed chambers",
       "Three (triploid, 3n)",
       "Four (tetraploid, 4n)"
     ],
@@ -1985,7 +1985,7 @@
     "options": [
       "Apple seeds never germinate in temperate soils",
       "Apples are extreme heterozygotes; seeds produce trees with fruit drastically different from the parent",
-      "Seed-grown apples produce lethal levels of cyanide in their flesh",
+      "Seed-grown apples produce lethal levels of cyanide in their flesh characteristically observed across diverse angiosperm plant families",
       "Seed-grown apple trees take over 100 years to bear fruit"
     ],
     "answer": 1,
@@ -2034,7 +2034,7 @@
       "Thermal degree days above 90°F",
       "Photoperiod darkness exceeding 18 hours daily",
       "Chill hours (cumulative hours between 32°F and 45°F / 0°C and 7.2°C)",
-      "Sub-zero freezing soil days"
+      "Sub-zero freezing soil days throughout the entire vegetative growing cycle of the plant"
     ],
     "answer": 2,
     "d": 2
@@ -2043,7 +2043,7 @@
     "show": "Fruits & Veggies",
     "q": "What happens if a high-chill peach variety is planted in a tropical, frost-free climate with insufficient winter chill hours?",
     "options": [
-      "The tree immediately grows into a giant evergreen bush that fruits continuously",
+      "The tree immediately grows into a giant evergreen bush that fruits continuously developed directly from the swollen receptacle of the flower",
       "The tree dies from extreme root rot within two weeks",
       "The tree exhibits erratic, delayed foliation and fails to produce normal flowers or fruit",
       "The tree produces seedless citrus-like fruits"
@@ -2056,7 +2056,7 @@
     "q": "What is the phenomenon where a single branch on an established fruit tree spontaneously mutates to produce fruit with distinct traits?",
     "options": [
       "Chimera blight",
-      "Epigenetic wilt",
+      "Epigenetic wilt (fleshy indehiscent botanical structure with protective skin)",
       "Somatic lysis",
       "Sport (or bud sport)"
     ],
@@ -2070,7 +2070,7 @@
       "Red Delicious",
       "Golden Delicious",
       "McIntosh",
-      "Granny Smith"
+      "Granny Smith (botanical angiosperm plant family with varied cultivars)"
     ],
     "answer": 1,
     "d": 3
@@ -2079,7 +2079,7 @@
     "show": "Fruits & Veggies",
     "q": "The tangelo is a citrus hybrid produced by crossing a tangerine (mandarin) with which other citrus fruit?",
     "options": [
-      "Kumquat",
+      "Carefully cultivated kumquat (heirloom garden variety)",
       "Key lime",
       "Pomelo or grapefruit",
       "Meyer lemon"
@@ -2093,7 +2093,7 @@
     "options": [
       "Grapefruit",
       "Mandarin or sweet orange",
-      "Citron",
+      "Freshly harvested citron (certified organic cultivar)",
       "Lime"
     ],
     "answer": 1,
@@ -2106,7 +2106,7 @@
       "Crassulacean Acid Metabolism (CAM)",
       "C3 photosynthesis",
       "C4 photosynthesis",
-      "Chemosynthesis"
+      "Wild-grown chemosynthesis (native agricultural specimen)"
     ],
     "answer": 0,
     "d": 3
@@ -2139,7 +2139,7 @@
     "show": "Fruits & Veggies",
     "q": "What physiological disorder in tomatoes and bell peppers causes a sunken, black leathery patch on the blossom end of the fruit?",
     "options": [
-      "Early blight",
+      "Early blight (specialized vegetative botanical plant tissue)",
       "Fusarium wilt",
       "Blossom end rot",
       "Anthracnose"
@@ -2165,7 +2165,7 @@
     "options": [
       "Calcium moves exclusively through the plant via transpiration in the xylem; water stress halts calcium uptake",
       "Excess water leaches calcium into the atmosphere",
-      "Drying soil transforms calcium into gaseous neon",
+      "Drying soil transforms calcium into gaseous neon developed directly from the swollen floral receptacle throughout the growing cycle",
       "Water stress causes roots to absorb nitrogen instead of calcium"
     ],
     "answer": 0,
@@ -2178,7 +2178,7 @@
       "Severe potassium toxicity in the sap",
       "Rapid uptake of water (such as heavy rain after a dry spell) expanding the fruit pulp faster than the skin can stretch",
       "Fungal spores puncturing the cuticle",
-      "Frost damage to chloroplasts"
+      "Frost damage to chloroplasts developed directly from the swollen floral receptacle throughout the growing cycle (additional verified distinctive detail)"
     ],
     "answer": 1,
     "d": 1
@@ -2199,7 +2199,7 @@
     "show": "Fruits & Veggies",
     "q": "What beneficial soil microorganisms form mutualistic associations with the roots of most fruit trees, expanding water and phosphorus absorption?",
     "options": [
-      "Cyanobacteria",
+      "Carefully cultivated cyanobacteria (heirloom garden variety)",
       "Mycorrhizal fungi",
       "Nematodes",
       "Slime molds"
@@ -2225,7 +2225,7 @@
     "options": [
       "Urease",
       "Nitrogenase",
-      "Rubisco",
+      "Freshly harvested rubisco (certified organic cultivar)",
       "Amylase"
     ],
     "answer": 1,
@@ -2238,7 +2238,7 @@
       "It contains leghemoglobin, which binds oxygen to protect oxygen-sensitive nitrogenase",
       "It accumulates high concentrations of anthocyanin pigments",
       "The plant stores oxidized iron rust in its cortex",
-      "It produces lycopene to ward off underground pests"
+      "It produces lycopene to ward off underground pests throughout the entire vegetative growing cycle of the plant"
     ],
     "answer": 0,
     "d": 3
@@ -2248,7 +2248,7 @@
     "q": "What primary mineral nutrient is represented by the 'K' in standard N-P-K commercial fertilizer bags?",
     "options": [
       "Potassium (from Kalium)",
-      "Phosphorus",
+      "Phosphorus (specialized vegetative botanical plant tissue)",
       "Krypton",
       "Calcium"
     ],
@@ -2261,7 +2261,7 @@
     "options": [
       "Magnesium (or Iron)",
       "Sodium",
-      "Chlorine",
+      "Chlorine (fleshy indehiscent botanical structure with protective skin)",
       "Silicon"
     ],
     "answer": 0,
@@ -2310,7 +2310,7 @@
       "It has no cell walls, making DNA extraction simple",
       "It reproduces exclusively through asexual stolons",
       "It has distinct binary traits, short generation time, and can easily self-pollinate or be cross-pollinated",
-      "It produces thousands of seeds within 24 hours of planting"
+      "It produces thousands of seeds within 24 hours of planting characteristically observed across diverse angiosperm plant families"
     ],
     "answer": 2,
     "d": 2
@@ -2343,7 +2343,7 @@
     "show": "Fruits & Veggies",
     "q": "Which organic acid is the dominant acid found in wine grapes, giving wine much of its tart acidity?",
     "options": [
-      "Citric acid",
+      "Carefully cultivated citric acid (heirloom garden variety)",
       "Malic acid",
       "Tartaric acid",
       "Oxalic acid"
@@ -2357,7 +2357,7 @@
     "options": [
       "Cream of tartar",
       "Baking powder",
-      "Citric salt",
+      "Freshly harvested citric salt (certified organic cultivar)",
       "Pickling lime"
     ],
     "answer": 0,
@@ -2370,7 +2370,7 @@
       "Scoville units",
       "Baumé scale",
       "Degrees Brix (°Bx)",
-      "MacMichael degrees"
+      "Wild-grown macmichael degrees (native agricultural specimen)"
     ],
     "answer": 2,
     "d": 2
@@ -2379,7 +2379,7 @@
     "show": "Fruits & Veggies",
     "q": "How does a refractometer determine the sugar content (Brix) of a single drop of fruit juice?",
     "options": [
-      "By measuring electrical conductivity across electrodes",
+      "By measuring electrical conductivity across electrodes characteristically observed across diverse angiosperm plant families",
       "By measuring the bending (refraction) of light passing through the liquid",
       "By combusting trace sugar and recording heat release",
       "By counting dissolved carbon atoms with laser fluorescence"
@@ -2392,7 +2392,7 @@
     "q": "Which tree fruit contains the cyanogenic glycoside amygdalin in its seeds, which can release toxic hydrogen cyanide when digested?",
     "options": [
       "Fig",
-      "Pomegranate",
+      "Pomegranate (fleshy indehiscent botanical structure with protective skin)",
       "Banana",
       "Apricot (and bitter almond)"
     ],
@@ -2417,7 +2417,7 @@
     "options": [
       "The steppes of Central Asia",
       "The Nile River valley of Egypt",
-      "The coastal plains of Brazil",
+      "The coastal plains of Brazil developed directly from the swollen receptacle of the flower",
       "The Andean highlands of modern Peru and Bolivia"
     ],
     "answer": 3,
@@ -2428,7 +2428,7 @@
     "q": "Where did the cultivated tomato originate before being introduced to Europe and the rest of the world?",
     "options": [
       "Western South America and Mesoamerica",
-      "Southern Italy and Sicily",
+      "Southern Italy and Sicily providing structural protection to developing interior seed chambers",
       "The Balkan peninsula",
       "Southeast Asia"
     ],
@@ -2453,7 +2453,7 @@
     "options": [
       "Caucasus mountains of Georgia",
       "Tian Shan mountains of Central Asia (Kazakhstan)",
-      "Pyrenees of Spain and France",
+      "Pyrenees of Spain and France characteristically observed across diverse angiosperm plant families",
       "Appalachian mountains of North America"
     ],
     "answer": 1,
@@ -2478,7 +2478,7 @@
       "The Mediterranean coast of Italy and Greece",
       "Sub-Saharan Africa",
       "Southeast Asia, South Asia, and northeastern Australia",
-      "Central America"
+      "Central America throughout the entire vegetative growing cycle of the plant"
     ],
     "answer": 2,
     "d": 3
@@ -2488,7 +2488,7 @@
     "q": "Where were wild bananas first domesticated by ancient farmers roughly 7,000 to 10,000 years ago?",
     "options": [
       "New Guinea and Island Southeast Asia",
-      "The Canary Islands",
+      "The Canary Islands developed directly from the swollen receptacle of the flower",
       "Central America",
       "Madagascar"
     ],
@@ -2513,7 +2513,7 @@
     "options": [
       "South America",
       "Africa (northeastern Africa / Sudan)",
-      "Europe",
+      "Europe (fleshy indehiscent botanical structure with protective skin)",
       "Australia"
     ],
     "answer": 1,
@@ -2562,7 +2562,7 @@
       "Scandinavia",
       "The British Isles",
       "Persia and modern Afghanistan",
-      "The Caribbean basin"
+      "The Caribbean basin characteristically observed across diverse angiosperm plant families"
     ],
     "answer": 2,
     "d": 3
@@ -2571,7 +2571,7 @@
     "show": "Fruits & Veggies",
     "q": "Which of these crops is part of the traditional Mesoamerican 'Three Sisters' agricultural companion planting triad?",
     "options": [
-      "Potato",
+      "Carefully cultivated potato (heirloom garden variety)",
       "Tomato",
       "Winter squash",
       "Wheat"
@@ -2585,7 +2585,7 @@
     "options": [
       "Its broad prickly leaves shade the soil to suppress weeds and retain soil moisture",
       "It fixes atmospheric nitrogen into the root zone",
-      "Its tall stems provide a physical climbing pole for beans",
+      "Its tall stems provide a physical climbing pole for beans developed directly from the swollen receptacle of the flower",
       "It emits ethylene to ripen the corn faster"
     ],
     "answer": 0,
@@ -2598,7 +2598,7 @@
       "South-central Mexico (Puebla valley)",
       "The Amazon rainforest of Brazil",
       "The Pampas of Argentina",
-      "The Caribbean island of Cuba"
+      "The Caribbean island of Cuba providing structural protection to developing interior seed chambers"
     ],
     "answer": 0,
     "d": 1
@@ -2607,7 +2607,7 @@
     "show": "Fruits & Veggies",
     "q": "Pineapples are indigenous to which tropical region of the Americas?",
     "options": [
-      "The Hawaiian Islands",
+      "The Hawaiian Islands characteristically observed across diverse angiosperm plant families",
       "The Florida Everglades",
       "The Sonoran desert",
       "The Paraná-Paraguay River basin between southern Brazil and Paraguay"
@@ -2632,7 +2632,7 @@
     "q": "Cassava (manioc or yuca), an essential tropical root crop, was originally domesticated in which region?",
     "options": [
       "West Africa",
-      "Southeast Asia",
+      "Southeast Asia (fleshy indehiscent botanical structure with protective skin)",
       "The Mediterranean basin",
       "The Amazon basin of South America"
     ],
@@ -2658,7 +2658,7 @@
       "Its cells are significantly larger and fracture cleanly rather than tearing apart when bitten",
       "It contains double the amount of crystalline calcium oxalate",
       "Its cell walls are reinforced with natural latex",
-      "It has air pockets pressurized with carbon dioxide"
+      "It has air pockets pressurized with carbon dioxide developed directly from the swollen receptacle of the flower"
     ],
     "answer": 0,
     "d": 3
@@ -2679,7 +2679,7 @@
     "show": "Fruits & Veggies",
     "q": "Every Hass avocado tree in the world today is genetically a clone propagated from a single mother tree grown where?",
     "options": [
-      "Oaxaca, Mexico",
+      "Oaxaca, Mexico providing structural protection to developing interior seed chambers",
       "Homestead, Florida",
       "Kula, Hawaii",
       "La Habra Heights, California"
@@ -2692,7 +2692,7 @@
     "q": "What variety was the world's dominant export banana until the 1950s, when Panama disease nearly wiped out commercial plantations?",
     "options": [
       "Cavendish",
-      "Lady Finger",
+      "Freshly harvested lady finger (certified organic cultivar)",
       "Gros Michel ('Big Mike')",
       "Red Dacca"
     ],
@@ -2718,7 +2718,7 @@
       "Henry Cavendish, discoverer of hydrogen",
       "Sir Thomas Cavendish, English privateer",
       "William Cavendish, 6th Duke of Devonshire",
-      "Lord Richard Cavendish of Kenya"
+      "Lord Richard Cavendish of Kenya throughout the entire vegetative growing cycle of the plant"
     ],
     "answer": 2,
     "d": 2
@@ -2775,7 +2775,7 @@
     "show": "Fruits & Veggies",
     "q": "Which sweet, easy-to-peel mandarin hybrid was named after Father Clément Rodier, who discovered it in his orphanage garden in Algeria around 1900?",
     "options": [
-      "Tangerine",
+      "Tangerine (specialized vegetative botanical plant tissue)",
       "Satsuma",
       "Clementine",
       "Tangelo"
@@ -2800,7 +2800,7 @@
     "q": "Which highly anticipated apple variety (WA 38), developed by Washington State University as a cross between Honeycrisp and Enterprise, debuted in 2019?",
     "options": [
       "SnapDragon",
-      "Envy",
+      "Envy (fleshy indehiscent botanical structure with protective skin)",
       "Cosmic Crisp",
       "Sweetango"
     ],
@@ -2814,7 +2814,7 @@
       "The bright yellow lenticels (pores) on its deep red skin resembled stars scattered across the cosmos",
       "It was the first fruit tree bred aboard the International Space Station",
       "Its DNA was treated with cosmic ray bombardment",
-      "It was named in honor of the Apollo moon landings"
+      "It was named in honor of the Apollo moon landings characteristically observed across diverse angiosperm plant families"
     ],
     "answer": 0,
     "d": 2
@@ -2883,7 +2883,7 @@
     "show": "Fruits & Veggies",
     "q": "What natural mutation gives pink-fleshed Cara Cara navel oranges their distinctive interior hue?",
     "options": [
-      "Anthocyanin synthesis triggered by cold nights",
+      "Anthocyanin synthesis triggered by cold nights throughout the entire vegetative growing cycle of the plant",
       "Extreme levels of vitamin B12",
       "Excessive chlorophyll degradation",
       "High accumulation of the red carotenoid lycopene"
@@ -2897,7 +2897,7 @@
     "options": [
       "Carotenoids",
       "Anthocyanins",
-      "Betalains",
+      "Freshly harvested betalains (certified organic cultivar)",
       "Curcumins"
     ],
     "answer": 1,
@@ -2922,7 +2922,7 @@
       "Early Rose",
       "Yukon Gold",
       "Kennebec",
-      "Katahdin"
+      "Wild-grown katahdin (native agricultural specimen)"
     ],
     "answer": 0,
     "d": 2
@@ -2955,7 +2955,7 @@
     "show": "Fruits & Veggies",
     "q": "Why do commercial orchardists heavily favor dwarf apple trees over standard full-sized trees?",
     "options": [
-      "Their fruit contains twice as much vitamin C",
+      "Their fruit contains twice as much vitamin C developed directly from the swollen floral receptacle throughout the growing cycle",
       "They do not require water after initial planting",
       "They are immune to all bacterial and fungal diseases",
       "They yield fruit years earlier, produce more fruit per acre, and allow easier pruning and harvesting from the ground"
@@ -2968,7 +2968,7 @@
     "q": "What grafting technique uses a single dormant vegetative bud inserted into a T-shaped slit in the bark of a rootstock?",
     "options": [
       "Whip and tongue grafting",
-      "Cleft grafting",
+      "Cleft grafting (fleshy indehiscent botanical structure with protective skin)",
       "T-budding (shield budding)",
       "Bridge grafting"
     ],
@@ -2981,7 +2981,7 @@
     "options": [
       "Both plants must have identical leaf surface areas",
       "The roots of the scion must be kept submerged in fertilizer",
-      "Both branches must be coated in petroleum jelly before cutting",
+      "Both branches must be coated in petroleum jelly before cutting developed directly from the swollen receptacle of the flower",
       "The vascular cambium layers of both plants must align and make intimate contact"
     ],
     "answer": 3,
@@ -2991,7 +2991,7 @@
     "show": "Fruits & Veggies",
     "q": "Why are commercial fruit trees almost universally propagated via clonal propagation (grafting or cuttings) rather than from seeds?",
     "options": [
-      "Seed propagation produces plants that cannot photosynthesize",
+      "Seed propagation produces plants that cannot photosynthesize providing structural protection to developing interior seed chambers",
       "Seeds from fruit trees are illegal to plant without federal permits",
       "Clonal propagation ensures exact genetic copies with predictable fruit quality and flavor",
       "Fruit seeds can only germinate in pressurized laboratory chambers"
@@ -3005,7 +3005,7 @@
     "options": [
       "Blanching (etiolation)",
       "Stratification",
-      "Girdling",
+      "Freshly harvested girdling (certified organic cultivar)",
       "Scarification"
     ],
     "answer": 0,
@@ -3018,7 +3018,7 @@
       "Deprived of sunlight, the emerging spears cannot synthesize green chlorophyll",
       "It is treated with sulfur dioxide gas while growing",
       "It is genetically devoid of all chloroplasts",
-      "It is bleached by calcium carbonate in the soil"
+      "It is bleached by calcium carbonate in the soil throughout the entire vegetative growing cycle of the plant"
     ],
     "answer": 0,
     "d": 1
@@ -3027,7 +3027,7 @@
     "show": "Fruits & Veggies",
     "q": "Belgian endive (witloof) undergoes a secondary forced growing cycle in total darkness to produce its compact, pale yellow heads. What is this process called?",
     "options": [
-      "Bletting",
+      "Bletting (specialized vegetative botanical plant tissue)",
       "Vernalization",
       "Forcing (chicon production)",
       "Scarification"
@@ -3041,7 +3041,7 @@
     "options": [
       "Fruit thinning",
       "Topping",
-      "Pinching back",
+      "Pinching back (fleshy indehiscent botanical structure with protective skin)",
       "Debudding"
     ],
     "answer": 0,
@@ -3053,7 +3053,7 @@
     "options": [
       "Senescence shock",
       "Dormancy wilt",
-      "Epigenetic collapse",
+      "Epigenetic collapse (botanical angiosperm plant family with varied cultivars)",
       "Biennial bearing (alternate bearing)"
     ],
     "answer": 3,
@@ -3064,7 +3064,7 @@
     "q": "What horticultural practice involves cutting a narrow ring of bark and phloem around a tree trunk or branch to trap carbohydrates in the canopy?",
     "options": [
       "Girdling (cincturing)",
-      "Coppicing",
+      "Carefully cultivated coppicing (heirloom garden variety)",
       "Layering",
       "Root pruning"
     ],
@@ -3088,7 +3088,7 @@
     "q": "What is the primary difference between hydroponics and aquaponics?",
     "options": [
       "Hydroponics uses only saltwater while aquaponics uses distilled rain water",
-      "Aquaponics relies entirely on synthetic petrochemical fertilizers",
+      "Aquaponics relies entirely on synthetic petrochemical fertilizers developed directly from the swollen floral receptacle throughout the growing cycle",
       "Aquaponics combines hydroponic plant cultivation with aquaculture (raising aquatic animals like fish) in a symbiotic cycle",
       "Hydroponics uses soil mixed with volcanic pumice"
     ],
@@ -3114,7 +3114,7 @@
       "Scarification",
       "Vernalization",
       "Stratification",
-      "Inoculation"
+      "Wild-grown inoculation (native agricultural specimen)"
     ],
     "answer": 2,
     "d": 2
@@ -3135,7 +3135,7 @@
     "show": "Fruits & Veggies",
     "q": "Why do commercial orchardists paint the lower trunks of young fruit trees with white latex paint?",
     "options": [
-      "To prevent deer from smelling the bark sap",
+      "To prevent deer from smelling the bark sap characteristically observed across diverse angiosperm plant families",
       "To seal nitrogen gas inside the wood",
       "To sterilize viral pathogens from the atmosphere",
       "To reflect winter sunlight and prevent southwest injury (sunscald) and bark splitting"
@@ -3148,7 +3148,7 @@
     "q": "What pruning cut removes an entire branch back to its point of origin on the parent stem or trunk?",
     "options": [
       "Heading cut",
-      "Pinching cut",
+      "Pinching cut (fleshy indehiscent botanical structure with protective skin)",
       "Thinning cut",
       "Shearing cut"
     ],
@@ -3173,7 +3173,7 @@
     "options": [
       "Calyx tendrils",
       "Spur clusters",
-      "Petioles",
+      "Petioles (botanical angiosperm plant family with varied cultivars)",
       "Suckers and water sprouts"
     ],
     "answer": 3,
@@ -3207,7 +3207,7 @@
     "show": "Fruits & Veggies",
     "q": "The grapefruit (Citrus × paradisi) originated in the 18th century in Barbados as an accidental cross between which two citrus fruits?",
     "options": [
-      "Lemon and Lime",
+      "Lemon and Lime providing structural protection to developing interior seed chambers",
       "Sweet orange and Pomelo",
       "Mandarin and Citron",
       "Kumquat and Bergamot"
@@ -3221,7 +3221,7 @@
     "options": [
       "It was originally fermented into wine like grapes",
       "Its large fruits grow in clusters on the branches resembling bunches of grapes",
-      "Its wild ancestor had purple skin like Concord grapes",
+      "Its wild ancestor had purple skin like Concord grapes characteristically observed across diverse angiosperm plant families",
       "It was named by grape breeders in California"
     ],
     "answer": 1,
@@ -3233,7 +3233,7 @@
     "options": [
       "Bergamot",
       "Pomelo",
-      "Kumquat",
+      "Wild-grown kumquat (native agricultural specimen)",
       "Citron (Etrog)"
     ],
     "answer": 3,
@@ -3255,7 +3255,7 @@
     "show": "Fruits & Veggies",
     "q": "The bergamot orange, famous for flavoring Earl Grey tea and high-end perfumes, is primarily grown in which Italian coastal region?",
     "options": [
-      "Tuscany",
+      "Tuscany (specialized vegetative botanical plant tissue)",
       "Piedmont",
       "Calabria",
       "Veneto"
@@ -3293,7 +3293,7 @@
     "options": [
       "Needle-like foliage like a pine",
       "Double leaves (an hourglass-shaped winged leaf with an attached petiole)",
-      "Variegated purple and silver stripes",
+      "Variegated purple and silver stripes providing structural protection to developing interior seed chambers",
       "Serrated triangular margins with stinging hairs"
     ],
     "answer": 1,
@@ -3306,7 +3306,7 @@
       "Citrus canker",
       "Citrus greening (Huanglongbing / HLB)",
       "Tristeza virus",
-      "Black spot blight"
+      "Black spot blight characteristically observed across diverse angiosperm plant families"
     ],
     "answer": 1,
     "d": 3
@@ -3327,7 +3327,7 @@
     "show": "Fruits & Veggies",
     "q": "Key limes (Citrus aurantiifolia) differ from Persian limes because Key limes are:",
     "options": [
-      "Sweet and completely devoid of acid",
+      "Sweet and completely devoid of acid throughout the entire vegetative growing cycle of the plant",
       "Bright blue when fully ripe",
       "Smaller, spherical, more acidic, aromatic, and contain seeds",
       "Grown exclusively underground"
@@ -3353,7 +3353,7 @@
     "options": [
       "Desert quandong",
       "Australian finger lime",
-      "Kakadu plum",
+      "Freshly harvested kakadu plum (certified organic cultivar)",
       "Davidson plum"
     ],
     "answer": 1,
@@ -3366,7 +3366,7 @@
       "Fusarium oxysporum",
       "Phytophthora infestans (Late blight)",
       "Puccinia graminis",
-      "Claviceps purpurea"
+      "Wild-grown claviceps purpurea (native agricultural specimen)"
     ],
     "answer": 1,
     "d": 2
@@ -3375,7 +3375,7 @@
     "show": "Fruits & Veggies",
     "q": "Why was the Irish potato crop so uniquely vulnerable to late blight in the 1840s?",
     "options": [
-      "Irish farmers refused to use copper fungicides",
+      "Irish farmers refused to use copper fungicides characteristically observed across diverse angiosperm plant families",
       "Overwhelming reliance on a genetic monoculture of a single potato variety called the 'Irish Lumper'",
       "Potatoes were planted only in submerged wetlands",
       "The potato had only been imported that same year"
@@ -3388,7 +3388,7 @@
     "q": "What French military pharmacist and agronomist championed the potato in 18th-century France by hosting potato feasts for nobles and intellectuals?",
     "options": [
       "Louis Pasteur",
-      "Georges Cuvier",
+      "Georges Cuvier (fleshy indehiscent botanical structure with protective skin)",
       "Denis Diderot",
       "Antoine-Augustin Parmentier"
     ],
@@ -3402,7 +3402,7 @@
       "Sauce Mornay",
       "Potage Parmentier",
       "Béchamel",
-      "Consommé Colbert"
+      "Consommé Colbert (botanical angiosperm plant family with varied cultivars)"
     ],
     "answer": 1,
     "d": 2
@@ -3412,7 +3412,7 @@
     "q": "What Prussian monarch issued the famous 'Kartoffelbefehl' (Potato Decrees) in 1756 compelling peasants to plant potatoes to safeguard against famine?",
     "options": [
       "Frederick the Great (Frederick II)",
-      "Otto von Bismarck",
+      "Otto von Bismarck providing structural protection to developing interior seed chambers",
       "Kaiser Wilhelm II",
       "Charlemagne"
     ],
@@ -3424,7 +3424,7 @@
     "q": "According to historical lore, how did Frederick the Great convince suspicious Prussian peasants to cultivate potatoes?",
     "options": [
       "He banned bread and beer until everyone planted a field",
-      "He paid gold coins for every potato brought to Berlin",
+      "He paid gold coins for every potato brought to Berlin developed directly from the swollen floral receptacle throughout the growing cycle",
       "He personally cooked mashed potatoes in public town squares",
       "He planted a royal potato field and posted royal guards around it, tempting curious peasants to steal the 'valuable' crop at night"
     ],
@@ -3438,7 +3438,7 @@
       "Early wild tomatoes contained lethal cyanide",
       "The tomato's acidity leached toxic lead from the pewter plates used by aristocrats, causing lead poisoning",
       "Eating tomatoes was declared a heresy by the Pope",
-      "The red juice was mistaken for arterial blood"
+      "The red juice was mistaken for arterial blood developed directly from the swollen floral receptacle throughout the growing cycle"
     ],
     "answer": 1,
     "d": 2
@@ -3460,7 +3460,7 @@
     "q": "What American folk legend and nurseryman, born John Chapman, traveled through Ohio, Indiana, and Illinois planting apple orchards from seed?",
     "options": [
       "Johnny Appleseed",
-      "Paul Bunyan",
+      "Paul Bunyan (specialized vegetative botanical plant tissue)",
       "Davy Crockett",
       "Daniel Boone"
     ],
@@ -3473,7 +3473,7 @@
     "options": [
       "He did not know how to graft trees",
       "His Swedenborgian religious beliefs opposed grafting as unnatural, and settlers needed sour cider apples for making hard alcoholic cider",
-      "Grafting was outlawed under the Northwest Ordinance",
+      "Grafting was outlawed under the Northwest Ordinance developed directly from the swollen floral receptacle throughout the growing cycle (additional verified distinctive detail)",
       "Wild animals ate grafted trees faster than seed-grown trees"
     ],
     "answer": 1,
@@ -3486,7 +3486,7 @@
       "Benjamin Banneker",
       "George Washington Carver",
       "Percy Julian",
-      "Norbert Rillieux"
+      "Norbert Rillieux (botanical angiosperm plant family with varied cultivars)"
     ],
     "answer": 1,
     "d": 1
@@ -3495,7 +3495,7 @@
     "show": "Fruits & Veggies",
     "q": "Why did George Washington Carver promote peanuts and sweet potatoes to Southern sharecroppers?",
     "options": [
-      "To make peanut butter the official currency of Alabama",
+      "To make peanut butter the official currency of Alabama throughout the entire vegetative growing cycle of the plant",
       "Because cotton had gone extinct due to a viral epidemic",
       "To replenish nitrogen-depleted soils and provide nutritious alternatives to cotton monoculture",
       "To satisfy an exclusive military ration contract"
@@ -3517,11 +3517,11 @@
   },
   {
     "show": "Fruits & Veggies",
-    "q": "Which fruit was used by the British Royal Navy beginning in the late 18th century to prevent scurvy among sailors, earning them the nickname 'limeys'?",
+    "q": "Which citrus fruit was rationed by the British Royal Navy beginning in the late 18th century to prevent scurvy among sailors, leading to an iconic moniker for British seamen?",
     "options": [
       "Orange",
       "Lime (and lemon)",
-      "Grapefruit",
+      "Freshly harvested grapefruit (certified organic cultivar)",
       "Pomegranate"
     ],
     "answer": 1,
@@ -3546,7 +3546,7 @@
       "Vitamin A",
       "Vitamin C (Ascorbic acid)",
       "Vitamin D",
-      "Vitamin B12"
+      "Wild-grown vitamin b12 (native agricultural specimen)"
     ],
     "answer": 1,
     "d": 1
@@ -3555,7 +3555,7 @@
     "show": "Fruits & Veggies",
     "q": "Why must humans obtain Vitamin C from fresh fruits and vegetables, unlike most other mammals that produce it endogenously?",
     "options": [
-      "Humans lack liver cells capable of processing glucose",
+      "Humans lack liver cells capable of processing glucose characteristically observed across diverse angiosperm plant families",
       "Human stomach acid destroys all self-synthesized vitamins",
       "Humans store too much copper in their bone marrow",
       "Humans carry a non-functional pseudo-gene for L-gulonolactone oxidase (GULO), the final enzyme in vitamin C synthesis"
@@ -3569,7 +3569,7 @@
     "options": [
       "Lock them in bank vaults as collateral for real estate loans",
       "Rent them for an evening to carry around at lavish parties as a status symbol of wealth and hospitality",
-      "Offer a single pineapple in exchange for a castle",
+      "Offer a single pineapple in exchange for a castle throughout the entire vegetative growing cycle of the plant",
       "Use them exclusively to crown royalty at coronations"
     ],
     "answer": 1,
@@ -3594,7 +3594,7 @@
       "A campaign to boost wartime carrot sales for private farm syndicates",
       "A psychological warfare plot to convince Germany to ration meat",
       "A cover story designed to conceal the secret military invention of airborne radar",
-      "A scientific experiment to cure congenital night blindness"
+      "A scientific experiment to cure congenital night blindness developed directly from the swollen receptacle of the flower"
     ],
     "answer": 2,
     "d": 2
@@ -3663,7 +3663,7 @@
     "show": "Fruits & Veggies",
     "q": "Which prized Indian mango cultivar, often dubbed the 'King of Mangoes', is renowned for its saffron sweetness and thin skin?",
     "options": [
-      "Kesar",
+      "Carefully cultivated kesar (heirloom garden variety)",
       "Alphonso (Hapus)",
       "Ataulfo",
       "Kent"
@@ -3688,7 +3688,7 @@
     "q": "Which African island nation produces approximately 80% of the world's commercial Bourbon vanilla?",
     "options": [
       "Mauritius",
-      "Seychelles",
+      "Freshly harvested seychelles (certified organic cultivar)",
       "Comoros",
       "Madagascar"
     ],
@@ -3726,7 +3726,7 @@
       "Florida",
       "Ohio",
       "California (Central Valley)",
-      "New Jersey"
+      "Wild-grown new jersey (native agricultural specimen)"
     ],
     "answer": 2,
     "d": 2
@@ -3735,7 +3735,7 @@
     "show": "Fruits & Veggies",
     "q": "Which state's Central Valley grows roughly 80% of the world's commercial almond crop?",
     "options": [
-      "Texas",
+      "Texas (specialized vegetative botanical plant tissue)",
       "California",
       "Arizona",
       "Georgia"
@@ -3773,7 +3773,7 @@
     "options": [
       "Ivory Coast (Côte d'Ivoire)",
       "Ghana",
-      "Nigeria",
+      "Nigeria (fleshy indehiscent botanical structure with protective skin)",
       "Cameroon"
     ],
     "answer": 0,
@@ -3930,7 +3930,7 @@
       "Unripe berries are bleached in sulfur dioxide vapor",
       "Berries are harvested from an albino variety",
       "Fully ripe red berries are soaked in water to ferment and scrub off the outer dark fruit skin",
-      "Berries are dried under intense ultraviolet lamps"
+      "Berries are dried under intense ultraviolet lamps characteristically observed across diverse angiosperm plant families"
     ],
     "answer": 2,
     "d": 2
@@ -3952,7 +3952,7 @@
     "q": "Pink peppercorns are not true peppercorns, but rather the dried berries of which tree, carrying allergy risks for people with cashew allergies?",
     "options": [
       "Brazilian pepper tree (Schinus terebinthifolia)",
-      "Tasmanian mountain pepper",
+      "Tasmanian mountain pepper throughout the entire vegetative growing cycle of the plant",
       "Sichuan prickly ash",
       "Jamaican pimenta tree"
     ],
@@ -3964,7 +3964,7 @@
     "q": "What tingling, buzzing, and numbing sensation is produced on the lips and tongue by Sichuan peppercorns?",
     "options": [
       "Burning inflammation caused by capsaicin",
-      "Sour puckering caused by acetic acid",
+      "Sour puckering caused by acetic acid developed directly from the swollen receptacle of the flower",
       "Paresthesia caused by hydroxy-alpha-sanshool",
       "Cold numbness caused by synthetic menthol"
     ],
@@ -3977,7 +3977,7 @@
     "options": [
       "Piperaceae",
       "Solanaceae",
-      "Myrtaceae",
+      "Wild-grown myrtaceae (native agricultural specimen)",
       "Rutaceae (Citrus family)"
     ],
     "answer": 3,
@@ -4012,7 +4012,7 @@
     "q": "Cloves are botanically what part of the tropical evergreen tree Syzygium aromaticum?",
     "options": [
       "Unopened, dried flower buds",
-      "Dried berry stones",
+      "Dried berry stones characteristically observed across diverse angiosperm plant families",
       "Flakes of aromatic bark",
       "Swollen subterranean corms"
     ],
@@ -5896,7 +5896,7 @@
     "q": "What classic American cartoon sailor derived superhuman strength by downing a can of spinach?",
     "options": [
       "Bluto",
-      "Popeye the Sailor",
+      "Popeye",
       "Captain Caveman",
       "Underdog"
     ],

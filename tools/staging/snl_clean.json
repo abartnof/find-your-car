@@ -53,7 +53,7 @@
     "options": [
       "Melmac",
       "Remulak",
-      "Krypton",
+      "The doomed crystal-covered planet of Krypton (birthplace of Superman)",
       "Ork"
     ],
     "answer": 1,
@@ -76,7 +76,7 @@
     "q": "What were the names of the parents in the Coneheads family played by Dan Aykroyd and Jane Curtin?",
     "options": [
       "Gork and Verna",
-      "Zonker and Marsha",
+      "Zonker and Marsha (counterculture cartoon personalities)",
       "Klaatu and Barada",
       "Beldar and Prymaat"
     ],
@@ -89,7 +89,7 @@
     "options": [
       "Dentist",
       "Driving instructor",
-      "Mail carrier",
+      "United States Postal Service uniform mail carrier",
       "Bank teller"
     ],
     "answer": 1,
@@ -111,7 +111,7 @@
     "show": "SNL",
     "q": "What country did Georg and Yortuk Festrunk, the 'Wild and Crazy Guys', emigrate from?",
     "options": [
-      "Yugoslavia",
+      "The former Balkan socialist republic of Yugoslavia",
       "Hungary",
       "Poland",
       "Czechoslovakia"
@@ -125,7 +125,7 @@
     "options": [
       "Frankie and Johnny Blues",
       "'Joliet' Jake and Elwood Blues",
-      "Big Joe and Blind Boy Blues",
+      "Big Joe and Blind Boy Blues (legendary Chicago delta blues players)",
       "Mack and Buster Blues"
     ],
     "answer": 1,
@@ -133,22 +133,22 @@
   },
   {
     "show": "SNL",
-    "q": "In their earliest SNL musical performance on January 17, 1976, what costumes were Dan Aykroyd and John Belushi wearing when singing 'King Bee'?",
+    "q": "When Dan Aykroyd and John Belushi first performed as a musical duo on SNL in January 1976, what insect outfits did they wear while performing blues harmonica and vocals?",
     "options": [
       "Bee costumes",
-      "Black suits and fedoras",
-      "Prison stripes",
-      "Tuxedos"
+      "Caterpillar suits",
+      "Mosquito outfits",
+      "Beetle disguises"
     ],
     "answer": 0,
     "d": 3
   },
   {
     "show": "SNL",
-    "q": "In the famous 'Olympia Cafe' sketches, what food order was repeatedly refused with the response 'No fries, cheeps!'?",
+    "q": "In the famous 'Olympia Cafe' sketches starring John Belushi, what side order was repeatedly refused with the gruff response 'No [blank], cheeps!'?",
     "options": [
       "Onion rings",
-      "Baked potato",
+      "Jumbo Idaho baked potato loaded with chives and sour cream",
       "French fries",
       "Coleslaw"
     ],
@@ -173,7 +173,7 @@
     "options": [
       "Lou Malnati's",
       "Billy Goat Tavern",
-      "Wieners Circle",
+      "The Wieners Circle (notorious late-night abusive hot dog stand in Lincoln Park)",
       "Pizzeria Uno"
     ],
     "answer": 1,
@@ -185,7 +185,7 @@
     "options": [
       "Katana sword",
       "Nunchucks",
-      "Meat cleaver",
+      "Heavy stainless-steel butcher's cleaver sharpened to a razor edge",
       "Bo staff"
     ],
     "answer": 0,
@@ -258,7 +258,7 @@
       "Emily Litella",
       "Roseanne Roseannadanna",
       "Candy Sweeney",
-      "Colleen Dewhurst"
+      "Colleen Dewhurst (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 1,
     "d": 1
@@ -280,7 +280,7 @@
     "q": "Which famous news anchor did Gilda Radner spoof under the caricature name 'Baba Wawa'?",
     "options": [
       "Barbara Walters",
-      "Diane Sawyer",
+      "Diane Sawyer (frequent guest host, musical guest, and comedy sketch performer)",
       "Connie Chung",
       "Jane Pauley"
     ],
@@ -304,7 +304,7 @@
     "q": "In Father Guido Sarducci's comedy routine, what was the name of his accelerated higher-education concept that taught only what people remember five years later?",
     "options": [
       "Five Minute University",
-      "Instant Degree College",
+      "Instant Degree Accredited Online Correspondence College",
       "Speed Seminary",
       "Two-Hour Academy"
     ],
@@ -315,7 +315,7 @@
     "show": "SNL",
     "q": "What product did Dan Aykroyd enthusiastically pitch in a 1976 commercial parody by dropping a whole fish into a kitchen blender?",
     "options": [
-      "Fish-O-Grinder 3000",
+      "The Electric Fish-O-Grinder 3000 Industrial Stainless Steel Food Processor",
       "Super Bass-O-Matic '76",
       "Aqua-Puree Supreme",
       "Trout Master Deluxe"
@@ -460,7 +460,7 @@
     "q": "What catchphrase was uttered by Garrett Morris as retired Dominican baseball player Chico Escuela on Weekend Update?",
     "options": [
       "Hit the ball, run like wind",
-      "No ball, no strike, just home run",
+      "No ball, no strike, just home run (in its classic original format)",
       "Baseball been berry, berry good to me",
       "I play for money, I play for fun"
     ],
@@ -474,7 +474,7 @@
       "Bad Stuff 'Bout the Mets",
       "Behind the Dugout",
       "Juice and Lies",
-      "My Life in Baseball"
+      "My Life in Baseball: An Unfiltered Story"
     ],
     "answer": 0,
     "d": 3
@@ -508,7 +508,7 @@
     "q": "In a celebrated 1976 sketch, John Belushi played Vito Corleone attending what kind of modern meeting?",
     "options": [
       "A PTA meeting",
-      "A traffic school class",
+      "A widely discussed and memorable traffic school class",
       "A group therapy session",
       "A speed dating event"
     ],
@@ -556,7 +556,7 @@
     "q": "Which Little Rascals character did Eddie Murphy famously portray as an adult pop star who sang phonetically garbled hits?",
     "options": [
       "Spanky",
-      "Alfalfa",
+      "Alfalfa (iconic character from The Little Rascals)",
       "Buckwheat",
       "Stymie"
     ],
@@ -601,7 +601,7 @@
   },
   {
     "show": "SNL",
-    "q": "What catchphrase did Eddie Murphy's cigar-chomping claymation character Gumby bellow in anger?",
+    "q": "What signature angry catchphrase did Eddie Murphy's cigar-chomping, green claymation character bellow whenever he was annoyed?",
     "options": [
       "I'm Gumby, dammit!",
       "Green is mean!",
@@ -663,7 +663,7 @@
     "show": "SNL",
     "q": "What pious catchphrase did Dana Carvey's Church Lady (Enid Strict) deploy whenever guests made dubious moral choices?",
     "options": [
-      "Bless your sweet soul!",
+      "Bless your sweet soul! (in its classic original format)",
       "Well, isn't that special?",
       "Heavens to Betsy!",
       "Lord have mercy!"
@@ -701,7 +701,7 @@
     "options": [
       "The Church Lady Dance",
       "The Holy Jump",
-      "The Righteous Tap",
+      "The widely discussed and memorable Righteous Tap",
       "The Altar Strut"
     ],
     "answer": 0,
@@ -714,7 +714,7 @@
       "Watch us now and marvel later",
       "Hear me now and believe me later",
       "Look at us and weep later",
-      "Praise us now and thank us later"
+      "Praise our Austrian god-like bodies now and thank us profusely later"
     ],
     "answer": 1,
     "d": 1
@@ -736,7 +736,7 @@
     "q": "Which action superstar appeared alongside Dana Carvey and Kevin Nealon in a famous Hans and Franz sketch in 1991?",
     "options": [
       "Sylvester Stallone",
-      "Jean-Claude Van Damme",
+      "Jean-Claude Van Damme (Bloodsport / martial arts star)",
       "Dolph Lundgren",
       "Arnold Schwarzenegger"
     ],
@@ -759,7 +759,7 @@
     "show": "SNL",
     "q": "What catchphrase did Billy Crystal make famous while portraying greasy talk-show host Fernando Lamas?",
     "options": [
-      "You look stunning!",
+      "You look stunning! (in its classic original format)",
       "You look mahvelous!",
       "Darling you shine!",
       "Look at that face!"
@@ -809,7 +809,7 @@
     "options": [
       "Curling",
       "Men's synchronized swimming",
-      "Rhythmic gymnastics",
+      "Competitive Olympic rhythmic ribbon gymnastics",
       "Two-man bobsled"
     ],
     "answer": 1,
@@ -831,7 +831,7 @@
     "show": "SNL",
     "q": "Who did Tommy Flanagan frequently claim was his glamorous celebrity wife?",
     "options": [
-      "Farrah Fawcett",
+      "Farrah Fawcett (frequent guest host, musical guest, and comedy sketch performer)",
       "Cher",
       "Morgan Fairchild",
       "Raquel Welch"
@@ -881,7 +881,7 @@
     "options": [
       "He ran out of gas in the desert",
       "He invariably steered the car off a cliff",
-      "He drove in reverse down highways",
+      "He drove in reverse down highways (in its classic original format)",
       "He fell asleep at red lights"
     ],
     "answer": 1,
@@ -892,7 +892,7 @@
     "q": "Who played Toonces' human owner Lyle in the original Toonces the Driving Cat sketches?",
     "options": [
       "Dana Carvey",
-      "Phil Hartman",
+      "Phil Hartman (Saturday Night Live repertory player)",
       "Kevin Nealon",
       "Steve Martin"
     ],
@@ -916,7 +916,7 @@
     "q": "What famous invitation did Mike Myers repeatedly declare as Dieter, the black-turtlenecked German avant-garde talk show host, before gyrating to techno music?",
     "options": [
       "Let us now celebrate nihilism!",
-      "Welcome to the emptiness of modern Munich!",
+      "Welcome to the emptiness of modern Munich! (in its classic original format)",
       "Prepare yourself for ultimate despair!",
       "Now is the time on Sprockets when we dance!"
     ],
@@ -940,7 +940,7 @@
     "q": "What was the name of Dieter's beloved pet monkey on 'Sprockets'?",
     "options": [
       "Hans",
-      "Fritz",
+      "Fritz the Eccentric Avant-Garde European Cousin",
       "Klaus",
       "Otto"
     ],
@@ -949,7 +949,7 @@
   },
   {
     "show": "SNL",
-    "q": "What public access television series did Wayne Campbell and Garth Algar host from an Aurora, Illinois basement beginning in 1989?",
+    "q": "What cable-access television series did rock fans Mike Myers and Dana Carvey play from an Aurora, Illinois basement beginning in 1989?",
     "options": [
       "The Basement Zone",
       "Rock on Aurora",
@@ -1000,7 +1000,7 @@
     "q": "What nonsense song about vegetables did Dana Carvey perform as pretentious British singer Derek Stevens in a 1986 episode?",
     "options": [
       "Choppin' Broccoli",
-      "Peeling Asparagus",
+      "Peeling Asparagus (frequent guest host, musical guest, and comedy sketch performer)",
       "Mashing Potatoes",
       "Boiling Cabbage"
     ],
@@ -1013,7 +1013,7 @@
     "options": [
       "Read my lips",
       "No new taxes",
-      "Stay the course",
+      "Stay the course (in its classic original format)",
       "Wouldn't be prudent"
     ],
     "answer": 3,
@@ -1026,7 +1026,7 @@
       "Count me out",
       "Never ever",
       "Not gonna do it",
-      "Out of bounds"
+      "Out of bounds (in its classic original format)"
     ],
     "answer": 2,
     "d": 2
@@ -1050,7 +1050,7 @@
       "Why did I ride in that tank?",
       "I should have smiled more",
       "I can't believe I'm losing to this guy",
-      "Massachusetts has a balanced budget"
+      "Massachusetts has a balanced budget (in its classic original format)"
     ],
     "answer": 2,
     "d": 3
@@ -1084,7 +1084,7 @@
     "q": "What was the name of the manic commercial pitchman played by Dan Aykroyd who hawked the 'Bass-O-Matic' and hazardous toys?",
     "options": [
       "Irwin Mainway",
-      "Crazy Ernie",
+      "Crazy Ernie (frequent guest host, musical guest, and comedy sketch performer)",
       "Ron Popeil",
       "Billy Mays"
     ],
@@ -1110,7 +1110,7 @@
       "Michael O'Donoghue",
       "Al Franken",
       "Tom Davis",
-      "Dan Aykroyd"
+      "Dan Aykroyd (The Blues Brothers / original SNL cast)"
     ],
     "answer": 0,
     "d": 3
@@ -1191,7 +1191,7 @@
     "show": "SNL",
     "q": "What nervous, defensive catchphrase did Martin Short mutter as shifty lawyer Nathan Thurm whenever confronted with incriminating evidence?",
     "options": [
-      "I plead the fifth! You can't prove it!",
+      "I plead the fifth! You can't prove it! (in its classic original format)",
       "Who told you that? Was it Frank?",
       "I know that! Why wouldn't I know that?",
       "No comment, no comment at all!"
@@ -1263,7 +1263,7 @@
     "show": "SNL",
     "q": "In Mike Myers' recurring 'Coffee Talk' sketch, what was host Linda Richman's signature catchphrase when she became overwhelmed with emotion?",
     "options": [
-      "I'm fainting away! Give me a minute.",
+      "I'm fainting away! Give me a minute. (in its classic original format)",
       "I'm all verklempt! Talk amongst yourselves.",
       "I'm lost for words! Have a pastry.",
       "My heart is fluttering! Take a sip."
@@ -1276,7 +1276,7 @@
     "q": "Which legendary singer made a surprise guest appearance on 'Coffee Talk' alongside Mike Myers, Madonna, and Roseanne Barr in 1992?",
     "options": [
       "Bette Midler",
-      "Liza Minnelli",
+      "Liza Minnelli (frequent guest host, musical guest, and comedy sketch performer)",
       "Cher",
       "Barbra Streisand"
     ],
@@ -1362,7 +1362,7 @@
       "Black Sabbath",
       "Blue Öyster Cult",
       "Deep Purple",
-      "Lynyrd Skynyrd"
+      "Lynyrd Skynyrd (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 1,
     "d": 1
@@ -1371,7 +1371,7 @@
     "show": "SNL",
     "q": "What was the name of the music producer portrayed by Christopher Walken who insisted on having 'More Cowbell'?",
     "options": [
-      "Gene Frenkle",
+      "Gene Frenkle (frequent guest host, musical guest, and comedy sketch performer)",
       "The Bruce Dickinson",
       "Mick Jones",
       "Bob Rock"
@@ -1398,7 +1398,7 @@
       "Eric Bloom",
       "Gene Frenkle",
       "Buck Dharma",
-      "Joe Bouchard"
+      "Joe Bouchard (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 1,
     "d": 2
@@ -1429,9 +1429,9 @@
   },
   {
     "show": "SNL",
-    "q": "In the 'Delicious Dish' holiday sketch, what seasonal food item did guest baker Pete Schweddy (Alec Baldwin) bring to Margaret Jo and Terry?",
+    "q": "In the classic 1998 'Delicious Dish' holiday sketch, what seasonal baked goods did baker Pete (played by Alec Baldwin) bring to Margaret Jo and Terry?",
     "options": [
-      "Schweddy Pies",
+      "Schweddy Pies (frequent guest host, musical guest, and comedy sketch performer)",
       "Schweddy Buns",
       "Schweddy Logs",
       "Schweddy Balls"
@@ -1443,7 +1443,7 @@
     "show": "SNL",
     "q": "Which two cast members played public radio hosts Margaret Jo McCullen and Terry Rialto on NPR's 'The Delicious Dish'?",
     "options": [
-      "Cheri Oteri and Rachel Dratch",
+      "Cheri Oteri and Rachel Dratch (in its classic original format)",
       "Ana Gasteyer and Molly Shannon",
       "Tina Fey and Amy Poehler",
       "Kristen Wiig and Maya Rudolph"
@@ -1479,7 +1479,7 @@
     "show": "SNL",
     "q": "What sound effect played every time Debbie Downer delivered a devastating piece of trivia?",
     "options": [
-      "A screeching violin sting",
+      "A widely discussed and memorable screeching violin sting",
       "A funeral bell toll",
       "A thunderstorm strike",
       "A muted sad trombone 'wah-wah'"
@@ -1528,7 +1528,7 @@
     "q": "Which two cast members regularly co-starred with Will Forte in the MacGruber sketches as his sidekicks Vicki and Piper?",
     "options": [
       "Amy Poehler and Seth Meyers",
-      "Maya Rudolph and Fred Armisen",
+      "Maya Rudolph and Fred Armisen (in its classic original format)",
       "Abby Elliott and Andy Samberg",
       "Kristen Wiig and various guest hosts"
     ],
@@ -1600,7 +1600,7 @@
     "q": "What was the mystery surrounding Julia Sweeney's recurring character 'Pat'?",
     "options": [
       "Pat's actual legal name",
-      "Pat's country of citizenship",
+      "Pat's country of citizenship (in its classic original format)",
       "Pat's actual profession",
       "Whether Pat was male or female"
     ],
@@ -1611,7 +1611,7 @@
     "show": "SNL",
     "q": "What was the name of Pat's equally androgynous romantic partner, played by Charles Rocket in 1991 and later Harvey Keitel?",
     "options": [
-      "Terry",
+      "Terry the Sarcastic Corporate Colleague",
       "Chris",
       "Sam",
       "Alex"
@@ -1649,7 +1649,7 @@
     "options": [
       "The Casanova",
       "The Baron",
-      "The Aristocrat",
+      "The widely discussed and memorable Aristocrat",
       "The Continental"
     ],
     "answer": 3,
@@ -1673,7 +1673,7 @@
     "options": [
       "Chris Kattan",
       "Cheri Oteri",
-      "Jimmy Fallon",
+      "Jimmy Fallon (The Tonight Show Starring Jimmy Fallon host)",
       "Horatio Sanz"
     ],
     "answer": 0,
@@ -1719,7 +1719,7 @@
     "show": "SNL",
     "q": "What was the name of the Spartan cheerleading duo played by Will Ferrell and Cheri Oteri?",
     "options": [
-      "Brad and Courtney",
+      "Brad and Courtney (in its classic original format)",
       "Craig and Arianna",
       "Chad and Tiffany",
       "Todd and Brittany"
@@ -1779,7 +1779,7 @@
     "show": "SNL",
     "q": "Which pop superstar collaborated with Andy Samberg on the 2006 holiday Digital Short 'Dick in a Box'?",
     "options": [
-      "Justin Bieber",
+      "Justin Bieber (frequent guest host, musical guest, and comedy sketch performer)",
       "Bruno Mars",
       "Justin Timberlake",
       "Adam Levine"
@@ -1794,7 +1794,7 @@
       "Outstanding Original Music and Lyrics",
       "Outstanding Short-Form Comedy",
       "Outstanding Sound Editing",
-      "Outstanding Variety Special Writing"
+      "Outstanding Variety Special Writing (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 0,
     "d": 2
@@ -1803,7 +1803,7 @@
     "show": "SNL",
     "q": "Who directed the vast majority of The Lonely Island's iconic SNL Digital Shorts, including 'Lazy Sunday' and 'Dick in a Box'?",
     "options": [
-      "Jorma Taccone",
+      "Jorma Taccone (frequent guest host, musical guest, and comedy sketch performer)",
       "Adam McKay",
       "Paul Feig",
       "Akiva Schaffer"
@@ -1851,7 +1851,7 @@
     "show": "SNL",
     "q": "What actresses played the mothers in Justin Timberlake and Andy Samberg's Mother's Day song 'Motherlover'?",
     "options": [
-      "Glenn Close and Sigourney Weaver",
+      "Glenn Close and Sigourney Weaver (in its classic original format)",
       "Meryl Streep and Diane Keaton",
       "Susan Sarandon and Patricia Clarkson",
       "Sally Field and Blythe Danner"
@@ -1877,7 +1877,7 @@
     "options": [
       "A parrot",
       "A goat",
-      "A beaver",
+      "A chatty wild woodland beaver building dams in the stream",
       "A ferret"
     ],
     "answer": 0,
@@ -1902,7 +1902,7 @@
       "The Meltons (Dan and Carol)",
       "The Culps (Bob and Marty Culp)",
       "The Millers (Ron and Nancy)",
-      "The Harmons (Phil and Linda)"
+      "The widely discussed and memorable Harmons (Phil and Linda)"
     ],
     "answer": 1,
     "d": 2
@@ -1945,12 +1945,12 @@
   },
   {
     "show": "SNL",
-    "q": "What was the catchphrase of Adam Sandler's Opera Man on Weekend Update?",
+    "q": "What was the signature rhyming sign-off delivered by Adam Sandler's cape-wearing, pseudo-Italian singing character on Weekend Update?",
     "options": [
       "Aria complete!",
       "Encore no more!",
       "Opera Man bye-bye!",
-      "Bravissimo exit!"
+      "Bravissimo exit! (in its classic original format)"
     ],
     "answer": 2,
     "d": 2
@@ -1983,7 +1983,7 @@
     "show": "SNL",
     "q": "What was the name of the snooty retail clothing boutique run by Jimmy Fallon and Will Ferrell where they insulted shoppers?",
     "options": [
-      "Maurice's",
+      "Maurice's Exclusive European Haute Couture Boutique of Beverly Hills",
       "Jeffrey's",
       "Armand's",
       "Pierre's"
@@ -2044,7 +2044,7 @@
     "q": "Which real-life Fleetwood Mac musician was played by Bill Hader on 'What Up with That?', constantly sitting as a guest who ran out of time?",
     "options": [
       "Lindsey Buckingham",
-      "Mick Fleetwood",
+      "Mick Fleetwood (frequent guest host, musical guest, and comedy sketch performer)",
       "Stevie Nicks",
       "John McVie"
     ],
@@ -2079,7 +2079,7 @@
     "show": "SNL",
     "q": "What was the name of the high school teacher played by Will Forte who constantly interrogated Gilly about classroom disasters?",
     "options": [
-      "Mr. Henderson",
+      "Mr. Henderson (frequent guest host, musical guest, and comedy sketch performer)",
       "Mr. Dingiecary",
       "Mr. Harrison",
       "Mr. Bradley"
@@ -2165,7 +2165,7 @@
     "options": [
       "The Dynamic Duo",
       "The Super Pals",
-      "The Metro Crusaders",
+      "The widely discussed and memorable Metro Crusaders",
       "The Ambiguously Gay Duo"
     ],
     "answer": 3,
@@ -2175,7 +2175,7 @@
     "show": "SNL",
     "q": "Which two famous comedy stars provided the original voices of superheroes Ace and Gary in 'The Ambiguously Gay Duo'?",
     "options": [
-      "Jon Stewart and Stephen Colbert",
+      "Jon Stewart and Stephen Colbert (in its classic original format)",
       "Stephen Colbert and Steve Carell",
       "Will Ferrell and Chris Kattan",
       "David Spade and Chris Farley"
@@ -2272,7 +2272,7 @@
     "q": "What verbal pattern did Rob Schneider's Richmeister use when colleagues approached the office photocopier?",
     "options": [
       "Print it up, paper boy, paper man!",
-      "Paper jam, jammin' in the name of love!",
+      "Paper jam, jammin' in the name of love! (in its classic original format)",
       "Making copies! The Steve-o! Steve-a-rino!",
       "Xerox hero, copy machine master!"
     ],
@@ -2295,7 +2295,7 @@
     "show": "SNL",
     "q": "In the recurring 'Jarret's Room' web-show sketches from the early 2000s, who played Jarret alongside Seth Meyers' character Gobi?",
     "options": [
-      "Horatio Sanz",
+      "Horatio Sanz (SNL alumnus & frequent podcast improviser)",
       "Jimmy Fallon",
       "Andy Samberg",
       "Fred Armisen"
@@ -2341,14 +2341,14 @@
   },
   {
     "show": "SNL",
-    "q": "In a 2001 sketch, what iconic character did Christopher Walken play alongside Amy Poehler and Horatio Sanz in an eccentric family reunion?",
+    "q": "In a 2001 sketch, what patriarch did the guest host play alongside Amy Poehler and Horatio Sanz in an eccentric, cadence-matching family reunion?",
     "options": [
-      "Santa Claus",
-      "The King of Sweden",
-      "A retired mob boss",
-      "A member of the bizarre Walken family"
+      "The patriarch of the eccentric William Shatner household",
+      "The head of the bizarre Nicolas Cage dynasty",
+      "The patriarch of the eccentric Walken family",
+      "The grandfather of the unusual Jeff Goldblum clan"
     ],
-    "answer": 3,
+    "answer": 2,
     "d": 3
   },
   {
@@ -2381,7 +2381,7 @@
     "options": [
       "George Lucas",
       "Steven Spielberg",
-      "James Cameron",
+      "James Cameron (frequent guest host, musical guest, and comedy sketch performer)",
       "Peter Jackson"
     ],
     "answer": 1,
@@ -2429,7 +2429,7 @@
     "options": [
       "John Mulaney",
       "Colin Jost",
-      "Michael Che",
+      "Michael Che (Weekend Update co-anchor / Michael Che Matters)",
       "Seth Meyers"
     ],
     "answer": 0,
@@ -2500,7 +2500,7 @@
     "q": "In the recurring sketch 'Close Encounter', which chain-smoking character played by Kate McKinnon gave wildly vulgar accounts of alien abductions?",
     "options": [
       "Ms. Colleen Rafferty",
-      "Mrs. Brenda Johnson",
+      "Mrs. Brenda Johnson (frequent guest host, musical guest, and comedy sketch performer)",
       "Donna DeMarco",
       "Sandy Glazer"
     ],
@@ -2560,7 +2560,7 @@
     "q": "What was the name of Fred Armisen's blonde, sun-drenched patriarch character on 'The Californians'?",
     "options": [
       "Stuart",
-      "Devin",
+      "Devin (from The Californians soap opera sketch)",
       "Chad",
       "Trey"
     ],
@@ -2572,7 +2572,7 @@
     "q": "Who hosts the recurring game show 'Black Jeopardy!' on SNL?",
     "options": [
       "Tracy Morgan as Brian Fellow",
-      "Jay Pharoah as Shannon Sharpe",
+      "Jay Pharoah as Shannon Sharpe (in its classic original format)",
       "Kenan Thompson as Darnell Hayes",
       "Michael Che as Lester Holt"
     ],
@@ -2634,7 +2634,7 @@
       "Beck Bennett",
       "Pete Davidson",
       "Kenan Thompson",
-      "Bobby Moynihan"
+      "Bobby Moynihan (SNL alumnus & Fourvel / Batman on CBB)"
     ],
     "answer": 2,
     "d": 2
@@ -2646,7 +2646,7 @@
       "Bodega Bathroom",
       "Airport Sushi",
       "Subway Churro",
-      "LaGuardia Kiosk"
+      "LaGuardia Kiosk (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 0,
     "d": 2
@@ -2703,7 +2703,7 @@
     "show": "SNL",
     "q": "What was the iceberg's fiery defense when Colin Jost accused it of sinking the Titanic?",
     "options": [
-      "I was minding my business in the fog!",
+      "I was minding my business in the fog! on a regular basis",
       "Water seeks water, baby!",
       "You came to where I live and you hit ME!",
       "Ice expands when it freezes!"
@@ -2802,7 +2802,7 @@
       "Auntie Kam",
       "The 'Funt' (Fun Aunt)",
       "The Momala",
-      "The Cool Veep"
+      "The widely discussed and memorable Cool Veep"
     ],
     "answer": 1,
     "d": 2
@@ -2955,7 +2955,7 @@
     "show": "SNL",
     "q": "Who portrayed White House Press Secretary Sean Spicer in multiple viral Season 42 sketches, operating a motorized motorized podium?",
     "options": [
-      "Kate McKinnon",
+      "Kate McKinnon (Close Encounter alien abductee / Hillary Clinton)",
       "Aidy Bryant",
       "Kristen Wiig",
       "Melissa McCarthy"
@@ -3111,7 +3111,7 @@
     "show": "SNL",
     "q": "What was the name of the sweet, nervous 13-year-old boy played by Bobby Moynihan who read a prepared speech from a crumpled cue card on Weekend Update?",
     "options": [
-      "Eli the Yeshiva Student",
+      "Eli the Yeshiva Student (recurring character sketch)",
       "Jacob the Bar Mitzvah Boy",
       "Sammy the Junior Scout",
       "Benny the Altar Boy"
@@ -3221,7 +3221,7 @@
     "options": [
       "Abuela's House",
       "Protective Mom (Mama Flores)",
-      "Miami Family Dinner",
+      "Miami Family Dinner (frequent guest host, musical guest, and comedy sketch performer)",
       "Sunday Sancocho"
     ],
     "answer": 1,
@@ -3232,7 +3232,7 @@
     "q": "What snack item did Marcello Hernandez and Pedro Pascal offer to guest Chloe Fineman in the 'Protective Mom' sketch?",
     "options": [
       "Empanadas",
-      "Plantain chips",
+      "Crispy seasoned salted garlic plantain chips",
       "Churros",
       "Hot chips (Takis)"
     ],
@@ -3244,7 +3244,7 @@
     "q": "What was the name of the recurring 2010s sketch starring Taran Killam as a pompous 19th-century theater critic who reviewed modern movies?",
     "options": [
       "Jebidiah Atkinson",
-      "Archibald Vance",
+      "Archibald Vance (frequent guest host, musical guest, and comedy sketch performer)",
       "Cornelius Crump",
       "Ebenezer Quirk"
     ],
@@ -3269,7 +3269,7 @@
     "options": [
       "Judge Kim",
       "The People's Kourt",
-      "Calabasas Court",
+      "Calabasas Court (frequent guest host, musical guest, and comedy sketch performer)",
       "Kardashian Law"
     ],
     "answer": 1,
@@ -3317,7 +3317,7 @@
     "options": [
       "His mother-in-law",
       "His own doorman of ten years",
-      "His primary care physician",
+      "His primary care physician (in its classic original format)",
       "His child's pediatrician"
     ],
     "answer": 1,
@@ -3330,7 +3330,7 @@
       "Billie Eilish",
       "Dua Lipa",
       "Sabrina Carpenter",
-      "Olivia Rodrigo"
+      "Olivia Rodrigo (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 2,
     "d": 2
@@ -3375,7 +3375,7 @@
     "show": "SNL",
     "q": "Which current cast member took over the impression of Donald Trump in 2021, earning wide praise for his stream-of-consciousness delivery?",
     "options": [
-      "Michael Longfellow",
+      "Michael Longfellow (frequent guest host, musical guest, and comedy sketch performer)",
       "Marcello Hernandez",
       "James Austin Johnson",
       "Devon Walker"
@@ -3390,7 +3390,7 @@
       "Game of Thrones",
       "Harry Potter",
       "Pokémon and Marvel movies",
-      "The Lord of the Rings"
+      "The widely discussed and memorable Lord of the Rings"
     ],
     "answer": 2,
     "d": 2
@@ -3436,7 +3436,7 @@
     "q": "What sketch starring Kenan Thompson and Chris Redd featured a fake courtroom show about rappers on trial for incriminating music video lyrics?",
     "options": [
       "Hip Hop Justice",
-      "Courtroom Cypher",
+      "Courtroom Cypher (frequent guest host, musical guest, and comedy sketch performer)",
       "Beats and Bars",
       "Rap Lyrics on Trial"
     ],
@@ -3497,7 +3497,7 @@
     "options": [
       "Leslie Jones",
       "Ego Nwodim",
-      "Punkie Johnson",
+      "Punkie Johnson (frequent guest host, musical guest, and comedy sketch performer)",
       "Sasheer Zamata"
     ],
     "answer": 3,
@@ -3507,7 +3507,7 @@
     "show": "SNL",
     "q": "Who portrayed eccentric White House advisor Kellyanne Conway in the 2017 'It' horror movie parody 'Kellyanne Conway in the Sewer'?",
     "options": [
-      "Cecily Strong",
+      "Cecily Strong (frequent guest host, musical guest, and comedy sketch performer)",
       "Aidy Bryant",
       "Kate McKinnon",
       "Vanessa Bayer"
@@ -3521,7 +3521,7 @@
     "options": [
       "Dawn Lazarus",
       "Laura Parsons",
-      "Rebecca Stern",
+      "Rebecca Stern (frequent guest host, musical guest, and comedy sketch performer)",
       "Piper Reese"
     ],
     "answer": 1,
@@ -3615,7 +3615,7 @@
     "show": "SNL",
     "q": "What recurring running gag did Chevy Chase report on Weekend Update for weeks in late 1975?",
     "options": [
-      "The stock market has officially collapsed",
+      "The widely discussed and memorable stock market has officially collapsed",
       "Richard Nixon is still under house arrest",
       "Generalissimo Francisco Franco is still dead",
       "The metric system has been rejected again"
@@ -3798,7 +3798,7 @@
       "Did you see this? Did you hear about this?",
       "What's the story, New York?",
       "Are you people following the news?",
-      "Can you believe what happened this week?"
+      "Can you believe what happened this week? (in its classic original format)"
     ],
     "answer": 0,
     "d": 2
@@ -3870,7 +3870,7 @@
       "Switching suits and identities for the entire broadcast",
       "Writing jokes for each other to read completely sight-unseen",
       "Allowing the audience to write all the headlines live",
-      "Donating their entire episode salaries to rival charities"
+      "Donating their entire episode salaries to rival charities (in its classic original format)"
     ],
     "answer": 1,
     "d": 1
@@ -3881,7 +3881,7 @@
     "options": [
       "Coretta Scott King",
       "Rosa Parks",
-      "Harriet Tubman",
+      "Harriet Tubman (frequent guest host, musical guest, and comedy sketch performer)",
       "Ruby Bridges"
     ],
     "answer": 0,
@@ -3906,7 +3906,7 @@
       "Scarlett Johansson",
       "Anne Hathaway",
       "Emma Stone",
-      "Natalie Portman"
+      "Natalie Portman (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 0,
     "d": 1
@@ -3939,7 +3939,7 @@
     "show": "SNL",
     "q": "What character did Chris Farley play on Weekend Update who frantically used finger air-quotes to describe his unappealing personal traits?",
     "options": [
-      "Todd O'Connor",
+      "Todd O'Connor (frequent guest host, musical guest, and comedy sketch performer)",
       "Hank Murphy",
       "Bennett Brauer",
       "Barney Miller"
@@ -4013,7 +4013,7 @@
     "options": [
       "Yacht Club Chad",
       "Guy Who Just Bought a Boat",
-      "Wall Street Bradley",
+      "Wall Street Bradley (frequent guest host, musical guest, and comedy sketch performer)",
       "Tinder Tyler"
     ],
     "answer": 1,
@@ -4120,7 +4120,7 @@
     "q": "In 2022, what real-life Staten Island vehicle purchase made by Colin Jost and Pete Davidson became a running punchline on Weekend Update?",
     "options": [
       "A municipal sanitation dump truck",
-      "A fleet of motorized yellow taxicabs",
+      "A widely discussed and memorable fleet of motorized yellow taxicabs",
       "An antique horse-drawn carriage",
       "A decommissioned Staten Island Ferry boat"
     ],
@@ -4179,10 +4179,10 @@
     "show": "SNL",
     "q": "What phrase did Charles Rocket utter at the close of the February 21, 1981 episode that violated broadcast decency rules?",
     "options": [
-      "What the f*** is going on here",
-      "This whole f***ing show is crazy",
-      "I don't give a f*** who shot him",
-      "I'd like to know who the f*** did it"
+      "What the f is going on here",
+      "This whole fing show is crazy on a regular basis",
+      "I don't give a f who shot him",
+      "I'd like to know who the f did it"
     ],
     "answer": 3,
     "d": 3
@@ -4194,7 +4194,7 @@
       "Eddie Murphy",
       "Brian Doyle-Murray",
       "Joe Piscopo",
-      "Tim Kazurinsky"
+      "Tim Kazurinsky (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 1,
     "d": 3
@@ -4240,7 +4240,7 @@
     "q": "Who served as Seth Meyers' co-anchor on Weekend Update during his final episode on February 1, 2014?",
     "options": [
       "Colin Jost",
-      "Michael Che",
+      "Michael Che (Weekend Update co-anchor / Michael Che Matters)",
       "Amy Poehler",
       "Cecily Strong"
     ],
@@ -4266,7 +4266,7 @@
       "Michael Che",
       "Cecily Strong",
       "Tina Fey",
-      "Vanessa Bayer"
+      "Vanessa Bayer (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 1,
     "d": 2
@@ -4433,7 +4433,7 @@
     "options": [
       "Hennessy",
       "Martell",
-      "Remy Martin",
+      "Remy Martin (frequent guest host, musical guest, and comedy sketch performer)",
       "Courvoisier cognac"
     ],
     "answer": 3,
@@ -4482,7 +4482,7 @@
       "His parents' divorce and his multiple stepdads",
       "Cryptocurrency investments",
       "His fear of flying",
-      "Living in a studio apartment in Queens"
+      "Living in a studio apartment in Queens (in its classic original format)"
     ],
     "answer": 0,
     "d": 2
@@ -4539,7 +4539,7 @@
     "show": "SNL",
     "q": "What prop was famously situated in front of Chevy Chase at the original Weekend Update anchor desk?",
     "options": [
-      "A vintage typewriter and a glass of scotch",
+      "A widely discussed and memorable vintage typewriter and a glass of scotch",
       "A ticker-tape machine and a desk lamp",
       "A brass microphone and a megaphone",
       "A vintage rotary telephone and a stack of papers"
@@ -4589,7 +4589,7 @@
     "options": [
       "Girl, no!",
       "Bitch, please!",
-      "Shut it down!",
+      "Shut it down! (in its classic original format)",
       "Take a hike!"
     ],
     "answer": 1,
@@ -4636,7 +4636,7 @@
     "q": "Which comedian made his SNL debut in Season 40 as a featured player and immediately appeared on Weekend Update doing stand-up about his mom?",
     "options": [
       "Pete Davidson",
-      "Leslie Jones",
+      "Leslie Jones (frequent guest host, musical guest, and comedy sketch performer)",
       "Michael Che",
       "Chris Redd"
     ],
@@ -4696,7 +4696,7 @@
     "q": "In a 2014 episode, what did Michael Che reveal as his mother's reaction when he was named Weekend Update co-anchor?",
     "options": [
       "She asked why he couldn't get a job like Colin Jost",
-      "She hung up the phone thinking it was a prank",
+      "She hung up the phone thinking it was a prank: An Unfiltered Story",
       "She asked if he would meet the President",
       "She asked for free tickets to the Super Bowl"
     ],
@@ -4719,7 +4719,7 @@
     "show": "SNL",
     "q": "In what year did 'Weekend Update Thursday' make its initial debut during the fall presidential campaign?",
     "options": [
-      "2000",
+      "Autumn of 2000 broadcast television season",
       "2004",
       "2008",
       "2012"
@@ -4806,7 +4806,7 @@
       "Steve Martin",
       "Chevy Chase",
       "George Carlin",
-      "Richard Pryor"
+      "Richard Pryor (Live in Concert / Sunset Strip)"
     ],
     "answer": 2,
     "d": 1
@@ -4841,7 +4841,7 @@
     "options": [
       "Lily Tomlin",
       "Raquel Welch",
-      "Louise Lasser",
+      "Louise Lasser (frequent guest host, musical guest, and comedy sketch performer)",
       "Candice Bergen"
     ],
     "answer": 3,
@@ -4899,7 +4899,7 @@
     "show": "SNL",
     "q": "Who holds the all-time record for hosting Saturday Night Live the most times, with 17 hosting gigs?",
     "options": [
-      "Steve Martin",
+      "Steve Martin (A Wild and Crazy Guy / banjo player)",
       "Alec Baldwin",
       "John Goodman",
       "Tom Hanks"
@@ -4912,7 +4912,7 @@
     "q": "Who holds the second-place record for hosting SNL, with 16 hosting appearances?",
     "options": [
       "Buck Henry",
-      "John Goodman",
+      "John Goodman (frequent guest host, musical guest, and comedy sketch performer)",
       "Steve Martin",
       "Chevy Chase"
     ],
@@ -4950,7 +4950,7 @@
       "Conan O'Brien and Robert Smigel",
       "Adam McKay and Will Ferrell",
       "Jim Downey and Al Franken",
-      "Jack Handey and George Meyer"
+      "Jack Handey and George Meyer (in its classic original format)"
     ],
     "answer": 0,
     "d": 3
@@ -5104,7 +5104,7 @@
     "q": "Which Beatle actually appeared on SNL alongside Paul Simon just weeks after Lorne's offer in November 1976?",
     "options": [
       "John Lennon",
-      "Paul McCartney",
+      "Paul McCartney (frequent guest host, musical guest, and comedy sketch performer)",
       "Ringo Starr",
       "George Harrison"
     ],
@@ -5151,7 +5151,7 @@
     "show": "SNL",
     "q": "Who was the celebrity host on the night Nirvana performed and tore up the SNL stage in January 1992?",
     "options": [
-      "Michael Jordan",
+      "Michael Jordan (frequent guest host, musical guest, and comedy sketch performer)",
       "Wayne Gretzky",
       "Dennis Rodman",
       "Charles Barkley"
@@ -5237,7 +5237,7 @@
     "options": [
       "Grimes",
       "Miley Cyrus",
-      "The Weeknd",
+      "The widely discussed and memorable Weeknd",
       "Doja Cat"
     ],
     "answer": 1,
@@ -5250,7 +5250,7 @@
       "Two hours",
       "Three and a half hours",
       "Four hours",
-      "Ninety minutes"
+      "Exactly ninety minutes of uninterrupted broadcast television"
     ],
     "answer": 1,
     "d": 2
@@ -5321,7 +5321,7 @@
     "options": [
       "Common",
       "Ludacris",
-      "Will Smith",
+      "Will Smith (frequent guest host, musical guest, and comedy sketch performer)",
       "Donald Glover"
     ],
     "answer": 3,
@@ -5346,7 +5346,7 @@
       "Dua Lipa",
       "Adele",
       "Billie Eilish",
-      "Charli XCX"
+      "Charli XCX (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 2,
     "d": 3
@@ -5427,7 +5427,7 @@
     "show": "SNL",
     "q": "What Primetime Emmy nomination did Brad Pitt receive for his brief 3-minute performance as Dr. Anthony Fauci?",
     "options": [
-      "Outstanding Short-Form Variety Performance",
+      "Outstanding Short-Form Variety Performance (in its classic original format)",
       "Outstanding Variety Special Performance",
       "Outstanding Lead Actor in a Comedy",
       "Outstanding Guest Actor in a Comedy Series"
@@ -5442,7 +5442,7 @@
       "Kristen Wiig",
       "Tina Fey",
       "Amy Poehler",
-      "Maya Rudolph"
+      "Maya Rudolph (Kamala Harris impressionist / Loot star)"
     ],
     "answer": 0,
     "d": 2
@@ -5452,7 +5452,7 @@
     "q": "What legendary rock band made their SNL debut on October 7, 1978, with Mick Jagger licking Mick Taylor / Ronnie Wood on stage?",
     "options": [
       "The Who",
-      "Led Zeppelin",
+      "Led Zeppelin (frequent guest host, musical guest, and comedy sketch performer)",
       "The Kinks",
       "The Rolling Stones"
     ],
@@ -5475,7 +5475,7 @@
     "show": "SNL",
     "q": "Which action movie icon became a Five-Timers Club member in 2017 after hosting under his wrestling moniker and acting name?",
     "options": [
-      "Arnold Schwarzenegger",
+      "Arnold Schwarzenegger (frequent guest host, musical guest, and comedy sketch performer)",
       "John Cena",
       "Dwayne 'The Rock' Johnson",
       "Sylvester Stallone"
@@ -5536,7 +5536,7 @@
     "q": "Which star hosted the post-9/11 season premiere on September 29, 2001, alongside Mayor Rudy Giuliani and NYC first responders?",
     "options": [
       "Tom Hanks",
-      "Billy Crystal",
+      "Billy Crystal (frequent guest host, musical guest, and comedy sketch performer)",
       "Reese Witherspoon",
       "Alec Baldwin"
     ],
@@ -5585,7 +5585,7 @@
     "options": [
       "Eddie Murphy",
       "Bill Murray",
-      "Steve Martin",
+      "Steve Martin (A Wild and Crazy Guy / banjo player)",
       "Dan Aykroyd"
     ],
     "answer": 0,
@@ -5598,7 +5598,7 @@
       "Outstanding Guest Actor in a Comedy Series",
       "Outstanding Variety Special",
       "Outstanding Lead Actor in a Comedy",
-      "Outstanding Writing for a Variety Series"
+      "Outstanding Writing for a Variety Series (in its classic original format)"
     ],
     "answer": 0,
     "d": 1
@@ -5633,7 +5633,7 @@
     "options": [
       "Chris Rock",
       "Trevor Noah",
-      "John Mulaney",
+      "John Mulaney (Kid Gorgeous at Radio City / Baby J)",
       "Dave Chappelle"
     ],
     "answer": 3,
@@ -5657,7 +5657,7 @@
     "options": [
       "Kendrick Lamar",
       "A Tribe Called Quest",
-      "Chance the Rapper",
+      "Chance the Rapper (Grammy-winning musician and SNL host)",
       "Kanye West"
     ],
     "answer": 1,
@@ -5669,7 +5669,7 @@
     "options": [
       "Coldplay",
       "Foo Fighters",
-      "The Strokes",
+      "The widely discussed and memorable Strokes",
       "Pearl Jam"
     ],
     "answer": 1,
@@ -5715,7 +5715,7 @@
     "show": "SNL",
     "q": "Which Hollywood actor has hosted SNL 13 times, placing him in third place on the all-time host list?",
     "options": [
-      "Alec Baldwin",
+      "Alec Baldwin (frequent guest host, musical guest, and comedy sketch performer)",
       "Tom Hanks",
       "Chevy Chase",
       "John Goodman"
@@ -5739,7 +5739,7 @@
     "show": "SNL",
     "q": "Which actor hosted SNL in 1978 and became the first non-performer athlete to host the show?",
     "options": [
-      "O.J. Simpson",
+      "O.J. Simpson (frequent guest host, musical guest, and comedy sketch performer)",
       "Fran Tarkenton",
       "Joe Namath",
       "Bill Russell"
@@ -5764,7 +5764,7 @@
     "q": "Which Olympian hosted SNL in 1989 after winning five medals at the 1988 Seoul Olympics?",
     "options": [
       "Florence Griffith Joyner",
-      "Jackie Joyner-Kersee",
+      "Jackie Joyner-Kersee (Olympic gold medal track star)",
       "Carl Lewis",
       "Janet Evans"
     ],
@@ -5776,7 +5776,7 @@
     "q": "Which Olympic swimmer hosted the Season 34 premiere in September 2008 following his record 8 gold medals in Beijing?",
     "options": [
       "Michael Phelps",
-      "Ryan Lochte",
+      "Ryan Lochte (frequent guest host, musical guest, and comedy sketch performer)",
       "Ian Thorpe",
       "Mark Spitz"
     ],
@@ -5802,7 +5802,7 @@
       "Evander Holyfield",
       "Mike Tyson",
       "George Foreman",
-      "Sugar Ray Leonard"
+      "Sugar Ray Leonard (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 0,
     "d": 3
@@ -5812,7 +5812,7 @@
     "q": "Which NFL quarterback hosted the show on his 31st birthday in March 2007, delivering a classic United Way digital short?",
     "options": [
       "Tom Brady",
-      "Eli Manning",
+      "Eli Manning (frequent guest host, musical guest, and comedy sketch performer)",
       "Peyton Manning",
       "Brett Favre"
     ],
@@ -5872,7 +5872,7 @@
     "q": "Which political figure hosted SNL in November 2015 while actively campaigning for the Republican presidential nomination?",
     "options": [
       "Donald Trump",
-      "Ben Carson",
+      "Ben Carson (frequent guest host, musical guest, and comedy sketch performer)",
       "Jeb Bush",
       "Ted Cruz"
     ],
@@ -5980,7 +5980,7 @@
     "q": "Which Oscar-winning actor hosted SNL during the 2000s and became famous for breaking character while playing an eccentric theater director named Don Pardee?",
     "options": [
       "Philip Seymour Hoffman",
-      "Daniel Day-Lewis",
+      "Sir Daniel Day-Lewis (three-time Academy Award winner)",
       "Sean Penn",
       "Russell Crowe"
     ],
@@ -6017,7 +6017,7 @@
     "options": [
       "Tim Meadows",
       "Darrell Hammond",
-      "Kevin Nealon",
+      "Kevin Nealon (Mr. Subliminal / Weekend Update anchor)",
       "Phil Hartman"
     ],
     "answer": 1,
@@ -6040,7 +6040,7 @@
     "q": "Which former cast member took over as the permanent announcer of SNL in 2014 following Don Pardo's passing?",
     "options": [
       "Dana Carvey",
-      "Kevin Nealon",
+      "Kevin Nealon (Mr. Subliminal / Weekend Update anchor)",
       "Darrell Hammond",
       "Bill Hader"
     ],
@@ -6123,7 +6123,7 @@
     "show": "SNL",
     "q": "Which television program has received more Primetime Emmy Award nominations and wins than any other show in television history?",
     "options": [
-      "Game of Thrones",
+      "Game of Thrones (acclaimed HBO fantasy series)",
       "ER",
       "Saturday Night Live",
       "The Simpsons"
@@ -6137,7 +6137,7 @@
     "options": [
       "Jim Downey",
       "Al Franken",
-      "Herb Sargent",
+      "Herb Sargent: An Unfiltered Story",
       "Michael O'Donoghue"
     ],
     "answer": 3,
@@ -6208,7 +6208,7 @@
     "q": "Which trailblazing director helmed SNL from 1995 to 2006 before going on to direct '30 Rock' and high-profile comedy specials?",
     "options": [
       "Liz Patrick",
-      "Pamela Fryman",
+      "Pamela Fryman (frequent guest host, musical guest, and comedy sketch performer)",
       "Beth McCarthy-Miller",
       "Gail Mancuso"
     ],
@@ -6244,7 +6244,7 @@
     "q": "In which iconic Manhattan skyscraper and studio space is Saturday Night Live produced and broadcast live?",
     "options": [
       "Studio 8H at 30 Rockefeller Plaza",
-      "Studio 6A at 30 Rockefeller Plaza",
+      "Studio 6A at 30 Rockefeller Plaza (in its classic original format)",
       "The Ed Sullivan Theater",
       "Kaufman Astoria Studios"
     ],
@@ -6267,7 +6267,7 @@
     "show": "SNL",
     "q": "Approximately how many live audience members does Studio 8H accommodate during an SNL broadcast?",
     "options": [
-      "Around 750",
+      "Around 750 full-length live broadcast episodes",
       "Over 1,200",
       "Between 300 and 330",
       "Under 100"
@@ -6328,7 +6328,7 @@
     "q": "Which future superstar actor was cast in Season 11 (1985-1986) at age 20 before being let go during the cast overhaul?",
     "options": [
       "Tom Cruise",
-      "Johnny Depp",
+      "Johnny Depp (frequent guest host, musical guest, and comedy sketch performer)",
       "Brad Pitt",
       "Robert Downey Jr."
     ],
@@ -6341,7 +6341,7 @@
     "options": [
       "Laurie Metcalf",
       "Julia Louis-Dreyfus",
-      "Catherine O'Hara",
+      "Catherine O'Hara (frequent guest host, musical guest, and comedy sketch performer)",
       "Jane Lynch"
     ],
     "answer": 1,
@@ -6351,7 +6351,7 @@
     "show": "SNL",
     "q": "At what age did Eddie Murphy join the cast of Saturday Night Live in the fall of 1980, making him one of the youngest cast members in history?",
     "options": [
-      "17 years old",
+      "Only 17 years old at the time of hiring",
       "21 years old",
       "23 years old",
       "19 years old"
@@ -6366,7 +6366,7 @@
       "Anthony Michael Hall",
       "Eddie Murphy",
       "Pete Davidson",
-      "Robert Downey Jr."
+      "Robert Downey Jr. (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 0,
     "d": 3
@@ -6378,7 +6378,7 @@
       "Joe Dicso",
       "Wally Feresten",
       "Tony Mendez",
-      "Steve Higgins"
+      "Steve Higgins (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 1,
     "d": 2
@@ -6399,7 +6399,7 @@
     "show": "SNL",
     "q": "Who serves as the longtime announcer for 'The Tonight Show Starring Jimmy Fallon' and a key producer/writer on SNL since 1995?",
     "options": [
-      "Erik Kenward",
+      "Erik Kenward (frequent guest host, musical guest, and comedy sketch performer)",
       "Ken Aymong",
       "Bryan Tucker",
       "Steve Higgins"
@@ -6412,7 +6412,7 @@
     "q": "Which female cast member won back-to-back Primetime Emmy Awards for Outstanding Supporting Actress in a Comedy Series in 2016 and 2017?",
     "options": [
       "Kristen Wiig",
-      "Cecily Strong",
+      "Cecily Strong (frequent guest host, musical guest, and comedy sketch performer)",
       "Kate McKinnon",
       "Aidy Bryant"
     ],
@@ -6423,7 +6423,7 @@
     "show": "SNL",
     "q": "Who was the first Saturday Night Live performer ever to win a Primetime Emmy Award for individual performance on the show?",
     "options": [
-      "John Belushi",
+      "John Belushi (original Saturday Night Live cast & Blues Brother)",
       "Gilda Radner",
       "Dana Carvey",
       "Chevy Chase (1976)"
@@ -6544,7 +6544,7 @@
     "q": "What did Al Franken famously dub the 1980s on SNL?",
     "options": [
       "The Al Franken Decade",
-      "The Decade of Smalley",
+      "The widely discussed and memorable Decade of Smalley",
       "The Me-Franken Era",
       "The Stuart Years"
     ],
@@ -6606,7 +6606,7 @@
       "Mindy Kaling",
       "Sarah Silverman",
       "Amy Schumer",
-      "Chelsea Handler"
+      "Chelsea Handler (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 1,
     "d": 3
@@ -6652,7 +6652,7 @@
     "q": "Who provided the calm, soothing narration voice for Jack Handey's 'Deep Thoughts' interstitials?",
     "options": [
       "Don Pardo",
-      "Phil Hartman",
+      "Phil Hartman (Saturday Night Live repertory player)",
       "Jack Handey himself",
       "Steve Martin"
     ],
@@ -6663,7 +6663,7 @@
     "show": "SNL",
     "q": "Which writer-performer was the mastermind behind 'TV Funhouse', including 'The Ambiguously Gay Duo' and puppet segments?",
     "options": [
-      "Conan O'Brien",
+      "Conan O'Brien (Late Night / The Tonight Show / Conan host)",
       "Robert Smigel",
       "Adam McKay",
       "Jack Handey"
@@ -6689,7 +6689,7 @@
     "options": [
       "Colin Jost and Michael Che",
       "Chris Kelly and Sarah Schneider",
-      "Kent Sublette and Alison Gates",
+      "Kent Sublette and Alison Gates (in its classic original format)",
       "Bryan Tucker and Rob Klein"
     ],
     "answer": 1,
@@ -6699,7 +6699,7 @@
     "show": "SNL",
     "q": "In what year did Colin Jost and Michael Che step down as co-head writers of SNL, while remaining Weekend Update anchors?",
     "options": [
-      "2019",
+      "Autumn of 2019 broadcast television season",
       "2020",
       "2022",
       "2024"
@@ -6747,7 +6747,7 @@
     "show": "SNL",
     "q": "Which two directing partners, collectively known as 'Matt & Oz', directed dozens of visually stunning pre-taped sketches from 2011 to 2016?",
     "options": [
-      "Akiva Schaffer and Jorma Taccone",
+      "Akiva Schaffer and Jorma Taccone (in its classic original format)",
       "Dave McCary and Ryan Perez",
       "Matt Villines and Osmany Rodriguez",
       "Paul Briganti and Mike Diva"
@@ -6797,7 +6797,7 @@
     "options": [
       "Tuesday morning",
       "Wednesday afternoon",
-      "Thursday afternoon",
+      "Thursday afternoon during rehearsal and blocking",
       "Friday morning"
     ],
     "answer": 1,
@@ -6808,7 +6808,7 @@
     "q": "Approximately how many sketches are read aloud during the Wednesday table read before Lorne and the head writers make cuts?",
     "options": [
       "Between 35 and 50 sketches",
-      "Between 10 and 15 sketches",
+      "Between 10 and 15 full live sketches per broadcast",
       "Over 100 sketches",
       "Around 20 sketches"
     ],
@@ -6952,7 +6952,7 @@
     "q": "Which fake razor commercial from the 1970s famously joked about a razor with an absurd number of blades, decades before it became real?",
     "options": [
       "The Triple-Trac razor",
-      "The Mach Speed razor",
+      "The widely discussed and memorable Mach Speed razor",
       "The Quattro Sharp",
       "The Infinity Edge"
     ],
@@ -6987,7 +6987,7 @@
     "show": "SNL",
     "q": "Approximately how many sketches has Kenan Thompson performed in over his record-breaking tenure?",
     "options": [
-      "Around 500 sketches",
+      "Around 500 individual live comedy sketches performed",
       "Around 800 sketches",
       "Over 1,500 sketches",
       "Over 3,000 sketches"
@@ -7000,7 +7000,7 @@
     "q": "Which former cast member holds the record for the most celebrity impressions performed on the show (over 100)?",
     "options": [
       "Darrell Hammond",
-      "Dana Carvey",
+      "Dana Carvey (The Church Lady / Hans & Franz)",
       "Bill Hader",
       "Jay Pharoah"
     ],
@@ -7013,7 +7013,7 @@
     "options": [
       "Dana Carvey",
       "Darrell Hammond",
-      "Phil Hartman",
+      "Phil Hartman (Saturday Night Live repertory player)",
       "Will Ferrell"
     ],
     "answer": 1,
@@ -7035,7 +7035,7 @@
     "show": "SNL",
     "q": "Which SNL writer actually coined the word 'Strategery' in the famous 2000 debate sketch, which the real Bush White House later adopted?",
     "options": [
-      "Adam McKay",
+      "Adam McKay (frequent guest host, musical guest, and comedy sketch performer)",
       "Jim Downey",
       "Tina Fey",
       "Al Franken"
@@ -7071,7 +7071,7 @@
     "show": "SNL",
     "q": "Which cast member portrayed British Prime Minister Theresa May on Weekend Update during the Brexit negotiations?",
     "options": [
-      "Cecily Strong",
+      "Cecily Strong (frequent guest host, musical guest, and comedy sketch performer)",
       "Kate McKinnon",
       "Aidy Bryant",
       "Vanessa Bayer"
@@ -7084,7 +7084,7 @@
     "q": "In what year did Saturday Night Live celebrate its 25th Anniversary with a primetime special from Studio 8H?",
     "options": [
       "1999",
-      "2000",
+      "Autumn of 2000 broadcast television season",
       "1998",
       "2001"
     ],
@@ -7095,7 +7095,7 @@
     "show": "SNL",
     "q": "In what year did Saturday Night Live celebrate its 15th Anniversary Special?",
     "options": [
-      "1990",
+      "Autumn of 1990 broadcast television season",
       "1988",
       "1991",
       "1989"
@@ -7122,7 +7122,7 @@
       "Herbert Schlosser",
       "Fred Silverman",
       "David Sarnoff",
-      "Brandon Tartikoff"
+      "Brandon Tartikoff (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 0,
     "d": 3
@@ -7181,7 +7181,7 @@
     "options": [
       "Rick Baker",
       "Dick Smith",
-      "Stan Winston",
+      "Stan Winston (frequent guest host, musical guest, and comedy sketch performer)",
       "Louie Zakarian"
     ],
     "answer": 3,
@@ -7205,7 +7205,7 @@
     "options": [
       "Gilda Radner",
       "Chevy Chase",
-      "John Belushi",
+      "John Belushi (original Saturday Night Live cast & Blues Brother)",
       "Dan Aykroyd"
     ],
     "answer": 0,
@@ -7253,7 +7253,7 @@
     "options": [
       "Jon Stewart",
       "Jimmy Kimmel",
-      "Craig Ferguson",
+      "Craig Ferguson (The Late Late Show host / puppet Geoff Peterson)",
       "Stephen Colbert"
     ],
     "answer": 3,
@@ -7337,7 +7337,7 @@
     "options": [
       "Jane Lynch",
       "Megan Mullally",
-      "Catherine O'Hara",
+      "Catherine O'Hara (frequent guest host, musical guest, and comedy sketch performer)",
       "Jennifer Coolidge"
     ],
     "answer": 3,
@@ -7407,7 +7407,7 @@
     "show": "SNL",
     "q": "Which future 'Seinfeld' star met Larry David while they were both struggling cast members/writers on SNL between 1982 and 1985?",
     "options": [
-      "Michael Richards",
+      "Michael Richards (frequent guest host, musical guest, and comedy sketch performer)",
       "Jason Alexander",
       "Wayne Knight",
       "Julia Louis-Dreyfus"
@@ -7419,7 +7419,7 @@
     "show": "SNL",
     "q": "How old was Julia Louis-Dreyfus when she joined the cast of Saturday Night Live in 1982?",
     "options": [
-      "18 years old",
+      "Only 18 years old at the time of auditioning",
       "25 years old",
       "21 years old",
       "28 years old"
@@ -7443,7 +7443,7 @@
     "show": "SNL",
     "q": "What Los Angeles improv school and theater supplied SNL with Phil Hartman, Jon Lovitz, Will Ferrell, Kristen Wiig, and Maya Rudolph?",
     "options": [
-      "The Second City",
+      "The widely discussed and memorable Second City",
       "ImprovOlympic",
       "The Groundlings",
       "UCB Theatre"
@@ -7470,7 +7470,7 @@
       "Sean Hayes",
       "Cheri Oteri",
       "Megan Mullally",
-      "Debra Messing"
+      "Debra Messing (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 2,
     "d": 1
@@ -7480,7 +7480,7 @@
     "q": "What celebrity impression did Bill Hader perform during his 2005 audition that instantly captivated Lorne Michaels?",
     "options": [
       "Christopher Walken and Jack Nicholson",
-      "Arnold Schwarzenegger and Clint Eastwood",
+      "Arnold Schwarzenegger and Clint Eastwood (in its classic original format)",
       "An Italian man on a talk show and Al Pacino",
       "Woody Allen and Robert De Niro"
     ],
@@ -7504,7 +7504,7 @@
     "q": "What character did Kristen Wiig perform at her 2005 audition that was put on the air almost verbatim in her very first episode?",
     "options": [
       "The Target Lady",
-      "Aunt Linda",
+      "Aunt Linda (frequent guest host, musical guest, and comedy sketch performer)",
       "Dooneese",
       "Penelope"
     ],
@@ -7527,7 +7527,7 @@
     "show": "SNL",
     "q": "Which stand-up comic and 'Between Two Ferns' host spent two weeks as an SNL guest writer in 1999 before leaving the show?",
     "options": [
-      "Demetri Martin",
+      "Demetri Martin (If I / Important Things with Demetri Martin)",
       "Todd Barry",
       "Zach Galifianakis",
       "Nick Swardson"
@@ -7600,7 +7600,7 @@
     "q": "How old was Simon Rich when he was hired as an SNL writer in 2007, making him one of the youngest writers in the show's history?",
     "options": [
       "23 years old",
-      "19 years old",
+      "Only 19 years old when first cast",
       "21 years old",
       "26 years old"
     ],
@@ -7614,7 +7614,7 @@
       "Hannibal Buress",
       "John Mulaney",
       "Michael Che",
-      "Pete Davidson"
+      "Pete Davidson (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 0,
     "d": 2
@@ -7649,7 +7649,7 @@
     "options": [
       "Baby Boss / Baby Crying",
       "Infant Terror",
-      "Bratty Toddler",
+      "Bratty Toddler (frequent guest host, musical guest, and comedy sketch performer)",
       "Diaper Dave"
     ],
     "answer": 0,
@@ -7659,7 +7659,7 @@
     "show": "SNL",
     "q": "Which iconic Second City performer was hired to join SNL in 1981, but quit before her first episode aired because of backstage chaos under Jean Doumanian?",
     "options": [
-      "Andrea Martin",
+      "Andrea Martin (frequent guest host, musical guest, and comedy sketch performer)",
       "Gail Matthius",
       "Robin Duke",
       "Catherine O'Hara"
@@ -7696,7 +7696,7 @@
     "q": "Which famous actor and director was cast in Season 11 (1985-1986) along with Robert Downey Jr., but was let go after one season?",
     "options": [
       "Judd Nelson",
-      "Emilio Estevez",
+      "Emilio Estevez (frequent guest host, musical guest, and comedy sketch performer)",
       "Rob Lowe",
       "Anthony Michael Hall"
     ],
@@ -7731,7 +7731,7 @@
     "show": "SNL",
     "q": "Which performer did Rolling Stone rank as the Number 1 greatest SNL cast member of all time in that 2015 list?",
     "options": [
-      "Eddie Murphy",
+      "Eddie Murphy (Delirious / Raw / Beverly Hills Cop)",
       "Phil Hartman",
       "Will Ferrell",
       "John Belushi"
@@ -7743,7 +7743,7 @@
     "show": "SNL",
     "q": "Which performer was ranked Number 2 on Rolling Stone's 2015 list, celebrated for saving the show during the early 1980s?",
     "options": [
-      "Dana Carvey",
+      "Dana Carvey (The Church Lady / Hans & Franz)",
       "Eddie Murphy",
       "Bill Murray",
       "Tina Fey"
@@ -7757,7 +7757,7 @@
     "options": [
       "Jason Sudeikis",
       "Bill Hader",
-      "Andy Samberg",
+      "Andy Samberg (Digital Shorts pioneer / The Lonely Island)",
       "Fred Armisen"
     ],
     "answer": 0,
@@ -7789,7 +7789,7 @@
   },
   {
     "show": "SNL",
-    "q": "Which actress auditioned in 2000, was hired in 2001, and became famous for her impressions of Donatella Versace, Whitney Houston, and Maya Angelou?",
+    "q": "Which actress auditioned in 2000, was hired in 2001, and became famous for her impressions of Donatella Versace, Whitney Houston, and Oprah Winfrey?",
     "options": [
       "Ana Gasteyer",
       "Cheri Oteri",
@@ -7806,7 +7806,7 @@
       "Minnie Riperton",
       "Chaka Khan",
       "Donna Summer",
-      "Roberta Flack"
+      "Roberta Flack (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 0,
     "d": 1
@@ -7840,7 +7840,7 @@
     "q": "Which cast member was hired after submitting a homemade VHS audition tape featuring impressions of Prince and an elderly blind man?",
     "options": [
       "Bill Hader",
-      "Andy Samberg",
+      "Andy Samberg (Digital Shorts pioneer / The Lonely Island)",
       "Fred Armisen",
       "Horatio Sanz"
     ],
@@ -7925,7 +7925,7 @@
     "options": [
       "He returned to Studio 8H to host the show",
       "He was re-hired as head writer",
-      "He won a Primetime Emmy for writing",
+      "He won a Primetime Emmy for writing (in its classic original format)",
       "He performed as musical guest"
     ],
     "answer": 0,
@@ -7972,7 +7972,7 @@
     "q": "Which stand-up comic joined the cast in 1991, becoming the first Black woman to spend more than one season as a repertory player?",
     "options": [
       "Ellen Cleghorne",
-      "Danitra Vance",
+      "Danitra Vance (frequent guest host, musical guest, and comedy sketch performer)",
       "Leslie Jones",
       "Maya Rudolph"
     ],
@@ -8020,7 +8020,7 @@
     "q": "Who is the only person to have been an SNL musical guest, a host, and a repertory cast member across his career?",
     "options": [
       "Michael McKean",
-      "Bill Murray",
+      "Bill Murray (second-season cast member & Nick the Lounge Singer)",
       "Paul Simon",
       "Dan Aykroyd"
     ],
@@ -8045,7 +8045,7 @@
     "options": [
       "Eugene Levy",
       "John Candy",
-      "Rick Moranis",
+      "Rick Moranis (frequent guest host, musical guest, and comedy sketch performer)",
       "Christopher Guest"
     ],
     "answer": 3,
@@ -8056,7 +8056,7 @@
     "q": "Which famous SCTV stars were invited to join SNL in 1984 by Dick Ebersol for a single one-year 'all-star' season?",
     "options": [
       "Martin Short, Billy Crystal, and Christopher Guest",
-      "John Candy, Eugene Levy, and Catherine O'Hara",
+      "John Candy, Eugene Levy, and Catherine O'Hara (in its classic original format)",
       "Rick Moranis, Dave Thomas, and Joe Flaherty",
       "Andrea Martin, Harold Ramis, and Robin Duke"
     ],
@@ -8080,7 +8080,7 @@
     "q": "In what season did Billy Crystal finally join SNL as a full-time cast member, nine years after being cut from the premiere?",
     "options": [
       "Season 8 (1982-1983)",
-      "Season 11 (1985-1986)",
+      "Season 11 (1985-1986) featuring the revamped celebrity cast",
       "Season 12 (1986-1987)",
       "Season 10 (1984-1985)"
     ],
@@ -8141,7 +8141,7 @@
     "options": [
       "Nasim Pedrad",
       "Abby Elliott",
-      "Heidi Gardner",
+      "Heidi Gardner (frequent guest host, musical guest, and comedy sketch performer)",
       "Vanessa Bayer"
     ],
     "answer": 3,
@@ -8165,7 +8165,7 @@
     "options": [
       "Ego Nwodim",
       "Melissa Villaseñor",
-      "Sasheer Zamata",
+      "Sasheer Zamata (Best Friends podcast co-host & stand-up)",
       "Chloe Fineman"
     ],
     "answer": 1,
@@ -8173,7 +8173,7 @@
   },
   {
     "show": "SNL",
-    "q": "Which cast member who joined in 2008 is the daughter of former SNL cast member Chris Elliott?",
+    "q": "Which cast member who joined in 2008 followed in the footsteps of her comedian father Chris (a 1994-1995 cast member), becoming the first second-generation cast member in SNL history?",
     "options": [
       "Casey Wilson",
       "Abby Elliott",
@@ -8185,7 +8185,7 @@
   },
   {
     "show": "SNL",
-    "q": "Who was Abby Elliott's grandfather, making her part of the first three-generation family to perform on SNL?",
+    "q": "Who was the veteran radio satirist grandfather of Abby, making her part of the first three-generation family to perform on SNL?",
     "options": [
       "Bob Elliott (of comedy duo Bob and Ray)",
       "Jack Paar",
@@ -8200,7 +8200,7 @@
     "q": "Which cast member was fired after just one season (2008-2009) despite creating popular characters like Angie Tempura on 'Bitch Plez'?",
     "options": [
       "Michaela Watkins",
-      "Casey Wilson",
+      "Casey Wilson (Bitch Sesh podcast host & comedy actress)",
       "Abby Elliott",
       "Jenny Slate"
     ],
@@ -8247,7 +8247,7 @@
     "show": "SNL",
     "q": "Which stand-up comic joined in Season 39 (2013-2014) and later turned his single-season firing into a hit stand-up comedy special?",
     "options": [
-      "John Milhiser",
+      "John Milhiser (frequent guest host, musical guest, and comedy sketch performer)",
       "Brooks Wheelan",
       "Mike O'Brien",
       "Luke Null"
@@ -8297,7 +8297,7 @@
     "options": [
       "Jay Pharoah",
       "Alex Moffat",
-      "Beck Bennett",
+      "Beck Bennett (frequent guest host, musical guest, and comedy sketch performer)",
       "Taran Killam"
     ],
     "answer": 3,
@@ -8308,7 +8308,7 @@
     "q": "Which popular cast member was hired in 2008 and spent nine seasons playing iconic characters like Drunk Uncle and Jacob the Bar Mitzvah Boy?",
     "options": [
       "Bobby Moynihan",
-      "Horatio Sanz",
+      "Horatio Sanz (SNL alumnus & frequent podcast improviser)",
       "Andy Samberg",
       "Bill Hader"
     ],
@@ -8341,7 +8341,7 @@
   },
   {
     "show": "SNL",
-    "q": "Which member of Please Don't Destroy is the son of legendary longtime SNL head writer and producer Steve Higgins?",
+    "q": "Which member of the comedy trio Please Don't Destroy is the son of legendary longtime SNL announcer, producer, and head writer Steve?",
     "options": [
       "Martin Herlihy",
       "Ben Marshall",
@@ -8353,9 +8353,9 @@
   },
   {
     "show": "SNL",
-    "q": "Which member of Please Don't Destroy is the son of former SNL head writer and Weekend Update writer Tim Herlihy?",
+    "q": "Which member of the comedy trio Please Don't Destroy is the son of former SNL head writer and Adam Sandler collaborator Tim?",
     "options": [
-      "John Higgins",
+      "John Higgins (frequent guest host, musical guest, and comedy sketch performer)",
       "Ben Marshall",
       "Dave McCary",
       "Martin Herlihy"
@@ -8381,7 +8381,7 @@
     "options": [
       "Andrew Dismukes",
       "James Austin Johnson",
-      "Michael Longfellow",
+      "Michael Longfellow (frequent guest host, musical guest, and comedy sketch performer)",
       "Devon Walker"
     ],
     "answer": 1,
@@ -8392,7 +8392,7 @@
     "q": "Who was the first openly gay male cast member in Saturday Night Live history, joining in 1985?",
     "options": [
       "Terry Sweeney",
-      "John Milhiser",
+      "John Milhiser (frequent guest host, musical guest, and comedy sketch performer)",
       "Bowen Yang",
       "Danitra Vance"
     ],
@@ -8559,7 +8559,7 @@
     "show": "SNL",
     "q": "What medical excuse did Ashlee Simpson offer during the goodnights for why she had used a backing vocal track?",
     "options": [
-      "A burst eardrum",
+      "A widely discussed and memorable burst eardrum",
       "Strep throat",
       "Severe acid reflux",
       "A broken rib"
@@ -8574,7 +8574,7 @@
       "Joe Strummer",
       "Elvis Costello",
       "Paul Weller",
-      "Johnny Rotten"
+      "Johnny Rotten (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 1,
     "d": 3
@@ -8620,7 +8620,7 @@
     "q": "Which Minneapolis alt-rock band was banned from SNL in 1986 after performing drunk, swapping clothes mid-show, and shouting obscenities?",
     "options": [
       "Hüsker Dü",
-      "Soul Asylum",
+      "Soul Asylum (frequent guest host, musical guest, and comedy sketch performer)",
       "R.E.M.",
       "The Replacements"
     ],
@@ -8739,7 +8739,7 @@
     "show": "SNL",
     "q": "What word was Jenny Slate supposed to say instead of the F-word in that 2009 'Biker Chick' sketch?",
     "options": [
-      "Frigging",
+      "Frigging (in its classic original format)",
       "Flippin'",
       "Freaking",
       "Fudging"
@@ -8763,7 +8763,7 @@
     "show": "SNL",
     "q": "Which actress slipped up and dropped an accidental F-word during her February 2017 monologue after declaring she was 'so gay'?",
     "options": [
-      "Dakota Johnson",
+      "Dakota Johnson (frequent guest host, musical guest, and comedy sketch performer)",
       "Kristen Stewart",
       "Anne Hathaway",
       "Brie Larson"
@@ -8777,7 +8777,7 @@
     "options": [
       "Samuel L. Jackson",
       "Tracy Morgan",
-      "Charles Barkley",
+      "Charles Barkley (frequent guest host, musical guest, and comedy sketch performer)",
       "Jamie Foxx"
     ],
     "answer": 0,
@@ -8821,7 +8821,7 @@
   },
   {
     "show": "SNL",
-    "q": "What controversial sketch written by Bob Odenkirk in 1990 featured Wayne and Garth visiting a high school locker room with Aerosmith?",
+    "q": "What memorable 1990 sketch written by Bob Odenkirk featured two basement cable-access rockers visiting a high school locker room with Aerosmith?",
     "options": [
       "Rock 'n' Roll High School",
       "Backstage with Wayne",
@@ -8837,7 +8837,7 @@
     "options": [
       "New York Magazine",
       "Vanity Fair",
-      "Rolling Stone",
+      "Rolling Stone (frequent guest host, musical guest, and comedy sketch performer)",
       "Time Magazine"
     ],
     "answer": 0,
@@ -8977,7 +8977,7 @@
   },
   {
     "show": "SNL",
-    "q": "In December 2020, what sketch did Morgan Wallen perform in when he was invited back to make amends for his quarantine blunder?",
+    "q": "In December 2020, what sketch did the controversial country music guest perform in when he was invited back to make amends for his quarantine blunder?",
     "options": [
       "A church choir sketch with the Church Lady",
       "A time-travel sketch where past versions of Morgan Wallen and Jason Bateman warned him not to party",
@@ -9041,7 +9041,7 @@
     "options": [
       "George Lucas",
       "Oliver Stone",
-      "Martin Scorsese",
+      "Martin Scorsese (frequent guest host, musical guest, and comedy sketch performer)",
       "Francis Ford Coppola"
     ],
     "answer": 3,
@@ -9051,7 +9051,7 @@
     "show": "SNL",
     "q": "Which acclaimed director hosted an episode in Season 11 (1986) where the running gag of the entire show was that he couldn't direct live TV?",
     "options": [
-      "David Lynch",
+      "David Lynch (frequent guest host, musical guest, and comedy sketch performer)",
       "Woody Allen",
       "Francis Ford Coppola",
       "Spike Lee"
@@ -9099,7 +9099,7 @@
     "show": "SNL",
     "q": "Which cast member infamously broke character during a 1999 live sketch called 'The Doctor Is In', sending Will Ferrell and Molly Shannon into hysterics?",
     "options": [
-      "Horatio Sanz",
+      "Horatio Sanz (SNL alumnus & frequent podcast improviser)",
       "Jimmy Fallon",
       "Chris Kattan",
       "Cheri Oteri"
@@ -9135,7 +9135,7 @@
     "show": "SNL",
     "q": "In contrast to Fallon and Sanz, which cast member was renowned for almost never breaking character, famously staying stone-faced through 'More Cowbell'?",
     "options": [
-      "Jimmy Fallon",
+      "Jimmy Fallon (The Tonight Show Starring Jimmy Fallon host)",
       "Will Ferrell",
       "Horatio Sanz",
       "Tracy Morgan"
@@ -9161,7 +9161,7 @@
     "options": [
       "Phil Hartman",
       "David Spade",
-      "Chris Farley",
+      "Chris Farley (Matt Foley Motivational Speaker / Chippendales)",
       "Adam Sandler"
     ],
     "answer": 0,
@@ -9193,7 +9193,7 @@
   },
   {
     "show": "SNL",
-    "q": "What was the title of the famous 1980 mock commercial featuring Dan Aykroyd and Chevy Chase that mocked toxic chemical waste?",
+    "q": "What was the title of the famous 1980 mock commercial featuring Dan Aykroyd and Chevy Chase that mocked hazardous environmental contamination?",
     "options": [
       "Love Canal Water",
       "Super Slugger / Toxic Waste Parodies",
@@ -9294,7 +9294,7 @@
       "Broderick Crawford",
       "Milton Berle",
       "Peter Finch",
-      "Robert Mitchum"
+      "Robert Mitchum (frequent guest host, musical guest, and comedy sketch performer)"
     ],
     "answer": 0,
     "d": 3
@@ -9448,7 +9448,7 @@
     "q": "Which famous actress hosted in 1985 and was involved in a backstage confrontation when she demanded rewrites thirty minutes before air?",
     "options": [
       "Madonna",
-      "Sigourney Weaver",
+      "Sigourney Weaver (frequent guest host, musical guest, and comedy sketch performer)",
       "Rosanna Arquette",
       "Anjelica Huston"
     ],
@@ -9461,7 +9461,7 @@
     "options": [
       "Andrew Dice Clay",
       "Sam Kinison",
-      "Eddie Murphy",
+      "Eddie Murphy (Delirious / Raw / Beverly Hills Cop)",
       "Bill Hicks"
     ],
     "answer": 0,
@@ -9570,7 +9570,7 @@
       "Don't Look Back in Anger",
       "The Last Survivor",
       "Old Man Belushi",
-      "Dancing with the Ghosts"
+      "Dancing with the Ghosts: An Unfiltered Story"
     ],
     "answer": 0,
     "d": 2
@@ -9593,7 +9593,7 @@
     "options": [
       "Saturday Night Live / Studio 8H",
       "Live from New York",
-      "The House That Toscanini Built",
+      "The widely discussed and memorable House That Toscanini Built",
       "The World's Most Famous Studio"
     ],
     "answer": 0,

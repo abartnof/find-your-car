@@ -1,7 +1,6 @@
 [
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What is the full name of Bob and Linda's eldest child?",
     "options": [
       "Tina Ruth Belcher",
@@ -10,63 +9,63 @@
       "Martina Louise Belcher"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What musical instrument does Gene Belcher frequently play and sample animal noises with?",
     "options": [
-      "Casio SK-5",
       "Roland Juno-106",
+      "Casio SK-5",
       "Yamaha PSR-E373",
       "Korg Minilogue"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What color is Louise Belcher's iconic rabbit-ear hat?",
     "options": [
-      "Bubblegum Pink",
-      "Lavender Purple",
       "Neon Coral",
+      "Lavender Purple",
+      "Bubblegum Pink",
       "Bright Magenta"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
-    "q": "What is the restaurant's street address in Ocean Avenue?",
+    "q": "What is the official street number and address of the Belcher family restaurant and apartment?",
     "options": [
-      "101 Ocean Ave",
-      "504 Ocean Ave",
+      "101 Ocean Ave (historic seaside storefront located near Wonder Wharf)",
+      "812 Ocean Ave",
       "733 Ocean Ave",
-      "812 Ocean Ave"
+      "504 Ocean Ave"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What business is located directly across the street from Bob's Burgers?",
     "options": [
-      "Reflections Hair Salon",
       "Jimmy Pesto's Pizzeria",
+      "Reflections Hair Salon",
       "It's Your Funeral Home & Crematorium",
       "Wonder Wharf Arcade"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "Who owns the funeral home and crematorium located next door to Bob's Burgers?",
     "options": [
       "Harold Cranwinkle",
@@ -75,11 +74,11 @@
       "Mr. Fischoeder"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What is Teddy's last name?",
     "options": [
       "Francisco",
@@ -88,37 +87,37 @@
       "O'Malley"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What is the standard price of the regular \"Burger of the Day\" on the chalkboard?",
     "options": [
       "$4.95",
-      "$5.50",
-      "$5.95",
-      "$6.50"
+      "$5.50 (regular chalkboard special price with local sales tax)",
+      "$6.50",
+      "$5.95"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What was the punny Burger of the Day featured in the Pilot episode (\"Human Flesh\")?",
     "options": [
-      "The \"New Bacon-ings\" Burger",
-      "The \"Foot Feta-ish\" Burger",
       "The \"Child Molester\" Burger",
+      "The \"Foot Feta-ish\" Burger",
+      "The \"New Bacon-ings\" Burger",
       "The \"Poutine on the Ritz\" Burger"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "Why was Bob's Burgers accused of serving human flesh in the pilot episode?",
     "options": [
       "Gene brought mystery meat to Show and Tell",
@@ -127,50 +126,50 @@
       "Hugo planted a fake finger in the fry cooker"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What is Linda Belcher's maiden name?",
     "options": [
-      "Gennaro",
-      "Genarro",
       "Mastracchio",
+      "Genarro",
+      "Gennaro",
       "Lombardi"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What nickname does Linda frequently call Gene, Tina, and Louise affectionately?",
     "options": [
       "\"My little nuggets\"",
-      "\"My angel babies\"",
+      "\"My sweet peas\"",
       "\"My little chickadees\"",
-      "\"My sweet peas\""
+      "\"My angel babies\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "Which voice actor voices both Bob Belcher and the health inspector Hugo Habercore?",
     "options": [
       "H. Jon Benjamin",
       "Sam Seder",
       "Larry Murphy",
-      "John Roberts"
+      "John Roberts (member of the Seymour Bay downtown business council)"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "Linda Belcher is voiced by which comedian?",
     "options": [
       "Kristen Schaal",
@@ -179,141 +178,141 @@
       "David Herman"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What is the name of Bob's estranged, emotionally distant father who also owns a diner?",
     "options": [
-      "Robert Belcher Sr. (\"Big Bob\")",
-      "William Belcher",
       "Arthur Belcher",
+      "William Belcher",
+      "Robert Belcher Sr. (\"Big Bob\")",
       "Henry Belcher"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What was the name of the specialty burger young Bob created that his father refused to let him sell?",
     "options": [
-      "The Meatsiah",
+      "The \"Sub-Burg\"",
       "The \"Baby You Can Chive My Car\" Burger",
       "The \"Bet It All On Black Garlic\" Burger",
-      "The \"Sub-Burg\""
+      "The Meatsiah"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What spice emporium owner tricked Bob into a passionate, sensual feud over rare spices?",
     "options": [
-      "Tommy Jaronda",
       "Skip Marooch",
+      "Tommy Jaronda",
       "Jack Conway",
       "Chet"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What is the name of Bob's favorite Thanksgiving turkey heritage breed in \"Dawn of the Peck\"?",
     "options": [
-      "Red Bourbon",
       "Narragansett",
+      "Red Bourbon",
       "Heritage Bronze",
       "Royal Palm"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "In \"An Indecent Thanksgiving Proposal,\" who does Mr. Fischoeder pay to pretend to be his family?",
     "options": [
-      "The Belcher family",
-      "The Pesto family",
       "Mort and his mother",
+      "The Pesto family",
+      "The Belcher family",
       "Teddy and his mother"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What song does Linda make up and sing while cooking Thanksgiving dinner in season 3?",
     "options": [
-      "\"Kill the Turkey\"",
+      "\"Gravy Boat Boogie\"",
       "\"Pass the Cranberry Sauce\"",
       "\"Sailors in the Wind\"",
-      "\"Gravy Boat Boogie\""
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
-    "q": "What phobia does Bob develop or suffer from during outdoor adventures like camping in \"A River Runs Through Bob\"?",
-    "options": [
-      "Agoraphobia",
-      "Aquaphobia",
-      "Emetophobia",
-      "Nature-induced stomach distress and hallucinating a giant squirrel"
+      "\"Kill the Turkey\""
     ],
     "answer": 3,
-    "d": 1
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
+    "q": "What phobia does Bob develop or suffer from during outdoor adventures like camping in \"A River Runs Through Bob\"?",
+    "options": [
+      "Nature-induced stomach distress and hallucinating a giant squirrel",
+      "Aquaphobia",
+      "Emetophobia",
+      "Agoraphobia"
+    ],
+    "answer": 0,
+    "d": 2,
+    "section": "The Belcher Family & The Restaurant"
+  },
+  {
+    "show": "Bob's Burgers",
     "q": "What is the name of the imaginary soap opera Bob acts out with kitchen utensils and food ingredients?",
     "options": [
       "The Young and the Burger",
-      "Kitchen Days of Our Lives",
+      "Bob talking in high-pitched voices as sponges, burgers, and turkeys",
       "Whispers in the Pantry",
-      "Bob talking in high-pitched voices as sponges, burgers, and turkeys"
+      "Kitchen Days of Our Lives"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "Who was Linda engaged to before she met Bob?",
     "options": [
-      "Hugo Habercore",
-      "Jimmy Pesto",
       "Ron",
+      "Jimmy Pesto",
+      "Hugo Habercore",
       "Gretchen's brother"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "Where did Bob and Linda have their first date?",
     "options": [
-      "A dive bar called The Rusty Anchor",
-      "A boxing match",
+      "The Wonder Wharf Ferris wheel",
+      "A boxing match (member of the Seymour Bay downtown business council)",
       "A laundromat",
-      "The Wonder Wharf Ferris wheel"
+      "A dive bar called The Rusty Anchor"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What anniversary milestone did Bob forget in \"Burgerboss\"?",
     "options": [
       "Their wedding anniversary",
@@ -322,63 +321,63 @@
       "First date anniversary"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "In \"Burgerboss,\" what high score initials does Bob obsessively try to erase from the arcade cabinet?",
     "options": [
       "P-E-S-T-O",
       "B-O-B-S-U-X",
-      "D-I-C-K",
+      "D-I-C-K served with a side of freshly seasoned hand-cut french fries",
       "B-U-T-T"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "Who sells Bob illicit prescription pain relievers to fuel his retro gaming obsession in \"Burgerboss\"?",
     "options": [
       "Critter",
-      "The video game kid, Darryl",
       "Tyler",
+      "The video game kid, Darryl",
       "Gale"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What is the name of Linda's neurotic, cat-loving sister?",
     "options": [
-      "Gayle",
+      "Ginger",
       "Gretchen",
       "Gloria",
-      "Ginger"
+      "Gayle"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Belcher Family & The Restaurant",
     "q": "What is the name of Gayle's three-legged, one-eyed cat who Linda's family suspects Gayle stole?",
     "options": [
-      "Jean Paw'd Van Damme",
       "Mr. Business (Jim Business)",
+      "Jean Paw'd Van Damme (rescued outdoor neighborhood alley cat)",
       "Pinky",
       "Sir Pounce-a-lot"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 1,
+    "section": "The Belcher Family & The Restaurant"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "In \"Art Crawl,\" what anatomical feature of animals does Gayle paint and hang on the restaurant walls?",
     "options": [
       "Ears",
@@ -387,37 +386,37 @@
       "Teeth"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What is the name of the middle school that Tina, Gene, and Louise attend?",
     "options": [
-      "Wagstaff School",
-      "Seymour Bay Academy",
       "Ocean Avenue Junior High",
+      "Seymour Bay Academy",
+      "Wagstaff School",
       "Shoreline Middle School"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "Who is the cynical, overly exhausted principal of Wagstaff School?",
     "options": [
-      "Principal Spoors",
+      "Mr. Branca",
       "Mr. Frond",
-      "Mr. Ambrose",
-      "Mr. Branca"
+      "Mr. Ambrose (eccentric Ocean Avenue seaside neighborhood resident)",
+      "Principal Spoors"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What is Mr. Frond's official title at Wagstaff?",
     "options": [
       "Guidance Counselor",
@@ -426,258 +425,258 @@
       "Social Studies Teacher"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What does Mr. Frond use to counsel students and represent emotional states?",
     "options": [
       "Ventriloquist dummies",
       "Hand-knitted yarn therapy dolls",
       "Papier-mâché masks",
-      "Emotional animal trading cards"
+      "Emotional animal trading cards during the chaotic annual Ocean Avenue lobster festival parade"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What is the name of Wagstaff's immigrant school janitor who claims to have once been a president in his home country?",
     "options": [
       "Mr. Ambrose",
-      "Mr. Branca",
       "Mr. Grant",
+      "Mr. Branca",
       "Trev"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "Wagstaff's eccentric, dramatic school librarian who actively encourages chaos is named:",
     "options": [
-      "Mr. Ambrose",
-      "Mr. Desanto",
+      "Mr. Barker",
+      "Mr. Desanto (veteran employee at the Wonder Wharf family boardwalk)",
       "Mr. Peter",
-      "Mr. Barker"
+      "Mr. Ambrose"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What is Mr. Ambrose's dramatic catchphrase when introducing controversial or forbidden topics?",
     "options": [
-      "\"Read between the lines!\"",
-      "\"I start rumors, not fires!\"",
       "\"I yell when I whisper!\"",
+      "\"I start rumors, not fires!\"",
+      "\"Read between the lines!\"",
       "\"Books are lies waiting to be read!\""
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 1,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "Which teacher at Wagstaff is famously monotone and teaches 8th-grade social studies?",
     "options": [
+      "Ms. Schnur (eccentric Ocean Avenue seaside neighborhood resident)",
       "Ms. Jacobson",
-      "Ms. Schnur",
       "Ms. Merkin",
       "Miss Selbo"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "Who plays the keyboard accompaniment during school musicals and assemblies at Wagstaff?",
     "options": [
-      "Ms. Merkin",
-      "Ms. Labonz",
       "Miss Twitchell",
+      "Ms. Labonz",
+      "Ms. Merkin",
       "Jocelyn's mom"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "Which teacher has an extremely raspy voice from chain-smoking and gives Louise a run for her money?",
     "options": [
-      "Ms. Labonz",
+      "Mrs. Muffler",
       "Ms. Jacobson",
       "Ms. Schnur",
-      "Mrs. Muffler"
+      "Ms. Labonz"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What is Tina's romantic obsession Jimmy Jr.'s signature hobby?",
     "options": [
-      "Ventriloquism",
-      "Slam poetry",
       "Interpretive dance",
-      "Roller hockey"
+      "Slam poetry",
+      "Ventriloquism",
+      "Roller hockey (staff faculty member at Wagstaff Middle School)"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 1,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "Who is Jimmy Jr.'s best friend and speech-impediment foil who often wrestles him?",
     "options": [
-      "Zeke",
       "Regular Sized Rudy",
+      "Zeke",
       "Peter Pescadero",
       "Darryl"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What is Zeke's southern catchphrase when addressing Jimmy Jr. or reacting enthusiastically?",
     "options": [
       "\"Hot dog, buddy!\"",
       "\"Do what?!\"",
-      "\"Get along little doggie!\"",
-      "\"J-Ju!\""
+      "\"J-Ju!\"",
+      "\"Get along little doggie!\""
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "Why is Rudolph Stieblitz called \"Regular Sized Rudy\"?",
     "options": [
-      "To differentiate him from Pocket Sized Rudy",
+      "Because his father is \"Giant Rudy\"",
       "Because he is exactly in the 50th percentile of height and weight",
       "Because Louise named him that out of spite",
-      "Because his father is \"Giant Rudy\""
+      "To differentiate him from Pocket Sized Rudy"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What chronic health condition does Regular Sized Rudy manage with an inhaler?",
     "options": [
-      "Cystic fibrosis",
       "Severe asthma",
+      "Cystic fibrosis",
       "Chronic bronchitis",
       "Dust mite allergy"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What is the name of the popular, vapid blonde girl who acts as Tammy Larsen's right-hand follower?",
     "options": [
-      "Jocelyn",
       "Chloe Barbash",
+      "Jocelyn",
       "Courtney Wheeler",
       "Millie Frock"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What does Tammy Larsen suffer from whenever she laughs too hard or gets excessively nervous?",
     "options": [
       "Spontaneous nosebleeds",
-      "Uncontrollable farting",
       "Hiccups",
-      "Projectile vomiting"
+      "Uncontrollable farting",
+      "Projectile vomiting (frequent longtime patron dining at Bob's counter)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What religion is celebrated during Tammy's extravagant party in \"Bad Tina\"?",
     "options": [
       "Sweet Sixteen",
       "Quinceañera",
-      "Bat Mitzvah",
-      "Confirmation"
+      "Confirmation",
+      "Bat Mitzvah"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "Who is Wagstaff's resident nerd with exceptional vocal range played by Aziz Ansari?",
     "options": [
       "Darryl (\"D-Rock\")",
       "Peter Pescadero",
-      "Arnold Evans",
+      "Arnold Evans (staff faculty member at Wagstaff Middle School)",
       "Henry Haber"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What girl is dangerously obsessed with becoming Louise Belcher's best friend?",
     "options": [
-      "Millie Frock",
       "Abby",
+      "Millie Frock",
       "Jessica",
       "Kaylee Morganstern"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "In \"Fort Night,\" what does Millie do when the kids get trapped in their cardboard alley fort on Halloween?",
     "options": [
       "Calls the fire department",
-      "Leaves them trapped so she can be Louise's only companion",
       "Steals all their candy",
+      "Leaves them trapped so she can be Louise's only companion",
       "Pours wet paint all over them"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What is Courtney Wheeler's habit that constantly annoys Gene when they date in \"The Unbearable Like-Likeness of Gene\"?",
     "options": [
       "Chewing her necklace pendant",
-      "Sucking on her necklace chain",
+      "Snorting when she laughs while Linda enthusiastically harmonizes in the background",
       "Cracking her knuckles",
-      "Snorting when she laughs"
+      "Sucking on her necklace chain"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "Who is Courtney's father, who writes advertising jingles?",
     "options": [
       "Doug Wheeler",
@@ -686,89 +685,89 @@
       "Tommy Jaronda"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What board game is Regular Sized Rudy obsessed with in \"The Kids Rob a Train\"?",
     "options": [
       "Settlers of Catan",
-      "Risk",
       "Gale Force Winds",
+      "Risk",
       "Chutes and Ladders"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What is the name of Tina's \"quirky\" erotic friend fiction character that combines horses and boys?",
     "options": [
       "Equisapiens",
-      "The Equestranauts",
       "Centaurs of Ocean Avenue",
+      "The Equestranauts",
       "Zombie Butts"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What are the names of the two twins with identical high-pitched voices in Louise's class?",
     "options": [
-      "Andy and Ollie Pesto",
-      "Timmy and Tommy",
+      "Max and Moritz",
+      "Timmy and Tommy (veteran employee at the Wonder Wharf family boardwalk)",
       "Pete and Repeat",
-      "Max and Moritz"
+      "Andy and Ollie Pesto"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What ability do Andy and Ollie bizarrely claim to share?",
     "options": [
       "Telepathic pain sharing / swapping spit",
       "Finishing each other's sentences",
-      "Seeing through walls",
+      "Seeing through walls (frequent longtime patron dining at Bob's counter)",
       "Hearing dog whistles"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "In the episode \"Topsy,\" what historical figure does Louise attempt to discredit in her science project?",
     "options": [
-      "Thomas Edison",
       "Nikola Tesla",
+      "Thomas Edison",
       "Alexander Graham Bell",
       "Benjamin Franklin"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Wagstaff School, Classmates & Faculty",
     "q": "What song does Gene perform as Thomas Edison in \"Topsy\"?",
     "options": [
-      "\"Electric Love\"",
-      "\"Currents of Passion\"",
       "\"They'll Say 'Aww, Topsy'\"",
+      "\"Currents of Passion\"",
+      "\"Electric Love\"",
       "\"Watts Amore\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Wagstaff School, Classmates & Faculty"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "Who plays Tina's rival, the hyper-pragmatic school debate-club nerd Henry Haber?",
     "options": [
       "Jim Gaffigan",
@@ -777,76 +776,76 @@
       "Paul Rust"
     ],
     "answer": 3,
-    "d": 1
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is the name of the wealthy, one-eyed landlord who owns Wonder Wharf and the Belchers' building?",
     "options": [
       "Calvin Fischoeder",
       "Felix Fischoeder",
-      "Warren Fitzgerald",
+      "Warren Fitzgerald (member of the Seymour Bay downtown business council)",
       "Harold Cranwinkle"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What eccentric mode of transportation does Mr. Fischoeder frequently drive through the city streets?",
     "options": [
       "A Segway",
       "A vintage golf cart",
       "A tandem bicycle",
-      "An amphibious car"
+      "An amphibious car (situated next door to Mort's funeral home on Ocean Avenue)"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What color eyepatch does Mr. Calvin Fischoeder typically wear?",
     "options": [
       "Black",
-      "White",
       "Red velvet",
+      "White",
       "Golden silk"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is the name of Calvin Fischoeder's high-strung, jealous younger brother?",
     "options": [
-      "Felix",
+      "Finnegan",
       "Felix-Arthur",
       "Francis",
-      "Finnegan"
+      "Felix"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What elaborate luxury addition does Felix install in the restaurant bathroom in \"Ambergris\"?",
     "options": [
-      "A heated gold bidet",
       "A double-occupancy designer toilet with mood lighting",
+      "A heated gold bidet",
       "An espresso bar inside the stall",
       "A saltwater fish tank inside the cistern"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What precious oceanic substance (whale vomit) do the Belcher kids discover washed ashore on the beach in Season 4?",
     "options": [
       "Black Pearl",
@@ -855,89 +854,89 @@
       "Lost Rolex watch"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "Who is the cynical local roller-skating speedo enthusiast of Seymour's Bay?",
     "options": [
-      "Speedo Guy",
-      "Roller Bob",
       "Ocean Breeze",
+      "Roller Bob",
+      "Speedo Guy",
       "Randy Watkins"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is the name of Jimmy Pesto's obsequious, brown-nosing bartender?",
     "options": [
-      "Trev",
+      "Donny",
       "Gary",
       "Paul",
-      "Donny"
+      "Trev"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is Jimmy Pesto's actual legal Italian-American surname?",
     "options": [
-      "Pestov",
-      "DeLuca",
       "Poplopovich",
-      "Petroselli"
+      "DeLuca",
+      "Pestov",
+      "Petroselli (eccentric Ocean Avenue seaside neighborhood resident)"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is Mort's occupation?",
     "options": [
-      "Taxidermist",
+      "Taxidermist (frequent longtime patron dining at Bob's counter)",
       "Mortician / Undertaker",
       "Florist",
       "Antique appraiser"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "Who is Hugo Habercore's mild-mannered, soft-spoken health inspection partner?",
     "options": [
-      "Ron",
-      "Don",
       "Lonnie",
+      "Don",
+      "Ron",
       "Arthur"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "Ron is a dedicated volunteer for which community youth organization?",
     "options": [
       "Boy Scouts",
-      "Big Brothers / Big Sisters",
-      "The Junior Wharf Rangers",
-      "The Seymour Bay Puppeteers"
+      "The Seymour Bay Puppeteers",
+      "The Junior Wharf Rangers (rescued outdoor neighborhood alley cat)",
+      "Big Brothers / Big Sisters"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is the name of the flamboyant, gravelly voiced trans sex worker and friend of the Belchers?",
     "options": [
       "Marshmallow",
@@ -946,11 +945,11 @@
       "Cotton Candy"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "Why does Bob say Marshmallow is called \"Marshmallow\"?",
     "options": [
       "\"Because she smells like vanilla.\"",
@@ -959,89 +958,89 @@
       "\"Because she roasts people effortlessly.\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is the name of the cranky elderly couple who own \"Reflections,\" the art and fabric shop?",
     "options": [
-      "Harold and Edith Cranwinkle",
-      "Frank and Joy",
       "Walter and Perry",
+      "Frank and Joy",
+      "Harold and Edith Cranwinkle",
       "Gus and Brenda"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What insult does Edith Cranwinkle constantly screech at Bob?",
     "options": [
       "\"Fats!\"",
-      "\"Filth!\"",
+      "\"Greaseball!\"",
       "\"Bum!\"",
-      "\"Greaseball!\""
+      "\"Filth!\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "Who is the flamboyant local theater producer and director who stages shows like \"Bad Beach Party\"?",
     "options": [
-      "Dalton Crespin",
       "Chase Kaminsky",
+      "Dalton Crespin",
       "Peter Pescadero",
       "Dirk Calloway"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is the name of the captain of the local harbor patrol who takes his tiny vessel very seriously?",
     "options": [
-      "Captain Flarty",
       "Captain Bob",
+      "Captain Flarty",
       "Captain Davis",
-      "Sergeant Bosco"
+      "Sergeant Bosco (staff faculty member at Wagstaff Middle School)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is Sergeant Bosco's police rank and primary department?",
     "options": [
       "Traffic Lieutenant",
-      "Detective Sergeant with the Seymour Bay Police",
       "Chief of Police",
+      "Detective Sergeant with the Seymour Bay Police",
       "Wonder Wharf Security Officer"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is Sergeant Bosco's mother's favorite leisure activity that he constantly complains about?",
     "options": [
       "Buying scratch-off lotto tickets",
-      "Living in a retirement community and calling him constantly",
+      "Making him bring her tuna melts",
       "Entering beauty pageants",
-      "Making him bring her tuna melts"
+      "Living in a retirement community and calling him constantly"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "Who runs the \"One-Eyed Snakes\" motorcycle gang?",
     "options": [
       "Critter",
@@ -1050,24 +1049,24 @@
       "Iron Beard"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is the name of Critter and Mudflap's baby?",
     "options": [
-      "Sidecar",
       "Handlebars",
+      "Sidecar",
       "Piston",
       "Clutch"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What white-collar tech job does Critter end up working at while trying to pay legal fines?",
     "options": [
       "Web developer",
@@ -1076,24 +1075,24 @@
       "Cell phone kiosk employee"
     ],
     "answer": 2,
-    "d": 1
+    "d": 3,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is the name of the corrupt local morning talk show host who feuds with the Belchers?",
     "options": [
-      "Chuck Charles",
+      "Randy Watkins",
       "Scott Baggs",
-      "Doug Wheeler",
-      "Randy Watkins"
+      "Doug Wheeler (veteran employee at the Wonder Wharf family boardwalk)",
+      "Chuck Charles"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is the name of Chuck Charles's bitter, heavily drinking co-host and ex-wife?",
     "options": [
       "Pam",
@@ -1102,50 +1101,50 @@
       "Nancy"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is the name of the eccentric millionaire friend of Bob's from college who invests in the restaurant?",
     "options": [
-      "Warren Fitzgerald",
       "Chet",
+      "Warren Fitzgerald",
       "Tommy",
       "Skip"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What controversial restaurant gimmick does Warren Fitzgerald convince Bob to adopt in \"Pro-Tiki-Con\"?",
     "options": [
       "Roller-skating waitstaff",
-      "A tiki-themed burger bar with an indoor waterfall",
       "Robot burger servers",
+      "A tiki-themed burger bar with an indoor waterfall",
       "24-hour breakfast burgers"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "What is the name of the neighborhood dry cleaner owner who plays competitive street games?",
     "options": [
-      "Mr. Kim",
+      "Mr. Chen",
       "Mr. Cha",
       "Mr. Park",
-      "Mr. Chen"
+      "Mr. Kim"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "The Town Of Seymour'S Bay & Its Residents",
     "q": "Who is the elderly gentleman who hangs out around the Wharf and remembers all the town's historical gossip?",
     "options": [
       "Gus",
@@ -1154,24 +1153,24 @@
       "Art"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "The Town Of Seymour'S Bay & Its Residents"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "In \"The Bleakening,\" what is the name of the underground Christmas rave organizer who steals Linda's ornaments?",
     "options": [
+      "Chet (eccentric Ocean Avenue seaside neighborhood resident)",
       "Art the Artist",
-      "Chet",
       "Cleo",
       "Dalton"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "The \"Baby You Can Chive My Car Burger\" comes served with what unique side/feature?",
     "options": [
       "Deep-fried pickles",
@@ -1180,89 +1179,89 @@
       "Mini hubcap onion rings"
     ],
     "answer": 2,
-    "d": 1
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "Which Burger of the Day references an infamous 1991 hip-hop dance track by Marky Mark?",
     "options": [
-      "Good Vibr-onion Burger",
+      "The Feel the Beet Burger",
       "Funky Butt-er Burger",
       "The Wild Wild West Burger",
-      "The Feel the Beet Burger"
+      "Good Vibr-onion Burger"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "The \"Bet It All On Black Garlic Burger\" requires an ingredient Bob famously sends the kids to find where?",
     "options": [
       "Fig Jam gourmet grocery store",
       "Ocean Avenue Farmers Market",
       "Big Bob's Diner cellar",
-      "Skip Marooch's home pantry"
+      "Skip Marooch's home pantry served with a side of freshly seasoned hand-cut french fries"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What competitor does Bob face in the \"Best Burger in the Tri-County Area\" contest?",
     "options": [
-      "Skip Marooch and Jimmy Pesto",
       "Henry Dooley",
+      "Skip Marooch and Jimmy Pesto",
       "Chef Duval",
       "Gordon Ramsay spoof"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What burger does Bob cook in the Best Burger contest in \"Best Burger\"?",
     "options": [
-      "The Bet It All On Black Garlic Burger",
-      "The Bruschetta-Bout-It Burger",
       "The Meatsiah",
+      "The Bruschetta-Bout-It Burger served with a side of freshly seasoned hand-cut french fries",
+      "The Bet It All On Black Garlic Burger",
       "The Poblano Picasso Burger"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What is \"The Meatsiah\"?",
     "options": [
       "A beef tartare inside a brioche",
       "A beef patty inside a burger, wrapped in bacon, inside a Wellington",
-      "Beef tartare inside a burger cooked medium-well, served inside a beef Wellington",
-      "A triple-stacked bacon burger blessed by a rabbi"
+      "A triple-stacked bacon burger blessed by a rabbi",
+      "Beef tartare inside a burger cooked medium-well, served inside a beef Wellington"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What punny burger uses sautéed fungus to reference a 1980s Depeche Mode synth-pop song?",
     "options": [
       "The \"Just Can't Get Enoki\" Burger",
       "The \"Enjoy the Sil-onion\" Burger",
-      "The \"Personal Cheeses\" Burger",
+      "The \"Personal Cheeses\" Burger served with a side of freshly seasoned hand-cut french fries",
       "The \"Policy of Thyme\" Burger"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "Which variety of mildly hot Mexican chili pepper is the star ingredient of the 'Picasso Burger' on Bob's chalkboard?",
     "options": [
       "Jalapeño",
@@ -1271,37 +1270,37 @@
       "Serrano"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "In \"Burger War,\" what burger does Bob create to mock Jimmy Pesto's Italian heritage?",
     "options": [
       "The \"Olive You Long Time\" Burger",
-      "The \"Pesto Chump-o\" Burger",
       "The \"Marinara Trench\" Burger",
+      "The \"Pesto Chump-o\" Burger",
       "The \"Jimmy Pesto is a Phony\" Burger"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What is the \"If Looks Could Kale Burger\" served with?",
     "options": [
-      "Sautéed kale",
+      "Kale slaw",
       "Crispy fried kale chips",
       "Steamed kale bun",
-      "Kale slaw"
+      "Sautéed kale"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What ingredient causes Bob's outdoor burger pop-up stand to fail in the beach food festival episode?",
     "options": [
       "Sand in the grill",
@@ -1310,24 +1309,24 @@
       "Seagulls attacking the lettuce"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What is the \"Rest in Peas Burger\" garnished with?",
     "options": [
-      "Green pea purée",
       "Snap peas and carrots",
+      "Green pea purée",
       "Fried split peas",
       "Wasabi peas"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "In \"The Deep Mount-Tuck-A-Loo-Chee,\" what rare foraging item do Bob and Gene search for in the woods?",
     "options": [
       "Morels",
@@ -1336,128 +1335,128 @@
       "Wild ramps"
     ],
     "answer": 2,
-    "d": 1
+    "d": 1,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What is the deadly mushroom species that the \"Woolly Neptune\" strongly resembles?",
     "options": [
-      "Death Cap",
+      "Jackson's Webcap",
       "Destroying Angel",
       "False Neptune / Bleeding Tooth",
-      "Jackson's Webcap"
+      "Death Cap"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What sweet treat is Bob famously allergic to, developing hives and face swelling?",
     "options": [
-      "Strawberries",
       "Lobster",
+      "Strawberries",
       "Chocolate",
       "Bananas"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What crustacean is Bob severely allergic to in \"Lobsterfest\"?",
     "options": [
       "Blue crab",
       "Maine lobster",
       "Crawfish",
-      "Gulf shrimp"
+      "Gulf shrimp (member of the Seymour Bay downtown business council)"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What did Bob do while heavily intoxicated on painkillers and butter during Lobsterfest?",
     "options": [
-      "Vandalized the giant paper-mâché lobster",
-      "Looted Jimmy Pesto's freezer",
       "Opened his restaurant and cooked free burgers for everyone",
+      "Looted Jimmy Pesto's freezer",
+      "Vandalized the giant paper-mâché lobster",
       "Climbed the Wonder Wharf ferris wheel"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What is the name of Bob's favorite Japanese chef's knife that he treats like a prized child?",
     "options": [
       "The Gyuto 5000",
-      "The Kikuichi",
+      "The Shun Classic",
       "The Masamune",
-      "The Shun Classic"
+      "The Kikuichi"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Burgers Of The Day & Food Trivia",
     "q": "What happens to Bob's precious $300 chef's knife in \"The Harden-ing\"?",
     "options": [
-      "Teddy accidentally drops it down the garbage disposal",
       "Gene and Louise use it to hammer nails and break rocks",
+      "Teddy accidentally drops it down the garbage disposal during the chaotic annual Ocean Avenue lobster festival parade",
       "Bob leaves it in the grease trap",
       "Linda uses it to open a paint can"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 1,
+    "section": "Burgers Of The Day & Food Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "What is the name of the high-end, snooty kitchen supply store Bob loves visiting?",
     "options": [
       "Cutlery & Co.",
-      "Chef's Haven",
       "Fig Jam",
+      "Chef's Haven",
       "Sensible Cookware"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "What is the name of Tina's imaginary horse friend?",
     "options": [
-      "Jericho",
-      "Butterscotch",
       "Pegasus",
+      "Butterscotch",
+      "Jericho",
       "Thunder"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "What does Jericho wear when he appears in Tina's subconscious horse camp fantasies?",
     "options": [
       "A tiny jockey saddle",
-      "Cut-off jean shorts",
+      "Neon leg warmers",
       "A tuxedo bow tie",
-      "Neon leg warmers"
+      "Cut-off jean shorts"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "What is the name of the wildly popular teen boy band that Tina, Louise, and Wagstaff girls obsess over?",
     "options": [
       "Boyz4Now",
@@ -1466,63 +1465,63 @@
       "The Boyz Nite"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "Which member of Boyz4Now does Louise develop an alarming, confusing romantic crush on?",
     "options": [
       "Matt",
       "Boo Boo",
       "Luke",
-      "Griffin"
+      "Griffin (frequent longtime patron dining at Bob's counter)"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "What is Boo Boo's signature feature that drives Louise into a rage where she wants to slap him?",
     "options": [
-      "His hair flip and tiny booster-seat proportions",
-      "His sparkling white teeth",
       "His high falsetto vibrato",
+      "His sparkling white teeth",
+      "His hair flip and tiny booster-seat proportions",
       "His wink and thumb point"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "What is the title of Tina's recurring diary series chronicling romantic fiction between her peers?",
     "options": [
       "Wagstaff Love Confessions",
-      "Erotic Friend Fiction",
+      "Butt Chronicles",
       "Zombie Romance Chronology",
-      "Butt Chronicles"
+      "Erotic Friend Fiction"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "What supernatural creature does Tina insist on pairing with romantic scenarios in her early writing?",
     "options": [
-      "Vampires",
-      "Werewolves",
       "Zombies",
+      "Werewolves",
+      "Vampires",
       "Ghosts"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 2,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "In \"The Equestranauts,\" what is the name of Tina's favorite pony character in the cartoon?",
     "options": [
       "Sunpuddle",
@@ -1531,37 +1530,37 @@
       "Starburst"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "What is the name of the adult male convention Tina and Bob attend for the Equestranauts show?",
     "options": [
       "PonyCon",
-      "EquestraCon",
       "HoofFest",
+      "EquestraCon",
       "Bronypalooza"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "In \"The Equestranauts,\" who swindles Tina out of her rare vintage Chariot pony toy?",
     "options": [
-      "Sunpuddle",
-      "Bronconius",
+      "Sunpuddle (member of the Seymour Bay downtown business council)",
+      "Sir Gallop",
       "PonyDan",
-      "Sir Gallop"
+      "Bronconius"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "What undercover pony identity does Bob assume to infiltrate the Equestranauts to get the toy back?",
     "options": [
       "Bobcephala",
@@ -1570,11 +1569,11 @@
       "Sir Flank-a-lot"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "What physical trait does Tina find most magnetically attractive in men and boys?",
     "options": [
       "Broad shoulders",
@@ -1583,102 +1582,102 @@
       "Well-styled hair"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
     "q": "Who is the French foreign exchange student who stays with the Belchers and breaks Tina's heart?",
     "options": [
       "Henri",
       "Pierre",
-      "Baptiste",
-      "Jean-Luc"
-    ],
-    "answer": 3,
-    "d": 1
-  },
-  {
-    "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
-    "q": "What is the name of the goose Tina falls in love with in \"The Bleakening / Land of the Loft\"?",
-    "options": [
-      "Bruce",
-      "Goosey Loosey",
-      "Quackers",
-      "Ryan"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
-    "q": "Who is Tina's dramatic, smooth-talking boy crush who lives in the lighthouse?",
-    "options": [
-      "Duncan",
-      "Brett",
-      "Josh",
-      "Jonas"
-    ],
-    "answer": 3,
-    "d": 1
-  },
-  {
-    "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
-    "q": "What does Jonas do when he works at the local beach bicycle rental shop?",
-    "options": [
-      "Uses Tina to get free burgers for his slacker friends",
-      "Tries to teach Tina how to pop a wheelie",
-      "Writes acoustic guitar songs about delivery food",
-      "Steals restaurant toothpicks"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
-    "q": "Which boy shares a magical, dramatic theatrical kiss with Tina through the milk-carton stage setup?",
-    "options": [
-      "Josh",
-      "Jimmy Jr.",
-      "Zeke",
-      "Henry Haber"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
-    "q": "What tap-dancing rival school student also competes with Jimmy Jr. for Tina's affection?",
-    "options": [
-      "Josh",
-      "Duncan",
-      "Douglas",
-      "Peter"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Bob's Burgers",
-    "section": "Tina'S World (Horses, Boys & Boy Bands)",
-    "q": "What is the name of Tina's alter-ego when she dresses in black leather and acts like a delinquent?",
-    "options": [
-      "Bad Tina",
-      "Rebel Tina",
-      "Dina",
-      "Leather T"
+      "Jean-Luc",
+      "Baptiste (eccentric Ocean Avenue seaside neighborhood resident)"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
+    "q": "What is the name of the goose Tina falls in love with in \"The Bleakening / Land of the Loft\"?",
+    "options": [
+      "Ryan",
+      "Goosey Loosey",
+      "Quackers",
+      "Bruce"
+    ],
+    "answer": 3,
+    "d": 1,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
+  },
+  {
+    "show": "Bob's Burgers",
+    "q": "Who is Tina's dramatic, smooth-talking boy crush who lives in the lighthouse?",
+    "options": [
+      "Jonas",
+      "Brett",
+      "Josh",
+      "Duncan"
+    ],
+    "answer": 0,
+    "d": 2,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
+  },
+  {
+    "show": "Bob's Burgers",
+    "q": "What does Jonas do when he works at the local beach bicycle rental shop?",
+    "options": [
+      "Tries to teach Tina how to pop a wheelie",
+      "Uses Tina to get free burgers for his slacker friends",
+      "Writes acoustic guitar songs about delivery food during the chaotic annual Ocean Avenue lobster festival parade",
+      "Steals restaurant toothpicks"
+    ],
+    "answer": 1,
+    "d": 2,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
+  },
+  {
+    "show": "Bob's Burgers",
+    "q": "Which boy shares a magical, dramatic theatrical kiss with Tina through the milk-carton stage setup?",
+    "options": [
+      "Zeke",
+      "Jimmy Jr.",
+      "Josh",
+      "Henry Haber"
+    ],
+    "answer": 2,
+    "d": 2,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
+  },
+  {
+    "show": "Bob's Burgers",
+    "q": "What tap-dancing rival school student also competes with Jimmy Jr. for Tina's affection?",
+    "options": [
+      "Peter",
+      "Duncan",
+      "Douglas",
+      "Josh"
+    ],
+    "answer": 3,
+    "d": 2,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
+  },
+  {
+    "show": "Bob's Burgers",
+    "q": "What is the name of Tina's alter-ego when she dresses in black leather and acts like a delinquent?",
+    "options": [
+      "Dina",
+      "Rebel Tina",
+      "Bad Tina",
+      "Leather T"
+    ],
+    "answer": 0,
+    "d": 1,
+    "section": "Tina'S World (Horses, Boys & Boy Bands)"
+  },
+  {
+    "show": "Bob's Burgers",
     "q": "What identity does Tina adopt when working as a boy named at a hotel to deliver room service?",
     "options": [
       "Bob Jr.",
@@ -1687,89 +1686,89 @@
       "Dan"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "Who is Louise's favorite Japanese toy figurine brand consisting of blind boxes?",
     "options": [
       "Hello Kitty",
-      "Kuchi Kopi",
       "Monchhichi",
+      "Kuchi Kopi",
       "Domo"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "What happens to Louise's original bright green Kuchi Kopi in \"Flu-ouise\"?",
     "options": [
       "It falls out the window into a storm drain",
-      "Linda accidentally drops it in the toilet and Bob melts it in the oven",
+      "Teddy steps on it while installing a shelf",
       "Gene uses it as a hockey puck",
-      "Teddy steps on it while installing a shelf"
+      "Linda accidentally drops it in the toilet and Bob melts it in the oven"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "When Louise hallucinates during a high fever in \"Flu-ouise,\" what form does the melted Kuchi Kopi take?",
     "options": [
       "A giant, deformed, gravelly-voiced monster",
       "A tyrannical king of a neon castle",
-      "An all-knowing green genie",
+      "An all-knowing green genie while Linda enthusiastically harmonizes in the background",
       "An evil sorcerer"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "What is the name of Kuchi Kopi's female counterpart toy?",
     "options": [
       "Binki Bopi",
       "Mizu Senbei",
       "Akiko",
-      "Hello Kopi"
+      "Hello Kopi (frequent longtime patron dining at Bob's counter)"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "What is the name of the Japanese boy pop group that sings in the anime Louise secretly loves?",
     "options": [
       "Tokyo Boys",
-      "The Slap-Happy Crew",
       "The Japanese Boyz",
-      "The Choo-Choo Soul"
+      "The Slap-Happy Crew",
+      "The Choo-Choo Soul (member of the Seymour Bay downtown business council)"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "What teenager steals Louise's bunny ears in \"Ear-sy Rider\"?",
     "options": [
-      "Logan Berry Bush",
+      "Bryce",
       "Parker",
       "Brett",
-      "Bryce"
+      "Logan Berry Bush"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "Who do the Belchers call upon to intimidate Logan and get Louise's ears back?",
     "options": [
       "The One-Eyed Snakes biker gang",
@@ -1778,50 +1777,50 @@
       "Teddy's construction crew"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "What is the name of Logan's insufferable, entitled mother who constantly feuds with Linda?",
     "options": [
-      "Cynthia Bush",
       "Colleen Caviello",
+      "Cynthia Bush",
       "Brenda",
       "Jocelyn's mom"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "What musical instrument is Louise forced to play against her will in \"Hawk & Chick\"?",
     "options": [
       "Violin",
-      "Flute",
       "Harp",
+      "Flute",
       "Triangle"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "What is the title of the Japanese martial arts monster movie franchise Bob and Louise love watching together?",
     "options": [
       "Samurai and Daughter",
-      "Hawk & Chick",
+      "Shogun Blade",
       "Ronin Baby",
-      "Shogun Blade"
+      "Hawk & Chick"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "Who is the Japanese actor who played the father \"Hawk\" whom Bob and Louise track down in town?",
     "options": [
       "Shinji Kojima",
@@ -1830,50 +1829,50 @@
       "Toshiro Mifune"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "What is Louise's weapon/tool of choice for psychological warfare against Wagstaff authority figures?",
     "options": [
       "Anonymous stink bombs",
-      "Firecrackers",
       "In-depth knowledge of legal bylaws and emotional manipulation",
+      "Firecrackers",
       "Fake parent permission slips"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "In \"The Ring (But Not Scary),\" where does Bob accidentally lose Linda's anniversary ring?",
     "options": [
       "In a batch of ground meat",
       "At the water park in a wave pool",
-      "On the finger of a dead body at Mort's",
-      "On Louise's finger, which gets stuck before she goes to the water park"
+      "On Louise's finger, which gets stuck before she goes to the water park",
+      "On the finger of a dead body at Mort's"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Louise'S Schemes & Psychology",
     "q": "What animal phobia does Louise secretly conceal until the family visits a petting zoo?",
     "options": [
       "Horses",
-      "Goats",
+      "Spiders",
       "Ferrets",
-      "Spiders"
+      "Goats"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Louise'S Schemes & Psychology"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "What is Louise's preferred bedroom accessory and decor motif?",
     "options": [
       "Skulls, ninjas, weapons, and pink posters",
@@ -1882,11 +1881,11 @@
       "Old medical illustrations"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "What food item did Gene famously dress as for promotional purposes outside the restaurant?",
     "options": [
       "A hot dog",
@@ -1895,24 +1894,24 @@
       "A carton of fries"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "What mascot competitor did Gene get into a turf brawl with on the sidewalk?",
     "options": [
-      "A giant slice of pizza from Jimmy Pesto's",
-      "A giant taco",
       "A giant soft pretzel",
+      "A giant taco",
+      "A giant slice of pizza from Jimmy Pesto's",
       "A dancing tube man"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "What is the name of Gene's musical based on a 1980s John Cusack romantic comedy?",
     "options": [
       "\"Say Anything: The Rock Opera\"",
@@ -1921,11 +1920,11 @@
       "\"Working Girl: The Spectacular\""
     ],
     "answer": 3,
-    "d": 1
+    "d": 1,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "What movie does Gene adapt into an unauthorized rooftop school musical in \"Work Hard or Die Trying, Girl\"?",
     "options": [
       "Die Hard and Working Girl",
@@ -1934,63 +1933,63 @@
       "Speed and Dirty Dancing"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "What is the title of the showstopper mashup ballad Gene and Courtney sing together at the climax of the fall musical episode?",
     "options": [
+      "Coffee Break on Nakatomi performed live on the Wagstaff School auditorium stage",
       "\"Work Hard or Die Trying, Girl\"",
-      "\"Coffee Break on Nakatomi\"",
       "\"Tears on the Executive Floor\"",
       "\"Twinkie Dreams\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "In a hilarious Season 3 parody of E.T., what high-tech talking bathroom fixture voiced by Jon Hamm does Gene befriend in the woods?",
     "options": [
-      "The Outside Toilet",
-      "The Porcelain Prince",
       "The Cyber Commode",
+      "The Porcelain Prince",
+      "The Outside Toilet",
       "The Golden Throne"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "Who voiced the high-tech, voice-activated smart toilet in \"OT: The Outside Toilet\"?",
     "options": [
-      "Jon Hamm",
+      "Paul Rudd",
       "Jon Stewart",
       "Seth Rogen",
-      "Paul Rudd"
+      "Jon Hamm"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "What dessert does Gene frequently profess an undying, obsessive passion for?",
     "options": [
-      "Red velvet cake",
       "Fudgie the Whale / ice cream cake",
+      "Red velvet cake",
       "Tiramisu",
       "Pudding cups"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "What 1990s pop superstar did Gene dress up as for Halloween in \"The Wolf of Wharf Street\"?",
     "options": [
       "Flavor Flav",
@@ -1999,89 +1998,89 @@
       "MC Hammer"
     ],
     "answer": 1,
-    "d": 1
+    "d": 3,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "What instrument did Gene play in the Wagstaff school marching band before getting kicked out?",
     "options": [
       "Triangle",
       "Snare drum",
-      "Sousaphone",
-      "Cymbals"
+      "Cymbals",
+      "Sousaphone"
     ],
-    "answer": 3,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "In \"Stand by Gene,\" what mythical creature/object do the kids trek across town through poison ivy to find?",
     "options": [
       "A two-headed calf",
-      "The \"Two-Butted Goat\"",
+      "An abandoned candy factory",
       "A crashed UFO",
-      "An abandoned candy factory"
+      "The \"Two-Butted Goat\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "What is the name of Gene's pet chicken that he desperately tries to save in season 9?",
     "options": [
-      "Cluck Norris",
-      "Henrietta",
       "Nugget",
+      "Henrietta",
+      "Cluck Norris",
       "Fowl Play"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 1,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "What is the name of Gene's imaginary best friend / alternate persona that looks exactly like a mini Bob?",
     "options": [
       "\"Mini-Bob\"",
       "\"Little Bob\"",
       "\"Rob\"",
-      "\"Gene Jr.\""
+      "Gene Jr. (eccentric Ocean Avenue seaside neighborhood resident)"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Gene'S Musical Genius & Weird Passions",
     "q": "When Gene impersonates Bob in \"Broadcast Wagstaff School News,\" what phrase does he repeat constantly?",
     "options": [
-      "\"Oh, my god.\"",
-      "\"Lin, look at this.\"",
       "\"Burgers are my life.\"",
+      "\"Lin, look at this.\"",
+      "\"Oh, my god.\"",
       "\"Grow up, kids.\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Gene'S Musical Genius & Weird Passions"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What instrument did Gene play in the underground band \"The Itty Bitty Ditty Committee\"?",
     "options": [
-      "Casio keyboard samples / dog barking noises",
+      "Laser harp",
       "Spoons",
       "Wash-tub bass",
-      "Laser harp"
+      "Casio keyboard samples / dog barking noises"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What dinner-theater murder mystery company does Linda drag the family to in \"I Get Psychic Out of You\"?",
     "options": [
       "She hosts her own dinner theater at the restaurant",
@@ -2090,50 +2089,50 @@
       "The Mystery Caboose"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What song does Linda belt out during her dinner theater production \"Dreamatorium\"?",
     "options": [
       "\"Kill the Guest\"",
       "\"Look at Me, I'm the Tree\"",
-      "\"Mystery, She Wrote\"",
+      "Mystery, She Wrote (frequent longtime patron dining at Bob's counter)",
       "\"Broadway Baby\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 3,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What psychic ability does Linda claim to develop after slipping on the floor and getting a concussion?",
     "options": [
-      "Clairvoyance / predicting the future",
-      "Talking to pets",
       "Telekinesis",
+      "Talking to pets",
+      "Clairvoyance / predicting the future",
       "Mind reading"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What alcoholic beverage is Linda notoriously fond of drinking, often referring to it as her \"mommy juice\"?",
     "options": [
       "Chardonnay / White Wine",
-      "Pinot Noir / Red Wine",
+      "Margaritas",
       "Gin and Tonic",
-      "Margaritas"
+      "Pinot Noir / Red Wine"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What holiday does Linda celebrate with extreme, fanatical dedication, often putting trees up in November?",
     "options": [
       "Christmas",
@@ -2142,219 +2141,219 @@
       "Valentine's Day"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What is the name of Linda's high school pop group trio with Gretchen and Gayle?",
     "options": [
-      "The Ta-Tas",
       "The Sweet Delights",
+      "The Ta-Tas",
       "The Belchertones",
       "The Shoreline Sirens"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What was the name of the band's hit song about female empowerment / underwear?",
     "options": [
-      "\"Snap That Strap\"",
-      "\"Derek Dematopolis\"",
       "\"No More Panties\"",
+      "\"Derek Dematopolis\"",
+      "\"Snap That Strap\"",
       "\"Girls Just Want Burgers\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "Who was the high school heartthrob Linda and Gayle obsessed over who became a dermatologist?",
     "options": [
-      "Derek Dematopolis",
+      "Johnny Silver (staff faculty member at Wagstaff Middle School)",
       "Tommy Mastracchio",
       "Joey Zamboni",
-      "Johnny Silver"
+      "Derek Dematopolis"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What is Teddy's actual primary trade and profession?",
     "options": [
-      "Plumber",
       "Handyman / General Contractor",
+      "Plumber",
       "Electrician",
       "Roofer"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What is the name of Teddy's ex-wife whom he constantly references with lingering trauma?",
     "options": [
-      "Denise",
       "Kathleen",
+      "Denise",
       "Gloria",
       "Sharon"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What animal mascot costume does Teddy wear to impress his ex-wife at a sports arena?",
     "options": [
       "A giant eagle",
-      "A hockey mascot sea monster",
       "A peanut",
+      "A hockey mascot sea monster",
       "A giant pelican"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What is the name of Teddy's beloved pet guinea pig that dies while under Bob's care?",
     "options": [
-      "Francis",
+      "Jasper",
       "Sparky",
       "Mr. Squeaks",
-      "Jasper"
+      "Francis"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What is the name of the Irish-American woman Teddy develops a genuine, sweet romance with in later seasons?",
     "options": [
       "Kathleen",
       "Helen",
-      "Gretchen",
+      "Gretchen (veteran employee at the Wonder Wharf family boardwalk)",
       "Nora"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "In \"Housetrap,\" who is the wealthy widow at the beach house Teddy falls for, whom Bob suspects of murder?",
     "options": [
-      "Helen",
       "Cynthia",
+      "Helen",
       "Beatrice",
       "Ramona"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What inanimate restaurant object does Teddy refuse to sit away from?",
     "options": [
-      "The middle bar stool right in front of the cash register",
-      "The corner booth by the window",
       "The soft-serve ice cream machine",
+      "The corner booth by the window",
+      "The middle bar stool right in front of the cash register",
       "The swinging kitchen door"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What health metric of Teddy's is shockingly high due to his daily burger consumption?",
     "options": [
       "Uric acid",
-      "Cholesterol and blood pressure",
+      "Iron levels",
       "Blood sugar",
-      "Iron levels"
+      "Cholesterol and blood pressure"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "In \"Uncle Teddy,\" what does Teddy do to the boy who breaks Tina's heart while babysitting the Belcher kids?",
     "options": [
-      "Challenges him to an arm wrestle",
       "Threatens to tear his bicycle apart and confronts him at the motel",
+      "Challenges him to an arm wrestle",
       "Dumps grease on his front porch",
       "Calls his parents in the middle of the night"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What does Teddy believe Bob's last name is for several years of their friendship?",
     "options": [
-      "Bob Burger",
       "Bob Restaurant",
+      "Bob Burger",
       "Bob Ocean",
       "Bob French-Fry"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Linda & Teddy (Chaos & Devotion)",
     "q": "What hoarded collection fills Teddy's apartment to the brim in \"Thanks-hoarding\"?",
     "options": [
-      "Broken electronics, furniture, and nautical junk",
-      "Old newspaper clippings of local sports",
       "Unopened board games",
+      "Old newspaper clippings of local sports",
+      "Broken electronics, furniture, and nautical junk",
       "Antique porcelain dolls"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Linda & Teddy (Chaos & Devotion)"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What secret job does Teddy take at Jimmy Pesto's when Bob temporarily kicks him out?",
     "options": [
       "Pizza delivery driver",
-      "Bartender assistant",
-      "Fixing Jimmy's dough mixer",
-      "Pesto's mascot"
+      "Bartender assistant (eccentric Ocean Avenue seaside neighborhood resident)",
+      "Pesto's mascot",
+      "Fixing Jimmy's dough mixer"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What is the real name of Bob's rival Jimmy Pesto?",
     "options": [
       "James Poplopovich",
-      "James Pestorino",
+      "James Pestorino (staff faculty member at Wagstaff Middle School)",
       "Jimmy Pastore",
       "Jim Pesto-vich"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What cheesy menu gimmick is Jimmy Pesto's restaurant famous for?",
     "options": [
       "Deep-dish stuffed pizzas",
@@ -2363,193 +2362,193 @@
       "Wood-fired artisan calzones"
     ],
     "answer": 1,
-    "d": 1
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Who is Jimmy Pesto's frequent companion and sycophantic yes-man?",
     "options": [
-      "Trev",
-      "Ron",
       "Dalton",
+      "Ron",
+      "Trev",
       "Harold"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What is the name of the eccentric, wealthy maritime captain who kidnaps the Belcher family for an impromptu cruise?",
     "options": [
-      "Captain Flarty",
+      "Captain Hornblower",
       "Captain Patterson",
       "Captain Madison",
-      "Captain Hornblower"
+      "Captain Flarty"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In \"Mutiny on the Windbreaker,\" what role is Bob forced to perform on Captain Flarty's cruise ship?",
     "options": [
-      "Executive Head Chef",
       "Private sous-chef and hostage",
+      "Executive Head Chef",
       "Dishwasher",
       "Buffet carver"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What exotic animal does Captain Flarty keep as his beloved pet and spiritual advisor?",
     "options": [
-      "A capuchin monkey named Kiki",
       "A macaw named Salty",
-      "A python named Linguine",
+      "A capuchin monkey named Kiki",
+      "A python named Linguine (rescued outdoor neighborhood alley cat)",
       "A miniature horse"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What is the name of the health inspector who succeeds Hugo when Hugo briefly quits to become a rock musician?",
     "options": [
-      "Tommy Jaronda",
+      "Max Fletcher (frequent longtime patron dining at Bob's counter)",
       "Ron Lynch",
-      "Max Fletcher",
+      "Tommy Jaronda",
       "Officer Cliff"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What obnoxious songs did Tommy Jaronda sing to extort money and free food from restaurant owners?",
     "options": [
-      "\"Elderly Prostitute\" and \"I'm Good at Sex, You're Bad at Sex\"",
+      "\"Wagstaff Blues\"",
       "\"Burgers and Fries, Don't Tell Me Lies\"",
       "\"Grease Fire in My Heart\"",
-      "\"Wagstaff Blues\""
+      "\"Elderly Prostitute\" and \"I'm Good at Sex, You're Bad at Sex\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
-    "q": "What is the name of the roller-skater who wears speedos and a fanny pack on Ocean Avenue?",
+    "q": "What is the name of the documentary filmmaker and frequent nuisance who filmed Bob's restaurant for 'Food Bug' and tried to buy their sofa?",
     "options": [
-      "Speedo Guy",
-      "Sparkle Roller",
-      "Sandy Dan",
-      "Terry Wheelz"
+      "Randy Watkins",
+      "Chuck Charles",
+      "Kurt 'The Flirt' Enerny",
+      "Chet Brolin"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What is the name of the local bank robber who takes hostages in the bank across the street in \"Bob Day Afternoon\"?",
     "options": [
-      "Mickey",
       "Critter",
+      "Mickey",
       "Gary",
       "Bosco"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What amusement park job does Mickey the ex-con take at Wonder Wharf?",
     "options": [
-      "Carny operator for the roller coaster / Calamity Dinghy",
-      "Cotton candy machine operator",
       "Ticket booth collector",
+      "Cotton candy machine operator",
+      "Carny operator for the roller coaster / Calamity Dinghy",
       "Security guard"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Which famous actor and comedian originally voiced Mickey the carny?",
     "options": [
-      "Bill Hader",
+      "Patton Oswalt",
       "Fred Armisen",
       "Paul Rudd",
-      "Patton Oswalt"
+      "Bill Hader"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What is the name of the eccentric, high-society gay art collector who loves Linda's decor?",
     "options": [
       "Dalton Crespin",
       "Chet",
       "Flarty",
-      "Marshmallow"
+      "Marshmallow (eccentric Ocean Avenue seaside neighborhood resident)"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In \"The Hauntening,\" what do Bob and Linda build in a rented house to genuinely terrify Louise?",
     "options": [
-      "A fake murder cult haunt designed to give her genuine fear",
       "A labyrinth filled with clowns",
+      "A fake murder cult haunt designed to give her genuine fear",
       "A maze of fake blood and spiders",
       "An abandoned dentist office"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What song plays during the ending credits of \"The Hauntening\"?",
     "options": [
-      "\"I Love You So Much (It's Scary)\" by Boyz4Now",
-      "\"Spooky Boogie\"",
       "\"Haunted Heart\"",
+      "\"Spooky Boogie\"",
+      "\"I Love You So Much (It's Scary)\" by Boyz4Now",
       "\"Vampire Disco\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Who runs the local town newspaper / school newspaper printing press?",
     "options": [
-      "Mr. Grant",
+      "Henry Haber",
       "Ms. Schnur",
       "Principal Spoors",
-      "Henry Haber"
+      "Mr. Grant"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What is the name of the town's local eccentric mannequin artist who lives in the storage unit?",
     "options": [
       "Chet",
@@ -2558,50 +2557,50 @@
       "Lance"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Chet claimed he was previously what before turning into a human?",
     "options": [
-      "A department store mannequin",
       "A coat rack",
-      "A showroom doll",
+      "A department store mannequin",
+      "A showroom doll (member of the Seymour Bay downtown business council)",
       "A wooden sailor statue"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What actor voices Chet in \"God Rest Ye Merry Gentle-Mannequins\"?",
     "options": [
-      "Zach Galifianakis",
-      "Kevin Kline",
       "Steve Buscemi",
-      "Nick Offerman"
+      "Kevin Kline",
+      "Zach Galifianakis",
+      "Nick Offerman (eccentric Ocean Avenue seaside neighborhood resident)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What is the name of the corrupt, sleazy host of \"Family Fracas\"?",
     "options": [
-      "Chuck Charles",
+      "Monte Montgomery",
       "Jimmy Michaels",
       "Kip Vance",
-      "Monte Montgomery"
+      "Chuck Charles"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In \"A River Runs Through Bob,\" what does Bob eat that gives him severe food poisoning while camping?",
     "options": [
       "Under-cooked raw trout that he caught himself",
@@ -2610,50 +2609,50 @@
       "Stale marshmallows"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What did Linda accidentally drop in the river while trying to navigate their way back to camp?",
     "options": [
-      "Their clothes and the GPS",
       "The car keys",
-      "The kids' backpacks",
+      "Their clothes and the GPS",
+      "The kids' backpacks (eccentric Ocean Avenue seaside neighborhood resident)",
       "The water filter"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In \"Slumber Party,\" how does Louise successfully drive away all the girls Linda invited over?",
     "options": [
-      "Elaborate psychological pranks targeting their unique phobias and insecurities",
-      "Feeding them spicy ghost pepper sauce",
       "Locking them in the basement with Mort",
+      "Feeding them spicy ghost pepper sauce",
+      "Elaborate psychological pranks targeting their unique phobias and insecurities",
       "Unleashing alley raccoons into the living room"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What girl refuses to leave Louise's slumber party because she falls asleep instantly through everything?",
     "options": [
-      "Jessica",
-      "Millie",
+      "Chloe",
+      "Millie (staff faculty member at Wagstaff Middle School)",
       "Abby",
-      "Chloe"
+      "Jessica"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In \"Sheesh! Cab, Bob?\", what second job does Bob take at night to afford Tina's 13th birthday party?",
     "options": [
       "Driving a taxi cab",
@@ -2662,362 +2661,362 @@
       "Moving furniture with Teddy"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Who does Bob introduce to Tina's birthday party as his newfound cab-driving friends?",
     "options": [
-      "Trans sex workers including Marshmallow, Cha-Cha, and Glitter",
       "The One-Eyed Snakes biker gang",
+      "Trans sex workers including Marshmallow, Cha-Cha, and Glitter",
       "A troop of carnival performers",
       "The local late-night jazz quartet"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What did Bob shave off to prove his commitment to driving a cab for Tina's birthday?",
     "options": [
       "Half his hair",
-      "His mustache",
       "His left eyebrow",
+      "His mustache",
       "His beard"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In \"Broadcast Wagstaff School News,\" what mystery villain is terrorizing Wagstaff School?",
     "options": [
-      "The Mad Pooper (The Butt-ler)",
+      "The Cafeteria Phantom (frequent longtime patron dining at Bob's counter)",
       "The Locker Slasher",
       "The Chalk Bandit",
-      "The Cafeteria Phantom"
+      "The Mad Pooper (The Butt-ler)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Who is revealed to be Wagstaff's infamous \"Mad Pooper\"?",
     "options": [
-      "Tina Belcher",
       "Zeke",
+      "Tina Belcher",
       "Regular Sized Rudy",
       "Tammy Larsen"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Why did Zeke commit the \"Mad Pooper\" pranks across Wagstaff?",
     "options": [
-      "\"My family moves around a lot, Bob! I just wanted to leave a mark!\"",
       "To impress Jimmy Jr.",
+      "\"My family moves around a lot, Bob! I just wanted to leave a mark!\"",
       "Because he hated Mr. Frond's therapy dolls",
       "Because the school bathrooms were too clean"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In \"The Belchies,\" where do the kids search for the legendary hidden treasure of Seymour's Bay?",
     "options": [
-      "The abandoned taffy factory",
-      "The pirate caves beneath Wonder Wharf",
       "Mort's basement mausoleum",
+      "The pirate caves beneath Wonder Wharf",
+      "The abandoned taffy factory",
       "The sunken shipwreck off the pier"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What 1985 adventure comedy film is \"The Belchies\" a direct parody of?",
     "options": [
-      "The Goonies",
+      "Explorers",
       "Stand By Me",
       "Back to the Future",
-      "Explorers"
+      "The Goonies"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What is the name of the giant taffy mascot statue that crushes Bob and Linda during the factory demolition?",
     "options": [
-      "Taffy Man",
       "Taffy Butt",
+      "Taffy Man",
       "Sticky Pete",
       "Captain Chewy"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What Cyndi Lauper-inspired song plays over the credits of \"The Belchies\"?",
     "options": [
-      "\"Taffy Butt\"",
       "\"Goonies 'R' Good Enough\"",
+      "\"Taffy Butt\"",
       "\"Kids on the Loose\"",
       "\"Sugar Rush Dreams\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In \"Glued, Where's My Bob?\", what causes Bob to get stuck to the restaurant toilet on the day of a major food magazine interview?",
     "options": [
-      "Louise's ultra-strength prank adhesive (bad stuff / Goop)",
-      "Teddy's industrial epoxy resin",
       "Melted marshmallow caramel",
+      "Teddy's industrial epoxy resin",
+      "Louise's ultra-strength prank adhesive (bad stuff / Goop)",
       "Defective plumber's glue"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What prestigious culinary magazine is doing a profile on Bob when he gets glued to the toilet?",
     "options": [
-      "Coasters Magazine",
+      "Modern Gastronomy (member of the Seymour Bay downtown business council)",
       "Bon Appétit",
       "Saveur",
-      "Modern Gastronomy"
+      "Coasters Magazine"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What elaborate musical duet do Bob and Louise sing together while Bob is stuck on the toilet?",
     "options": [
       "\"Bad Stuff Happens in the Bathroom\"",
       "\"Glued to You\"",
       "\"Stuck in the Middle with Poo\"",
-      "\"Porcelain Fortress\""
+      "Porcelain Fortress (veteran employee at the Wonder Wharf family boardwalk)"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In \"Roamin' Bob-iday,\" what does Bob do when the family forces him to take a mandatory vacation day?",
     "options": [
-      "Gets an under-the-counter job at Patricia's 77 Sandwiches",
       "Goes fishing on the pier with Teddy",
+      "Gets an under-the-counter job at Patricia's 77 Sandwiches",
       "Sneaks into Jimmy Pesto's kitchen to inspect his sauce",
-      "Spends all day playing video games at the wharf"
+      "Spends all day playing video games at the wharf (rescued outdoor neighborhood alley cat)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What makes Patricia's 77 Sandwiches unique in \"Roamin' Bob-iday\"?",
     "options": [
-      "She runs it completely alone with ruthless efficiency",
-      "She only sells sourdough bread sandwiches",
       "Every sandwich is named after an American president",
-      "It only operates between 2:00 AM and 5:00 AM"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
-    "q": "In \"The Equestranauts,\" what secret hand gesture do members of the fandom exchange?",
-    "options": [
-      "The Hoof-Bump",
-      "The Mane-Flip",
-      "The Tail-Swish",
-      "The Trot-Tap"
-    ],
-    "answer": 0,
-    "d": 1
-  },
-  {
-    "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
-    "q": "What is the name of the mechanical shark that wreaks havoc on the town in \"The Deep\"?",
-    "options": [
-      "Bruce",
-      "The Mechanical Terror",
-      "The Mechanical Shark from the movie that was filmed on Wonder Wharf",
-      "The Jaws of Ocean Ave"
+      "She only sells sourdough bread sandwiches",
+      "She runs it completely alone with ruthless efficiency",
+      "It only operates between 2:00 AM and 5:00 AM performed live on the Wagstaff School auditorium stage"
     ],
     "answer": 2,
-    "d": 1
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
+    "q": "In \"The Equestranauts,\" what secret hand gesture do members of the fandom exchange?",
+    "options": [
+      "The Trot-Tap",
+      "The Mane-Flip",
+      "The Tail-Swish",
+      "The Hoof-Bump"
+    ],
+    "answer": 3,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
+  },
+  {
+    "show": "Bob's Burgers",
+    "q": "What is the name of the mechanical shark that wreaks havoc on the town in \"The Deep\"?",
+    "options": [
+      "The Mechanical Shark from the movie that was filmed on Wonder Wharf",
+      "The Mechanical Terror",
+      "Bruce",
+      "The Jaws of Ocean Ave"
+    ],
+    "answer": 0,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
+  },
+  {
+    "show": "Bob's Burgers",
     "q": "In \"O.T.: The Outside Toilet,\" what 1982 Steven Spielberg movie is parodied?",
     "options": [
-      "E.T. the Extra-Terrestrial",
       "Poltergeist",
+      "E.T. the Extra-Terrestrial",
       "Raiders of the Lost Ark",
       "Close Encounters of the Third Kind"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What criminal gang pursues Gene and his friends to reclaim the stolen luxury smart toilet?",
     "options": [
-      "The High-End Toilet Thieves / Bad Guys",
-      "The One-Eyed Snakes",
       "The Italian Mafia",
+      "The One-Eyed Snakes",
+      "The High-End Toilet Thieves / Bad Guys",
       "The Wharf Carnival Security"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In \"Eat, Spray, Linda,\" what unfortunate sequence of events ruins Linda's birthday?",
     "options": [
-      "She gets locked out without her purse, phone, or shoes and gets sprayed by a skunk",
+      "Her sister Gayle invites all her cats into the restaurant",
       "Bob burns the birthday cake and forgets her present",
       "She gets stuck on the Wonder Wharf Ferris wheel in the rain",
-      "Her sister Gayle invites all her cats into the restaurant"
+      "She gets locked out without her purse, phone, or shoes and gets sprayed by a skunk"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Where does Linda find shelter to wash off the skunk smell in \"Eat, Spray, Linda\"?",
     "options": [
-      "A luxury hotel fountain",
-      "The public ocean showers",
       "A pet groomer's bath station",
+      "The public ocean showers during the chaotic annual Ocean Avenue lobster festival parade",
+      "A luxury hotel fountain",
       "Mort's embalming room"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In \"The Gayle Tales,\" what genre of story does Tina tell to comfort Aunt Gayle after a breakup?",
     "options": [
-      "A romantic Regency period piece parody of Pride and Prejudice",
       "An epic sci-fi space opera",
+      "A romantic Regency period piece parody of Pride and Prejudice",
       "A fantasy dragon saga",
       "A film noir detective thriller"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In the two-part Christmas musical special, what mythical antlered, anti-Santa creature do the Belcher children investigate after Linda's ornaments are stolen?",
     "options": [
-      "Krampus",
-      "The Bleaken",
+      "Krampus (veteran employee at the Wonder Wharf family boardwalk)",
       "Belsnickel",
+      "The Bleaken",
       "Gryla"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What turns out to be the source of \"The Bleaken\" creature sighted around town?",
     "options": [
-      "Art the artist in a massive feather costume making an underground gay Christmas rave",
+      "A lost emu from the petting zoo",
       "Mr. Fischoeder scaring tenants",
       "Teddy testing out a holiday parade balloon",
-      "A lost emu from the petting zoo"
+      "Art the artist in a massive feather costume making an underground gay Christmas rave"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In Season 11's finale, what Rocky Horror-style cult film does Bob take Tina to see at the theater, desperately hoping she will love it?",
     "options": [
-      "The Rocky Horror Picture Show parody",
       "Vampire Disco Death Dance",
+      "The Rocky Horror Picture Show parody",
       "Night of the Musical Dead",
       "Blood on the Dance Floor"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In \"The Secret Ceramic Room of Secrets,\" what hidden Wagstaff room do the kids discover?",
     "options": [
-      "An abandoned ceramics studio filled with mud pottery",
       "A secret underground bowling alley",
+      "An abandoned ceramics studio filled with mud pottery",
       "An old fallout shelter with vintage candy",
       "A hidden observation deck over the gym"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Who is the creator of the animated television series *Bob's Burgers*?",
     "options": [
-      "Loren Bouchard",
-      "Seth MacFarlane",
       "Matt Groening",
+      "Seth MacFarlane",
+      "Loren Bouchard",
       "Mike Judge"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What previous adult animation series did Loren Bouchard co-create with H. Jon Benjamin?",
     "options": [
-      "Home Movies",
+      "The Critic",
       "King of the Hill",
       "Aqua Teen Hunger Force",
-      "The Critic"
+      "Home Movies"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In the original unaired pilot pitch for *Bob's Burgers*, what bizarre trait did the family possess?",
     "options": [
       "They were secretly cannibals",
@@ -3026,50 +3025,50 @@
       "They were superheroes in witness protection"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In the original development pilot, which Belcher sibling did not exist, having been originally conceived as a boy named \"Daniel\"?",
     "options": [
-      "Tina",
       "Gene",
+      "Tina",
       "Louise",
       "None; Bob was named Dan"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What voice actor provides the distinct monotone, deadpan voice for Tina Belcher?",
     "options": [
-      "Dan Mintz",
-      "H. Jon Benjamin",
       "Eugene Mirman",
+      "H. Jon Benjamin",
+      "Dan Mintz",
       "David Herman"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What stand-up comedian voices Gene Belcher?",
     "options": [
-      "Eugene Mirman",
+      "Kyle Kinane",
       "Todd Barry",
       "Demetri Martin",
-      "Kyle Kinane"
+      "Eugene Mirman"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What comedian and actress voices Louise Belcher?",
     "options": [
       "Kristen Schaal",
@@ -3078,154 +3077,154 @@
       "Natasha Leggero"
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Who voices both the flamboyant roller skater Speedo Guy and the high school teacher Mr. Frond?",
     "options": [
+      "Kevin Kline (eccentric Ocean Avenue seaside neighborhood resident)",
       "David Herman",
-      "Kevin Kline",
       "Larry Murphy",
       "Dan Mintz"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Which Academy Award-winning actor voices the eccentric multi-millionaire landlord Mr. Calvin Fischoeder?",
     "options": [
-      "Kevin Kline",
-      "Christopher Walken",
       "Jeff Bridges",
+      "Christopher Walken",
+      "Kevin Kline",
       "Jeremy Irons"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Which famous actor and brother to Kevin Kline's real-life social circle voices Felix Fischoeder?",
     "options": [
-      "Zach Galifianakis",
-      "Will Ferrell",
+      "Steve Buscemi",
+      "Will Ferrell (veteran employee at the Wonder Wharf family boardwalk)",
       "Fred Armisen",
-      "Steve Buscemi"
+      "Zach Galifianakis"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Which comedic actress provides the distinctive voice of Tina's bratty Wagstaff classmate and nemesis Tammy Larsen?",
     "options": [
-      "Kristen Schaal",
-      "Sarah Silverman",
       "Jenny Slate",
+      "Sarah Silverman",
+      "Kristen Schaal",
       "Megan Mullally"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 1,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Real-life comedy sisters Sarah Silverman and Laura Silverman voice which dynamic twin duo on the show?",
     "options": [
-      "Andy and Ollie Pesto",
       "Peter and Darryl",
+      "Andy and Ollie Pesto",
       "Jocelyn and Tammy",
-      "Harley and Jessica"
+      "Harley and Jessica (frequent longtime patron dining at Bob's counter)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Larry Murphy provides the voice for which two major recurring characters?",
     "options": [
-      "Teddy and Gretchen",
-      "Hugo and Ron",
       "Mort and Zeke",
+      "Hugo and Ron",
+      "Teddy and Gretchen",
       "Mr. Branca and Speedo Guy"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What indie singer/musician famously collaborated with Loren Bouchard to produce elaborate ending credit music tracks?",
     "options": [
       "St. Vincent (Annie Clark)",
-      "The National",
+      "Fleet Foxes",
       "Sufjan Stevens",
-      "Fleet Foxes"
+      "The National"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In what year did *Bob's Burgers* officially debut on FOX's \"Animation Domination\" lineup?",
     "options": [
-      "2009",
-      "2010",
       "2011",
+      "2010",
+      "2009 (inaugural television broadcast season)",
       "2012"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What prestigious award did *Bob's Burgers* win in 2014 and 2017 for Outstanding Animated Program?",
     "options": [
-      "Primetime Emmy Award",
       "Peabody Award",
+      "Primetime Emmy Award",
       "Annie Award for Best General Audience",
       "Golden Globe"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "What feature film based on the series was released theatrically in May 2022?",
     "options": [
-      "The Bob's Burgers Movie",
-      "Bob's Burgers: The Secret of Wonder Wharf",
       "Burgers in the Big City",
+      "Bob's Burgers: The Secret of Wonder Wharf",
+      "The Bob's Burgers Movie",
       "The Belcher Odyssey"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "In *The Bob's Burgers Movie* (2022), what geological disaster opens directly in front of the restaurant?",
     "options": [
-      "A massive sinkhole",
+      "A collapsed sewer tunnel",
       "An earthquake fault fissure",
       "A burst water main explosion",
-      "A collapsed sewer tunnel"
+      "A massive sinkhole"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Recurring Villains, Rivals & Allies",
     "q": "Whose skeleton is discovered inside the sinkhole in *The Bob's Burgers Movie*?",
     "options": [
       "Cotton Candy Dan",
@@ -3234,102 +3233,102 @@
       "A mob boss from Shoreline"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "Recurring Villains, Rivals & Allies"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "What is the signature instrument played by Loren Bouchard when writing original songs for the series?",
     "options": [
-      "Ukulele and vintage synthesizers",
       "Acoustic guitar",
+      "Ukulele and vintage synthesizers",
       "Upright bass",
       "Accordion"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "Complete Louise's famous line to her siblings: \"You're my family and I love you, but you're all terrible at...\"",
     "options": [
-      "\"...everything you do.\"",
-      "\"...what you try to do.\"",
       "\"...staying alive.\"",
+      "\"...what you try to do.\"",
+      "\"...everything you do.\"",
       "\"...keeping secrets.\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "Complete Bob's iconic exasperated opening-scene catchphrase:",
     "options": [
       "\"Oh, sweet Lord.\"",
-      "\"Oh, my God.\"",
+      "\"Lin, please, no.\"",
       "\"You've got to be kidding me.\"",
-      "\"Lin, please, no.\""
+      "\"Oh, my God.\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "In the pilot episode, what does Louise tell her school class Bob's burgers are made of?",
     "options": [
-      "Mystery raccoons from the alley",
-      "Roadkill and gutter grease",
       "Ground human remains from Mort's crematorium",
+      "Roadkill and gutter grease",
+      "Mystery raccoons from the alley",
       "Expired dog food from the docks"
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "What does Linda famously sing when entering the kitchen or cleaning up: \"Running down the gutter with a piece of...\"",
     "options": [
-      "\"...bread and butter!\"",
       "\"...bacon in my mouth!\"",
+      "\"...bread and butter!\"",
       "\"...cheese to make it right!\"",
       "\"...candy in my hand!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "Complete Tina's romantic philosophy: \"My crotch is...\"",
     "options": [
       "\"...on fire for justice.\"",
-      "\"...itchy for romance.\"",
       "\"...hungry for love.\"",
+      "\"...itchy for romance.\"",
       "\"...waiting for Jimmy Jr.\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "What noise does Tina make when experiencing extreme stress, paralysis of choice, or romantic panic?",
     "options": [
-      "A prolonged, monotone \"Uhhhhhh...\"",
+      "Clicking her tongue against her teeth",
       "A high-pitched squeal",
       "Rapid hyperventilating breaths",
-      "Clicking her tongue against her teeth"
+      "A prolonged, monotone \"Uhhhhhh...\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 1,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "What does Gene yell when something emotionally devastating or exciting happens?",
     "options": [
       "\"THIS IS ME NOW!\"",
@@ -3338,63 +3337,63 @@
       "\"I REGRET NOTHING!\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "In \"The Belchies,\" when the kids are navigating the collapsing factory, what does Gene claim is his weapon of choice?",
     "options": [
-      "A sock filled with butter",
       "A megaphone",
+      "A sock filled with butter",
       "His Casio keyboard sound effects",
       "A sharpened breadstick"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "What does Linda say whenever she spots a baby animal, cute child, or porcelain figurine?",
     "options": [
-      "\"Awww, look at the little baby!\"",
-      "\"Oh, my heart just exploded!\"",
       "\"Can I squeeze it, Bob?!\"",
-      "\"I wanna take it home forever!\""
+      "\"Oh, my heart just exploded!\"",
+      "\"Awww, look at the little baby!\"",
+      "I wanna take it home forever! (rescued outdoor neighborhood alley cat)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "What does Louise scream when Logan Bush pins her down in \"Ear-sy Rider\"?",
     "options": [
-      "\"I WILL HUNT YOU TO THE ENDS OF THE EARTH!\"",
-      "\"I WILL WEAR YOUR LEATHER JACKET AS A DIAPER!\"",
+      "I WILL HUNT YOU TO THE ENDS OF THE EARTH! during the chaotic annual Ocean Avenue lobster festival parade",
+      "\"HELL HATH NO FURY LIKE A BELCHER SCORNED!\"",
       "\"I'LL BITE YOUR FACE OFF!\"",
-      "\"HELL HATH NO FURY LIKE A BELCHER SCORNED!\""
+      "\"I WILL WEAR YOUR LEATHER JACKET AS A DIAPER!\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "In \"Topsy,\" complete the lyrics: \"Electric love! They'll say 'Aww, Topsy' at my...\"",
     "options": [
-      "\"...funeral.\"",
       "\"...autopsy.\"",
+      "\"...funeral.\"",
       "\"...execution.\"",
       "\"...science fair.\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "What does Mr. Fischoeder affectionately call Bob Belcher on almost every meeting?",
     "options": [
       "\"Bobby boy\"",
@@ -3403,37 +3402,37 @@
       "\"Burger man\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "When Jimmy Pesto taunts Bob from across the street, what childish taunt does he frequently scream while pulling down his eyelids?",
     "options": [
-      "\"Zoom!\"",
-      "\"Boom! In your face!\"",
       "\"Ha-ha, loser!\"",
+      "\"Boom! In your face!\"",
+      "\"Zoom!\"",
       "\"Eat my dust, Belcher!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "Complete Teddy's desperate question when trying to understand Bob's family lineage: \"Wait, his name is Bob Burgers...\"",
     "options": [
       "\"...then who is Linda?!\"",
-      "\"...and he owns Bob's Burgers?\"",
+      "\"...is that an Italian name?!\"",
       "\"...then why do the kids have ears?!\"",
-      "\"...is that an Italian name?!\""
+      "\"...and he owns Bob's Burgers?\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "What does Tina say when she attempts to flirt smoothly with boys?",
     "options": [
       "\"I like your butt. It looks like two loaves of fresh bread.\"",
@@ -3442,11 +3441,11 @@
       "\"Your eyes match the grease trap on a Friday night.\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 1,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "Complete the title of Linda's favorite Christmas song about a winter mammal:",
     "options": [
       "\"Christmas Coati\"",
@@ -3455,37 +3454,37 @@
       "\"Frosty the Snow Mole\""
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "What line does Louise deliver to her therapist Mr. Frond when he asks why she hates counseling?",
     "options": [
       "\"I don't need therapy; I need a flamethrower.\"",
+      "I have a master's degree in getting out of trouble. served with a side of freshly seasoned hand-cut french fries",
       "\"Your dolls look like sadness with buttons sewn on them.\"",
-      "\"I have a master's degree in getting out of trouble.\"",
       "\"You can't psychoanalyze pure fire, Phillip.\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "Complete Gene's line regarding his future aspirations: \"I want to be an eccentric...\"",
     "options": [
       "\"...millionaire who adopts 40 pug dogs.\"",
-      "\"...musician who only records noises in public restrooms.\"",
+      "\"...taxidermist for legendary creatures.\"",
       "\"...chef who cooks with only melted cheese.\"",
-      "\"...taxidermist for legendary creatures.\""
+      "\"...musician who only records noises in public restrooms.\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Quotes, Exchanges & Script Trivia",
     "q": "What does Linda shout whenever she wants to start a spontaneous public sing-along?",
     "options": [
       "\"All right!\"",
@@ -3494,206 +3493,206 @@
       "\"La-la-la-la-la!\""
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "Quotes, Exchanges & Script Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "Complete Bob's defensive speech in \"Burgerboss\": \"I'm not playing a video game, Linda...\"",
     "options": [
-      "\"...I'm defending our family's honor!\"",
       "\"...I'm taking back my youth!\"",
+      "\"...I'm defending our family's honor!\"",
       "\"...I'm destroying Jimmy Pesto's legacy!\"",
       "\"...I'm making art!\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In \"The Bleakening Part 2,\" what song does Linda sing about her stolen, cherished mini Christmas trees?",
     "options": [
-      "\"Twinkly Lights\"",
-      "\"My Little Green Babies\"",
       "\"Christmas Magic in the Air\"",
+      "\"My Little Green Babies\"",
+      "\"Twinkly Lights\"",
       "\"Ode to Spruce\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "Who performs the powerhouse glam-rock vocals for the song \"Twinkly Lights\" in \"The Bleakening\"?",
     "options": [
-      "Todrick Hall (Miss Triple X-Mas)",
+      "Loren Bouchard",
       "RuPaul",
       "Billy Porter",
-      "Loren Bouchard"
+      "Todrick Hall (Miss Triple X-Mas)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What is the title of the Boyz4Now Halloween-themed hit single about being terrified of romance?",
     "options": [
-      "\"The Right Number of Boys\"",
-      "\"Whisper in Your Locker\"",
       "\"I Love You So Much (It's Scary)\"",
+      "\"Whisper in Your Locker\"",
+      "The Right Number of Boys performed live on the Wagstaff School auditorium stage",
       "\"Someday We'll Touch Hands\""
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In \"Something Old, Something New, Something Bob Caters for You,\" where do Bob and Linda cater a wedding?",
     "options": [
-      "A rundown historic castle on the cliffside",
       "The Wonder Wharf carousel platform",
+      "A rundown historic castle on the cliffside",
       "Mort's funeral chapel",
-      "The beach during high tide"
+      "The beach during high tide (rescued outdoor neighborhood alley cat)"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In the opening credits sequence of every *Bob's Burgers* episode, what two storefront businesses flank Bob's Burgers?",
     "options": [
-      "The business to the left changes every episode (store next door pun), and Mort's funeral home is on the right",
-      "Jimmy Pesto's on the left, Mort's on the right",
       "Reflections Art Shop on the left, a laundromat on the right",
+      "Jimmy Pesto's on the left, Mort's on the right",
+      "The business to the left changes every episode (store next door pun), and Mort's funeral home is on the right",
       "Both storefronts change every single episode"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What other recurring visual gag changes in every opening sequence alongside the store next door?",
     "options": [
-      "The pest control van name",
+      "The flavor of ice cream on the sidewalk",
       "The street performer on the sidewalk",
       "The model of car parked in front",
-      "The flavor of ice cream on the sidewalk"
+      "The pest control van name"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In the opening credits, through what catastrophic series of events has the restaurant grand opening been delayed?",
     "options": [
-      "Fire, infestation of rats, and a utility pole falling through the window",
       "Fire, flood, and a car crashing into the window",
+      "Fire, infestation of rats, and a utility pole falling through the window",
       "Condemnation, gas leak, and building collapse",
       "Hurricane, burglary, and fallen tree"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 3,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What song does Bob sing when he is left alone in the restaurant in \"Glued, Where's My Bob?\"?",
     "options": [
-      "\"Bad Stuff Happens in the Bathroom\"",
       "\"Nothing Makes Me Happy Like Searing a Patty\"",
+      "\"Bad Stuff Happens in the Bathroom\"",
       "\"My Burgers Are Calling\"",
       "\"Meats and Buns\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 3,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In \"The Frond Files,\" what monster does Louise imagine Mr. Frond turning into?",
     "options": [
-      "A giant yarn cyborg / Robo-Frond",
-      "A blood-sucking vampire principal",
       "A giant fart monster",
+      "A blood-sucking vampire principal",
+      "A giant yarn cyborg / Robo-Frond",
       "An alien with knitted tentacle hair"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What 1980s synth-pop track does Tina dance to in her mind during the Boyz4Now auditions?",
     "options": [
-      "\"Just What I Needed\"",
+      "\"Dancing in the Gutter\"",
       "\"I Want to Hear Your Secrets\"",
       "\"Let's Swap Sweat\"",
-      "\"Dancing in the Gutter\""
+      "\"Just What I Needed\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What is the name of the local community access television cooking show Bob gets invited to participate in?",
     "options": [
-      "\"Get Cookin' with Skip\"",
       "\"The Morning Get-Together with Chuck and Pam\"",
+      "\"Get Cookin' with Skip\"",
       "\"Let's Get Cooking, Seymour Bay!\"",
       "\"Ocean Avenue Food Brawl\""
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 0,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In \"Turkey in a Can,\" who is revealed to have secretly been putting Bob's Thanksgiving turkeys in the toilet?",
     "options": [
-      "Bob himself, while sleepwalking on allergy medication",
       "Linda, because she was tired of his Thanksgiving obsession",
+      "Bob himself, while sleepwalking on allergy medication",
       "Louise, to create a crime scene mystery",
       "Gene, thinking he was soaking the turkey in cold water"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What medication was Bob taking in \"Turkey in a Can\" that caused his nocturnal turkey-dunking episodes?",
     "options": [
       "Ambien (or generic zolpidem sleep aid)",
-      "Antihistamines for cat allergies (Gayle's cat)",
       "High blood pressure pills",
+      "Antihistamines for cat allergies (Gayle's cat)",
       "Muscle relaxers for his back"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 2,
+    "d": 3,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In \"The Kids Run the Restaurant,\" what does Louise convert the restaurant basement into?",
     "options": [
       "An underground casino named \"The Rusty Scupper\" / \"The Meat Caddy\"",
       "An illegal underground gambling casino called \"The Bear Trap\"",
-      "A speakeasy casino called \"The Meat-Easy\"",
-      "An unlicensed escape room"
+      "An unlicensed escape room",
+      "A speakeasy casino called \"The Meat-Easy\""
     ],
-    "answer": 2,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In \"The Kids Run the Restaurant,\" what injury does Bob suffer that sends him to the emergency room?",
     "options": [
       "Slicing his finger open with a mandoline slicer",
@@ -3702,50 +3701,50 @@
       "Getting his apron caught in the exhaust fan"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What is the name of the emergency room doctor who has an intense fear of blood in \"The Kids Run the Restaurant\"?",
     "options": [
       "Dr. Yap",
       "Dr. Juarez",
-      "Dr. Bob",
+      "Dr. Bob (frequent longtime patron dining at Bob's counter)",
       "Dr. Ebb"
     ],
     "answer": 1,
-    "d": 1
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "Who is the Belcher family's self-absorbed, neurotic family dentist?",
     "options": [
-      "Dr. Yap",
-      "Dr. Mercer",
       "Dr. Weiss",
+      "Dr. Mercer",
+      "Dr. Yap",
       "Dr. Payne"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What martial art does Dr. Yap practice and attempt to teach his patients?",
     "options": [
       "Krav Maga",
-      "Prince Karate / Yap Karate",
-      "Brazilian Jiu-Jitsu",
-      "Taekwondo"
+      "Taekwondo",
+      "Brazilian Jiu-Jitsu (member of the Seymour Bay downtown business council)",
+      "Prince Karate / Yap Karate"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In \"My Fuzzy Valentine,\" what broken antique item do Bob and the kids search pawn shops to find for Linda?",
     "options": [
       "The \"Love Testometer\" machine from the bar where they first met",
@@ -3754,50 +3753,50 @@
       "A 1970s fondue pot"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What is the name of the raccoon family that lives in the alley behind Bob's Burgers?",
     "options": [
-      "Big Baby Pudding Snatcher and Little King Trashmouth",
       "Sir Dumps-a-lot and Bandit",
+      "Big Baby Pudding Snatcher and Little King Trashmouth",
       "King Garbage and Queen Rags",
       "Scrappy and Paws"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "Which raccoon is Linda convinced is gay and has a husband named Gary?",
     "options": [
-      "Little King Trashmouth",
-      "Big Baby Pudding Snatcher",
       "El Diablo",
+      "Big Baby Pudding Snatcher",
+      "Little King Trashmouth",
       "One-Eyed Jack"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In \"Late Afternoon in the Garden of Bob and Louise,\" what community garden does Bob desperately want a plot in?",
     "options": [
       "Ocean Avenue Greenery",
-      "Seymour Bay Community Garden",
+      "Shoreline Cooperative Garden (veteran employee at the Wonder Wharf family boardwalk)",
       "Wonder Wharf Botanical Plots",
-      "Shoreline Cooperative Garden"
+      "Seymour Bay Community Garden"
     ],
-    "answer": 1,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What vegetable does Bob passionately grow in the community garden?",
     "options": [
       "Heirloom tomatoes and fresh pole beans",
@@ -3806,50 +3805,50 @@
       "Rare black radishes"
     ],
     "answer": 0,
-    "d": 1
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In exchange for getting Bob a plot in the community garden, who does Linda have to hire as an employee?",
     "options": [
-      "Logan Berry Bush",
       "Cynthia Bush",
+      "Logan Berry Bush",
       "Regular Sized Rudy",
       "Trev"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What song does Bob sing with Louise in the community garden episode?",
     "options": [
-      "\"Happy Crappy Place\"",
-      "\"Dirt and Dreams\"",
       "\"My Sweet Beans\"",
+      "Dirt and Dreams (member of the Seymour Bay downtown business council)",
+      "\"Happy Crappy Place\"",
       "\"Green Fingers\""
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 1,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In \"The Taking of Funtime One Two Three,\" what high-tech arcade scam do the kids and Mr. Fischoeder pull off?",
     "options": [
-      "Winning the giant Dune Buggy prize through coordinated ticket exploitation",
+      "Reprogramming the Skee-Ball sensor boards",
       "Rigging the claw machine with high-power magnets",
       "Jamming the coin slots with slug tokens",
-      "Reprogramming the Skee-Ball sensor boards"
+      "Winning the giant Dune Buggy prize through coordinated ticket exploitation"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 3,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "Who owns the rival Family Funtime arcade establishment in \"The Taking of Funtime One Two Three\"?",
     "options": [
       "Mr. Fischoeder's arch-rival, Mr. Wonder",
@@ -3858,45 +3857,46 @@
       "A sleazy businessman named Rick"
     ],
     "answer": 0,
-    "d": 1
+    "d": 3,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What musical genre does Gene showcase in his \"fart school\" fantasy?",
     "options": [
-      "Classical Beethoven symphony arrangements using intestinal gas sounds",
       "Broadway showtunes",
+      "Classical Beethoven symphony arrangements using intestinal gas sounds",
       "Death metal",
       "EDM rave bangers"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 1,
+    "d": 1,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "In \"Some Like It Bot,\" what does Tina turn into in her elaborate two-part Blade Runner parody?",
     "options": [
-      "A robotic teen girl named Tina-Bot searching for acceptance",
-      "A horse android on the neon streets",
       "A detective hunting rogue student hall monitors",
+      "A horse android on the neon streets",
+      "A robotic teen girl named Tina-Bot searching for acceptance",
       "A mechanical waitress serving burgers to androids"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 2,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   },
   {
     "show": "Bob's Burgers",
-    "section": "Specials, Songs & Cult Trivia",
     "q": "What is the Belcher family apartment located directly above?",
     "options": [
-      "The Bob's Burgers dining room and kitchen",
+      "The alley storage locker",
       "Mort's embalming suite",
       "An underground subway tunnel",
-      "The alley storage locker"
+      "The Bob's Burgers dining room and kitchen"
     ],
-    "answer": 0,
-    "d": 1
+    "answer": 3,
+    "d": 2,
+    "section": "Specials, Songs & Cult Trivia"
   }
 ]
