@@ -3892,7 +3892,7 @@ void main() {
             <button class="icon-btn-sm" data-c-act="deselect" data-cluster="${bM(e.name)}" aria-label="Deselect all ${bM(e.name)}" title="Deselect all">${sg.uncheckAll}</button>
           </div>
         </div>
-        <div class="chips">${e.topics.map(E=>{let w=ya.get(E.label),D=w>0?`<span class="badge" aria-label="${w} wins">${w}</span>`:"";return`<button class="fchip ${oA.groups.has(E.label)?"sel":""}" data-g="${bM(E.label)}">${bM(E.label)} (${E.count.toLocaleString()} questions)${D}</button>`}).join("")}</div>
+        <div class="chips">${e.topics.map(E=>{let w=ya.get(E.label),D=w>0?`<span class="badge" aria-label="${w} wins">${w}</span>`:"";return`<button class="fchip ${oA.groups.has(E.label)?"sel":""}" data-g="${bM(E.label)}">${bM(E.label)}${D}</button>`}).join("")}</div>
       </div>`).join("")}
     ${aM.tracks.length?`<div class="label">MUSIC</div>
     <div class="musicrow"><button class="switch ${aM.on?"on":""}" role="switch" aria-checked="${aM.on}" data-m="toggle" aria-label="Background music"><span class="knob"></span></button>

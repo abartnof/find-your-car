@@ -563,7 +563,7 @@ function renderMenu(keepScroll = false) {
         <div class="chips">${c.topics.map((g) => {
           const wins = topicWins.get(g.label);
           const badge = wins > 0 ? `<span class="badge" aria-label="${wins} wins">${wins}</span>` : '';
-          return `<button class="fchip ${S.groups.has(g.label) ? 'sel' : ''}" data-g="${ESC(g.label)}">${ESC(g.label)} (${g.count.toLocaleString()} questions)${badge}</button>`;
+          return `<button class="fchip ${S.groups.has(g.label) ? 'sel' : ''}" data-g="${ESC(g.label)}">${ESC(g.label)}${badge}</button>`;
         }).join('')}</div>
       </div>`).join('')}
     ${music.tracks.length ? `<div class="label">MUSIC</div>
