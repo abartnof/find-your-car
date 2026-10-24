@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Foundation', what board is George reluctantly appointed to honor his deceased fiancé?",
+    "options": [
+      "The Susan Ross Foundation board of directors",
+      "The Manhattan Children's Memorial Trust committee",
+      "The New York Philharmonic endowment review panel",
+      "The Upper West Side Historical Preservation council"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What martial arts class does Kramer proudly boast about dominating in 'The Foundation'?",
+    "options": [
+      "A senior citizen's judo self-defense program",
+      "A children's beginner karate class",
+      "An advanced adult Brazilian jiu-jitsu academy",
+      "A teenage Olympic taekwondo training session"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Soul Mate', who falls madly in love with Jerry's girlfriend Pam?",
+    "options": [
+      "David Puddy",
+      "Kenny Bania",
+      "Newman",
+      "Mickey Abbott"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Bizarro Jerry', what are the names of the three courteous, intellectual counterparts to Jerry, George, and Kramer?",
+    "options": [
+      "Kenneth, Glenn, and Franklin",
+      "Keith, Gordon, and Forrest",
+      "Kyle, Gregory, and Fletcher",
+      "Kevin, Gene, and Feldman"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What striking physical trait does Jerry's date Gillian have in 'The Bizarro Jerry'?",
+    "options": [
+      "\"Man-hands\" (enormous, powerful hands)",
+      "A deep, booming baritone speaking voice",
+      "A towering six-foot-six athletic stature",
+      "Uncontrollable twitching whenever nervous"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Little Kicks', how is Elaine's dancing at the J. Peterman staff party described?",
+    "options": [
+      "An erratic robotic jerk with flailing elbows and jumps",
+      "A full-body dry heave with frantic thumbs and little kicks",
+      "A wild flamenco stomp with exaggerated hip swings and hand clapping",
+      "An uncoordinated tap dance with awkward hand gestures"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What nickname does George earn at the staff party in 'The Little Kicks' after getting emotional?",
+    "options": [
+      "\"Weepin' Costanza\"",
+      "\"Tearful George\"",
+      "\"Cryin' George\"",
+      "\"Sobbin' Costanza\""
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Package', what provocative pose does George strike in his boudoir photo shoot?",
+    "options": [
+      "Posing shirtless while wearing an unbuttoned black leather motorcycle vest",
+      "Leaning against a marble fireplace holding a rose",
+      "Sitting wrapped in a silk bathrobe smoking a cigar",
+      "Lounging on a velvet chaise lounge in his underwear"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Fatigues', what traumatic event caused Frank Costanza's cooking PTSD during the Korean War?",
+    "options": [
+      "Accidentally poisoning his entire military platoon with spoiled meat",
+      "A heavy mortar shell completely destroying his field mess tent during dinner",
+      "Running out of rations during a brutal two-week mountain siege",
+      "Being captured by enemy scouts while foraging for wild mushrooms"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Checks', what song by The Eagles causes Elaine's boyfriend Brett to enter a trance-like state?",
+    "options": [
+      "\"Hotel California\"",
+      "\"Desperado\"",
+      "\"Tequila Sunrise\"",
+      "\"Peaceful Easy Feeling\""
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "How much are the royalty checks Jerry receives from a Japanese television broadcast in 'The Checks'?",
+    "options": [
+      "Fifty cents each check",
+      "Two dollars each",
+      "Twelve cents each",
+      "Five cents each"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Chicken Roaster', what fast-food franchise opens across from Kramer's apartment, shining an intense red neon light?",
+    "options": [
+      "Boston Market",
+      "Roy Rogers Restaurants",
+      "Popeyes Famous Fried Chicken",
+      "Kenny Rogers Roasters"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What happens to Jerry and Kramer after they swap apartments to escape the red neon light in 'The Chicken Roaster'?",
+    "options": [
+      "They gradually adopt each other's distinct personalities and habits",
+      "They get into a massive physical feud over apartment maintenance",
+      "Jerry's comedy career thrives while Kramer becomes a recluse",
+      "Kramer's apartment catches fire from an unattended electric hot plate appliance"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What vegetable does Newman famously spit out in disgust when Jerry tests him in 'The Chicken Roaster'?",
+    "options": [
+      "Asparagus (\"Repulsive stalks!\")",
+      "Broccoli (\"Vile weed!\")",
+      "Brussels sprouts (\"Poison cabbage!\")",
+      "Cauliflower (\"Disgusting fungus!\")"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Abstinence', what extraordinary mental transformation happens to George when he stops having sex?",
+    "options": [
+      "He develops photographic memory and masters five foreign languages simultaneously",
+      "He predicts stock market fluctuations with pinpoint accuracy",
+      "He becomes an absolute intellectual genius with vast knowledge",
+      "He composes an entire classical symphony in forty-eight hours"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Which New York Yankees baseball star does a genius George teach physics and hitting mechanics to in 'The Abstinence'?",
+    "options": [
+      "Paul O'Neill and Tino Martinez",
+      "Don Mattingly and Wade Boggs",
+      "Mariano Rivera and Andy Pettitte",
+      "Derek Jeter and Bernie Williams"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Andrea Doria', what tragic historical event does George use to compete for a tenant co-op apartment?",
+    "options": [
+      "Recounting the pathetic, misery-filled failures of his entire life",
+      "Claiming his ancestors perished aboard the Titanic in 1912",
+      "Faking a severe disability suffered during a volunteer rescue effort",
+      "Pretending he survived the catastrophic sinking of the Andrea Doria"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Who is George's apartment rival who actually survived the 1956 Andrea Doria shipwreck?",
+    "options": [
+      "Arthur Blank",
+      "Alan Grayson",
+      "Harold Lieberman",
+      "Martin van Nostrand"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Little Jerry', what kind of animal is 'Little Jerry Seinfeld', purchased by Kramer at an auction?",
+    "options": [
+      "A miniature show greyhound",
+      "A prize-winning racing pigeon",
+      "A champion fighting rooster",
+      "A pedigree French bulldog puppy"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Why does Marcelino, the bodega owner, force Little Jerry into illegal cockfights?",
+    "options": [
+      "To pay off Kramer's delinquent bodega grocery tab",
+      "To win exclusive distribution rights to Cuban cigars",
+      "To win ownership of a classic vintage automobile",
+      "To settle a bounced check Jerry wrote at his store"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Comeback', what zinger does George spend days agonizing over after coworker Reilly mocks him for eating shrimp?",
+    "options": [
+      "\"The jerk store called, and they're running out of you!\"",
+      "\"Your face called, and it wants its ugly features returned!\"",
+      "\"The village idiot society called, and they need a president!\"",
+      "\"The cheap suit warehouse called, and they want their polyester!\""
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Where does George fly at his own expense just to deliver his 'jerk store' comeback line to Reilly?",
+    "options": [
+      "Cleveland, Ohio (to a sports executive convention)",
+      "Akron, Ohio (to a corporate board meeting)",
+      "Chicago, Illinois (to an architectural seminar)",
+      "Detroit, Michigan (to an industrial manufacturing summit)"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What crushing counter-comeback does Reilly deliver to George after George says his 'jerk store' line?",
+    "options": [
+      "\"Did it take you three whole days on an airplane to think of that?!\"",
+      "\"Nobody in this room has ever heard a more pathetic comeback!\"",
+      "\"What's the difference? You're their all-time best seller!\"",
+      "\"Why don't you fly back to Queens where you belong!\""
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Van Buren Boys', what hand sign protects George from being mugged by the street gang?",
+    "options": [
+      "Flashing a peace sign followed by a clenched fist",
+      "Tapping both temples with index fingers simultaneously",
+      "Crossing both forearms into an aggressive defensive Roman numeral 'X'",
+      "Holding up eight fingers (Martin Van Buren was the 8th president)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Susie', what fictional coworker does Elaine invent to avoid taking responsibility at J. Peterman?",
+    "options": [
+      "Susie",
+      "Samantha",
+      "Stephanie",
+      "Sharon"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What happens when J. Peterman insists on holding a formal memorial service for the fictional Susie?",
+    "options": [
+      "George pretends to be Susie's grieving widower from New Jersey",
+      "Elaine is forced to deliver a heartfelt eulogy for her fictional alter ego",
+      "Kramer accidentally reveals that Susie never existed to the staff",
+      "Peterman names an entire safari outerwear collection after the departed Susie"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Pothole', what section of highway does Kramer adopt and maintain with his own tools?",
+    "options": [
+      "Mile 42 of the congested Long Island Expressway",
+      "Mile 88 of the Grand Central Parkway",
+      "Mile 114 of the Arthur Burkhardt Expressway",
+      "Mile 15 of the Henry Hudson Parkway"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What radical redesign does Kramer implement on the adopted expressway in 'The Pothole'?",
+    "options": [
+      "Planting rows of exotic decorative palm trees along the median strip",
+      "Installing wooden toll booths charging fifty cents per vehicle",
+      "Setting up roadside espresso stands at every emergency pull-off",
+      "Repainting four lanes into two extra-wide luxury comfort lanes"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The English Patient', what award-winning movie does Elaine absolutely despise while everyone else loves it?",
+    "options": [
+      "The English Patient",
+      "Dances with Wolves (Extended Director's Cut)",
+      "Schindler's List",
+      "Braveheart"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What does Elaine scream inside a crowded movie theater during 'The English Patient'?",
+    "options": [
+      "\"This is the most painfully boring romantic melodrama ever filmed!\"",
+      "\"Quit telling your stupid story about the stupid desert and just die already!\"",
+      "\"Somebody please turn the projector off and end this absolute misery!\"",
+      "\"I cannot endure another second of this pretentious drivel!\""
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Nap', what secret renovation does George have built under his desk at Yankee Stadium?",
+    "options": [
+      "A concealed mini-refrigerator stocked with pastrami and beer",
+      "A hidden flat-screen television connected to cable sports",
+      "A custom enclosed sleeping compartment with shelves and alarm",
+      "A subterranean secret trapdoor leading directly out to the visitor's dugout"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What does George Steinbrenner assume when he hears ticking coming from under George's desk in 'The Nap'?",
+    "options": [
+      "He thinks George has installed an illegal sports ticker wire",
+      "He assumes George is building a high-tech espionage bugging system",
+      "He believes George has a defective mechanical pacemaker",
+      "He believes there is a live terrorist bomb under the desk"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Yada Yada', what catchphrase does George's girlfriend Marcy repeatedly use to gloss over key details?",
+    "options": [
+      "\"Yada yada yada\"",
+      "\"Et cetera, et cetera\"",
+      "\"And so on and so forth\"",
+      "\"Blah blah blah\""
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What critical life detail does Marcy skip using 'yada yada yada' that shocks George?",
+    "options": [
+      "Her secret past marriage and three children in New Jersey",
+      "Her ex-boyfriend visiting and sleeping with her",
+      "Her criminal conviction for grand larceny embezzlement",
+      "Her resignation from her corporate vice president position"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Yada Yada', why does dentist Tim Whatley convert to Judaism, according to an infuriated Jerry?",
+    "options": [
+      "To qualify for an exclusive dental society medical grant",
+      "To marry a wealthy Manhattan socialite heiress",
+      "Purely for the jokes, allowing him to make Jewish jokes freely",
+      "To win over an influential dental equipment supplier with business connections"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What label does Jerry earn when he complains about Tim Whatley's conversion to Father Curtis?",
+    "options": [
+      "A \"dental bigot\"",
+      "A \"hygiene skeptic\"",
+      "A \"tooth persecutor\"",
+      "An \"anti-dentite\""
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Millennium', what year does Newman book the Rainbow Room for his millennium party?",
+    "options": [
+      "The year 2001 (the actual mathematical start of the millennium)",
+      "The year 2000 (New Year's Eve 1999)",
+      "The year 1999 (New Year's Eve 1998)",
+      "The year 2002 (to avoid peak Manhattan holiday reservation surcharges)"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Muffin Tops', what is the culinary premise of the bakery Elaine and Mr. Lippman open?",
+    "options": [
+      "Baking oversized savory muffins stuffed with artisanal imported European cheeses",
+      "Selling exclusively the tops of muffins and discarding the stumps",
+      "Serving gluten-free muffins paired with imported teas",
+      "Offering twenty varieties of organic whole grain breakfast loaves"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What is the slogan of Elaine and Lippman's muffin bakery in 'The Muffin Tops'?",
+    "options": [
+      "\"Just the Tops, Never the Bottom!\"",
+      "\"Muffin Tops and Nothing Else!\"",
+      "\"Top of the Muffin to You!\"",
+      "\"The Crown of the Muffin!\""
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Who aggressively refuses to accept the discarded muffin stumps at the local homeless shelter?",
+    "options": [
+      "Mabel Choate",
+      "Manhattan socialite Mrs. Ross",
+      "Estelle Costanza",
+      "Rebecca DeMornay"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What memorable complaint does Rebecca DeMornay shout about the muffin stumps?",
+    "options": [
+      "\"They're just stumps! Why don't you drop off some chicken skins and lobster shells?!\"",
+      "\"We are a community shelter, not a commercial compost dumping ground!\"",
+      "\"If you won't eat the bottom of the muffin, don't dump it on the poor!\"",
+      "\"We need real nutritional meals, not discarded pastry trash from the rich!\""
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Summer of George', what financial windfall allows George to plan an entire summer of relaxation?",
+    "options": [
+      "A substantial inheritance from a distant great-uncle in Florida",
+      "A massive three-month severance package from the New York Yankees",
+      "A lucrative court settlement from a slip-and-fall accident at a Manhattan bank",
+      "Winning twenty-five thousand dollars on an off-track horse wager"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What physical accident brings 'The Summer of George' to an abrupt, tragic halt?",
+    "options": [
+      "Getting struck by a speeding bicycle messenger in Central Park",
+      "Falling straight through a rotten wooden floorboard on his parents' front porch",
+      "Tripping over his own discarded clothes and tumbling down the stairs",
+      "Dislocating his shoulder while playing recreational frisbee"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Soul Mate', what medical procedure does Kramer undergo to please his new romantic interest?",
+    "options": [
+      "Laser eye corrective surgery",
+      "A holistic spine realignment therapy",
+      "A sinus reduction surgery",
+      "A vasectomy reversal procedure"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Fatigues', who does Bania hire as his professional comedy mentor?",
+    "options": [
+      "Kenny Bania hires Jerry, who passes him to George",
+      "Kenny Bania hires Jerry's stand-up rival Pat Buckles",
+      "Kenny Bania pays George Costanza five hundred dollars for joke punchlines",
+      "Kenny Bania enrolls in an intensive improv conservatory in Chicago"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Package', what illegal action does Kramer attempt at the post office with a package?",
+    "options": [
+      "Mailing a live poisonous desert tarantula to Newman's boss",
+      "Insuring an empty box and then claiming it was damaged in transit",
+      "Shipping counterfeit luxury watches overseas through diplomatic mail",
+      "Stealing official pre-stamped priority parcels from behind the counter"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Little Jerry', what bodega item does Jerry pay for with a check that bounces, humiliating him?",
+    "options": [
+      "A six-pack of imported mineral water and magazines",
+      "A jar of gourmet roasted peanuts and laundry detergent",
+      "A carton of milk and a pastry snack",
+      "A container of orange juice and a morning newspaper"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Checks', why does Jerry suffer severe wrist cramps that prevent him from performing?",
+    "options": [
+      "Signing thousands of promotional headshot photographs for an agency",
+      "Playing four consecutive games of competitive racquetball with George",
+      "Carrying Morty Seinfeld's heavy executive sample cases across town",
+      "Endorsing hundreds of twelve-cent royalty checks by hand"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Millennium', what ranking does Jerry's girlfriend assign him on her phone speed dial, causing drama?",
+    "options": [
+      "Speed dial position number 7",
+      "Speed dial position number 3 on the phone keypad",
+      "Speed dial position number 9",
+      "Speed dial position number 5"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Pothole', what prized possession of Jerry's girlfriend Jenna falls into the toilet bowl?",
+    "options": [
+      "Her vintage diamond engagement ring from a past fiancé",
+      "Her toothbrush, which Jerry secretly fails to discard",
+      "Her designer prescription horn-rimmed eyeglasses",
+      "Her gold heirloom locket necklace containing family portraits"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Butter Shave', what household condiment does Kramer use as a luxurious shaving cream alternative?",
+    "options": [
+      "Extra virgin olive oil",
+      "Whipped marshmallow cream",
+      "Pure dairy butter",
+      "Pure organic mayonnaise"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What happens to Kramer when he falls asleep while sunbathing on the apartment roof coated in butter?",
+    "options": [
+      "A flock of aggressive urban park pigeons pecks at his buttered face and arms",
+      "His skin breaks out in an acute allergic dermatological rash",
+      "He gets locked out on the rooftop in ninety-degree summer heat",
+      "He literally bakes in the sun and Newman smells cooked poultry"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Voice', what sound effect does Jerry invent to mock his girlfriend Claire's belly button?",
+    "options": [
+      "\"Helloooo! La la la!\"",
+      "\"Heyyyy there! Ha ha ha!\"",
+      "\"Good morning! Cha cha cha!\"",
+      "\"Look at me! Tra la la!\""
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Who is Kramer's dedicated college intern at Kramerica Industries in 'The Voice'?",
+    "options": [
+      "Todd from Columbia",
+      "Darren from NYU",
+      "Bradley from Fordham",
+      "Arthur from Cornell"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What revolutionary maritime safety invention does Kramerica Industries test by dropping from a window?",
+    "options": [
+      "A self-inflating multi-passenger high-seas life raft",
+      "A puncture-proof buoyant neoprene hull lining safety blanket for cargo vessels",
+      "A giant oil tanker bladder filled with synthetic motor oil",
+      "A pressurized chemical fire suppressant foam sphere"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What happens when the Kramerica oil bladder is dropped out of a high-story window in 'The Voice'?",
+    "options": [
+      "It explodes across five parked luxury vehicles on West 81st Street",
+      "It crushes an expensive antique street vendor pretzel cart to splinters",
+      "It bounces fifty feet into the air and crashes through a luxury boutique storefront window",
+      "It lands directly on Jerry's girlfriend Claire, completely covering her in oil"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Serenity Now', what mantra does Frank Costanza scream at the top of his lungs to lower his blood pressure?",
+    "options": [
+      "\"Serenity now!\"",
+      "\"Tranquility now!\"",
+      "\"Peace of mind now!\"",
+      "\"Calmness now!\""
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What warning does Lloyd Braun give to George about Frank's 'Serenity now' relaxation method?",
+    "options": [
+      "\"Repression today brings destruction tomorrow!\"",
+      "\"Serenity now, insanity later!\"",
+      "\"You cannot scream your way to emotional tranquility!\"",
+      "\"Anger bottled up will shatter your entire psyche!\""
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What merchandise are George and Lloyd Braun competing to sell over the phone from Frank's garage?",
+    "options": [
+      "Industrial grade water filtration systems",
+      "Subscription sets of encyclopedia volumes",
+      "Outdated personal desktop computers",
+      "Discounted commercial cellular telephone units"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Blood', what bodily fluid does Jerry receive from Kramer during an emergency hospital procedure?",
+    "options": [
+      "A bone marrow transplant donation",
+      "A plasma transfusion enriched with vitamins",
+      "An experimental blood serum developed abroad",
+      "Three pints of Kramer's personal blood"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Junk Mail', what drastic action does Kramer take against the United States Postal Service?",
+    "options": [
+      "Demanding that the postal service permanently cancel all of his mail",
+      "Dumping thousands of promotional flyers into a street sewer drain",
+      "Supergluing his apartment mail slot shut with industrial epoxy",
+      "Chain-locking the main entrance doors of the neighborhood post office"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Which actor plays intimidating Postmaster General Henry Atkins in 'The Junk Mail'?",
+    "options": [
+      "R. Lee Ermey",
+      "Wilford Brimley",
+      "Veteran actor Brian Dennehy",
+      "Ned Beatty"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Merv Griffin Show', where does Kramer find the vintage talk show set that he rebuilds in his apartment?",
+    "options": [
+      "At an eccentric prop warehouse liquidation auction in Brooklyn",
+      "In an abandoned basement storage room of an NBC broadcast facility",
+      "Discarded in a commercial dumpster behind a television studio",
+      "At an estate sale held at a retired television producer's estate"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Who serves as Kramer's loyal sidekick and announcer on his apartment talk show set?",
+    "options": [
+      "Mickey Abbott",
+      "David Puddy",
+      "Kenny Bania",
+      "Newman"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What dangerous live predator does animal expert Jim Fowler bring onto Kramer's talk show?",
+    "options": [
+      "A vicious, screeching red-tailed hawk",
+      "A six-foot South American boa constrictor",
+      "A pair of aggressive Australian honey badgers",
+      "A juvenile spotted leopard from an animal sanctuary"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Slicer', what commercial appliance does Kramer install in his apartment kitchen?",
+    "options": [
+      "An industrial rotary cheese grating machine",
+      "A heavy-duty commercial deli meat slicer",
+      "A high-capacity commercial soft-serve ice cream freezer",
+      "A restaurant-grade stainless steel deep fat fryer"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What industrial company does George get hired by in 'The Slicer', run by an incompetent, careless boss?",
+    "options": [
+      "Pendant Engineering Logistics",
+      "Sanfilippo Surface Finishing",
+      "Kruger Industrial Smoothing",
+      "Vandelay Industrial Polishing"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What is the relaxed catchphrase of company president Mr. Kruger at Kruger Industrial Smoothing?",
+    "options": [
+      "\"Smooth sailing!\"",
+      "\"No worries at all!\"",
+      "\"Take it easy!\"",
+      "\"K-UGER!\""
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Betrayal', which takes place in reverse chronological order, where does the gang travel for a wedding?",
+    "options": [
+      "India (for Sue Ellen Mischke's wedding)",
+      "Italy (for Bob Cobb's destination villa wedding)",
+      "Greece (for an international publisher's reception)",
+      "Mexico (for a high-society fashion boutique event)"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What is the name of Sue Ellen Mischke's groom in 'The Betrayal'?",
+    "options": [
+      "Architect Rajesh",
+      "Preeyan",
+      "Vikram",
+      "Sanjay"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Apology', which actor guest stars as recovering alcoholic Jason Hanke, who refuses to apologize to George?",
+    "options": [
+      "Bryan Cranston",
+      "William H. Macy",
+      "James Spader",
+      "Robert Downey Jr."
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What past incident does George insist Jason Hanke must formally apologize for under Step 9 of AA?",
+    "options": [
+      "Mocking George's early hair loss in front of their high school peers",
+      "Spilling red punch down the front of George's favorite tailored dress shirt",
+      "Taking credit for an architectural joke George whispered to him at dinner",
+      "Refusing to lend George an oversized cashmere sweater at a party"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Strike', what holiday did Frank Costanza invent as an alternative to the commercialism of Christmas?",
+    "options": [
+      "Festivus (\"A Festivus for the rest of us!\")",
+      "Costanzamas (\"The True Winter Holiday\")",
+      "Antimas (\"Peace Without Commercial Products\")",
+      "Franktivus (\"The Celebration of Real Strength\")"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What unadorned symbol is displayed in the living room during the celebration of Festivus?",
+    "options": [
+      "A decorated wooden coat rack with brass hooks",
+      "A plain, unadorned aluminum pole",
+      "A stainless steel kitchen utensil hanging rack",
+      "A bare evergreen pine branch in a ceramic jar"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What are the two core participatory traditions of the Festivus celebration dinner?",
+    "options": [
+      "The Sharing of Regrets and the Arm Wrestling Tournament",
+      "The Listing of Insults and the Living Room Tug-of-War",
+      "The Airing of Grievances and the Feats of Strength",
+      "The Confession of Blunders and the Midnight Footrace"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What fake charity does George invent to avoid spending money on Christmas gifts for coworkers?",
+    "options": [
+      "\"The Costanza Benevolent Trust\"",
+      "\"The Manhattan Society for Needy Families\"",
+      "\"The Greater Urban Welfare Foundation\"",
+      "\"The Human Fund\" (\"Money for People\")"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Dealership', what chocolate candy bar gets stuck in the vending machine, driving George insane with hunger?",
+    "options": [
+      "A Twix candy bar",
+      "A Snickers candy bar",
+      "A Kit Kat wafer bar",
+      "A 100 Grand caramel bar"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What candy slogan does George passionately argue proves Twix is unique in 'The Dealership'?",
+    "options": [
+      "\"Twix delivers double the caramel satisfaction!\"",
+      "\"Twix is the only candy with the cookie crunch!\"",
+      "\"Twix gives you two bars of pure perfection!\"",
+      "\"Twix satisfies your chocolate hunger every time!\""
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What celebratory gesture does car salesman David Puddy obsessively perform in 'The Dealership'?",
+    "options": [
+      "Loud rhythmic knuckles fist-bumps",
+      "Enthusiastic two-handed shoulder claps",
+      "Aggressive, enthusiastic high-fives",
+      "Snapping his fingers followed by finger-guns"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Reverse Peephole', why does Kramer install his apartment door peephole backwards?",
+    "options": [
+      "To allow hallway neighbors to check on his health easily",
+      "Because building management installed the optical hardware in reverse",
+      "To prevent light from escaping into the communal hallway at night",
+      "To see if anyone is waiting inside his apartment before entering"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What distinctive jacket does David Puddy wear that Elaine finds utterly mortifying in 'The Reverse Peephole'?",
+    "options": [
+      "A leather 8-ball jacket and a full-length fur coat",
+      "A bright neon yellow NASCAR racing windbreaker",
+      "A studded punk rock biker leather vest with chains",
+      "A silver metallic astronaut bomber flight jacket with authentic patches"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Cartoon', what publication prints a cartoon that Elaine finds completely incomprehensible?",
+    "options": [
+      "The Atlantic Monthly",
+      "The New Yorker magazine",
+      "The New York Times Magazine",
+      "Esquire Magazine"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What animals are depicted in The New Yorker cartoon that baffles Elaine in 'The Cartoon'?",
+    "options": [
+      "Two dogs drinking martinis at a cocktail lounge",
+      "A cat wearing spectacles operating a typewriter",
+      "A pig standing at a complaint department desk",
+      "An elephant sitting in an executive swivel chair"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Which comedian guest stars as Sally Weaver, who builds an entire stand-up routine mocking Jerry in 'The Cartoon'?",
+    "options": [
+      "Sandra Bernhard",
+      "Janeane Garofalo",
+      "Judy Tenuta",
+      "Kathy Griffin"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Strongbox', what does Kramer hide inside the cemetery grave of Jerry's pet bird Fred?",
+    "options": [
+      "The key to his apartment strongbox safe",
+      "A stash of five thousand dollars in unmarked currency",
+      "A vintage cassette tape recording of Jerry's earliest stand-up",
+      "A signed autographed baseball from Mickey Mantle"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Wizard', what knockoff electronic organizer does George purchase for Morty Seinfeld instead of a PalmPilot?",
+    "options": [
+      "\"The PalmWizard\"",
+      "\"The Willard\"",
+      "\"The HandyMate\"",
+      "\"The CompuOrganizer\""
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Burning', what musical genre does David Puddy listen to in his car that alarms Elaine?",
+    "options": [
+      "Traditional Bavarian polka accordion broadcasts",
+      "Harsh underground death metal radio stations",
+      "Christian rock radio stations",
+      "Avant-garde twelve-tone electronic synthesizer noise"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What meeting technique does George adopt at Kruger Industrial Smoothing to appear brilliant in 'The Burning'?",
+    "options": [
+      "Nodding thoughtfully while taking copious notes on legal pads",
+      "Asking complex rhetorical questions before anyone at the meeting can answer",
+      "Standing during all executive discussions to dominate the table",
+      "Leaving the room immediately after delivering a funny or sharp remark"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Bookstore', what happens to the expensive French art book after George takes it into the restroom?",
+    "options": [
+      "The bookstore flags the barcode as 'bathroom contaminated' and forces him to buy it",
+      "He accidentally drops the book into the sink filled with soapy water",
+      "The store security alarms sound as he attempts to exit the restroom",
+      "An employee confiscates the art book and bans George from all Manhattan retail locations"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What title does the French art book have that George gets stuck purchasing in 'The Bookstore'?",
+    "options": [
+      "Monet and Modern Light by Abrams Publishing",
+      "French Impressionist Paintings by Brentano's",
+      "Masterpieces of the Louvre by Thames & Hudson",
+      "The Art of Post-Impressionism by Rizzoli"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Who does Jerry catch brazenly shoplifting books at Brentano's bookstore in 'The Bookstore'?",
+    "options": [
+      "Jack Klompus",
+      "Newman",
+      "Uncle Leo",
+      "Kenny Bania"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Frogger', what video arcade cabinet does George buy to preserve his legendary high score?",
+    "options": [
+      "A classic Pac-Man arcade cabinet",
+      "An original Space Invaders cabinet",
+      "A Donkey Kong arcade console",
+      "A vintage Frogger arcade machine"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What three-letter initials mark George's unbeatable high score on the Frogger machine?",
+    "options": [
+      "\"GLC\" (George Louis Costanza)",
+      "\"GMC\" (George Michael Costanza)",
+      "\"GCC\" (George Christopher Costanza)",
+      "\"GEC\" (George Edward Costanza)"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What eccentric rogue electrician does Kramer hire to help George transport the Frogger machine without losing power?",
+    "options": [
+      "Eccentric electrician Shifty Jack",
+      "Slippery Pete",
+      "Greasy Joe",
+      "Sparky Bob"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "How is the Frogger machine tragically destroyed at the conclusion of 'The Frogger'?",
+    "options": [
+      "The battery backup drains five seconds before reaching the wall outlet",
+      "Slippery Pete accidentally spills a cup of hot coffee into the main circuit board",
+      "It is crushed by a Mack truck while George navigates across 8th Avenue",
+      "It tumbles down the basement staircase of Jerry's apartment building"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Maid', what cool nickname does George desperately try to bestow upon himself at work?",
+    "options": [
+      "\"The Hammer\"",
+      "\"Razor\"",
+      "\"Maverick\"",
+      "\"T-Bone\""
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What demeaning nickname does Mr. Kruger give George instead of 'T-Bone' in 'The Maid'?",
+    "options": [
+      "\"Koko\" (the gorilla)",
+      "\"Chimp\"",
+      "\"Peanut\"",
+      "\"Bubbles\""
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Puerto Rican Day', what alias does Kramer use when viewing a luxury apartment during the traffic gridlock?",
+    "options": [
+      "Dr. Martin van Nostrand (noted pediatrician)",
+      "H.E. Pennypacker (wealthy industrialist)",
+      "Art Vandelay (real estate magnate)",
+      "Kel Varnsen (international importer)"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Finale', what small Massachusetts town does Jerry's private jet make an emergency landing in?",
+    "options": [
+      "Stockbridge, Massachusetts",
+      "Pittsfield, Massachusetts",
+      "Latham, Massachusetts",
+      "Great Barrington, Massachusetts"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What local statute are Jerry, George, Elaine, and Kramer arrested for violating in 'The Finale'?",
+    "options": [
+      "Reckless criminal endangerment of innocent municipal bystanders in public",
+      "Disorderly conduct and public harassment of emergency officers",
+      "Filing a fraudulent aviation incident report with authorities",
+      "The Good Samaritan Law (failing to assist a carjacking victim)"
+    ],
+    "answer": 3,
+    "d": 1
+  }
+]

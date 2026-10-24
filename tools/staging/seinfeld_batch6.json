@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Seinfeld",
+    "q": "What special physical feature does Kramer's coffee table book about coffee tables have?",
+    "options": [
+      "It has four fold-out wooden legs, turning into a coffee table itself",
+      "It includes a built-in electric cup-warmer heating pad",
+      "It features an expandable pop-up wooden chessboard surface",
+      "It contains an insulated hidden storage compartment for coasters and cups"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What scent does Kramer invent for a men's cologne that Calvin Klein allegedly steals as 'Ocean'?",
+    "options": [
+      "The crisp aroma of autumn pine needles",
+      "The fresh scent of the ocean beach",
+      "The musky fragrance of aged leather book bindings",
+      "The sweet scent of freshly mowed lawn grass"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What automotive periscope invention does Kramer propose to see past traffic jams?",
+    "options": [
+      "A front-bumper optical laser sensor detecting slow cars",
+      "An elevated drone camera linked to dashboard screens",
+      "A roof-mounted periscope providing panoramic views over vehicles",
+      "A hydraulic pneumatic cabin lift hoisting cars two feet above surrounding vehicles"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What restaurant concept does Kramer pitch where customers prepare their own food?",
+    "options": [
+      "A roll-your-own sushi bar with imported Japanese seaweed",
+      "A grill-your-own burger steakhouse with charcoal pits",
+      "A toss-your-own pasta station with simmering gourmet sauces and garlic bread",
+      "A make-your-own pizza parlor with customized ingredients"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What nationality are the 'Cuban' cigar rollers Kramer hires, who turn out to be posers?",
+    "options": [
+      "Dominican Republic citizens",
+      "Puerto Rican tobacco workers",
+      "Costa Rican agricultural laborers",
+      "Colombian coffee bean farmers"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What pasta statue does Kramer sculpt for Bette Midler in 'The Understudy'?",
+    "options": [
+      "\"Linguine Liza\"",
+      "\"Macaroni Midler\"",
+      "\"Rigatoni Rosemary\"",
+      "\"Spaghetti Streisand\""
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What heavy office furniture piece does Kramer place in the hallway of his apartment building?",
+    "options": [
+      "A four-drawer fireproof metal filing cabinet",
+      "A mahogany conference table with eight leather chairs",
+      "A massive antique wooden executive desk",
+      "A vintage leather high-back swivel reading armchair"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What accessory does Kramer invent that dispenses neckties from a roll like paper towels?",
+    "options": [
+      "A clip-on magnetic silk bowtie fastener",
+      "A motorized revolving necktie carousel rack",
+      "A pre-knotted necktie collar extension strap",
+      "A roll-out necktie dispenser cartridge"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What beverage does Kramer claim he invented during a hot summer day in his apartment?",
+    "options": [
+      "Coffee tea (steeping roasted coffee beans like tea)",
+      "Carbonated iced espresso with citrus peel",
+      "Cucumber-infused cold brew concentrate",
+      "Electrolyte-charged chilled herbal mocha espresso blend"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What pet ownership innovation does Kramer suggest to prevent city streets from getting messy?",
+    "options": [
+      "A motorized suction street sweeper for dog walkers",
+      "A diaper attachment harness designed for carriage horses",
+      "Biodegradable scented footwear booties for pets",
+      "A mechanical waste-collection belt for urban domestic dogs"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What does Kramer install in his apartment living room that shorts out the building's power grid?",
+    "options": [
+      "A commercial tanning bed with high-intensity ultraviolet bulbs",
+      "An authentic Scandinavian cedar dry sauna chamber",
+      "A heavy two-person outdoor wooden hot tub",
+      "A restaurant-grade walk-in meat refrigeration freezer"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What business name does Kramer give to his umbrella corporate enterprise?",
+    "options": [
+      "Cosmo Enterprises",
+      "Vandelay Global",
+      "Pennypacker Consolidated",
+      "Kramerica Industries"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What nickname does Kramer give to his signature exuberant physical entrance through Jerry's door?",
+    "options": [
+      "The sliding entrance",
+      "The hip-hop tumble",
+      "The tornado burst",
+      "The lightning slide across the room"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What does Kramer confess is his actual first name in Season 6's 'The Switch'?",
+    "options": [
+      "Casimir",
+      "Cosmo",
+      "Conrad",
+      "Constantine"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Who reveals Kramer's long-secret first name 'Cosmo' to Jerry and George on the street?",
+    "options": [
+      "His childhood friend Bob Sacamano",
+      "Newman during a heated hallway argument",
+      "Kramer's estranged mother, Babs Kramer",
+      "A postal inspector reading official government records"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What was Babs Kramer's occupation when she reappeared in Season 6?",
+    "options": [
+      "A hotel housekeeping maid at the Plaza",
+      "A night-shift dispatcher for yellow taxicabs",
+      "A commercial seamstress in the garment district",
+      "A luxury restaurant restroom attendant"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What high-stakes horse race gamble does Kramer celebrate winning by jumping up and down?",
+    "options": [
+      "His mudder horse 'Papanick' winning on a rainy track",
+      "\"Blue Streak\" winning the third race at Belmont",
+      "\"Captain Nemo\" coming from behind at Saratoga",
+      "\"Prickly Pete\" setting a new track speed record"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What does Kramer claim is a mudder horse's greatest genetic advantage?",
+    "options": [
+      "\"His hooves were engineered for wet marshland clay!\"",
+      "\"His mother was a mudder, his father was a mudder!\"",
+      "\"He runs with double the stamina when the track turns to soup!\"",
+      "\"Rain brings out the pure wild predatory instinct in him!\""
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What does Kramer do when a bank promises a hundred dollars if a teller doesn't say 'hello'?",
+    "options": [
+      "He stages a silent twenty-minute sit-in at the teller window",
+      "He calls the corporate customer service line from the lobby",
+      "He demands the reward when the teller only says 'Hey'",
+      "He hires Jackie Chiles to file a false advertising lawsuit"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What character does Kramer portray in medical simulations with Mickey Abbott in 'The Burning'?",
+    "options": [
+      "A senior executive recovering from heat stroke",
+      "A construction worker with a fractured femur",
+      "A sailor suffering from severe tropical dengue bonebreak fever",
+      "A patient suffering from acute gonorrheal symptoms"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What products does George claim Art Vandelay manufactures, imports, and exports?",
+    "options": [
+      "Latex, potato chips, and diapers",
+      "Corrugated cardboard boxes and industrial glue",
+      "Fine imported crystal and porcelain dinnerware",
+      "Synthetic plastics and hydraulic engine valves"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What porn star alias does George dream of adopting if he entered the adult film industry?",
+    "options": [
+      "Dirk Diggler",
+      "Buck Naked",
+      "Lance Sterling",
+      "Rex Steel"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What revolutionary material does George convince the New York Yankees to use for their uniforms?",
+    "options": [
+      "Ultra-lightweight micro-mesh synthetic polyester",
+      "Imported Egyptian combed silk-cotton blend",
+      "One hundred percent pure breathable cotton",
+      "High-performance moisture-wicking nylon weave"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What disaster occurs when the Yankees play in their new all-cotton uniforms in the heat?",
+    "options": [
+      "The dark dye bleeds onto the players' skin in the rain",
+      "The fabric absorbs heavy sweat and weighs fifteen pounds",
+      "The players develop severe friction heat blisters in games",
+      "The uniforms shrink dramatically and rip along the seams"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What legendary Yankees artifact does George accidentally ruin while driving Steinbrenner's car?",
+    "options": [
+      "Dragging the World Series championship trophy behind the car",
+      "Crashing into the iconic monuments in center field",
+      "Running over the home plate dirt with a motorized cart",
+      "Denting Babe Ruth's original game-worn wooden locker door frame"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What handicap does George pretend to suffer from while working at the Play Now sports company?",
+    "options": [
+      "Severe chronic lower spine degenerative disk disease causing pain",
+      "A permanent walking disability requiring a mobility cane",
+      "Acute vertigo that prevents him from climbing stairs",
+      "A neurological tremor that limits his physical balance"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What exclusive executive luxury does George receive at Play Now due to his fake disability?",
+    "options": [
+      "A private corporate limousine with dedicated driver",
+      "A chauffeured golf cart navigating the office corridors",
+      "A private, fully accessible executive bathroom suite",
+      "A first-floor corner office with a private terrace"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "How is George's fake disability scheme at Play Now finally exposed to the entire staff?",
+    "options": [
+      "He is spotted sprinting across the street to catch an express commuter bus",
+      "Security cameras capture him dancing at a colleague's wedding",
+      "He kicks a vending machine vigorously after losing his dollar",
+      "Coworkers catch him carrying his electric cart up a flight of stairs"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What photograph does George go to absurd lengths to steal from Mr. Kruger's office in 'The Slicer'?",
+    "options": [
+      "A beach photograph showing George photobombing Kruger's family",
+      "A snapshot showing George fast asleep during an executive review",
+      "A picture of George eating pastries out of an office garbage can",
+      "A photograph of George posing in his boudoir underwear shoot"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What cartoon character does George look like when Kruger has his family photo airbrushed?",
+    "options": [
+      "A caricature resembling Charlie Brown with glasses",
+      "A generic drawing resembling a round bald cartoon character",
+      "A hand-drawn figure of Elmer Fudd in bright yellow swimming trunks",
+      "A cartoon portrait resembling Mr. Magoo with no hair"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What architectural project does George claim he designed when boasting to Diane in 'The Marine Biologist'?",
+    "options": [
+      "The expansion wing of the Metropolitan Museum of Art",
+      "The glass pyramid entrance of the New York Public Library",
+      "The new addition to the Guggenheim Museum in Manhattan",
+      "The executive observation deck of the Chrysler Building"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What toilet observation does George passionately share that he claims qualifies him as a restroom expert?",
+    "options": [
+      "He can calculate the acoustic privacy rating of any public commercial stall",
+      "He knows the water pressure specifications of commercial pipes",
+      "He can predict the optimal door gap width to prevent eye contact",
+      "He knows the location of the best public restroom in every NYC neighborhood"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What candy does George leave on his boss's desk as a subtle hint to secure a promotion?",
+    "options": [
+      "A box of gourmet chocolate-covered raisins",
+      "A jar of expensive imported Swiss hazelnut truffles",
+      "A tin of dark chocolate espresso beans from Italy",
+      "A selection of artisanal almond bark from Bloomingdale's"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What board game does George play with 'The Bubble Boy' that ends in a violent physical brawl?",
+    "options": [
+      "Scrabble",
+      "Trivial Pursuit",
+      "Parker Brothers Monopoly Board Game",
+      "Risk"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What misprinted Trivial Pursuit card answer sparks George's fight with the Bubble Boy?",
+    "options": [
+      "\"Turks\" (instead of \"Greeks\")",
+      "\"Huns\" (instead of \"Goths\")",
+      "\"Moops\" (instead of \"Moors\")",
+      "\"Celts\" (instead of \"Gauls\")"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What is the name of the cantankerous Bubble Boy in Season 4's 'The Bubble Boy'?",
+    "options": [
+      "David Miller",
+      "Danny Cooper",
+      "Dennis Clark from Upstate New York",
+      "Donald Sanger"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What luxury leisure garment does George wear in 'The Doodle' that Jerry compares to a diaper?",
+    "options": [
+      "A full-body velvet leisure sweat suit",
+      "A silk kimono dressing robe with dragons",
+      "A terrycloth hooded sauna jumpsuit",
+      "A cashmere thermal union suit with buttons"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What declaration does George make about wearing velvet in 'The Doodle'?",
+    "options": [
+      "\"Velvet is the ultimate fabric of refined masculine elegance!\"",
+      "\"I would drape myself in velvet for the rest of my life if it were socially acceptable!\"",
+      "\"Nothing in this world feels more luxurious against the human epidermis!\"",
+      "\"If kings wore velvet every day, why should modern men settle for cotton!\""
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What baseball team does George Costanza claim to have had an audition with as a young prospect?",
+    "options": [
+      "A regional workout with the Kansas City Royals",
+      "A high school showcase with the Pittsburgh Pirates",
+      "A tryout scout meeting with the Texas Rangers",
+      "A pitching exhibition for the Cincinnati Reds"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What food obsession does George incorporate into his intimate encounters in 'The Blood'?",
+    "options": [
+      "Drinking chocolate milkshakes during bedroom encounters",
+      "Savoring hot slices of pepperoni pizza between kisses",
+      "Snacking on cold cocktail shrimp with extra spicy cocktail sauce",
+      "Eating pastrami sandwiches while engaged in romantic intimacy"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What does George call the combination of food, sex, and television in 'The Blood'?",
+    "options": [
+      "\"The trifecta\"",
+      "\"The holy trinity\"",
+      "\"The ultimate summit\"",
+      "\"The grand slam\""
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What high school gym teacher gave George the humiliating wedgie nicknamed the 'atomic wedgie'?",
+    "options": [
+      "Coach Ross",
+      "Mr. Heyman (who couldn't pronounce George's name)",
+      "Mr. Fitzpatrick",
+      "Coach Miller from the athletic department"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What nickname did Mr. Heyman give George during high school physical education class?",
+    "options": [
+      "\"Costanza-the-loser!\"",
+      "\"Short-stuff!\"",
+      "\"Can'tstandya!\"",
+      "\"Baldy-boy!\""
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Where does George find his long-lost high school nemesis Mr. Heyman in Season 3?",
+    "options": [
+      "Working as a security guard at an off-track betting parlor",
+      "Managing a dilapidated bowling alley in the Bronx",
+      "Sweeping the floors at a Queens public high school",
+      "Living as a homeless man on a Manhattan street corner"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What does George discover Mr. Heyman is still chewing decades after high school?",
+    "options": [
+      "The exact same brand of pungent tobacco",
+      "Slices of raw ginger root",
+      "Sticks of natural cinnamon bark chewing gum",
+      "Clove and anise seeds"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What physical aggressive gesture does Elaine perform whenever she hears shocking good news?",
+    "options": [
+      "Slapping both hands against the table while screaming \"NO WAY!\"",
+      "Shoving the person forcefully while screaming \"GET OUT!\"",
+      "Grabbing the person's lapels and shaking them vigorously",
+      "Spinning around in a complete circle with hands in the air"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What publishing house does Elaine work for as an assistant editor in the early seasons?",
+    "options": [
+      "Vanguard Books",
+      "Simon & Schuster",
+      "Pendant Publishing",
+      "Doubleday Publishing"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Who is Elaine's high-strung, perpetually stressed boss at Pendant Publishing?",
+    "options": [
+      "Mr. Pitt",
+      "Mr. Peterman",
+      "Mr. Kruger",
+      "Mr. Lippman"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What country did Elaine grow up in before moving to New York City for college?",
+    "options": [
+      "The United States (born and raised in suburban Maryland)",
+      "England (raised in a countryside boarding school in Surrey)",
+      "Canada (raised in a French-speaking family in Montreal)",
+      "France (spent childhood between Paris and Normandy)"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What famous private liberal arts college did Elaine attend in Massachusetts?",
+    "options": [
+      "Amherst College",
+      "Tufts University",
+      "Williams College",
+      "Boston University"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What odd habit does Elaine discover her therapist Dr. Reston has during their sessions?",
+    "options": [
+      "He falls asleep for twenty minutes while taking sparse notes",
+      "He charges her triple rates for appointments held on weekends",
+      "He uses psychological manipulation to control her dating life",
+      "He constantly compares her neuroses to classic literary heroines"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What video store clerk's curated movie recommendations does Elaine become obsessed with?",
+    "options": [
+      "Arthur's film recommendations at Blockbuster Video",
+      "Marcus's foreign cinema picks at Manhattan Video",
+      "Gene's art-house foreign cinema classics at Cinema World boutique",
+      "Vincent's staff picks at the local video rental shop"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What is the street address of Jerry Seinfeld's Upper West Side apartment building?",
+    "options": [
+      "129 West 81st Street",
+      "340 West 72nd Street Apartment Complex",
+      "215 West 86th Street",
+      "104 West 79th Street"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What is Jerry's apartment unit number throughout the entire television series?",
+    "options": [
+      "Apartment 4B on the fourth floor",
+      "Apartment 5A",
+      "Apartment 3C",
+      "Apartment 5B"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What comic book superhero figurine is visibly displayed on the living room shelf in Jerry's apartment?",
+    "options": [
+      "Batman",
+      "Spider-Man",
+      "Superman",
+      "The Flash"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What brand and color of bicycle hangs vertically on the wall near Jerry's bathroom door?",
+    "options": [
+      "A red Trek road racing bicycle",
+      "A blue Cannondale commuter bicycle",
+      "A silver Specialized hybrid bicycle",
+      "A green Klein mountain bicycle"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What food item dominates the kitchen shelves inside Jerry's apartment cabinets?",
+    "options": [
+      "Dozens of boxes of various commercial breakfast cereals",
+      "Jars of gourmet peanut butter and artisanal jams",
+      "Cans of imported Italian tomato sauces and pastas",
+      "Bottles of single-origin olive oils and balsamic vinegars"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What high-performance sports car brand is Jerry Seinfeld personally obsessed with in real life and on the show?",
+    "options": [
+      "Ferrari sports cars",
+      "Porsche sports cars",
+      "Corvette sports cars",
+      "Aston Martin sports cars"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What is the name of the neighborhood coffee shop where Jerry, George, Elaine, and Kramer eat daily?",
+    "options": [
+      "Tom's Restaurant Diner in Morningside Heights",
+      "Reggie's Diner",
+      "Monk's Diner (Monk's Cafe)",
+      "Mendy's Delicatessen"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What diner do Jerry and George briefly patronize when alienated from Monk's, only to hate it?",
+    "options": [
+      "Pete's Traditional Upper West Side Luncheonette",
+      "The Broadway Luncheonette",
+      "Max's Manhattan Grill",
+      "Reggie's Diner (which serves no Big Salad)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What does the waitress at Reggie's bluntly tell Elaine when Elaine tries to order a Big Salad?",
+    "options": [
+      "\"We don't have big bowls! If you want a salad, I can bring you two small ones.\"",
+      "\"We serve real diner meals here, not giant bowls of raw rabbit food!\"",
+      "\"Nobody in this neighborhood orders salad bowls that weigh three pounds!\"",
+      "\"If you want luxury salads, you need to walk three blocks to Monk's!\""
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What food item does Jerry refuse to eat if it has been touched by someone's bare fingers?",
+    "options": [
+      "Only poultry dishes and raw shellfish platters",
+      "Practically anything—Jerry is a hyper-vigilant germaphobe",
+      "Exclusively baked pastries and unpeeled orchard fruits",
+      "Only sushi rolls, fresh oysters, and raw sliced deli cold cuts"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Why does Jerry throw away an expensive leather belt in 'The Puerto Rican Day'?",
+    "options": [
+      "He noticed a hairline crack in the stitching of the brass buckle",
+      "A street vendor brushed against the leather with oily salted pretzel hands",
+      "The tip of the belt accidentally touched the floor of a public restroom",
+      "Kramer borrowed the belt to secure an overloaded postal package"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What happens to Jerry's shoelaces in 'The Gymnast' that causes him to discard them immediately?",
+    "options": [
+      "A drop of gutter rainwater splashed across the synthetic fabric",
+      "A stranger stepped on the trailing loop on a crowded subway platform",
+      "They touched the exterior rim of a public metal trash can",
+      "The laces brushed the public restroom floor while tying his shoe"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What stand-up comic rival constantly annoys Jerry with unsolicited scripts and invitations to lunch?",
+    "options": [
+      "Pat Buckles",
+      "Kenny Bania",
+      "Ronnie Kaye",
+      "Mickey Abbott"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What gift does Pat Buckles ask Jerry for during a ride in Jerry's car in 'The Movie'?",
+    "options": [
+      "Jerry's spare car keys for an emergency",
+      "Jerry's trench coat from the back seat",
+      "A five-hundred-dollar loan for an Edinburgh festival trip",
+      "An introduction to the talent booker for Jay Leno"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What radio station call letters broadcast the classical music station Jerry listens to in his car?",
+    "options": [
+      "WNYC (New York City Public Radio 93.9 FM broadcast)",
+      "WFUV",
+      "WQXR (New York's classical music radio station)",
+      "WINS"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What color is the exterior entryway door of Jerry Seinfeld's apartment 5A?",
+    "options": [
+      "Bright painted royal blue",
+      "Dark forest green high-gloss exterior lacquer",
+      "Industrial slate battleship gray",
+      "Standard institutional apartment brown"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What appliance does Kramer borrow from Jerry so frequently that it essentially stays in Kramer's kitchen?",
+    "options": [
+      "Jerry's electric citrus juicer and blender",
+      "Jerry's toaster oven appliance",
+      "Jerry's microwave cooking turntable",
+      "Jerry's electric countertop burr coffee grinder"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What food does Kramer repeatedly raid from Jerry's refrigerator in almost every single episode?",
+    "options": [
+      "Frozen microwaveable dinners and ice cream tubs",
+      "Fresh milk, cereal, fruit, and whatever is in the deli crisper",
+      "Bottled beer and carbonated mineral waters",
+      "Pre-packaged flavored yogurt cups and imported string cheese sticks"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What party etiquette violation does George commit at a wake that causes Timmy to confront him angrily?",
+    "options": [
+      "Taking four cocktail meatballs on a single toothpick",
+      "Drinking directly from an open two-liter soda bottle",
+      "\"Double dipping\" a chip into the communal bowl",
+      "Taking an entire sleeve of crackers without sharing"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What line does Timmy scream when George dips a chip twice in 'The Implant'?",
+    "options": [
+      "\"You just contaminated the entire bowl for everyone here!\"",
+      "\"Nobody dips twice in this house without facing the consequences!\"",
+      "\"Have some basic human respect for the deceased's family!\"",
+      "\"That's like putting your whole mouth right in the dip!\""
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What famous declaration does Teri Hatcher's character make about her physical attributes in 'The Implant'?",
+    "options": [
+      "\"They're real, and they're spectacular!\"",
+      "\"They're all natural, and they're flawless!\"",
+      "\"They're completely genuine, and they're glorious!\"",
+      "\"They're unenhanced, and they're extraordinary!\""
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What communication trait does Judge Reinhold's character Aaron have in 'The Raincoats'?",
+    "options": [
+      "He is a \"high talker\" whose voice sounds like a child",
+      "He is a \"close talker\" who stands inches from people's faces",
+      "He is a \"low talker\" who whispers all of his thoughts",
+      "He is a \"rapid talker\" who speaks two hundred words per minute"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What communication trait does Elaine's boyfriend Dan possess in 'The Pledge Drive'?",
+    "options": [
+      "He is a \"loud talker\" who projects across entire dining rooms",
+      "He is a \"mumble talker\" who swallows the endings of words",
+      "He is a \"high talker\" whose voice sounds identical to a woman's",
+      "He is a \"slow talker\" who pauses ten seconds between sentences"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What four-word mantra did Larry David establish as the cardinal creative rule for all Seinfeld scripts?",
+    "options": [
+      "\"Keep it simple, stupid\"",
+      "\"Always find the funny\"",
+      "\"Characters never grow up\"",
+      "\"No hugging, no learning\""
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What distinctive musical instrument sound effect separates scenes in every episode of Seinfeld?",
+    "options": [
+      "A slap-bass synthesizer riff composed by Jonathan Wolff",
+      "An authentic acoustic fretless upright bass melody",
+      "A brass trumpet fanfare recorded with a vintage mute",
+      "A funk guitar riff played on an electric Fender Stratocaster"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "How did composer Jonathan Wolff customize the music for every single episode of Seinfeld?",
+    "options": [
+      "He re-recorded the theme song using guest vocalists from Broadway",
+      "He adjusted the tempo and slap-bass rhythms to match Jerry's stand-up timing",
+      "He modulated the key signature to reflect the subtle emotional tone of the plot",
+      "He added ambient sound effects recorded in the New York subway system"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Why did NBC studio directors have to ask live studio audiences to restrain their cheers for Michael Richards?",
+    "options": [
+      "The extreme audio decibel level blew out the sensitive boom microphones",
+      "Jerry Seinfeld complained that Kramer was overshadowing his opening scene",
+      "His applause ovations were so long they threw off the comic timing of scenes",
+      "The broadcast network was forced to trim critical dialogue to fit commercial time"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "How was Julia Louis-Dreyfus's real-life pregnancy hidden from viewers during Season 3 and Season 8?",
+    "options": [
+      "Digital visual effects artists removed her baby bump in post-production",
+      "She was replaced by an uncredited body double for all wide camera angles",
+      "Her character was sent on European travel assignments for twelve whole episodes",
+      "She carried large cardboard boxes, laundry baskets, and hid behind furniture"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "How many total episodes of Seinfeld were produced and broadcast across its historic nine-season run?",
+    "options": [
+      "180 episodes",
+      "200 full episodes",
+      "165 episodes",
+      "220 episodes"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In how many episodes across all nine seasons did the character of Cosmo Kramer NOT appear?",
+    "options": [
+      "Zero episodes (he appeared in every single episode)",
+      "Two episodes ('The Chinese Restaurant' and 'The Pen')",
+      "One episode ('The Chinese Restaurant' only)",
+      "Four complete episodes throughout the entire series run"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Which of the four core characters never appeared in Season 3's classic episode 'The Chinese Restaurant'?",
+    "options": [
+      "Elaine Benes",
+      "George",
+      "Kramer",
+      "Jerry"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Which two main characters did NOT appear in the Season 3 episode 'The Pen'?",
+    "options": [
+      "Elaine Benes and Cosmo Kramer",
+      "Jerry and George",
+      "George and Newman",
+      "George and Kramer"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Who provided the iconic, fast-talking off-screen voice of New York Yankees owner George Steinbrenner?",
+    "options": [
+      "Series co-creator Larry David",
+      "Actor and voice artist Phil Hartman",
+      "Executive producer Peter Mehlman",
+      "Writer and director Spike Feresten"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What physical feature of George Steinbrenner is the only part ever shown on camera in his office?",
+    "options": [
+      "His polished wingtip shoes resting upon his mahogany desk",
+      "The back of his head and his gesturing hands from behind his desk",
+      "His silhouette projected against the frosted glass of his door",
+      "His reflection in the polished glass of his championship trophy cabinet"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What was the original working title of the Seinfeld pilot episode when it was filmed in 1989?",
+    "options": [
+      "\"Stand-Up Life in New York\"",
+      "\"The Jerry Seinfeld Show\"",
+      "\"The Seinfeld Chronicles\"",
+      "\"Nothing to Report\""
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What real-life neighbor of Larry David's was the direct inspiration for the character of Cosmo Kramer?",
+    "options": [
+      "Cosmo DiGiacomo",
+      "Arthur Sacamano",
+      "Donald Newman (the eccentric building superintendent who lived across the hall)",
+      "Kenny Kramer (who later ran 'The Kramer Reality Tour' in New York)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What real-life tour did Kenny Kramer create to capitalize on the show's worldwide fame?",
+    "options": [
+      "\"The Kramer Reality Tour\" bus tour of Manhattan locations",
+      "\"The Ultimate Seinfeld Pilgrimage\" walking tour",
+      "\"The Real Cosmo Experience\" open-air trolley tour",
+      "\"The Manhattan Sites of Nothing\" VIP limousine excursion"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What dialogue do Jerry and George repeat in the final jail cell scene of 'The Finale'?",
+    "options": [
+      "The argument regarding whether breakfast cereal qualifies as a midnight dessert snack item",
+      "The debate about the placement of the second button on a dress shirt from the 1989 pilot",
+      "The debate over whether a public restroom stall door should reach the floor",
+      "The discussion about why banks give complimentary pens that fail to write"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What exact line does George say to Jerry in the final prison cell scene regarding their conversation?",
+    "options": [
+      "\"Does any of this sound remotely familiar to you?\"",
+      "\"Are we doomed to repeat this dialogue forever?\"",
+      "\"Haven't we had this conversation before?\"",
+      "\"Why do we always return to the same trivial nonsense?\""
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What was the date of the historic broadcast of the Seinfeld series finale on NBC?",
+    "options": [
+      "May 21, 1997",
+      "June 4, 1999",
+      "April 30, 1998",
+      "May 14, 1998"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "How many viewers tuned in to watch the May 14, 1998 series finale of Seinfeld in the United States?",
+    "options": [
+      "Approximately 76 million viewers",
+      "Approximately 52 million viewers",
+      "Approximately 95 million television viewers",
+      "Approximately 63 million viewers"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In what real-life diner exterior is Monk's Cafe filmed for establishing shots in Upper Manhattan?",
+    "options": [
+      "The iconic Empire Diner on 10th Avenue in the Chelsea district",
+      "Tom's Restaurant (on Broadway and West 112th Street)",
+      "Tick Tock Diner on 34th Street",
+      "Veselka in the East Village"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Which singer famously wrote the 1987 hit song 'Tom's Diner' inspired by the very same establishment?",
+    "options": [
+      "Tracy Chapman",
+      "Rickie Lee Jones",
+      "Suzanne Vega",
+      "Shawn Colvin"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Andrea Doria', what canine illness does Kramer contract that forces him to take dog medication?",
+    "options": [
+      "Canine heartworm infection from sleeping near an infected hound",
+      "A parasitic kennel tick infection picked up at a public dog park",
+      "Mange skin irritation contracted from handling stray puppies",
+      "A chronic hacking cough from an unruly dog named Smuckers"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Bizarro Jerry', what figurine is displayed in Kevin's apartment as the bizarro opposite of Jerry's Superman?",
+    "options": [
+      "A figurine of Bizarro (Superman's villainous imperfect clone)",
+      "A miniature metal bust of Lex Luthor with green Kryptonite",
+      "A miniature statue of General Zod from Planet Krypton",
+      "A small metal figure of Batman guarding a miniature Gotham City skyline"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Cartoon', what is the name of The New Yorker cartoon editor whom Elaine confronts in his office?",
+    "options": [
+      "Mr. Henderson",
+      "Mr. Elinoff",
+      "Mr. Wallace",
+      "Mr. Sterling"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Voice', what legal fate befalls Kramer's loyal intern Darren after the oil bladder accident?",
+    "options": [
+      "Darren is expelled from New York University with zero credits",
+      "Darren is hired as a corporate risk analyst by ExxonMobil",
+      "Darren is convicted and sentenced to federal prison time",
+      "Darren sues Kramerica Industries for twenty million dollars"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Rye', what fishing bait do Jerry and George use on the street to hoist the marble rye?",
+    "options": [
+      "A cluster of nightcrawler earthworms from a tackle box",
+      "A piece of dried salt cod tied to forty-pound test line",
+      "A metal spoon lure with artificial bright feathers",
+      "A heavy three-pronged treble hook without bait"
+    ],
+    "answer": 3,
+    "d": 3
+  }
+]

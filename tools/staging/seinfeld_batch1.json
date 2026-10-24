@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Seinfeld",
+    "q": "In the pilot episode 'The Seinfeld Chronicles', what was Kramer's character named?",
+    "options": [
+      "Kessler",
+      "Hoffman",
+      "Feldman",
+      "Hesselman"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In the pilot episode, what is the name of the female friend visiting from Michigan who stays at Jerry's apartment?",
+    "options": [
+      "Vanessa",
+      "Laura",
+      "Claire",
+      "Marlene"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What original diner waitress character appeared in the pilot episode before Elaine Benes was introduced?",
+    "options": [
+      "Arlene",
+      "Loretta",
+      "Claire",
+      "Bernice"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Stake Out', what fake name does George Costanza invent for the very first time?",
+    "options": [
+      "Art Corvelay",
+      "Buck Naked",
+      "H.E. Pennypacker",
+      "Art Vandelay"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What profession does George claim Art Vandelay practices when he invents the persona in 'The Stake Out'?",
+    "options": [
+      "Architect",
+      "Latex manufacturer",
+      "Marine biologist",
+      "Civil engineer"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Robbery', why is Jerry's apartment robbed while he is away doing stand-up in Minneapolis?",
+    "options": [
+      "The building superintendent lost the master key",
+      "Kramer left the apartment door wide open",
+      "Newman gave the front door buzzer code to a burglar",
+      "Jerry forgot to lock the fire escape window"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Stock Tip', what company stock does George convince Jerry to buy based on a confidential insider tip?",
+    "options": [
+      "Spector-Soft",
+      "Vandelay Industries",
+      "Sendrax",
+      "OmniTech"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "How much money does Jerry initially invest in the Sendrax stock tip alongside George?",
+    "options": [
+      "$1,000",
+      "$5,000",
+      "$10,000",
+      "$2,500"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Ex-Girlfriend', what is the profession of George's ex-girlfriend Marlene, whom Jerry secretly begins dating?",
+    "options": [
+      "Cashier at a restaurant",
+      "Real estate agent",
+      "High school guidance counselor",
+      "Dental hygienist"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Why does Marlene ultimately break up with Jerry in 'The Ex-Girlfriend'?",
+    "options": [
+      "She realizes she is still in love with George",
+      "She finds his stand-up comedy act completely unfunny",
+      "She catches him snooping through her medicine cabinet",
+      "She discovers he still talks to his mother every day"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Pony Remark', what casual comment does Jerry make at Manya's anniversary dinner that deeply offends her?",
+    "options": [
+      "He believes immigrants complain too much about their past",
+      "He thinks Polish food lacks adequate seasoning",
+      "He hates anyone who grew up having a pony",
+      "He dislikes large family dinner gatherings"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "From which European country did Manya emigrate, where she had owned a cherished pony as a young girl?",
+    "options": [
+      "Hungary",
+      "Austria",
+      "Czechoslovakia",
+      "Poland"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Pony Remark', what major apartment project does Kramer insist he is going to build in his living room?",
+    "options": [
+      "Levels with custom wood steps and carpeting",
+      "A private sauna inside his walk-in closet",
+      "An authentic brick wood-fired pizza oven",
+      "A full-sized elevated indoor putting green"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Jacket', what eye-catching interior lining does Jerry's expensive new suede jacket feature?",
+    "options": [
+      "Bright yellow polka dots",
+      "Pink candy cane stripes",
+      "Red and green tartan plaid",
+      "Leopard print silk fabric"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Who plays Elaine's intimidating novelist father, Alton Benes, in 'The Jacket'?",
+    "options": [
+      "Veteran actor Brian Keith",
+      "Character actor Robert Prosky",
+      "Lawrence Tierney",
+      "Hollywood legend Jack Palance"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What song does Alton Benes repeatedly sing while driving Jerry and George in his car?",
+    "options": [
+      "\"Ol' Man River\" from Show Boat",
+      "\"Mack the Knife\" from The Threepenny Opera",
+      "\"The Impossible Dream\" from Man of La Mancha",
+      "\"Master of the House\" from Les Misérables"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Phone Message', what does George try desperately to steal from his girlfriend Carol's apartment?",
+    "options": [
+      "Her answering machine cassette tape",
+      "Her personal diary notebook",
+      "A compromising polaroid photograph",
+      "An unmailed angry letter he sent"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Apartment', how much is the monthly rent for the vacant apartment above Jerry's that Elaine hopes to rent?",
+    "options": [
+      "$350 per month plus utilities",
+      "$400 per month",
+      "$600 per month with security deposit",
+      "$850 per month including parking"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Statue', what item does George believe Ray, the apartment cleaner, stole from Jerry's apartment?",
+    "options": [
+      "An antique silver cigarette lighter",
+      "A vintage Montblanc fountain pen",
+      "A small statue inherited from his grandfather",
+      "A pair of gold cuff links from his bar mitzvah"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What character persona does Kramer assume when he confronts Ray to retrieve the stolen statue?",
+    "options": [
+      "An aggressive insurance investigator",
+      "A high-powered mafia enforcer",
+      "An undercover FBI field agent",
+      "A hard-boiled police detective"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Revenge', what does George slip into his former boss Rick Levitan's drink at an office party?",
+    "options": [
+      "A mickey powder slipped into his drink",
+      "A double dose of liquid laxatives",
+      "A strong sedative sleeping pill",
+      "An overdose of hot pepper oil extract"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What business does George work for before rashly quitting and then trying to poison his boss in 'The Revenge'?",
+    "options": [
+      "Pendant Publishing",
+      "Rick Barr Properties",
+      "Sanfilippo & Sons Real Estate",
+      "Vandelay Latex Corporation"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Why does Kramer dump a bag of wet cement into a commercial washing machine in 'The Revenge'?",
+    "options": [
+      "He wanted to see if the drum would stop spinning",
+      "He was trying to mix concrete for his apartment levels",
+      "The laundromat owner refused to refund his money",
+      "He thought it would clean the interior lint traps"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Heart Attack', what medical condition does George actually have after fearing he suffered a heart attack?",
+    "options": [
+      "Severe acid reflux disease",
+      "A pinched nerve in his shoulder",
+      "An acute panic attack",
+      "An inflamed tonsil condition"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What is the name of the eccentric holistic healer recommended by Kramer whom George visits in 'The Heart Attack'?",
+    "options": [
+      "Tor Eckman",
+      "Dr. Martin van Nostrand",
+      "Dr. Bob Malooga",
+      "Maestro Bob Cobb"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What color does George's skin turn after drinking the herbal tea concoction prepared by Tor Eckman?",
+    "options": [
+      "Bright orange",
+      "Purple",
+      "Pale green",
+      "Deep crimson"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Deal', what gift does Jerry give Elaine for her birthday that makes her feel unappreciated?",
+    "options": [
+      "A gift certificate to a grocery store",
+      "A set of plain white kitchen dish towels",
+      "An envelope containing $182 in cash",
+      "A discounted bench scraper"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What lavish birthday gift does Kramer present to Elaine in 'The Deal'?",
+    "options": [
+      "A cashmere sweater from a luxury department store",
+      "A pair of gold designer hoop earrings",
+      "An authentic leather messenger briefcase",
+      "A high-end countertop benchtop espresso maker"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Baby Shower', why is George desperate to confront Leslie at her baby shower?",
+    "options": [
+      "She ruined his shirt with chocolate sauce years earlier",
+      "She never repaid a hundred dollar personal loan",
+      "She rejected his prom invitation in high school",
+      "She claimed he was a terrible kisser at a party"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Chinese Restaurant', what host repeatedly tells Jerry, George, and Elaine that their table will be ready in '5, 10 minutes'?",
+    "options": [
+      "Host Mr. Henderson",
+      "Mr. Cohen",
+      "Head waiter Mr. Fong",
+      "Host Mr. Sterling"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Chinese Restaurant', what movie are Jerry, Elaine, and George trying to see after dinner?",
+    "options": [
+      "Night of the Living Dead",
+      "Invasion of the Body Snatchers",
+      "Plan 9 from Outer Space",
+      "Attack of the 50 Foot Woman"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What name does the maître d' call out when George is waiting for an urgent payphone call in 'The Chinese Restaurant'?",
+    "options": [
+      "\"Costanza!\"",
+      "\"Castelli!\"",
+      "\"Conrad!\"",
+      "\"Cartwright!\""
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Busboy', why does the restaurant busboy Antonio get fired?",
+    "options": [
+      "George carelessly left a burning menu on the table",
+      "Elaine accidentally knocked over a tray of expensive glasses",
+      "Jerry publicly complained about the dirty silverware",
+      "Kramer took photos in the restaurant kitchen"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What happens to Antonio the busboy's apartment shortly after Jerry and George visit him to apologize?",
+    "options": [
+      "It is flooded by a broken main water pipe",
+      "An accidental kitchen explosion occurs",
+      "A burglar breaks in through the unlocked window",
+      "He gets evicted for keeping an illegal pet cat"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Note', what does George confess to Jerry after receiving a massage from a male physical therapist?",
+    "options": [
+      "\"I felt completely healed!\"",
+      "\"I gave him a huge tip!\"",
+      "\"I think it moved!\"",
+      "\"I asked for his home number!\""
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Note', what sports legend does Kramer repeatedly claim he saw at Dinky Donuts?",
+    "options": [
+      "Mickey Mantle",
+      "Willie Mays",
+      "Ted Williams",
+      "Joe DiMaggio"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What habit does Kramer notice Joe DiMaggio doing at the donut counter that proves his deep focus?",
+    "options": [
+      "Dunking his donuts into his coffee",
+      "Reading the morning paper without glasses",
+      "Eating three powdered donuts in under two minutes",
+      "Signing paper napkins for the counter staff"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Truth', what profession does George's girlfriend Patrice have, which causes Jerry major anxiety?",
+    "options": [
+      "Criminal court prosecutor",
+      "Internal Revenue Service tax auditor",
+      "Health department food safety inspector",
+      "Corporate ethics investigator"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Pen', what special feature does Jack Klompus's pen have that he offers to Jerry?",
+    "options": [
+      "It features an erasable pressurized ink cartridge",
+      "It was custom-made for the White House press corps",
+      "It can write completely upside down in space",
+      "It has a built-in miniature magnifying glass"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What retirement community in Florida do Jerry's parents Helen and Morty live in?",
+    "options": [
+      "Century Village",
+      "Boca Lago Pines",
+      "Pines of Delray",
+      "Del Boca Vista"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Why does Elaine suffer severe back pain while staying with Jerry's parents in 'The Pen'?",
+    "options": [
+      "She slept on an uncomfortable sofa pull-out bed",
+      "She dropped a heavy suitcase down the exterior steps",
+      "She tripped over a metal sprinkler head on the lawn",
+      "She spent five hours sitting in an unpadded metal chair"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What famous Tennessee Williams line does a muscle-relaxant intoxicated Elaine shout at the banquet in 'The Pen'?",
+    "options": [
+      "\"Blanche! Blanche!\"",
+      "\"Stella! Stella!\"",
+      "\"Stanley! Stanley!\"",
+      "\"Mitch! Mitch!\""
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Dog', what is the name of the unruly dog Jerry is forced to dog-sit for a drunk airline passenger?",
+    "options": [
+      "Rusty",
+      "Smuckers",
+      "Farfel",
+      "Snowball"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What film do George and Elaine go see together while waiting for Jerry in 'The Dog'?",
+    "options": [
+      "Rochelle, Rochelle: A Young Girl's Journey",
+      "Chow Fun: The Musical",
+      "Ponce de Leon: Fountain of Youth",
+      "Prognosis Negative"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Library', what is the name of the eccentric library investigations officer pursuing Jerry?",
+    "options": [
+      "Mr. Bookman",
+      "Inspector Henderson",
+      "Investigator Dewey",
+      "Officer Fitzpatrick"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Which actor brilliantly portrayed library detective Mr. Bookman in 'The Library'?",
+    "options": [
+      "Character actor M. Emmet Walsh",
+      "Philip Baker Hall",
+      "Veteran star R. Lee Ermey",
+      "Character actor Harris Yulin"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What classic novel did Jerry fail to return to the New York Public Library back in 1971?",
+    "options": [
+      "Slaughterhouse-Five by Kurt Vonnegut",
+      "The Catcher in the Rye by J.D. Salinger",
+      "Tropic of Capricorn",
+      "A Farewell to Arms by Ernest Hemingway"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Parking Garage', where is the shopping mall parking garage located where the group loses their car?",
+    "options": [
+      "White Plains, New York",
+      "Fort Lee, New Jersey",
+      "Stamford, Connecticut",
+      "Paramus, New Jersey"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Parking Garage', what pet does Kramer purchase that is in danger of dying in its plastic bag?",
+    "options": [
+      "Goldfish",
+      "A miniature turtle",
+      "A pet hermit crab",
+      "A baby chameleon"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What major automotive problem occurs in the final shot of 'The Parking Garage' after they finally locate the car?",
+    "options": [
+      "All four tires have gone completely flat",
+      "The car engine refuses to start",
+      "The parking exit gate is padlocked shut",
+      "A tow truck is already hoisting the front bumper"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Cafe', what is the name of the Pakistani immigrant who opens the Dream Cafe across from Jerry's building?",
+    "options": [
+      "Babu Patel",
+      "Rajiv Bhatt",
+      "Babu Bhatt",
+      "Tariq Khan"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What culinary advice does Jerry give Babu that leads directly to the complete financial ruin of the Dream Cafe?",
+    "options": [
+      "Convert the diner into an American breakfast buffet",
+      "Offer free bottomless coffee refills all morning",
+      "Lower all lunch prices by fifty percent across the board",
+      "Serve exclusively authentic Pakistani cuisine"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Tape', what does Elaine anonymously record onto Jerry's handheld tape recorder?",
+    "options": [
+      "A seductive, breathy erotic message",
+      "A confession that she stole money from his desk",
+      "A rehearsal of her stand-up comedy material",
+      "An audio recording of Kramer singing opera"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What dubious product does George purchase from China in 'The Tape' to fix his baldness?",
+    "options": [
+      "A magnetic scalp stimulation headcap",
+      "A traditional herbal hair growth cream",
+      "A bottle of rare snake venom restorative oil",
+      "An acupuncture needle therapy kit"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Nose Job', what does Kramer bluntly tell George's girlfriend Audrey about her appearance?",
+    "options": [
+      "Her hairstyle makes her face look enormous",
+      "She wears far too much cheap perfume",
+      "She needs to get a nose job immediately",
+      "Her posture makes her look ten years older"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Stranded', what famous quote does Elaine deliver when an annoying party guest talks about her fiancé?",
+    "options": [
+      "\"These pretzels are making me thirsty!\"",
+      "\"No soup for you!\"",
+      "\"You want a piece of me?!\"",
+      "\"Maybe the dingo ate your baby!\""
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Alternate Side', what line is George given to recite in Woody Allen's movie shooting on their block?",
+    "options": [
+      "\"These pretzels are making me thirsty!\"",
+      "\"I think it moved!\"",
+      "\"Here's to feeling good all the time!\"",
+      "\"Serenity now!\""
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Why does George fail at his job of moving parked cars for alternate side parking in 'The Alternate Side'?",
+    "options": [
+      "He loses the ignition keys to every single vehicle",
+      "He causes a massive multi-car traffic gridlock",
+      "He parks six consecutive cars in a red tow zone",
+      "He crashes an expensive foreign sedan into an ambulance"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Red Dot', what defect is on the discounted cashmere sweater George buys for Elaine as a thank-you gift?",
+    "options": [
+      "A torn seam under the right armpit",
+      "A missing hand-carved mother-of-pearl button",
+      "A tiny red dot stain on the fabric",
+      "A moth hole right in the center chest area"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Red Dot', who does George have sex with on his desk at his office, leading to his firing?",
+    "options": [
+      "Ada the receptionist",
+      "Patrice the accounting clerk",
+      "Cheryl the office manager",
+      "Evie the cleaning woman"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What defense does George give to his boss Mr. Lippman when caught having sex on his office desk?",
+    "options": [
+      "\"Was that wrong? Should I not have done that?\"",
+      "\"I was under tremendous workplace stress!\"",
+      "\"It was entirely consensual between two adults!\"",
+      "\"I didn't think anyone was working late tonight!\""
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Subway', what happens to George when he follows an attractive blonde woman to a hotel room?",
+    "options": [
+      "She turns out to be an undercover vice detective",
+      "She handcuffs him to the bed and robs him",
+      "Her jealous husband bursts into the bedroom with a bat",
+      "She abandons him with a massive room service bill"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Subway', who does Jerry strike up a conversation with while riding the subway train to Coney Island?",
+    "options": [
+      "A subway busker playing accordion tunes",
+      "An angry conductor on a work strike",
+      "A completely naked passenger sitting across from him",
+      "A fortune teller offering psychic palm readings"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Subway', what horse does Kramer bet on at the off-track betting parlor after receiving a tip?",
+    "options": [
+      "Captain Nemo",
+      "Little Jerry",
+      "Prickly Pete",
+      "Papanick"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Pez Dispenser', which cartoon character is featured on the Pez dispenser Jerry places on Elaine's lap?",
+    "options": [
+      "Tweety Bird",
+      "Bugs Bunny",
+      "Daffy Duck",
+      "Woody Woodpecker"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Why does George's pianist girlfriend Noel break up with him after her recital in 'The Pez Dispenser'?",
+    "options": [
+      "George fell asleep and began snoring loudly in the front row",
+      "She heard Elaine burst into laughter during her performance",
+      "George refused to attend the formal post-recital reception",
+      "She discovered George had no interest in classical music"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Boyfriend', which New York Mets baseball star does Jerry meet and develop a man-crush on?",
+    "options": [
+      "Dwight Gooden",
+      "Darryl Strawberry",
+      "Keith Hernandez",
+      "Ron Darling"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What conspiracy theory parody from the JFK assassination is reenacted in 'The Boyfriend'?",
+    "options": [
+      "The single bullet pristine trajectory theory",
+      "The grassy knoll umbrella man conspiracy",
+      "The babushka lady photographic evidence",
+      "The 'Second Spitter' magic loogie theory"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "According to Jerry's reenactment in 'The Boyfriend', who was the actual second spitter behind the bushes?",
+    "options": [
+      "Roger McDowell",
+      "Mets relief pitcher Jesse Orosco",
+      "Second baseman Wally Backman",
+      "Mets outfielder Mookie Wilson"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Boyfriend', what lie does George tell the unemployment office regarding Vandelay Industries?",
+    "options": [
+      "He is the chief executive officer of latex distribution",
+      "He is on the verge of being hired as a latex salesman",
+      "He manages a team of architectural draftsmen",
+      "He is waiting for a contract to design baseball stadiums"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What does George shout as he rushes frantically out of Jerry's bathroom with his trousers around his ankles?",
+    "options": [
+      "\"Get the phone! Get the phone!\"",
+      "\"Don't pick up! Don't pick up!\"",
+      "\"Say Vandelay! Say Vandelay!\"",
+      "\"Tell them I'm an architect!\""
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Fix-Up', what defect does George obsess over when Jerry and Elaine try to set him up with Cynthia?",
+    "options": [
+      "Whether she is taller than him in high heels",
+      "Whether she has an annoying laugh or high-pitched voice",
+      "Whether she comes from an excessively wealthy family",
+      "Whether she has a big nose or thick facial hair"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What expired item does George use during his encounter with Cynthia in 'The Fix-Up'?",
+    "options": [
+      "A punctured condom from his wallet",
+      "A dried-out tube of lubricant ointment",
+      "An expired bottle of prescription cologne",
+      "A faded strip of breath mint strips"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Limo', what white supremacist leader's name does George assume to take a private airport limousine?",
+    "options": [
+      "White supremacist Colin Ferguson",
+      "Donald O'Brien",
+      "Activist leader Patrick Murphy",
+      "Public speaker Sean Flaherty"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What major sports event is the real Donald O'Brien scheduled to speak at in 'The Limo'?",
+    "options": [
+      "A private militia assembly at the Meadowlands",
+      "A political debate at the Jacob Javits Center",
+      "A neo-Nazi rally at Madison Square Garden",
+      "A televised press conference at the Nassau Coliseum"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What fictional high-society alias does Jerry use alongside George in 'The Limo'?",
+    "options": [
+      "Arthur Pennypacker",
+      "Martin van Nostrand",
+      "Kel Varnsen",
+      "Dylan Murphy"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Good Samaritan', what television host's voice causes Kramer to suffer sudden neurological seizures?",
+    "options": [
+      "Mary Hart from Entertainment Tonight",
+      "Leeza Gibbons",
+      "Kathie Lee Gifford",
+      "Connie Chung"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Letter', what famous Neil Simon play does Jerry's girlfriend Nina plagiarize in her love letter to him?",
+    "options": [
+      "The Odd Couple",
+      "Chapter Two",
+      "Barefoot in the Park",
+      "Lost in Yonkers"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What iconic oil painting portrait of Kramer is created by Nina in 'The Letter'?",
+    "options": [
+      "\"The Cosmo\"",
+      "\"The Hipster Doofus\"",
+      "\"The Kramer\"",
+      "\"The Visionary\""
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What wealthy couple purchases 'The Kramer' painting from the gallery in 'The Letter'?",
+    "options": [
+      "A pair of modern art dealers from SoHo",
+      "An eccentric Wall Street investment banker",
+      "A museum curator looking for outsider folk art",
+      "An elderly art patron couple who find him captivating"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Parking Space', who does George engage in an hours-long standoff with over a street parking space?",
+    "options": [
+      "Mike Moffitt",
+      "Jack Klompus",
+      "Bob Cobb",
+      "Ramon the pool guy"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What is the technical parking debate between George and Mike Moffitt in 'The Parking Space'?",
+    "options": [
+      "Using a turn signal before claiming the curb",
+      "Backing into the space versus pulling in head-first",
+      "Waiting with hazard lights versus holding the spot on foot",
+      "Parallel parking on the left versus right side of the street"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Keys', why does Jerry demand his spare apartment keys back from Kramer?",
+    "options": [
+      "Kramer lost three spare sets in a single week",
+      "Kramer gave copies of the key to Newman and Bob Sacamano",
+      "Kramer entered while Jerry was with a woman without knocking",
+      "Kramer raided Jerry's refrigerator while hosting a party"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "Where does Kramer travel to follow his acting dreams after Jerry revokes his spare key privileges in 'The Keys'?",
+    "options": [
+      "Chicago, Illinois in the Midwest",
+      "San Francisco, Northern California",
+      "Miami Beach down in South Florida",
+      "Los Angeles, California"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What famous television sitcom does Kramer land a guest role on while in Hollywood in 'The Keys'?",
+    "options": [
+      "Murphy Brown",
+      "Northern Exposure",
+      "Designing Women",
+      "Mad About You"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What character role does Kramer play on 'Murphy Brown' in 'The Keys'?",
+    "options": [
+      "An investigative television news reporter",
+      "Steven Snell, one of Murphy's rotating secretaries",
+      "A delivery driver delivering confidential documents",
+      "A quirky building maintenance handyman"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Suicide', what neighbor of Jerry's falls into a coma after a failed suicide attempt?",
+    "options": [
+      "Harold",
+      "Phillip",
+      "Martin",
+      "Emmanuel"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "What is the name of Martin's attractive girlfriend who attempts to seduce Jerry while Martin is in a coma?",
+    "options": [
+      "Marlene",
+      "Sasha",
+      "Patrice",
+      "Gina"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Cafe', what does Babu Bhatt call Jerry when the restaurant closes down permanently?",
+    "options": [
+      "\"You very bad man! Very, very bad man!\"",
+      "\"You ruined my entire American dream!\"",
+      "\"Never show your face around my family again!\"",
+      "\"You are the worst friend in New York!\""
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Alternate Side', why does Kramer miss his acting scene in Woody Allen's movie?",
+    "options": [
+      "He forgot his lines completely on camera",
+      "He drank all the prop beer and got too drunk",
+      "He got into a physical brawl with the director",
+      "He arrived three hours late after getting lost on the subway"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Stake Out', what excuse do Jerry and George give for lingering in the lobby of the SAG office building?",
+    "options": [
+      "Auditioning for an off-Broadway musical production",
+      "Picking up tax documents for an independent film crew",
+      "Waiting for an architect named Art Vandelay",
+      "Delivering legal briefs to an entertainment attorney"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Baby Shower', what illegal service does Kramer hook Jerry up with through two shady Russian technicians?",
+    "options": [
+      "An unlisted high-voltage electrical line",
+      "Tapped long-distance telephone calls",
+      "Black market imported Russian vodka",
+      "Pirated illegal cable television service"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Deal', what two relationship elements do Jerry and Elaine attempt to combine under their strict agreement?",
+    "options": [
+      "\"This\" (friendship) and \"That\" (physical intimacy)",
+      "Living together and maintaining separate bank accounts",
+      "Dating other people and spending every holiday together",
+      "Sharing meals and sharing apartment chores"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Chinese Restaurant', what bet does Jerry propose to Elaine regarding eating food off another customer's plate?",
+    "options": [
+      "Twenty dollars to drink a stranger's hot tea",
+      "Fifty dollars to eat an egg roll off an elderly woman's plate",
+      "One hundred dollars to take a spare rib from a businessman",
+      "Twenty-five dollars to finish a bowl of wonton soup"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Busboy', what is the name of Antonio the busboy's lost cat that George helps locate?",
+    "options": [
+      "Snowball",
+      "Bonita",
+      "Pequita",
+      "Chiquita"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Library', what was Marion the head librarian's relationship with Jerry back in high school?",
+    "options": [
+      "She had given him his first kiss behind the book stacks",
+      "She caught him defacing encyclopedias with funny sketches",
+      "She was his study partner who failed algebra with him",
+      "Jerry was deeply infatuated with her poetry reading"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Suicide', which classic Drake's snack cake does Newman greedily demand from Jerry?",
+    "options": [
+      "Drake's Coffee Cake",
+      "Hostess Chocolate Cupcakes",
+      "Tastykake Butterscotch Krimpets",
+      "Little Debbie Swiss Cake Rolls"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Alternate Side', what famous observation does Jerry make to the car rental agent about car reservations?",
+    "options": [
+      "\"A reservation without a car is simply an empty promise on paper.\"",
+      "\"You know how to take the reservation, you just don't know how to hold the reservation.\"",
+      "\"If you don't have cars, why are you sitting behind a rental counter?\"",
+      "\"Taking reservations is meaningless if anyone who walks in takes the keys.\""
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Statue', what is the profession of Ray's eccentric girlfriend Rava?",
+    "options": [
+      "A contemporary ballet choreographer",
+      "An avant-garde experimental playwright",
+      "A published Finnish poet",
+      "A modern classical pianist"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Seinfeld",
+    "q": "In 'The Busboy', why does Antonio the fired busboy ultimately thank George and Jerry?",
+    "options": [
+      "The incident motivated him to finish his degree in computer science",
+      "He found a high-paying executive job at a gourmet catering company",
+      "He received a major financial settlement from the restaurant owner",
+      "He wasn't at work when a deadly fire destroyed the restaurant"
+    ],
+    "answer": 3,
+    "d": 2
+  }
+]
