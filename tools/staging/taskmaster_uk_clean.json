@@ -16,9 +16,9 @@
     "show": "Taskmaster UK",
     "q": "In Series 1, Episode 1, who controversially threw a whole watermelon onto the floor and ate it from the ground?",
     "options": [
-      "Josh Widdicombe (Series 1 champion & bean counter)",
+      "Josh Widdicombe",
       "Romesh Ranganathan",
-      "Tim Key",
+      "The original Tim Key",
       "Frank Skinner"
     ],
     "answer": 1,
@@ -29,8 +29,8 @@
     "show": "Taskmaster UK",
     "q": "Which contestant had to count individual items (beans, rice grains, spaghetti hoops) as individual solo secret tasks in Series 1?",
     "options": [
-      "Roisin Conaty (Series 1 contestant & stand-up comedian)",
-      "Tim Key",
+      "Roisin Conaty",
+      "The original Tim Key",
       "Josh Widdicombe",
       "Frank Skinner"
     ],
@@ -133,7 +133,7 @@
     "show": "Taskmaster UK",
     "q": "Who won Series 2 of Taskmaster?",
     "options": [
-      "Jon Richardson (Series 2 contestant & 8 Out of 10 Cats)",
+      "Jon Richardson",
       "Richard Osman",
       "Katherine Ryan",
       "Doc Brown"
@@ -172,7 +172,7 @@
     "show": "Taskmaster UK",
     "q": "How many points did Joe Wilkinson ultimately receive for the potato throw task after the replay review?",
     "options": [
-      "5 (in its classic original format)",
+      "5",
       "3",
       "1",
       "0"
@@ -185,7 +185,7 @@
     "show": "Taskmaster UK",
     "q": "What did Richard Osman discover was placed inside the briefcase on the hill that made the yoga mat task much easier?",
     "options": [
-      "The hill was optional / move the yoga mat to the hill",
+      "The hill was optional",
       "A pair of binoculars",
       "A walkie-talkie",
       "A cheat code written on the handle"
@@ -395,7 +395,7 @@
     "options": [
       "Noel Fielding",
       "Joe Lycett",
-      "Mel Giedroyc (Series 4 contestant & Great British Bake Off host)",
+      "Mel Giedroyc",
       "Hugh Dennis"
     ],
     "answer": 0,
@@ -536,8 +536,8 @@
     "show": "Taskmaster UK",
     "q": "What musical song did Nish Kumar and Mark Watson record that touched the hearts of the audience?",
     "options": [
-      "\"I'm Always Seeing You (Do Cool Stuff)\"",
-      "\"Rosalind's a Fucking Nightmare (and don't you ever forget it!)\"",
+      "\"I'm Always Seeing You\"",
+      "\"Rosalind's a Fucking Nightmare\"",
       "\"Proud of My Boy\"",
       "\"Song for a Stranger\""
     ],
@@ -601,7 +601,7 @@
     "show": "Taskmaster UK",
     "q": "How many bonus points did Greg Davies award Mark Watson for his 150 text messages task?",
     "options": [
-      "5 (in its classic original format)",
+      "5",
       "2",
       "1",
       "0"
@@ -655,7 +655,7 @@
     "options": [
       "Josh Widdicombe, Katherine Ryan, Rob Beckett, Noel Fielding, Bob Mortimer",
       "Frank Skinner, Richard Osman, Sara Pascoe, Joe Lycett, Sally Phillips",
-      "Romesh Ranganathan, Jon Richardson, Al Murray, Hugh Dennis, and Mark Watson (The Taskmaster All-Star Contenders)",
+      "Romesh Ranganathan, Jon Richardson, Al Murray, Hugh Dennis, and Mark Watson",
       "Josh Widdicombe, Katherine Ryan, Al Murray, Noel Fielding, Bob Mortimer"
     ],
     "answer": 0,
@@ -667,7 +667,7 @@
     "q": "Who was crowned the overall Champion of Champions 1?",
     "options": [
       "Noel Fielding",
-      "Katherine Ryan (Series 2 champion & stand-up comedian)",
+      "Katherine Ryan",
       "Josh Widdicombe",
       "Rob Beckett"
     ],
@@ -773,7 +773,7 @@
       "MC Grindah",
       "Chabuddy G",
       "The Humpback Prince",
-      "Big Man Asim Chaudhry (The Undefeated Champion)"
+      "Big Man Asim Chaudhry"
     ],
     "answer": 2,
     "d": 1,
@@ -875,7 +875,7 @@
     "q": "Rhod Gilbert consistently brought in what humiliating item for the Prize Tasks?",
     "options": [
       "Greg Davies' primary school report card",
-      "A photo of Greg Davies looking fat / shirtless in his swimwear",
+      "A photo of Greg Davies looking fat",
       "Greg Davies' discarded underwear",
       "An oil painting of Greg's mother"
     ],
@@ -928,7 +928,7 @@
     "options": [
       "Heavy metal chant",
       "Acoustic folk",
-      "90s slow jam / rap (\"Over my shoulder\")",
+      "90s slow jam",
       "Opera parody"
     ],
     "answer": 2,
@@ -939,7 +939,7 @@
     "show": "Taskmaster UK",
     "q": "What controversial outfit did Phil Wang wear throughout Series 7?",
     "options": [
-      "A neon-yellow skintight morphsuit / leotard with a groin bulge",
+      "A neon-yellow skintight morphsuit",
       "A medieval executioner costume",
       "Speedos and a trench coat",
       "An oversized onesie"
@@ -994,7 +994,7 @@
       "Paul Sinha",
       "Joe Thomas",
       "Iain Stirling",
-      "Sian Gibson (Series 8 contestant & Peter Kay's Car Share)"
+      "Sian Gibson"
     ],
     "answer": 2,
     "d": 1,
@@ -1030,7 +1030,7 @@
     "show": "Taskmaster UK",
     "q": "What medical specialty did Paul Sinha practice before becoming a full-time comedian and Chaser?",
     "options": [
-      "General Practitioner (Doctor)",
+      "General Practitioner",
       "Orthopedic surgeon",
       "Dermatologist",
       "Psychiatrist"
@@ -1070,7 +1070,7 @@
     "q": "Which contestant composed a ventriloquist puppet song about an alien called \"Crumbs\"?",
     "options": [
       "Iain Stirling",
-      "Lou Sanders (Series 8 champion & stand-up comedian)",
+      "Lou Sanders",
       "Joe Thomas",
       "Paul Sinha"
     ],
@@ -1096,7 +1096,7 @@
     "q": "What did Iain Stirling do immediately after watching his volcanic team argument on the studio screen?",
     "options": [
       "Walked off the stage",
-      "Apologized profusely to Lou Sanders and the audience",
+      "Apologized profusely to Lou Sanders",
       "Blamed the editing department",
       "Laughed hysterically"
     ],
@@ -1135,7 +1135,7 @@
     "q": "What did Jo Brand frequently do during timed tasks to show her complete lack of stress?",
     "options": [
       "Take a nap",
-      "Make a cup of tea or eat a sandwich",
+      "Make a cup of tea",
       "Check her emails",
       "Do crossword puzzles"
     ],
@@ -1186,8 +1186,8 @@
     "show": "Taskmaster UK",
     "q": "Who filled in on the studio sofa for Katy Wix during her absence?",
     "options": [
-      "Katherine Ryan and Kerry Godliman",
-      "Kerry Godliman and Liza Tarbuck (former series champions)",
+      "Katherine Ryan",
+      "Kerry Godliman and Liza Tarbuck",
       "Aisling Bea and Roisin Conaty",
       "Sally Phillips and Mel Giedroyc"
     ],
@@ -1213,7 +1213,7 @@
     "q": "What game did Ed Gamble and Rose Matafeo recreate using stationary and household goods?",
     "options": [
       "Mouse Trap",
-      "Operation (classic electronic board game with buzzing red nose)",
+      "Operation",
       "Cluedo",
       "Twister"
     ],
@@ -1277,7 +1277,7 @@
     "show": "Taskmaster UK",
     "q": "Daisy May Cooper became furious with Richard Herring in the studio over his inability to draw what?",
     "options": [
-      "A hippopotamus (a \"hippo\")",
+      "A hippopotamus",
       "A prickly tropical upside-down fresh Dole pineapple",
       "A toaster",
       "A submarine"
@@ -1290,7 +1290,7 @@
     "show": "Taskmaster UK",
     "q": "Johnny Vegas was famous in Series 10 for his dramatic reactions, often falling into what emotion?",
     "options": [
-      "Pure hysterical weeping and existential panic",
+      "Pure hysterical weeping",
       "Uncontrollable rage at Alex",
       "Stony silence",
       "Unchecked laughter"
@@ -1329,7 +1329,7 @@
     "show": "Taskmaster UK",
     "q": "What did Daisy May Cooper wear as her stage costume throughout Series 10?",
     "options": [
-      "A superhero outfit with a cape (The Taskmistress)",
+      "A superhero outfit with a cape",
       "A fluorescent tracksuit",
       "A bridal gown",
       "A Victorian nightgown"
@@ -1369,7 +1369,7 @@
     "q": "Who won Champion of Champions II?",
     "options": [
       "Liza Tarbuck",
-      "Kerry Godliman (Series 7 champion & 'BOSH' proponent)",
+      "Kerry Godliman",
       "Lou Sanders",
       "Richard Herring"
     ],
@@ -1396,7 +1396,7 @@
     "options": [
       "Morgana Robinson",
       "Alan Davies",
-      "James Acaster (Series 7 contestant & 'Overneath' innovator)",
+      "James Acaster",
       "Frank Skinner"
     ],
     "answer": 0,
@@ -1447,7 +1447,7 @@
     "q": "Mike Wozniak became an internet sensation for suffering a severe bodily mishap during a task. What was it?",
     "options": [
       "A dislocated shoulder while throwing a shoe",
-      "A \"casserole\" / hemorrhoid pop while attempting to pass wind",
+      "A \"casserole\"",
       "Spraining his wrist on a fence",
       "Biting his tongue eating hot food"
     ],
@@ -1460,7 +1460,7 @@
     "q": "What physical hairstyle did Mike Wozniak sport during Series 11?",
     "options": [
       "A bald cap",
-      "A distinctive handlebar mustache and neat side parting",
+      "A distinctive handlebar mustache",
       "A topknot",
       "Shoulder-length curls"
     ],
@@ -1485,7 +1485,7 @@
     "show": "Taskmaster UK",
     "q": "Charlotte Ritchie was nicknamed what by fans due to her innocent and sunny demeanor?",
     "options": [
-      "The Human Ray of Sunshine / Children's TV presenter",
+      "The Human Ray of Sunshine",
       "The Innocent Angel",
       "The School Prefect",
       "Little Lottie"
@@ -1565,7 +1565,7 @@
     "options": [
       "Morgana Robinson",
       "Guz Khan",
-      "Desiree Burch (Series 12 contestant & Too Hot to Handle narrator)",
+      "Desiree Burch",
       "Alan Davies"
     ],
     "answer": 0,
@@ -1745,7 +1745,7 @@
     "show": "Taskmaster UK",
     "q": "Judi Love became iconic for which distinctive personality trait during the studio banter?",
     "options": [
-      "Feigning utter disbelief and out-talking Greg with extravagant excuses",
+      "Feigning utter disbelief",
       "Threatening Alex with legal action",
       "Sitting in total silent protest",
       "Bringing home-cooked meals for the panel"
@@ -1771,7 +1771,7 @@
     "show": "Taskmaster UK",
     "q": "Which contestant had a pedometer challenge and walked bizarrely in circles around the garden table?",
     "options": [
-      "Sophie Duker (Series 13 champion & stand-up comedian)",
+      "Sophie Duker",
       "Chris Ramsey",
       "Bridget Christie",
       "Judi Love"
@@ -1862,7 +1862,7 @@
     "show": "Taskmaster UK",
     "q": "John Kearns had an agonizing solo task during a team task where his objective was to:",
     "options": [
-      "Sabotage his teammates (Dara and Fern) without getting caught",
+      "Sabotage his teammates without getting caught",
       "Sing every instruction in a high pitch",
       "Hide all the sand in his boots",
       "Wear a blindfold the whole time"
@@ -1966,7 +1966,7 @@
     "show": "Taskmaster UK",
     "q": "Jenny Eclair was known for emitting what sound throughout her tasks when excited?",
     "options": [
-      "A high-pitched, joyous cackle / shriek",
+      "A high-pitched",
       "A low operatic hum",
       "A pirate roar",
       "Whispering conspiratorially"
@@ -1979,7 +1979,7 @@
     "show": "Taskmaster UK",
     "q": "What was Frankie Boyle's general attitude toward the physical and energetic tasks?",
     "options": [
-      "Profound melancholy and dry, brutal resignation",
+      "Profound melancholy and dry",
       "Overwhelming manic enthusiasm",
       "Sarcastic cheating in every task",
       "Continuous complaints about his back"
@@ -2123,7 +2123,7 @@
     "q": "Lucy Beaumont bewildered everyone with her bizarre prize task entry involving:",
     "options": [
       "A pig bladder bag",
-      "An unhinged story about her mother and a potato",
+      "An unhinged story about her mother",
       "Feathers gathered from a park bench",
       "A jacket potato in an envelope"
     ],
@@ -2201,7 +2201,7 @@
     "q": "Which Series 16 contestant frequently made dramatic martial arts poses and anime shouts?",
     "options": [
       "Susan Wokoma",
-      "Sam Campbell (celebrated British television comedian and panel show star)",
+      "Sam Campbell",
       "Sue Perkins",
       "Julian Clary"
     ],
@@ -2227,7 +2227,7 @@
     "q": "Which news anchor competed in the first New Year Treat and brought in a signed photo of himself with Bill Clinton?",
     "options": [
       "Krishnan Guru-Murthy",
-      "Huw Edwards (former BBC News at Ten chief news presenter)",
+      "Huw Edwards",
       "Clive Myrie",
       "Jon Snow"
     ],
@@ -2304,7 +2304,7 @@
     "show": "Taskmaster UK",
     "q": "At what age did Lenny Rush win New Year Treat IV, becoming the youngest winner in Taskmaster history?",
     "options": [
-      "A total of 12 complete task assignments",
+      "12 complete task assignments",
       "14",
       "16",
       "18"
@@ -2345,7 +2345,7 @@
     "options": [
       "Sarah Kendall, Morgana Robinson, Sophie Duker, Dara Ó Briain, Mae Martin",
       "Sarah Kendall, Morgana Robinson, Sophie Duker, Dara Ó Briain, Kiell Smith-Bynoe",
-      "Lou Sanders, Richard Herring, Sarah Kendall, Morgana Robinson, and Dara Ó Briain (Champions of Champions Team)",
+      "Lou Sanders, Richard Herring, Sarah Kendall, Morgana Robinson, and Dara Ó Briain",
       "Mike Wozniak, Guz Khan, Chris Ramsey, Fern Brady, Mae Martin"
     ],
     "answer": 1,
@@ -2408,10 +2408,10 @@
     "show": "Taskmaster UK",
     "q": "Where was the original Taskmaster stage show performed before it became a TV program?",
     "options": [
-      "Edinburgh Festival Fringe (2010 & 2011)",
-      "Soho Theatre (2009)",
-      "Melbourne International Comedy Festival Gala in Australia (2012)",
-      "Just For Laughs Montreal (2010)"
+      "Edinburgh Festival Fringe",
+      "Soho Theatre",
+      "Melbourne International Comedy Festival Gala in Australia",
+      "Just For Laughs Montreal"
     ],
     "answer": 0,
     "d": 1,
@@ -2447,7 +2447,7 @@
     "show": "Taskmaster UK",
     "q": "Where is the actual Taskmaster House located in real life?",
     "options": [
-      "Chiswick, West London (near Chiswick Bridge)",
+      "Chiswick, West London",
       "Richmond upon Thames",
       "Wimbledon, South London",
       "Greenwich, South-East London"
@@ -2512,9 +2512,9 @@
     "show": "Taskmaster UK",
     "q": "What TV network originally commissioned and aired Taskmaster before it moved to Channel 4?",
     "options": [
-      "Dave (UKTV)",
+      "Dave",
       "BBC Two",
-      "Channel 5 (UK terrestrial free-to-air television network)",
+      "Channel 5",
       "E4"
     ],
     "answer": 0,
@@ -2538,7 +2538,7 @@
     "show": "Taskmaster UK",
     "q": "Who is the executive producer who originally championed developing the stage show into a TV format alongside Alex Horne?",
     "options": [
-      "Richard Allen-Turner and James Taylor (Avalon)",
+      "Richard Allen-Turner",
       "Andy Devonshire",
       "Peter Fincham",
       "Ben Farrell"
@@ -2554,7 +2554,7 @@
       "Andy Devonshire",
       "Peter Orton",
       "Chris Howe",
-      "Paul Wheeler (long-time British television and comedy director)"
+      "Paul Wheeler"
     ],
     "answer": 0,
     "d": 1,
@@ -2564,7 +2564,7 @@
     "show": "Taskmaster UK",
     "q": "What color is the wax seal on every classic Taskmaster task envelope?",
     "options": [
-      "Bright Scarlet / Red",
+      "Bright Scarlet",
       "Royal Blue",
       "Gold",
       "Black"
@@ -2577,7 +2577,7 @@
     "show": "Taskmaster UK",
     "q": "What font is traditionally used on the Taskmaster task letters?",
     "options": [
-      "Courier New / Typewriter font",
+      "Courier New",
       "Helvetica Bold",
       "Comic Sans",
       "Times New Roman"
@@ -2605,7 +2605,7 @@
     "options": [
       "\"Your time starts now.\"",
       "\"Good luck.\"",
-      "\"Do not look at Alex. (and don't you ever forget it!)\"",
+      "\"Do not look at Alex.\"",
       "\"Clock is ticking.\""
     ],
     "answer": 0,
@@ -2616,7 +2616,7 @@
     "show": "Taskmaster UK",
     "q": "What rule is famously enforced if a contestant reads a task that says \"All the information is on the task\"?",
     "options": [
-      "Everything they need is literally printed on the card or hidden on the reverse",
+      "Everything they need is literally printed on the card",
       "Alex is not allowed to speak",
       "They cannot use any tools",
       "They must finish in under 3 minutes"
@@ -2629,10 +2629,10 @@
     "show": "Taskmaster UK",
     "q": "Who holds the record for the lowest score in a single regular episode of Taskmaster UK (earning just 2 points)?",
     "options": [
-      "Katherine Parkinson (Series 10)",
-      "David Baddiel (Series 9 contestant & Three Lions writer)",
-      "Nish Kumar (Series 5)",
-      "Judi Love (Series 13)"
+      "Katherine Parkinson",
+      "David Baddiel",
+      "Nish Kumar",
+      "Judi Love"
     ],
     "answer": 0,
     "d": 1,
@@ -2642,7 +2642,7 @@
     "show": "Taskmaster UK",
     "q": "Who scored a record zero points in a live stage task because they repeatedly knocked over their own tower?",
     "options": [
-      "Joe Wilkinson (Series 2 contestant & tragic potato thrower)",
+      "Joe Wilkinson",
       "Mark Watson",
       "David Baddiel",
       "Hugh Dennis"
@@ -2655,7 +2655,7 @@
     "show": "Taskmaster UK",
     "q": "In Series 10, how many bonus points did Richard Herring receive for moving an egg across the lawn using only a blower?",
     "options": [
-      "5 (in its classic original format)",
+      "5",
       "3",
       "1",
       "0"
@@ -2668,7 +2668,7 @@
     "show": "Taskmaster UK",
     "q": "Which series had only 5 episodes in total?",
     "options": [
-      "Series 1 (the inaugural five-episode broadcast run)",
+      "Series 1",
       "Series 2",
       "Series 3",
       "Series 4"
@@ -2694,7 +2694,7 @@
     "show": "Taskmaster UK",
     "q": "Starting with which series did Taskmaster expand to a standard 10-episode format?",
     "options": [
-      "Series 4 (the first full ten-episode series run)",
+      "Series 4",
       "Series 5",
       "Series 6",
       "Series 7"
@@ -2707,7 +2707,7 @@
     "show": "Taskmaster UK",
     "q": "What happens in the event of a tie on points at the end of a regular episode?",
     "options": [
-      "A pre-recorded or live tie-break task between the tied contestants",
+      "A pre-recorded",
       "Greg arbitrarily chooses his favorite",
       "Alex Horne chooses based on sportsmanship",
       "The points are split and both win"
@@ -2720,7 +2720,7 @@
     "show": "Taskmaster UK",
     "q": "Which contestant won an episode tie-break by correctly guessing how many baked beans were in a tin without looking?",
     "options": [
-      "Josh Widdicombe (Series 1 champion & bean counter)",
+      "Josh Widdicombe",
       "Romesh Ranganathan",
       "Kerry Godliman",
       "Jon Richardson"
@@ -2733,7 +2733,7 @@
     "show": "Taskmaster UK",
     "q": "What running joke does Greg Davies tell about Alex Horne at the top of the show during Alex's introduction?",
     "options": [
-      "Absurd, libelous claims about Alex's bizarre personal habits or hobbies",
+      "Absurd, libelous claims about Alex's bizarre personal habits",
       "Alex's real age",
       "Alex's childhood acting career",
       "That Alex is actually his biological son"
@@ -2759,7 +2759,7 @@
     "show": "Taskmaster UK",
     "q": "What physical comparison does Greg frequently make regarding his own height next to Alex Horne?",
     "options": [
-      "That Alex is tiny (\"Little Alex Horne\")",
+      "That Alex is tiny",
       "That Alex is a giant",
       "That Alex is invisible",
       "That Alex wears stilts"
@@ -2798,10 +2798,10 @@
     "show": "Taskmaster UK",
     "q": "Whose actual mother appeared via phone or in person in multiple Rhod Gilbert tasks in Series 7?",
     "options": [
-      "Greg Davies' mother (Jean)",
+      "Greg Davies' mother",
       "James Acaster's mother",
       "Alex Horne's mother",
-      "Kerry Godliman's mother (special mystery guest)"
+      "Kerry Godliman's mother"
     ],
     "answer": 0,
     "d": 1,
@@ -2837,7 +2837,7 @@
     "show": "Taskmaster UK",
     "q": "What recurring character did Alex Horne play on Greg Davies' sitcom \"Man Down\"?",
     "options": [
-      "He did not appear; Dan's eccentric friend was played by Mike Wozniak",
+      "He did not appear",
       "A café waiter",
       "Dan's cousin",
       "The local postman"
@@ -2865,7 +2865,7 @@
     "options": [
       "A disused quarry",
       "A pinewood forest",
-      "A football stadium (Chesham United FC)",
+      "A football stadium",
       "An airfield"
     ],
     "answer": 2,
@@ -2876,7 +2876,7 @@
     "show": "Taskmaster UK",
     "q": "What famous railway line / heritage railway station was used as an off-site location in Series 7?",
     "options": [
-      "Buckinghamshire Railway Centre (Quainton Road)",
+      "Buckinghamshire Railway Centre",
       "Bluebell Railway",
       "Severn Valley Railway",
       "North Yorkshire Moors Railway"
@@ -2902,7 +2902,7 @@
     "show": "Taskmaster UK",
     "q": "Where is the studio portion of Taskmaster filmed?",
     "options": [
-      "Pinewood Studios (formerly Elstree Studios / Fountain Studios)",
+      "Pinewood Studios",
       "BBC Television Centre",
       "Manchester MediaCity",
       "Shepperton Studios"
@@ -2918,7 +2918,7 @@
       "A golf driving range",
       "A derelict Victorian prison",
       "A reservoir and water sports center",
-      "An abandoned airfield (Bovingdon)"
+      "An abandoned airfield"
     ],
     "answer": 3,
     "d": 1,
@@ -2967,7 +2967,7 @@
     "show": "Taskmaster UK",
     "q": "What is the dome-shaped open-air wooden structure in the garden called?",
     "options": [
-      "The Bandstand / The Dome",
+      "The Bandstand",
       "The Gazebo",
       "The Rotunda",
       "The Birdcage"
@@ -3123,8 +3123,8 @@
     "show": "Taskmaster UK",
     "q": "Who made up the \"Three Friends\" team in Series 4?",
     "options": [
-      "Mel Giedroyc, Noel Fielding, and Hugh Dennis",
-      "Joe Lycett, Lolly Adefope, and Noel Fielding (The Magnificent Three)",
+      "Mel Giedroyc",
+      "Joe Lycett, Lolly Adefope, and Noel Fielding",
       "Mel Giedroyc, Joe Lycett, and Lolly Adefope",
       "Noel Fielding, Mel Giedroyc, and Joe Lycett"
     ],
@@ -3149,7 +3149,7 @@
     "show": "Taskmaster UK",
     "q": "In Series 9, what was the pairing of the older, laid-back contestants called by fans and Greg?",
     "options": [
-      "The Retirement Village (team of experienced veteran contestants)",
+      "The Retirement Village",
       "Jo Brand and David Baddiel",
       "The Cynics Club",
       "The Lazy Duo"
@@ -3162,9 +3162,9 @@
     "show": "Taskmaster UK",
     "q": "In Series 11, who were the \"Three Men in a Boat / The Three Boys\" team?",
     "options": [
-      "Mike Wozniak, Lee Mack, and Jamali Maddix",
+      "Mike Wozniak",
       "Mike Wozniak and Lee Mack",
-      "Jamali Maddix and Charlotte Ritchie (The Cool & Chaotic Duo)",
+      "Jamali Maddix and Charlotte Ritchie",
       "Sarah Kendall and Charlotte Ritchie"
     ],
     "answer": 0,
@@ -3215,7 +3215,7 @@
     "q": "In Series 7, which team was composed of James Acaster, Rhod Gilbert, and Phil Wang?",
     "options": [
       "The Younger Boys",
-      "The Housemates (team of competitive rivals)",
+      "The Housemates",
       "The Bosh Team",
       "The Chaos Trio"
     ],
@@ -3267,7 +3267,7 @@
     "q": "Which contestant brought their own actual marriage certificate as a prize in Series 2?",
     "options": [
       "Jon Richardson",
-      "Katherine Ryan (Series 2 champion & stand-up comedian)",
+      "Katherine Ryan",
       "Joe Wilkinson",
       "Richard Osman"
     ],
@@ -3581,7 +3581,7 @@
       "Alex Horne himself",
       "Kumail Nanjiani",
       "Ron Funches",
-      "Paul F. Tompkins (frequent podcast co-host & character actor)"
+      "Paul F. Tompkins"
     ],
     "answer": 0,
     "d": 1,
@@ -3618,7 +3618,7 @@
     "q": "Which former UK contestant went on to be a series champion on Taskmaster New Zealand Series 2?",
     "options": [
       "Urzila Carlson",
-      "Guy Montgomery (Taskmaster New Zealand contestant)",
+      "Guy Montgomery",
       "Laura Daniel",
       "Matt Heath"
     ],
@@ -3669,7 +3669,7 @@
     "show": "Taskmaster UK",
     "q": "In Series 7, what fruit did James Acaster try to identify using only sound and smell while blindfolded?",
     "options": [
-      "A satsuma / orange",
+      "A satsuma",
       "A melon",
       "A pear",
       "A plum"
@@ -3708,7 +3708,7 @@
     "show": "Taskmaster UK",
     "q": "What did Sally Phillips use to recreate a birth scene in Series 5?",
     "options": [
-      "A watermelon, a bowl of eggs, and a tarpaulin",
+      "A watermelon",
       "A cabbage and a tub of margarine",
       "A sack of flour and pink food dye",
       "A pumpkin and a tin of tomato soup"

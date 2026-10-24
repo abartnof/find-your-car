@@ -15,7 +15,7 @@
     "show": "30 Rock",
     "q": "What is Liz Lemon's full first and middle name?",
     "options": [
-      "Elizabeth Margaret (senior associate)",
+      "Elizabeth Margaret Lemon",
       "Elizabeth Miervaldis",
       "Elizabeth Marie",
       "Elizabeth Maureen"
@@ -42,7 +42,7 @@
       "Honky Grandma Be Trippin'",
       "Black Cavemen",
       "Who Dat Ninja?",
-      "Hard To Watch: Based on the Book 'Stone Cold Bummer' by Manipulate"
+      "Hard To Watch"
     ],
     "answer": 3,
     "d": 3
@@ -183,10 +183,10 @@
     "show": "30 Rock",
     "q": "What was Jack Donaghy's position at GE when the series began?",
     "options": [
-      "Senior Manager of Media Relations",
+      "Senior Manager of General Electric Media Relations",
       "CEO of NBC Universal",
       "Executive VP of Dishwashers and Cable",
-      "Vice President of East Coast Television and Microwave Oven Programming"
+      "VP of Television and Microwave Oven Programming"
     ],
     "answer": 3,
     "d": 2
@@ -196,7 +196,7 @@
     "q": "What is Kenneth Parcell's middle name?",
     "options": [
       "Ellen",
-      "Wayne (official selection)",
+      "Wayne Parcell",
       "Earl",
       "Marie"
     ],
@@ -219,7 +219,7 @@
     "show": "30 Rock",
     "q": "What is the title of the unauthorized Janis Joplin biopic that Jenna stars in after failing to secure life rights?",
     "options": [
-      "Piece of My Heart in every detail",
+      "Piece of My Broken Heart",
       "Sing Dem Blues",
       "Jackie Jormp-Jomp",
       "Little Girl Blue"
@@ -234,7 +234,7 @@
       "Novelty graphic tees",
       "Flannel shirts",
       "Fingerless gloves",
-      "Trucker hats with witty phrases"
+      "Trucker hats"
     ],
     "answer": 3,
     "d": 2
@@ -291,9 +291,9 @@
     "show": "30 Rock",
     "q": "What was Pete Hornberger's notable brush with musical fame in the 1980s?",
     "options": [
-      "Fourth member of Loverboy",
+      "Loverboy member",
       "Bassist for Loverboy",
-      "Guitarist for Loverboy with full pedigree papers",
+      "Guitarist for Loverboy",
       "Roadie for Bon Jovi"
     ],
     "answer": 0,
@@ -303,8 +303,8 @@
     "show": "30 Rock",
     "q": "Why was Pete left out of Loverboy's greatest successes?",
     "options": [
-      "He was fired for missing rehearsals",
-      "He quit right before they made it big to go to college",
+      "He was fired from the band for missing key rehearsals",
+      "He quit right before they made it big",
       "He broke his arm before their tour",
       "He refused to wear red leather pants"
     ],
@@ -316,9 +316,9 @@
     "q": "Who is Jack Donaghy's intensely loyal executive assistant?",
     "options": [
       "Hazel",
-      "Cerie",
+      "Cerie Xerox, stylish and unflappable assistant",
       "Jonathan",
-      "Alfonso (official selection)"
+      "Alfonso"
     ],
     "answer": 2,
     "d": 2
@@ -340,7 +340,7 @@
     "q": "What is the name of Liz Lemon's younger brother who suffers from trauma-induced memory loss and thinks it is 1985?",
     "options": [
       "Mitch",
-      "Gary (longtime friend)",
+      "Gary",
       "Tom",
       "Todd"
     ],
@@ -378,7 +378,7 @@
       "His complete unawareness of modern politics",
       "An actual sterile tent due to allergies",
       "A high-end penthouse with soundproofing",
-      "The protective social privilege afforded solely to extremely attractive people"
+      "Social privilege afforded to attractive people"
     ],
     "answer": 3,
     "d": 2
@@ -387,7 +387,7 @@
     "show": "30 Rock",
     "q": "What disability does Dr. Drew suffer after various accidents reveal his true lack of competence?",
     "options": [
-      "He loses both hands and receives hook replacements",
+      "He loses both hands",
       "He becomes deaf in one ear",
       "He loses his sense of smell",
       "He walks with a permanent limp"
@@ -473,7 +473,7 @@
     "options": [
       "\"Space-man\"",
       "\"Speck-man\"",
-      "\"Spah-KEH-man (full version)\"",
+      "\"Spah-KEH-man\"",
       "\"Spah-CHAY-min\""
     ],
     "answer": 3,
@@ -507,7 +507,7 @@
     "show": "30 Rock",
     "q": "How does Jeffrey Weinerslav insist his last name is pronounced?",
     "options": [
-      "\"Ween-er-slav (full version)\"",
+      "\"Ween-er-slav\"",
       "\"Wine-slaw\"",
       "\"Weiner-slave\"",
       "\"Wiener-love\""
@@ -544,7 +544,7 @@
     "q": "Why does Wesley Snipes consider himself and Liz to be soulmates?",
     "options": [
       "They share identical childhood memories",
-      "They are each other's \"settling soulmates\" after dental surgery",
+      "They are each other's \"settling soulmates\"",
       "They both hate everyone else equally",
       "Their horoscopes perfectly align"
     ],
@@ -592,7 +592,7 @@
     "q": "What does the slogan \"Cleveland: We'd all like to flee to the Cleve\" represent to Liz?",
     "options": [
       "Cheap real estate",
-      "An idyllic escape where she is considered supermodel-attractive",
+      "An idyllic escape",
       "Outstanding hot dog stands",
       "A haven from Jack's meddling"
     ],
@@ -603,7 +603,7 @@
     "show": "30 Rock",
     "q": "What is the name of Liz Lemon's hometown in Pennsylvania?",
     "options": [
-      "Doylestown (official selection)",
+      "Doylestown",
       "Scranton",
       "White Haven",
       "Allentown"
@@ -615,7 +615,7 @@
     "show": "30 Rock",
     "q": "Which milestone high school reunion in Pennsylvania does Liz Lemon attend, only to discover her classmates viewed her as the school bully?",
     "options": [
-      "15th Reunion in every detail",
+      "15th Reunion",
       "25th Reunion",
       "10th Reunion",
       "20th Reunion"
@@ -663,7 +663,7 @@
     "show": "30 Rock",
     "q": "What organ did Milton Greene desperately need transplanted?",
     "options": [
-      "Liver (official selection)",
+      "Liver",
       "Lung",
       "Heart",
       "Kidney"
@@ -689,7 +689,7 @@
     "options": [
       "Cyndi Lauper",
       "Bruce Springsteen",
-      "Michael McDonald (senior associate)",
+      "Michael McDonald",
       "Sheryl Crow"
     ],
     "answer": 1,
@@ -748,8 +748,8 @@
     "q": "What is Kathy Geiss's favorite hobby/obsession?",
     "options": [
       "Playing the xylophone",
-      "Miniature horses and knitting in every detail",
-      "Mark Wahlberg and soap bubbles",
+      "Miniature horses and knitting",
+      "Mark Wahlberg",
       "Collecting stamps"
     ],
     "answer": 2,
@@ -797,7 +797,7 @@
     "options": [
       "Firing at will",
       "Strict written reprimands",
-      "He replaces shouting with warm hugs and cheerful smiles",
+      "He replaces shouting with warm hugs",
       "Mandatory mediation retreats"
     ],
     "answer": 2,
@@ -856,7 +856,7 @@
     "q": "What are the six sigmas according to Jack's wheel of success?",
     "options": [
       "Drive, Power, Greed, Force, Vision, Dominance",
-      "Analyze, Strategize, Monetize, Implement, Capitalize, Synergize in every detail",
+      "Analyze, Strategize, Monetize, Implement, Capitalize, Synergize",
       "Handshake, Eye Contact, Posture, Wealth, Pedigree, Wit",
       "Teamwork, Insight, Brutality, Malevolence, Synergy, Optimization"
     ],
@@ -868,7 +868,7 @@
     "q": "What is the name of Tracy's two sons?",
     "options": [
       "Tracy Jr. and George Foreman Jordan",
-      "George Foreman and Tracy Jr in every detail",
+      "George Foreman and Tracy Jr",
       "Tracy Jr. and Ray Drecker",
       "Little Tracy and Big Tracy"
     ],
@@ -893,7 +893,7 @@
     "options": [
       "A pop-up bakery called \"Baby Cakes\"",
       "A wing shack",
-      "A fraudulent seafood restaurant called \"Crab Catchers\"",
+      "A fraudulent seafood restaurant",
       "A smoothie stand"
     ],
     "answer": 2,
@@ -916,7 +916,7 @@
     "q": "What country kidnaps Avery Jessup on an undercover reporting assignment?",
     "options": [
       "North Korea",
-      "Russia (official selection)",
+      "Russia",
       "China",
       "Cuba"
     ],
@@ -952,9 +952,9 @@
     "q": "What role did Margaret Cho play besides Kim Jong-il in that same episode sequence?",
     "options": [
       "Kim Jong-un",
-      "North Korean news anchor in every detail",
+      "North Korean news anchor",
       "A UN translator",
-      "Both Kim Jong-il and Kim Jong-un"
+      "Both Kim Jong-il"
     ],
     "answer": 3,
     "d": 3
@@ -976,9 +976,9 @@
     "q": "Why is Jack and Avery's daughter named Liddy?",
     "options": [
       "After Jack's grandmother",
-      "After G. Gordon Liddy, Jack's hero",
+      "After G. Gordon Liddy",
       "After Liz Lemon",
-      "After the state of Liberty in every detail"
+      "After the state of Liberty"
     ],
     "answer": 1,
     "d": 2
@@ -1011,7 +1011,7 @@
     "show": "30 Rock",
     "q": "Where do Jack and C.C. meet secretly to avoid media scrutiny?",
     "options": [
-      "A halfway point in Pennsylvania (a cheesy diner)",
+      "A halfway point in Pennsylvania",
       "A secluded park bench in Central Park",
       "A rooftop in Manhattan",
       "A parking garage in Newark"
@@ -1059,7 +1059,7 @@
     "show": "30 Rock",
     "q": "What dark crime did Elisa commit against her former husband in Puerto Rico?",
     "options": [
-      "She killed him with a meat cleaver in a crime of passion (\"La Viuda Negra\")",
+      "She killed him with a meat cleaver in a crime of passion",
       "She poisoned his plantains",
       "She pushed him off a cruise ship",
       "She staged his kidnapping"
@@ -1242,7 +1242,7 @@
       "A vintage guitar repair shop",
       "An artisanal bagel truck",
       "A vegan bakery",
-      "An organic hot dog cart called the \"Van Der Beek\""
+      "An organic hot dog cart"
     ],
     "answer": 3,
     "d": 2
@@ -1252,7 +1252,7 @@
     "q": "How is the name of Liz Lemon's hot dog vendor boyfriend, played by James Marsden, officially spelled?",
     "options": [
       "Criss Chros",
-      "Chris Cross (senior associate)",
+      "Chris Cross",
       "Kris Kross",
       "Chris Chros"
     ],
@@ -1277,7 +1277,7 @@
     "options": [
       "She thought it was comic-con day",
       "She lost a bet to Tracy",
-      "It was the only clean white dress she owned that fit, and she always wanted to get married in it",
+      "It was the only clean white dress she owned that fit",
       "Criss dared her"
     ],
     "answer": 2,
@@ -1311,7 +1311,7 @@
     "show": "30 Rock",
     "q": "What is the name of Tracy Jordan's production company?",
     "options": [
-      "Dot Com Productions in every detail",
+      "Dot Com Productions",
       "Tracy Jordan De-Productions",
       "Grizz & Heart",
       "TGS Films"
@@ -1371,8 +1371,8 @@
     "show": "30 Rock",
     "q": "What was Grizz's full character name?",
     "options": [
-      "Arthur Griswold (close acquaintance)",
-      "Grizz Chapman",
+      "Arthur Griswold",
+      "Grizz Chapman, loyal member of Tracy's entourage",
       "Warren Griswold",
       "Gary Robinson"
     ],
@@ -1384,8 +1384,8 @@
     "q": "Who was Grizz engaged to, which caused dramatic tension between him, Dot Com, and Liz?",
     "options": [
       "Verna",
-      "Angie (official selection)",
-      "Cerie",
+      "Angie",
+      "Cerie Xerox, stylish and unflappable assistant",
       "Feyoncé"
     ],
     "answer": 3,
@@ -1421,7 +1421,7 @@
     "options": [
       "He was a Mountie",
       "He played street hockey in Ottawa",
-      "He was a cast member on a Canadian teen drama called *Just Joking*",
+      "He was a cast member on a Canadian teen drama",
       "He grew up on a maple farm"
     ],
     "answer": 2,
@@ -1457,7 +1457,7 @@
     "options": [
       "Jay Leno",
       "Christopher Walken",
-      "Tracy Jordan (senior associate)",
+      "Tracy Jordan the movie star",
       "Jack Donaghy"
     ],
     "answer": 1,
@@ -1468,7 +1468,7 @@
     "q": "What is Toofer's real name?",
     "options": [
       "John Spurlock",
-      "Thomas Wright (senior associate)",
+      "Thomas Wright",
       "James Spurlock",
       "James Baker"
     ],
@@ -1482,7 +1482,7 @@
       "Because he has two middle names",
       "Because he has two prominent front teeth",
       "Because he writes two scripts for every assignment",
-      "Because he is \"two for one\": a Black guy and a Harvard graduate"
+      "Because he is \"two for one\": a Black guy"
     ],
     "answer": 3,
     "d": 2
@@ -1505,7 +1505,7 @@
     "options": [
       "Harvard",
       "Princeton",
-      "Dartmouth (official selection)",
+      "Dartmouth",
       "Penn"
     ],
     "answer": 1,
@@ -1517,7 +1517,7 @@
     "options": [
       "Crew / Rowing",
       "Lacrosse",
-      "Football (quarterback)",
+      "Football",
       "Ice hockey"
     ],
     "answer": 2,
@@ -1551,7 +1551,7 @@
     "show": "30 Rock",
     "q": "What was the name of the high school wrestler Jack fought in the state championship?",
     "options": [
-      "Donnie Lawson (senior associate)",
+      "Donnie Lawson",
       "Larry Braverman",
       "Bucky Bright",
       "Jimmy Quurl"
@@ -1564,7 +1564,7 @@
     "q": "What did Jack realize when he finally confronted Larry Braverman years later?",
     "options": [
       "Larry was completely blind",
-      "Larry was now a billionaire in every detail",
+      "Larry was now a billionaire",
       "Larry didn't even remember him",
       "Larry was a huge fan of TGS"
     ],
@@ -1576,7 +1576,7 @@
     "q": "What is the name of the NBC Page who is Kenneth's bitter arch-rival?",
     "options": [
       "Alfonso",
-      "Jonathan (official selection)",
+      "Jonathan, Jack Donaghy's fiercely devoted assistant",
       "Gary",
       "Donny Lawson"
     ],
@@ -1587,7 +1587,7 @@
     "show": "30 Rock",
     "q": "What is Kenneth Parcell's true supernatural nature frequently hinted at throughout the show?",
     "options": [
-      "He is an immortal, ageless angelic or celestial being",
+      "He is an immortal",
       "He is a disguised alien scout",
       "He is a demon from hell",
       "He is a ghost from the 1920s"
@@ -1614,7 +1614,7 @@
       "Frank Rossitano",
       "Tracy Jordan Jr.",
       "Liz Lemon's granddaughter",
-      "Jenna Maroney's daughter in every detail"
+      "Jenna Maroney's daughter"
     ],
     "answer": 2,
     "d": 1
@@ -1659,7 +1659,7 @@
     "show": "30 Rock",
     "q": "What secret did Liz learn about her mother Margaret's past romance?",
     "options": [
-      "She was almost married to a famous mobster in every detail",
+      "She was almost married to a famous mobster",
       "She dated Donald Geiss",
       "She had a torrid affair with astronaut Buzz Aldrin",
       "She was a backup dancer on Broadway"
@@ -1707,7 +1707,7 @@
     "show": "30 Rock",
     "q": "What is the name of the Dutch/French writer on the TGS staff?",
     "options": [
-      "Cerie",
+      "Cerie Xerox, stylish and unflappable assistant",
       "Chloe",
       "Sue LaRoche-Van der Hout",
       "Greta"
@@ -1756,7 +1756,7 @@
     "q": "What does Jenna wear when she performs a duet with her mother Verna?",
     "options": [
       "Southern belle ballgowns",
-      "Western outfits with fringe in every detail",
+      "Western outfits with fringe",
       "Matching blue sequin jumpsuits",
       "Leather jackets"
     ],
@@ -1792,7 +1792,7 @@
     "q": "What is the traditional culinary element of the holiday Merlinpeen?",
     "options": [
       "Candied root vegetables",
-      "A bowl of meat and the Sausage of Truth",
+      "A bowl of meat",
       "A flagon of sour milk",
       "Cold roast beef"
     ],
@@ -1816,7 +1816,7 @@
     "q": "What is the name of the mythological figure associated with Leap Day?",
     "options": [
       "Captain Calendar",
-      "Old Man February in every detail",
+      "Old Man February",
       "Father Time",
       "Leap Day William"
     ],
@@ -1827,9 +1827,9 @@
     "show": "30 Rock",
     "q": "What happens if you don't wear blue and yellow on Leap Day?",
     "options": [
-      "People poke your eye or take your candy",
+      "People poke your eye",
       "You get pinched",
-      "You have to jump in the Hudson River in every detail",
+      "You have to jump in the Hudson River",
       "You lose your PTO"
     ],
     "answer": 0,
@@ -1901,7 +1901,7 @@
     "options": [
       "A roller backpack",
       "A boombox and shades",
-      "Two skateboards and a T-shirt that said \"Music Band\"",
+      "Two skateboards",
       "A yo-yo"
     ],
     "answer": 2,
@@ -1962,7 +1962,7 @@
       "Kenneth bets his NBC jacket and loses",
       "Jack cleans him out in one round",
       "Kenneth passes out from fear",
-      "Kenneth reads Jack's tells effortlessly because Kenneth has no ego"
+      "Kenneth reads Jack's tells effortlessly"
     ],
     "answer": 3,
     "d": 1
@@ -1971,9 +1971,9 @@
     "show": "30 Rock",
     "q": "What was Kenneth's tell in poker?",
     "options": [
-      "He smiles big when he has a good hand",
+      "He smiles big",
       "He twitches his ears",
-      "He sings hymns under his breath in every detail",
+      "He sings hymns under his breath",
       "He blushes furiously"
     ],
     "answer": 0,
@@ -2010,7 +2010,7 @@
       "He had no money left at all",
       "He had faked his own death",
       "He was an international fugitive",
-      "He was under house arrest for massive embezzlement and securities fraud"
+      "He was under house arrest for massive embezzlement"
     ],
     "answer": 3,
     "d": 2
@@ -2080,7 +2080,7 @@
     "q": "Why did Cooter Burger want to get fired from his government post?",
     "options": [
       "He hated Washington",
-      "It was impossible to get fired; failing was the only way to get a pension buyout",
+      "It was impossible to get fired",
       "He wanted to run for Senate",
       "He wanted to write a tell-all memoir"
     ],
@@ -2091,9 +2091,9 @@
     "show": "30 Rock",
     "q": "What was Cooter Burger's trick to avoid working?",
     "options": [
-      "He constantly called in bomb threats on his own office in every detail",
+      "He constantly called in bomb threats on his own office",
       "He hid in the ceiling vents",
-      "He held up a paper cup with pens and yelled \"It's a roof!\"",
+      "He held up a paper cup with pens",
       "He pretended his intercom was broken"
     ],
     "answer": 2,
@@ -2105,7 +2105,7 @@
     "options": [
       "John Mahoney",
       "Hank Azaria",
-      "David Hyde Pierce in every detail",
+      "David Hyde Pierce",
       "Kelsey Grammer as himself"
     ],
     "answer": 3,
@@ -2141,7 +2141,7 @@
     "options": [
       "As an endorsement deal",
       "For performance art research",
-      "To dispel rumors that he was in love with Liz Lemon / conceal his real romantic preferences",
+      "To dispel rumors that he was in love with Liz Lemon",
       "Because he genuinely believed it was alive"
     ],
     "answer": 2,
@@ -2163,7 +2163,7 @@
     "show": "30 Rock",
     "q": "What was Abby Flynn's real identity before adopting her hyper-feminine baby persona?",
     "options": [
-      "A tough standup comedian named Abby Grossman",
+      "A tough standup comedian",
       "An indie rock bassist from Brooklyn",
       "A corporate lawyer from Chicago",
       "A beauty pageant winner from Texas"
@@ -2213,7 +2213,7 @@
     "options": [
       "A therapy peacock",
       "An alligator",
-      "A capuchin monkey with full pedigree papers",
+      "A capuchin monkey",
       "A tiger cub"
     ],
     "answer": 0,
@@ -2343,7 +2343,7 @@
     "show": "30 Rock",
     "q": "What was Kevin Grisham's day job before he became a writer?",
     "options": [
-      "High school track coach in every detail",
+      "High school track coach",
       "Piano tuner",
       "Paramedic",
       "Recycling center manager"
@@ -2379,7 +2379,7 @@
     "show": "30 Rock",
     "q": "What does Liz discover the miraculous jeans are made from?",
     "options": [
-      "Plant fibers sourced by child labor in every detail",
+      "Plant fibers sourced by child labor",
       "Recycled plastic bags",
       "Synthetic hair from Sheinhardt Wig Co.",
       "Radioactive denim"
@@ -2392,7 +2392,7 @@
     "q": "What is Jack Donaghy's middle name?",
     "options": [
       "Thomas",
-      "Patrick (official selection)",
+      "Patrick",
       "Michael",
       "Francis"
     ],
@@ -2429,7 +2429,7 @@
     "options": [
       "They all became folk singers",
       "None of them went to college",
-      "They all turned out remarkably successful and ambitious",
+      "They all turned out remarkably successful",
       "They founded a commune"
     ],
     "answer": 2,
@@ -2451,9 +2451,9 @@
     "show": "30 Rock",
     "q": "Where does Liz's agent Simon keep his office?",
     "options": [
-      "In a storage locker / closet of a gym",
+      "In a storage locker",
       "In the back of a Korean nail salon",
-      "In a minivan parked near Times Square in every detail",
+      "In a minivan parked near Times Square",
       "In the basement of an abandoned bank"
     ],
     "answer": 0,
@@ -2475,7 +2475,7 @@
     "show": "30 Rock",
     "q": "What is the name of the NBC Page who is trapped in a soundproof bunker during a fire drill?",
     "options": [
-      "Alfonso (official selection)",
+      "Alfonso",
       "Donny",
       "Kenneth",
       "Walter"
@@ -2512,7 +2512,7 @@
     "q": "What was Hazel Wassername's true motivation for working at TGS?",
     "options": [
       "To become the president of NBC",
-      "To get famous by sabotaging Liz and seducing Tracy",
+      "To get famous by sabotaging Liz",
       "To expose Jack Donaghy's fraud",
       "To win an Emmy Award"
     ],
@@ -2526,7 +2526,7 @@
       "Hazel Mirage",
       "Tawny Peaks",
       "Richard Drench",
-      "Cherry Blossom (senior associate)"
+      "Cherry Blossom"
     ],
     "answer": 2,
     "d": 3
@@ -2571,7 +2571,7 @@
     "show": "30 Rock",
     "q": "What is the name of the elevator operator at 30 Rock whom Liz often talks to?",
     "options": [
-      "Walter (official selection)",
+      "Walter",
       "Carl",
       "Subhas",
       "Lenny"
@@ -2680,7 +2680,7 @@
     "q": "Who was Jack's rival who beat him at the all-state flute competition?",
     "options": [
       "Walter Banks",
-      "Richard Tremper with full pedigree papers",
+      "Richard Tremper",
       "Jimmy Quurl",
       "Larry Braverman"
     ],
@@ -2692,7 +2692,7 @@
     "q": "What is the name of the live episode gimmick used in Seasons 5 and 6?",
     "options": [
       "Live from Studio 6H",
-      "30 Rock: On the Air in every detail",
+      "30 Rock: On the Air",
       "Rockefeller Live",
       "Studio 8H Special"
     ],
@@ -2729,7 +2729,7 @@
     "options": [
       "Jenna Smith",
       "Jenna Vance",
-      "Jenna Maroney (close acquaintance)",
+      "Jenna Maroney the performer",
       "Jenna DeCarlo"
     ],
     "answer": 3,
@@ -2739,7 +2739,7 @@
     "show": "30 Rock",
     "q": "How many different bit parts did Rachel Dratch end up playing across the series run?",
     "options": [
-      "Over 10 different characters (including the Blue Man, cat lady, and Greta the wrangler)",
+      "Over 10 different characters",
       "Exactly 3",
       "None after the pilot",
       "Only one recurring role"
@@ -2765,8 +2765,8 @@
     "options": [
       "Two non-consecutive years",
       "Four consecutive years",
-      "Three consecutive years (2007, 2008, 2009)",
-      "Only one year (2008)"
+      "Three consecutive years",
+      "Only one year"
     ],
     "answer": 2,
     "d": 3
@@ -2776,7 +2776,7 @@
     "q": "How many Emmy nominations did 30 Rock earn in 2009, setting a historical comedy record at the time?",
     "options": [
       "19 nominations",
-      "A total of 17 nominations overall",
+      "17 nominations overall",
       "25 nominations",
       "22 nominations"
     ],
@@ -2932,7 +2932,7 @@
     "q": "What was the name of the cross-dressing serial killer character played by John Lithgow who was also a guest star?",
     "options": [
       "Himself, lost in 30 Rock looking for his car",
-      "The Trinity Killer (parodying Dexter, full cut)",
+      "The Trinity Killer",
       "A crazy Broadway director",
       "The Page Master"
     ],
@@ -2944,7 +2944,7 @@
     "q": "Why is John Lithgow trapped in 30 Rock in season 4?",
     "options": [
       "He was rehearsing a one-man show",
-      "He cannot find his way out of the corridors and asks pages for help",
+      "He cannot find his way out of the corridors",
       "He was protesting GE",
       "He thought he was at Radio City Music Hall"
     ],
@@ -2970,7 +2970,7 @@
       "Long Island City",
       "Hoboken, New Jersey",
       "Staten Island",
-      "An undisclosed Italian deli in North Bergen, New Jersey"
+      "An undisclosed Italian deli in North Bergen"
     ],
     "answer": 3,
     "d": 2
@@ -2979,7 +2979,7 @@
     "show": "30 Rock",
     "q": "What must Liz do to prove her worth to the Teamsters in the teamster drinking challenge?",
     "options": [
-      "Out-drink them with beer and eat pastrami",
+      "Out-drink them with beer",
       "Arm wrestle the shop steward",
       "Beat their leader in darts",
       "Parallel park a semi-truck"
@@ -3027,7 +3027,7 @@
     "show": "30 Rock",
     "q": "What was the real reason Alec Baldwin almost left 30 Rock after Season 5?",
     "options": [
-      "He felt his performance was slipping and the writing quality had peaked",
+      "He felt his performance was slipping",
       "Salary disputes with the studio",
       "Scheduling conflicts with Broadway",
       "Political differences with the network"
@@ -3039,7 +3039,7 @@
     "show": "30 Rock",
     "q": "How many episodes of 30 Rock were produced over its seven-season run?",
     "options": [
-      "A total of 150 episodes overall",
+      "150 episodes overall",
       "138 episodes",
       "126 episodes",
       "144 episodes"
@@ -3064,9 +3064,9 @@
     "q": "What does Jack Donaghy realize at the end of the series finale after embarking on a soul-searching boat trip?",
     "options": [
       "He wants to become a monk in Tibet",
-      "He wants to run for President of the United States in every detail",
+      "He wants to run for President of the United States",
       "He wants to live on a farm in Vermont",
-      "He invents an idea for a clear, see-through dishwasher"
+      "He invents an idea for a clear"
     ],
     "answer": 3,
     "d": 2
@@ -3149,7 +3149,7 @@
     "options": [
       "Slices of cold deli meat",
       "A melted chocolate bar",
-      "Empty cheese foil wrappers and a discarded lottery ticket",
+      "Empty cheese foil wrappers",
       "Three TV remotes"
     ],
     "answer": 2,
@@ -3186,7 +3186,7 @@
       "\"Suburban Lumberjack\"",
       "\"Lesbian Mario Brothers\"",
       "\"Depressed Librarian\"",
-      "\"Comfort-Casual Despair (full version)\""
+      "\"Comfort-Casual Despair\""
     ],
     "answer": 1,
     "d": 1
@@ -3198,7 +3198,7 @@
       "Clogs",
       "Ugg boots with sweatpants",
       "Orthopedic sneakers with velcro",
-      "Birkenstocks with wool socks in every detail"
+      "Birkenstocks with wool socks"
     ],
     "answer": 2,
     "d": 2
@@ -3231,7 +3231,7 @@
     "show": "30 Rock",
     "q": "What was Greenzo's real character name before adopting the costume?",
     "options": [
-      "Colin (official selection)",
+      "Colin",
       "Jared",
       "Toby",
       "Kyle"
@@ -3280,7 +3280,7 @@
     "q": "What condition afflicted Prince Gerhardt as a result of centuries of royal inbreeding?",
     "options": [
       "Extreme giantism",
-      "Severe physical deformities, inability to metabolize grapes, and limited mobility",
+      "Severe physical deformities",
       "Complete loss of speech",
       "Purple skin pigmentation"
     ],
@@ -3293,7 +3293,7 @@
     "options": [
       "He falls off his golden wheelchair",
       "He chokes on a miniature hors d'oeuvre",
-      "He drinks champagne which his body cannot metabolize",
+      "He drinks champagne",
       "He catches a draft from the open terrace"
     ],
     "answer": 2,
@@ -3376,7 +3376,7 @@
     "q": "What was the name of the fictional TV movie about Avery Jessup's captivity?",
     "options": [
       "Kidnapped by Kim: The Avery Jessup Story",
-      "A Dog Took My Face and Was Handsome: The Avery Jessup Story",
+      "A Dog Took My Face",
       "Escape from Pyongyang",
       "Red Star Romance"
     ],
@@ -3519,7 +3519,7 @@
     "show": "30 Rock",
     "q": "What is Liz Lemon's bank account pin code based on her high school obsession?",
     "options": [
-      "1-7-7-6 in every detail",
+      "1-7-7-6",
       "1-9-8-5",
       "4-3-2-1",
       "0-0-0-0"
@@ -3543,7 +3543,7 @@
     "show": "30 Rock",
     "q": "What was the name of Liz Lemon's high school boyfriend who was still a closeted homosexual?",
     "options": [
-      "Jamie (longtime friend)",
+      "Jamie",
       "Todd",
       "Floyd",
       "Stewart"
@@ -3555,7 +3555,7 @@
     "show": "30 Rock",
     "q": "In the series finale, where does Jack Donaghy ultimately realize his true bliss lies?",
     "options": [
-      "Making money and innovating corporate American products",
+      "Making money",
       "Sailing around the world alone",
       "Raising his daughter in the countryside",
       "Directing television"
@@ -3581,7 +3581,7 @@
     "options": [
       "Liz Lemon's descendants",
       "A digital computer core built by Jack",
-      "Kenneth Parcell, who is still alive and running NBC with flying spaceships outside his window",
+      "Kenneth Parcell",
       "An alien species who worships TGS"
     ],
     "answer": 2,
@@ -3594,7 +3594,7 @@
       "\"Does this show have a theme song? I love television.\"",
       "\"I want to go to there.\"",
       "\"Make it 1997 again through science or magic.\"",
-      "\"There are no bad ideas, Lemon... only great ideas that go horribly wrong.\""
+      "\"There are no bad ideas\""
     ],
     "answer": 3,
     "d": 2

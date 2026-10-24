@@ -64,7 +64,7 @@
     "q": "Which actor played the beloved, absent-minded former coach Ernie Pantusso on Cheers until his death in 1985?",
     "options": [
       "Woody Harrelson",
-      "John Ratzenberger (as mailman Cliff Clavin on Cheers)",
+      "John Ratzenberger",
       "Nicholas Colasanto",
       "George Wendt"
     ],
@@ -258,7 +258,7 @@
       "Peri Gilpin",
       "Bebe Neuwirth",
       "Jane Leeves",
-      "Judith Light (as Angela Bower on Who's the Boss?)"
+      "Judith Light"
     ],
     "answer": 1,
     "d": 1
@@ -318,7 +318,7 @@
       "Alan Thicke",
       "Mike Post",
       "Judy Hart Angelo",
-      "Allee Willis (Grammy-winning songwriter behind the Friends theme and Earth Wind & Fire)"
+      "Allee Willis"
     ],
     "answer": 2,
     "d": 3
@@ -375,7 +375,7 @@
     "show": "80s TV Shows",
     "q": "At the end of which season did Shelley Long depart Cheers to pursue a film career?",
     "options": [
-      "Season 3 (1984-1985)",
+      "Season 3",
       "Season 5",
       "Season 4",
       "Season 6"
@@ -461,7 +461,7 @@
     "options": [
       "Doris Roberts",
       "Marion Ross",
-      "Audrey Meadows (classic television comedy actress)",
+      "Audrey Meadows",
       "Frances Sternhagen"
     ],
     "answer": 3,
@@ -471,7 +471,7 @@
     "show": "80s TV Shows",
     "q": "What was the name of Frasier Crane and Lilith Sternin's son born during season 8 of Cheers?",
     "options": [
-      "Martin (in honor of Dr. Frasier Crane's retired detective father Martin)",
+      "Martin",
       "David",
       "Niles",
       "Frederick"
@@ -604,7 +604,7 @@
     "q": "Who was the quirky, young magic-loving judge appointed to Manhattan Criminal Court, Part 9, on Night Court?",
     "options": [
       "Harry T. Stone",
-      "Assistant District Attorney Dan Fielding (the narcissistic womanizer)",
+      "Assistant District Attorney Dan Fielding",
       "Bull Shannon",
       "Mac Robinson"
     ],
@@ -654,7 +654,7 @@
       "Richard Moll",
       "John Larroquette",
       "Harry Anderson",
-      "Charles Robinson (as court clerk Mac Robinson on Night Court)"
+      "Charles Robinson"
     ],
     "answer": 1,
     "d": 1
@@ -881,7 +881,7 @@
     "options": [
       "He was the mayor's secret illegitimate son",
       "He won a mayoral raffle contest",
-      "He was at the bottom of the list and all other candidates were unavailable",
+      "He was at the bottom of the list",
       "He saved the mayor from a mugging"
     ],
     "answer": 2,
@@ -1047,10 +1047,10 @@
     "show": "80s TV Shows",
     "q": "In what prime-time slot did Night Court typically air during NBC's dominant mid-1980s Thursday lineup?",
     "options": [
-      "10:00 PM (closing the night)",
-      "8:00 PM (opening the night)",
-      "8:30 PM (following The Cosby Show)",
-      "9:30 PM (following Cheers)"
+      "10:00 PM",
+      "8:00 PM",
+      "8:30 PM",
+      "9:30 PM"
     ],
     "answer": 3,
     "d": 2
@@ -1083,7 +1083,7 @@
     "show": "80s TV Shows",
     "q": "On 'Night Court', what prop did Judge Harry Stone frequently carry or use in court to defuse tense arguments?",
     "options": [
-      "Magic handcuffs or trick gags",
+      "Magic handcuffs",
       "A baseball bat",
       "A wooden whistle",
       "A bullhorn"
@@ -1155,9 +1155,9 @@
     "show": "80s TV Shows",
     "q": "Which episode of Night Court featured Michael J. Fox as an angry teenage delinquent named Eddie Simms before Family Ties took off?",
     "options": [
-      "Santa Goes Pop (season 1)",
+      "Santa Goes Pop",
       "Welcome Back, Momma",
-      "The Eye of the Beholder (season 2)",
+      "The Eye of the Beholder",
       "Some Like It Hot"
     ],
     "answer": 0,
@@ -1191,7 +1191,7 @@
     "show": "80s TV Shows",
     "q": "What network broadcast both Cheers and Night Court as part of its Thursday night powerhouse in the 1980s?",
     "options": [
-      "Fox Broadcasting Company (FOX)",
+      "Fox Broadcasting Company",
       "NBC",
       "CBS",
       "ABC"
@@ -1505,7 +1505,7 @@
     "options": [
       "Leather trench coats with fedoras",
       "Denim jackets over flannel shirts",
-      "Pastel jackets over T-shirts with slip-on loafers and no socks",
+      "Pastel jackets over T-shirts with slip-on loafers",
       "Double-breasted navy suits with red power ties"
     ],
     "answer": 2,
@@ -1659,10 +1659,10 @@
     "show": "80s TV Shows",
     "q": "In 'Miami Vice', what acronym did Philip Michael Thomas famously coin on talk shows to describe his career aspirations?",
     "options": [
-      "GOLD (Grammy, Oscar, Laureate, Daytime)",
-      "FAME (Film, Acting, Music, Excellence)",
-      "EGOT (Emmy, Grammy, Oscar, Tony)",
-      "STAR (Screen, Television, Academy, Radio)"
+      "GOLD",
+      "FAME",
+      "EGOT",
+      "STAR"
     ],
     "answer": 2,
     "d": 3
@@ -1671,7 +1671,7 @@
     "show": "80s TV Shows",
     "q": "What broadcast network was home to Miami Vice throughout its 1984 to 1989 run?",
     "options": [
-      "American Broadcasting Company (ABC)",
+      "American Broadcasting Company",
       "CBS",
       "Fox",
       "NBC"
@@ -1899,10 +1899,10 @@
     "show": "80s TV Shows",
     "q": "What organization employed Michael Knight and KITT on Knight Rider?",
     "options": [
-      "PHOENIX (Phoenix Foundation)",
-      "FLAG (Foundation for Law and Government)",
-      "CUP (Citizens United for Protection)",
-      "SHIELD (Strategic Hazard Intervention Espionage Logistics)"
+      "PHOENIX",
+      "FLAG",
+      "CUP",
+      "SHIELD"
     ],
     "answer": 1,
     "d": 1
@@ -2067,10 +2067,10 @@
     "show": "80s TV Shows",
     "q": "In 'Knight Rider', what was the name of KITT's evil prototype predecessor whose CPU lacked the preservation-of-human-life directive?",
     "options": [
-      "KLON (Knight Law Operative Nexus)",
-      "KARM (Kinetic Autonomous Recon Machine)",
-      "KRON (Knight Robotic Operative Network)",
-      "KARR (Knight Automated Roving Robot)"
+      "KLON",
+      "KARM",
+      "KRON",
+      "KARR"
     ],
     "answer": 3,
     "d": 1
@@ -2236,7 +2236,7 @@
     "q": "In 'Knight Rider', in the season 4 premiere 'Knight of the Juggernaut', who created the Super Pursuit Mode after KITT was destroyed by an armored vehicle?",
     "options": [
       "NASA aerospace engineers",
-      "Bonnie Barstow and street mechanic RC3 (Reginald Cornelius III)",
+      "Bonnie Barstow",
       "A secret team in Stuttgart, Germany",
       "Devon Miles and Wilton Knight"
     ],
@@ -2271,7 +2271,7 @@
     "show": "80s TV Shows",
     "q": "In 'Knight Rider', what was KITT's primary fuel source according to the lore established in the series?",
     "options": [
-      "Hydrogen / synthetic fuel turbine engine",
+      "Hydrogen",
       "Solar battery cells",
       "Standard unleaded 93 gasoline",
       "Nuclear fission micro-reactor"
@@ -2321,7 +2321,7 @@
     "options": [
       "Night Rocker",
       "Looking for Freedom",
-      "Hooked on a Feeling (Blue Swede)",
+      "Hooked on a Feeling",
       "Crazy for You"
     ],
     "answer": 1,
@@ -2380,7 +2380,7 @@
     "q": "In 'Knight Rider', which voice synthesizer computer company provided the electronic sound effects for KITT's cockpit voice box display?",
     "options": [
       "Texas Instruments Speak & Spell",
-      "Universal Sound Dept. / electronic LED bars",
+      "Universal Sound Dept.",
       "Atari 800 sound chip",
       "Moog modular laboratory"
     ],
@@ -2800,7 +2800,7 @@
     "q": "On 'The Golden Girls', why did director Jay Sandrich suggest that Betty White and Rue McClanahan switch roles?",
     "options": [
       "Because network executives felt Rue was too wholesome for Blanche",
-      "To prevent them from typecasting roles similar to Sue Ann Nivens and Vivian Cavender",
+      "To prevent them from typecasting roles similar to Sue Ann Nivens",
       "Due to wardrobe fit issues during camera tests",
       "Because Bea Arthur refused to work with Betty as Blanche"
     ],
@@ -2907,7 +2907,7 @@
     "show": "80s TV Shows",
     "q": "Who did Dorothy Zbornak marry in the series finale of The Golden Girls?",
     "options": [
-      "Lucas Hollingsworth (Blanche's uncle)",
+      "Lucas Hollingsworth",
       "Stan Zbornak",
       "Dr. Harry Weston",
       "Miles Webber"
@@ -3186,7 +3186,7 @@
       "The 'Crowns Don't Tarnish' tirade",
       "The 'Magnolias with Steel Spines' address",
       "The 'Southern Belles Do Not Bow' speech",
-      "The 'And that, Marjorie, is how the lights went out in Georgia' speech"
+      "The 'And that"
     ],
     "answer": 3,
     "d": 1
@@ -3268,7 +3268,7 @@
     "q": "What broadcast network was the home of Designing Women throughout its original run?",
     "options": [
       "CBS",
-      "National Broadcasting Company (NBC)",
+      "National Broadcasting Company",
       "Fox",
       "ABC"
     ],
@@ -3315,10 +3315,10 @@
     "show": "80s TV Shows",
     "q": "On 'Designing Women', what branch of the U.S. military did Charlene's husband Bill Stillfield serve in?",
     "options": [
-      "United States Navy (Commander)",
-      "Army (Captain)",
-      "Air Force (Colonel)",
-      "Marines (Major)"
+      "United States Navy",
+      "Army",
+      "Air Force",
+      "Marines"
     ],
     "answer": 2,
     "d": 3
@@ -3365,7 +3365,7 @@
     "options": [
       "An arrest for driving under the influence",
       "Her refusal to film outside Atlanta",
-      "Bitter behind-the-scenes feuds with creator Linda Bloodworth-Thomason and producers",
+      "Bitter behind-the-scenes feuds with creator Linda Bloodworth-Thomason",
       "A contract holdout demanding equal pay to network executives"
     ],
     "answer": 2,
@@ -3389,7 +3389,7 @@
     "options": [
       "Allison Sugarbaker",
       "BJ Poteet",
-      "Carlene Frazier Dobber (Charlene's sister)",
+      "Carlene Frazier Dobber",
       "Rusty Vandermeer"
     ],
     "answer": 2,
@@ -3426,7 +3426,7 @@
       "Certified Public Accountant",
       "Doctor of Architecture",
       "Juris Doctor from night law school",
-      "Master of Business Administration (MBA)"
+      "Master of Business Administration"
     ],
     "answer": 2,
     "d": 2
@@ -3509,7 +3509,7 @@
     "options": [
       "Mr. Atlanta Physique",
       "Southern Gentleman of the Year",
-      "The Miss General Motors Pageant (as a chaperone)",
+      "The Miss General Motors Pageant",
       "The Georgia Bachelor Contest"
     ],
     "answer": 2,
@@ -3569,7 +3569,7 @@
     "options": [
       "The Mercer House in Savannah",
       "Swan House in Atlanta",
-      "The Villa Marre in Little Rock, Arkansas",
+      "The Villa Marre in Little Rock",
       "Rhodes Hall in Midtown Atlanta"
     ],
     "answer": 2,
@@ -3580,7 +3580,7 @@
     "q": "Why was an Arkansas Victorian home used as the exterior for Designing Women instead of one in Atlanta?",
     "options": [
       "The Atlanta location burned down before filming",
-      "Producers Linda and Harry Thomason were Arkansas natives and loved the house",
+      "Producers Linda",
       "Atlanta city ordinances banned commercial filming of homes",
       "It was cheaper to ship the film crew to Little Rock"
     ],
@@ -3905,7 +3905,7 @@
     "options": [
       "Fox showed up late to the reading",
       "Fox had no previous television credits",
-      "He felt Fox was too short and couldn't picture his face on a lunchbox",
+      "He felt Fox was too short",
       "He thought Fox had too thick of a Canadian accent"
     ],
     "answer": 2,
@@ -4047,10 +4047,10 @@
     "show": "80s TV Shows",
     "q": "In what time slot did Family Ties anchor NBC's Thursday night block before Cheers?",
     "options": [
-      "8:30 PM (following The Cosby Show)",
-      "9:30 PM (following Night Court on NBC)",
-      "8:00 PM (opening the evening)",
-      "9:00 PM (replacing Cheers)"
+      "8:30 PM",
+      "9:30 PM",
+      "8:00 PM",
+      "9:00 PM"
     ],
     "answer": 0,
     "d": 2
@@ -4060,9 +4060,9 @@
     "q": "What was the highest rank Family Ties reached in the end-of-year Nielsen ratings during the 1985-1986 and 1986-1987 seasons?",
     "options": [
       "Number 1 in all of television",
-      "Number 6 (behind 60 Minutes)",
-      "Number 2 (behind only The Cosby Show)",
-      "Number 4 (behind hits Dallas and Dynasty)"
+      "Number 6",
+      "Number 2",
+      "Number 4"
     ],
     "answer": 2,
     "d": 2
@@ -4206,7 +4206,7 @@
       "William Shatner",
       "George Takei",
       "Leonard Nimoy",
-      "Walter Koenig (Chekov from Star Trek)"
+      "Walter Koenig"
     ],
     "answer": 3,
     "d": 2
@@ -4431,7 +4431,7 @@
     "show": "80s TV Shows",
     "q": "On which television network did Growing Pains air throughout its seven-season run (1985-1992)?",
     "options": [
-      "Fox Broadcasting Company (FOX)",
+      "Fox Broadcasting Company",
       "ABC",
       "CBS",
       "NBC"
@@ -4806,7 +4806,7 @@
       "George Peppard",
       "Dirk Benedict",
       "Robert Vaughn",
-      "Dwight Schultz (as Captain 'Howling Mad' Murdock on The A-Team)"
+      "Dwight Schultz"
     ],
     "answer": 0,
     "d": 1
@@ -4875,7 +4875,7 @@
     "show": "80s TV Shows",
     "q": "How did the A-Team routinely get B.A. Baracus onto airplanes against his will?",
     "options": [
-      "Tricking him into drinking drugged milk or knocking him unconscious",
+      "Tricking him into drinking drugged milk",
       "Hypnotizing him with a gold watch",
       "Handcuffing him inside a shipping crate",
       "Disguising the plane as a train car"
@@ -4947,7 +4947,7 @@
     "show": "80s TV Shows",
     "q": "Why was Tim Dunigan replaced by Dirk Benedict after The A-Team pilot?",
     "options": [
-      "Producers felt Dunigan was too tall and looked too young to be a Vietnam veteran",
+      "Producers felt Dunigan was too tall",
       "Dunigan broke his leg during a stunt",
       "Dunigan could not perform comedic scenes",
       "Dunigan refused to sign a five-year contract"
@@ -4960,7 +4960,7 @@
     "q": "On 'The A-Team', who played the eccentric, supposedly insane helicopter pilot Captain H.M. 'Howling Mad' Murdock?",
     "options": [
       "Dirk Benedict",
-      "George Peppard (as Colonel Hannibal Smith on The A-Team)",
+      "George Peppard",
       "Eddie Velez",
       "Dwight Schultz"
     ],
@@ -5019,7 +5019,7 @@
     "show": "80s TV Shows",
     "q": "Why was actress Melinda Culea written off The A-Team during season 2?",
     "options": [
-      "She pushed for her character to participate in action sequences and shoot weapons",
+      "She pushed for her character to participate in action sequences",
       "She signed a film contract with Warner Bros.",
       "The network mandated an all-male cast",
       "She had an off-screen feud with Mr. T"
@@ -5116,7 +5116,7 @@
     "q": "What distinct stylistic convention was famous in nearly every A-Team action sequence?",
     "options": [
       "All weapons fired paintballs instead of live ammunition",
-      "Villains survived massive explosions and car flips without a single fatality",
+      "Villains survived massive explosions",
       "Every fight scene was filmed in slow motion",
       "Characters spoke directly to the camera during brawls"
     ],
@@ -5200,7 +5200,7 @@
     "q": "What was the original broadcast network for The A-Team from 1983 to 1987?",
     "options": [
       "NBC",
-      "American Broadcasting Company (ABC)",
+      "American Broadcasting Company",
       "CBS",
       "Fox"
     ],
@@ -5247,7 +5247,7 @@
     "show": "80s TV Shows",
     "q": "In what season of The A-Team were the team members finally captured by the military and put on trial?",
     "options": [
-      "Season 3 (1984-1985)",
+      "Season 3",
       "Season 2",
       "Season 4",
       "Season 5"
@@ -5322,7 +5322,7 @@
       "U.S. Air Force Pararescue",
       "U.S. Army Special Forces",
       "U.S. Marine Corps",
-      "U.S. Navy (SEAL and Naval Intelligence)"
+      "U.S. Navy"
     ],
     "answer": 3,
     "d": 1
@@ -5535,7 +5535,7 @@
     "show": "80s TV Shows",
     "q": "On 'Magnum, P.I.', why could Tom Selleck have actually filmed Raiders of the Lost Ark despite the network's initial refusal?",
     "options": [
-      "The Magnum pilot shooting was delayed by a writers' and actors' strike",
+      "The Magnum pilot shooting was delayed by a writers'",
       "CBS bought the television broadcast rights to Raiders",
       "Lucasfilm paid off Selleck's CBS contract",
       "Spielberg agreed to film Raiders on Oahu"
@@ -5585,7 +5585,7 @@
     "options": [
       "TAG Heuer Monaco",
       "Breitling Navitimer",
-      "Rolex Submariner / GMT-Master",
+      "Rolex Submariner",
       "Omega Speedmaster"
     ],
     "answer": 2,
@@ -5799,10 +5799,10 @@
     "show": "80s TV Shows",
     "q": "On 'Magnum, P.I.', what branch of the service did Higgins claim to have served with during his extensive military career?",
     "options": [
-      "Royal Marines (Captain)",
-      "British Army (Sergeant Major)",
-      "Royal Air Force (Squadron Leader)",
-      "Royal Navy (Commander)"
+      "Royal Marines",
+      "British Army",
+      "Royal Air Force",
+      "Royal Navy"
     ],
     "answer": 1,
     "d": 2
@@ -5860,7 +5860,7 @@
     "q": "On 'Magnum, P.I.', what water sport was Magnum passionate about, often paddling out in the early morning off the estate?",
     "options": [
       "Scuba diving",
-      "Surf ski / surf paddleboard",
+      "Surf ski",
       "Kite surfing",
       "Windsurfing"
     ],
@@ -5872,7 +5872,7 @@
     "q": "In the final scene of Magnum, P.I., what did Higgins confess to Magnum regarding Robin Masters?",
     "options": [
       "He admitted he was Robin Masters and signed over the deed",
-      "He told Magnum he lied earlier and wasn't Robin Masters, smiling as Magnum stared in disbelief",
+      "He told Magnum he lied earlier",
       "He confirmed Robin Masters was his twin brother",
       "He revealed Robin Masters had died years ago"
     ],
@@ -5992,7 +5992,7 @@
     "q": "In what Hawaiian valley was the fictional Robin's Nest estate set according to dialogue in Magnum, P.I.?",
     "options": [
       "Hanakapiai Valley",
-      "Kalama Valley / southeast Oahu",
+      "Kalama Valley",
       "Manoa Valley",
       "Waimea Valley"
     ],
@@ -6159,7 +6159,7 @@
     "show": "80s TV Shows",
     "q": "On 'Dallas', what was the relationship between the Barnes and Ewing families intended to evoke?",
     "options": [
-      "Romeo and Juliet (Hatfield and McCoy feuding families)",
+      "Romeo and Juliet",
       "War and Peace",
       "The Great Gatsby",
       "The Count of Monte Cristo"
@@ -6245,7 +6245,7 @@
     "options": [
       "Alan Beam",
       "Sue Ellen Ewing",
-      "Kristin Shepard (J.R.'s mistress and sister-in-law)",
+      "Kristin Shepard",
       "Cliff Barnes"
     ],
     "answer": 2,
@@ -6279,10 +6279,10 @@
     "show": "80s TV Shows",
     "q": "On 'Dallas', what market share did the 'Who Shot J.R.?' resolution episode achieve on CBS on November 21, 1980?",
     "options": [
-      "76 share (53.3 Nielsen rating)",
-      "55 share (38.0 rating)",
-      "42 share (31.0 rating)",
-      "92 share (68.0 rating)"
+      "76 share",
+      "55 share",
+      "42 share",
+      "92 share"
     ],
     "answer": 0,
     "d": 3
@@ -6305,7 +6305,7 @@
     "options": [
       "Bobby was revealed to have been in a CIA coma under an alias",
       "A cloned synthetic replica had been killed",
-      "Pamela woke up and found Bobby showering, revealing the entire season was her dream",
+      "Pamela woke up",
       "Bobby had an evil identical twin who died instead"
     ],
     "answer": 2,
@@ -6401,7 +6401,7 @@
     "options": [
       "Y.O. Ranch in Mountain Home",
       "Waggoner Ranch in Vernon",
-      "Duncan Acres / Southfork Ranch in Parker, Texas",
+      "Duncan Acres",
       "King Ranch in Kingsville"
     ],
     "answer": 2,
@@ -6484,7 +6484,7 @@
     "q": "What trademark physical confrontation became a recurring signature between Krystle and Alexis on Dynasty?",
     "options": [
       "Western-style gun duels at high noon",
-      "Vicious slap-fights and brawls in water fountains and lily ponds",
+      "Vicious slap-fights",
       "Sword duels with antique rapiers",
       "Karate kickboxing matches"
     ],
@@ -6629,7 +6629,7 @@
     "options": [
       "Alexis and Krystle drove off a cliff into the ocean",
       "Southfork Manor was bombed by foreign mercenaries",
-      "The Moldavian Massacre (terrorists machine-gunned Amanda's royal wedding)",
+      "The Moldavian Massacre",
       "The Carrington mansion collapsed into an underground mine"
     ],
     "answer": 2,
@@ -6651,7 +6651,7 @@
     "show": "80s TV Shows",
     "q": "On 'Dynasty', which European royal and actress played Amanda Carrington during the Moldavian Massacre?",
     "options": [
-      "Catherine Oxenberg (daughter of Princess Elizabeth of Yugoslavia)",
+      "Catherine Oxenberg",
       "Maryam d'Abo",
       "Emma Samms",
       "Stephanie Beacham"
@@ -6664,7 +6664,7 @@
     "q": "On 'Dynasty', despite dozens of guests and main characters being gunned down, how many regular characters died in the Moldavian Massacre?",
     "options": [
       "Half of the main cast members were killed off",
-      "Only two minor characters (Luke Fuller and Lady Ashley Mitchell)",
+      "Only two minor characters",
       "Every main character except Blake survived",
       "None died; all bullets were tranquilizers"
     ],
@@ -6737,7 +6737,7 @@
     "options": [
       "Became the first show with 100 million weekly viewers",
       "Drew the highest rating for any sitcom finale",
-      "Hit Number 1 in all of U.S. prime-time television, dethroning Dallas",
+      "Hit Number 1 in all of U.S. prime-time television",
       "Swept all top 10 positions in sweeps month"
     ],
     "answer": 2,
@@ -6834,7 +6834,7 @@
       "Pacific Timber Mills",
       "Tuscany Cattle Ranch",
       "Napa Valley Citrus Orchards",
-      "Falcon Crest winery and vineyards"
+      "Falcon Crest winery"
     ],
     "answer": 3,
     "d": 1
@@ -6951,7 +6951,7 @@
     "show": "80s TV Shows",
     "q": "What night of the week and lead-in show gave Falcon Crest its massive ratings success for CBS?",
     "options": [
-      "Friday nights at 10:00 PM, airing immediately after Dallas",
+      "Friday nights at 10:00 PM",
       "Wednesday nights at 9:00 PM after Dynasty",
       "Thursday nights at 9:00 PM after Magnum, P.I.",
       "Sunday nights at 10:00 PM after Murder, She Wrote"
@@ -6966,7 +6966,7 @@
       "Beringer Vineyards",
       "Inglenook Estate",
       "Robert Mondavi Winery",
-      "Spring Mountain Vineyard in St. Helena, California"
+      "Spring Mountain Vineyard in St. Helena"
     ],
     "answer": 3,
     "d": 3
@@ -7062,7 +7062,7 @@
       "'May the wine never turn to vinegar'",
       "'To the land, which forgives all sins'",
       "'To the grapes of tomorrow'",
-      "A toast to Falcon Crest and family endurance: 'A toast to you, Falcon Crest, and may you live forever'"
+      "A toast to Falcon Crest"
     ],
     "answer": 3,
     "d": 3
@@ -7143,7 +7143,7 @@
     "show": "80s TV Shows",
     "q": "What network broadcast all nine seasons of Falcon Crest from 1981 to 1990?",
     "options": [
-      "National Broadcasting Company (NBC)",
+      "National Broadcasting Company",
       "ABC",
       "CBS",
       "Fox"
@@ -7241,7 +7241,7 @@
     "options": [
       "She was framed for corporate espionage",
       "She wanted to open a restaurant in Paris",
-      "Her accountant embezzled all her money, leaving the agency as a failed tax write-off",
+      "Her accountant embezzled all her money",
       "She received a multimillion-dollar modeling contract"
     ],
     "answer": 2,
@@ -7251,7 +7251,7 @@
     "show": "80s TV Shows",
     "q": "On 'Moonlighting', what rhyming telephone greeting did receptionist Agnes DiPesto always recite when answering calls?",
     "options": [
-      "Blue Moon Detective Agency, where the stars shine bright...",
+      "Blue Moon Detective Agency",
       "City of Angels, we watch your back...",
       "Who done it, we run it, Blue Moon's the one...",
       "Private eyes watching you, Blue Moon how do you do..."
@@ -7287,7 +7287,7 @@
     "show": "80s TV Shows",
     "q": "What classic Hollywood film style heavily influenced Moonlighting's rapid-fire, overlapping banter?",
     "options": [
-      "Screwball comedy (such as His Girl Friday)",
+      "Screwball comedy",
       "Film noir melodrama",
       "Method acting cinema verite",
       "Spaghetti western minimalism"
@@ -7386,7 +7386,7 @@
       "Bottle episode exhaustion",
       "Retconning",
       "Flanderization",
-      "Jumping the shark (losing unresolved sexual tension)"
+      "Jumping the shark"
     ],
     "answer": 3,
     "d": 2
@@ -7432,7 +7432,7 @@
     "q": "What notorious problem plagued the broadcast schedule of Moonlighting throughout its run?",
     "options": [
       "Censorship battles over language",
-      "Severe production delays causing frequent rerun broadcasts and pre-emptions",
+      "Severe production delays causing frequent rerun broadcasts",
       "Writer guild bans on the production",
       "Constant time-slot shifts by ABC to battle Dallas"
     ],
@@ -7443,7 +7443,7 @@
     "show": "80s TV Shows",
     "q": "On 'Moonlighting', what real-life behind-the-scenes relationship dynamic existed between Cybill Shepherd and Bruce Willis?",
     "options": [
-      "Intense personal friction, feuds, and screaming arguments on set",
+      "Intense personal friction",
       "They had been childhood friends in New Jersey",
       "They co-owned a restaurant chain together",
       "They were secretly engaged for two years"
@@ -7469,7 +7469,7 @@
     "options": [
       "Severe concussion in a motorcycle crash",
       "Torn ACL playing basketball",
-      "Broken clavicle (collarbone) from a skiing accident",
+      "Broken clavicle from a skiing accident",
       "Second-degree burns from a kitchen accident"
     ],
     "answer": 2,
@@ -7647,7 +7647,7 @@
     "show": "80s TV Shows",
     "q": "On which major television network did Moonlighting air throughout its 1985-1989 run?",
     "options": [
-      "National Broadcasting Company (NBC)",
+      "National Broadcasting Company",
       "Fox",
       "ABC",
       "CBS"
@@ -7757,7 +7757,7 @@
     "options": [
       "The Who",
       "The Rolling Stones",
-      "Elvis Costello / Nick Lowe (song allusion)",
+      "Elvis Costello",
       "The Beatles"
     ],
     "answer": 2,
@@ -7793,7 +7793,7 @@
     "options": [
       "Laurel and Hardy",
       "Burns and Allen",
-      "Spencer Tracy and Katharine Hepburn",
+      "Spencer Tracy",
       "The Marx Brothers"
     ],
     "answer": 2,
@@ -7842,7 +7842,7 @@
       "He was hired by Laura from an acting agency",
       "He was Laura's estranged ex-husband",
       "He won the identity in a poker game in Monaco",
-      "He stumbled across Laura's deception while working a heist and stepped into the role"
+      "He stumbled across Laura's deception while working a heist"
     ],
     "answer": 3,
     "d": 1
@@ -7851,7 +7851,7 @@
     "show": "80s TV Shows",
     "q": "What was Remington Steele's signature method for solving baffling criminal cases?",
     "options": [
-      "Drawing parallels to classic Hollywood movies and their plot twists",
+      "Drawing parallels to classic Hollywood movies",
       "Analyzing microscopic soil samples",
       "Consulting an astrological horoscope",
       "Using electronic wiretapping gadgets"
@@ -7902,7 +7902,7 @@
       "Customs inspector",
       "Bail bond agent",
       "Police homicide detective",
-      "IRS (Internal Revenue Service) field investigator"
+      "IRS field investigator"
     ],
     "answer": 3,
     "d": 2
@@ -7926,7 +7926,7 @@
       "He was fired for creative disputes",
       "He signed a contract with Dallas",
       "He broke his leg filming a stunt",
-      "Producers wanted to focus entirely on the romantic chemistry between Laura and Steele"
+      "Producers wanted to focus entirely on the romantic chemistry between Laura"
     ],
     "answer": 3,
     "d": 3
@@ -7983,7 +7983,7 @@
     "show": "80s TV Shows",
     "q": "On 'Remington Steele', why did Pierce Brosnan lose the role of James Bond in 1986 after it was announced in the press?",
     "options": [
-      "NBC reversed its cancellation of Remington Steele due to the publicity, enforcing his contract",
+      "NBC reversed its cancellation of Remington Steele due to the publicity",
       "He contracted mononucleosis during pre-production",
       "He demanded more money than producer Cubby Broccoli offered",
       "He failed a weapons training exam at Pinewood Studios"
@@ -8130,7 +8130,7 @@
       "The kitten was dressed in a tuxedo",
       "The kitten held a magnifying glass",
       "The kitten had a mustache like Tom Selleck",
-      "The MTM kitten wore a deerstalker detective hat like Sherlock Holmes"
+      "The MTM kitten wore a deerstalker detective hat"
     ],
     "answer": 3,
     "d": 2
@@ -8139,7 +8139,7 @@
     "show": "80s TV Shows",
     "q": "Which network broadcast Remington Steele from 1982 to 1987?",
     "options": [
-      "Fox Broadcasting Company (FOX)",
+      "Fox Broadcasting Company",
       "CBS",
       "ABC",
       "NBC"
@@ -8152,7 +8152,7 @@
     "q": "In what time slot did Remington Steele air during its peak ratings on Tuesday nights?",
     "options": [
       "11:30 PM Eastern",
-      "10:00 PM Eastern (following The A-Team and Riptide)",
+      "10:00 PM Eastern",
       "8:00 PM Eastern",
       "9:00 PM Eastern"
     ],
@@ -8224,7 +8224,7 @@
     "q": "What character did Geena Davis play in a season 3 episode of Remington Steele?",
     "options": [
       "A high school classmate of Laura",
-      "A private investigator named Newton Crosby",
+      "A private investigator",
       "Steele's former fiancée",
       "A museum jewel curator"
     ],
@@ -8250,7 +8250,7 @@
       "Pocket knives",
       "Tasers",
       "Brass knuckles",
-      "Handguns / firearms"
+      "Handguns"
     ],
     "answer": 3,
     "d": 2
@@ -8259,7 +8259,7 @@
     "show": "80s TV Shows",
     "q": "What was the primary filming studio lot for the interior offices of Remington Steele?",
     "options": [
-      "CBS Studio Center (Radford) in Studio City, California",
+      "CBS Studio Center in Studio City",
       "Burbank Warner Bros. Studios",
       "Paramount Studios",
       "Universal Studios Hollywood"
@@ -8284,7 +8284,7 @@
     "q": "What was Cybill Shepherd's character Maddie Hayes's lucrative career before discovering her embezzlement on Moonlighting?",
     "options": [
       "Wall Street stockbroker",
-      "High-fashion runway and print model",
+      "High-fashion runway",
       "Corporate attorney",
       "Opera soprano"
     ],
@@ -8367,8 +8367,8 @@
     "show": "80s TV Shows",
     "q": "What concealed handgun did Laura Holt typically carry in her purse or holster on Remington Steele?",
     "options": [
-      "A Colt .45 semi-automatic",
-      "A snub-nosed .38 Special revolver",
+      "A Colt.45 semi-automatic",
+      "A snub-nosed.38 Special revolver",
       "A Glock 17",
       "A Beretta 92FS"
     ],
@@ -8956,7 +8956,7 @@
     "q": "What was the name of the prestigious Century City law firm in L.A. Law?",
     "options": [
       "Hamlin, Hamlin & McGill",
-      "McKenzie, Brackman, Chaney and Kuzak",
+      "McKenzie, Brackman, Chaney",
       "Florrick & Agos",
       "Cage & Fish"
     ],
@@ -9101,7 +9101,7 @@
     "options": [
       "Her brakes were cut on Mulholland Drive",
       "She was crushed by a falling marble statue in the courthouse",
-      "She stepped into an open elevator shaft and plunged to her death",
+      "She stepped into an open elevator shaft",
       "She was poisoned by contaminated sushi during a merger"
     ],
     "answer": 2,
@@ -9111,7 +9111,7 @@
     "show": "80s TV Shows",
     "q": "How many times did L.A. Law win the Primetime Emmy Award for Outstanding Drama Series (1987, 1989, 1990, 1991)?",
     "options": [
-      "A total of 6 separate consecutive prime-time broadcast seasons",
+      "6 separate consecutive prime-time broadcast seasons",
       "2 times",
       "3 times",
       "4 times"
@@ -9160,7 +9160,7 @@
     "q": "What network broadcast L.A. Law on Thursday nights at 10:00 PM throughout its peak years?",
     "options": [
       "NBC",
-      "Fox Broadcasting Company (FOX)",
+      "Fox Broadcasting Company",
       "CBS",
       "ABC"
     ],
@@ -9233,7 +9233,7 @@
     "options": [
       "Gina Calabrese and Trudy Joplin",
       "Laura Holt and Mildred Krebs",
-      "Christine Cagney and Mary Beth Lacey",
+      "Christine Cagney",
       "Jane Tennison and Kate Longoria"
     ],
     "answer": 2,
@@ -9291,7 +9291,7 @@
     "show": "80s TV Shows",
     "q": "On 'Cagney & Lacey', why did CBS executives initially demand that Meg Foster be replaced as Christine Cagney after season 1?",
     "options": [
-      "They felt she came across as too aggressive and non-traditional for mainstream viewers",
+      "They felt she came across as too aggressive",
       "She demanded a higher salary than Tyne Daly",
       "She was arrested for protesting",
       "She suffered a vocal cord injury"
@@ -9315,7 +9315,7 @@
     "show": "80s TV Shows",
     "q": "How many times did Tyne Daly win the Primetime Emmy Award for Outstanding Lead Actress in a Drama for Cagney & Lacey?",
     "options": [
-      "A total of 3 separate consecutive prime-time broadcast seasons",
+      "3 separate consecutive prime-time broadcast seasons",
       "2 times",
       "4 times",
       "5 times"
@@ -9327,7 +9327,7 @@
     "show": "80s TV Shows",
     "q": "How many times did Sharon Gless win the Primetime Emmy Award for Outstanding Lead Actress in a Drama for Cagney & Lacey?",
     "options": [
-      "A total of 4 separate times",
+      "4 separate times",
       "3 times",
       "1 time",
       "2 times"
@@ -9340,7 +9340,7 @@
     "q": "In what Manhattan police precinct was Cagney & Lacey set?",
     "options": [
       "20th Precinct",
-      "14th Precinct (Midtown South)",
+      "14th Precinct",
       "9th Precinct",
       "5th Precinct"
     ],
@@ -9390,7 +9390,7 @@
       "Prescription opioid addiction",
       "Breast cancer",
       "Depression and bipolar disorder",
-      "Severe alcoholism and substance abuse"
+      "Severe alcoholism"
     ],
     "answer": 3,
     "d": 2
@@ -9423,7 +9423,7 @@
     "show": "80s TV Shows",
     "q": "What television network broadcast Cagney & Lacey throughout its 1982 to 1988 run?",
     "options": [
-      "Fox Broadcasting Company (FOX)",
+      "Fox Broadcasting Company",
       "CBS",
       "ABC",
       "NBC"
@@ -9436,7 +9436,7 @@
     "q": "How was Cagney & Lacey rescued from cancellation in 1983 after CBS initially dropped the series?",
     "options": [
       "An executive order from the FCC",
-      "A massive viewer letter-writing campaign spearheaded by feminist groups and fans",
+      "A massive viewer letter-writing campaign spearheaded by feminist groups",
       "A major endorsement by President Ronald Reagan",
       "A grant from the National Endowment for the Arts"
     ],
@@ -9522,7 +9522,7 @@
       "Lacey's Courage",
       "The Pink Ribbon",
       "A Matter of Life",
-      "Mary Beth's Dilemma / Breast Cancer diagnosis storyline"
+      "Mary Beth's Dilemma"
     ],
     "answer": 3,
     "d": 3
@@ -9533,7 +9533,7 @@
     "options": [
       "Earning a law degree to become District Attorney",
       "Transferring to the FBI Behavioral Analysis Unit",
-      "Becoming the youngest female lieutenant and precinct commander",
+      "Becoming the youngest female lieutenant",
       "Retiring early to write true-crime novels"
     ],
     "answer": 2,
@@ -9616,7 +9616,7 @@
     "q": "What brand of multi-tool pocketknife did MacGyver carry in almost every single episode?",
     "options": [
       "Leatherman Wave",
-      "Swiss Army Knife (Victorinox)",
+      "Swiss Army Knife",
       "Gerber Multi-Plier",
       "Buck Hunting Knife"
     ],
@@ -9762,7 +9762,7 @@
       "Tom Selleck",
       "Ron Howard",
       "Garry Marshall",
-      "Henry Winkler (The Fonz)"
+      "Henry Winkler"
     ],
     "answer": 3,
     "d": 2
@@ -9843,7 +9843,7 @@
     "show": "80s TV Shows",
     "q": "In the final season, what son did MacGyver discover he had fathered with his past love Ellen?",
     "options": [
-      "Sean Angus Malloy (S.A.M.)",
+      "Sean Angus Malloy",
       "Jack Dalton Jr.",
       "David Thornton",
       "Michael Jackson"
@@ -9867,7 +9867,7 @@
     "show": "80s TV Shows",
     "q": "What network broadcast MacGyver on Monday nights from 1985 to 1992?",
     "options": [
-      "Fox Broadcasting Company (FOX)",
+      "Fox Broadcasting Company",
       "CBS",
       "NBC",
       "ABC"
@@ -9881,7 +9881,7 @@
     "options": [
       "To Zlotoff",
       "To Phoenix",
-      "To MacGyver (to make or repair in an improvised or inventive way)",
+      "To MacGyver",
       "To Swiss-army"
     ],
     "answer": 2,
@@ -9975,7 +9975,7 @@
     "show": "80s TV Shows",
     "q": "What iconic 1970s sitcom had Tom Bosley starred on before joining Murder, She Wrote?",
     "options": [
-      "Happy Days (as Howard Cunningham)",
+      "Happy Days",
       "Sanford and Son",
       "All in the Family",
       "The Brady Bunch"
@@ -10047,7 +10047,7 @@
     "show": "80s TV Shows",
     "q": "On which television network did Murder, She Wrote anchor Sunday nights at 8:00 PM for over a decade?",
     "options": [
-      "Fox Broadcasting Company (FOX)",
+      "Fox Broadcasting Company",
       "CBS",
       "NBC",
       "ABC"
@@ -10062,7 +10062,7 @@
       "Donald P. Bellisario and Glen A. Larson",
       "Stephen J. Cannell and Frank Lupo",
       "Steven Bochco and Terry Louise Fisher",
-      "Richard Levinson, William Link, and Peter S. Fischer"
+      "Richard Levinson"
     ],
     "answer": 3,
     "d": 2
@@ -10194,7 +10194,7 @@
       "Its population never changed across 12 seasons",
       "Every resident was related to Frank Fletcher",
       "More people drowned than died of natural causes",
-      "It had the highest per-capita murder rate in the world (higher than any real city)"
+      "It had the highest per-capita murder rate in the world"
     ],
     "answer": 3,
     "d": 3
@@ -10215,7 +10215,7 @@
     "show": "80s TV Shows",
     "q": "What was the specialized premise of the police squad in 21 Jump Street?",
     "options": [
-      "Young-looking police officers going undercover in high schools and colleges",
+      "Young-looking police officers going undercover in high schools",
       "Undercover agents posing as rock musicians",
       "Border patrol agents investigating smuggling",
       "Detectives investigating white-collar Wall Street crimes"
@@ -10350,7 +10350,7 @@
       "He had a severe contract dispute over syndication residuals",
       "He was fired after clashing with Fox executives",
       "He refused to film in Canada due to winter weather",
-      "He resented being marketed as a teen-idol pinup and wanted serious film roles"
+      "He resented being marketed as a teen-idol pinup"
     ],
     "answer": 3,
     "d": 3
@@ -10710,7 +10710,7 @@
       "He was elected mayor of their suburban town",
       "He retired to Florida to fish",
       "He founded his own defense contracting firm",
-      "He passed away two years after Kevin graduated high school"
+      "He passed away two years"
     ],
     "answer": 3,
     "d": 2
@@ -10722,7 +10722,7 @@
       "They became business partners in California",
       "They married in a lavish church ceremony in 1982",
       "They lost touch completely after high school",
-      "They stayed lifelong pen pals and friends, each marrying other people"
+      "They stayed lifelong pen pals"
     ],
     "answer": 3,
     "d": 2
@@ -10901,7 +10901,7 @@
     "options": [
       "He smashed his dressing room mirror with a baseball bat",
       "He set the ALF puppet on fire in the studio parking lot",
-      "He silently walked off the set, got in his car, and drove away without saying goodbye to anyone",
+      "He silently walked off the set",
       "He immediately shaved his head and moved to Europe"
     ],
     "answer": 2,
@@ -10924,7 +10924,7 @@
     "q": "What grim cliffhanger concluded the final televised episode of ALF ('Consider Me Gone') in 1990?",
     "options": [
       "The Tanner family home was destroyed in a gas leak",
-      "ALF was captured and surrounded by armed soldiers of the Alien Task Force",
+      "ALF was captured",
       "ALF's rescue spaceship exploded in the upper atmosphere",
       "Willie Tanner was arrested for harboring an illegal alien"
     ],
@@ -10935,7 +10935,7 @@
     "show": "80s TV Shows",
     "q": "What was the name of the snooping, obnoxious next-door neighbors on ALF?",
     "options": [
-      "The Ochmoneks (Trevor and Raquel)",
+      "The Ochmoneks",
       "The Kravitzes",
       "The Koosmans",
       "The Steves"
@@ -10971,7 +10971,7 @@
     "show": "80s TV Shows",
     "q": "What network broadcast ALF on Monday nights from 1986 to 1990?",
     "options": [
-      "CBS Television Network (CBS)",
+      "CBS Television Network",
       "ABC",
       "NBC",
       "Fox"
@@ -11069,7 +11069,7 @@
     "options": [
       "Here's Larry and the boys from the woods",
       "Good day from the mountain brothers",
-      "Hi, I'm Larry, this is my brother Darryl, and this is my other brother Darryl",
+      "Hi, I'm Larry, this is my brother Darryl,",
       "We're the Darryls and this is Larry"
     ],
     "answer": 2,
@@ -11116,7 +11116,7 @@
     "q": "Which classic actress made a surprise appearance in bed beside Bob Newhart in the final scene of Newhart?",
     "options": [
       "Mary Tyler Moore",
-      "Suzanne Pleshette (as Emily Hartley)",
+      "Suzanne Pleshette",
       "Julia Duffy",
       "Mary Frann"
     ],
@@ -11261,7 +11261,7 @@
     "options": [
       "Caitlin and Trudy",
       "Stephanie and Leslie",
-      "Jennifer Lyons and Mary Anne Spencer",
+      "Jennifer Lyons",
       "Becky and Dana"
     ],
     "answer": 2,
@@ -11283,7 +11283,7 @@
     "show": "80s TV Shows",
     "q": "What beloved ABC Friday night programming block was anchored by Perfect Strangers and Full House?",
     "options": [
-      "TGIF (Thank Goodness It's Friday)",
+      "TGIF",
       "Comedy Night Done Right",
       "Must See TV",
       "Friday Night Sins"
@@ -11320,7 +11320,7 @@
     "q": "On 'Perfect Strangers', what was the name of the traditional Myposian holiday game played with stuffed sheep organs?",
     "options": [
       "Tug-of-war",
-      "Bibibabkas / Pig-in-a-Poke traditions",
+      "Bibibabkas",
       "Bocce ball",
       "Fleece toss"
     ],
@@ -11439,8 +11439,8 @@
     "show": "80s TV Shows",
     "q": "On 'Married... with Children', what anti-feminist men's club did Al Bundy found with his neighborhood buddies?",
     "options": [
-      "NO MA'AM (National Organization of Men Against Amazonian Masterhood)",
-      "THE BOYS (Brothers Over Yielding Spouses)",
+      "NO MA'AM",
+      "THE BOYS",
       "MEN ONLY",
       "POLK ALUMNI"
     ],
@@ -11475,7 +11475,7 @@
     "show": "80s TV Shows",
     "q": "What network broadcast Married... with Children as its defining prime-time subversive hit starting in 1987?",
     "options": [
-      "American Broadcasting Company (ABC)",
+      "American Broadcasting Company",
       "CBS",
       "Fox",
       "NBC"
@@ -11502,7 +11502,7 @@
       "1975 AMC Gremlin",
       "1976 Chevrolet Vega",
       "1972 Ford Pinto",
-      "1974 Dodge Dart (frequently called the 'Dodge')"
+      "1974 Dodge Dart"
     ],
     "answer": 3,
     "d": 2
@@ -11562,7 +11562,7 @@
       "Cut... it... out!",
       "Have mercy!",
       "How rude!",
-      "You got it, dude! (thumbs up)"
+      "You got it, dude!"
     ],
     "answer": 0,
     "d": 3
@@ -11583,7 +11583,7 @@
     "show": "80s TV Shows",
     "q": "On 'Full House', what was toddler Michelle Tanner's signature thumbs-up catchphrase?",
     "options": [
-      "No way, Jose! (and don't you ever dare ask again!)",
+      "No way, Jose!",
       "You got it, dude!",
       "How rude!",
       "Have mercy!"
@@ -11691,10 +11691,10 @@
     "show": "80s TV Shows",
     "q": "What was the name of the gifted student program at Millard Fillmore High School in Head of the Class?",
     "options": [
-      "IHP (Individualized Honors Program)",
+      "IHP",
       "The Fillmore Elite",
       "AP Scholars",
-      "GATE (Gifted and Talented Education)"
+      "GATE"
     ],
     "answer": 0,
     "d": 2
@@ -11754,7 +11754,7 @@
       "Roger Taylor",
       "Neil Peart",
       "Phil Collins",
-      "Stewart Copeland (of The Police)"
+      "Stewart Copeland"
     ],
     "answer": 3,
     "d": 3
@@ -11814,7 +11814,7 @@
       "Heroes never give up!",
       "Stay safe, stay American!",
       "Always do what's right!",
-      "Now you know, and knowing is half the battle!"
+      "Now you know"
     ],
     "answer": 3,
     "d": 3
@@ -11874,7 +11874,7 @@
       "The Moldavian Massacre on Dynasty",
       "The 'Who Shot J.R.?' resolution on Dallas",
       "The series finale of Cheers",
-      "The series finale of M*A*S*H ('Goodbye, Farewell and Amen' in February 1983)"
+      "The series finale of M*A*S*H"
     ],
     "answer": 3,
     "d": 2

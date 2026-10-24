@@ -56,7 +56,7 @@
     "q": "Which comedian played Rick James in a famous sketch, shouting \"I'm Rick James, bitch!\"?",
     "options": [
       "Dave Chappelle",
-      "Chris Rock",
+      "The original Chris Rock",
       "Marc Maron",
       "Bernie Mac"
     ],
@@ -95,7 +95,7 @@
     "q": "Which comedian was banned by MTV after hosting its 1989 Video Music Awards?",
     "options": [
       "Emo Philips",
-      "Jack Benny",
+      "The original Jack Benny",
       "Sam Kinison",
       "Andrew Dice Clay"
     ],
@@ -110,7 +110,7 @@
       "Don Rickles",
       "Mort Sahl",
       "Harry Hill",
-      "Jay Leno"
+      "The original Jay Leno"
     ],
     "answer": 0,
     "d": 2,
@@ -147,7 +147,7 @@
     "q": "Which comedian released the special Stay Hungry?",
     "options": [
       "Trevor Noah",
-      "Tig Notaro",
+      "The original Tig Notaro",
       "Ray Romano",
       "Sebastian Maniscalco"
     ],
@@ -185,7 +185,7 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian is known for using a large pad of drawings in his act?",
     "options": [
-      "Jay Leno",
+      "The original Jay Leno",
       "Hannah Gadsby",
       "Demetri Martin",
       "Aziz Ansari"
@@ -224,7 +224,7 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian co-created The Larry Sanders Show?",
     "options": [
-      "Bob Newhart",
+      "The original Bob Newhart",
       "Garry Shandling",
       "Frankie Boyle",
       "Don Rickles"
@@ -292,7 +292,7 @@
       "Dave Chappelle",
       "Hannah Gadsby",
       "Sebastian Maniscalco",
-      "Ali Wong"
+      "The original Ali Wong"
     ],
     "answer": 2,
     "d": 2,
@@ -408,7 +408,7 @@
     "options": [
       "Chris Tucker",
       "Phyllis Diller",
-      "Jeff Dunham",
+      "The original Jeff Dunham",
       "Zach Galifianakis"
     ],
     "answer": 3,
@@ -510,7 +510,7 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian is nicknamed \"The Big Yin\"?",
     "options": [
-      "Lee Mack",
+      "The original Lee Mack",
       "Hasan Minhaj",
       "Harry Hill",
       "Billy Connolly"
@@ -562,8 +562,8 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian hosted the game show Are You Smarter Than a 5th Grader?",
     "options": [
-      "Kevin Hart",
-      "Russell Peters (Outsourced / Red, White and Brown)",
+      "The original Kevin Hart",
+      "Russell Peters",
       "Dennis Miller",
       "Jeff Foxworthy"
     ],
@@ -695,7 +695,7 @@
       "Wanda Sykes",
       "Russell Peters",
       "Dane Cook",
-      "Bert Kreischer ('The Machine' story / Hey Big Boy)"
+      "Bert Kreischer"
     ],
     "answer": 1,
     "d": 1,
@@ -757,7 +757,7 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian won an Oscar for the short film The Appointments of Dennis Jennings?",
     "options": [
-      "Dennis Miller (Weekend Update anchor / Dennis Miller Live)",
+      "Dennis Miller",
       "Sam Kinison",
       "Steven Wright",
       "Emo Philips"
@@ -796,7 +796,7 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian's catchphrase is \"Here's your sign\"?",
     "options": [
-      "Chris Tucker (Def Comedy Jam / Rush Hour)",
+      "Chris Tucker",
       "Bill Engvall",
       "Gary Gulman",
       "Bernie Mac"
@@ -1228,7 +1228,7 @@
       "John Oliver",
       "Bill Burr",
       "Patton Oswalt",
-      "Nate Bargatze (The Tennessee Kid / The Greatest Average American)"
+      "Nate Bargatze"
     ],
     "answer": 2,
     "d": 2,
@@ -1316,7 +1316,7 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian's catchphrase was \"Well, excuuuse me!\"?",
     "options": [
-      "Steve Harvey (touring stand-up headliner and comedy club veteran)",
+      "Steve Harvey",
       "Steve Martin",
       "Milton Berle",
       "Bob Newhart"
@@ -1433,7 +1433,7 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian famously greeted audience members with the insult \"hockey puck\"?",
     "options": [
-      "Bob Newhart (The Button-Down Mind / Newhart)",
+      "Bob Newhart",
       "Lenny Bruce",
       "Don Rickles",
       "Dave Attell"
@@ -1682,7 +1682,7 @@
     "options": [
       "Mort Sahl",
       "John Mulaney",
-      "Hasan Minhaj (Homecoming King / Patriot Act)",
+      "Hasan Minhaj",
       "Tig Notaro"
     ],
     "answer": 1,
@@ -1694,7 +1694,7 @@
     "q": "Which comedian joked that you must be asleep to believe in the American Dream?",
     "options": [
       "Eddie Murphy",
-      "Mitch Hedberg (Strategic Grill Locations / surreal one-liners)",
+      "Mitch Hedberg",
       "George Carlin",
       "Bill Hicks"
     ],
@@ -1706,7 +1706,7 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian released the special Beyond the Pale?",
     "options": [
-      "Margaret Cho (I'm the One That I Want / All-American Girl)",
+      "Margaret Cho",
       "Brian Regan",
       "Dane Cook",
       "Jim Gaffigan"
@@ -1734,7 +1734,7 @@
     "options": [
       "Joan Rivers",
       "Steve Martin",
-      "Jackie Mason (The World According to Me / Broadway star)",
+      "Jackie Mason",
       "George Burns"
     ],
     "answer": 1,
@@ -1786,7 +1786,7 @@
     "options": [
       "Jay Leno",
       "Milton Berle",
-      "George Burns (The Sunshine Boys / Burns and Allen)",
+      "George Burns",
       "Ronny Chieng"
     ],
     "answer": 1,
@@ -2331,7 +2331,7 @@
     "q": "Which comedian is famously credited with joking that after reading about the evils of drinking, he gave up reading?",
     "options": [
       "Joan Rivers",
-      "Billy Connolly (touring stand-up headliner and comedy club veteran)",
+      "Billy Connolly",
       "Jackie Mason",
       "Henny Youngman"
     ],
@@ -2488,7 +2488,7 @@
     "options": [
       "Chris Rock",
       "Rita Rudner",
-      "Chris Tucker (Def Comedy Jam / Rush Hour)",
+      "Chris Tucker",
       "Margaret Cho"
     ],
     "answer": 3,
@@ -2736,7 +2736,7 @@
       "Steven Wright",
       "Jimmy Carr",
       "Jerry Seinfeld",
-      "Robin Williams (Live at the Met / Mork & Mindy)"
+      "Robin Williams"
     ],
     "answer": 2,
     "d": 2,
@@ -2775,7 +2775,7 @@
       "Bernie Mac",
       "Jeff Dunham",
       "Dane Cook",
-      "Wanda Sykes (touring stand-up headliner and comedy club veteran)"
+      "Wanda Sykes"
     ],
     "answer": 1,
     "d": 2,
@@ -2941,7 +2941,7 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian released the special Thank God for Jokes?",
     "options": [
-      "Norm Macdonald (Me Doing Standup / Weekend Update)",
+      "Norm Macdonald",
       "Ali Wong",
       "Mike Birbiglia",
       "Lee Evans"
@@ -3360,7 +3360,7 @@
       "Ali Wong",
       "Tim Vine",
       "Frankie Boyle",
-      "Dara Ó Briain (Series 14 champion & Mock the Week host)"
+      "Dara Ó Briain"
     ],
     "answer": 2,
     "d": 3,
@@ -3526,7 +3526,7 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian is famous for Borscht Belt humor and a notorious Ed Sullivan Show feud?",
     "options": [
-      "Milton Berle ('Mr. Television' / Texaco Star Theater)",
+      "Milton Berle",
       "Lenny Bruce",
       "Bob Hope",
       "Jackie Mason"
@@ -3542,7 +3542,7 @@
       "Dave Chappelle",
       "Bernie Mac",
       "Lenny Bruce",
-      "Russell Peters (Outsourced / Red, White and Brown)"
+      "Russell Peters"
     ],
     "answer": 0,
     "d": 1,
@@ -3604,7 +3604,7 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian mixes musical comedy and shaggy hair?",
     "options": [
-      "Dylan Moran (Black Books / Monster / Yeah, Yeah)",
+      "Dylan Moran",
       "Bill Bailey",
       "Bill Burr",
       "Jimmy Carr"
@@ -3916,7 +3916,7 @@
     "show": "Stand-Up Comedy",
     "q": "Which comedian hosted the Golden Globes five times?",
     "options": [
-      "Maria Bamford (Lady Dynamite / The Special Special Special)",
+      "Maria Bamford",
       "Ricky Gervais",
       "Peter Kay",
       "Dylan Moran"

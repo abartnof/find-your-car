@@ -95,7 +95,7 @@
     "q": "Which famous best friend of Nicole (and co-host of \"Best Friends\") has appeared multiple times across the run of the show?",
     "options": [
       "Sasheer Zamata",
-      "D'Arcy Carden (The Good Place star & frequent guest)",
+      "D'Arcy Carden",
       "Lauren Lapkus",
       "Ego Nwodim"
     ],
@@ -135,7 +135,7 @@
     "options": [
       "Nicole sings an improvised gospel hymn",
       "A scripted cold open sketch",
-      "Nicole delivering an energetic monologue ending with the premise and welcoming the guest",
+      "Nicole delivering an energetic monologue ending with the premise",
       "A clip from the middle of the episode"
     ],
     "answer": 2,
@@ -147,8 +147,8 @@
     "q": "In the show's intro monologue, how does Nicole famously summarize her relationship status?",
     "options": [
       "\"Widowed and looking\"",
-      "\"Perpetually single, lonely, and horny\"",
-      "\"Married to the hustle (and don't you ever forget it!)\"",
+      "\"Perpetually single\"",
+      "\"Married to the hustle\"",
       "\"Happily divorced\""
     ],
     "answer": 1,
@@ -238,9 +238,9 @@
     "q": "When Nicole's guest is in a committed relationship, what does she routinely investigate first?",
     "options": [
       "Their prenuptial agreement",
-      "The exact origin story of how they met and started dating",
+      "The exact origin story of how they met",
       "Their credit scores",
-      "How their parents reacted to the news (in its classic original format)"
+      "How their parents reacted to the news"
     ],
     "answer": 1,
     "d": 1,
@@ -276,8 +276,8 @@
     "show": "Why Won't You Date Me?",
     "q": "What improv training institution in New York and LA is constantly cited by Nicole and many of her guests?",
     "options": [
-      "The widely discussed and memorable Groundlings",
-      "Upright Citizens Brigade (UCB)",
+      "The Groundlings",
+      "Upright Citizens Brigade",
       "The Second City",
       "iO West"
     ],
@@ -305,7 +305,7 @@
       "Arbor Day",
       "Valentine's Day",
       "Labor Day",
-      "Groundhog Day (hilarious touring guest comedian, actor, and close personal friend)"
+      "Groundhog Day"
     ],
     "answer": 1,
     "d": 1,
@@ -355,9 +355,9 @@
     "q": "Which of Nicole's body features is celebrated in her comedy, pole routines, and self-love advice on the podcast?",
     "options": [
       "Her height",
-      "Her vibrant wigs, bold makeup, and fat, fabulous body",
+      "Her vibrant wigs",
       "Her collection of temporary tattoos",
-      "Her high heel collection exclusively (in its classic original format)"
+      "Her high heel collection exclusively"
     ],
     "answer": 1,
     "d": 1,
@@ -368,8 +368,8 @@
     "q": "Nicole has repeatedly stated on the podcast that one of her non-negotiables in a partner is:",
     "options": [
       "Must own a yacht",
-      "Basic cleanliness, hygiene, and being funny",
-      "Having a Ph.D. in STEM (in its classic original format)",
+      "Basic cleanliness",
+      "Having a Ph.D. in STEM",
       "Vegetarianism"
     ],
     "answer": 1,
@@ -393,8 +393,8 @@
     "show": "Why Won't You Date Me?",
     "q": "How does Nicole typically treat guests who are openly gay or lesbian when asking \"Would you date me?\"",
     "options": [
-      "She refuses to ask them the signature question (in its classic original format)",
-      "She asks anyway for hypothetical or aesthetic consideration",
+      "She refuses to ask them the signature question",
+      "She asks anyway for hypothetical",
       "She asks them to set her up with their exes",
       "She lectures them on sexual orientation"
     ],
@@ -471,8 +471,8 @@
     "show": "Why Won't You Date Me?",
     "q": "What dating app concept did Nicole repeatedly propose creating herself?",
     "options": [
-      "An widely discussed and memorable app where matches can only communicate through audio notes",
-      "An app where friends write all the profile prompts and take all the photos",
+      "An app where matches can only communicate through audio notes",
+      "An app where friends write all the profile prompts",
       "An app that immediately matches based on dietary restrictions",
       "An app with no photos allowed whatsoever"
     ],
@@ -486,7 +486,7 @@
     "options": [
       "New Jersey",
       "Ohio",
-      "Washington (in its classic original format)",
+      "Washington",
       "Florida"
     ],
     "answer": 0,
@@ -511,7 +511,7 @@
     "q": "What was the central premise behind launching \"Why Won't You Date Me?\" in late 2017?",
     "options": [
       "To find a spouse before turning 35",
-      "To figure out why Nicole had been continuously single for decades despite being outgoing, funny, and successful",
+      "To figure out why Nicole had been continuously single for decades despite being outgoing",
       "To prepare for a reality television dating series",
       "To promote her book on celibacy"
     ],
@@ -524,7 +524,7 @@
     "q": "In the very first episode of the podcast, which close comedian friend was the premiere guest?",
     "options": [
       "Sasheer Zamata",
-      "Matteo Lane (hilarious touring guest comedian, actor, and close personal friend)",
+      "Matteo Lane",
       "Will Hines",
       "Gil Ozeri"
     ],
@@ -538,7 +538,7 @@
     "options": [
       "His open marriage",
       "Meeting and building a life with his wife June Diane Raphael",
-      "Dating via Craigslist in the 1990s (in its classic original format)",
+      "Dating via Craigslist in the 1990s",
       "Being single in Hollywood"
     ],
     "answer": 1,
@@ -552,7 +552,7 @@
       "Lauren Lapkus",
       "Amy Poehler",
       "Tina Fey",
-      "Kristen Wiig (The Target Lady / Gilly / Penelope)"
+      "Kristen Wiig"
     ],
     "answer": 0,
     "d": 1,
@@ -562,7 +562,7 @@
     "show": "Why Won't You Date Me?",
     "q": "When drag superstar Trixie Mattel appeared, what major dating topic dominated their conversation?",
     "options": [
-      "Navigating long-term partnership in the public eye and gay bar hookup culture",
+      "Navigating long-term partnership in the public eye",
       "Retiring from dating altogether",
       "Speed dating in Milwaukee",
       "The benefits of arranged marriages"
@@ -577,7 +577,7 @@
     "options": [
       "Duff Goldman",
       "Jacques Torres",
-      "Paul Hollywood (hilarious touring guest comedian, actor, and close personal friend)",
+      "Paul Hollywood",
       "Gordon Ramsay"
     ],
     "answer": 1,
@@ -601,10 +601,10 @@
     "show": "Why Won't You Date Me?",
     "q": "When Bowen Yang was a guest, what topic related to modern dating culture did they explore?",
     "options": [
-      "Navigating queer dating apps, fame after SNL, and emotional availability",
+      "Navigating queer dating apps",
       "Farming communities",
       "Blind dating agencies in New York",
-      "The widely discussed and memorable history of speed dating in the 19th century"
+      "The history of speed dating in the 19th century"
     ],
     "answer": 0,
     "d": 1,
@@ -628,7 +628,7 @@
     "q": "In Conan O'Brien's guest appearance on the podcast, what did Conan primarily joke about regarding Nicole's love life?",
     "options": [
       "That she needs to move to an isolated island",
-      "That her standards are shockingly normal, but men are intimidated and terrified by her raw energy",
+      "That her standards are shockingly normal",
       "That she should date a historical reenactor",
       "That she should only date billionaires"
     ],
@@ -653,7 +653,7 @@
     "show": "Why Won't You Date Me?",
     "q": "When Jameela Jamil appeared on the show, what mutual perspective did she and Nicole bond over?",
     "options": [
-      "Chronic illness, body neutrality, rejection of diet culture, and awkward relationship beginnings",
+      "Chronic illness",
       "High fashion modeling shoots in Milan",
       "Running marathons",
       "Investing in cryptocurrency"
@@ -666,7 +666,7 @@
     "show": "Why Won't You Date Me?",
     "q": "In an episode featuring Rachel Bloom, what did the \"Crazy Ex-Girlfriend\" star discuss regarding relationships?",
     "options": [
-      "Musical theater meet-cutes, mental health, and navigating early dating insecurity",
+      "Musical theater meet-cutes",
       "Writing legal briefs for dates",
       "Surviving summer camp breakups",
       "Competitive ballroom dancing"
@@ -679,10 +679,10 @@
     "show": "Why Won't You Date Me?",
     "q": "When D'Arcy Carden appeared on the show, what shared history did she and Nicole highlight?",
     "options": [
-      "Working together as babysitters and struggling UCB performers in NYC",
+      "Working together as babysitters",
       "Auditioning for professional sports teams",
       "Going to culinary school together",
-      "Growing up on the same street in New Jersey (in its classic original format)"
+      "Growing up on the same street in New Jersey"
     ],
     "answer": 0,
     "d": 1,
@@ -718,7 +718,7 @@
     "show": "Why Won't You Date Me?",
     "q": "When drag queen Bob the Drag Queen appeared on the podcast, what topic did they dive into?",
     "options": [
-      "Polyamory, open dating, and navigating romance while traveling constantly on tour",
+      "Polyamory, open dating,",
       "Starting an exclusive matchmaking firm",
       "Monastic living",
       "Avoiding social media entirely"
@@ -732,7 +732,7 @@
     "q": "Which guest talked about their relationship dynamic while being married to another famous comedian, Kumail Nanjiani?",
     "options": [
       "Emily V. Gordon",
-      "Chelsea Peretti (hilarious touring guest comedian, actor, and close personal friend)",
+      "Chelsea Peretti",
       "Natasha Leggero",
       "Ali Wong"
     ],
@@ -744,9 +744,9 @@
     "show": "Why Won't You Date Me?",
     "q": "In episodes featuring dynamic duo guest appearances, which comedy pair joined Nicole for double the dating analysis?",
     "options": [
-      "The widely discussed and memorable Sklar Brothers",
+      "The Sklar Brothers",
       "Desus & Mero",
-      "Pen15 creators Maya Erskine and Anna Konkle",
+      "Pen15 creators Maya Erskine",
       "Key & Peele"
     ],
     "answer": 2,
@@ -757,7 +757,7 @@
     "show": "Why Won't You Date Me?",
     "q": "When writer and comedian Guy Branum was on the show, what historical and cultural dating element did he bring to the conversation?",
     "options": [
-      "Mid-century gay legal history and the absurdity of Hollywood body standards",
+      "Mid-century gay legal history",
       "1920s flapper etiquette",
       "Medieval matchmaking rituals",
       "Modern Silicon Valley app algorithms"
@@ -773,7 +773,7 @@
       "Paul F. Tompkins",
       "Scott Aukerman",
       "Andy Daly",
-      "Jason Mantzoukas (How Did This Get Made? co-host & actor)"
+      "Jason Mantzoukas"
     ],
     "answer": 0,
     "d": 1,
@@ -783,8 +783,8 @@
     "show": "Why Won't You Date Me?",
     "q": "When Nicole had Matteo Lane on the podcast, what artistic and personal talents did they discuss alongside dating?",
     "options": [
-      "Oil painting, opera singing, and Italian family expectations",
-      "Tap dancing and competitive baking (in its classic original format)",
+      "Oil painting",
+      "Tap dancing and competitive baking",
       "Ice skating and dog grooming",
       "Woodworking and rally car racing"
     ],
@@ -796,9 +796,9 @@
     "show": "Why Won't You Date Me?",
     "q": "What hilarious dating revelation did guest Brandon Kyle Goodman discuss with Nicole?",
     "options": [
-      "The complexities of non-monogamy and radical honesty in queer relationships",
+      "The complexities of non-monogamy",
       "Never having kissed anyone",
-      "Getting married in a drive-thru after three days (in its classic original format)",
+      "Getting married in a drive-thru after three days",
       "Only dating astronauts"
     ],
     "answer": 0,
@@ -809,7 +809,7 @@
     "show": "Why Won't You Date Me?",
     "q": "Which guest famously analyzed Nicole's birth chart to explain her romantic patterns?",
     "options": [
-      "Chani Nicholas (hilarious touring guest comedian, actor, and close personal friend)",
+      "Chani Nicholas",
       "Aliza Kelly",
       "Susan Miller",
       "Jessica Lanyadoo"
@@ -822,7 +822,7 @@
     "show": "Why Won't You Date Me?",
     "q": "When comedian guest Sam Jay appeared, what was the primary tone of the dating conversation?",
     "options": [
-      "Unfiltered, hilarious realism about masculine/feminine dynamics and long-term communication",
+      "Unfiltered, hilarious realism about masculine/feminine dynamics",
       "Academic thesis analysis of dating sociology",
       "Quiet, whispering reflections",
       "Reciting romantic Victorian poetry"
@@ -835,7 +835,7 @@
     "show": "Why Won't You Date Me?",
     "q": "Which former \"Saturday Night Live\" cast member appeared on the show to discuss dating while navigating the high-stress environment of Studio 8H?",
     "options": [
-      "Cecily Strong (hilarious touring guest comedian, actor, and close personal friend)",
+      "Cecily Strong",
       "Sasheer Zamata",
       "Vanessa Bayer",
       "Leslie Jones"
@@ -864,7 +864,7 @@
       "Meeting her wife Jacquelyn at a Pride event in Chicago",
       "Running away to join a circus troupe",
       "Dating a rock star for one weekend",
-      "Going on forty blind dates in one week (in its classic original format)"
+      "Going on forty blind dates in one week"
     ],
     "answer": 0,
     "d": 1,
@@ -887,9 +887,9 @@
     "show": "Why Won't You Date Me?",
     "q": "In her episode with Ziwe, what dynamic did the two comedians explore?",
     "options": [
-      "Iconic self-confidence, putting men on the spot, and dating expectations",
+      "Iconic self-confidence",
       "How to write academic essays on romance",
-      "The widely discussed and memorable benefits of staying home every Friday night",
+      "The benefits of staying home every Friday night",
       "How to meet suitors at church"
     ],
     "answer": 0,
@@ -915,7 +915,7 @@
     "options": [
       "Peppermint",
       "Patti Harrison",
-      "Angelica Ross (hilarious touring guest comedian, actor, and close personal friend)",
+      "Angelica Ross",
       "TS Madison"
     ],
     "answer": 1,
@@ -939,7 +939,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What unique challenge did guest Margaret Cho share regarding her dating history?",
     "options": [
-      "Navigating bisexuality, open marriages, and taboo dating experiences over decades in entertainment",
+      "Navigating bisexuality",
       "Having never met anyone outside of stand-up clubs",
       "Being banned from every major restaurant in San Francisco",
       "Only dating people she met on television sets"
@@ -952,7 +952,7 @@
     "show": "Why Won't You Date Me?",
     "q": "When Ilana Glazer appeared on the podcast, what life transition did she reflect on?",
     "options": [
-      "Transitioning from the wild party dating days of \"Broad City\" to settled partnership and motherhood",
+      "Transitioning from the wild party dating days of \"Broad City\" to settled partnership",
       "Becoming an international spy",
       "Moving to an off-grid farm in Alaska",
       "Quitting comedy to open a bakery"
@@ -978,10 +978,10 @@
     "show": "Why Won't You Date Me?",
     "q": "In an episode featuring guest Laci Mosley (host of \"Scam Goddess\"), what topic naturally took center stage?",
     "options": [
-      "Romance scammers, catfishers, and men who lie about their finances on dates",
+      "Romance scammers",
       "How to invest in government bonds",
       "The etiquette of high-society cotillions",
-      "Backpacking through Europe on a shoestring budget (in its classic original format)"
+      "Backpacking through Europe on a shoestring budget"
     ],
     "answer": 0,
     "d": 1,
@@ -991,9 +991,9 @@
     "show": "Why Won't You Date Me?",
     "q": "When Benito Skinner (Benny Drama) came on the podcast, what internet phenomenon did they break down?",
     "options": [
-      "Flirting via Instagram stories, memes, and astrological stereotyping",
+      "Flirting via Instagram stories",
       "The demise of MySpace",
-      "The widely discussed and memorable financial mechanics of TikTok influencer houses",
+      "The financial mechanics of TikTok influencer houses",
       "Coding your own dating application"
     ],
     "answer": 0,
@@ -1017,7 +1017,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What was guest Michelle Buteau’s primary recurring advice to Nicole throughout her appearances?",
     "options": [
-      "That Nicole is a total catch and men are simply intimidated by greatness, urging her to keep her head high",
+      "That Nicole is a total catch",
       "That Nicole needs to change her entire wardrobe",
       "That Nicole should give up on comedy to find love",
       "That Nicole should only date European royalty"
@@ -1030,7 +1030,7 @@
     "show": "Why Won't You Date Me?",
     "q": "In an episode with Roy Wood Jr., what did they discuss regarding male vs. female communication in dating?",
     "options": [
-      "How men often fail to communicate basic emotional needs and misinterpret straightforward signals",
+      "How men often fail to communicate basic emotional needs",
       "Why texting is superior to talking",
       "How sports statistics predict marital success",
       "Why people should never date colleagues"
@@ -1043,7 +1043,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What notorious dating experience did Nicole recount involving a man who came over to her apartment and clogged her toilet?",
     "options": [
-      "He used a whole roll of paper towels and blamed her plumbing (in its classic original format)",
+      "He used a whole roll of paper towels and blamed her plumbing",
       "He snuck out the window in the middle of the night leaving a clogged toilet behind",
       "He brought his own plunger and took it with him",
       "He offered to pay $500 for a plumber immediately"
@@ -1070,7 +1070,7 @@
     "q": "What is Nicole's perspective on splitting the bill on a traditional first date?",
     "options": [
       "She insists on always paying 100% no matter what",
-      "She appreciates when the person who asked pays, or at least a genuine offer without awkward penny-pinching",
+      "She appreciates when the person",
       "She believes in flipping a coin",
       "She insists the restaurant comp the meal"
     ],
@@ -1108,8 +1108,8 @@
     "show": "Why Won't You Date Me?",
     "q": "What did Nicole famously reveal about her bedroom setup to guests when discussing romantic sleepovers?",
     "options": [
-      "She sleeps on a twin mattress on the floor (in its classic original format)",
-      "She loves luxury bedding, lots of pillows, and high air conditioning",
+      "She sleeps on a twin mattress on the floor",
+      "She loves luxury bedding",
       "She sleeps in a hammock",
       "She doesn't own a bed frame or sheets"
     ],
@@ -1122,9 +1122,9 @@
     "q": "Which fast food chain does Nicole frequently talk about with intense culinary passion?",
     "options": [
       "In-N-Out Burger",
-      "McDonald's (specifically fries and Sprite)",
+      "McDonald's",
       "Arby's",
-      "Long John Silver's (hilarious touring guest comedian, actor, and close personal friend)"
+      "Long John Silver's"
     ],
     "answer": 1,
     "d": 1,
@@ -1134,10 +1134,10 @@
     "show": "Why Won't You Date Me?",
     "q": "What recurring experience did Nicole recount having with rideshare drivers when going home from dates?",
     "options": [
-      "Becoming their impromptu therapist or hearing unsolicited dating advice",
+      "Becoming their impromptu therapist",
       "Getting kicked out on the freeway",
       "Driving the car herself",
-      "Losing her phone under the seat every single time (in its classic original format)"
+      "Losing her phone under the seat every single time"
     ],
     "answer": 0,
     "d": 1,
@@ -1173,8 +1173,8 @@
     "show": "Why Won't You Date Me?",
     "q": "What unexpected item did Nicole once purchase online while tipsy, which she recounted on the pod?",
     "options": [
-      "An widely discussed and memorable industrial soft-serve ice cream machine",
-      "A life-sized fiberglass horse or elaborate mannequin pieces",
+      "An industrial soft-serve ice cream machine",
+      "A life-sized fiberglass horse",
       "A personal submarine",
       "A medieval suit of armor"
     ],
@@ -1200,9 +1200,9 @@
     "q": "What is Nicole’s opinion on men who describe themselves as \"fluent in sarcasm\" on dating apps?",
     "options": [
       "An instant turn-on",
-      "A tired, unoriginal cliché and an immediate swipe left",
+      "A tired, unoriginal cliché",
       "Proof of high emotional intelligence",
-      "A widely discussed and memorable sign they went to an Ivy League school"
+      "A sign they went to an Ivy League school"
     ],
     "answer": 1,
     "d": 1,
@@ -1226,7 +1226,7 @@
     "q": "In several episodes, Nicole discussed taking pole dancing lessons. What benefit did she frequently emphasize?",
     "options": [
       "Purely for attracting men",
-      "Incredible core strength, self-empowerment, body confidence, and artistic expression",
+      "Incredible core strength",
       "Training for the Winter Olympics",
       "Preparing for a dramatic film role"
     ],
@@ -1239,9 +1239,9 @@
     "q": "When Nicole discusses ghosting, what is her general sentiment toward people who ghost after multiple dates?",
     "options": [
       "She completely respects it as efficient",
-      "She finds it cowardly and disrespectful; a simple polite text takes 10 seconds",
+      "She finds it cowardly",
       "She believes ghosters should face criminal charges",
-      "She admits she never notices when someone stops texting (in its classic original format)"
+      "She admits she never notices when someone stops texting"
     ],
     "answer": 1,
     "d": 1,
@@ -1291,7 +1291,7 @@
     "q": "What is Nicole's view on dating someone who has never seen or heard of her comedy?",
     "options": [
       "She prefers it so they can get to know her as a real human without preconceived notions",
-      "She requires all dates to pass a 20-question quiz on her filmography (in its classic original format)",
+      "She requires all dates to pass a 20-question quiz on her filmography",
       "She refuses to speak to them until they stream her special",
       "She assumes they have no internet access"
     ],
@@ -1303,9 +1303,9 @@
     "show": "Why Won't You Date Me?",
     "q": "What funny revelation did Nicole share about hiring a personal assistant?",
     "options": [
-      "Finding out how much weird mail and strange packages she actually receives",
+      "Finding out how much weird mail",
       "The assistant quitting after one day to pursue stand-up",
-      "The widely discussed and memorable assistant trying to set Nicole up with their brother",
+      "The assistant trying to set Nicole up with their brother",
       "The assistant accidentally deleting her podcast catalog"
     ],
     "answer": 0,
@@ -1317,7 +1317,7 @@
     "q": "What did Nicole say about men who have photos exclusively with sunglasses on in their dating profiles?",
     "options": [
       "\"What are you hiding? Do you have eyes?!\"",
-      "\"A true sign of mystery and cool (and don't you ever forget it!)\"",
+      "\"A true sign of mystery and cool\"",
       "\"They must work in ophthalmology\"",
       "\"Instant right swipe\""
     ],
@@ -1329,10 +1329,10 @@
     "show": "Why Won't You Date Me?",
     "q": "When discussing pet peeves in dating app bios, what phrase does Nicole regularly mock?",
     "options": [
-      "\"I love to laugh\" or \"Looking for my partner in crime\"",
+      "\"I love to laugh\"",
       "\"I enjoy paying taxes\"",
       "\"I want to move to Mars\"",
-      "\"Seeking an arch-nemesis (and don't you ever forget it!)\""
+      "\"Seeking an arch-nemesis\""
     ],
     "answer": 0,
     "d": 1,
@@ -1368,8 +1368,8 @@
     "show": "Why Won't You Date Me?",
     "q": "How does Nicole feel about receiving unsolicited romantic advice from family members?",
     "options": [
-      "She finds it humorous, often outdated, and slightly annoying",
-      "She follows every piece of advice to the letter (in its classic original format)",
+      "She finds it humorous",
+      "She follows every piece of advice to the letter",
       "She cuts contact with family immediately",
       "She invites them on the show every single week"
     ],
@@ -1408,7 +1408,7 @@
     "q": "What is Nicole’s opinion on \"breadcrumbing\" in modern dating?",
     "options": [
       "Cruel, manipulative stringing along that should be cut off immediately",
-      "A widely discussed and memorable completely harmless way to maintain friendship",
+      "A completely harmless way to maintain friendship",
       "The best way to build romantic anticipation",
       "A culinary technique only"
     ],
@@ -1420,8 +1420,8 @@
     "show": "Why Won't You Date Me?",
     "q": "What did Nicole share about her experience with dating coaches or matchmakers?",
     "options": [
-      "They often gave generic, archaic rules that did not fit her bold personality",
-      "They guaranteed her marriage in 30 days and succeeded (in its classic original format)",
+      "They often gave generic",
+      "They guaranteed her marriage in 30 days and succeeded",
       "They told her she was already too perfect to coach",
       "They made her move to Europe"
     ],
@@ -1433,9 +1433,9 @@
     "show": "Why Won't You Date Me?",
     "q": "What is Nicole's attitude toward people who judge adults for watching reality TV?",
     "options": [
-      "She strongly defends reality TV as premier entertainment and cultural study",
+      "She strongly defends reality TV as premier entertainment",
       "She agrees it is a waste of time",
-      "She claims she only watches documentaries on PBS (in its classic original format)",
+      "She claims she only watches documentaries on PBS",
       "She doesn't own a television set"
     ],
     "answer": 0,
@@ -1446,7 +1446,7 @@
     "show": "Why Won't You Date Me?",
     "q": "When a guest once asked Nicole what her ideal date day looks like, what did she include?",
     "options": [
-      "Sleeping in, delicious food/cocktails, lots of belly laughs, zero pressure, and good intimacy",
+      "Sleeping in, delicious food/cocktails, lots of belly laughs, zero pressure,",
       "Running 15 miles at dawn followed by silent meditation",
       "Attending a three-hour lecture on corporate tax law",
       "Spending eight hours at an auto dealership"
@@ -1459,9 +1459,9 @@
     "show": "Why Won't You Date Me?",
     "q": "What did Nicole recount regarding an awkward date at a movie theater?",
     "options": [
-      "The date talking through the entire movie or trying to make out during a tragic drama",
+      "The date talking through the entire movie",
       "The date bringing outside rotisserie chicken into the theater",
-      "The widely discussed and memorable date falling asleep and snoring so loud the theater evacuated",
+      "The date falling asleep and snoring so loud the theater evacuated",
       "The projector breaking and the date blaming Nicole"
     ],
     "answer": 0,
@@ -1472,7 +1472,7 @@
     "show": "Why Won't You Date Me?",
     "q": "How does Nicole describe her emotional resilience after facing hundreds of rejections?",
     "options": [
-      "She recognizes her intrinsic worth and refuses to let someone else's inability to see it diminish her",
+      "She recognizes her intrinsic worth",
       "She stays in bed for three months after every bad date",
       "She has completely hardened her heart and feels nothing",
       "She vows never to speak to humans again"
@@ -1485,8 +1485,8 @@
     "show": "Why Won't You Date Me?",
     "q": "What comment about her voice or laugh did Nicole shut down on the podcast?",
     "options": [
-      "That women must speak quietly or softly to be considered attractive",
-      "That she sounds like a cartoon character (in its classic original format)",
+      "That women must speak quietly",
+      "That she sounds like a cartoon character",
       "That she should only sing soprano",
       "That laughing too loud causes wrinkles"
     ],
@@ -1498,9 +1498,9 @@
     "show": "Why Won't You Date Me?",
     "q": "What was Nicole's hilarious story about buying bikinis and swimwear?",
     "options": [
-      "Sizing charts being completely absurd and refusing to hide her body in \"modest\" grandma suits",
+      "Sizing charts being completely absurd",
       "Only wearing full-body wetsuits to the beach",
-      "Having her suit fall off while jumping into a pool at a luxury hotel (in its classic original format)",
+      "Having her suit fall off while jumping into a pool at a luxury hotel",
       "Making her own swimsuits out of bandanas"
     ],
     "answer": 0,
@@ -1511,10 +1511,10 @@
     "show": "Why Won't You Date Me?",
     "q": "What does Nicole think of men who brag about their wealth or crypto portfolios on date one?",
     "options": [
-      "An instant turn-off that screams insecurity and bad conversation",
+      "An instant turn-off that screams insecurity",
       "A sign of supreme competence",
       "An absolute requirement for a second date",
-      "Proof they should pay for everyone in the restaurant (in its classic original format)"
+      "Proof they should pay for everyone in the restaurant"
     ],
     "answer": 0,
     "d": 1,
@@ -1524,7 +1524,7 @@
     "show": "Why Won't You Date Me?",
     "q": "When Nicole talks about \"love languages,\" which one does she frequently emphasize valuing?",
     "options": [
-      "Words of affirmation, physical touch, and quality time filled with laughter",
+      "Words of affirmation",
       "Strict financial spreadsheets",
       "Giving expensive sports equipment",
       "Acts of service like doing her taxes"
@@ -1564,7 +1564,7 @@
     "q": "The episode titles of \"Why Won't You Date Me?\" frequently take what syntactic or comedic format?",
     "options": [
       "Formal legal citations",
-      "Direct provocative quotes, absurd relationship queries, or guest-driven punchlines",
+      "Direct provocative quotes",
       "Latin proverbs",
       "Numbers and dates only"
     ],
@@ -1576,7 +1576,7 @@
     "show": "Why Won't You Date Me?",
     "q": "In episode #100, what special format or reflective retrospective was celebrated?",
     "options": [
-      "Looking back at 100 episodes of continued singleness with close friends and retrospective clips",
+      "Looking back at 100 episodes of continued singleness with close friends",
       "Nicole announcing her marriage",
       "A completely silent episode",
       "A live broadcast from Antarctica"
@@ -1615,9 +1615,9 @@
     "show": "Why Won't You Date Me?",
     "q": "Which crossover podcast episode featured Nicole and her guest swapping shows or co-releasing episodes?",
     "options": [
-      "\"Best Friends with Nicole Byer and Sasheer Zamata\"",
+      "\"Best Friends with Nicole Byer\"",
       "\"The Daily\"",
-      "\"Dan Carlin's Hardcore History (Supernova in the East Multi-Part Series)\"",
+      "\"Dan Carlin's Hardcore History\"",
       "\"Planet Money\""
     ],
     "answer": 0,
@@ -1657,7 +1657,7 @@
       "March",
       "October",
       "July",
-      "January (in its classic original format)"
+      "January"
     ],
     "answer": 1,
     "d": 1,
@@ -1668,7 +1668,7 @@
     "q": "When Nicole recorded episodes live at comedy festivals, which famous festival in Montreal was frequently on the schedule?",
     "options": [
       "Edinburgh Fringe",
-      "Just For Laughs (JFL) Montreal",
+      "Just For Laughs Montreal",
       "SXSW",
       "The Melbourne International Comedy Festival Roadshow in Australia"
     ],
@@ -1694,7 +1694,7 @@
     "q": "Which of the following is a real episode title from the podcast's catalog?",
     "options": [
       "\"A Sociological Study of Modern Pair-Bonding\"",
-      "\"A Man Once Asked Me to Poop on His Chest\" (or similarly outrageous DM-derived titles)",
+      "\"A Man Once Asked Me to Poop on His Chest\"",
       "\"Treatise on Monogamy\"",
       "\"The Economics of Valentine's Day\""
     ],
@@ -1719,10 +1719,10 @@
     "show": "Why Won't You Date Me?",
     "q": "When guests appear via Zoom, what audio reality often becomes a running joke between Nicole and producer Dan?",
     "options": [
-      "WiFi lag, headphone issues, or pets interrupting in the background",
+      "WiFi lag, headphone issues,",
       "Aliens hacking the radio signal",
       "High-pitched Morse code",
-      "Echoes that make them sound like robots (in its classic original format)"
+      "Echoes that make them sound like robots"
     ],
     "answer": 0,
     "d": 1,
@@ -1745,7 +1745,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What recurring sponsor category did Nicole often read ads for with hilarious candor about her intimate life?",
     "options": [
-      "Adult toys and sexual wellness products (e.g., Dame, Lelo)",
+      "Adult toys and sexual wellness products",
       "Industrial lawnmowers",
       "Boat insurance",
       "Heavy industrial commercial refrigeration walk-in meat storage lockers"
@@ -1758,7 +1758,7 @@
     "show": "Why Won't You Date Me?",
     "q": "In episodes where Nicole discusses her book, what is the full title of her comedic publication?",
     "options": [
-      "\"#VERYFAT #VERYBRAVE: The Fat Girl's Guide to Being #Brave and Not a Dejected, Melancholy, Down-in-the-Dumps Weeping Girl in a Bikini\"",
+      "\"#VERYFAT #VERYBRAVE: The Fat Girl's Guide to Being #Brave\"",
       "\"Why You Should Marry Me\"",
       "\"How to Date in Hollywood\"",
       "\"Single and Thriving\""
@@ -1772,7 +1772,7 @@
     "q": "In which era of the podcast did Nicole celebrate receiving prestigious Primetime television acting nominations while still lamenting her lack of a plus-one?",
     "options": [
       "Her post-2020 award-recognition episodes",
-      "Her 2015 debut episode (in its classic original format)",
+      "Her 2015 debut episode",
       "Episode #1",
       "A 2012 pilot episode"
     ],
@@ -1785,7 +1785,7 @@
     "q": "In metadata tags and episode summaries, who is listed as the executive producer alongside Conan O'Brien on Team Coco episodes?",
     "options": [
       "Adam Sachs and Jeff Ross",
-      "Lorne Michaels (hilarious touring guest comedian, actor, and close personal friend)",
+      "Lorne Michaels",
       "Marc Maron",
       "Ira Glass"
     ],
@@ -1797,7 +1797,7 @@
     "show": "Why Won't You Date Me?",
     "q": "How are listener submission emails usually solicited by Nicole on the podcast?",
     "options": [
-      "\"Send your nasty DMs, dating horror stories, and queries to whywontyoudateme@gmail.com\"",
+      "\"Send your nasty DMs\"",
       "\"Fax your letters to the studio\"",
       "\"Leave a message on my personal cell phone\"",
       "\"Carrier pigeon only\""
@@ -1914,7 +1914,7 @@
     "show": "Why Won't You Date Me?",
     "q": "Which episode featured Nicole interviewing a professional intimacy coordinator?",
     "options": [
-      "An episode exploring how simulated sex and romantic scenes are handled safely on modern TV sets",
+      "An episode exploring how simulated sex",
       "An episode where Nicole learned how to skydive",
       "An episode about corporate mergers",
       "An episode detailing dental surgery"
@@ -1966,7 +1966,7 @@
     "show": "Why Won't You Date Me?",
     "q": "In episodes where Nicole discusses guest-starring on sitcoms (like \"The Good Place\" or \"Brooklyn Nine-Nine\"), what does she relate it back to?",
     "options": [
-      "The lack of hot single men working on set or the awkwardness of catering flirting",
+      "The lack of hot single men working on set",
       "How she plans to leave podcasting forever",
       "Her demand for a private jet",
       "Her desire to become a stunt driver"
@@ -1979,8 +1979,8 @@
     "show": "Why Won't You Date Me?",
     "q": "What format did Nicole use when she had guest singles pitch themselves directly to her on air?",
     "options": [
-      "On-air mini speed dates / live applicant interviews",
-      "Reading their credit reports aloud (in its classic original format)",
+      "On-air mini speed dates",
+      "Reading their credit reports aloud",
       "Having them submit blood samples",
       "Making them compete in a bake-off"
     ],
@@ -1992,7 +1992,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What is the usual cover art color scheme and aesthetic for \"Why Won't You Date Me?\"?",
     "options": [
-      "Bright pink/magenta background with an illustrated cartoon or vibrant photo of Nicole",
+      "Bright pink/magenta background with an illustrated cartoon",
       "Somber black-and-white gothic imagery",
       "Plain beige text on brown background",
       "Neon green Matrix digital rain"
@@ -2006,7 +2006,7 @@
     "q": "What phrase did Nicole coin when a man gives bare minimum effort and expects royal treatment?",
     "options": [
       "\"The audacity of mediocre men\"",
-      "\"The champion's choice (and don't you ever forget it!)\"",
+      "\"The champion's choice\"",
       "\"High value gentleman\"",
       "\"Gentleman caller\""
     ],
@@ -2044,7 +2044,7 @@
     "show": "Why Won't You Date Me?",
     "q": "Which episode title showcases Nicole's signature blend of absurdity and sex-positivity?",
     "options": [
-      "\"Spreading My Cheeks for Love\" (or similar explicit comedic declarations)",
+      "\"Spreading My Cheeks for Love\"",
       "\"An Objective History of Romance\"",
       "\"Proper Etiquette for Young Ladies\"",
       "\"Financial Planning for Retirees\""
@@ -2059,7 +2059,7 @@
     "options": [
       "Ice cubes clinking loudly against the glass right next to the mic",
       "Complete silence for five minutes",
-      "A widely discussed and memorable dedicated sound effect of a river rushing",
+      "A dedicated sound effect of a river rushing",
       "A disclaimer saying \"drink responsibly\""
     ],
     "answer": 0,
@@ -2111,7 +2111,7 @@
     "options": [
       "Star Wars and The Lord of the Rings",
       "The Godfather",
-      "Fast & Furious (in its classic original format)",
+      "Fast & Furious",
       "James Bond"
     ],
     "answer": 0,
@@ -2122,7 +2122,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What did Nicole reveal about her early days working at a coffee shop or restaurant in New York?",
     "options": [
-      "Spilling coffee on customers, getting fired, or eating leftovers in the walk-in fridge",
+      "Spilling coffee on customers",
       "Winning employee of the month twelve times",
       "Becoming a master sommelier",
       "Managing the Michelin star dining room"
@@ -2138,7 +2138,7 @@
       "Bowen Yang",
       "Tituss Burgess",
       "Tina Fey",
-      "Jane Krakowski (hilarious touring guest comedian, actor, and close personal friend)"
+      "Jane Krakowski"
     ],
     "answer": 1,
     "d": 1,
@@ -2150,7 +2150,7 @@
     "options": [
       "Australia and the UK",
       "Antarctica",
-      "The Democratic People's Republic of Korea (North Korea)",
+      "The Democratic People's Republic of Korea",
       "The Vatican"
     ],
     "answer": 0,
@@ -2161,9 +2161,9 @@
     "show": "Why Won't You Date Me?",
     "q": "What is Nicole's classic advice when a man on an app immediately asks \"What are you looking for on here?\"",
     "options": [
-      "\"A husband, a million dollars, and someone to clean my gutters!\"",
+      "\"A husband, a million dollars,\"",
       "\"I am looking for a stockbroker\"",
-      "\"I am looking for a tennis partner (and don't you ever forget it!)\"",
+      "\"I am looking for a tennis partner\"",
       "\"Just browsing the directory\""
     ],
     "answer": 0,
@@ -2174,10 +2174,10 @@
     "show": "Why Won't You Date Me?",
     "q": "Nicole often notes that one of her favorite physical attributes in a romantic partner is:",
     "options": [
-      "Beautiful teeth/smile, good hygiene, and broad shoulders",
+      "Beautiful teeth/smile",
       "A pencil-thin mustache",
       "Being exactly 5 feet tall",
-      "Wearing three-piece suits exclusively (in its classic original format)"
+      "Wearing three-piece suits exclusively"
     ],
     "answer": 0,
     "d": 1,
@@ -2187,7 +2187,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What did Nicole share about her experience with professional bikini waxers?",
     "options": [
-      "Becoming close friends with her esthetician and hearing all their personal relationship gossip",
+      "Becoming close friends with her esthetician",
       "Refusing to ever get waxed",
       "Opening her own waxing salon",
       "Suing the salon for waxing her eyebrows off"
@@ -2200,7 +2200,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What did Nicole say about men who refuse to wear sunscreen?",
     "options": [
-      "It makes no sense; skin protection and avoiding premature aging is basic health care",
+      "It makes no sense",
       "She finds sunburn attractive",
       "Sunscreen is unnecessary",
       "She only dates men who live underground"
@@ -2213,10 +2213,10 @@
     "show": "Why Won't You Date Me?",
     "q": "In an episode where Nicole discussed being recognized in public, what funny location did she mention being spotted at?",
     "options": [
-      "At the gynecologist’s office or while buying hemorrhoid cream",
+      "At the gynecologist’s office",
       "While robbing a bank",
       "In the cockpit of an airplane",
-      "During a presidential inauguration (in its classic original format)"
+      "During a presidential inauguration"
     ],
     "answer": 0,
     "d": 1,
@@ -2226,8 +2226,8 @@
     "show": "Why Won't You Date Me?",
     "q": "What animal frequently makes unexpected audio cameos in episodes recorded at Nicole's home?",
     "options": [
-      "Her rescue dogs barking or whining for treats",
-      "A widely discussed and memorable crow tapping on the window",
+      "Her rescue dogs barking",
+      "A crow tapping on the window",
       "A pet python hissing",
       "An owl in the attic"
     ],
@@ -2265,9 +2265,9 @@
     "show": "Why Won't You Date Me?",
     "q": "What did Nicole say about couples who share a single joint Facebook or social media account?",
     "options": [
-      "\"One of you cheated and nobody trusts anybody in that house!\"",
+      "\"One of you cheated\"",
       "\"A shining beacon of true romance\"",
-      "\"The smartest financial decision you can make (and don't you ever forget it!)\"",
+      "\"The smartest financial decision you can make\"",
       "\"Proof of pure spiritual alignment\""
     ],
     "answer": 0,
@@ -2278,8 +2278,8 @@
     "show": "Why Won't You Date Me?",
     "q": "How does Nicole describe her experience attending pole dance conventions and showcases?",
     "options": [
-      "A joyful, supportive community celebrating athleticism, sensual dance, and body diversity",
-      "A widely discussed and memorable terrifying, cutthroat competition where people sabotage shoes",
+      "A joyful, supportive community celebrating athleticism, sensual dance,",
+      "A terrifying, cutthroat competition where people sabotage shoes",
       "A corporate convention full of accountants",
       "An underground secret society"
     ],
@@ -2317,7 +2317,7 @@
     "show": "Why Won't You Date Me?",
     "q": "In an episode exploring BDSM and kink culture, what was Nicole's approach to the topic?",
     "options": [
-      "Curious, enthusiastic, non-judgmental, and hilarious exploration of boundaries and consent",
+      "Curious, enthusiastic, non-judgmental,",
       "Complete moral outrage",
       "Pretending she invented the culture",
       "Banning the guest from ever returning"
@@ -2330,7 +2330,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What did Nicole share about her experience working on scripted television vs. unscripted podcasting?",
     "options": [
-      "Podcasting allows 100% unfiltered self-expression, whereas TV requires network notes and patience",
+      "Podcasting allows 100% unfiltered self-expression",
       "TV is much easier because you don't have to talk",
       "Podcasting pays ten times more than network television",
       "She dislikes both and prefers writing silent poetry"
@@ -2343,7 +2343,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What did Nicole say about men who wear flip-flops to fine dining restaurants?",
     "options": [
-      "Put those toes away, nobody wants to see your unclipped toenails during dinner!",
+      "Put those toes away",
       "Peak California casual luxury",
       "Mandatory footwear for first dates",
       "A great conversation starter"
@@ -2357,7 +2357,7 @@
     "q": "When Nicole had guest Bowen Yang on, what shared reality of hosting popular comedy podcasts did they discuss?",
     "options": [
       "The bizarre parasocial relationships listeners develop with podcast hosts",
-      "How to avoid paying taxes on podcast microphones (in its classic original format)",
+      "How to avoid paying taxes on podcast microphones",
       "Why podcasts will be obsolete in six months",
       "How to replace all audio with AI voices"
     ],
@@ -2369,7 +2369,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What funny story did Nicole share about trying to assemble furniture by herself?",
     "options": [
-      "Putting an IKEA bookshelf together backwards, having leftover screws, and sitting on the floor cursing",
+      "Putting an IKEA bookshelf together backwards",
       "Building an entire dining set from cedar logs",
       "Hiring five contractors who all refused to help",
       "Successfully building a two-story shed in thirty minutes"
@@ -2383,7 +2383,7 @@
     "q": "What is Nicole's perspective on people who bring acoustic guitars to parties or beach dates?",
     "options": [
       "\"Please do not trap me into an unskippable concert of Wonderwall\"",
-      "The widely discussed and memorable most romantic gesture in human history",
+      "The most romantic gesture in human history",
       "Instant marriage material",
       "Everyone should carry a cello instead"
     ],
@@ -2395,7 +2395,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What did Nicole say about the pressure for women in their 30s to have children?",
     "options": [
-      "Society pushes it relentlessly, but everyone should choose what is right for their own life and body",
+      "Society pushes it relentlessly",
       "Women must have ten children before 35",
       "Nobody under 40 should ever have children",
       "Having children should be determined by a coin toss"
@@ -2421,8 +2421,8 @@
     "show": "Why Won't You Date Me?",
     "q": "What does Nicole do when an advertisement script contains boring, overly clinical corporate jargon?",
     "options": [
-      "Riffs entirely off-script, making fun of the copy while delivering the discount code",
-      "Reads it in a robotic, flat monotone without changing a single syllable (in its classic original format)",
+      "Riffs entirely off-script",
+      "Reads it in a robotic, flat monotone without changing a single syllable",
       "Refuses to say the sponsor's name",
       "Has producer Dan whisper the ad backwards"
     ],
@@ -2434,7 +2434,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What was Nicole's hilarious encounter with a ghost or paranormal story on the show?",
     "options": [
-      "Discussing whether a ghost in her house would be considered a roommate or a romantic partner",
+      "Discussing whether a ghost in her house would be considered a roommate",
       "Performing an on-air exorcism",
       "Moving into an abandoned cemetery",
       "Calling the Ghostbusters hotline"
@@ -2447,8 +2447,8 @@
     "show": "Why Won't You Date Me?",
     "q": "How does Nicole describe her wardrobe choices for stand-up comedy shows?",
     "options": [
-      "Flashy, colorful, skin-baring, sparkly, and unapologetically bold",
-      "Black turtleneck and khaki trousers exclusively (in its classic original format)",
+      "Flashy, colorful, skin-baring, sparkly,",
+      "Black turtleneck and khaki trousers exclusively",
       "Victorian mourning gowns with heavy veils",
       "Lab coats and safety goggles"
     ],
@@ -2460,7 +2460,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What did Nicole state about dating men who don't have any close female friends?",
     "options": [
-      "A potential red flag regarding how they view and respect women as three-dimensional humans",
+      "A potential red flag regarding how they view",
       "A fantastic sign of total loyalty",
       "Proof they are rugged survivalists",
       "It means they must have twenty sisters"
@@ -2473,7 +2473,7 @@
     "show": "Why Won't You Date Me?",
     "q": "When Nicole reflects on her time living in New York City apartments, what was a common plumbing or creature catastrophe?",
     "options": [
-      "Mice, roaches, and radiator pipes that hissed like angry monsters all winter",
+      "Mice, roaches,",
       "Pet alligators in the basement",
       "Having no running water for six years",
       "Living inside a subway station tunnel"
@@ -2499,7 +2499,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What is Nicole's favorite thing to do after coming home from a disastrous date?",
     "options": [
-      "Take off her bra, put on sweatpants, order delicious comfort food, and laugh about it",
+      "Take off her bra",
       "Cry into a pillow for forty-eight hours",
       "Sign up for three more dates that exact night",
       "Throw away all her clothes"
@@ -2538,10 +2538,10 @@
     "show": "Why Won't You Date Me?",
     "q": "When Nicole talks about self-care, what does she prioritize?",
     "options": [
-      "Massages, pedicures, good meals, resting her voice, and setting boundaries",
+      "Massages, pedicures, good meals, resting her voice,",
       "Waking up at 4 AM to drink raw eggs",
       "Running ultra-marathons in the desert",
-      "Reading financial stock tickers for eight hours (in its classic original format)"
+      "Reading financial stock tickers for eight hours"
     ],
     "answer": 0,
     "d": 1,
@@ -2551,9 +2551,9 @@
     "show": "Why Won't You Date Me?",
     "q": "What did Nicole say about going to the movies alone?",
     "options": [
-      "It is one of life's greatest, most peaceful, and luxurious solo pleasures",
+      "It is one of life's greatest",
       "It is deeply embarrassing and should never be done",
-      "Movie theaters require a minimum of two tickets per person (in its classic original format)",
+      "Movie theaters require a minimum of two tickets per person",
       "You must wear disguise sunglasses the entire time"
     ],
     "answer": 0,
@@ -2564,7 +2564,7 @@
     "show": "Why Won't You Date Me?",
     "q": "How does Nicole handle unsolicited constructive criticism about her physical appearance from strangers online?",
     "options": [
-      "Dismissing it with biting humor, blocking them, and reminding people she loves how she looks",
+      "Dismissing it with biting humor",
       "Changing her entire wardrobe immediately",
       "Writing a 50-page formal apology letter",
       "Deleting the internet from her phone"
@@ -2577,7 +2577,7 @@
     "show": "Why Won't You Date Me?",
     "q": "What recurring message does Nicole send to single listeners who feel hopeless about finding someone?",
     "options": [
-      "You are worthy of love, your value isn't defined by having a partner, and keep having fun in the meantime!",
+      "You are worthy of love",
       "Give up immediately because dating is mathematically impossible",
       "Move to a deserted island and build a hut",
       "You must settle for the first person who texts you"
@@ -2590,7 +2590,7 @@
     "show": "Why Won't You Date Me?",
     "q": "At the heart of over 200+ episodes of \"Why Won't You Date Me?\", what remains the enduring spirit of the show?",
     "options": [
-      "Nicole's exuberant warmth, unapologetic vulnerability, belly-laugh comedy, and fearless celebration of self-love",
+      "Nicole's exuberant warmth",
       "A somber, clinical analysis of demographic data",
       "An angry crusade against romance",
       "A strictly scripted corporate infomercial for matchmaking algorithms"

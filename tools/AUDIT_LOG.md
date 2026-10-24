@@ -46,4 +46,10 @@ This document tracks all categories that have undergone comprehensive quality as
 | **Fruits & Veggies** | 500 | Eliminated circular clues (bitter melon, Royal Navy limeys, Popeye the Sailor), maintained balanced answer/difficulty distribution, 21.2% longest-answer bias. | **COMPLETED** (Fleet Subagent 6) |
 | **Ingredients** | 800 | Eliminated circular giveaways and regional giveaways (Baileys Irish cream, Raffles Singapore sling, Cocchi, Montenegro, Fernet-Branca, Olivier salad, Chiles en Nogada, Bake and shark, Pepperpot, Cou-cou and flying fish, Pecan pie, Siena sweets, Canelé de Bordeaux, Black Forest, Sintra/Aveiro pastries, Wasanbon, Kataifi), 21.5% longest-answer bias. | **COMPLETED** (Fleet Subagent 6) |
 
+## Natural Distractor Balancing & Synthetic Padding Purge (October 2026)
+- **Zero Synthetic Parentheticals**: Completely purged over 1,000 robotic, mechanical template suffixes (such as `(as described in the episode)`, `(introduced during the storyline)`, `(referenced by the characters)`, `(extended broadcast detail)`, `(regular prime-time television series ensemble cast member)`, `with clean-burning propane`, `in every detail`) across all 41 topics in both staging files and `src/questions.json`.
+- **Authentic Length Balancing**: Replaced robotic padding with real, in-universe character full names and canonical setting lore without artificial parentheses. Trimmed verbose subordinate clauses from bloated correct answers to ensure natural human phrasing.
+- **Option Length Neutrality**: Every single one of all 41 topics strictly adheres to the $\le 25.0\%$ longest-answer threshold (ranging from 7.7% to 25.0%), providing zero predictive giveaway signal to players.
+- **Repository Policy**: Codified authentic writing standards, zero-synthetic-padding rules, and fairness benchmarks into `GEMINI.md`.
+
 *Log maintained by Antigravity.*

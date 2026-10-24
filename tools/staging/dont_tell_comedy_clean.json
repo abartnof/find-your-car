@@ -30,7 +30,7 @@
     "q": "In what standard format does Don't Tell Comedy title almost all of their primary YouTube stand-up releases?",
     "options": [
       "[Comedian Name] - Live in [City] | Stand Up",
-      "[Comedian Name]: [Joke Premise] (Official Special)",
+      "[Comedian Name]: [Joke Premise]",
       "[Bit/Punchline Topic] | [Comedian Name] | Stand Up Comedy",
       "Don't Tell Comedy Presents: [Comedian Name]"
     ],
@@ -146,7 +146,7 @@
     "options": [
       "Over 50",
       "Over 100",
-      "Over 200 (up to 250+)",
+      "Over 200",
       "Exactly 500"
     ],
     "answer": 2,
@@ -183,10 +183,10 @@
     "show": "Don't Tell Comedy",
     "q": "What emoji is prominently used in the video descriptions next to \"Just don't tell anyone!!\"?",
     "options": [
-      "🤫 (Shushing Face)",
-      "🤐 (Zipper-Mouth Face)",
-      "🎤 (Microphone)",
-      "🕶️ (Sunglasses)"
+      "🤫",
+      "🤐",
+      "🎤",
+      "🕶️"
     ],
     "answer": 0,
     "d": 1,
@@ -310,7 +310,7 @@
     "q": "What is the primary call-to-action link included in nearly every DTC YouTube video description?",
     "options": [
       "Link to buy DTC branded merch",
-      "Link to find upcoming secret pop-up shows (donttellcomedy.com)",
+      "Link to find upcoming secret pop-up shows",
       "Link to apply to be a comedian",
       "Link to donate to a comedy foundation"
     ],
@@ -539,7 +539,7 @@
     "show": "Don't Tell Comedy",
     "q": "Which crew role is specifically credited to Mark Davis across dozens of DTC video descriptions?",
     "options": [
-      "Live Audio Mixer (featured headlining stand-up comic and secret set performer)",
+      "Live Audio Mixer",
       "Director of Photography",
       "Costume Designer",
       "Talent Booker"
@@ -756,7 +756,7 @@
     "q": "Who is credited as Production Designer across recent Don't Tell Comedy video descriptions?",
     "options": [
       "Ryan Copeland",
-      "Sarah Alexander (featured headlining stand-up comic and secret set performer)",
+      "Sarah Alexander",
       "Lauren Robillard",
       "Bob Henry"
     ],
@@ -1067,7 +1067,7 @@
     "q": "What is the title of Kylie Vincent's stand-up video on DTC?",
     "options": [
       "Medical Bill Nightmares",
-      "Young, Tight, and in the Hospital",
+      "Young, Tight,",
       "Gen Z Patient",
       "ER Confessions"
     ],
@@ -1168,7 +1168,7 @@
     "show": "Don't Tell Comedy",
     "q": "Which category / series designation is applied in video titles to sets over 30 minutes like Drew Dunn's and Shapel Lacey's?",
     "options": [
-      "Stand Up Comedy Special / Half Hour Stand Up Comedy Special",
+      "Stand Up Comedy Special",
       "Uncut Comedy Hour",
       "Secret Sets Extended",
       "Underground Special"
@@ -1206,7 +1206,7 @@
     "q": "In video descriptions, how does DTC describe the audience's experience regarding surprise locations?",
     "options": [
       "\"You only get coordinates 1 hour before\"",
-      "\"You never know where we'll set up shop, or who might pop in\"",
+      "\"You never know where we'll set up shop\"",
       "\"Shows take place exclusively in abandoned warehouses\"",
       "\"Every ticket holder must sign an NDA before entering\""
     ],
@@ -1219,7 +1219,7 @@
     "options": [
       "Around 200–300 videos",
       "Around 700–800 videos",
-      "Over 2,200 videos (including Shorts and Sets)",
+      "Over 2,200 videos",
       "Exactly 5,000 videos"
     ],
     "answer": 2,
@@ -1449,7 +1449,7 @@
     "options": [
       "Marlon Reid",
       "Grayson Horan",
-      "Nat Pinheiro (featured headlining stand-up comic and secret set performer)",
+      "Nat Pinheiro",
       "Nick Noble"
     ],
     "answer": 1,
@@ -1538,7 +1538,7 @@
     "q": "What is the title of Usama Siddiquee's hit set on the channel?",
     "options": [
       "Airport Screening",
-      "My Name's Usama, No Relation",
+      "My Name's Usama",
       "Bengal Tiger Energy",
       "Awkward TSA"
     ],
@@ -1565,7 +1565,7 @@
     "options": [
       "Sound Recordist",
       "Production Designer",
-      "Lighting Director (featured headlining stand-up comic and secret set performer)",
+      "Lighting Director",
       "Head Writer"
     ],
     "answer": 1,
@@ -1857,7 +1857,7 @@
     "q": "What is the title of Leonard Ouzts' stand-up release on the channel?",
     "options": [
       "Big Guy Struggles",
-      "Why Being Fat and Handsome Is a Problem",
+      "Why Being Fat",
       "Dating Out of Your League",
       "Virginia Raised"
     ],
@@ -1881,7 +1881,7 @@
     "q": "In video descriptions, how are comedians typically promoted to help them grow their audience?",
     "options": [
       "Only their full legal name is listed",
-      "Direct link to their personal Instagram handle and social channels",
+      "Direct link to their personal Instagram handle",
       "Only their booking agent's email",
       "Links to their personal Venmo accounts"
     ],
@@ -2126,7 +2126,7 @@
     "q": "In DTC video metadata, what role did Michael Crumley perform on Torio Van Grol's set?",
     "options": [
       "Sound Recording",
-      "Live Event Host (featured headlining stand-up comic and secret set performer)",
+      "Live Event Host",
       "Editor",
       "Stage Manager"
     ],
@@ -2202,7 +2202,7 @@
     "options": [
       "Matthew Misisco",
       "Annie Gorham",
-      "Emily Farrell (featured headlining stand-up comic and secret set performer)",
+      "Emily Farrell",
       "Alex Gilroy"
     ],
     "answer": 0,
@@ -2277,9 +2277,9 @@
     "q": "Which video description phrase is used to introduce the concept of secret shows to newcomers?",
     "options": [
       "\"Welcome to the comedy underground\"",
-      "\"Comedy is at its best when there's a surprise\"",
+      "\"Comedy is at its best\"",
       "\"You are not supposed to be here\"",
-      "\"The best kept secret in live performance (and don't you ever forget it!)\""
+      "\"The best kept secret in live performance\""
     ],
     "answer": 1,
     "d": 1
@@ -2340,7 +2340,7 @@
       "Creative Commons",
       "Standard YouTube License",
       "Public Domain",
-      "Editorial News Only (featured headlining stand-up comic and secret set performer)"
+      "Editorial News Only"
     ],
     "answer": 1,
     "d": 1
@@ -2385,8 +2385,8 @@
     "show": "Don't Tell Comedy",
     "q": "Which duo is credited for directing many early 2022-2023 breakthrough tapings?",
     "options": [
-      "Gordie Earle III and Brad Silnutzer",
-      "Kyle Kazanjian-Amory and Drew Platt (in its classic original format)",
+      "Gordie Earle III",
+      "Kyle Kazanjian-Amory and Drew Platt",
       "Ryan Meadows and Mark Davis",
       "Jack Waldman and Cole Garrett"
     ],
@@ -2519,7 +2519,7 @@
     "q": "In DTC video descriptions, which call-to-action is consistently paired with comedian tagging?",
     "options": [
       "\"Check out their tour dates and follow their journey!\"",
-      "\"Subscribe to our channel and check out the full set from [Comedian]!\"",
+      "\"Subscribe to our channel\"",
       "\"Leave a comment if you want them back!\"",
       "\"Tip the comic directly in the link below!\""
     ],
@@ -2622,7 +2622,7 @@
     "options": [
       "Sarah Alexander",
       "Mark Davis",
-      "Grayson Horan (featured headlining stand-up comic and secret set performer)",
+      "Grayson Horan",
       "Marlon Reid"
     ],
     "answer": 0,
@@ -2711,7 +2711,7 @@
     "options": [
       "Justin Glowacki",
       "Brad Silnutzer",
-      "Marissa Gallant (featured headlining stand-up comic and secret set performer)",
+      "Marissa Gallant",
       "Brett Kushner"
     ],
     "answer": 0,
@@ -2882,7 +2882,7 @@
       "The Golden Years",
       "Hating Everything",
       "Cynical Realism",
-      "Don't Ever Get Married (veteran marriage advice bit)"
+      "Don't Ever Get Married"
     ],
     "answer": 1,
     "d": 1
@@ -3132,9 +3132,9 @@
     "show": "Don't Tell Comedy",
     "q": "How many subscriber play buttons has the official Don't Tell Comedy YouTube channel qualified for?",
     "options": [
-      "Only Silver (100k)",
-      "Silver (100k) and Gold (1M)",
-      "Silver, Gold, and Diamond (10M)",
+      "Only Silver",
+      "Silver and Gold",
+      "Silver, Gold, and Diamond",
       "None, live comedy channels are exempt"
     ],
     "answer": 1,
@@ -3158,7 +3158,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Susan Rice's viral set \"Funny Old Bag,\" what does she joke about regarding her age and medical checkups?",
     "options": [
-      "Doctors don't treat her illnesses anymore; they just congratulate her for surviving",
+      "Doctors don't treat her illnesses anymore",
       "She refuses to go to the doctor unless there is a coupon",
       "Her doctor told her her blood type is \"dust\"",
       "She takes so many pills she rattles when she dances"
@@ -3185,7 +3185,7 @@
     "q": "In Leslie Liao's hit set \"Fixing Straight Men,\" what does she say is the primary reason straight women put up with men?",
     "options": [
       "\"They can reach items on the top shelf\"",
-      "\"Because we lack self-esteem and love projects\"",
+      "\"Because we lack self-esteem\"",
       "\"Someone has to kill the bugs\"",
       "\"They look good in gray sweatpants\""
     ],
@@ -3226,7 +3226,7 @@
       "He looks at the buffet like an opponent in an arena",
       "Waiters bring him extra bread without him even asking",
       "He never trusts a restaurant with plastic chairs",
-      "He gets offended when a server asks if he's \"still working on that\""
+      "He gets offended"
     ],
     "answer": 3,
     "d": 1,
@@ -3236,7 +3236,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Joey Avery's set \"Gender Roles and Sex Toys,\" what comparison does he make regarding male vs. female adult toys?",
     "options": [
-      "Men's toys look like power tools from Home Depot, while women's look like sleek Apple products",
+      "Men's toys look like power tools from Home Depot",
       "Women hide theirs in velvet pouches; men hide theirs in the garage",
       "Men's toys have aggressive names like \"The Pulverizer\"",
       "Women's toys cost $200 and men's come in a brown paper bag"
@@ -3262,7 +3262,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Gianmarco Soresi's set \"Drag Queens vs. Priests,\" what comparison does he make regarding Catholic priests and drag performers?",
     "options": [
-      "Both wear elaborate dresses, but only one is honest about the theatrics",
+      "Both wear elaborate dresses",
       "Drag queens bring joy, priests bring guilt",
       "Both use too much incense and stage lighting",
       "One knows how to contour, the other only knows how to confess"
@@ -3369,7 +3369,7 @@
       "A photo album full of grandpas she'd never seen before",
       "Letters written to three different sailors at the same time",
       "A vintage diary detailing romantic scandals across four states",
-      "A widely discussed and memorable matchbook collection from every dive bar in Upstate New York"
+      "A matchbook collection from every dive bar in Upstate New York"
     ],
     "answer": 2,
     "d": 1,
@@ -3394,7 +3394,7 @@
     "options": [
       "People need a little bit of shame to function in society",
       "Mirrors are the real enemy, not beauty standards",
-      "He shouldn't be praised for just existing in sweatpants (in its classic original format)",
+      "He shouldn't be praised for just existing in sweatpants",
       "Confidence without athletic ability is dangerous"
     ],
     "answer": 0,
@@ -3418,7 +3418,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Mayce Galoni's set \"Video Games vs The Bible,\" what comparison does he draw between religion and video games?",
     "options": [
-      "The Old Testament reads like a violent multiplayer game with no moderation",
+      "The Old Testament reads",
       "God gave humans ten quests and we failed every single one",
       "Heaven is just the DLC we haven't unlocked yet",
       "Confession is just reloading your last save point"
@@ -3486,7 +3486,7 @@
       "A patient who insisted he was Jesus giving financial advice",
       "Rooming with a guy who thought he was Napoleon",
       "Trading pudding cups for cigarettes like currency",
-      "A widely discussed and memorable therapy session that turned into an argument about aliens"
+      "A therapy session that turned into an argument about aliens"
     ],
     "answer": 0,
     "d": 1,
@@ -3511,7 +3511,7 @@
     "options": [
       "Trying to ghost an entire cloud of smoke into a sweatshirt sleeve",
       "The panic of seeing the smoke detector flash red",
-      "Making awkward eye contact with a flight attendant while exhaling (in its classic original format)",
+      "Making awkward eye contact with a flight attendant while exhaling",
       "Thinking an airline bathroom has the ventilation of a wind tunnel"
     ],
     "answer": 0,
@@ -3548,7 +3548,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Jay Larson's set \"My Mother had Toxic Masculinity,\" what story does he tell about his mom's parenting style?",
     "options": [
-      "She challenged the neighborhood kids to arm wrestling matches (in its classic original format)",
+      "She challenged the neighborhood kids to arm wrestling matches",
       "She told him to \"walk it off\" when he broke his arm",
       "She wore work boots inside and cursed at the lawnmower",
       "She would yell at referees louder than any dad in the bleachers"
@@ -3652,9 +3652,9 @@
     "show": "Don't Tell Comedy",
     "q": "In Josh Ocean Thomas' set \"Biracial and Afraid,\" what dilemma does he describe about fitting in?",
     "options": [
-      "Black people think he's white, and white people think he's suspicious",
+      "Black people think he's white",
       "He gets sunburned and ash-skinned on the exact same day",
-      "He doesn't know which half of his family to side with at cookouts (in its classic original format)",
+      "He doesn't know which half of his family to side with at cookouts",
       "Neither barbershop nor salon knows what to do with his hair"
     ],
     "answer": 0,
@@ -3666,7 +3666,7 @@
     "q": "In Nick Murphy's set \"Why You Shouldn't Meow at Women,\" what does he say about bizarre catcalling habits?",
     "options": [
       "Making animal noises at women proves men have run out of all vocabulary",
-      "If meowing worked, cats would be the most successful daters in history (in its classic original format)",
+      "If meowing worked, cats would be the most successful daters in history",
       "No woman ever responded to a hiss with her phone number",
       "Street harassment sounds like an animal shelter during feeding time"
     ],
@@ -3705,7 +3705,7 @@
     "q": "In Jon Rudnitsky's set \"This is Not Adult Behavior!,\" what physical comedy observation does he emphasize?",
     "options": [
       "How grown men look trying to sprint in flip-flops",
-      "The horrifying realization of making dad noises when standing up from a sofa",
+      "The horrifying realization of making dad noises",
       "Trying to pretend you didn't just trip on a flat sidewalk",
       "Grown adults throwing temper tantrums over lost airline luggage"
     ],
@@ -3717,7 +3717,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Marcella Arguello's set \"Ugly Friends Give Better Advice,\" why does she claim you should keep an unattractive friend around?",
     "options": [
-      "They don't sugarcoat anything because life hasn't sugarcoated anything for them",
+      "They don't sugarcoat anything",
       "They will actually tell you when your outfit looks terrible",
       "Pretty friends just tell you what you want to hear",
       "They have spent years analyzing human behavior from the sidelines"
@@ -3758,7 +3758,7 @@
     "options": [
       "Judging people based on their birth month is just prejudice with crystals",
       "Saying \"That's such a Gemini\" is just an excuse to be rude",
-      "Astrologers look at a constellation and decide your whole personality (in its classic original format)",
+      "Astrologers look at a constellation and decide your whole personality",
       "People use Mercury in retrograde to justify terrible communication"
     ],
     "answer": 0,
@@ -3783,7 +3783,7 @@
     "q": "In the iconic closing formula of almost every Don't Tell Comedy set, what does the comedian say right before walking off the stage?",
     "options": [
       "\"Don't tell anyone I was here!\"",
-      "\"Thank you guys so much, my name is [Name], have a great night!\"",
+      "\"Thank you guys so much\"",
       "\"Keep this secret, Don't Tell Comedy!\"",
       "\"Tell your friends to keep quiet!\""
     ],
@@ -3798,7 +3798,7 @@
       "Make sustained eye contact for three minutes",
       "Buy scented eucalyptus candles for his bedroom",
       "Journal about his feelings towards his male friends",
-      "Admit that he actually liked drinking iced lattes (in its classic original format)"
+      "Admit that he actually liked drinking iced lattes"
     ],
     "answer": 2,
     "d": 1,
@@ -3809,7 +3809,7 @@
     "q": "In Ron Taylor's classic set \"School is Bullsht,\" what form of martial arts self-defense does he criticize for being useless against public school bullies?",
     "options": [
       "Krav Maga",
-      "Karate chops and horse stances",
+      "Karate chops",
       "Jiu-jitsu guard pulling",
       "Capoeira dancing"
     ],
@@ -3899,7 +3899,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Daniel Geneen's set \"I Wish I Was a Flat Earther,\" why does he say he envies conspiracy theorists?",
     "options": [
-      "Because their life is like a thriller movie where they are the secret genius",
+      "Because their life is like a thriller movie",
       "They sleep peacefully believing science is just a game",
       "Their Facebook community groups look like a genuinely fun club",
       "They never have to stress about climate change or airline delays"
@@ -3977,7 +3977,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Liz Blanc's set, what does she say happens when a teacher tries to use modern slang in front of high schoolers?",
     "options": [
-      "The entire classroom goes dead silent and stares in absolute disgust",
+      "The entire classroom goes dead silent",
       "They immediately roast you in a group chat you're not in",
       "You get recorded and your clip gets 2 million views on TikTok",
       "A student raises their hand and asks you to never speak again"
@@ -3993,7 +3993,7 @@
       "They don't have personalities; they have cast recordings",
       "They turn every regular conversation into an audition monologue",
       "They cannot hear applause without involuntarily bowing",
-      "They end up working in marketing and talking with their hands (in its classic original format)"
+      "They end up working in marketing and talking with their hands"
     ],
     "answer": 1,
     "d": 1,
@@ -4056,8 +4056,8 @@
     "q": "In Sam Tallent's set, what does he say about the experience of flying in an airplane middle seat?",
     "options": [
       "He spills into both armrests like proof of the laws of thermodynamics",
-      "The people in the aisle and window look at him like an incoming storm cloud",
-      "He spends the whole flight trying to breathe without moving his shoulders (in its classic original format)",
+      "The people in the aisle",
+      "He spends the whole flight trying to breathe without moving his shoulders",
       "Flight attendants offer him two pretzels just out of immediate sympathy"
     ],
     "answer": 1,
@@ -4081,7 +4081,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Mark Smalls' set, what does he say about playing video games past the age of thirty?",
     "options": [
-      "You spend 45 minutes downloading updates, fall asleep on the couch, and wake up at 2:00 AM",
+      "You spend 45 minutes downloading updates",
       "Twelve-year-olds online insult your mortgage and you can't even defend yourself",
       "Your back hurts after sitting upright in a gaming chair for more than an hour",
       "You pause the game every 20 minutes to stretch your hamstrings"
@@ -4107,7 +4107,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Usama Siddiquee's set, what does he say about having a middle Eastern name in America?",
     "options": [
-      "Substitute teachers pause for 10 seconds before reading attendance and he already knows it's his turn",
+      "Substitute teachers pause for 10 seconds before reading attendance",
       "Coffee baristas just spell his name with random punctuation",
       "People over-pronounce it like they're trying to prove they aren't racist",
       "Every time he books a flight, Homeland Security gets a ping on a server"
@@ -4185,7 +4185,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Kylie Vincent's set, what does she say about the difference between older hospital patients and young ones?",
     "options": [
-      "Old patients complain about the pudding; young patients complain about the hospital Wi-Fi",
+      "Old patients complain about the pudding",
       "Older patients have family visitors; young patients just get DoorDash deliveries",
       "Old patients know their medical chart; young patients just say \"my vibes are off\"",
       "Older patients accept death; young patients worry about missing a concert"
@@ -4198,7 +4198,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Zavior Phillips' set, what does he say about people who blame their bad moods on astrological signs?",
     "options": [
-      "\"You didn't ghost me because you're a Scorpio, you ghosted me because you have bad character\"",
+      "\"You didn't ghost me\"",
       "\"The planets aren't aligned against you; you just forgot to pay your electric bill\"",
       "\"Mercury isn't in retrograde, your life is just disorganized\"",
       "\"Astrology is just horoscopes for people who want an excuse to be rude\""
@@ -4211,10 +4211,10 @@
     "show": "Don't Tell Comedy",
     "q": "In Zoltan Kaszas' set, what does he say about his rescue cat's personality?",
     "options": [
-      "The cat looks at him with pure contempt like a bad landlord evaluating a tenant",
+      "The cat looks at him with pure contempt",
       "His cat demands expensive wet food and repays him by sleeping on his face",
       "Cats don't have affection; they just have tolerated proximity",
-      "The widely discussed and memorable cat acts like it pays half the rent and hates Zoltan's decorating choices"
+      "The cat acts like it pays half the rent and hates Zoltan's decorating choices"
     ],
     "answer": 0,
     "d": 1,
@@ -4224,7 +4224,7 @@
     "show": "Don't Tell Comedy",
     "q": "In Tommy Brennan's set, what does he say about going to the gym with your partner?",
     "options": [
-      "You realize within 5 minutes that you work out to different music and different tempos (in its classic original format)",
+      "You realize within 5 minutes that you work out to different music and different tempos",
       "Watching your girlfriend lift heavier weights than you ruins your entire masculine identity",
       "Couples who do partner workouts look like they're rehearsing an Olympic routine",
       "One person is always ready to leave while the other is still stretching"

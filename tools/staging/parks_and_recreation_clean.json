@@ -4,9 +4,9 @@
     "q": "What is Leslie Knope's favorite food of all time?",
     "options": [
       "Waffles from JJ's Diner",
-      "Pizza",
+      "Wood-fired sausage and pepperoni pizza",
       "Calzones",
-      "Paunch Burger (senior associate)"
+      "Paunch Burger"
     ],
     "answer": 0,
     "d": 1
@@ -15,9 +15,9 @@
     "show": "Parks and Recreation",
     "q": "What is the name of Ron Swanson's beloved woodworking company?",
     "options": [
-      "Pawnee Woodcraft",
+      "Pawnee Woodcraft & Fine Custom Furniture Company",
       "Very Good Building & Development Company",
-      "Swanson Custom Cabinets according to official records",
+      "Swanson Custom Cabinets",
       "Duke Silver Woodworks"
     ],
     "answer": 1,
@@ -87,8 +87,8 @@
     "show": "Parks and Recreation",
     "q": "On what date is Galentine's Day celebrated every year?",
     "options": [
-      "March 31st",
-      "February 14th (holiday celebration)",
+      "March 31st on April Fools Eve",
+      "February 14th",
       "February 15th",
       "February 13th"
     ],
@@ -123,8 +123,8 @@
     "show": "Parks and Recreation",
     "q": "What tabletop role-playing game did Ben Wyatt invent during his bout of unemployment?",
     "options": [
-      "Settlers of Catan",
-      "Dungeons & Dunshire in every detail",
+      "The Settlers of Catan Strategy Board Game",
+      "Dungeons & Dunshire",
       "The Cones of Dunshire",
       "Hexagon Kingdom"
     ],
@@ -147,8 +147,8 @@
     "show": "Parks and Recreation",
     "q": "What ruined Ben Wyatt's mayoral career in Partridge?",
     "options": [
-      "Bankrupting the town by building a winter sports complex named \"Ice Town\"",
-      "Embezzling city funds",
+      "Building a winter sports complex named \"Ice Town\"",
+      "Systematically embezzling hundreds of thousands of dollars in municipal municipal tax revenue",
       "Refusing to plow snow",
       "Resigning on his first day"
     ],
@@ -255,10 +255,10 @@
     "show": "Parks and Recreation",
     "q": "What is the name of the lavish, bankrupt media-conglomerate startup founded by Tom Haverford and Jean-Ralphio Saperstein?",
     "options": [
-      "Rent-A-Swag",
+      "Rent-A-Swag high-end designer clothing rental",
       "Entertainment 720",
       "Tom's Bistro",
-      "Eclipse Nightlife (senior associate)"
+      "Eclipse Nightlife"
     ],
     "answer": 1,
     "d": 1
@@ -267,7 +267,7 @@
     "show": "Parks and Recreation",
     "q": "What phrase is printed on the giant check Entertainment 720 tries to present to people?",
     "options": [
-      "\"Where Dreams Come To Die (full version)\"",
+      "\"Where Dreams Come To Die and Never Return\"",
       "\"Treat Yo' Self\"",
       "\"Where Dreams Come To Play\"",
       "\"Baller Status\""
@@ -279,8 +279,8 @@
     "show": "Parks and Recreation",
     "q": "What is Jean-Ralphio's twin sister's name?",
     "options": [
-      "Donna",
-      "Gianna (close confidante)",
+      "Donna Meagle",
+      "Gianna",
       "Chloe",
       "Mona-Lisa"
     ],
@@ -303,7 +303,7 @@
     "show": "Parks and Recreation",
     "q": "What was Jerry Gergich's actual real first name that his coworkers never used correctly?",
     "options": [
-      "Terry (official selection)",
+      "Terry Gergich",
       "Garry",
       "Larry",
       "Barry"
@@ -340,7 +340,7 @@
     "q": "What condition does Chris Traeger obsessively believe he can avoid by running and eating healthy?",
     "options": [
       "Aging and dying",
-      "Heart attack in every detail",
+      "Sudden premature coronary heart attack",
       "Baldness",
       "Diabetes"
     ],
@@ -399,9 +399,9 @@
     "show": "Parks and Recreation",
     "q": "Which Pawnee resident works at The Pawnee Journal and frequently sleeps with interview subjects?",
     "options": [
-      "Perd Hapley",
+      "Perd Hapley of Ya' Heard? With Perd",
       "Shauna Malwae-Tweep",
-      "Joan Callamezzo (senior associate)",
+      "Joan Callamezzo",
       "Kim Terrio"
     ],
     "answer": 1,
@@ -520,8 +520,8 @@
     "q": "What perfume designer and cologne mogul is known for scents like \"Black Market\" and \"Side-Boob\"?",
     "options": [
       "Eddie Moscone",
-      "Jean-Ralphio",
-      "Tom Haverford (senior associate)",
+      "Jean-Ralphio Saperstein the startup founder",
+      "Tom Haverford",
       "Dennis Feinstein"
     ],
     "answer": 3,
@@ -580,9 +580,9 @@
     "q": "Why did Mark Brendanawicz leave government work at the end of Season 2?",
     "options": [
       "He took a job in the private construction sector",
-      "He was fired for corruption",
+      "He was dismissed from office for financial corruption",
       "He moved to Eagleton",
-      "He became a full-time musician according to official records"
+      "He became a full-time musician"
     ],
     "answer": 0,
     "d": 3
@@ -604,8 +604,8 @@
     "q": "Why is Champion named Champion according to Andy Dwyer?",
     "options": [
       "Because he won an agility contest",
-      "Because he survived a car accident according to official records",
-      "Because he's a dog, and he's the dog world champion",
+      "Because he survived a car accident",
+      "Because he's a dog",
       "Because he never loses at fetch"
     ],
     "answer": 2,
@@ -627,10 +627,10 @@
     "show": "Parks and Recreation",
     "q": "How large is Paunch Burger's \"Child Size\" soda?",
     "options": [
-      "Roughly the size of a two-year-old child if liquefied (512 oz)",
+      "Roughly the size of a two-year-old child if liquefied",
       "64 oz",
       "32 oz",
-      "1 gallon"
+      "A one-gallon Paunch Burger take-home jug of sweet corn syrup soda"
     ],
     "answer": 0,
     "d": 2
@@ -651,9 +651,9 @@
     "show": "Parks and Recreation",
     "q": "According to The Reasonablists, how will the world end?",
     "options": [
-      "An asteroid strike",
+      "A catastrophic deep-space asteroid impact obliterating the Earth's tectonic crust",
       "A nuclear winter",
-      "Zorp the Surveyor will burn it into flesh-flesh with his volcano mouth",
+      "Zorp the Surveyor will burn it into flesh-flesh",
       "A giant flood of melted chocolate"
     ],
     "answer": 2,
@@ -687,9 +687,9 @@
     "show": "Parks and Recreation",
     "q": "Which real-life Parks and Rec writer portrayed the slacker animal control officer Harris?",
     "options": [
-      "Alan Yang",
+      "Alan Yang the acclaimed series writer and director",
       "Harris Wittels",
-      "Michael Schur with full pedigree papers",
+      "Michael Schur",
       "Dan Goor"
     ],
     "answer": 1,
@@ -723,7 +723,7 @@
     "show": "Parks and Recreation",
     "q": "What show was *Parks and Recreation* originally conceived as a potential direct spin-off of?",
     "options": [
-      "The Office (US)",
+      "The Office",
       "30 Rock",
       "Community",
       "Arrested Development"
@@ -783,8 +783,8 @@
     "show": "Parks and Recreation",
     "q": "What type of luxury vehicle does Donna Meagle drive and protect furiously?",
     "options": [
-      "Mercedes-Benz G-Wagon (senior associate)",
-      "Mercedes-Benz M-Class / ML350",
+      "Mercedes-Benz G-Wagon",
+      "Mercedes-Benz ML350",
       "BMW 7-Series",
       "Cadillac Escalade"
     ],
@@ -891,10 +891,10 @@
     "show": "Parks and Recreation",
     "q": "What phrase does Andy Dwyer mistakenly write on a medical chart when Ann asks him about his diet?",
     "options": [
-      "\"Everything\"",
+      "\"Everything hurts and I'm dying and the world is ending\"",
       "\"Butterflies\"",
-      "\"Skittles between two Starbursts\"",
-      "\"Meat tornado (complete uncut extended broadcast version)\""
+      "\"Skittles between Starbursts\"",
+      "\"Meat tornado\""
     ],
     "answer": 2,
     "d": 3
@@ -915,9 +915,9 @@
     "show": "Parks and Recreation",
     "q": "Who created the iconic song \"5,000 Candles in the Wind\" for Li'l Sebastian's memorial service?",
     "options": [
-      "Andy Dwyer (Mouse Rat)",
+      "Andy Dwyer",
       "Duke Silver",
-      "Bobby Knight (recurring guest performer)",
+      "Bobby Knight",
       "Ginuwine"
     ],
     "answer": 0,
@@ -927,10 +927,10 @@
     "show": "Parks and Recreation",
     "q": "What line opens the chorus of \"5,000 Candles in the Wind\"?",
     "options": [
-      "\"Fly, fly little pony\"",
+      "\"Fly, fly high into the heavens our sweet beloved pony\"",
       "\"Bye, bye Li'l Sebastian\"",
       "\"Pawnee will miss you\"",
-      "\"Candles in the meadow (full version)\""
+      "\"Candles in the meadow\""
     ],
     "answer": 1,
     "d": 2
@@ -951,9 +951,9 @@
     "show": "Parks and Recreation",
     "q": "What was Li'l Sebastian's honorary degree awarded by Notre Dame University?",
     "options": [
-      "Doctorate in Equine Joy in every detail",
+      "Doctorate in Equine Joy",
       "Master of Grassology",
-      "Bachelor of Science",
+      "The original Bachelor of Science",
       "Doctor of Humane Letters"
     ],
     "answer": 3,
@@ -965,8 +965,8 @@
     "options": [
       "He didn't see what was special about a tiny horse",
       "He was allergic to horses",
-      "He hated county fairs",
-      "He had a bad childhood experience with a pony in every detail"
+      "The original He hated county fairs",
+      "He had a bad childhood experience with a pony"
     ],
     "answer": 0,
     "d": 3
@@ -999,9 +999,9 @@
     "show": "Parks and Recreation",
     "q": "What is the name of the youth group Leslie Knope founded as an alternative to the Pawnee Rangers?",
     "options": [
-      "Pioneer Pals",
+      "The original Pioneer Pals",
       "Nature Girls",
-      "Little Knopers (senior associate)",
+      "Little Knopers",
       "Pawnee Goddesses"
     ],
     "answer": 3,
@@ -1011,7 +1011,7 @@
     "show": "Parks and Recreation",
     "q": "Why did the boys from the Pawnee Rangers beg to join the Pawnee Goddesses?",
     "options": [
-      "The Goddesses ate puppy chow, earned fun badges, and stayed at cabins with s'mores",
+      "The Goddesses ate puppy chow",
       "The Rangers had no leader",
       "The Goddesses had video games",
       "Leslie gave them free money"
@@ -1023,8 +1023,8 @@
     "show": "Parks and Recreation",
     "q": "What is Ron Swanson's philosophy in the Pawnee Rangers handbook?",
     "options": [
-      "\"Always be prepared.\"",
-      "It contains only one page with a picture of a tree and the words: \"Be a man.\"",
+      "The original \"Always be prepared.\"",
+      "A picture of a tree and the words: \"Be a man.\"",
       "\"Nature is dangerous; conquer it.\"",
       "\"Don't talk to anyone.\""
     ],
@@ -1098,7 +1098,7 @@
       "He was an intern at City Hall",
       "A telemarketer",
       "A shoe salesman",
-      "He had no prior job; he entered directly through college recruitment"
+      "He had no prior job"
     ],
     "answer": 3,
     "d": 3
@@ -1179,9 +1179,9 @@
     "show": "Parks and Recreation",
     "q": "What avant-garde radio show did Derry Murbles co-host with August Clementine?",
     "options": [
-      "Cornucopia of Silence in every detail",
+      "Cornucopia of Silence",
       "Pawnee Whispers",
-      "Thoughts for Your Thoughts",
+      "Thoughts",
       "Ambient Indiana"
     ],
     "answer": 2,
@@ -1205,8 +1205,8 @@
     "options": [
       "Venezuela",
       "Mexico",
-      "Colombia (close confidante)",
-      "Chile"
+      "Colombia",
+      "The original Chile"
     ],
     "answer": 0,
     "d": 2
@@ -1287,10 +1287,10 @@
     "show": "Parks and Recreation",
     "q": "What is Councilman Bill Dexhart constantly embroiled in?",
     "options": [
-      "Secretly forging tax returns behind closed doors",
+      "Secretly forging tax returns",
       "Bribery rings",
       "Illegal gambling",
-      "Bizarre, graphic sex scandals"
+      "Bizarre"
     ],
     "answer": 3,
     "d": 2
@@ -1312,9 +1312,9 @@
     "q": "What is April Ludgate's official job title when she is promoted under Ron Swanson?",
     "options": [
       "Deputy Director of Parks",
-      "Ron's Assistant / Director of 311",
+      "Ron's Assistant",
       "Director of Animal Control",
-      "Assistant to the City Manager in every detail"
+      "Assistant to the City Manager"
     ],
     "answer": 1,
     "d": 2
@@ -1324,9 +1324,9 @@
     "q": "Where do Andy and April get married on short notice in Season 3?",
     "options": [
       "In the Grand Canyon",
-      "At JJ's Diner",
-      "At their house party / dinner party",
-      "In City Hall rotunda according to official records"
+      "The original At JJ's Diner",
+      "At their dinner party",
+      "In City Hall rotunda"
     ],
     "answer": 2,
     "d": 2
@@ -1347,9 +1347,9 @@
     "show": "Parks and Recreation",
     "q": "What sweater did Andy Dwyer wear to his and April's wedding?",
     "options": [
-      "An Indianapolis Colts jersey (Reggie Wayne)",
-      "A Mouse Rat band t-shirt (extended broadcast detail)",
-      "A tuxedo T-shirt",
+      "An Indianapolis Colts jersey",
+      "A Mouse Rat band t-shirt",
+      "Authentic A tuxedo T-shirt",
       "A dirty wool cardigan"
     ],
     "answer": 0,
@@ -1372,8 +1372,8 @@
     "q": "What is the name of the giant outdoor company where Ron Swanson's brother works?",
     "options": [
       "Swanson Woodworks",
-      "Pawnee Lumber",
-      "None, Ron has three brothers who all work in local trades",
+      "The original Pawnee Lumber",
+      "None, his brothers work",
       "Indiana Forestry"
     ],
     "answer": 2,
@@ -1396,8 +1396,8 @@
     "q": "What instrument does Andy Dwyer play in Mouse Rat?",
     "options": [
       "Lead guitar and lead vocals",
-      "Bass guitar according to official records",
-      "Drums",
+      "Bass guitar",
+      "The original Drums",
       "Keyboards"
     ],
     "answer": 0,
@@ -1431,8 +1431,8 @@
     "show": "Parks and Recreation",
     "q": "Which of the following is NOT one of Mouse Rat's previous band names?",
     "options": [
-      "Threeskin (official selection)",
-      "Radwagon",
+      "Threeskin",
+      "The original Radwagon",
       "Fiveskin",
       "Puppy Rocket"
     ],
@@ -1468,9 +1468,9 @@
     "q": "What animal did Leslie Knope marry at the Pawnee Zoo that accidentally made her a gay icon?",
     "options": [
       "Two male otters",
-      "Two male swans",
+      "The original Two male swans",
       "Two male penguins",
-      "Two male turtles with full pedigree papers"
+      "Two male turtles"
     ],
     "answer": 2,
     "d": 1
@@ -1504,8 +1504,8 @@
     "q": "What does Leslie eat every single day for breakfast when meeting Ann at JJ's Diner?",
     "options": [
       "Eggs Benedict",
-      "Waffles with extra whipped cream",
-      "Scrambled eggs and toast in every detail",
+      "Waffles",
+      "Scrambled eggs and toast",
       "French toast"
     ],
     "answer": 1,
@@ -1517,8 +1517,8 @@
     "options": [
       "Deep-fried bacon",
       "Enormous pancakes",
-      "The best waffles in the state of Indiana",
-      "The renowned Four-Horseman Burger of the city"
+      "The best waffles in Indiana",
+      "The renowned Four-Horseman Burger"
     ],
     "answer": 2,
     "d": 1
@@ -1539,7 +1539,7 @@
     "show": "Parks and Recreation",
     "q": "What happens to JJ's Diner in Season 7?",
     "options": [
-      "A tech company named Gryzzl buys out the strip mall, threatening to close it",
+      "A tech company",
       "It burns down in an electrical fire",
       "JJ decides to retire to Florida",
       "The health department condemns it"
@@ -1552,8 +1552,8 @@
     "q": "What is Gryzzl?",
     "options": [
       "A ride-sharing service",
-      "A tech search engine/social media conglomerate based in San Francisco",
-      "A fast-food chain",
+      "A tech search engine and social media conglomerate",
+      "Authentic A fast-food chain",
       "A drone delivery startup"
     ],
     "answer": 1,
@@ -1576,9 +1576,9 @@
     "q": "What gift did Gryzzl send to all citizens of Pawnee via drone that caused a privacy uproar?",
     "options": [
       "Branded sunglasses",
-      "Free tablets",
+      "The original Free tablets",
       "Paunch Burger vouchers",
-      "Personalized gift boxes based on intercepted data mining"
+      "Personalized gift boxes"
     ],
     "answer": 3,
     "d": 2
@@ -1587,7 +1587,7 @@
     "show": "Parks and Recreation",
     "q": "What object does Ron Swanson use to destroy his computer after discovering internet cookies?",
     "options": [
-      "He throws it straight into a dumpster outside",
+      "He throws it",
       "A sledgehammer",
       "A circular saw",
       "An axe"
@@ -1600,9 +1600,9 @@
     "q": "What website does Ron Swanson see that causes him to throw his computer away?",
     "options": [
       "Gryzzl search engine",
-      "Google Street View showing his house",
-      "Facebook",
-      "Pawnee City Directory according to official records"
+      "Google Street View of his house",
+      "The original Facebook",
+      "Pawnee City Directory"
     ],
     "answer": 1,
     "d": 3
@@ -1659,9 +1659,9 @@
     "show": "Parks and Recreation",
     "q": "What are the names of Leslie and Ben's triplets?",
     "options": [
-      "Jerry, George, and Elaine in every detail",
+      "Jerry, George, and Elaine",
       "Luke, Leia, and Han",
-      "Stephen, Wesley, and Sonia",
+      "Stephen",
       "George, Ron, and Ann"
     ],
     "answer": 2,
@@ -1671,8 +1671,8 @@
     "show": "Parks and Recreation",
     "q": "Which famous Star Wars character did Patton Oswalt famously filibuster about for over 8 unscripted minutes?",
     "options": [
-      "Luke Skywalker's academy in every detail",
-      "Darth Vader's origin",
+      "Luke Skywalker's academy",
+      "The original Darth Vader's origin",
       "Chewbacca's home planet",
       "Boba Fett joining Marvel's Avengers"
     ],
@@ -1696,9 +1696,9 @@
     "q": "Why was Garth Blundin filibustering the Pawnee City Council meeting?",
     "options": [
       "To stop the pit from being filled",
-      "To prevent Leslie from updating the Pawnee town charter",
+      "To prevent Leslie",
       "To protest a property tax hike",
-      "To preserve the town's historical murals once and for all"
+      "To preserve the town's historical murals"
     ],
     "answer": 1,
     "d": 1
@@ -1708,8 +1708,8 @@
     "q": "What is depicted on the controversial Pawnee town hall mural titled \"The Spirit of Pawnee\"?",
     "options": [
       "The founding of JJ's Diner",
-      "A peaceful church service",
-      "Pioneers brutally attacking Native Americans (Wamapo tribe)",
+      "Authentic A peaceful church service",
+      "Pioneers brutally attacking Native Americans",
       "A wagon train crossing a clean river"
     ],
     "answer": 2,
@@ -1744,8 +1744,8 @@
     "q": "What does Ken Hotate do when white Pawnee citizens complain about Wamapo land?",
     "options": [
       "Sues them in federal court",
-      "Pretends to place ancient tribal curses on them to terrify them",
-      "Boycotts their stores",
+      "Pretends to place ancient tribal curses",
+      "The original Boycotts their stores",
       "Shuts down the casino"
     ],
     "answer": 1,
@@ -1792,7 +1792,7 @@
     "q": "What ingredient makes Snake Juice so dangerous?",
     "options": [
       "It has absinthe and tequila",
-      "It contains high caffeine, raw sugar, and 80-proof alcohol (\"basically rat poison\")",
+      "It contains high caffeine",
       "It has rum and espresso",
       "It is distilled moonshine"
     ],
@@ -1803,9 +1803,9 @@
     "show": "Parks and Recreation",
     "q": "What hilarious activity does Ron Swanson do while drunk on Snake Juice at the Snakehole Lounge?",
     "options": [
-      "Punches Jeremy Jamm",
+      "The original Punches Jeremy Jamm",
       "Sings Mouse Rat songs karaoke",
-      "Wears April's tiny fascinator pillbox hat and dances enthusiastically",
+      "Wears April's tiny fascinator pillbox hat",
       "Runs through the streets naked"
     ],
     "answer": 2,
@@ -1817,8 +1817,8 @@
     "options": [
       "\"Death warmed over\"",
       "\"Total organ failure\"",
-      "\"A flu masquerading as regret (full version)\"",
-      "\"The worst hangover in medical history\""
+      "\"A flu masquerading as regret\"",
+      "\"The worst hangover\""
     ],
     "answer": 3,
     "d": 3
@@ -1827,7 +1827,7 @@
     "show": "Parks and Recreation",
     "q": "What is the name of the accountant firm that repeatedly hires Ben Wyatt, only for him to quit instantly?",
     "options": [
-      "Barney Varmn's firm (Tilton & Radomski Accounting)",
+      "Barney Varmn's firm",
       "Frank & Miller",
       "Deloitte Pawnee",
       "Ernst & Young Indiana"
@@ -1865,8 +1865,8 @@
     "options": [
       "Titanium bands from an old lawnmower",
       "Rings whittled out of Pawnee red oak",
-      "Pure silver bands from Duke Silver's saxophone in every detail",
-      "Rings made from a melted-down sconce from Ann's house"
+      "Pure silver bands from Duke Silver's saxophone",
+      "Rings made"
     ],
     "answer": 3,
     "d": 1
@@ -1899,10 +1899,10 @@
     "show": "Parks and Recreation",
     "q": "What famous golf course did the possum \"Fairway Frank\" terrorize?",
     "options": [
-      "Sullivan Links",
+      "The original Sullivan Links",
       "Eagleton Greens",
       "Pawnee Golf & Country Club",
-      "Secretly whispering Pines behind closed doors"
+      "Secretly whispering Pines"
     ],
     "answer": 2,
     "d": 2
@@ -1923,7 +1923,7 @@
     "show": "Parks and Recreation",
     "q": "Who is Orin?",
     "options": [
-      "April's creepy, goth friend who dresses like a sheep and stares without blinking",
+      "April's creepy",
       "Andy's cousin",
       "A city council clerk",
       "A local punk rock singer"
@@ -1936,7 +1936,7 @@
     "q": "How does Leslie get Orin to leave her office when he is being creepy?",
     "options": [
       "She calls security",
-      "She acts like his cheerful mother and forces him to clean his room",
+      "She acts like his cheerful mother",
       "She barks at him",
       "She gives him money"
     ],
@@ -1950,7 +1950,7 @@
       "Dr. Harris",
       "Dr. Ellenbogen",
       "Dr. Richard Nygard",
-      "Dr. Peter Lebeck in every detail"
+      "Dr. Peter Lebeck"
     ],
     "answer": 2,
     "d": 3
@@ -1971,7 +1971,7 @@
     "show": "Parks and Recreation",
     "q": "What did Ann Perkins realize after dating Chris Traeger, Tom Haverford, and Andy Dwyer?",
     "options": [
-      "She completely mirrors the personality and hobbies of whoever she dates",
+      "She completely mirrors the personality",
       "She was never meant to live in Indiana",
       "She preferred being alone forever",
       "She should only date doctors"
@@ -1984,8 +1984,8 @@
     "q": "What hobby did Ann pick up while dating Chris Traeger?",
     "options": [
       "Woodworking",
-      "Extreme distance running and juicing",
-      "Secretly playing video games behind closed doors",
+      "Extreme distance running",
+      "Secretly playing video games",
       "Designer streetwear"
     ],
     "answer": 1,
@@ -1997,7 +1997,7 @@
     "options": [
       "Skateboarding",
       "Playing bass",
-      "Eating chili out of a frisbee and watching bad action movies",
+      "Eating chili out of a frisbee",
       "Camping"
     ],
     "answer": 2,
@@ -2021,7 +2021,7 @@
     "options": [
       "Oliver and Leslie",
       "Jack and Diane",
-      "Peter and Wendy in every detail",
+      "Peter and Wendy",
       "Ben and Leslie"
     ],
     "answer": 0,
@@ -2067,10 +2067,10 @@
     "show": "Parks and Recreation",
     "q": "What martial arts rank does Johnny Karate hold?",
     "options": [
-      "Black belt in karate (self-awarded)",
+      "Black belt in karate",
       "Brown belt",
       "Yellow belt",
-      "No belt, just a headband (extended broadcast detail)"
+      "No belt, just a headband"
     ],
     "answer": 0,
     "d": 2
@@ -2091,9 +2091,9 @@
     "show": "Parks and Recreation",
     "q": "What company attempts to buy out the entire town of Pawnee during the merger with bankrupt Eagleton?",
     "options": [
-      "Paunch Burger",
+      "Double Bacon Grenade from Paunch Burger",
       "Sweetums",
-      "Eagleton itself was bankrupt, so Pawnee absorbed Eagleton",
+      "Eagleton itself was bankrupt",
       "Gryzzl"
     ],
     "answer": 2,
@@ -2106,7 +2106,7 @@
       "They built too many equestrian parks",
       "Embezzlement by the mayor",
       "A stock market crash",
-      "They spent lavishly on ridiculous public luxuries like scented pavement and cloaked garbage trucks"
+      "They spent lavishly on ridiculous public luxuries"
     ],
     "answer": 3,
     "d": 2
@@ -2200,9 +2200,9 @@
     "q": "What is Ron Swanson's secret hobby that only April initially discovers?",
     "options": [
       "Baking pastries",
-      "Miniature dollhouse making (extended broadcast detail)",
+      "Miniature dollhouse making",
       "Ballet dancing",
-      "Saxophone player (Duke Silver)"
+      "Saxophone player"
     ],
     "answer": 3,
     "d": 1
@@ -2211,7 +2211,7 @@
     "show": "Parks and Recreation",
     "q": "What does Ron Swanson do every year on his birthday to ensure privacy?",
     "options": [
-      "Takes a solo trip to a cabin with a ribeye steak, a bottle of Lagavulin, and movies",
+      "Takes a solo trip to a cabin with a ribeye steak",
       "Closes his office and locks the door",
       "Takes the day off and visits a sawmill",
       "Hides in the basement of City Hall"
@@ -2223,7 +2223,7 @@
     "show": "Parks and Recreation",
     "q": "What movie does Leslie leave for Ron to watch on his birthday when she plans his dream solo evening?",
     "options": [
-      "The renowned Godfather of the city",
+      "The renowned Godfather",
       "The Bridge on the River Kwai",
       "Dirty Harry",
       "Braveheart"
@@ -2235,7 +2235,7 @@
     "show": "Parks and Recreation",
     "q": "What scotch does Ron Swanson obsessively drink?",
     "options": [
-      "Glenfiddich 12 in every detail",
+      "Glenfiddich 12",
       "Macallan 18",
       "Lagavulin 16 Year Old",
       "Laphroaig 10"
@@ -2247,7 +2247,7 @@
     "show": "Parks and Recreation",
     "q": "Which Scottish distillery does Ron visit in Season 6, reading Robert Burns poetry on the cliffs?",
     "options": [
-      "Highland Park (senior associate)",
+      "Highland Park",
       "Talisker",
       "Ardbeg",
       "Lagavulin Distillery on Islay"
@@ -2272,9 +2272,9 @@
     "q": "What real-life skill of Nick Offerman's was written directly into Ron Swanson's character?",
     "options": [
       "Saxophone mastery",
-      "Professional woodworking / canoe building",
+      "Professional woodworking",
       "Marathon running",
-      "Professional archery according to official records"
+      "Professional archery"
     ],
     "answer": 1,
     "d": 3
@@ -2307,7 +2307,7 @@
     "show": "Parks and Recreation",
     "q": "Why did Officer Dave Sanderson break up with Leslie?",
     "options": [
-      "He was recalled to active duty in the US Army and stationed in San Diego",
+      "He was recalled to active duty in the US Army",
       "He caught her cheating",
       "He hated Pawnee",
       "He moved to Eagleton"
@@ -2319,8 +2319,8 @@
     "show": "Parks and Recreation",
     "q": "What was the name of the eccentric MRI technician Ann set Leslie up on a blind date with?",
     "options": [
-      "Justin Anderson (in a guest starring appearance)",
-      "Chris (played by Will Arnett)",
+      "Justin Anderson",
+      "Chris",
       "Mark",
       "Kyle"
     ],
@@ -2343,7 +2343,7 @@
     "show": "Parks and Recreation",
     "q": "Why was Will Arnett's guest appearance significant behind the scenes?",
     "options": [
-      "He went to college with Nick Offerman in every detail",
+      "He went to college with Nick Offerman",
       "He directed the episode",
       "He was the executive producer",
       "He was Amy Poehler's real-life husband at the time"
@@ -2355,7 +2355,7 @@
     "show": "Parks and Recreation",
     "q": "What cool, suave lawyer did Leslie date in Season 2 who turned out to be too obsessed with drama?",
     "options": [
-      "Justin Anderson (played by Justin Theroux)",
+      "Justin Anderson",
       "Dave Sanderson",
       "Ben Wyatt",
       "Mark Brendanawicz"
@@ -2368,7 +2368,7 @@
     "q": "What was the name of the Pawnee shoe-shiner before Andy Dwyer took over the stand?",
     "options": [
       "Jerry",
-      "There was no one; Andy convinced Ron to let him set up a stand",
+      "There was no one",
       "Kyle",
       "Herman"
     ],
@@ -2381,7 +2381,7 @@
     "options": [
       "He was sentenced to community service",
       "He won a town contract",
-      "Leslie and the parks department created the stand to help him earn money after his casts came off",
+      "Leslie and the parks department created the stand to help him earn money",
       "Ron hired him directly"
     ],
     "answer": 2,
@@ -2393,7 +2393,7 @@
     "options": [
       "Kyle",
       "Orin",
-      "Brett (longtime friend)",
+      "Brett",
       "Derek"
     ],
     "answer": 3,
@@ -2427,7 +2427,7 @@
     "show": "Parks and Recreation",
     "q": "What is Donna Meagle's middle name?",
     "options": [
-      "Monique (official selection)",
+      "Monique",
       "Nicole",
       "LeVonda",
       "Latoya"
@@ -2440,7 +2440,7 @@
     "q": "What is Ron Swanson's full birth name?",
     "options": [
       "Ronald Donald Swanson",
-      "Ronald Edward Swanson in every detail",
+      "Ronald Edward Swanson",
       "Ronald James Swanson",
       "Ronald Ulysses Swanson"
     ],
@@ -2452,7 +2452,7 @@
     "q": "What is Leslie Knope's middle name?",
     "options": [
       "Barbara",
-      "Eleanor (official selection)",
+      "Eleanor",
       "Diane",
       "Marie"
     ],
@@ -2475,7 +2475,7 @@
     "show": "Parks and Recreation",
     "q": "What is Tom Haverford's real birth name before he changed it to be more culturally American?",
     "options": [
-      "Samir Nagheenanajar (senior associate)",
+      "Samir Nagheenanajar",
       "Tariq Aziz",
       "Darwish Sabir Ismael Gani",
       "Dev Shah"
@@ -2489,7 +2489,7 @@
     "options": [
       "Pawnee, Indiana",
       "Mumbai, India",
-      "Chicago, Illinois in every detail",
+      "Chicago, Illinois",
       "Columbia, South Carolina"
     ],
     "answer": 3,
@@ -2499,9 +2499,9 @@
     "show": "Parks and Recreation",
     "q": "What was the name of the sanitation chief who ran for city council and was constantly covered in dirt?",
     "options": [
-      "Joe (played by Kirk Fox)",
+      "Joe",
       "Brett",
-      "Harris (in a guest starring appearance)",
+      "Harris",
       "Garth"
     ],
     "answer": 0,
@@ -2512,9 +2512,9 @@
     "q": "What crude item did Sanitation Commissioner Joe leave on Ann Perkins's desk after a date?",
     "options": [
       "A bag of garbage",
-      "A photo of his genitals (\"dick pic\")",
+      "A photo of his genitals",
       "A dirty raccoon",
-      "A broken toilet seat (extended broadcast detail)"
+      "A broken toilet seat"
     ],
     "answer": 1,
     "d": 2
@@ -2538,7 +2538,7 @@
       "\"They only come out during the day.\"",
       "\"We tried poison, but it just made them bigger.\"",
       "\"They run the school board.\"",
-      "\"The raccoon problem is under control. They have their side of town, and we have ours.\""
+      "\"The raccoon problem is under control. They have their side of town\""
     ],
     "answer": 3,
     "d": 2
@@ -2586,7 +2586,7 @@
       "\"Burt Macklin, FBI!\"",
       "\"Sometimes when I wipe, I'll wipe and I'll wipe... still poop.\"",
       "\"I have no idea what I'm doing, but I know I'm doing it really, really well.\"",
-      "\"Leslie, I typed your symptoms into the thing up here, and it says you could have network connectivity problems.\""
+      "\"Leslie, I typed your symptoms into the thing up here,\""
     ],
     "answer": 3,
     "d": 2
@@ -2620,7 +2620,7 @@
     "q": "What was the name of the massive town celebration organized by Leslie to save the Parks Department budget?",
     "options": [
       "Founders' Week",
-      "Pawnee Pride Jubilee in every detail",
+      "Pawnee Pride Jubilee",
       "The Harvest Festival",
       "The Raccoon Roundup"
     ],
@@ -2634,7 +2634,7 @@
       "An outbreak of food poisoning",
       "The Ferris wheel collapsed",
       "Ken Hotate cursed the grounds",
-      "Li'l Sebastian escaped and got lost inside the corn maze"
+      "Li'l Sebastian escaped"
     ],
     "answer": 3,
     "d": 2
@@ -2706,7 +2706,7 @@
       "Tax documents",
       "Multiple passports, gold bars, and emergency bacon",
       "Letters to his mother",
-      "The celebrated and historic Duke Silver master tapes of the city"
+      "The celebrated and historic Duke Silver master tapes"
     ],
     "answer": 1,
     "d": 1
@@ -2717,7 +2717,7 @@
     "options": [
       "Under the floorboards of City Hall",
       "In his backyard",
-      "\"Decoy gold\" is buried in various spots, but the real gold is hidden in undisclosed locations",
+      "\"Decoy gold\" is buried in various spots",
       "In a safety deposit box in Switzerland"
     ],
     "answer": 2,
@@ -2730,7 +2730,7 @@
       "\"Zero, gold is a fiat illusion.\"",
       "\"Several hundred thousand dollars worth.\"",
       "\"Enough to buy Pawnee.\"",
-      "\"I do not know how much money I have, but I know how many pounds of money I have.\""
+      "\"I do not know how much money I have\""
     ],
     "answer": 3,
     "d": 1
@@ -2753,7 +2753,7 @@
     "options": [
       "\"Swagger\"",
       "\"Tommy Fresh\"",
-      "\"Dapper Dan (full version)\"",
+      "\"Dapper Dan\"",
       "\"Eau de Tom\""
     ],
     "answer": 1,
@@ -2765,7 +2765,7 @@
     "options": [
       "Like vanilla and regret",
       "Like fresh pine",
-      "Like a combination of rubbing alcohol and cheap body spray",
+      "Like a combination of rubbing alcohol",
       "Like gasoline and cotton candy"
     ],
     "answer": 2,
@@ -2800,7 +2800,7 @@
     "q": "What happened to Jerry when he went to get the calzones for Ben Wyatt's bachelor party?",
     "options": [
       "He forgot where the restaurant was",
-      "He got mugged (or so he claimed, though he actually dropped his ice cream)",
+      "He got mugged",
       "He ate them all",
       "He lost his wallet"
     ],
@@ -2813,7 +2813,7 @@
     "options": [
       "He tripped over Champion",
       "He was pushed by teenage delinquents",
-      "He dropped his ice cream and fell into the creek while trying to scoop it up",
+      "He dropped his ice cream",
       "He fell asleep on a bench"
     ],
     "answer": 2,
@@ -2826,7 +2826,7 @@
       "His wife told him to",
       "He wanted attention",
       "He wanted disability leave",
-      "He was embarrassed that he dropped his butterscotch ice cream cone and fell into the creek"
+      "He was embarrassed that he dropped his butterscotch ice cream cone"
     ],
     "answer": 3,
     "d": 2
@@ -2861,8 +2861,8 @@
     "options": [
       "He is an incredible sculptor",
       "He is a master glassblower",
-      "He is a gifted landscape painter and pianist",
-      "He writes classical symphonies in every detail"
+      "He is a gifted landscape painter",
+      "He writes classical symphonies"
     ],
     "answer": 2,
     "d": 3
@@ -2883,7 +2883,7 @@
     "show": "Parks and Recreation",
     "q": "What happened to Jerry's painting of the centaur?",
     "options": [
-      "A conservative citizens' group demanded it be burned because it was \"obscene\"",
+      "A conservative citizens' group demanded it be burned",
       "It was stolen by Greg Pikitis",
       "Tom accidentally spilled coffee on it",
       "Ron hung it in his cabin"
@@ -2908,7 +2908,7 @@
     "q": "What organization does Marcia Langman represent?",
     "options": [
       "The Indiana Morality League",
-      "The renowned Pawnee Christian Coalition of the city",
+      "The renowned Pawnee Christian Coalition",
       "The Society for Family Stability Foundation",
       "Mothers for Pawnee"
     ],
@@ -2992,7 +2992,7 @@
     "q": "How did Leslie and Ben resolve their Model UN competition?",
     "options": [
       "Ben surrendered his treaty",
-      "They got kicked out by the high school teacher for acting childish and disrupting the room",
+      "They got kicked out by the high school teacher for acting childish",
       "Leslie declared war",
       "April dropped a bomb on both of them"
     ],
@@ -3027,7 +3027,7 @@
     "show": "Parks and Recreation",
     "q": "What does Ben Wyatt say when he panics on live television with Joan Callamezzo?",
     "options": [
-      "Stares wide-eyed and silently mouths weird words, then asks \"Who hasn't had gay thoughts?\"",
+      "Stares wide-eyed",
       "\"Calzones are the future!\"",
       "\"I want my mommy!\"",
       "\"I resign!\""
@@ -3041,7 +3041,7 @@
     "options": [
       "\"The Tale of Clay\"",
       "\"Requiem for a Tuesday\"",
-      "\"Ice Town: The Movie (full version)\"",
+      "\"Ice Town: The Movie\"",
       "\"Dunshire Chronicles\""
     ],
     "answer": 1,
@@ -3051,7 +3051,7 @@
     "show": "Parks and Recreation",
     "q": "How long was Ben's finished claymation video that took weeks of work?",
     "options": [
-      "Thirty seconds in every detail",
+      "Thirty seconds",
       "Three minutes",
       "Approximately two seconds",
       "Five minutes"
@@ -3075,7 +3075,7 @@
     "show": "Parks and Recreation",
     "q": "What does Ben realize after watching his two-second claymation clip?",
     "options": [
-      "\"Stand in the place where you live... Did you see that? That's all there is?!\"",
+      "\"Stand in the place\"",
       "\"It's a masterpiece.\"",
       "\"I should add dialogue.\"",
       "\"I need to restart.\""
@@ -3087,8 +3087,8 @@
     "show": "Parks and Recreation",
     "q": "What role does Ben Wyatt take on during the high-stakes merger of Gryzzl and Pawnee?",
     "options": [
-      "Gryzzl Board Member according to official records",
-      "City Manager / National Park planner",
+      "Gryzzl Board Member",
+      "City Manager",
       "Congressman",
       "Campaign Manager"
     ],
@@ -3101,7 +3101,7 @@
     "options": [
       "Mayor of Pawnee",
       "Governor of Indiana",
-      "Member of the United States House of Representatives (Congressman)",
+      "Member of the United States House of Representatives",
       "Senator for Indiana"
     ],
     "answer": 2,
@@ -3114,7 +3114,7 @@
       "Chris Traeger",
       "Ben Wyatt",
       "Ron Swanson",
-      "Leslie Knope (with Secret Service surrounding either her or Ben)"
+      "Leslie Knope"
     ],
     "answer": 3,
     "d": 3
@@ -3125,7 +3125,7 @@
     "options": [
       "Superintendent of the Pawnee National Park",
       "Head of Indiana Forestry",
-      "Full-time furniture maker according to official records",
+      "Full-time furniture maker",
       "Mayor of Pawnee"
     ],
     "answer": 0,
@@ -3136,7 +3136,7 @@
     "q": "Why was the Superintendent job at Pawnee National Park perfect for Ron?",
     "options": [
       "It paid six figures",
-      "His job was simply to walk the woods and protect nature without dealing with people",
+      "His job was simply to walk the woods",
       "He got to carry a firearm everywhere",
       "He had no supervisor"
     ],
@@ -3149,7 +3149,7 @@
     "options": [
       "Ben Wyatt",
       "Veteran performer Leslie Knope",
-      "Garry (Jerry) Gergich",
+      "Garry Gergich",
       "Jeremy Jamm"
     ],
     "answer": 2,
@@ -3171,7 +3171,7 @@
     "show": "Parks and Recreation",
     "q": "How long does Garry Gergich serve as mayor of Pawnee?",
     "options": [
-      "He is repeatedly re-elected and serves until his 100th birthday, dying peacefully",
+      "He is repeatedly re-elected",
       "One term",
       "Two terms",
       "He resigns after six months"
@@ -3186,7 +3186,7 @@
       "85 years old",
       "100 years old",
       "92 years old",
-      "105 years old at the time of filming"
+      "105 years old"
     ],
     "answer": 1,
     "d": 3
@@ -3195,8 +3195,8 @@
     "show": "Parks and Recreation",
     "q": "How is Mayor Gergich's first name famously misspelled on his gravestone in the series finale?",
     "options": [
-      "Larry",
-      "Jerry (official selection)",
+      "Larry Gergich",
+      "Jerry",
       "Gerry",
       "Terry"
     ],
@@ -3208,7 +3208,7 @@
     "q": "What was the name of Donna Meagle's brother, played by Questlove?",
     "options": [
       "Trey",
-      "Jerome (longtime friend)",
+      "Jerome",
       "Marcus",
       "Lavondrius"
     ],
@@ -3219,7 +3219,7 @@
     "show": "Parks and Recreation",
     "q": "What did Donna do to Lavondrius at her wedding that showed she had settled family drama?",
     "options": [
-      "She invited him and gave him a plate of microwave popcorn",
+      "She invited him",
       "She bought him a car",
       "She let him walk her down the aisle",
       "She sang him a song"
@@ -3234,7 +3234,7 @@
       "Jack Dwyer",
       "Burt Snakehole Ludgate Dwyer",
       "Macklin Dwyer",
-      "Frankenstein Dwyer (senior associate)"
+      "Frankenstein Dwyer"
     ],
     "answer": 1,
     "d": 3
@@ -3245,7 +3245,7 @@
     "options": [
       "Witch nose",
       "Vampire fangs",
-      "Zombie / Frankenstein monster face paint",
+      "Zombie",
       "Ghost paint"
     ],
     "answer": 2,
@@ -3268,7 +3268,7 @@
     "q": "What is Tom Haverford's successful book called in the finale after his restaurant chain fails?",
     "options": [
       "\"Failure: The Seven Types of Successful People\"",
-      "\"Swagger: My Life in Dapper (complete uncut extended broadcast version)\"",
+      "\"Swagger: My Life in Dapper\"",
       "\"Treat Yo' Self Forever\"",
       "\"Rent-A-Life\""
     ],
@@ -3280,7 +3280,7 @@
     "q": "In Tom's book, which personality archetype was based on Leslie Knope?",
     "options": [
       "\"The General\"",
-      "\"The Leslie\" (The overachiever who never stops)",
+      "\"The Leslie\"",
       "\"The Workhorse\"",
       "\"The Spark\""
     ],
@@ -3304,7 +3304,7 @@
     "q": "What was the title of Leslie Knope's published book about her town?",
     "options": [
       "\"From the Pit to the Park\"",
-      "\"Pawnee: A History of Pride (full version)\"",
+      "\"Pawnee: A History of Pride\"",
       "\"Welcome to Pawnee\"",
       "\"Pawnee: The Greatest Town in America\""
     ],
@@ -3315,7 +3315,7 @@
     "show": "Parks and Recreation",
     "q": "What fact did Joan Callamezzo uncover about Leslie's birth during her book release?",
     "options": [
-      "Leslie was born in Eagleton's hospital because Pawnee's was infested with raccoons",
+      "Leslie was born in Eagleton's hospital",
       "Leslie was born in Chicago",
       "Leslie was secretly Canadian",
       "Leslie was born in an ambulance"
@@ -3328,7 +3328,7 @@
     "q": "Why was being born in Eagleton such a devastating scandal for Leslie?",
     "options": [
       "Because Eagleton revoked her citizenship",
-      "Because her entire identity and political career were rooted in Pawnee pride",
+      "Because her entire identity",
       "Because her birth certificate was lost",
       "Because Ron refused to talk to her"
     ],
@@ -3341,7 +3341,7 @@
     "options": [
       "A wild boar",
       "A deer",
-      "None; Ron was accidentally shot in the back of the head by Tom",
+      "None",
       "A turkey"
     ],
     "answer": 2,
@@ -3363,7 +3363,7 @@
     "show": "Parks and Recreation",
     "q": "Why did Leslie take the blame for shooting Ron in the hunting trip episode?",
     "options": [
-      "Because Tom didn't have a hunting license and would have gone to jail",
+      "Because Tom didn't have a hunting license",
       "Because she felt guilty",
       "Because Ron ordered her to",
       "Because Jerry was terrified"
@@ -3375,7 +3375,7 @@
     "show": "Parks and Recreation",
     "q": "What did Ron Swanson demand to eat while recovering from his head wound at the cabin?",
     "options": [
-      "Coffee and bacon in every detail",
+      "Coffee and bacon",
       "A giant bowl of meat",
       "Whiskey",
       "Waffles"
@@ -3388,7 +3388,7 @@
     "q": "What is the name of the pawn shop clerk in Pawnee who has a tattoo of a pawn shop on his chest?",
     "options": [
       "Kyle",
-      "Brett (official selection)",
+      "Brett",
       "Herman Lerpiss",
       "Frank"
     ],
@@ -3402,7 +3402,7 @@
       "A disco ball",
       "A motorcycle",
       "A taxidermy bear",
-      "Marshmallow guns and a briefcase full of handcuffs"
+      "Marshmallow guns"
     ],
     "answer": 3,
     "d": 3
@@ -3425,7 +3425,7 @@
     "options": [
       "Elsa",
       "Senor Lunt",
-      "Nadia (close confidante)",
+      "Nadia",
       "Carl"
     ],
     "answer": 1,
@@ -3437,7 +3437,7 @@
     "options": [
       "Ron Swanson",
       "An elderly woman named Donna",
-      "It was actually Ben Wyatt who moved in and forced them to clean",
+      "It was actually Ben Wyatt",
       "Shauna Malwae-Tweep"
     ],
     "answer": 2,
@@ -3450,7 +3450,7 @@
       "Painted the living room",
       "Immediately moved out to a hotel",
       "Called the health inspector",
-      "Bought them basic household supplies like dish soap, sponges, and actual plates"
+      "Bought them basic household supplies"
     ],
     "answer": 3,
     "d": 3
@@ -3471,7 +3471,7 @@
     "show": "Parks and Recreation",
     "q": "What talent did the winning contestant, Trish Ianetta, perform at the Miss Pawnee pageant?",
     "options": [
-      "She played the harp in every detail",
+      "She played the harp",
       "She twirled a baton poorly",
       "She baked cookies",
       "She read a poem"
@@ -3484,7 +3484,7 @@
     "q": "Why did Tom Haverford vote for Trish Ianetta to win Miss Pawnee?",
     "options": [
       "Because she bribed him",
-      "Because she was his cousin in every detail",
+      "Because she was his cousin",
       "Solely because she was attractive",
       "Because she liked calzones"
     ],
@@ -3546,7 +3546,7 @@
       "Polka",
       "Showtunes",
       "Country pop",
-      "Norwegian black metal and noise music"
+      "Norwegian black metal"
     ],
     "answer": 3,
     "d": 3
@@ -3558,7 +3558,7 @@
       "\"Running with the Bulls\"",
       "\"My Boots\"",
       "\"New Kicks\"",
-      "\"Canvas Sneakers (full version)\""
+      "\"Canvas Sneakers\""
     ],
     "answer": 0,
     "d": 1
@@ -3567,7 +3567,7 @@
     "show": "Parks and Recreation",
     "q": "Which real-life politician from Indiana famously said, \"Parks and Recreation is the most accurate depiction of local government on television\"?",
     "options": [
-      "Mitch Daniels (senior associate)",
+      "Mitch Daniels",
       "Pete Buttigieg",
       "Mike Pence",
       "Dan Quayle"
@@ -3579,7 +3579,7 @@
     "show": "Parks and Recreation",
     "q": "What was the name of the final park completed on Lot 48, fulfilling Leslie's pilot episode promise?",
     "options": [
-      "Sullivan Green (senior associate)",
+      "Sullivan Green",
       "Knope Park",
       "Pawnee Commons",
       "Unity Park"

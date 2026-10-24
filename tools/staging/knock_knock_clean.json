@@ -28,7 +28,7 @@
     "q": "Knock, knock! / Who's there? / Boo! / Boo who?",
     "options": [
       "Are you scared of ghosts?",
-      "Boo who are you looking at before it gets completely dark outside?",
+      "Boo who are you looking at",
       "Don't cry, it's just a joke!",
       "Boo who wants ice cream?"
     ],
@@ -66,7 +66,7 @@
       "Harry haircut looks great!",
       "Harry up, we're going to be late!",
       "Harry monster in the closet!",
-      "Harry Potter and the wizard wand before the bright morning sun comes up!"
+      "Harry Potter and the wizard wand"
     ],
     "answer": 1,
     "d": 1
@@ -99,7 +99,7 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Annie! / Annie who?",
     "options": [
-      "Annie thing you can do, I can do better!",
+      "Annie thing you can do",
       "Annie reason you won't open the door?",
       "Annie time you need help, call me!",
       "Annie body home right now?"
@@ -137,7 +137,7 @@
     "options": [
       "Justin time for dinner!",
       "Justin another day at the office!",
-      "Justin Bieber on the radio and enjoy the wonderful sunny afternoon!",
+      "Justin Bieber on the radio",
       "Justin case you forgot your keys!"
     ],
     "answer": 3,
@@ -197,7 +197,7 @@
     "options": [
       "Iva headache from all this knocking!",
       "Iva got a bone to pick with you!",
-      "Iva sore throat and need medicine before the bright morning sun comes up!",
+      "Iva sore throat and need medicine",
       "Iva feeling we're not alone!"
     ],
     "answer": 0,
@@ -221,7 +221,7 @@
     "options": [
       "Howard the duck is funny!",
       "Howard you know it was me?",
-      "Howard you like to go to the movies?",
+      "Howard you",
       "Howard you do today, my friend?"
     ],
     "answer": 2,
@@ -269,7 +269,7 @@
     "options": [
       "Wendy wind blows, the leaves fall!",
       "Wendy sun rises, we wake up!",
-      "Wendy doorbell broke, I had to knock!",
+      "Wendy doorbell broke",
       "Wendy bell rings, class starts!"
     ],
     "answer": 2,
@@ -317,7 +317,7 @@
     "options": [
       "A herd of sheep on the hill!",
       "A herd of cows in the meadow!",
-      "A herd you were home, so I came over!",
+      "A herd you were home",
       "A herd you passed your test!"
     ],
     "answer": 2,
@@ -365,7 +365,7 @@
     "options": [
       "Police let me borrow five dollars!",
       "Police siren is very loud!",
-      "Police hurry up and unlock the door!",
+      "Police hurry up",
       "Police officer on patrol!"
     ],
     "answer": 2,
@@ -400,7 +400,7 @@
     "q": "Knock, knock! / Who's there? / Ida! / Ida who?",
     "options": [
       "Ida know what you are talking about!",
-      "Ida known you were coming, I'd have baked a cake!",
+      "Ida known you were coming",
       "Ida thought you were at work!",
       "Ida potato is baked nicely!"
     ],
@@ -435,7 +435,7 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Doris! / Doris who?",
     "options": [
-      "Doris locked, that's why I'm knocking!",
+      "Doris locked",
       "Doris beautiful in the garden!",
       "Doris swimming in the lake!",
       "Doris open, why are you knocking?"
@@ -460,7 +460,7 @@
     "q": "Knock, knock! / Who's there? / Snow! / Snow who?",
     "options": [
       "Snow falling all over the yard!",
-      "Snow business like show business while everyone in the room is watching!",
+      "Snow business like show business",
       "Snow use crying over spilled milk!",
       "Snow place like home!"
     ],
@@ -522,7 +522,7 @@
       "Leaf on the tree turned red!",
       "Leaf through the pages of a book!",
       "Leaf your shoes by the doorway!",
-      "Leaf me alone, I'm trying to sleep!"
+      "Leaf me alone"
     ],
     "answer": 3,
     "d": 1
@@ -544,7 +544,7 @@
     "q": "Knock, knock! / Who's there? / Theodore! / Theodore who?",
     "options": [
       "Theodore Roosevelt was president!",
-      "Theodore is locked, can you turn the key?",
+      "Theodore is locked",
       "Theodore won't open, please pull hard!",
       "Theodore smells like wet paint!"
     ],
@@ -579,7 +579,7 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Norma Lee! / Norma Lee who?",
     "options": [
-      "Norma Lee I have a key, but I lost it!",
+      "Norma Lee I have a key",
       "Norma Lee I don't talk to strangers!",
       "Norma Lee walks to school alone!",
       "Norma Lee doesn't knock, she rings!"
@@ -736,7 +736,7 @@
     "q": "Knock, knock! / Who's there? / Claire! / Claire who?",
     "options": [
       "Claire as a bell ringing loud!",
-      "Claire the way, I'm coming through!",
+      "Claire the way",
       "Claire skies and sunny days!",
       "Claire the table, dinner is done!"
     ],
@@ -749,7 +749,7 @@
     "options": [
       "Razor voice so everyone hears!",
       "Razor blade for shaving cleanly!",
-      "Razor hands in the air like you don't care!",
+      "Razor hands in the air",
       "Razor sharp wit and funny jokes!"
     ],
     "answer": 2,
@@ -915,7 +915,7 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Water! / Water who?",
     "options": [
-      "Water you waiting for, open up!",
+      "Water you waiting for",
       "Water running in the sink!",
       "Water bottle full of ice!",
       "Water you doing tonight?"
@@ -988,8 +988,8 @@
     "q": "Knock, knock! / Who's there? / Wooden shoe! / Wooden shoe who? (Party version)",
     "options": [
       "Wooden shoe dance to the beat?",
-      "Wooden shoe rather stay indoors before it gets completely dark outside?",
-      "Wooden shoe like to come to my party?",
+      "Wooden shoe rather stay indoors",
+      "Wooden shoe",
       "Wooden shoe bring the birthday cake?"
     ],
     "answer": 2,
@@ -1012,7 +1012,7 @@
     "q": "Knock, knock! / Who's there? / Don! / Don who? (Curiosity version)",
     "options": [
       "Don look behind you right now!",
-      "Don tell secrets in the dark before the bright morning sun comes up!",
+      "Don tell secrets in the dark",
       "Don make me wait any longer!",
       "Don ask me where I was!"
     ],
@@ -1038,7 +1038,7 @@
       "Ben calling your cell phone!",
       "Ben wondering when you'd show up!",
       "Ben waiting on this porch forever!",
-      "Ben knocked five times already and enjoy the wonderful sunny afternoon!"
+      "Ben knocked five times already"
     ],
     "answer": 2,
     "d": 1
@@ -1131,9 +1131,9 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Amos! / Amos who? (Insect version)",
     "options": [
-      "Amosquito just buzzed in my ear while everyone in the room is watching!",
+      "Amosquito just buzzed in my ear",
       "Amosquito got inside the tent!",
-      "Amosquito bite itches like crazy!",
+      "Amosquito bite itches",
       "Amosquito swarming by the pond!"
     ],
     "answer": 2,
@@ -1229,7 +1229,7 @@
     "options": [
       "Wendy storm passes, we can go!",
       "Wendy clouds clear, stars appear!",
-      "Wendy rain stops, we will play outside!",
+      "Wendy rain stops",
       "Wendy snow melts, flowers grow!"
     ],
     "answer": 2,
@@ -1408,7 +1408,7 @@
     "q": "Knock, knock! / Who's there? / Atch! / Atch who? (Greeting version)",
     "options": [
       "Atch another point in history!",
-      "Atch your service, my royal friend!",
+      "Atch your service",
       "Atch your convenience, stop by!",
       "Atch that moment the phone rang!"
     ],
@@ -1504,7 +1504,7 @@
     "q": "Knock, knock! / Who's there? / Ya! / Ya who? (Search engine version)",
     "options": [
       "Yahoo mail has three new messages!",
-      "I prefer Google, but Yahoo works too!",
+      "I prefer Google",
       "Yahoo is a classic web portal!",
       "Did you search that on Yahoo?"
     ],
@@ -1565,7 +1565,7 @@
     "options": [
       "Pasta marinara sauce across the table!",
       "Pasta meatballs over to my plate!",
-      "Pasta garlic bread to this side, please!",
+      "Pasta garlic bread to this side",
       "Pasta Parmesan cheese for the noodles!"
     ],
     "answer": 2,
@@ -1599,7 +1599,7 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Kenya! / Kenya who? (Door version)",
     "options": [
-      "Kenya open the garage for my car before it gets completely dark outside?",
+      "Kenya open the garage for my car",
       "Kenya unlock the backdoor right now?",
       "Kenya hold the front gate for me?",
       "Kenya turn the doorknob from inside?"
@@ -1671,10 +1671,10 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Interrupting cow! / Interru—",
     "options": [
-      "BAA! (Wrong barnyard animal!)",
-      "OINK! (Surprise, pig interruption!)",
-      "MOO! (Wait, let me finish!)",
-      "MOO! (I told you I was interrupting!)"
+      "BAA!",
+      "OINK!",
+      "CLUCK!",
+      "MOO!"
     ],
     "answer": 3,
     "d": 2
@@ -1708,7 +1708,7 @@
     "q": "Knock, knock! / Who's there? / A herd! / A herd who? (Celebration version)",
     "options": [
       "A herd you graduated with honors!",
-      "A herd the music concert was amazing before the bright morning sun comes up!",
+      "A herd the music concert was amazing",
       "A herd the team won the championship!",
       "A herd you scored the winning goal!"
     ],
@@ -1734,7 +1734,7 @@
       "Iva fantastic plan for the weekend!",
       "Iva schedule set for our road trip!",
       "Iva reservation at the bistro!",
-      "Iva ticket for the football game and enjoy the wonderful sunny afternoon!"
+      "Iva ticket for the football game"
     ],
     "answer": 0,
     "d": 2
@@ -1743,8 +1743,8 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Nobel! / Nobel who? (Doorbell version)",
     "options": [
-      "Nobel wire connected to the battery while everyone in the room is watching!",
-      "Nobel button to press, so I knocked!",
+      "Nobel wire connected to the battery",
+      "Nobel button to press",
       "Nobel on this ancient gate!",
       "Nobel chimes inside the hallway!"
     ],
@@ -1854,7 +1854,7 @@
       "Claire horizon across the ocean!",
       "Claire forecast for the coming week!",
       "Claire blue skies with gentle breezes!",
-      "Claire morning after the summer rain before the bright morning sun comes up!"
+      "Claire morning after the summer rain"
     ],
     "answer": 2,
     "d": 2
@@ -1900,8 +1900,8 @@
     "q": "Knock, knock! / Who's there? / Gladys! / Gladys who? (Weather version)",
     "options": [
       "Gladys a gentle wind blowing today!",
-      "Gladys not hailing on us right now and enjoy the wonderful sunny afternoon!",
-      "Gladys sunny after the dark thunderstorm!",
+      "Gladys not hailing on us right now",
+      "Gladys sunny",
       "Gladys warm enough for outdoor swimming!"
     ],
     "answer": 2,
@@ -1924,7 +1924,7 @@
     "q": "Knock, knock! / Who's there? / Hatch! / Hatch who? (Baby animal version)",
     "options": [
       "Hatch yellow chicks in the incubator!",
-      "Hatch baby birds in the forest nest while everyone in the room is watching!",
+      "Hatch baby birds in the forest nest",
       "Hatch tiny turtle eggs on the sand!",
       "Hatch fluffy ducklings by the pond!"
     ],
@@ -2139,7 +2139,7 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Sherwood! / Sherwood who? (Travel version)",
     "options": [
-      "Sherwood appreciate a trip to Hawaii before the bright morning sun comes up!",
+      "Sherwood appreciate a trip to Hawaii",
       "Sherwood be delighted to visit Paris!",
       "Sherwood love to travel across Italy!",
       "Sherwood enjoy a cruise to Alaska!"
@@ -2308,7 +2308,7 @@
     "q": "Knock, knock! / Who's there? / Alex! / Alex who? (Library version)",
     "options": [
       "Alex librarian helped locate the volume!",
-      "Alex encyclopedia shelved in section B before the bright morning sun comes up!",
+      "Alex encyclopedia shelved in section B",
       "Alex catalog system lists every title!",
       "Alex reading desk next to the window!"
     ],
@@ -2380,7 +2380,7 @@
     "q": "Knock, knock! / Who's there? / Butter! / Butter who? (Baking contest version)",
     "options": [
       "Butter glaze drizzled on cinnamon rolls!",
-      "Butter frosting whipped for layer cake and enjoy the wonderful sunny afternoon!",
+      "Butter frosting whipped for layer cake",
       "Butter crust rolled flaky for apple pie!",
       "Butter batter poured into muffin tins!"
     ],
@@ -2405,7 +2405,7 @@
     "options": [
       "Carmen soprano performed the famous aria!",
       "Carmen opera stage was richly decorated!",
-      "Carmen overture conducted by the maestro while everyone in the room is watching!",
+      "Carmen overture conducted by the maestro",
       "Carmen chorus sang with great harmony!"
     ],
     "answer": 0,
@@ -2619,9 +2619,9 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Justin! / Justin who? (Judge version)",
     "options": [
-      "Justin courtroom listens to arguments before the bright morning sun comes up!",
+      "Justin courtroom listens to arguments",
       "Justin verdict read by the head juror!",
-      "Justin court of law, justice prevails!",
+      "Justin court of law",
       "Justin gavel bangs upon oak bench!"
     ],
     "answer": 2,
@@ -2632,7 +2632,7 @@
     "q": "Knock, knock! / Who's there? / Kanga! / Kanga who? (Outback version)",
     "options": [
       "Kanga rests beneath eucalyptus shade!",
-      "Kanga joey peeks out of mother pouch and enjoy the wonderful sunny afternoon!",
+      "Kanga joey peeks out of mother pouch",
       "Kanga mob grazes on desert scrub!",
       "Kanga bounds across Australian plains!"
     ],
@@ -2693,7 +2693,7 @@
     "options": [
       "Luke through telescope at distant Saturn!",
       "Luke at constellation mapped on chart!",
-      "Luke through lenses at shining galaxies while everyone in the room is watching!",
+      "Luke through lenses at shining galaxies",
       "Luke into starry night sky with wonder!"
     ],
     "answer": 0,
@@ -2728,7 +2728,7 @@
     "q": "Knock, knock! / Who's there? / Needle! / Needle who? (Compass version)",
     "options": [
       "Needle magnetic spins inside compass!",
-      "Needle guides sailors across open sea and enjoy the wonderful sunny afternoon!",
+      "Needle guides sailors across open sea",
       "Needle dial aligns with latitude lines!",
       "Needle points steady toward true north!"
     ],
@@ -2751,7 +2751,7 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Norma Lee! / Norma Lee who? (Commute version)",
     "options": [
-      "Norma Lee arrives early to office desk while everyone in the room is watching!",
+      "Norma Lee arrives early to office desk",
       "Norma Lee catches the express downtown!",
       "Norma Lee sits in forward subway car!",
       "Norma Lee reads novel during commute!"
@@ -3004,7 +3004,7 @@
     "q": "Knock, knock! / Who's there? / Ya! / Ya who? (Ranch version)",
     "options": [
       "Yahoo, lasso tied to fence railing!",
-      "Yahoo, campfire crackles under starry sky before the bright morning sun comes up!",
+      "Yahoo, campfire crackles under starry sky",
       "Yahoo, roundup completed before nightfall!",
       "Yahoo, horses stabled in dry stalls!"
     ],
@@ -3042,7 +3042,7 @@
       "Alex pencils sharpened for drawing!",
       "Alex chalkboard erased between lessons!",
       "Alex textbooks stacked on wooden desks!",
-      "Alex world globe spun to locate Rome and enjoy the wonderful sunny afternoon!"
+      "Alex world globe spun to locate Rome"
     ],
     "answer": 1,
     "d": 3
@@ -3126,7 +3126,7 @@
       "Bacon sizzling on flat cast-iron grill!",
       "Bacon aromas drifting out diner doors!",
       "Bacon orders scribbled on ticket pads!",
-      "Bacon strips plated beside hash browns while everyone in the room is watching!"
+      "Bacon strips plated beside hash browns"
     ],
     "answer": 0,
     "d": 3
@@ -3172,7 +3172,7 @@
     "q": "Knock, knock! / Who's there? / Canoe! / Canoe who? (Creek version)",
     "options": [
       "Canoe glides silent past willow branches!",
-      "Canoe paddles splash calm crystal water before the bright morning sun comes up!",
+      "Canoe paddles splash calm crystal water",
       "Canoe rests safely on sandy gravel bank!",
       "Canoe tied secure to riverside willow!"
     ],
@@ -3196,7 +3196,7 @@
     "q": "Knock, knock! / Who's there? / Claire! / Claire who? (Morning version)",
     "options": [
       "Claire meadow breeze scented with pine!",
-      "Claire dew sparkling on spiderweb thread and enjoy the wonderful sunny afternoon!",
+      "Claire dew sparkling on spiderweb thread",
       "Claire morning sunlight streaming in panes!",
       "Claire rooster crowing across sleepy farm!"
     ],
@@ -3377,7 +3377,7 @@
     "options": [
       "Iva summit cairn marked the high trail!",
       "Iva granite trail winding up steep crag!",
-      "Iva mountain stream rushing over rocks while everyone in the room is watching!",
+      "Iva mountain stream rushing over rocks",
       "Iva eagle soaring over pine canyon!"
     ],
     "answer": 1,
@@ -3507,7 +3507,7 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Olive! / Olive who? (Sweetheart classic)",
     "options": [
-      "Olive you and I don't care who knows it!",
+      "Olive you and I don't care",
       "Olive pizza with mushrooms and cheese!",
       "Olive spending time at the beach!",
       "Olive watching movies on Friday night!"
@@ -3555,7 +3555,7 @@
     "show": "Knock-Knock Jokes",
     "q": "Knock, knock! / Who's there? / Wooden shoe! / Wooden shoe who? (Classic pun)",
     "options": [
-      "Wooden shoe like to hear another joke?",
+      "Wooden shoe",
       "Wooden shoe wear boots in the snow?",
       "Wooden shoe rather eat apple pie?",
       "Wooden shoe want to ride bicycles?"

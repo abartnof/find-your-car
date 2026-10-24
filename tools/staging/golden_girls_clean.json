@@ -88,7 +88,7 @@
     "q": "What accessory does Sophia Petrillo carry with her everywhere, even inside the house?",
     "options": [
       "A silver locket",
-      "A leather satchel with full pedigree papers",
+      "A leather satchel",
       "A beaded clutch",
       "A woven wicker purse"
     ],
@@ -149,7 +149,7 @@
     "options": [
       "Elizabeth",
       "Ann",
-      "Marie (official selection)",
+      "Marie",
       "Lee"
     ],
     "answer": 0,
@@ -222,7 +222,7 @@
       "Cod",
       "Trout",
       "Herring",
-      "Haddock (official selection)"
+      "Haddock"
     ],
     "answer": 2,
     "d": 1
@@ -256,7 +256,7 @@
     "q": "What physical feature of Stan Zbornak was a frequent target of Dorothy and Sophia's jokes?",
     "options": [
       "His fake glass eye",
-      "His baldness and terrible toupees",
+      "His baldness",
       "His oversized mustache",
       "His elevator shoes"
     ],
@@ -354,7 +354,7 @@
       "David",
       "Michael",
       "Tommy",
-      "Anthony (longtime friend)"
+      "Anthony"
     ],
     "answer": 1,
     "d": 2
@@ -591,7 +591,7 @@
     "show": "The Golden Girls",
     "q": "What St. Olaf competition involves tossing a heavy fish across a field for distance and accuracy?",
     "options": [
-      "The Flounder Fling with full pedigree papers",
+      "The Flounder Fling",
       "The Great Herring Toss",
       "The Salmon Slam",
       "The Cod Catapult"
@@ -628,7 +628,7 @@
     "q": "What is the name of the ruthless Sunshine Cadet scout who refuses to return Rose's teddy bear Fernando?",
     "options": [
       "Daisy",
-      "Amber (official selection)",
+      "Amber",
       "Chloe",
       "Megan"
     ],
@@ -640,7 +640,7 @@
     "q": "How does Dorothy get Rose's teddy bear back from Daisy the Sunshine Cadet?",
     "options": [
       "She pays the 50-dollar ransom demand",
-      "She snatches it out of Daisy's hands and kicks her out of the house",
+      "She snatches it out of Daisy's hands",
       "The Miami Herald society column editor",
       "She trades it for an autographed encyclopedia"
     ],
@@ -737,7 +737,7 @@
     "options": [
       "Foxy Loxy",
       "Goosey Loosey",
-      "Turkey Lurkey (senior associate)",
+      "Turkey Lurkey",
       "Ducky Lucky"
     ],
     "answer": 1,
@@ -1011,7 +1011,7 @@
     "show": "The Golden Girls",
     "q": "Why was the character of Coco the cook dropped after the pilot episode?",
     "options": [
-      "Sophia was promoted to a main character and took over the cooking role",
+      "Sophia was promoted to a main character",
       "The actor was cast in another series",
       "Test audiences complained about the kitchen size",
       "The network banned male roommate characters"
@@ -1168,7 +1168,7 @@
     "q": "What St. Olaf dish does Rose make that smells so putrid the other women refuse to let it in the kitchen?",
     "options": [
       "Boiled rutabaga pudding",
-      "Lefse with fermented herring and goat cheese",
+      "Lefse with fermented herring",
       "Pickled pig snouts",
       "Smoked cod gelatin"
     ],
@@ -1216,7 +1216,7 @@
     "q": "In 'High Anxiety', what substance has Rose been secretly addicted to for thirty years?",
     "options": [
       "Diet pills",
-      "Prescription pain pills and tranquilizers",
+      "Prescription pain pills",
       "Sleeping syrups",
       "Alcohol"
     ],
@@ -1287,7 +1287,7 @@
     "show": "The Golden Girls",
     "q": "In the Season 7 two-part murder mystery weekend episode 'The Case of the Libertine Belle', who is framed for real murder?",
     "options": [
-      "Dorothy (official selection)",
+      "Dorothy",
       "Rose",
       "Sophia",
       "Blanche"
@@ -1302,7 +1302,7 @@
       "Dorothy",
       "Rose",
       "Sophia",
-      "Blanche (official selection)"
+      "Blanche"
     ],
     "answer": 0,
     "d": 1
@@ -1338,7 +1338,7 @@
       "A missionary nurse from Africa",
       "A cloistered mother superior",
       "A parish choir director",
-      "A Catholic nun who took a vow of poverty"
+      "A Catholic nun"
     ],
     "answer": 3,
     "d": 1
@@ -1347,7 +1347,7 @@
     "show": "The Golden Girls",
     "q": "What valuable object does Sophia claim to have hidden in her wicker purse when mugged?",
     "options": [
-      "Her emergency cannoli and family rosary",
+      "Her emergency cannoli",
       "A solid gold crucifix",
       "A bearer bond from 1954",
       "A diamond engagement ring"
@@ -1371,7 +1371,7 @@
     "show": "The Golden Girls",
     "q": "What guard dog breed do the girls briefly adopt for home security after the robbery, only to find it completely docile?",
     "options": [
-      "A German Shepherd with full pedigree papers",
+      "A German Shepherd",
       "A Rottweiler",
       "A Doberman Pinscher",
       "A Bullmastiff"
@@ -1407,7 +1407,7 @@
     "show": "The Golden Girls",
     "q": "What local theater production is Patrick Vaughn starring in when the girls compete for the female lead?",
     "options": [
-      "A Streetcar Named Desire with full pedigree papers",
+      "A Streetcar Named Desire",
       "The Postman Always Rings Twice",
       "Cat on a Hot Tin Roof",
       "Death of a Salesman"
@@ -1434,7 +1434,7 @@
       "Rose losing her voice completely",
       "Sophia getting locked in the pantry",
       "All the house lights flickering",
-      "Dorothy's toothache and Blanche's unexplained spots"
+      "Dorothy's toothache"
     ],
     "answer": 3,
     "d": 3
@@ -1600,7 +1600,7 @@
     "q": "What bet did Dorothy and Blanche make on the outcome of their bowling match?",
     "options": [
       "The loser must pay a month of rent",
-      "The loser must wait on the winner hand and foot for a week",
+      "The loser must wait on the winner hand",
       "The loser must clean all the bathrooms",
       "The loser must dye her hair gray"
     ],
@@ -1696,7 +1696,7 @@
     "q": "In 'Family Affair' (Season 2), which two family members are caught in bed together, horrifying Dorothy and Blanche?",
     "options": [
       "Stan and Blanche's sister Virginia",
-      "Dorothy's son Michael and Blanche's daughter Bridget",
+      "Dorothy's son Michael",
       "Uncle Angelo and Aunt Angela",
       "Michael and Blanche's niece Lucy"
     ],
@@ -1731,7 +1731,7 @@
     "show": "The Golden Girls",
     "q": "In 'Whose Face Is This, Anyway?' (Season 6), what cosmetic procedure does Blanche consider undergoing?",
     "options": [
-      "Plastic surgery / a face-lift",
+      "Plastic surgery",
       "Liposuction",
       "Rhinoplasty",
       "Hair transplant"
@@ -1757,7 +1757,7 @@
     "options": [
       "A remote cabin in Alaska",
       "A desert town in New Mexico",
-      "A cheese farm in Pennsylvania / Amish country",
+      "A cheese farm in Pennsylvania",
       "A motel in North Dakota"
     ],
     "answer": 2,
@@ -1815,7 +1815,7 @@
     "show": "The Golden Girls",
     "q": "In 'The President's Coming! The President's Coming!' (Season 5), which U.S. President is scheduled to visit Miami and meet the girls?",
     "options": [
-      "Ronald Reagan (senior associate)",
+      "Ronald Reagan",
       "Bill Clinton",
       "Jimmy Carter",
       "George H.W. Bush"
@@ -1840,7 +1840,7 @@
     "q": "In 'The One That Got Away' (Season 4), Blanche is eager to reunite with Ham Lushbough, but is shocked to discover what?",
     "options": [
       "He has become a Catholic monk",
-      "He has gained enormous weight and let himself go",
+      "He has gained enormous weight",
       "He has gone completely deaf",
       "He has lost all his fortune"
     ],
@@ -1875,7 +1875,7 @@
     "show": "The Golden Girls",
     "q": "In 'The Days and Nights of Sophia Petrillo' (Season 4), what does Sophia actually do all day while the girls assume she is napping?",
     "options": [
-      "She volunteers at a hospital, shops for groceries, and plays in an orchestra",
+      "She volunteers at a hospital",
       "She goes to the dog track and places bets",
       "She visits her secret second apartment in Miami Beach",
       "She runs an illegal bingo game in the park"
@@ -1911,7 +1911,7 @@
     "show": "The Golden Girls",
     "q": "In 'Allies' (Season 5), Dorothy's student tries to bribe her with concert tickets for what rock band?",
     "options": [
-      "Led Zeppelin (senior associate)",
+      "Led Zeppelin",
       "The Who",
       "Aerosmith",
       "The Rolling Stones"
@@ -1949,7 +1949,7 @@
     "options": [
       "His antique pocket watch",
       "His plantation burial plot",
-      "Big Daddy's estate and personal possessions",
+      "Big Daddy's estate",
       "His prize-winning hunting rifle"
     ],
     "answer": 2,
@@ -1997,7 +1997,7 @@
     "options": [
       "His body is exhumed for a murder investigation",
       "His secret twin brother arrives to claim his estate",
-      "He appears at her front door, having faked his death for nine years",
+      "He appears at her front door",
       "His voice is heard through a psychic channeler"
     ],
     "answer": 2,
@@ -2093,7 +2093,7 @@
     "options": [
       "He makes her split the bill down to the penny",
       "He sneaks food out of restaurants in napkins",
-      "He uses expired coupons and takes her to budget buffets",
+      "He uses expired coupons",
       "He refuses to tip the waitstaff"
     ],
     "answer": 2,
@@ -2115,7 +2115,7 @@
     "show": "The Golden Girls",
     "q": "In 'The Commitments' (Season 7), who takes Dorothy on a date to a rock-and-roll concert?",
     "options": [
-      "A Beatles tribute band promoter named Frank",
+      "A Beatles tribute band promoter",
       "An aging motorcycle enthusiast",
       "A high school gym teacher",
       "A radio disk jockey"
@@ -2153,8 +2153,8 @@
     "options": [
       "An army captain named Steve",
       "A naval aviator named Brad",
-      "An air force pilot named Tom with full pedigree papers",
-      "A handsome marine named Bill"
+      "An air force pilot named Tom",
+      "A handsome marine"
     ],
     "answer": 3,
     "d": 3
@@ -2202,7 +2202,7 @@
       "She demands Kirsten repay Charlie's funeral expenses",
       "She threatens to have Kirsten banned from Florida",
       "She reveals Rose wrote Kirsten out of her will",
-      "She explains that the roommates are Rose's true daily family through thick and thin"
+      "She explains that the roommates are Rose's true daily family through thick"
     ],
     "answer": 3,
     "d": 2
@@ -2272,7 +2272,7 @@
     "q": "Why does Sophia decide not to move to Atlanta with Dorothy and Lucas at the end of the series finale?",
     "options": [
       "She hates the climate in Atlanta",
-      "She realizes Blanche and Rose still need her, and she wants Dorothy to have her own life",
+      "She realizes Blanche",
       "She realizes Blanche and Rose still depend on her daily company",
       "She decides to move back to Sicily with Angela"
     ],
@@ -2307,9 +2307,9 @@
     "show": "The Golden Girls",
     "q": "In Season 3's 'Three on a Couch', why do the four women see a professional psychologist together?",
     "options": [
-      "Nonstop bickering and household friction threaten to tear them apart",
+      "Nonstop bickering",
       "To get certified as foster parents",
-      "To prepare for a joint appearance on a television talk show once and for all",
+      "To prepare for a joint appearance on a television talk show",
       "Because Blanche believes the house is haunted"
     ],
     "answer": 0,
@@ -2321,7 +2321,7 @@
     "options": [
       "Dr. Freud",
       "Dr. Ashley",
-      "Dr. Miller (senior associate)",
+      "Dr. Miller",
       "Dr. Stone"
     ],
     "answer": 1,
@@ -2355,7 +2355,7 @@
     "show": "The Golden Girls",
     "q": "How does Blanche initially react to Rebecca's plan to have a baby via artificial insemination?",
     "options": [
-      "She is horrified and considers it scandalous and unnatural",
+      "She is horrified",
       "She offers to pay for the entire procedure",
       "She organizes a baby shower immediately",
       "She suggests adopting Dorothy's grandson instead"
@@ -2379,9 +2379,9 @@
     "show": "The Golden Girls",
     "q": "In 'The Audit' (Season 3), what agency investigates Dorothy and Stan's past joint finances?",
     "options": [
-      "The Florida Department of Revenue (extended broadcast detail)",
+      "The Florida Department of Revenue",
       "The FBI Fraud Bureau",
-      "The Internal Revenue Service (IRS)",
+      "The Internal Revenue Service",
       "The Miami Municipal Court"
     ],
     "answer": 2,
@@ -2394,7 +2394,7 @@
       "Tuition for a clown college in France",
       "Hairpiece maintenance fees as medical expenses",
       "Church tithes paid in lottery scratchers",
-      "Novelty gag gifts and an offshore pleasure yacht as business expenses"
+      "Novelty gag gifts"
     ],
     "answer": 3,
     "d": 3
@@ -2451,7 +2451,7 @@
     "show": "The Golden Girls",
     "q": "In the Season 2 episode 'Dorothy's Prized Pupil', what threat does Dorothy's gifted high school student Mario Sanchez face?",
     "options": [
-      "Deportation by the Immigration and Naturalization Service (INS)",
+      "Deportation by the Immigration",
       "Expulsion for cheating on a standardized test",
       "Losing his college baseball scholarship",
       "Arrest for grand theft auto"
@@ -2538,7 +2538,7 @@
       "Rose was mistakenly identified as a top Cold War diplomat",
       "Mikhail Gorbachev was a huge fan of St. Olaf herring",
       "Sophia forged Rose's signature on a diplomatic petition",
-      "A little girl wrote a letter to him and signed Rose's name, or Rose wrote a heartfelt letter about world peace"
+      "A little girl wrote a letter to him"
     ],
     "answer": 3,
     "d": 1
@@ -2560,7 +2560,7 @@
     "q": "In 'Mixed Blessings' (Season 3), what causes Dorothy anxiety about her son Michael's upcoming wedding to Lorraine?",
     "options": [
       "Lorraine is a high-stakes poker player in Las Vegas",
-      "Lorraine is an African-American woman who is considerably older than Michael",
+      "Lorraine is an African-American woman",
       "Michael plans to drop out of music school to join a carnival",
       "Lorraine's family refuses to allow traditional Italian food at the reception"
     ],
@@ -2595,7 +2595,7 @@
     "show": "The Golden Girls",
     "q": "In 'The President's Coming! The President's Coming!' (Season 5), who is assigned by the Secret Service to vet the girls and their home?",
     "options": [
-      "Secret Service agents who interrogate the girls and sweep the house",
+      "Secret Service agents",
       "Local Miami police detectives",
       "The mayor of Miami Beach",
       "A White House protocol officer"
@@ -2608,7 +2608,7 @@
     "q": "In 'The Monkey Show' Part 2, how does Dorothy discover that her sister Gloria slept with Stan?",
     "options": [
       "Sophia finds Gloria's earring in Stan's convertible",
-      "Stan confesses to Dorothy because he feels overwhelming guilt",
+      "Stan confesses to Dorothy",
       "Blanche spots them kissing at the marina",
       "Gloria brags about it at dinner to spite Dorothy"
     ],
@@ -2692,7 +2692,7 @@
     "q": "What is the title of the iconic theme song for 'The Golden Girls'?",
     "options": [
       "Thank You for Being a Friend",
-      "As Long as We Got Each Other (theme from Growing Pains)",
+      "As Long as We Got Each Other",
       "Forever Friends",
       "Through the Years with You"
     ],
@@ -2727,7 +2727,7 @@
     "show": "The Golden Girls",
     "q": "In what year did 'The Golden Girls' premiere on NBC?",
     "options": [
-      "The calendar year 1983",
+      "1983",
       "1987",
       "1989",
       "1985"
@@ -2740,7 +2740,7 @@
     "q": "In what year did the original series of 'The Golden Girls' conclude its final broadcast season?",
     "options": [
       "1992",
-      "Season 1990 (original broadcast)",
+      "1990",
       "1994",
       "1995"
     ],
@@ -2753,7 +2753,7 @@
     "options": [
       "Six",
       "Seven full broadcast seasons on NBC",
-      "Eight (official selection)",
+      "Eight",
       "Nine"
     ],
     "answer": 1,
@@ -2763,7 +2763,7 @@
     "show": "The Golden Girls",
     "q": "How many total half-hour episodes of 'The Golden Girls' aired across its seven seasons?",
     "options": [
-      "A total of 154 episodes overall",
+      "154 episodes overall",
       "204 episodes",
       "180 episodes",
       "222 episodes"
@@ -2775,7 +2775,7 @@
     "show": "The Golden Girls",
     "q": "Which legendary television production company produced 'The Golden Girls'?",
     "options": [
-      "Carsey-Werner Productions (senior associate)",
+      "Carsey-Werner Productions",
       "Tandem Productions",
       "MTM Enterprises",
       "Witt/Thomas/Harris Productions"
@@ -2800,7 +2800,7 @@
     "q": "Which studio's television division co-produced and distributed 'The Golden Girls'?",
     "options": [
       "Paramount Television",
-      "Touchstone Television (Walt Disney Studios)",
+      "Touchstone Television",
       "Warner Bros. Television",
       "Columbia Pictures Television"
     ],
@@ -2886,7 +2886,7 @@
       "Outstanding Supporting Actress in a Comedy Series",
       "Outstanding Lead Actress in a Comedy Series",
       "Outstanding Guest Actress in a Comedy Series",
-      "Outstanding Supporting Actress in a Miniseries with full pedigree papers"
+      "Outstanding Supporting Actress in a Miniseries"
     ],
     "answer": 0,
     "d": 2
@@ -2895,10 +2895,10 @@
     "show": "The Golden Girls",
     "q": "How many times did 'The Golden Girls' win the Primetime Emmy Award for Outstanding Comedy Series?",
     "options": [
-      "One time (1986)",
-      "Two times (1986 and 1987)",
-      "Three times (1986, 1987, 1988)",
-      "Four times (1986-1989)"
+      "One time",
+      "Two times",
+      "Three times",
+      "Four times"
     ],
     "answer": 1,
     "d": 2
@@ -2907,10 +2907,10 @@
     "show": "The Golden Girls",
     "q": "How many times did 'The Golden Girls' win the Golden Globe Award for Best Television Series – Musical or Comedy?",
     "options": [
-      "One time (1986)",
-      "Two times (1986, 1987)",
-      "Three consecutive times (1986, 1987, 1988)",
-      "Five consecutive times (1986-1990, full cut)"
+      "One time",
+      "Two times",
+      "Three consecutive times",
+      "Five consecutive times"
     ],
     "answer": 2,
     "d": 2
@@ -3003,10 +3003,10 @@
     "show": "The Golden Girls",
     "q": "What was the highest Nielsen year-end ranking achieved by 'The Golden Girls' during its run?",
     "options": [
-      "Number 1 (Season 3, full cut)",
-      "Number 2 (Season 4)",
-      "Number 5 (Seasons 2 and 3)",
-      "Number 8 (Season 1)"
+      "Number 1",
+      "Number 2",
+      "Number 5",
+      "Number 8"
     ],
     "answer": 2,
     "d": 3
@@ -3017,7 +3017,7 @@
     "options": [
       "Miami Nights",
       "Golden Years",
-      "Retirement Living (senior associate)",
+      "Retirement Living",
       "The Golden Palace"
     ],
     "answer": 3,
@@ -3075,10 +3075,10 @@
     "show": "The Golden Girls",
     "q": "How many seasons did the spin-off 'The Golden Palace' last before being canceled?",
     "options": [
-      "One season (24 episodes)",
+      "One season",
       "Two seasons",
       "Three seasons",
-      "Half a season (13 episodes)"
+      "Half a season"
     ],
     "answer": 0,
     "d": 2
@@ -3245,7 +3245,7 @@
     "options": [
       "Seven nominations",
       "Five nominations",
-      "Three nominations with full pedigree papers",
+      "Three nominations",
       "Nine nominations"
     ],
     "answer": 0,
@@ -3279,10 +3279,10 @@
     "show": "The Golden Girls",
     "q": "In which season of 'The Golden Girls' did both Bea Arthur and Estelle Getty win their respective Emmy Awards on the same night?",
     "options": [
-      "Season 1 (1986, full cut)",
-      "Season 3 (1988)",
-      "Season 2 (1987)",
-      "Season 4 (1989)"
+      "Season 1",
+      "Season 3",
+      "Season 2",
+      "Season 4"
     ],
     "answer": 1,
     "d": 2
@@ -3293,7 +3293,7 @@
     "options": [
       "All four competed in the Lead Actress category every year",
       "All four competed in the Supporting Actress category every year",
-      "Bea Arthur, Betty White, and Rue McClanahan competed in Lead Actress, while Estelle Getty competed in Supporting Actress",
+      "Bea Arthur, Betty White,",
       "They rotated who entered the Lead category each season"
     ],
     "answer": 2,
@@ -3315,7 +3315,7 @@
     "show": "The Golden Girls",
     "q": "What 1984 NBC preview special featured a comedy sketch with Selma Diamond and Doris Roberts that inspired the concept for 'The Golden Girls'?",
     "options": [
-      "Miami Nice (a parody of Miami Vice)",
+      "Miami Nice",
       "Golden Seniors",
       "Old Wives' Tales",
       "Autumn Leaves"
@@ -3341,7 +3341,7 @@
     "options": [
       "She was offered a multi-million-dollar movie contract in Hollywood",
       "She had a severe falling out with the studio executives over syndication",
-      "She felt the show had reached its creative peak and wanted to leave while still on top",
+      "She felt the show had reached its creative peak",
       "She decided to retire from acting entirely"
     ],
     "answer": 2,
@@ -3376,7 +3376,7 @@
     "q": "Why did the kitchen set of 'The Golden Girls' feature only three chairs around the round kitchen table?",
     "options": [
       "The fourth chair was broken during the pilot taping and never replaced",
-      "To leave the camera-facing side completely open for clean sightlines and multi-camera blocking",
+      "To leave the camera-facing side completely open for clean sightlines",
       "Because Sophia always preferred to stand while serving food",
       "The kitchen set was physically too small to accommodate a fourth chair"
     ],
@@ -3388,7 +3388,7 @@
     "q": "What cable network purchased the exclusive off-network syndication rights for 'The Golden Girls' in the late 1990s, driving a major resurgence in popularity?",
     "options": [
       "USA Network",
-      "TBS Superstation with full pedigree papers",
+      "TBS Superstation",
       "Lifetime Television",
       "Nick at Nite"
     ],
@@ -3438,7 +3438,7 @@
       "227",
       "Amen",
       "Empty Nest",
-      "Dear John (senior associate)"
+      "Dear John"
     ],
     "answer": 2,
     "d": 2
@@ -3498,7 +3498,7 @@
       "Schumacher",
       "Laura Ashley",
       "Cole & Son",
-      "CW Stockwell (the 'Martinique' pattern)"
+      "CW Stockwell"
     ],
     "answer": 3,
     "d": 3
@@ -3546,7 +3546,7 @@
       "A mansion on Ocean Drive in South Beach, Miami",
       "A house on Palm Way in Coral Gables",
       "A home on Sunset Boulevard in Beverly Hills",
-      "A private residence on North Saltair Avenue in Brentwood, Los Angeles"
+      "A private residence on North Saltair Avenue in Brentwood"
     ],
     "answer": 3,
     "d": 3
@@ -3555,7 +3555,7 @@
     "show": "The Golden Girls",
     "q": "What theme park featured a replica of the exterior Golden Girls house on its residential street tour until 2003?",
     "options": [
-      "Disney-MGM Studios (now Disney's Hollywood Studios) in Florida",
+      "Disney-MGM Studios in Florida",
       "Universal Studios Florida",
       "Paramount's Kings Island",
       "Six Flags Great Adventure"
@@ -3579,7 +3579,7 @@
     "show": "The Golden Girls",
     "q": "In what year was the Golden Girls house facade on Residential Street at Disney's Hollywood Studios torn down?",
     "options": [
-      "The calendar year 1995",
+      "1995",
       "1999",
       "2003",
       "2012"
@@ -3592,7 +3592,7 @@
     "q": "Which television rating classification was commonly assigned to 'The Golden Girls' during its broadcast runs for adult humor and sexual innuendo?",
     "options": [
       "TV-G",
-      "TV-14 with full pedigree papers",
+      "TV-14",
       "TV-MA",
       "TV-PG"
     ],
@@ -3603,7 +3603,7 @@
     "show": "The Golden Girls",
     "q": "What personal medical experience inspired creator Susan Harris to write Dorothy's battle with Chronic Fatigue Syndrome in 'Sick and Tired'?",
     "options": [
-      "Susan Harris suffered from the illness and was dismissed and misdiagnosed by numerous doctors",
+      "Susan Harris suffered from the illness",
       "Susan Harris had a sister who contracted malaria in Africa",
       "Susan Harris suffered from mononucleosis while in college",
       "Susan Harris broke her back during a horseback riding accident"
@@ -3642,7 +3642,7 @@
       "Interracial adoption of infants",
       "Divorce in the Catholic Church",
       "Living with physical paraplegia",
-      "Lesbian sexual orientation and coming out"
+      "Lesbian sexual orientation"
     ],
     "answer": 3,
     "d": 1
@@ -3725,7 +3725,7 @@
     "options": [
       "Racial discrimination against African-American dining guests",
       "Ageism against senior citizens",
-      "Anti-Semitism against Sophia and Jewish country club members",
+      "Anti-Semitism against Sophia",
       "Snobbery against non-college graduates"
     ],
     "answer": 2,
@@ -3797,7 +3797,7 @@
     "options": [
       "19 nominations",
       "8 nominations",
-      "A total of 12 nominations overall",
+      "12 nominations overall",
       "28 nominations"
     ],
     "answer": 0,
@@ -3808,9 +3808,9 @@
     "q": "Which of the four Golden Girls was the only one to win a Golden Globe Award for Best Actress in a Comedy for her role on the show?",
     "options": [
       "Bea Arthur",
-      "Estelle Getty (1986)",
+      "Estelle Getty",
       "Betty White",
-      "Rue McClanahan (original broadcast run)"
+      "Rue McClanahan"
     ],
     "answer": 1,
     "d": 1
@@ -3819,7 +3819,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Estelle Getty tie with Cybill Shepherd for the Golden Globe for Best Actress in a Television Series - Musical or Comedy?",
     "options": [
-      "The calendar year 1988",
+      "1988",
       "1990",
       "1986",
       "1992"
@@ -3856,7 +3856,7 @@
     "q": "What major American television network attempted to create a remake or companion project titled 'Golden Girls' in numerous foreign markets?",
     "options": [
       "CBS Paramount International",
-      "Touchstone / Disney Television International",
+      "Touchstone",
       "Sony Pictures International",
       "Universal Television Worldwide"
     ],
@@ -3882,7 +3882,7 @@
       "Rita Moreno had scheduling conflicts with a Broadway show",
       "NBC wanted the show set in New York instead of Miami",
       "The producers ran out of financing for the original concept",
-      "Test audiences disliked the original characters, so Susan Harris rewrote it around pediatrician Dr. Harry Weston and his daughters"
+      "Test audiences disliked the original characters"
     ],
     "answer": 3,
     "d": 3
@@ -3952,7 +3952,7 @@
     "q": "In fact, Sophia Petrillo became a permanent regular cast member on which spin-off series in 1993 after 'The Golden Palace' was cancelled?",
     "options": [
       "Nurses",
-      "Empty Nest (for its final two seasons)",
+      "Empty Nest",
       "Blossom",
       "Wings"
     ],
@@ -3965,7 +3965,7 @@
     "options": [
       "Two series",
       "Three series",
-      "Five series (The Golden Girls, The Golden Palace, Empty Nest, Nurses, and Blossom)",
+      "Five series",
       "Seven series"
     ],
     "answer": 2,
@@ -3989,7 +3989,7 @@
     "options": [
       "11 Emmy Awards",
       "5 Emmy Awards",
-      "22 Emmy Awards with full pedigree papers",
+      "22 Emmy Awards",
       "35 Emmy Awards"
     ],
     "answer": 0,
@@ -3999,7 +3999,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Rue McClanahan receive her Primetime Emmy for Outstanding Lead Actress?",
     "options": [
-      "The calendar year 1985",
+      "1985",
       "1987",
       "1989",
       "1991"
@@ -4011,7 +4011,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Bea Arthur receive her Primetime Emmy for Outstanding Lead Actress?",
     "options": [
-      "The calendar year 1986",
+      "1986",
       "1987",
       "1988",
       "1990"
@@ -4023,7 +4023,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Betty White receive her Primetime Emmy for Outstanding Lead Actress?",
     "options": [
-      "The calendar year 1987",
+      "1987",
       "1988",
       "1992",
       "1986"
@@ -4049,7 +4049,7 @@
     "options": [
       "Outstanding Lead Actress in a Comedy Series",
       "Outstanding Supporting Actress in a Comedy Series",
-      "Outstanding Guest Actress in a Comedy Series with full pedigree papers",
+      "Outstanding Guest Actress in a Comedy Series",
       "Outstanding Variety Performer"
     ],
     "answer": 1,
@@ -4074,7 +4074,7 @@
       "James Burrows",
       "Gene Saks",
       "Peter Bonerz",
-      "Jay Sandrich (and Jim Drake)"
+      "Jay Sandrich"
     ],
     "answer": 3,
     "d": 3
@@ -4083,7 +4083,7 @@
     "show": "The Golden Girls",
     "q": "What was the name of the soundstage complex where 'The Golden Girls' was filmed in front of live studio audiences in Los Angeles?",
     "options": [
-      "Sunset Gower Studios (formerly Columbia Pictures Studios)",
+      "Sunset Gower Studios",
       "Universal City Studios",
       "Warner Bros. Studios Burbank",
       "Paramount Studios Hollywood"
@@ -4109,7 +4109,7 @@
     "options": [
       "They featured cartoon caricatures of the characters",
       "They showed the Miami skyline with no cast members",
-      "They featured clips of the women laughing, hugging, and interacting rather than formal posed portraits",
+      "They featured clips of the women laughing",
       "They were filmed on location on Miami Beach every season"
     ],
     "answer": 2,
@@ -4157,7 +4157,7 @@
     "options": [
       "The four women eating cheesecake at the kitchen table",
       "Blanche hanging a new roommate advertisement at the supermarket",
-      "Rose, Blanche, and Sophia sobbing in an embrace in the living room after Dorothy exits",
+      "Rose, Blanche,",
       "Sophia packing her wicker purse and heading for the bus"
     ],
     "answer": 2,
@@ -4205,7 +4205,7 @@
     "options": [
       "A switchblade knife",
       "A live grenade",
-      "A gun, which turns out to be a toy gun or loaded with blanks",
+      "A gun, which turns out to be a toy gun",
       "A stick of dynamite"
     ],
     "answer": 2,
@@ -4227,7 +4227,7 @@
     "show": "The Golden Girls",
     "q": "Why did the Peabody Board specifically commend 'The Golden Girls' in its 1986 citation?",
     "options": [
-      "For dealing with mature women and senior citizen issues with wit, intelligence, and dignity",
+      "For dealing with mature women",
       "For achieving record-breaking advertising revenue on Saturday nights",
       "For pioneering the use of digital multi-camera editing",
       "For filming on location throughout Florida communities"
@@ -4239,7 +4239,7 @@
     "show": "The Golden Girls",
     "q": "What was the primary syndication distributor that sold 'The Golden Girls' into broadcast reruns?",
     "options": [
-      "King World Productions with full pedigree papers",
+      "King World Productions",
       "Buena Vista Television",
       "Viacom Enterprises",
       "Tribune Entertainment"
@@ -4263,7 +4263,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Betty White host 'Saturday Night Live' following a massive viral Facebook campaign, referencing 'The Golden Girls'?",
     "options": [
-      "The calendar year 2005",
+      "2005",
       "2015",
       "2020",
       "2010"
@@ -4324,7 +4324,7 @@
     "q": "In what year did Bea Arthur and Rue McClanahan reunite on television to guest-star on the sitcom 'Empty Nest'?",
     "options": [
       "1989 and 1991",
-      "The calendar year 1985",
+      "1985",
       "1995",
       "1998"
     ],
@@ -4407,7 +4407,7 @@
     "show": "The Golden Girls",
     "q": "In what year did 'The Golden Girls' celebrate its 30th broadcast anniversary with widespread retrospective coverage?",
     "options": [
-      "The calendar year 2010",
+      "2010",
       "2020",
       "2005",
       "2015"
@@ -4445,7 +4445,7 @@
     "options": [
       "Bea Arthur was originally cast as Sophia and Estelle Getty as Dorothy",
       "Rue McClanahan was originally cast as Dorothy and Bea Arthur as Blanche",
-      "Betty White was initially slated for Blanche and Rue McClanahan for Rose, but they switched roles",
+      "Betty White was initially slated for Blanche",
       "Betty White was originally cast as Sophia and Estelle Getty as Rose"
     ],
     "answer": 2,
@@ -4467,7 +4467,7 @@
     "show": "The Golden Girls",
     "q": "Why was director Jay Sandrich concerned about casting Betty White as Blanche and Rue McClanahan as Rose?",
     "options": [
-      "Betty had already played a vixen on 'Mary Tyler Moore' and Rue had played a naive scatterbrain on 'Maude'",
+      "Betty had already played a vixen on 'Mary Tyler Moore'",
       "Both actresses had accents that didn't fit the original script",
       "Betty White refused to play a character who dated younger men",
       "Rue McClanahan wanted to play a tough Sicilian mother instead"
@@ -4480,7 +4480,7 @@
     "q": "What surprising real-life age relationship existed between Estelle Getty (Sophia) and Bea Arthur (Dorothy)?",
     "options": [
       "Estelle Getty was twenty years older than Bea Arthur",
-      "Estelle Getty was actually one year and two months younger than Bea Arthur",
+      "Estelle Getty was actually one year",
       "Estelle Getty and Bea Arthur were actually twin sisters in real life",
       "Estelle Getty was ten years older than Bea Arthur"
     ],
@@ -4491,7 +4491,7 @@
     "show": "The Golden Girls",
     "q": "What was Estelle Getty's exact birth year compared to Bea Arthur's birth year of 1922?",
     "options": [
-      "The calendar year 1910",
+      "1910",
       "1915",
       "1923",
       "1932"
@@ -4506,7 +4506,7 @@
       "Over four hours of full prosthetic body casting",
       "Ten minutes with just a dusting of baby powder",
       "Two full hours with silicone facial appliances",
-      "Roughly 45 to 60 minutes applying aging latex, wrinkles, and a gray wig"
+      "Roughly 45 to 60 minutes applying aging latex"
     ],
     "answer": 3,
     "d": 2
@@ -4515,7 +4515,7 @@
     "show": "The Golden Girls",
     "q": "What psychological challenge did Estelle Getty famously suffer from throughout her entire time on 'The Golden Girls'?",
     "options": [
-      "Severe stage fright and anxiety about forgetting her lines in front of the live audience",
+      "Severe stage fright",
       "Agoraphobia that prevented her from leaving her dressing room",
       "Claustrophobia on the small kitchen soundstage",
       "Severe depression due to her character's dowdy wardrobe"
@@ -4528,7 +4528,7 @@
     "q": "What footwear quirk was Bea Arthur known for on the set of 'The Golden Girls'?",
     "options": [
       "She insisted on wearing custom 6-inch stiletto heels in every scene",
-      "She despised wearing shoes and walked around barefoot whenever cameras didn't show her feet",
+      "She despised wearing shoes",
       "She wore roller skates behind the kitchen counter",
       "She refused to wear anything other than orthopedic bowling shoes"
     ],
@@ -4563,10 +4563,10 @@
     "show": "The Golden Girls",
     "q": "How tall was Bea Arthur, giving her an imposing and commanding physical presence on stage?",
     "options": [
-      "5 feet 10 inches (178 cm)",
-      "5 feet 4 inches (163 cm, full cut)",
-      "6 feet 2 inches (188 cm)",
-      "5 feet 6 inches (168 cm)"
+      "5 feet 10 inches",
+      "5 feet 4 inches",
+      "6 feet 2 inches",
+      "5 feet 6 inches"
     ],
     "answer": 0,
     "d": 2
@@ -4575,7 +4575,7 @@
     "show": "The Golden Girls",
     "q": "What branch of the United States military did Bea Arthur serve in during World War II before pursuing acting?",
     "options": [
-      "The Women's Army Corps (WAC)",
+      "The Women's Army Corps",
       "The United States Marine Corps Women's Reserve",
       "The Navy WAVES",
       "The Coast Guard SPARS"
@@ -4650,7 +4650,7 @@
       "Fewer than 10 pieces",
       "Around 25 pieces",
       "Only her wedding dresses",
-      "Hundreds of custom dresses, robes, and suits (over 500 pieces)"
+      "Hundreds of custom dresses"
     ],
     "answer": 3,
     "d": 3
@@ -4659,7 +4659,7 @@
     "show": "The Golden Girls",
     "q": "What was Betty White's lifelong philanthropic passion outside of show business?",
     "options": [
-      "Animal health, welfare, and wildlife conservation",
+      "Animal health",
       "Classical opera restoration",
       "Youth tennis academy coaching",
       "Historic lighthouse preservation"
@@ -4672,7 +4672,7 @@
     "q": "What prestigious animal organization did Betty White serve on the board of trustees for over four decades?",
     "options": [
       "The World Wildlife Fund International",
-      "The Morris Animal Foundation and the Greater Los Angeles Zoo Association",
+      "The Morris Animal Foundation",
       "The American Humane Association",
       "PETA"
     ],
@@ -4708,7 +4708,7 @@
     "q": "In what year did Allen Ludden pass away from stomach cancer, just four years before Betty White was cast in 'The Golden Girls'?",
     "options": [
       "1981",
-      "The calendar year 1975",
+      "1975",
       "1985",
       "1990"
     ],
@@ -4791,7 +4791,7 @@
     "show": "The Golden Girls",
     "q": "Which of the four Golden Girls was the youngest in real life, born in 1934?",
     "options": [
-      "Estelle Getty (senior associate)",
+      "Estelle Getty",
       "Bea Arthur",
       "Betty White",
       "Rue McClanahan"
@@ -4851,7 +4851,7 @@
     "show": "The Golden Girls",
     "q": "What did the Queen Mother tell the cast during the post-show receiving line at the London Palladium?",
     "options": [
-      "She told them she watched the show religiously and found them utterly delightful",
+      "She told them she watched the show religiously",
       "She asked them to film an episode at Windsor Castle",
       "She questioned why they ate so much cheesecake",
       "She invited Betty White to care for her royal corgis"
@@ -4865,7 +4865,7 @@
     "options": [
       "Brad Pitt",
       "George Clooney",
-      "Johnny Depp with full pedigree papers",
+      "Johnny Depp",
       "Tom Cruise"
     ],
     "answer": 1,
@@ -4875,7 +4875,7 @@
     "show": "The Golden Girls",
     "q": "How old was George Clooney approximately when he appeared as Officer Bobby Hopkins on 'The Golden Girls' in 1987?",
     "options": [
-      "19 years old at the time of filming",
+      "19 years old",
       "33 years old",
       "26 years old",
       "38 years old"
@@ -4899,7 +4899,7 @@
     "show": "The Golden Girls",
     "q": "How did Quentin Tarantino's small cameo on 'The Golden Girls' critically impact his early filmmaking career?",
     "options": [
-      "The SAG residual checks paid his living expenses while he wrote and pre-produced 'Reservoir Dogs'",
+      "The SAG residual checks paid his living expenses while he wrote",
       "It introduced him to Harvey Keitel who was visiting the set",
       "It funded the camera rental for his debut short film",
       "It earned him an audition for 'Pulp Fiction'"
@@ -5079,7 +5079,7 @@
     "show": "The Golden Girls",
     "q": "Which 'Carol Burnett Show' regular appeared alongside Sonny Bono in Blanche's dream as a rival suitor?",
     "options": [
-      "Harvey Korman (senior associate)",
+      "Harvey Korman",
       "Tim Conway",
       "Dick Van Dyke",
       "Lyle Waggoner"
@@ -5344,7 +5344,7 @@
     "q": "What major acting honor had Scott Jacoby (Michael Zbornak) won before appearing on 'The Golden Girls'?",
     "options": [
       "A Tony Award for Best Actor",
-      "A Primetime Emmy Award for Outstanding Supporting Actor (for 'That Certain Summer')",
+      "A Primetime Emmy Award for Outstanding Supporting Actor",
       "An Academy Award for Best Supporting Actor",
       "A Golden Globe Award"
     ],
@@ -5370,7 +5370,7 @@
       "Betty White constantly rewrote the scripts without telling the other actresses",
       "Bea Arthur refused to share dressing room hallways with Betty",
       "Betty White demanded top billing over Bea in the opening titles",
-      "Bea was an introspective stage actress who valued quiet focus, while Betty was cheerful, chatty, and played with the audience"
+      "Bea was an introspective stage actress who valued quiet focus"
     ],
     "answer": 3,
     "d": 1
@@ -5415,7 +5415,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Estelle Getty pass away at the age of 84?",
     "options": [
-      "The calendar year 2005",
+      "2005",
       "2010",
       "2012",
       "2008"
@@ -5429,7 +5429,7 @@
     "options": [
       "Lewy body dementia",
       "Multiple sclerosis",
-      "Amyotrophic lateral sclerosis (ALS)",
+      "Amyotrophic lateral sclerosis",
       "Huntington's disease"
     ],
     "answer": 0,
@@ -5439,7 +5439,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Bea Arthur pass away from cancer at the age of 86?",
     "options": [
-      "The calendar year 2006",
+      "2006",
       "2009",
       "2011",
       "2013"
@@ -5476,7 +5476,7 @@
     "q": "In what year did Rue McClanahan pass away from a brain hemorrhage at the age of 76?",
     "options": [
       "2010",
-      "The calendar year 2008",
+      "2008",
       "2012",
       "2014"
     ],
@@ -5489,7 +5489,7 @@
     "options": [
       "January 17, 2022",
       "December 31, 2021",
-      "November 28, 2021 (Thanksgiving weekend)",
+      "November 28, 2021",
       "February 14, 2022"
     ],
     "answer": 1,
@@ -5562,7 +5562,7 @@
       "Hasbro Action Heroes",
       "Mattel Barbie Collector",
       "McFarlane Toys",
-      "Funko (Pop! Vinyl)"
+      "Funko"
     ],
     "answer": 3,
     "d": 2
@@ -5597,7 +5597,7 @@
     "options": [
       "Who stole Sophia's wicker purse",
       "Who dented Stan's car in the driveway",
-      "Who ate the last piece of cheesecake, with what weapon, and in what room",
+      "Who ate the last piece of cheesecake",
       "Who tore Blanche's palm wallpaper"
     ],
     "answer": 2,
@@ -5658,7 +5658,7 @@
       "She had retired from acting to live permanently in England",
       "She refused to work in comedy after winning a Tony for drama",
       "She wanted to play Blanche Devereaux instead",
-      "She worried the show would feel like an uninspired retread of 'Maude'"
+      "She worried the show would feel"
     ],
     "answer": 3,
     "d": 2
@@ -5691,7 +5691,7 @@
     "show": "The Golden Girls",
     "q": "In what year did Elaine Stritch recount her disastrous Golden Girls audition in her one-woman Broadway show 'Elaine Stritch at Liberty'?",
     "options": [
-      "The calendar year 1995",
+      "1995",
       "2010",
       "2002",
       "1988"
@@ -5706,7 +5706,7 @@
       "She walked out after three minutes saying the script was terrible",
       "She showed up two hours late smelling of gin",
       "She refused to read opposite Estelle Getty",
-      "She used vulgar expletives when improvising dialogue after her joke didn't land"
+      "She used vulgar expletives when improvising dialogue"
     ],
     "answer": 3,
     "d": 3
@@ -5715,7 +5715,7 @@
     "show": "The Golden Girls",
     "q": "What did Estelle Getty wear to her final audition for Sophia to convince producers she could look like an 80-year-old woman?",
     "options": [
-      "An oversized dowdy thrift-store dress, sensible orthotics, and unstyled graying hair",
+      "An oversized dowdy thrift-store dress",
       "A black Sicilian mourning veil and a cane",
       "Prosthetic latex wrinkles she bought at a costume shop",
       "A nurse's uniform from a retirement home"
@@ -5763,10 +5763,10 @@
     "show": "The Golden Girls",
     "q": "In which New York borough was Estelle Getty born to Polish-Jewish immigrant parents?",
     "options": [
-      "Manhattan (Lower East Side)",
-      "Brooklyn (Flatbush, full cut)",
+      "Manhattan",
+      "Brooklyn",
       "The Bronx",
-      "Queens (Astoria)"
+      "Queens"
     ],
     "answer": 0,
     "d": 3
@@ -5799,10 +5799,10 @@
     "show": "The Golden Girls",
     "q": "What Guinness World Record did Betty White earn in 2014 for her entertainment career?",
     "options": [
-      "Most television guest appearances in history (extended broadcast detail)",
+      "Most television guest appearances in history",
       "Oldest person to win an Emmy Award",
       "Most game show appearances by a celebrity",
-      "Longest TV career by an entertainer (female)"
+      "Longest TV career by an entertainer"
     ],
     "answer": 3,
     "d": 1
@@ -5811,7 +5811,7 @@
     "show": "The Golden Girls",
     "q": "How many total decades did Betty White's television broadcasting career span before her death in 2021?",
     "options": [
-      "Over eight decades (starting in 1939)",
+      "Over eight decades",
       "Four decades",
       "Six decades",
       "Ten decades"
@@ -5920,7 +5920,7 @@
     "q": "In what branch of wartime clinical medicine was Bea Arthur certified during the 1940s?",
     "options": [
       "Surgical dental hygienist",
-      "Medical technician specializing in blood and clinical lab work",
+      "Medical technician specializing in blood",
       "Radiological technician",
       "Physical therapy nurse"
     ],
@@ -5932,7 +5932,7 @@
     "q": "What game show host did Betty White decline to marry multiple times before finally saying yes on the set of 'Password'?",
     "options": [
       "Bert Convy",
-      "Gene Rayburn (senior associate)",
+      "Gene Rayburn",
       "Allen Ludden",
       "Jack Barry"
     ],
@@ -5991,7 +5991,7 @@
     "show": "The Golden Girls",
     "q": "In what year was 'The Golden Girls' honored with the Pop Culture Award at the TV Land Awards, reunited on stage by Betty White and Rue McClanahan?",
     "options": [
-      "The calendar year 2003",
+      "2003",
       "2012",
       "2015",
       "2008"

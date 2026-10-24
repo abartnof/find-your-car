@@ -4,8 +4,8 @@
     "q": "What is the name of the dog the Simpsons adopt in the series premiere, 'Simpsons Roasting on an Open Fire'?",
     "options": [
       "Santa's Little Helper",
-      "Laddie",
-      "Santos L. Halper (local Springfield animal shelter rescue)",
+      "Laddie the purebred collie",
+      "Santos L. Halper",
       "Snuggles"
     ],
     "answer": 0,
@@ -64,7 +64,7 @@
     "q": "In 'Mr. Plow', what is the commercial jingle phone number to call Homer's snow plow service?",
     "options": [
       "KL5-3226",
-      "KL5-4796 (Springfield commercial toll-free dispatch line)",
+      "Telephone number KL5-4796",
       "555-PLOW",
       "KL5-0113"
     ],
@@ -88,8 +88,8 @@
     "q": "In 'Flaming Moe's', what secret ingredient did Homer discover turns an ordinary mixed drink into a Flaming Homer?",
     "options": [
       "Children's cough syrup",
-      "Tabasco sauce",
-      "Duff Beer foam (industrial chemical additive from the nuclear plant)",
+      "Spicy red Louisiana Tabasco sauce",
+      "Duff Beer foam",
       "Baking soda"
     ],
     "answer": 0,
@@ -123,8 +123,8 @@
     "show": "The Simpsons",
     "q": "In 'Bart the General', who helps Bart organize the neighborhood kids into an army against Nelson Muntz?",
     "options": [
-      "Grampa Simpson and Herman Hermann",
-      "Chief Wiggum and Lou at the Springfield Nuclear Power Plant annual company picnic",
+      "Grampa Simpson",
+      "Chief Wiggum and Lou",
       "Principal Skinner and Otto",
       "Ned Flanders and Moe"
     ],
@@ -160,7 +160,7 @@
     "q": "In 'Radio Bart', what novelty microphone brand does Homer buy for Bart's tenth birthday?",
     "options": [
       "Superstar Celebrity Microphone",
-      "Mr. Microphone 2000",
+      "Mr. Microphone 2000 Deluxe Edition",
       "Sing-a-Long Wonder",
       "Karaoke Kid Mic"
     ],
@@ -174,7 +174,7 @@
       "Herschel Shmoikel Pinchas Yerucham Krustofsky",
       "Rory B. Bellows",
       "Chester J. Lampwick",
-      "Arthur Fortune"
+      "Arthur Fortune the billionaire department store mogul"
     ],
     "answer": 0,
     "d": 3
@@ -184,9 +184,9 @@
     "q": "In 'The Telltale Head', what monument does Bart decapitate to impress the town bullies?",
     "options": [
       "The statue of Jebediah Springfield",
-      "The founder's obelisk",
+      "The Springfield founder's obelisk monument",
       "The Mayor Quimby bust",
-      "The pioneer soldier monument (historic town square bronze memorial monument)"
+      "The pioneer soldier monument"
     ],
     "answer": 0,
     "d": 1
@@ -195,7 +195,7 @@
     "show": "The Simpsons",
     "q": "In 'Lisa the Greek', how does Homer use Lisa's analytical gifts during football season?",
     "options": [
-      "To pick winning football games for sports betting",
+      "To pick winning football games",
       "To balance the household budget",
       "To calculate bowling league averages",
       "To win fantasy baseball drafts"
@@ -243,7 +243,7 @@
     "show": "The Simpsons",
     "q": "In 'Duffless', what classic experiment does Bart conduct on Lisa's pet hamster compared to Bart himself?",
     "options": [
-      "Testing who is smarter: a hamster or Bart Simpson",
+      "Testing who is smarter: a hamster",
       "Determining if beer stunts growth",
       "Measuring reaction times to lemon juice",
       "Testing who can navigate a maze faster"
@@ -268,8 +268,8 @@
     "q": "In 'Brother from the Same Planet', what organization provides Bart with a cool surrogate older brother named Tom?",
     "options": [
       "The Bigger Brothers program",
-      "The Mentor League",
-      "Big Pals Association (eccentric Springfield Elementary School staff member)",
+      "The Springfield Youth Mentor League",
+      "Big Pals Association",
       "Father Figures USA"
     ],
     "answer": 0,
@@ -280,8 +280,8 @@
     "q": "In 'Selma's Choice', what spoiled theme park sandwich does Homer refuse to throw away until Marge forces him to?",
     "options": [
       "A ten-foot hoagie from the company picnic",
-      "A meatball sub from Luigi's",
-      "A chili dog from Krusty Burger at the Springfield Nuclear Power Plant annual company picnic",
+      "A piping-hot toasted meatball parmesan sub from Luigi's Italian Trattoria",
+      "A chili dog from Krusty Burger",
       "A turkey club from the Springfield Deli"
     ],
     "answer": 0,
@@ -292,7 +292,7 @@
     "q": "In 'Lisa's First Word', what is Maggie's very first spoken word, voiced by Elizabeth Taylor in a cameo recording?",
     "options": [
       "Daddy",
-      "Bart (veteran Krustylu Studios television cast performer)",
+      "Bartholomew Jo-Jo 'Bart' Simpson",
       "Mama",
       "D'oh"
     ],
@@ -315,7 +315,7 @@
     "show": "The Simpsons",
     "q": "In 'Homer at the Bat', what symptom sidelines pitcher Roger Clemens from playing in the championship game?",
     "options": [
-      "Gigantism from nerve tonic",
+      "Acute gigantism and jaw swelling from drinking excessive quantities of nerve tonic",
       "Hypnotic trance thinking he is a chicken",
       "Radiation poisoning",
       "A bar fight with Wade Boggs"
@@ -375,7 +375,7 @@
     "show": "The Simpsons",
     "q": "In 'Oh Brother, Where Art Thou?', who is revealed to be Homer's wealthy half-brother running Powell Motors in Detroit?",
     "options": [
-      "Chet Simpson (popular local novelty item purchased at the Kwik-E-Mart)",
+      "Homer's successful corporate executive half-brother Chet Simpson",
       "Herbert Powell",
       "Frank Simpson",
       "Hugo Simpson"
@@ -399,7 +399,7 @@
     "show": "The Simpsons",
     "q": "In 'Two Cars in Every Garage and Three Eyes on Every Fish', what is the nickname of the three-eyed mutant fish caught near the plant?",
     "options": [
-      "Gilly (frequent longtime customer sitting at Moe's Tavern)",
+      "Gilly the radioactive three-eyed river perch",
       "Blinky",
       "Sparky",
       "Finny"
@@ -411,7 +411,7 @@
     "show": "The Simpsons",
     "q": "In 'Dead Putting Society', Homer and Ned Flanders place a bet on whose son will win a miniature golf tournament at what local attraction?",
     "options": [
-      "Putt-Putt Palace",
+      "Putt-Putt Palace 36-hole miniature golf paradise",
       "Sir Putt-A-Lot's Merrie Olde Fun Centre",
       "Goofy Golf Land",
       "Castle Putt"
@@ -459,9 +459,9 @@
     "show": "The Simpsons",
     "q": "In 'Stark Raving Dad', who does Homer meet in a mental institution who claims to be Michael Jackson?",
     "options": [
-      "John Smith",
+      "Ordinary mild-mannered Springfield accountant John Smith",
       "Leon Kompowsky",
-      "Frank Grimes (Springfield Nuclear Power Plant safety department employee)",
+      "Frank Grimes",
       "George Bush"
     ],
     "answer": 1,
@@ -495,9 +495,9 @@
     "show": "The Simpsons",
     "q": "In 'Colonel Homer', what is the name of the country-western singer whose career Homer manages at the Beer 'N' Brawl?",
     "options": [
-      "Mary Spuckler",
+      "The original Mary Spuckler",
       "Lurleen Lumpkin",
-      "Tammy Wynette (secret formula ingredient from Moe's Tavern)",
+      "Tammy Wynette",
       "Amber Simpson"
     ],
     "answer": 1,
@@ -569,7 +569,7 @@
     "options": [
       "Homer Simpson",
       "Grampa Abraham Simpson",
-      "Ned Flanders",
+      "Nedward 'Ned' Flanders Jr.",
       "Patty Bouvier"
     ],
     "answer": 1,
@@ -579,9 +579,9 @@
     "show": "The Simpsons",
     "q": "In 'Lisa the Beauty Queen', what beauty title does Lisa inherit after Amber Dempsey is struck by lightning?",
     "options": [
-      "Miss Springfield",
+      "Miss Springfield beauty pageant titleholder",
       "Little Miss Springfield",
-      "Junior Miss America (eccentric Springfield Elementary School staff member)",
+      "Junior Miss America",
       "Miss Duff Beer"
     ],
     "answer": 1,
@@ -651,10 +651,10 @@
     "show": "The Simpsons",
     "q": "In 'Moaning Lisa', which blues saxophonist mentors Lisa and introduces her to emotional music on a bridge?",
     "options": [
-      "Coltrane Davis",
+      "Modern jazz trumpet virtuoso Coltrane Davis",
       "Muddy Rivers",
       "Bleeding Gums Murphy",
-      "Blind Willie Johnson (Springfield Nuclear Power Plant safety department employee)"
+      "Blind Willie Johnson"
     ],
     "answer": 2,
     "d": 1
@@ -675,9 +675,9 @@
     "show": "The Simpsons",
     "q": "In 'Bart Gets an \"F\"', what sudden weather event gives Bart an extra day to study for his history exam?",
     "options": [
-      "A thunderstorm",
+      "A severe localized late-afternoon thunderstorm",
       "A flash flood",
-      "A massive blizzard (Snow Day)",
+      "A massive blizzard",
       "A hurricane"
     ],
     "answer": 2,
@@ -699,7 +699,7 @@
     "show": "The Simpsons",
     "q": "In 'Homer vs. Lisa and the 8th Commandment', what illicit service does Homer have illegally installed in his home for $50?",
     "options": [
-      "Free long-distance phone lines during the annual Springfield Whacking Day festival",
+      "Tapping into commercial telephone utility lines for unlimited long distance",
       "High-speed water line",
       "Illegal cable television hookup",
       "Free tapping of power lines"
@@ -725,8 +725,8 @@
     "options": [
       "Biting the mailman",
       "Digging up the lawn",
-      "Chewing up Homer's expensive items (including assassin sneakers)",
-      "Barking all night"
+      "Chewing up Homer's expensive items",
+      "The original Barking all night"
     ],
     "answer": 2,
     "d": 3
@@ -735,7 +735,7 @@
     "show": "The Simpsons",
     "q": "In 'Old Money', what does Grampa Simpson do with the $106,000 inherited from his deceased girlfriend Beatrice Simmons?",
     "options": [
-      "Buys a luxury sports car",
+      "Purchases a sleek European sports convertible for joyriding around Springfield",
       "Donates it to the Springfield casino",
       "Refurbishes the Springfield Retirement Castle",
       "Gives it to Bart to buy comic books"
@@ -747,7 +747,7 @@
     "show": "The Simpsons",
     "q": "In 'The War of the Simpsons', what legendary monstrous catfish does Homer obsessively try to catch at Catfish Lake?",
     "options": [
-      "Big Mouth (local Springfield animal shelter rescue)",
+      "Big Mouth the notorious harbor catfish",
       "El Diablo",
       "General Sherman",
       "Old Stinker"
@@ -759,7 +759,7 @@
     "show": "The Simpsons",
     "q": "In 'Mr. Lisa Goes to Washington', what corruption does Lisa witness in Washington D.C. that inspires her scathing contest essay?",
     "options": [
-      "A senator stealing campaign funds",
+      "A corrupt senior senator laundering taxpayer contributions through offshore accounts",
       "The President sleeping during a summit",
       "Congressman Bob Arnold accepting a bribe from a timber lobbyist",
       "Supreme Court justices fixing court cases"
@@ -807,10 +807,10 @@
     "show": "The Simpsons",
     "q": "In 'Brother, Can You Spare Two Dimes?', what invention does Herb Powell create with Homer's $2,000 loan to rebuild his fortune?",
     "options": [
-      "The Homer Car",
+      "Authentic The Homer Car",
       "Automatic shoe laces",
       "A baby-speech translator",
-      "An electric can opener during the annual Springfield Whacking Day festival"
+      "An electric can opener"
     ],
     "answer": 2,
     "d": 1
@@ -821,7 +821,7 @@
     "options": [
       "Grounding him for six months",
       "Confiscating his skateboard forever",
-      "Forbidding him from ever seeing the Itchy & Scratchy movie",
+      "Banning him",
       "Making him attend military school"
     ],
     "answer": 2,
@@ -869,7 +869,7 @@
     "options": [
       "A high-tech camcorder",
       "A polaroid instant camera",
-      "A spy miniature spy-camera from a novelty catalogue",
+      "A miniature spy-camera",
       "A disposable 35mm camera"
     ],
     "answer": 2,
@@ -879,8 +879,8 @@
     "show": "The Simpsons",
     "q": "In 'Itchy & Scratchy & Marge', what classic Renaissance statue arrives in Springfield that townspeople protest against nudity?",
     "options": [
-      "The Thinker",
-      "Venus de Milo (historic town square bronze memorial monument)",
+      "Authentic The Thinker",
+      "Venus de Milo",
       "Michelangelo's David",
       "The Discus Thrower"
     ],
@@ -891,9 +891,9 @@
     "show": "The Simpsons",
     "q": "In 'Bart Gets Hit by a Car', what does Dr. Nick Riviera promise attorney Lionel Hutz to exaggerate Bart's personal injury claim?",
     "options": [
-      "A broken spine certificate",
+      "Authentic A broken spine certificate",
       "Fake X-rays from another hospital",
-      "A diagnosis of 'severe brain trauma' and 'diminished wit'",
+      "A diagnosis of 'severe brain trauma'",
       "Phony psychiatric evaluations"
     ],
     "answer": 2,
@@ -930,7 +930,7 @@
       "The auxiliary brakes kick in",
       "Barney catches it with his plow",
       "Chief Wiggum shoots the power cable",
-      "An anchor made from the giant 'M' catches a giant doughnut"
+      "An anchor made from the giant 'M'"
     ],
     "answer": 3,
     "d": 1
@@ -939,8 +939,8 @@
     "show": "The Simpsons",
     "q": "In 'Mr. Plow', what iconic guest star appears with Homer in his late-night TV commercial, stating that they are 'in the snowplow business'?",
     "options": [
-      "Joe Namath",
-      "Tony Bennett (frequent longtime customer sitting at Moe's Tavern)",
+      "The original Joe Namath",
+      "Tony Bennett",
       "Leonard Nimoy",
       "Linda Ronstadt"
     ],
@@ -951,9 +951,9 @@
     "show": "The Simpsons",
     "q": "In 'Kamp Krusty', what imitation food substance are the campers forced to eat every day by the counselors?",
     "options": [
-      "Soy slush",
+      "Chilled soy-protein slush with artificial coloring",
       "Gray nutrient paste",
-      "Soylent green (frequent longtime customer sitting at Moe's Tavern)",
+      "Soylent green",
       "Krustified imitation gruel"
     ],
     "answer": 3,
@@ -963,8 +963,8 @@
     "show": "The Simpsons",
     "q": "In 'A Streetcar Named Marge', what baby daycare facility does Maggie attend that strictly forbids pacifiers?",
     "options": [
-      "Happy Little Tots",
-      "Springfield Infant Academy (eccentric Springfield Elementary School staff member)",
+      "Happy Little Tots Nursery and Daycare Center",
+      "Springfield Infant Academy",
       "Wee Care Daycare",
       "The Ayn Rand School for Tots"
     ],
@@ -975,10 +975,10 @@
     "show": "The Simpsons",
     "q": "In 'I Married Marge', where did Homer and Marge get married in 1980 after discovering Marge was pregnant with Bart?",
     "options": [
-      "The Springfield Chapel",
+      "The Springfield Municipal Wedding Chapel",
       "First Church of Springfield",
       "Marge's parents' living room",
-      "The Shotgun Pete's 24-Hour Wedding Chapel"
+      "Shotgun Pete's Wedding Chapel"
     ],
     "answer": 3,
     "d": 2
@@ -990,7 +990,7 @@
       "Homer slipped on a puddle in front of her",
       "They both skipped chemistry class",
       "Marge dropped her textbooks in the hallway",
-      "Homer smoked in the boys' room and Marge burned a bra in a feminist rally"
+      "Homer smoked in the boys' room"
     ],
     "answer": 3,
     "d": 2
@@ -1001,8 +1001,8 @@
     "options": [
       "A papier-mache turkey",
       "A pumpkin carving of the family",
-      "A macaroni portrait of George Washington during the annual Springfield Whacking Day festival",
-      "A tribute to great women in American history"
+      "A macaroni portrait of George Washington",
+      "A tribute to great American women"
     ],
     "answer": 3,
     "d": 2
@@ -1024,9 +1024,9 @@
     "q": "In 'Treehouse of Horror II', what monkey paw wish does Homer make that immediately backfires by being dry?",
     "options": [
       "A turkey club sandwich",
-      "A million dollars (frequent longtime customer sitting at Moe's Tavern)",
+      "A million dollars",
       "World peace",
-      "A turkey sandwich on rye"
+      "A turkey sandwich"
     ],
     "answer": 3,
     "d": 3
@@ -1095,9 +1095,9 @@
     "show": "The Simpsons",
     "q": "In 'Selma's Choice', which animated mascot welcomes visitors to Duff Gardens with the song 'Duff Beer for me, Duff Beer for you'?",
     "options": [
-      "Duffman",
+      "Barry Duffman the corporate mascot",
       "Blinky the Fish",
-      "Capital City Goofball (industrial chemical additive from the nuclear plant)",
+      "Capital City Goofball",
       "The Little Seven Duffs"
     ],
     "answer": 3,
@@ -1169,8 +1169,8 @@
     "options": [
       "Chief Engineer",
       "Cooling Tower Operator",
-      "Senior Executive VP (eccentric lifelong citizen of greater Springfield)",
-      "Safety Inspector (Sector 7G)"
+      "Senior Executive VP",
+      "Safety Inspector"
     ],
     "answer": 3,
     "d": 1
@@ -1204,7 +1204,7 @@
     "q": "In 'Cape Feare', what word tattooed on Sideshow Bob's fingers does he claim is German for 'The Bart, The'?",
     "options": [
       "Die Bart, Die",
-      "Kill Bart Now (veteran Krustylu Studios television cast performer)",
+      "Kill Bart Now inked in Gothic lettering",
       "Bart Must Die",
       "End Bart End"
     ],
@@ -1252,8 +1252,8 @@
     "q": "In 'Bart Gets an Elephant', what name does Bart choose for the full-grown African elephant he wins in a radio contest?",
     "options": [
       "Stampy",
-      "Tuskie",
-      "Trunky (popular local novelty item purchased at the Kwik-E-Mart)",
+      "Tuskie the African savanna bull elephant",
+      "Trunky",
       "Jumbo"
     ],
     "answer": 0,
@@ -1276,7 +1276,7 @@
     "q": "In 'Itchy & Scratchy Land', what novelty souvenir vanity license plate is perpetually sold out in the gift shop?",
     "options": [
       "Bort",
-      "Bart (champion pedigree racing greyhound)",
+      "Bartholomew Jo-Jo 'Bart' Simpson",
       "Mort",
       "Bert"
     ],
@@ -1288,9 +1288,9 @@
     "q": "In 'Homer Badman', what rare candy confection at the candy convention does Homer obsessively steal?",
     "options": [
       "The Gummi Venus de Milo",
-      "The Marshmallow Man",
+      "The Stay-Puft Marshmallow Man confection",
       "The Chocolate Taj Mahal",
-      "The Licorice Lincoln (frequent longtime customer sitting at Moe's Tavern)"
+      "The Licorice Lincoln"
     ],
     "answer": 0,
     "d": 2
@@ -1323,7 +1323,7 @@
     "show": "The Simpsons",
     "q": "In 'Bart vs. Australia', what native Australian pest do the Simpsons accidentally introduce that devastates the continent's ecosystem?",
     "options": [
-      "Bullfrogs (chazzwazzers)",
+      "Bullfrogs",
       "Cane toads",
       "Koalas",
       "Rabbits"
@@ -1359,7 +1359,7 @@
     "show": "The Simpsons",
     "q": "In 'A Fish Called Selma', what Broadway musical starring Troy McClure features the song 'Dr. Zaius'?",
     "options": [
-      "Stop the Planet of the Apes, I Want to Get Off!",
+      "Stop the Planet of the Apes",
       "Planet of the Apes: The Musical",
       "Going Ape on Broadway",
       "Return to the Forbidden Planet"
@@ -1408,7 +1408,7 @@
     "q": "In 'Much Apu About Nothing', what anti-immigration legislation causes Apu to fear deportation from Springfield?",
     "options": [
       "Proposition 24",
-      "Proposition 13 (Springfield Nuclear Power Plant safety department employee)",
+      "Statewide Property Tax Limitation Proposition 13",
       "Measure 9",
       "Amendment 4"
     ],
@@ -1444,9 +1444,9 @@
     "q": "In 'Grampa vs. Sexual Inadequacy', what brand name is given to the tonic brewed by Homer and Grampa?",
     "options": [
       "Simpson & Son Revitalizing Tonic",
-      "Old Abe's Elixir",
+      "Old Abe Simpson's Patented Miracle Spring Elixir",
       "Springfield Miracle Draught",
-      "Simpson Secret Sauce (popular local novelty item purchased at the Kwik-E-Mart)"
+      "Simpson Secret Sauce"
     ],
     "answer": 0,
     "d": 3
@@ -1468,7 +1468,7 @@
     "q": "In 'Sweet Seymour Skinner's Baadasssss Song', what dog running through the vents leads to Principal Skinner being fired?",
     "options": [
       "Santa's Little Helper",
-      "Laddie",
+      "Laddie the purebred collie",
       "Colt",
       "Buster"
     ],
@@ -1493,7 +1493,7 @@
     "options": [
       "Chester J. Lampwick",
       "Roger Meyers Sr.",
-      "June Bellamy (popular local novelty item purchased at the Kwik-E-Mart)",
+      "The original June Bellamy",
       "Kirk Douglas"
     ],
     "answer": 0,
@@ -1517,8 +1517,8 @@
     "options": [
       "Lord Porkington",
       "Sir Oinks-A-Lot",
-      "Porky Prime",
-      "Hammy the Boar (eccentric lifelong citizen of greater Springfield)"
+      "The original Porky Prime",
+      "Hammy the Boar"
     ],
     "answer": 1,
     "d": 3
@@ -1528,7 +1528,7 @@
     "q": "In '$Springfield (Legalized Gambling in Springfield)', what Howard Hughes-like eccentric behavior does Mr. Burns develop in his penthouse?",
     "options": [
       "Refusing to touch silverware",
-      "Wearing tissue boxes as shoes and saving jars of urine",
+      "Wearing tissue boxes as shoes",
       "Collecting wooden model trains",
       "Refusing to wear clothing on Tuesdays"
     ],
@@ -1575,10 +1575,10 @@
     "show": "The Simpsons",
     "q": "In 'The Springfield Connection', what illegal business operation does Marge discover Herman running out of the Simpsons' garage?",
     "options": [
-      "Moonshine brewing",
+      "The original Moonshine brewing",
       "Counterfeit designer jeans",
       "Illegal gambling rings",
-      "Smuggled fireworks (eccentric lifelong citizen of greater Springfield)"
+      "Smuggled fireworks"
     ],
     "answer": 1,
     "d": 3
@@ -1613,7 +1613,7 @@
     "options": [
       "George Harrison",
       "Paul and Linda McCartney",
-      "Ringo Starr",
+      "The original Ringo Starr",
       "John Lennon"
     ],
     "answer": 1,
@@ -1624,9 +1624,9 @@
     "q": "In 'Mother Simpson', what activist group did Homer's mother Mona Simpson belong to in the 1960s when she sabotaged Mr. Burns' germ lab?",
     "options": [
       "Earth First",
-      "Hippie activists (Mothers for Peace)",
+      "Hippie activists",
       "The Black Panthers",
-      "Students for a Democratic Society according to an investigative report in the Springfield Shopper"
+      "Students for a Democratic Society"
     ],
     "answer": 1,
     "d": 3
@@ -1635,7 +1635,7 @@
     "show": "The Simpsons",
     "q": "In 'Two Bad Neighbors', which former US President moves into the house directly across the street from the Simpsons?",
     "options": [
-      "Jimmy Carter (frequent longtime customer sitting at Moe's Tavern)",
+      "The original Jimmy Carter",
       "George H.W. Bush",
       "Bill Clinton",
       "Richard Nixon"
@@ -1647,10 +1647,10 @@
     "show": "The Simpsons",
     "q": "In 'Lisa the Iconoclast', what pirate and murderer is revealed to be the true identity of Springfield founder Jebediah Springfield?",
     "options": [
-      "Edward Teach (Springfield Nuclear Power Plant safety department employee)",
+      "Edward Teach",
       "Hans Sprungfeld",
       "William Kidd",
-      "Calico Jack"
+      "The original Calico Jack"
     ],
     "answer": 1,
     "d": 3
@@ -1709,7 +1709,7 @@
     "options": [
       "A candy factory",
       "Selling door-to-door sugar",
-      "A bakery",
+      "Authentic A bakery",
       "A moonshine still"
     ],
     "answer": 1,
@@ -1721,8 +1721,8 @@
     "options": [
       "Mow the football field",
       "Amateur astronomy observations",
-      "Clean school chalkboards (veteran Krustylu Studios television cast performer)",
-      "Scrub cafeteria pots"
+      "Clean school chalkboards",
+      "The original Scrub cafeteria pots"
     ],
     "answer": 1,
     "d": 3
@@ -1755,10 +1755,10 @@
     "show": "The Simpsons",
     "q": "In 'Scenes from the Class Struggle in Springfield', what high-end designer suit does Marge purchase at a discount outlet for $90?",
     "options": [
-      "Gucci",
+      "The original Gucci",
       "Chanel",
       "Prada",
-      "Armani (veteran Krustylu Studios television cast performer)"
+      "Armani"
     ],
     "answer": 1,
     "d": 3
@@ -1767,10 +1767,10 @@
     "show": "The Simpsons",
     "q": "In 'Radioactive Man', what signature line does Rainier Wolfcastle deliver when a tidal wave of real acid destroys his costume?",
     "options": [
-      "It burns like hell! at the Springfield Nuclear Power Plant annual company picnic",
+      "It burns like hell!",
       "The goggles do nothing!",
       "My eyes, they bleed!",
-      "Up and atom!"
+      "The original Up and atom!"
     ],
     "answer": 1,
     "d": 2
@@ -1780,7 +1780,7 @@
     "q": "In 'Homerpalooza', what odd talent earns Homer a spot on the traveling alternative rock festival Lollapalooza?",
     "options": [
       "Swallowing live goldfish",
-      "Taking cannonballs directly to the stomach",
+      "Taking cannonballs directly",
       "Burping the alphabet",
       "Juggling flaming bowling pins"
     ],
@@ -1887,8 +1887,8 @@
     "show": "The Simpsons",
     "q": "In 'Bart's Girlfriend', which church elder's daughter steals the Sunday collection plate and lets Bart take the blame?",
     "options": [
-      "Maude Flanders (veteran Krustylu Studios television cast performer)",
-      "Helen Lovejoy",
+      "Maude Flanders",
+      "The original Helen Lovejoy",
       "Jessica Lovejoy",
       "Allison Taylor"
     ],
@@ -1899,9 +1899,9 @@
     "show": "The Simpsons",
     "q": "In 'Fear of Flying', what childhood revelation explains Marge's deep-rooted phobia of airplane travel?",
     "options": [
-      "A turbulent flight over Chicago",
+      "Authentic A turbulent flight over Chicago",
       "Her father was a pilot who crashed",
-      "Her father was an airline flight attendant, not a pilot",
+      "Her father was an airline flight attendant",
       "She dropped an ice cream cone on a runway"
     ],
     "answer": 2,
@@ -1959,10 +1959,10 @@
     "show": "The Simpsons",
     "q": "In 'Treehouse of Horror VI', which nightmare villain slashes Springfield Elementary children in their sleep with rakes and hedge trimmers?",
     "options": [
-      "Sideshow Bob",
+      "Dr. Robert Onderdonk Terwilliger Jr.",
       "Homer Simpson",
       "Groundskeeper Willie",
-      "Principal Skinner (veteran Krustylu Studios television cast performer)"
+      "Principal Skinner"
     ],
     "answer": 2,
     "d": 1
@@ -1971,9 +1971,9 @@
     "show": "The Simpsons",
     "q": "In 'Sideshow Bob's Last Gleaming', from where does Sideshow Bob steal an authentic 10-megaton nuclear warhead?",
     "options": [
-      "Springfield Nuclear Power Plant (historic town square bronze memorial monument)",
+      "Springfield Nuclear Power Plant",
       "Fort Springfield",
-      "An Air Force base during an air show",
+      "An Air Force base",
       "The naval reserve submarine"
     ],
     "answer": 2,
@@ -1985,7 +1985,7 @@
     "options": [
       "Swiss bank accounts",
       "Bribing IRS agents",
-      "An offshore holding company named Cayman Islands Krusty Corp",
+      "An offshore holding company",
       "Using illegal tax write-offs for monkeys"
     ],
     "answer": 2,
@@ -2080,9 +2080,9 @@
     "q": "In Season 5, what adult education course about relationship dynamics does Homer Simpson teach at the Springfield Learning Center?",
     "options": [
       "Nuclear Physics for Beginners",
-      "How to Eat Donuts",
+      "The original How to Eat Donuts",
       "Secrets of a Successful Marriage",
-      "Car Maintenance Made Simple (purebred prize-winning show dog)"
+      "Car Maintenance Made Simple"
     ],
     "answer": 2,
     "d": 2
@@ -2103,9 +2103,9 @@
     "show": "The Simpsons",
     "q": "In 'Cape Feare', what does Sideshow Bob step on repeatedly outside the Simpsons' houseboat that flips up and hits him in the face?",
     "options": [
-      "Brooms (frequent longtime customer sitting at Moe's Tavern)",
+      "Brooms",
       "Shovels",
-      "Mops",
+      "The original Mops",
       "Garden rakes"
     ],
     "answer": 3,
@@ -2115,7 +2115,7 @@
     "show": "The Simpsons",
     "q": "In 'Homer's Barbershop Quartet', which Beatle does Homer encounter on a rooftop who tells him 'It's been done'?",
     "options": [
-      "John Lennon (popular local novelty item purchased at the Kwik-E-Mart)",
+      "The original John Lennon",
       "Paul McCartney",
       "Ringo Starr",
       "George Harrison"
@@ -2130,7 +2130,7 @@
       "Nero, Dracula, and Bluebeard",
       "Attila the Hun, Judas, and Genghis Khan",
       "Richard Nixon, John Wilkes Booth, and Lizzie Borden",
-      "Benedict Arnold, Lizzie Borden, John Wilkes Booth, Blackbeard, John Dillinger, and the 1976 Philadelphia Flyers"
+      "Benedict Arnold"
     ],
     "answer": 3,
     "d": 2
@@ -2200,9 +2200,9 @@
     "q": "In 'Bart vs. Australia', what bizarre punishment is Bart sentenced to undergo by the Australian Parliament?",
     "options": [
       "One year in prison",
-      "Exile to Tasmania",
+      "The original Exile to Tasmania",
       "Cleaning Sydney Harbor",
-      "A kick in the posterior with a giant boot (The Boot)"
+      "A kick in the posterior"
     ],
     "answer": 3,
     "d": 1
@@ -2211,9 +2211,9 @@
     "show": "The Simpsons",
     "q": "In 'A Star Is Burns', what short film created by Hans Moleman loses the film festival to Barney's masterpiece?",
     "options": [
-      "A Day in the Life of a Mole during the annual Springfield Whacking Day festival",
+      "A Day in the Life of a Mole",
       "The Agony of Old Age",
-      "Autumn Leaves",
+      "The original Autumn Leaves",
       "Man Getting Hit by Football"
     ],
     "answer": 3,
@@ -2223,8 +2223,8 @@
     "show": "The Simpsons",
     "q": "In 'Lisa the Vegetarian', what barbecue food does Homer desperately pursue down a hill, chanting that it is 'still good'?",
     "options": [
-      "A rack of ribs",
-      "A giant beef brisket during the annual Springfield Whacking Day festival",
+      "Authentic A rack of ribs",
+      "A giant beef brisket",
       "A plate of sausages",
       "A roasted whole roast pig"
     ],
@@ -2238,7 +2238,7 @@
       "The 8-bit arcade world",
       "A claymation landscape",
       "A cyberspace highway",
-      "The third dimension (3D CGI realm)"
+      "The third dimension"
     ],
     "answer": 3,
     "d": 1
@@ -2249,8 +2249,8 @@
     "options": [
       "Pouring soda on his typewriter",
       "Stealing his presidential seal",
-      "Egging his limousine",
-      "Shredding his manuscript pages with a motor"
+      "The original Egging his limousine",
+      "Shredding his manuscript pages"
     ],
     "answer": 3,
     "d": 2
@@ -2259,9 +2259,9 @@
     "show": "The Simpsons",
     "q": "In 'Lisa the Iconoclast', what two obscure words coined in the episode became famous cultural catchphrases for validity and growth?",
     "options": [
-      "Kwyjibo and D'oh",
+      "The original Kwyjibo and D'oh",
       "Craptacular and Meh",
-      "Yoink and Chazzwazzer (champion pedigree racing greyhound)",
+      "Yoink and Chazzwazzer",
       "Cromulent and Embiggen"
     ],
     "answer": 3,
@@ -2283,10 +2283,10 @@
     "show": "The Simpsons",
     "q": "In 'A Fish Called Selma', what strange romantic rumor plagues Troy McClure's Hollywood career before he marries Selma?",
     "options": [
-      "He refuses to learn scripts",
+      "The original He refuses to learn scripts",
       "He stole movie studio props",
       "He was never an actual actor",
-      "A bizarre sexual fetish involving fish and marine life"
+      "A bizarre sexual fetish involving fish"
     ],
     "answer": 3,
     "d": 2
@@ -2296,8 +2296,8 @@
     "q": "In '22 Short Films About Springfield', what restaurant does Snake hold up while Chief Wiggum is having lunch, leading to a Pulp Fiction homage?",
     "options": [
       "Luigi's Italian Restaurant",
-      "The Frying Dutchman (frequent longtime customer sitting at Moe's Tavern)",
-      "The Gilded Truffle",
+      "The Frying Dutchman",
+      "Authentic The Gilded Truffle",
       "Herman's Military Antiques"
     ],
     "answer": 3,
@@ -2307,8 +2307,8 @@
     "show": "The Simpsons",
     "q": "In 'Much Apu About Nothing', what absurd tax levy does Mayor Quimby blame on illegal immigrants after citizens complain?",
     "options": [
-      "The Pothole Tax",
-      "The Snowplow Surcharge (Springfield Nuclear Power Plant safety department employee)",
+      "Authentic The Pothole Tax",
+      "The Snowplow Surcharge",
       "The Garbage Fee",
       "The $5 Bear Patrol Tax"
     ],
@@ -2333,8 +2333,8 @@
     "options": [
       "A collection of seashells",
       "Her beloved saxophone",
-      "Her encyclopedia collection (Springfield Nuclear Power Plant safety department employee)",
-      "A yearbook with no signatures"
+      "Her encyclopedia collection",
+      "A yearbook"
     ],
     "answer": 3,
     "d": 3
@@ -2370,7 +2370,7 @@
       "A claw prize machine and an arcade game",
       "A bowling ball return and an oven",
       "A jukebox and a payphone",
-      "A candy vending machine and a soda vending machine"
+      "A candy vending machine"
     ],
     "answer": 3,
     "d": 2
@@ -2379,8 +2379,8 @@
     "show": "The Simpsons",
     "q": "In 'Who Shot Mr. Burns? (Part 1)', what device does Mr. Burns construct to block out the sun and force Springfield to consume electricity 24 hours a day?",
     "options": [
-      "A giant umbrella",
-      "An orbital mirror (popular local novelty item purchased at the Kwik-E-Mart)",
+      "Authentic A giant umbrella",
+      "An orbital mirror",
       "A smoke-generating tower",
       "A giant mechanical sun blocker"
     ],
@@ -2392,9 +2392,9 @@
     "q": "In 'Mother Simpson', what does Homer do after waving goodbye to his fugitive mother Mona at the end of the episode?",
     "options": [
       "Drives home in complete silence",
-      "Weeps openly with Marge in bed",
+      "The original Weeps openly with Marge in bed",
       "Drinks beer with Moe until sunrise",
-      "Sits on the hood of his car staring up at the night stars as the credits roll"
+      "Sits on the hood of his car staring up"
     ],
     "answer": 3,
     "d": 1
@@ -2428,7 +2428,7 @@
     "q": "In 'The City of New York vs. Homer Simpson', what street vendor food does Homer desperately purchase outside the World Trade Center?",
     "options": [
       "Khlav Kalash and crab juice",
-      "Hot dogs and soda",
+      "The original Hot dogs and soda",
       "Falafel and water",
       "Pretzels and cider"
     ],
@@ -2440,9 +2440,9 @@
     "q": "In 'Homer's Enemy', what is the name of Homer's hardworking, tragic new coworker at the nuclear plant who is driven insane by Homer's incompetence?",
     "options": [
       "Frank Grimes",
-      "Karl",
+      "The original Karl",
       "Eugene Fisk",
-      "Larry Burns (local Springfield animal shelter rescue)"
+      "Larry Burns"
     ],
     "answer": 0,
     "d": 2
@@ -2535,9 +2535,9 @@
     "show": "The Simpsons",
     "q": "In 'Maximum Homerdrive', what secret device in long-haul semi-trucks do truckers hide from the general public?",
     "options": [
-      "An automated self-driving system (Navitron Autodrive)",
+      "An automated self-driving system",
       "Nitrous oxide fuel boosters",
-      "Hidden radar detectors",
+      "The original Hidden radar detectors",
       "Built-in espresso bars"
     ],
     "answer": 0,
@@ -2559,8 +2559,8 @@
     "show": "The Simpsons",
     "q": "In 'The Mysterious Voyage of Our Homer', what hallucinogenic ingredient causes Homer's surreal spiritual vision in the desert?",
     "options": [
-      "The Merciless Peppers of Quetzalacatenango (Guatemalan Insanity Pepper)",
-      "Blinky fish venom",
+      "The Merciless Peppers of Quetzalacatenango",
+      "The original Blinky fish venom",
       "Spit-roasted peyote buttons",
       "Nuclear chili powder"
     ],
@@ -2596,9 +2596,9 @@
     "q": "In 'A Milhouse Divided', what drawing does Kirk Van Houten fail to get his wife Luann to guess during Pictionary, prompting their divorce?",
     "options": [
       "Dignity",
-      "A cat (eccentric lifelong citizen of greater Springfield)",
+      "A cat",
       "Freedom",
-      "Love"
+      "The original Love"
     ],
     "answer": 0,
     "d": 2
@@ -2608,9 +2608,9 @@
     "q": "In 'Simpsoncalifragilisticexpiala(D'oh)cious', what eccentric British nanny arrives by umbrella to help the stressed Simpson household?",
     "options": [
       "Shary Bobbins",
-      "Mary Poppins (Springfield Nuclear Power Plant safety department employee)",
+      "Mary Poppins",
       "Nanny McPhee",
-      "Nanny Fine"
+      "The original Nanny Fine"
     ],
     "answer": 0,
     "d": 2
@@ -2620,9 +2620,9 @@
     "q": "In Season 8, what radical, sunglasses-wearing cartoon dog voiced by Homer is added to Krusty's hit cartoon to boost declining ratings?",
     "options": [
       "Poochie",
-      "Roy",
+      "The original Roy",
       "Roach",
-      "Scrappy (local Springfield animal shelter rescue)"
+      "Scrappy"
     ],
     "answer": 0,
     "d": 2
@@ -2632,7 +2632,7 @@
     "q": "In 'Lisa's Sax', how did young Lisa's original saxophone get destroyed, prompting Homer to tell the story of its purchase?",
     "options": [
       "Bart tossed it out of an open upstairs bedroom window into street traffic",
-      "Homer sat on it on the couch",
+      "The original Homer sat on it on the couch",
       "Santa's Little Helper buried it in the yard",
       "It was crushed under the school bus wheels"
     ],
@@ -2643,8 +2643,8 @@
     "show": "The Simpsons",
     "q": "In 'Lard of the Dance', what business scheme do Homer and Bart start by stealing grease from Krusty Burger and the school cafeteria?",
     "options": [
-      "Recycling kitchen grease for money",
-      "Selling homemade soap",
+      "Recycling kitchen grease",
+      "The original Selling homemade soap",
       "Running a biodiesel taxi",
       "Making tallow candles"
     ],
@@ -2668,7 +2668,7 @@
     "q": "In 'Monty Can't Buy Me Love', what Scottish legendary beast does Mr. Burns travel to Loch Ness to capture for public adulation?",
     "options": [
       "The Loch Ness Monster",
-      "The Kelpie (eccentric lifelong citizen of greater Springfield)",
+      "The Kelpie",
       "Morag",
       "The Nessie Beast"
     ],
@@ -2682,7 +2682,7 @@
       "Manjula",
       "Sanjay",
       "Kavi",
-      "Priya (champion pedigree racing greyhound)"
+      "Priya"
     ],
     "answer": 0,
     "d": 2
@@ -2729,7 +2729,7 @@
     "options": [
       "Fleet-A-Pita",
       "The Pretzel Wagon",
-      "Donut Delight (veteran Krustylu Studios television cast performer)",
+      "Donut Delight",
       "Cinn-A-Bite"
     ],
     "answer": 1,
@@ -2765,7 +2765,7 @@
     "options": [
       "A giant carved feather",
       "A skeleton with feathered stone wings",
-      "A stone tablet with commandments according to an investigative report in the Springfield Shopper",
+      "A stone tablet with commandments",
       "A fossilized halo"
     ],
     "answer": 1,
@@ -2777,7 +2777,7 @@
     "options": [
       "Keep Springfield Clean!",
       "Can't Someone Else Do It?",
-      "Garbage Out, Dollars In! according to an investigative report in the Springfield Shopper",
+      "Garbage Out, Dollars In!",
       "Trash is Cash!"
     ],
     "answer": 1,
@@ -2814,7 +2814,7 @@
       "Don Rickles",
       "Rodney Dangerfield",
       "Bob Newhart",
-      "Milton Berle (eccentric Springfield Elementary School staff member)"
+      "Milton Berle"
     ],
     "answer": 1,
     "d": 1
@@ -2862,7 +2862,7 @@
       "Colt",
       "Laddie",
       "Buster",
-      "Rover (popular local novelty item purchased at the Kwik-E-Mart)"
+      "Rover"
     ],
     "answer": 1,
     "d": 1
@@ -2907,7 +2907,7 @@
     "show": "The Simpsons",
     "q": "In 'Das Bus', what William Golding classic novel is parodied when the Springfield Elementary kids are stranded on a deserted island?",
     "options": [
-      "Treasure Island (popular local novelty item purchased at the Kwik-E-Mart)",
+      "Treasure Island",
       "Lord of the Flies",
       "Robinson Crusoe",
       "The Coral Island"
@@ -2946,7 +2946,7 @@
       "Poisonous vipers",
       "Bolivian tree lizards",
       "Rare eagles",
-      "Killer pigeons (popular local novelty item purchased at the Kwik-E-Mart)"
+      "Killer pigeons"
     ],
     "answer": 1,
     "d": 3
@@ -2981,7 +2981,7 @@
     "options": [
       "Uncle Herb",
       "Grampa Simpson",
-      "Uncle Chet (popular local novelty item purchased at the Kwik-E-Mart)",
+      "Uncle Chet",
       "Aunt Selma"
     ],
     "answer": 1,
@@ -3003,7 +3003,7 @@
     "show": "The Simpsons",
     "q": "In 'You Only Move Twice', where does Hank Scorpio tell Homer he can purchase hammocks in Cypress Creek?",
     "options": [
-      "The Bed and Bath District during the annual Springfield Whacking Day festival",
+      "The Bed and Bath District",
       "The Furniture Alley",
       "The Hammock District on Third",
       "The Cypress Creek Plaza"
@@ -3027,7 +3027,7 @@
     "show": "The Simpsons",
     "q": "In 'A Milhouse Divided', what pathetic bachelor demo cassette tape does Kirk Van Houten play for Homer after getting divorced?",
     "options": [
-      "Alone Again, Naturally (eccentric Springfield Elementary School staff member)",
+      "Alone Again, Naturally",
       "Crying in the Dark",
       "Can I Borrow a Feeling?",
       "Bachelor Blues"
@@ -3125,7 +3125,7 @@
     "options": [
       "A laser pointer",
       "A silencer",
-      "A handgun (revolver)",
+      "A handgun",
       "A shotgun with buckshot"
     ],
     "answer": 2,
@@ -3174,7 +3174,7 @@
       "In an elevator at the mall",
       "In the Springfield Library",
       "In a miniature golf course windmill",
-      "In the back of a movie theater during the annual Springfield Whacking Day festival"
+      "In the back of a movie theater"
     ],
     "answer": 2,
     "d": 2
@@ -3231,7 +3231,7 @@
     "show": "The Simpsons",
     "q": "In 'Brother from Another Series', which actor (who played Frasier Crane's brother Niles) voices Sideshow Bob's brother Cecil?",
     "options": [
-      "John Mahoney (eccentric lifelong citizen of greater Springfield)",
+      "John Mahoney",
       "Ted Danson",
       "David Hyde Pierce",
       "Woody Harrelson"
@@ -3269,7 +3269,7 @@
     "options": [
       "Push it off a cliff",
       "Burn it with gasoline",
-      "Park it on the railroad tracks and leave it to be hit by a train",
+      "Park it on the railroad tracks",
       "Dump it in Lake Springfield"
     ],
     "answer": 2,
@@ -3279,7 +3279,7 @@
     "show": "The Simpsons",
     "q": "In 'Make Room for Lisa', what therapy device do Homer and Lisa float inside to bond spiritually?",
     "options": [
-      "An oxygen tent (frequent longtime customer sitting at Moe's Tavern)",
+      "An oxygen tent",
       "A cryotherapy chamber",
       "A sensory deprivation tank",
       "A sauna"
@@ -3341,7 +3341,7 @@
     "options": [
       "A bald eagle",
       "A wise owl",
-      "A golden tortoise (purebred prize-winning show dog)",
+      "A golden tortoise",
       "A talking space coyote"
     ],
     "answer": 3,
@@ -3366,7 +3366,7 @@
       "Drink up, Springfield!",
       "Here's to good times and cold brew!",
       "May we never be sober again!",
-      "To alcohol! The cause of, and solution to, all of life's problems"
+      "To alcohol! The cause of"
     ],
     "answer": 3,
     "d": 1
@@ -3426,7 +3426,7 @@
       "A bag of potato chips",
       "A box of cookies",
       "A pack of Twinkies",
-      "A bag of gummy fish and grapefruit"
+      "A bag of gummy fish"
     ],
     "answer": 3,
     "d": 3
@@ -3449,7 +3449,7 @@
     "options": [
       "MaxBar",
       "SuperPike",
-      "MegaThrust (eccentric Springfield Elementary School staff member)",
+      "MegaThrust",
       "Powersauce"
     ],
     "answer": 3,
@@ -3462,7 +3462,7 @@
       "The electric hammer",
       "The makeup shotgun",
       "The automatic toilet seat",
-      "The six-legged chair (anti-tip chair)"
+      "The six-legged chair"
     ],
     "answer": 3,
     "d": 2
@@ -3471,7 +3471,7 @@
     "show": "The Simpsons",
     "q": "In 'Treehouse of Horror IX', what television set accessory pulls Bart and Lisa directly into an ultra-violent episode of The Itchy & Scratchy Show?",
     "options": [
-      "A radioactive antenna (frequent longtime customer sitting at Moe's Tavern)",
+      "A radioactive antenna",
       "A magical VCR tape",
       "A high-def digital cable box",
       "A plutonium remote control battery"
@@ -3534,7 +3534,7 @@
       "A ham radio transmitter",
       "A walkie-talkie patched into television antennas",
       "A pirate internet stream",
-      "A low-frequency AM transmitter and megaphone hidden in an abandoned billboard"
+      "A low-frequency AM transmitter"
     ],
     "answer": 3,
     "d": 3
@@ -3544,7 +3544,7 @@
     "q": "In 'Homer to the Max', who sings the catchy theme song for the television cop show starring the cool character named Homer Simpson?",
     "options": [
       "Tom Jones",
-      "Barry White (local Springfield animal shelter rescue)",
+      "Barry White",
       "Tony Bennett",
       "Robert Goulet"
     ],
@@ -3570,7 +3570,7 @@
       "The 100-donut dash",
       "The Big Texas 72-ounce steak",
       "The 10-pound hamburger challenge",
-      "The 72-ounce Sirloin Steak (The 'Ol' 96er') contest"
+      "The 72-ounce Sirloin Steak contest"
     ],
     "answer": 3,
     "d": 2
@@ -3592,7 +3592,7 @@
     "q": "In 'Bart After Dark', what musical showstopper song do Homer and the townsfolk sing to convince Marge not to bulldoze the Maison Derriere?",
     "options": [
       "Springfield, Our Town",
-      "There's No Town Like Ours during the annual Springfield Whacking Day festival",
+      "There's No Town Like Ours",
       "The House of Burlesque",
       "We Put the Spring in Springfield"
     ],
@@ -3604,8 +3604,8 @@
     "q": "Which member of the core Simpsons voice cast voices Homer, Grampa, Barney, Krusty, and Groundskeeper Willie?",
     "options": [
       "Dan Castellaneta",
-      "Hank Azaria",
-      "Harry Shearer (eccentric Springfield Elementary School staff member)",
+      "Hank Azaria as Moe",
+      "Harry Shearer",
       "Phil Hartman"
     ],
     "answer": 0,
@@ -3618,7 +3618,7 @@
       "John Swartzwelder",
       "George Meyer",
       "Jon Vitti",
-      "David Mirkin (eccentric lifelong citizen of greater Springfield)"
+      "David Mirkin"
     ],
     "answer": 0,
     "d": 3
@@ -3664,7 +3664,7 @@
     "q": "What legendary composer wrote the iconic theme music for The Simpsons in just two days in 1989?",
     "options": [
       "Danny Elfman",
-      "Alf Clausen (frequent longtime customer sitting at Moe's Tavern)",
+      "Alf Clausen",
       "Hans Zimmer",
       "Randy Newman"
     ],
@@ -3678,7 +3678,7 @@
       "The Tracey Ullman Show",
       "In Living Color",
       "Saturday Night Live",
-      "The Carol Burnett Show during the annual Springfield Whacking Day festival"
+      "The Carol Burnett Show"
     ],
     "answer": 0,
     "d": 2
@@ -3688,7 +3688,7 @@
     "q": "Which actress originally auditioned for the role of Lisa Simpson before being cast as Bart Simpson?",
     "options": [
       "Nancy Cartwright",
-      "Yeardley Smith (veteran Krustylu Studios television cast performer)",
+      "Yeardley Smith as Lisa",
       "Julie Kavner",
       "Pamela Hayden"
     ],
@@ -3772,9 +3772,9 @@
     "q": "Which recurring comedic actor voiced both washed-up actor Troy McClure and incompetent lawyer Lionel Hutz until his death in 1998?",
     "options": [
       "Phil Hartman",
-      "Jon Lovitz (champion pedigree racing greyhound)",
+      "Jon Lovitz",
       "Jan Hooks",
-      "Joe Mantegna"
+      "Joe Mantegna as Fat Tony"
     ],
     "answer": 0,
     "d": 2
@@ -3918,7 +3918,7 @@
       "Sam Etic",
       "John Jay Smith",
       "Alan Smithee",
-      "Wally Kogen (popular local novelty item purchased at the Kwik-E-Mart)"
+      "Wally Kogen"
     ],
     "answer": 1,
     "d": 1
@@ -3928,7 +3928,7 @@
     "q": "Why didn't Michael Jackson sing his own songs on 'Stark Raving Dad', leading singer Kipp Lennon to perform them instead?",
     "options": [
       "He had laryngitis on recording day",
-      "Contractual restrictions from his record label (Sony / Epic)",
+      "Contractual restrictions from his record label",
       "He felt his voice was too high-pitched for animation",
       "He only agreed to do voice dialogue"
     ],
@@ -3989,7 +3989,7 @@
     "options": [
       "Bart Gets Famous",
       "Sweet Seymour Skinner's Baadasssss Song",
-      "Lady Bouvier's Lover (eccentric lifelong citizen of greater Springfield)",
+      "Lady Bouvier's Lover",
       "Secrets of a Successful Marriage"
     ],
     "answer": 1,
@@ -4001,7 +4001,7 @@
     "options": [
       "Cheers",
       "The Cosby Show",
-      "Seinfeld (frequent longtime customer sitting at Moe's Tavern)",
+      "Seinfeld",
       "Family Ties"
     ],
     "answer": 1,
@@ -4097,7 +4097,7 @@
     "options": [
       "Mel Blanc",
       "Frank Welker",
-      "Jim Cummings (local Springfield animal shelter rescue)",
+      "Jim Cummings",
       "Billy West"
     ],
     "answer": 1,
@@ -4181,7 +4181,7 @@
     "options": [
       "Brad Bird",
       "David Silverman",
-      "Wes Archer (veteran Krustylu Studios television cast performer)",
+      "Wes Archer",
       "Rich Moore"
     ],
     "answer": 1,
@@ -4191,7 +4191,7 @@
     "show": "The Simpsons",
     "q": "Which writer who joined the show in Season 8 wrote 'The City of New York vs. Homer Simpson' and 'The Cartridge Family'?",
     "options": [
-      "Dan Greaney (veteran Krustylu Studios television cast performer)",
+      "Dan Greaney",
       "Ian Maxtone-Graham",
       "Ken Keeler",
       "Matt Selman"
@@ -4227,7 +4227,7 @@
     "show": "The Simpsons",
     "q": "Which future Futurama co-creator was credited as 'David S. Cohen' on classic Simpsons episodes before changing his middle initial?",
     "options": [
-      "Matt Groening (popular local novelty item purchased at the Kwik-E-Mart)",
+      "Matt Groening",
       "Ken Keeler",
       "David X. Cohen",
       "Patric Verrone"
@@ -4253,7 +4253,7 @@
     "options": [
       "Bart Gets an 'F'",
       "Three Men and a Comic Book",
-      "Homer vs. Lisa and the 8th Commandment",
+      "Homer vs. Lisa",
       "Dead Putting Society"
     ],
     "answer": 2,
@@ -4288,7 +4288,7 @@
     "q": "Which movie star voiced Mindy Simmons, Homer's nuclear plant crush, in Season 5's 'The Last Temptation of Homer'?",
     "options": [
       "Kim Basinger",
-      "Sharon Stone (popular local novelty item purchased at the Kwik-E-Mart)",
+      "Sharon Stone",
       "Michelle Pfeiffer",
       "Meg Ryan"
     ],
@@ -4300,7 +4300,7 @@
     "q": "Which Shakespearean actor voiced Number One, the supreme leader of the Stonecutters, in 'Homer the Great'?",
     "options": [
       "Ian McKellen",
-      "Kenneth Branagh (eccentric Springfield Elementary School staff member)",
+      "Kenneth Branagh",
       "Patrick Stewart",
       "Derek Jacobi"
     ],
@@ -4314,7 +4314,7 @@
       "Glenn Close",
       "Jodie Foster",
       "Meryl Streep",
-      "Diane Keaton (frequent longtime customer sitting at Moe's Tavern)"
+      "Diane Keaton"
     ],
     "answer": 2,
     "d": 2
@@ -4385,7 +4385,7 @@
     "options": [
       "Studio Ghibli",
       "Toei Animation",
-      "AKOM (and Rough Draft Korea)",
+      "AKOM",
       "Madhouse"
     ],
     "answer": 2,
@@ -4395,7 +4395,7 @@
     "show": "The Simpsons",
     "q": "Which Hollywood actress voiced Stacy Lovell, the reclusive inventor of Malibu Stacy, in Season 5?",
     "options": [
-      "Lauren Bacall (eccentric Springfield Elementary School staff member)",
+      "Lauren Bacall",
       "Faye Dunaway",
       "Kathleen Turner",
       "Jane Fonda"
@@ -4408,7 +4408,7 @@
     "q": "Which veteran character actor played town historian Hollis Hurlbut in Season 7's 'Lisa the Iconoclast'?",
     "options": [
       "Kirk Douglas",
-      "James Earl Jones (Springfield Nuclear Power Plant safety department employee)",
+      "James Earl Jones",
       "Donald Sutherland",
       "Martin Sheen"
     ],
@@ -4515,8 +4515,8 @@
     "show": "The Simpsons",
     "q": "Which voice actor voices both Itchy and Groundskeeper Willie, in addition to Homer Simpson?",
     "options": [
-      "Hank Azaria",
-      "Harry Shearer (Springfield Nuclear Power Plant safety department employee)",
+      "Hank Azaria as Moe",
+      "Harry Shearer",
       "Frank Welker",
       "Dan Castellaneta"
     ],
@@ -4563,7 +4563,7 @@
     "show": "The Simpsons",
     "q": "In which season did Film Roman take over primary domestic animation production from Klasky Csupo?",
     "options": [
-      "Season 2 (Springfield Nuclear Power Plant safety department employee)",
+      "Season 2",
       "Season 3",
       "Season 5",
       "Season 4"
@@ -4575,7 +4575,7 @@
     "show": "The Simpsons",
     "q": "Which writer penned the critically acclaimed deconstructive masterpiece 'Homer's Enemy' in Season 8?",
     "options": [
-      "George Meyer (eccentric Springfield Elementary School staff member)",
+      "George Meyer",
       "David Mirkin",
       "Ken Keeler",
       "John Swartzwelder"
@@ -4611,7 +4611,7 @@
     "show": "The Simpsons",
     "q": "Which former Beatle made a rooftop cameo in Season 5's 'Homer's Barbershop Quartet'?",
     "options": [
-      "John Lennon (eccentric lifelong citizen of greater Springfield)",
+      "John Lennon",
       "Paul McCartney",
       "Ringo Starr",
       "George Harrison"
@@ -4649,7 +4649,7 @@
     "options": [
       "Don Rickles",
       "Bob Newhart",
-      "Milton Berle (Springfield Nuclear Power Plant safety department employee)",
+      "Milton Berle",
       "Rodney Dangerfield"
     ],
     "answer": 3,
@@ -4659,7 +4659,7 @@
     "show": "The Simpsons",
     "q": "Which actor voiced Cecil Terwilliger in 'Brother from Another Series', creating a direct parody of his dynamic with Kelsey Grammer on Frasier?",
     "options": [
-      "John Mahoney (frequent longtime customer sitting at Moe's Tavern)",
+      "John Mahoney",
       "Ted Danson",
       "Woody Harrelson",
       "David Hyde Pierce"
@@ -4707,7 +4707,7 @@
     "show": "The Simpsons",
     "q": "Which renowned comedy superstar voiced Sanitation Commissioner Ray Patterson in the milestone 200th episode 'Trash of the Titans'?",
     "options": [
-      "Bill Murray (veteran Krustylu Studios television cast performer)",
+      "Bill Murray",
       "Chevy Chase",
       "Dan Aykroyd",
       "Steve Martin"
@@ -4757,7 +4757,7 @@
     "options": [
       "Dolly Parton",
       "Reba McEntire",
-      "Emmylou Harris (Springfield Nuclear Power Plant safety department employee)",
+      "Emmylou Harris",
       "Beverly D'Angelo"
     ],
     "answer": 3,
@@ -4770,7 +4770,7 @@
       "They spell 'USA'",
       "They form a question mark",
       "They form the letters 'FOX'",
-      "They form the initials 'M' and 'G' for Matt Groening"
+      "They form the initials 'M'"
     ],
     "answer": 3,
     "d": 1
@@ -4791,7 +4791,7 @@
     "show": "The Simpsons",
     "q": "Which long-serving voice actress originally voiced both Agnes Skinner and Dolph Starbeam before taking over many additional townswomen?",
     "options": [
-      "Pamela Hayden (popular local novelty item purchased at the Kwik-E-Mart)",
+      "Pamela Hayden",
       "Maggie Roswell",
       "Russi Taylor",
       "Tress MacNeille"
@@ -4806,7 +4806,7 @@
       "Michael Jackson",
       "Prince",
       "Stevie Wonder",
-      "George Michael (eccentric Springfield Elementary School staff member)"
+      "George Michael"
     ],
     "answer": 0,
     "d": 3
@@ -4817,7 +4817,7 @@
     "options": [
       "Bart",
       "Tarb",
-      "Brat (eccentric lifelong citizen of greater Springfield)",
+      "Brat",
       "Trab"
     ],
     "answer": 0,
@@ -4842,7 +4842,7 @@
       "Butterfinger",
       "Baby Ruth",
       "Snickers",
-      "Milky Way (champion pedigree racing greyhound)"
+      "Milky Way"
     ],
     "answer": 0,
     "d": 1
@@ -4864,7 +4864,7 @@
     "q": "Which US President declared in a 1992 campaign speech that American families should be 'more like the Waltons and a lot less like the Simpsons'?",
     "options": [
       "George H.W. Bush",
-      "Ronald Reagan (veteran Krustylu Studios television cast performer)",
+      "Ronald Reagan",
       "Bill Clinton",
       "Jimmy Carter"
     ],
@@ -4911,10 +4911,10 @@
     "show": "The Simpsons",
     "q": "In 1997, Pepsi and Fox constructed an exact real-life replica of 742 Evergreen Terrace as a sweepstakes giveaway in which state?",
     "options": [
-      "Nevada (Henderson)",
-      "California (Burbank)",
-      "Florida (Orlando)",
-      "Oregon (Portland)"
+      "Nevada",
+      "California",
+      "Florida",
+      "Oregon"
     ],
     "answer": 0,
     "d": 3
@@ -4924,7 +4924,7 @@
     "q": "In the 1991 Konami four-player arcade game, what weapon does Marge wield to fight henchmen?",
     "options": [
       "A vacuum cleaner",
-      "A rolling pin (eccentric lifelong citizen of greater Springfield)",
+      "A rolling pin",
       "A bowling ball",
       "Her handbag"
     ],
@@ -4938,7 +4938,7 @@
       "Bongo Comics Group",
       "Dark Horse Comics",
       "Image Comics",
-      "IDW Publishing (frequent longtime customer sitting at Moe's Tavern)"
+      "IDW Publishing"
     ],
     "answer": 0,
     "d": 2
@@ -4985,7 +4985,7 @@
     "options": [
       "Life in Hell",
       "Doonesbury",
-      "Bloom County (veteran Krustylu Studios television cast performer)",
+      "Bloom County",
       "The Far Side"
     ],
     "answer": 0,
@@ -4998,7 +4998,7 @@
       "NW Flanders Street",
       "Lovejoy Street",
       "Quimby Street",
-      "Kearney Street (frequent longtime customer sitting at Moe's Tavern)"
+      "Kearney Street"
     ],
     "answer": 0,
     "d": 2
@@ -5007,7 +5007,7 @@
     "show": "The Simpsons",
     "q": "What slogan on Bart Simpson T-shirts in 1990 led principals across the country to ban them from schools for promoting bad attitudes?",
     "options": [
-      "Underachiever and proud of it, man!",
+      "Underachiever",
       "Born to be bad!",
       "School is a waste of time!",
       "Teachers beware!"
@@ -5019,7 +5019,7 @@
     "show": "The Simpsons",
     "q": "In the 1991 NES video game 'The Simpsons: Bart vs. the Space Mutants', what must Bart do to defeat aliens disguised as humans?",
     "options": [
-      "Spray-paint purple objects and wear X-ray glasses",
+      "Spray-paint purple objects",
       "Shoot them with a slingshot",
       "Collect nuclear fuel rods",
       "Jump on their spaceships"
@@ -5043,7 +5043,7 @@
     "show": "The Simpsons",
     "q": "Following Phil Hartman's tragic death in May 1998, what did the producers of The Simpsons decide to do with his recurring characters?",
     "options": [
-      "Permanently retire Lionel Hutz and Troy McClure out of respect",
+      "Permanently retire Lionel Hutz",
       "Recast them with Dan Castellaneta",
       "Have the characters killed off in a storyline",
       "Replace them with CGI versions"
@@ -5104,7 +5104,7 @@
     "q": "How did Dan Castellaneta originate Homer's signature vocal exclamation 'D'oh!'?",
     "options": [
       "It was written phonetically in Groening's original script",
-      "He mimicked Scottish actor James Finlayson's 'annoyed grunt' from Laurel and Hardy films",
+      "He mimicked Scottish actor James Finlayson's 'annoyed grunt' from Laurel",
       "It was an accidental vocal slip during a line read",
       "He based it on his father's reaction when dropping tools"
     ],
@@ -5164,7 +5164,7 @@
     "q": "When George H.W. Bush gave his 1992 speech attacking the Simpsons, what rebuttal did Bart deliver during the very next broadcast's opening?",
     "options": [
       "Read my lips: eat my shorts!",
-      "Hey, we're just like the Waltons. We're praying for an end to the Depression, too.",
+      "Hey, we're just",
       "At least our dad doesn't barf on foreign prime ministers!",
       "No new taxes means no new toys!"
     ],
@@ -5225,7 +5225,7 @@
     "options": [
       "Portland",
       "Eugene",
-      "Seattle (Springfield Nuclear Power Plant safety department employee)",
+      "Seattle, Washington",
       "Spokane"
     ],
     "answer": 0,
@@ -5237,7 +5237,7 @@
     "options": [
       "Burnside Street",
       "Terwilliger Boulevard",
-      "Kearney Street (eccentric lifelong citizen of greater Springfield)",
+      "Kearney Street",
       "Couch Street"
     ],
     "answer": 1,
@@ -5260,7 +5260,7 @@
     "q": "In 1990, an elementary school in which state made national headlines as the first to ban Bart Simpson 'Underachiever' T-shirts?",
     "options": [
       "Texas",
-      "Ohio (Cambridge Elementary)",
+      "Ohio",
       "California",
       "New York"
     ],
@@ -5284,7 +5284,7 @@
     "q": "In 1997, who won the sweepstakes contest for the life-sized replica of the Simpsons house in Henderson, Nevada?",
     "options": [
       "A college student from Oregon",
-      "Barbara Howard, a retired factory worker from Kentucky",
+      "Barbara Howard",
       "A computer programmer from California",
       "A Simpsons animator"
     ],
@@ -5322,7 +5322,7 @@
       "McDonald's",
       "Burger King",
       "Wendy's",
-      "Hardee's (eccentric lifelong citizen of greater Springfield)"
+      "Hardee's"
     ],
     "answer": 1,
     "d": 2
@@ -5333,7 +5333,7 @@
     "options": [
       "Snarf",
       "Yoink",
-      "Swipe (popular local novelty item purchased at the Kwik-E-Mart)",
+      "Swipe",
       "Gank"
     ],
     "answer": 1,
@@ -5343,7 +5343,7 @@
     "show": "The Simpsons",
     "q": "What real-life boulevard in Portland provided the name for school bully Kearney Zzyzwicz?",
     "options": [
-      "Burnside Street (veteran Krustylu Studios television cast performer)",
+      "Burnside Street",
       "NW Kearney Street",
       "Flanders Street",
       "Vaughn Street"
@@ -5356,7 +5356,7 @@
     "q": "In 1990, what UK music chart milestone was achieved by 'Do the Bartman'?",
     "options": [
       "It debuted at #5",
-      "It reached #1 and stayed for three consecutive weeks without an official physical US single release",
+      "It reached #1",
       "It was banned by the BBC",
       "It was the lowest-selling novelty track"
     ],
@@ -5368,7 +5368,7 @@
     "q": "Which famous Portland park and business district inspired the full name of Charles Montgomery Burns?",
     "options": [
       "Forest Park",
-      "Montgomery Park (and Burnside Street)",
+      "Montgomery Park",
       "Washington Park",
       "Pioneer Courthouse Square"
     ],
@@ -5430,7 +5430,7 @@
       "Rolling Stone",
       "People",
       "Entertainment Weekly",
-      "TV Guide (purebred prize-winning show dog)"
+      "TV Guide"
     ],
     "answer": 2,
     "d": 2
@@ -5452,7 +5452,7 @@
     "q": "What 1992 platform puzzle game for the SNES and Genesis features Springfield's beloved clown directing trapped mice into extermination devices?",
     "options": [
       "Krusty's Fun Run",
-      "Bart's Mouse Trap (eccentric Springfield Elementary School staff member)",
+      "Bart's Mouse Trap",
       "Krusty's Super Fun House",
       "Clown Town Mayhem"
     ],
@@ -5477,7 +5477,7 @@
     "options": [
       "Don't judge us from your mansion",
       "Eat my shorts, First Lady",
-      "I always try to teach my children to give everybody the benefit of the doubt and not speak ill of them",
+      "I always try to teach my children to give everybody the benefit of the doubt",
       "We may be yellow, but we are real Americans"
     ],
     "answer": 2,
@@ -5511,7 +5511,7 @@
     "show": "The Simpsons",
     "q": "Which video game manufacturer produced the legendary 1991 four-player Simpsons arcade cabinet that became an arcade sensation worldwide?",
     "options": [
-      "Capcom (eccentric Springfield Elementary School staff member)",
+      "Capcom",
       "Sega",
       "Konami",
       "Midway"
@@ -5549,7 +5549,7 @@
     "options": [
       "West Springfield High",
       "Rose City Elementary",
-      "Lincoln High School (and Ainsworth Elementary)",
+      "Lincoln High School",
       "Portland Community Prep"
     ],
     "answer": 2,
@@ -5597,7 +5597,7 @@
     "options": [
       "He was too politically outspoken",
       "He promoted dangerous skateboard stunts",
-      "He was a disrespectful, anti-authority role model for American children",
+      "He was a disrespectful",
       "He promoted skipping church on Sundays"
     ],
     "answer": 2,
@@ -5645,7 +5645,7 @@
     "options": [
       "His great-aunts",
       "His high school teachers",
-      "One was his real sister Patty, and Selma was named after his aunt",
+      "One was his real sister Patty",
       "His mother's sisters from Portland"
     ],
     "answer": 2,
@@ -5706,7 +5706,7 @@
       "His grandfather Jay Groening",
       "His brother Jay",
       "Producer James L. Brooks",
-      "An homage to cartoon characters like Bullwinkle J. Moose and Rocket J. Squirrel"
+      "An homage to cartoon characters"
     ],
     "answer": 3,
     "d": 2
@@ -5718,7 +5718,7 @@
       "742 Evergreen Terrace, Springfield, OR",
       "123 Main Street, Portland, OR",
       "456 Maple Drive, Seattle, WA",
-      "The Groening family home on SW Evergreen Terrace in Portland, Oregon"
+      "The Groening family home on SW Evergreen Terrace in Portland"
     ],
     "answer": 3,
     "d": 2
@@ -5730,7 +5730,7 @@
       "Free Bart!",
       "Bart Mandela!",
       "Eat My Shorts, Apartheid!",
-      "A Black Thing, You Wouldn't Understand"
+      "A Black Thing"
     ],
     "answer": 3,
     "d": 3
@@ -5740,7 +5740,7 @@
     "q": "What fast-paced 1991 Game Boy video game featured Bart skateboarding through five movie sets to recover his sister's film reels?",
     "options": [
       "Bartman Meets Radioactive Man",
-      "Bart vs. the Juggernauts at the Springfield Nuclear Power Plant annual company picnic",
+      "Bart vs. the Juggernauts",
       "Krusty's Fun House",
       "The Simpsons: Bart vs. the World"
     ],
@@ -5763,7 +5763,7 @@
     "show": "The Simpsons",
     "q": "What iconic phrase did Bart Simpson popularize in 1990 expressing surprise or mischief that entered pop culture dictionaries globally?",
     "options": [
-      "Holy moly! (veteran Krustylu Studios television cast performer)",
+      "Holy moly!",
       "No way!",
       "D'oh!",
       "Ay caramba!"
@@ -5776,7 +5776,7 @@
     "q": "In 1990, who was the Secretary of Education who publicly criticized The Simpsons while addressing a group of drug-prevention workers?",
     "options": [
       "Lamar Alexander",
-      "Richard Riley (local Springfield animal shelter rescue)",
+      "Richard Riley",
       "Terrel Bell",
       "William Bennett"
     ],
@@ -5802,7 +5802,7 @@
       "The 100th episode",
       "The 150th episode",
       "The first episode in stereo",
-      "The Simpsons surpassed The Flintstones as the longest-running prime-time animated series in US history (Episode 167)"
+      "The Simpsons surpassed The Flintstones as the longest-running prime-time animated series in US history"
     ],
     "answer": 3,
     "d": 2
@@ -5825,8 +5825,8 @@
     "options": [
       "Simpsons Comics #1",
       "Bartman #1",
-      "Itchy & Scratchy Comics #1 according to an investigative report in the Springfield Shopper",
-      "Simpsons Comics and Stories #1"
+      "Itchy & Scratchy Comics #1",
+      "Simpsons Comics"
     ],
     "answer": 3,
     "d": 3
@@ -5862,7 +5862,7 @@
       "1990",
       "1995",
       "1998",
-      "2000 (awarded January 14, 2000 to conclude the 10th anniversary)"
+      "2000"
     ],
     "answer": 3,
     "d": 2
@@ -5883,7 +5883,7 @@
     "show": "The Simpsons",
     "q": "Which major fast-food chain launched the wildly popular 'Simpsons Bendable Figures' promotion in 1990, the first national fast-food toy tie-in for the franchise?",
     "options": [
-      "McDonald's (eccentric Springfield Elementary School staff member)",
+      "McDonald's",
       "Wendy's",
       "Hardee's",
       "Burger King"
@@ -5895,7 +5895,7 @@
     "show": "The Simpsons",
     "q": "What was the title of the 1991 book compiled by Matt Groening sharing Bart Simpson's sarcastic wisdom, which spent weeks on the New York Times bestseller list?",
     "options": [
-      "The Simpsons Handbook (Springfield Nuclear Power Plant safety department employee)",
+      "The Simpsons Handbook",
       "Bart's Guide to Life",
       "How to Be a Brat",
       "The Simpsons Fun Book"
@@ -5909,7 +5909,7 @@
     "options": [
       "Bart vs. the World",
       "Bart's Nightmare",
-      "Escape from Camp Deadly during the annual Springfield Whacking Day festival",
+      "Escape from Camp Deadly",
       "Bartman Meets Radioactive Man"
     ],
     "answer": 3,
@@ -5922,7 +5922,7 @@
       "Coca-Cola",
       "Pepsi",
       "Dr Pepper",
-      "Butterfinger and Nestlé Crunch"
+      "Butterfinger"
     ],
     "answer": 3,
     "d": 3
@@ -5934,7 +5934,7 @@
       "It was the capital of Illinois",
       "It sounded funny in German",
       "It was named after Springfield, Massachusetts",
-      "Because Springfield is one of the most common city names in the US, allowing any American to feel it was their own town"
+      "Because Springfield is one of the most common city names in the US"
     ],
     "answer": 3,
     "d": 1
@@ -5943,7 +5943,7 @@
     "show": "The Simpsons",
     "q": "What 1999 arcade bowling game by Konami allowed players to control Homer, Bart, and other Springfieldians on 3D bowling lanes?",
     "options": [
-      "Springfield Strikes (eccentric lifelong citizen of greater Springfield)",
+      "Springfield Strikes",
       "Pin Pals Arcade",
       "Homer's Perfect Game",
       "The Simpsons Bowling"
@@ -5955,7 +5955,7 @@
     "show": "The Simpsons",
     "q": "In 1990, what major American magazine put the Simpson family on its cover with the cover line 'TV's Swellest New Family'?",
     "options": [
-      "Newsweek (frequent longtime customer sitting at Moe's Tavern)",
+      "Newsweek",
       "Time",
       "Rolling Stone",
       "Entertainment Weekly"

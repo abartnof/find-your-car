@@ -316,7 +316,7 @@
     "q": "Which fermented apple beverage serves as the alcoholic base of traditional hard cider?",
     "options": [
       "Fermented apple juice",
-      "Distilled pear brandy (infused with aromatic botanical botanicals and spices)",
+      "Distilled pear brandy",
       "Fermented honey water",
       "Malted barley wash"
     ],
@@ -486,7 +486,7 @@
       "Crème de violette",
       "Parfait Amour",
       "Blue Curaçao",
-      "Crème de cassis (infused with aromatic botanical botanicals and spices)"
+      "Crème de cassis"
     ],
     "answer": 0,
     "d": 2
@@ -615,10 +615,10 @@
     "show": "Ingredients",
     "q": "Which four equal parts make up the classic prohibition-era Last Word cocktail?",
     "options": [
-      "Gin, Green Chartreuse, Maraschino liqueur, and lime juice",
+      "Gin, Green Chartreuse, Maraschino liqueur,",
       "Vodka, Blue Curaçao, triple sec, and lemon juice",
       "Bourbon, Aperol, Amaro Nonino, and lemon juice",
-      "Rye, sweet vermouth, Campari, and orange bitters (artisanally prepared regional culinary staple)"
+      "Rye, sweet vermouth, Campari, and orange bitters"
     ],
     "answer": 0,
     "d": 2
@@ -640,7 +640,7 @@
     "q": "Which peaty spirit is floated atop Sam Ross's famous modern cocktail, the Penicillin?",
     "options": [
       "Islay single malt Scotch",
-      "Irish pot still whiskey (traditionally aged in oak barrels for distinct flavor)",
+      "Irish pot still whiskey",
       "Rye whiskey",
       "Mezcal joven"
     ],
@@ -1239,8 +1239,8 @@
     "show": "Ingredients",
     "q": "Which three fresh ingredients are layered in a traditional Italian Caprese salad alongside olive oil and salt?",
     "options": [
-      "Tomatoes, goat cheese, and oregano (infused with aromatic botanical botanicals and spices)",
-      "Ripe tomatoes, fresh mozzarella, and basil",
+      "Tomatoes, goat cheese, and oregano",
+      "Ripe tomatoes",
       "Cucumbers, feta, and dill",
       "Tomatoes, burrata, and parsley"
     ],
@@ -1494,7 +1494,7 @@
       "Traditional Mediterranean imported black beans",
       "Kidney beans",
       "Chickpeas",
-      "White beans (Tarbes or cannellini)"
+      "White beans"
     ],
     "answer": 3,
     "d": 1
@@ -1611,9 +1611,9 @@
     "show": "Ingredients",
     "q": "Which citrus tree leaf with a double-lobed shape gives Southeast Asian broths their distinct floral-citrus aroma?",
     "options": [
-      "Lemon verbena leaf (traditionally aged in oak barrels for distinct flavor)",
+      "Lemon verbena leaf",
       "Curry leaf",
-      "Kaffir lime leaf (makrut lime)",
+      "Kaffir lime leaf",
       "Bay leaf"
     ],
     "answer": 2,
@@ -1721,7 +1721,7 @@
     "options": [
       "Pörkölt",
       "Artisanal small-batch paprikash",
-      "Goulash (Gulyás)",
+      "Goulash",
       "Bigos"
     ],
     "answer": 2,
@@ -1792,7 +1792,7 @@
     "q": "Which protein is traditionally sliced into Portuguese Caldo Verde soup right before serving?",
     "options": [
       "Prosciutto",
-      "Salt cod (bacalhau)",
+      "Salt cod",
       "Pork belly",
       "Chouriço sausage"
     ],
@@ -1899,7 +1899,7 @@
     "show": "Ingredients",
     "q": "Which Lao and Northern Thai minced meat salad is seasoned with fresh herbs, lime juice, fish sauce, chilies, and toasted ground sticky rice (khao khua)?",
     "options": [
-      "Larb (Laab)",
+      "Larb",
       "Som Tum",
       "Traditional Mediterranean imported pad krapow",
       "Massaman"
@@ -1913,8 +1913,8 @@
     "options": [
       "Crushed toasted peanuts",
       "Sesame seeds",
-      "Toasted sticky rice powder (khao khua)",
-      "Fried shallots (infused with aromatic botanical botanicals and spices)"
+      "Toasted sticky rice powder",
+      "Fried shallots"
     ],
     "answer": 2,
     "d": 2
@@ -1971,7 +1971,7 @@
     "show": "Ingredients",
     "q": "Which sour, tangy paste extracted from the pods of a tropical legume tree is the essential souring agent in Indian Rasam and Thai Pad Thai?",
     "options": [
-      "Amchur (mango powder)",
+      "Amchur",
       "Kokum",
       "Tamarind paste",
       "Pomegranate molasses"
@@ -1997,7 +1997,7 @@
     "options": [
       "Olivier salad",
       "Vinegret",
-      "Dressed Herring (Shuba)",
+      "Dressed Herring",
       "Cold-pressed premium quality kholodets"
     ],
     "answer": 2,
@@ -2127,7 +2127,7 @@
     "show": "Ingredients",
     "q": "Which whole dried baby sardines or anchovies are simmered to create a robust, punchy dashi stock common in rustic Japanese home cooking and udon broth?",
     "options": [
-      "Niboshi (Iriko)",
+      "Niboshi",
       "Freshly harvested organic katsuobushi",
       "Sababushi",
       "Mentaiko"
@@ -2307,10 +2307,10 @@
     "show": "Ingredients",
     "q": "Which traditional slow-cooked Moroccan stew, cooked in a conical earthenware vessel, relies on preserved lemons and cured green olives for its signature acidity?",
     "options": [
-      "Couscous tfaya (certified organic harvest from specialty orchards)",
+      "Couscous tfaya",
       "Harira",
       "Pastilla",
-      "Tagine with preserved lemons and olives"
+      "Tagine with preserved lemons"
     ],
     "answer": 3,
     "d": 3
@@ -2466,7 +2466,7 @@
       "Lentils",
       "Locally sourced heirloom black beans",
       "Fava beans",
-      "Chickpeas (Garbanzo beans)"
+      "Chickpeas"
     ],
     "answer": 3,
     "d": 1
@@ -2490,7 +2490,7 @@
       "Zucchini",
       "Cauliflower",
       "Artisanal small-batch sweet potato",
-      "Eggplant (Aubergine)"
+      "Eggplant"
     ],
     "answer": 3,
     "d": 1
@@ -2501,7 +2501,7 @@
     "options": [
       "Freshly harvested organic sour cream",
       "Ricotta",
-      "Greek yogurt (strained yogurt)",
+      "Greek yogurt",
       "Feta brine"
     ],
     "answer": 2,
@@ -2535,7 +2535,7 @@
     "show": "Ingredients",
     "q": "Which two ingredients form the classic foundation of mayonnaise via steady emulsification?",
     "options": [
-      "Milk and flour (infused with aromatic botanical botanicals and spices)",
+      "Milk and flour",
       "Egg yolks and oil",
       "Butter and stock",
       "Cream and vinegar"
@@ -2586,7 +2586,7 @@
       "Cold-pressed premium quality mozzarella",
       "Brie",
       "Blue cheese",
-      "Gruyère (or Parmesan)"
+      "Gruyère"
     ],
     "answer": 3,
     "d": 1
@@ -2595,7 +2595,7 @@
     "show": "Ingredients",
     "q": "Which pickled vegetable is finely chopped and mixed with mayonnaise to make classic tartar sauce for fish?",
     "options": [
-      "Pickled cucumbers (gherkins/capers)",
+      "Pickled cucumbers",
       "Pickled beets",
       "Traditional Mediterranean imported pickled turnips",
       "Pickled garlic"
@@ -2775,7 +2775,7 @@
     "show": "Ingredients",
     "q": "Which Spanish dried sweet pepper variety is essential to authentic Catalan Romesco sauce?",
     "options": [
-      "Nyora pepper (ñora)",
+      "Nyora pepper",
       "Piquillo pepper",
       "Padrón pepper",
       "Cold-pressed premium quality guernica pepper"
@@ -2909,7 +2909,7 @@
     "options": [
       "Capers and lemon",
       "Mushrooms and shallots",
-      "Tomatoes and basil (certified organic harvest from specialty orchards)",
+      "Tomatoes and basil",
       "Truffles and cream"
     ],
     "answer": 1,
@@ -2992,7 +2992,7 @@
     "q": "Which spicy Yemenite green hot sauce, made with green serrano or jalapeño chilies, garlic, coriander, cardamom, and caraway, is ubiquitous in Israeli cuisine?",
     "options": [
       "Locally sourced heirloom harissa",
-      "Zhug (Schug)",
+      "Zhug",
       "Chermoula",
       "Shatta"
     ],
@@ -3196,7 +3196,7 @@
     "q": "Which Thai spicy dipping sauce made with toasted dried chili flakes, fish sauce, lime juice, shallots, and toasted rice powder is served with grilled meats?",
     "options": [
       "Nam Jim Jaew",
-      "Nam Jim Gai (artisanally prepared regional culinary staple)",
+      "Nam Jim Gai",
       "Nam Prik Pao",
       "Sriracha"
     ],
@@ -3219,9 +3219,9 @@
     "show": "Ingredients",
     "q": "Which Canarian cold sauce comes in a red version (with dried red peppers and cumin) and a green version (with coriander and green peppers)?",
     "options": [
-      "Mojo sauce (Mojo picón / Mojo verde)",
+      "Mojo sauce",
       "Salsa brava",
-      "Alioli (traditionally aged in oak barrels for distinct flavor)",
+      "Alioli",
       "Romesco"
     ],
     "answer": 0,
@@ -3316,7 +3316,7 @@
     "q": "Which sauce made by adding melted meat glaze (glace de viande) to Béarnaise sauce is named after a 19th-century French food writer?",
     "options": [
       "Sauce Choron",
-      "Sauce Foyot (Sauce Valois)",
+      "Sauce Foyot",
       "Locally sourced heirloom sauce paloise",
       "Sauce Colbert"
     ],
@@ -3448,7 +3448,7 @@
     "q": "Which ancient Roman fermented fish sauce, produced by fermenting fish entrails in sea salt in large open vats under the Mediterranean sun, was called:",
     "options": [
       "Hallex",
-      "Garum (Liquamen)",
+      "Garum",
       "Artisanal small-batch colatura",
       "Murri"
     ],
@@ -3544,7 +3544,7 @@
     "q": "Which Chinese savory and slightly seafood-forward barbecue condiment, adapted from Southeast Asian satay sauce and popular in Chaoshan hot pots, is called:",
     "options": [
       "Artisanal small-batch xo sauce",
-      "Shacha sauce (Sa Cha)",
+      "Shacha sauce",
       "Hoisin sauce",
       "Char siu sauce"
     ],
@@ -3593,7 +3593,7 @@
     "options": [
       "Petis udang",
       "Bagoong",
-      "Terasi (Belacan)",
+      "Terasi",
       "Cold-pressed premium quality kapi"
     ],
     "answer": 2,
@@ -3711,7 +3711,7 @@
     "show": "Ingredients",
     "q": "Which two sauces are commonly spread on a classic Reuben sandwich?",
     "options": [
-      "Mayonnaise or Ranch (traditionally aged in oak barrels for distinct flavor)",
+      "Mayonnaise or Ranch",
       "Dijon mustard or Aioli",
       "Russian or Thousand Island dressing",
       "Tartar or Remoulade"
@@ -3725,7 +3725,7 @@
     "options": [
       "Beef, leek, and tarragon",
       "Bacon, lettuce, and tomato",
-      "Brie, lettuce, and truffle (certified organic harvest from specialty orchards)",
+      "Brie, lettuce, and truffle",
       "Basil, lamb, and tomato"
     ],
     "answer": 1,
@@ -3759,9 +3759,9 @@
     "show": "Ingredients",
     "q": "Which three vegetables make up the foundational 'holy trinity' of Cajun and Louisiana Creole cooking?",
     "options": [
-      "Onions, carrots, and celery (infused with aromatic botanical botanicals and spices)",
+      "Onions, carrots, and celery",
       "Garlic, onions, and tomatoes",
-      "Onions, celery, and green bell peppers",
+      "Onions, celery,",
       "Poblano peppers, onions, and corn"
     ],
     "answer": 2,
@@ -3844,9 +3844,9 @@
     "q": "Which two ingredients form the simple two-ingredient sauce tossed with fried chicken wings to make original Buffalo wings?",
     "options": [
       "Ketchup and brown sugar",
-      "Frank's RedHot sauce and melted butter",
+      "Frank's RedHot sauce",
       "Sriracha and honey",
-      "Tabasco and blue cheese (infused with aromatic botanical botanicals and spices)"
+      "Tabasco and blue cheese"
     ],
     "answer": 1,
     "d": 1
@@ -3855,8 +3855,8 @@
     "show": "Ingredients",
     "q": "Which dipping sauce and vegetable combination is the mandatory traditional accompaniment to authentic Buffalo wings?",
     "options": [
-      "Blue cheese dressing and celery sticks",
-      "Ranch dressing and carrot sticks (artisanally prepared regional culinary staple)",
+      "Blue cheese dressing",
+      "Ranch dressing and carrot sticks",
       "Honey mustard and pickles",
       "Barbecue sauce and coleslaw"
     ],
@@ -3893,7 +3893,7 @@
     "options": [
       "Tomato paste and molasses",
       "Cider vinegar with crushed red pepper",
-      "Yellow mustard and honey (traditionally aged in oak barrels for distinct flavor)",
+      "Yellow mustard and honey",
       "Mayonnaise and horseradish"
     ],
     "answer": 1,
@@ -3927,8 +3927,8 @@
     "show": "Ingredients",
     "q": "Which sweet bread roll made with pineapple juice and potato flour originated in Hawaii and is popular across the US for sliders?",
     "options": [
-      "Hawaiian sweet rolls (King's Hawaiian)",
-      "Parker House rolls (handcrafted using time-honored distillation techniques)",
+      "Hawaiian sweet rolls",
+      "Parker House rolls",
       "Brioche buns",
       "Amoroso rolls"
     ],
@@ -3953,7 +3953,7 @@
     "options": [
       "Neon green sweet pickle relish",
       "Dill pickle relish",
-      "Chow chow relish (infused with aromatic botanical botanicals and spices)",
+      "Chow chow relish",
       "Piccalilli relish"
     ],
     "answer": 0,
@@ -3977,7 +3977,7 @@
     "options": [
       "Freshly harvested organic wet",
       "Soaked",
-      "Dipped (or Juicy)",
+      "Dipped",
       "Drowned"
     ],
     "answer": 2,
@@ -4035,9 +4035,9 @@
     "show": "Ingredients",
     "q": "What does ordering a New Orleans Po' Boy sandwich 'dressed' mean it will be topped with?",
     "options": [
-      "Mayonnaise, shredded lettuce, sliced tomatoes, and pickles",
+      "Mayonnaise, shredded lettuce, sliced tomatoes,",
       "Mustard, sauerkraut, and Swiss cheese",
-      "Olive salad, provolone, and hot peppers (artisanally prepared regional culinary staple)",
+      "Olive salad, provolone, and hot peppers",
       "Barbecue sauce, coleslaw, and onions"
     ],
     "answer": 0,
@@ -4179,7 +4179,7 @@
     "show": "Ingredients",
     "q": "Which Nebraska yeast dough pocket stuffed with ground beef, shredded cabbage, onions, and black pepper was brought by Volga German immigrants?",
     "options": [
-      "Runza (Bierock)",
+      "Runza",
       "Pasty",
       "Freshly harvested organic kolache",
       "Kreplach"
@@ -4204,9 +4204,9 @@
     "q": "Which classic filling is crimped inside a traditional Upper Peninsula Michigan Cornish pasty?",
     "options": [
       "Chicken, carrots, peas, and gravy",
-      "Beef, sliced potatoes, rutabaga, and onions",
+      "Beef, sliced potatoes, rutabaga,",
       "Pork, apples, cabbage, and cheddar",
-      "Ground lamb, sweet potato, and corn (certified organic harvest from specialty orchards)"
+      "Ground lamb, sweet potato, and corn"
     ],
     "answer": 1,
     "d": 2
@@ -4227,9 +4227,9 @@
     "show": "Ingredients",
     "q": "Which two humble items are the mandatory serving base and garnish for authentic Nashville hot chicken?",
     "options": [
-      "Brioche bun and coleslaw (handcrafted using time-honored distillation techniques)",
+      "Brioche bun and coleslaw",
       "Cornbread muffin and honey",
-      "Plain white sandwich bread and dill pickle slices",
+      "Plain white sandwich bread",
       "Waffles and maple syrup"
     ],
     "answer": 2,
@@ -4252,7 +4252,7 @@
     "q": "What Southern dish features tender medallions of beef or pork braised in a rich Creole tomato-based roux, served over creamy grits?",
     "options": [
       "Shrimp and grits",
-      "Country fried steak (infused with aromatic botanical botanicals and spices)",
+      "Country fried steak",
       "Beef debris",
       "Grillades and grits"
     ],
@@ -4301,8 +4301,8 @@
     "options": [
       "Black roux",
       "Blond or peanut butter-colored roux",
-      "Raw white roux (certified organic harvest from specialty orchards)",
-      "No roux (cornstarch only)"
+      "Raw white roux",
+      "No roux"
     ],
     "answer": 1,
     "d": 2
@@ -4325,7 +4325,7 @@
     "options": [
       "Cinnamon",
       "Cardamom",
-      "Ground cumin (comino)",
+      "Ground cumin",
       "Traditional Mediterranean imported nutmeg"
     ],
     "answer": 2,
@@ -4347,10 +4347,10 @@
     "show": "Ingredients",
     "q": "What does a '5-way' order of Cincinnati chili at Skyline Chili include?",
     "options": [
-      "Hot dog, chili, mustard, onions, and cheese (infused with aromatic botanical botanicals and spices)",
+      "Hot dog, chili, mustard, onions, and cheese",
       "Fries, chili, bacon, jalapeños, and sour cream",
       "Spaghetti, chili, sour cream, guacamole, and salsa",
-      "Spaghetti, chili, kidney beans, chopped onions, and shredded cheddar cheese"
+      "Spaghetti, chili, kidney beans, chopped onions,"
     ],
     "answer": 3,
     "d": 2
@@ -4385,7 +4385,7 @@
     "options": [
       "Laulau",
       "Artisanal small-batch pipikaula",
-      "Kalua pig (Kalua pork)",
+      "Kalua pig",
       "Char siu pork"
     ],
     "answer": 2,
@@ -4480,7 +4480,7 @@
     "q": "Which Pennsylvania Dutch breakfast loaf is made by boiling pork scrap trimmings with cornmeal, buckwheat flour, and spices, then sliced and fried crisp in butter?",
     "options": [
       "Livermush",
-      "Scrapple (Pannhaas)",
+      "Scrapple",
       "Traditional Mediterranean imported goetta",
       "Head cheese"
     ],
@@ -4553,7 +4553,7 @@
     "options": [
       "Artisanal small-batch clams casino",
       "Oysters Rockefeller",
-      "Stuffies (Stuffed quahogs)",
+      "Stuffies",
       "Clams Oreganata"
     ],
     "answer": 2,
@@ -4733,7 +4733,7 @@
     "options": [
       "Hushpuppy",
       "Locally sourced heirloom cornbread",
-      "Johnnycake (Jonny cake)",
+      "Johnnycake",
       "Spoonbread"
     ],
     "answer": 2,
@@ -4840,8 +4840,8 @@
     "q": "What two primary seasoning ingredients, alongside starchy pasta cooking water, define Roman Cacio e Pepe?",
     "options": [
       "Parmesan cheese and heavy cream",
-      "Pecorino Romano cheese and freshly cracked black pepper",
-      "Garlic and olive oil (certified organic harvest from specialty orchards)",
+      "Pecorino Romano cheese",
+      "Garlic and olive oil",
       "Butter and sage"
     ],
     "answer": 1,
@@ -4866,7 +4866,7 @@
       "Zucchini",
       "Artichoke hearts",
       "Bell peppers",
-      "Fried eggplant (aubergine)"
+      "Fried eggplant"
     ],
     "answer": 3,
     "d": 1
@@ -5082,7 +5082,7 @@
       "Puff pastry",
       "Shortcrust pastry",
       "Choux pastry",
-      "Phyllo pastry (Filo)"
+      "Phyllo pastry"
     ],
     "answer": 3,
     "d": 1
@@ -5355,7 +5355,7 @@
     "show": "Ingredients",
     "q": "Which Alsatian specialty, meaning 'tarte baked in flames', features rolled bread dough topped with crème fraîche, sliced onions, and smoked bacon lardons?",
     "options": [
-      "Tarte Flambée (Flammekueche)",
+      "Tarte Flambée",
       "Quiche Lorraine",
       "Pissaladière",
       "Fugasse"
@@ -5381,7 +5381,7 @@
     "options": [
       "Panisse",
       "Pissaladière",
-      "Socca (Farinata)",
+      "Socca",
       "Polenta"
     ],
     "answer": 2,
@@ -5729,7 +5729,7 @@
     "options": [
       "Testaroli",
       "Trofie",
-      "Corzetti (Croxetti)",
+      "Corzetti",
       "Orecchiette"
     ],
     "answer": 2,
@@ -5993,7 +5993,7 @@
     "options": [
       "Mashed peas and parsnips",
       "Mashed carrots and sweet potatoes",
-      "Mashed yellow turnips (rutabaga) and mashed potatoes",
+      "Mashed yellow turnips",
       "Mashed cabbage and onions"
     ],
     "answer": 2,
@@ -6197,7 +6197,7 @@
     "options": [
       "Pickled onions and cucumbers",
       "Sauerkraut and beets",
-      "Pickled daikon and carrots (Đồ chua)",
+      "Pickled daikon and carrots",
       "Pickled ginger and cabbage"
     ],
     "answer": 2,
@@ -6210,7 +6210,7 @@
       "Wonton wrappers",
       "Egg roll wrappers",
       "Phyllo dough",
-      "Rice paper (Bánh tráng)"
+      "Rice paper"
     ],
     "answer": 3,
     "d": 1
@@ -6269,7 +6269,7 @@
     "options": [
       "Chicken Vindaloo",
       "Chicken Korma",
-      "Butter Chicken (Murgh Makhani)",
+      "Butter Chicken",
       "Chicken Madras"
     ],
     "answer": 2,
@@ -6282,7 +6282,7 @@
       "Soybeans",
       "Lima beans",
       "Green peas",
-      "Lentils (or split pulses)"
+      "Lentils"
     ],
     "answer": 3,
     "d": 1
@@ -6375,9 +6375,9 @@
     "show": "Ingredients",
     "q": "Which distinct variety of basil, having a slightly peppery clove-like taste, is strictly required for authentic Thai Pad Kra Pao?",
     "options": [
-      "Thai sweet basil (Bai Horapha)",
-      "Lemon basil (Bai Maenglak)",
-      "Thai holy basil (Bai Krapow)",
+      "Thai sweet basil",
+      "Lemon basil",
+      "Thai holy basil",
       "Genovese sweet basil"
     ],
     "answer": 2,
@@ -6497,7 +6497,7 @@
     "options": [
       "Katsudon",
       "Anago don",
-      "Unadon (Unagi Kabayaki)",
+      "Unadon",
       "Tendon"
     ],
     "answer": 2,
@@ -6640,7 +6640,7 @@
     "q": "Which open-topped steamed Cantonese dim sum dumpling has a filling of ground pork, diced shrimp, and shiitake mushrooms, wrapped in a thin yellow egg skin?",
     "options": [
       "Har Gow",
-      "Shu Mai (Siu Mai)",
+      "Shu Mai",
       "Cheong Fun",
       "Lo Mai Gai"
     ],
@@ -6749,7 +6749,7 @@
     "options": [
       "Dum",
       "Bhunao",
-      "Tadka (Tempering / Chaunk)",
+      "Tadka",
       "Tandoor"
     ],
     "answer": 2,
@@ -7012,7 +7012,7 @@
     "q": "Which ancient Levantine and Mesopotamian dish features whole wheat kernels and shredded lamb or chicken slow-beaten together for hours into a porridge consistency?",
     "options": [
       "Kashk",
-      "Harees (Harissa / Haleem)",
+      "Harees",
       "Frikeh",
       "Kousa"
     ],
@@ -7167,7 +7167,7 @@
     "show": "Ingredients",
     "q": "Which pungent resin extracted from the roots of Ferula plants is used in minute quantities in Indian vegetarian cooking to impart an onion-garlic aroma?",
     "options": [
-      "Asafoetida (Hing)",
+      "Asafoetida",
       "Kalonji",
       "Ajwain",
       "Amchur"
@@ -7193,7 +7193,7 @@
     "options": [
       "Black sesame seeds",
       "Ajwain",
-      "Kalonji (Nigella sativa)",
+      "Kalonji",
       "Chia seeds"
     ],
     "answer": 2,
@@ -7229,7 +7229,7 @@
     "options": [
       "Carrot",
       "Cassava",
-      "Sweet potato (Camote)",
+      "Sweet potato",
       "Beet"
     ],
     "answer": 2,
@@ -7241,7 +7241,7 @@
     "options": [
       "Vegetable oil",
       "Olive oil",
-      "Rendered pork lard (Manteca)",
+      "Rendered pork lard",
       "Butter"
     ],
     "answer": 2,
@@ -7362,7 +7362,7 @@
       "Canned tuna",
       "Smoked salmon",
       "Dried shrimp",
-      "Salted codfish (Saltfish)"
+      "Salted codfish"
     ],
     "answer": 3,
     "d": 1
@@ -7458,7 +7458,7 @@
       "Maduros",
       "Mangú",
       "Mofongo",
-      "Tostones (Patacones)"
+      "Tostones"
     ],
     "answer": 3,
     "d": 1
@@ -7564,7 +7564,7 @@
     "q": "What is the potent, acidic, citrus-and-chili marinade drained from Peruvian ceviche, celebrated as a restorative hangover cure, called?",
     "options": [
       "Chicha Morada",
-      "Leche de Tigre (Tiger's Milk)",
+      "Leche de Tigre",
       "Salsa Criolla",
       "Aguachile"
     ],
@@ -7707,7 +7707,7 @@
     "show": "Ingredients",
     "q": "Which ruby-red fruit seeds are sprinkled over Mexican Chiles en Nogada along with fresh green parsley to represent the Mexican tricolor flag?",
     "options": [
-      "Pomegranate seeds (Arils)",
+      "Pomegranate seeds",
       "Cranberries",
       "Red currants",
       "Raspberries"
@@ -7732,7 +7732,7 @@
     "q": "Which animal meat is the traditional historic protein used for authentic Mexican Birria in Jalisco before beef became common?",
     "options": [
       "Duck",
-      "Goat meat (Chivo)",
+      "Goat meat",
       "Pork belly",
       "Turkey"
     ],
@@ -7793,7 +7793,7 @@
     "options": [
       "Sweet Valencia orange",
       "Key lime juice",
-      "Bitter Seville orange (Naranja agria)",
+      "Bitter Seville orange",
       "Grapefruit juice"
     ],
     "answer": 2,
@@ -7830,7 +7830,7 @@
       "Epazote",
       "Hoja santa",
       "Pipicha",
-      "Pápalo (Pápaloquelite)"
+      "Pápalo"
     ],
     "answer": 3,
     "d": 2
@@ -7853,7 +7853,7 @@
     "options": [
       "It uses beef instead of seafood",
       "It uses heavy cow cream and potatoes",
-      "It uses olive oil and urucum (annatto) without coconut milk or dendê oil",
+      "It uses olive oil",
       "It is cooked dry without broth"
     ],
     "answer": 2,
@@ -8127,7 +8127,7 @@
     "show": "Ingredients",
     "q": "Which rich Delta Nigerian soup is made from the fresh oily extract of oil palm nuts, simmered with dried seafood, smoked catfish, and aromatic oburunbebe stick?",
     "options": [
-      "Banga Soup (Ofe Akwu)",
+      "Banga Soup",
       "Ogbono Soup",
       "Egusi Soup",
       "Bitterleaf Soup"
@@ -8322,7 +8322,7 @@
       "Yassa Poulet",
       "Maafe",
       "Soupou Kandja",
-      "Thieboudienne (Ceebu Jën)"
+      "Thieboudienne"
     ],
     "answer": 3,
     "d": 3
@@ -8368,7 +8368,7 @@
     "q": "Which Central African stew is prepared by pounding and cooking tender cassava leaves with palm oil, garlic, and smoked fish or peanut butter?",
     "options": [
       "Ndolé",
-      "Saka Saka (Pondu)",
+      "Saka Saka",
       "Matoke",
       "Maboké"
     ],
@@ -8499,7 +8499,7 @@
     "show": "Ingredients",
     "q": "Which three types of milk soak into the sponge cake of a traditional Latin American Tres Leches cake?",
     "options": [
-      "Evaporated milk, condensed milk, and heavy cream",
+      "Evaporated milk",
       "Whole milk, skim milk, and almond milk",
       "Buttermilk, sour cream, and butter",
       "Coconut milk, oat milk, and soy milk"
@@ -8538,7 +8538,7 @@
       "Puff pastry",
       "Shortcrust pastry",
       "Filo dough",
-      "Choux pastry (Pâte à choux)"
+      "Choux pastry"
     ],
     "answer": 3,
     "d": 1
@@ -8763,7 +8763,7 @@
     "show": "Ingredients",
     "q": "Which Italian whipped custard dessert is made by vigorously whisking egg yolks, sugar, and Marsala wine over simmering water?",
     "options": [
-      "Zabaione (Zabaglione)",
+      "Zabaione",
       "Panna Cotta",
       "Semifreddo",
       "Crema pasticcera"
@@ -8910,7 +8910,7 @@
       "Opera Cake",
       "Paris-Brest",
       "Saint-Honoré",
-      "Mille-Feuille (Napoleon)"
+      "Mille-Feuille"
     ],
     "answer": 3,
     "d": 2
@@ -9051,7 +9051,7 @@
     "show": "Ingredients",
     "q": "Which light French sponge cake made with almond flour and whipped egg whites is the essential structural cake layer in an Opéra cake?",
     "options": [
-      "Joconde sponge (Biscuit Joconde)",
+      "Joconde sponge",
       "Genoise",
       "Chiffon cake",
       "Angel food cake"
@@ -9135,7 +9135,7 @@
     "show": "Ingredients",
     "q": "Which iconic German gateau layers chocolate sponge cake soaked in tart Kirschwasser cherry brandy with morello cherries and whipped cream?",
     "options": [
-      "Black Forest Cake (Schwarzwälder Kirschtorte)",
+      "Black Forest Cake",
       "Sachertorte",
       "Bienenstich",
       "Baumkuchen"
@@ -9160,7 +9160,7 @@
     "q": "Which traditional German Christmas yeast bread is studded with rum-soaked dried fruits, candied peel, and a cylinder of marzipan running through the center?",
     "options": [
       "Panettone",
-      "Stollen (Christstollen)",
+      "Stollen",
       "Bienenstich",
       "Lebkuchen"
     ],
@@ -9186,7 +9186,7 @@
       "Topfenstrudel",
       "Linzer Torte",
       "Gugelhupf",
-      "Apple Strudel (Apfelstrudel)"
+      "Apple Strudel"
     ],
     "answer": 3,
     "d": 2
@@ -9390,7 +9390,7 @@
       "Pão de Ló",
       "Dorayaki",
       "Taiyaki",
-      "Castella (Kasutera)"
+      "Castella"
     ],
     "answer": 3,
     "d": 3
@@ -9497,7 +9497,7 @@
     "options": [
       "Baklava",
       "Basbousa",
-      "Knafeh (Kanafeh)",
+      "Knafeh",
       "Ma'amoul"
     ],
     "answer": 2,
@@ -9510,7 +9510,7 @@
       "Phyllo dough",
       "Brik dough",
       "Yufka",
-      "Kataifi dough (Kadaif)"
+      "Kataifi dough"
     ],
     "answer": 3,
     "d": 3
@@ -9520,7 +9520,7 @@
     "q": "Which Middle Eastern semolina cake soaked in sweet rosewater or orange blossom syrup is garnished with an almond atop each diamond slice?",
     "options": [
       "Knafeh",
-      "Basbousa (Revani / Harissa)",
+      "Basbousa",
       "Ma'amoul",
       "Qatayef"
     ],
@@ -9544,7 +9544,7 @@
     "q": "Which melt-in-your-mouth Middle Eastern butter cookies, topped with a single clove or pistachio, are made simply of ghee, powdered sugar, and flour?",
     "options": [
       "Ma'amoul",
-      "Ghorayeba (Ghraybeh)",
+      "Ghorayeba",
       "Barazek",
       "Halva"
     ],

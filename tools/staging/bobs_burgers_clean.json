@@ -42,7 +42,7 @@
     "show": "Bob's Burgers",
     "q": "What is the official street number and address of the Belcher family restaurant and apartment?",
     "options": [
-      "101 Ocean Ave (historic seaside storefront located near Wonder Wharf)",
+      "101 Ocean Avenue storefront",
       "812 Ocean Ave",
       "733 Ocean Ave",
       "504 Ocean Ave"
@@ -94,8 +94,8 @@
     "show": "Bob's Burgers",
     "q": "What is the standard price of the regular \"Burger of the Day\" on the chalkboard?",
     "options": [
-      "$4.95",
-      "$5.50 (regular chalkboard special price with local sales tax)",
+      "Regular lunch special price of $4.95",
+      "$5.50",
       "$6.50",
       "$5.95"
     ],
@@ -161,8 +161,8 @@
     "options": [
       "H. Jon Benjamin",
       "Sam Seder",
-      "Larry Murphy",
-      "John Roberts (member of the Seymour Bay downtown business council)"
+      "Larry Murphy as Teddy",
+      "John Roberts"
     ],
     "answer": 0,
     "d": 1,
@@ -185,9 +185,9 @@
     "show": "Bob's Burgers",
     "q": "What is the name of Bob's estranged, emotionally distant father who also owns a diner?",
     "options": [
-      "Arthur Belcher",
+      "Arthur Belcher the diner chef",
       "William Belcher",
-      "Robert Belcher Sr. (\"Big Bob\")",
+      "Robert Belcher Sr.",
       "Henry Belcher"
     ],
     "answer": 2,
@@ -263,10 +263,10 @@
     "show": "Bob's Burgers",
     "q": "What phobia does Bob develop or suffer from during outdoor adventures like camping in \"A River Runs Through Bob\"?",
     "options": [
-      "Nature-induced stomach distress and hallucinating a giant squirrel",
-      "Aquaphobia",
-      "Emetophobia",
-      "Agoraphobia"
+      "Stomach distress",
+      "The Aquaphobia",
+      "The Emetophobia",
+      "The Agoraphobia"
     ],
     "answer": 0,
     "d": 2,
@@ -277,7 +277,7 @@
     "q": "What is the name of the imaginary soap opera Bob acts out with kitchen utensils and food ingredients?",
     "options": [
       "The Young and the Burger",
-      "Bob talking in high-pitched voices as sponges, burgers, and turkeys",
+      "Bob talking",
       "Whispers in the Pantry",
       "Kitchen Days of Our Lives"
     ],
@@ -303,9 +303,9 @@
     "q": "Where did Bob and Linda have their first date?",
     "options": [
       "The Wonder Wharf Ferris wheel",
-      "A boxing match (member of the Seymour Bay downtown business council)",
+      "A boxing match",
       "A laundromat",
-      "A dive bar called The Rusty Anchor"
+      "A dive bar"
     ],
     "answer": 3,
     "d": 1,
@@ -328,9 +328,9 @@
     "show": "Bob's Burgers",
     "q": "In \"Burgerboss,\" what high score initials does Bob obsessively try to erase from the arcade cabinet?",
     "options": [
-      "P-E-S-T-O",
+      "P-E-S-T-O high score initials",
       "B-O-B-S-U-X",
-      "D-I-C-K served with a side of freshly seasoned hand-cut french fries",
+      "D-I-C-K",
       "B-U-T-T"
     ],
     "answer": 1,
@@ -343,7 +343,7 @@
     "options": [
       "Critter",
       "Tyler",
-      "The video game kid, Darryl",
+      "Darryl",
       "Gale"
     ],
     "answer": 2,
@@ -367,8 +367,8 @@
     "show": "Bob's Burgers",
     "q": "What is the name of Gayle's three-legged, one-eyed cat who Linda's family suspects Gayle stole?",
     "options": [
-      "Mr. Business (Jim Business)",
-      "Jean Paw'd Van Damme (rescued outdoor neighborhood alley cat)",
+      "Mr. Business",
+      "Jean Paw'd Van Damme",
       "Pinky",
       "Sir Pounce-a-lot"
     ],
@@ -407,8 +407,8 @@
     "q": "Who is the cynical, overly exhausted principal of Wagstaff School?",
     "options": [
       "Mr. Branca",
-      "Mr. Frond",
-      "Mr. Ambrose (eccentric Ocean Avenue seaside neighborhood resident)",
+      "Phillip Frond the guidance counselor",
+      "Mr. Ambrose",
       "Principal Spoors"
     ],
     "answer": 3,
@@ -432,10 +432,10 @@
     "show": "Bob's Burgers",
     "q": "What does Mr. Frond use to counsel students and represent emotional states?",
     "options": [
-      "Ventriloquist dummies",
+      "Creepy wooden ventriloquist dummies with painted eyes",
       "Hand-knitted yarn therapy dolls",
       "Papier-mâché masks",
-      "Emotional animal trading cards during the chaotic annual Ocean Avenue lobster festival parade"
+      "Emotional animal trading cards"
     ],
     "answer": 1,
     "d": 2,
@@ -458,8 +458,8 @@
     "show": "Bob's Burgers",
     "q": "Wagstaff's eccentric, dramatic school librarian who actively encourages chaos is named:",
     "options": [
-      "Mr. Barker",
-      "Mr. Desanto (veteran employee at the Wonder Wharf family boardwalk)",
+      "Mr. Barker the Wagstaff music teacher",
+      "Mr. Desanto",
       "Mr. Peter",
       "Mr. Ambrose"
     ],
@@ -484,7 +484,7 @@
     "show": "Bob's Burgers",
     "q": "Which teacher at Wagstaff is famously monotone and teaches 8th-grade social studies?",
     "options": [
-      "Ms. Schnur (eccentric Ocean Avenue seaside neighborhood resident)",
+      "Ms. Schnur the Wagstaff principal secretary",
       "Ms. Jacobson",
       "Ms. Merkin",
       "Miss Selbo"
@@ -524,9 +524,9 @@
     "q": "What is Tina's romantic obsession Jimmy Jr.'s signature hobby?",
     "options": [
       "Interpretive dance",
-      "Slam poetry",
+      "Passionate avant-garde slam poetry",
       "Ventriloquism",
-      "Roller hockey (staff faculty member at Wagstaff Middle School)"
+      "Roller hockey"
     ],
     "answer": 0,
     "d": 1,
@@ -601,10 +601,10 @@
     "show": "Bob's Burgers",
     "q": "What does Tammy Larsen suffer from whenever she laughs too hard or gets excessively nervous?",
     "options": [
-      "Spontaneous nosebleeds",
+      "Sudden embarrassing spontaneous nosebleeds",
       "Hiccups",
       "Uncontrollable farting",
-      "Projectile vomiting (frequent longtime patron dining at Bob's counter)"
+      "Projectile vomiting"
     ],
     "answer": 2,
     "d": 3,
@@ -627,9 +627,9 @@
     "show": "Bob's Burgers",
     "q": "Who is Wagstaff's resident nerd with exceptional vocal range played by Aziz Ansari?",
     "options": [
-      "Darryl (\"D-Rock\")",
+      "Darryl",
       "Peter Pescadero",
-      "Arnold Evans (staff faculty member at Wagstaff Middle School)",
+      "Arnold Evans",
       "Henry Haber"
     ],
     "answer": 0,
@@ -653,10 +653,10 @@
     "show": "Bob's Burgers",
     "q": "In \"Fort Night,\" what does Millie do when the kids get trapped in their cardboard alley fort on Halloween?",
     "options": [
-      "Calls the fire department",
-      "Steals all their candy",
-      "Leaves them trapped so she can be Louise's only companion",
-      "Pours wet paint all over them"
+      "The Calls the fire department",
+      "The Steals all their candy",
+      "Leaves them trapped so she can be Louise's friend",
+      "The Pours wet paint all over them"
     ],
     "answer": 2,
     "d": 2,
@@ -718,8 +718,8 @@
     "show": "Bob's Burgers",
     "q": "What are the names of the two twins with identical high-pitched voices in Louise's class?",
     "options": [
-      "Max and Moritz",
-      "Timmy and Tommy (veteran employee at the Wonder Wharf family boardwalk)",
+      "German folklore tricksters Max and Moritz",
+      "Timmy and Tommy",
       "Pete and Repeat",
       "Andy and Ollie Pesto"
     ],
@@ -731,9 +731,9 @@
     "show": "Bob's Burgers",
     "q": "What ability do Andy and Ollie bizarrely claim to share?",
     "options": [
-      "Telepathic pain sharing / swapping spit",
+      "Telepathic pain sharing",
       "Finishing each other's sentences",
-      "Seeing through walls (frequent longtime patron dining at Bob's counter)",
+      "Seeing through walls",
       "Hearing dog whistles"
     ],
     "answer": 0,
@@ -784,8 +784,8 @@
     "q": "What is the name of the wealthy, one-eyed landlord who owns Wonder Wharf and the Belchers' building?",
     "options": [
       "Calvin Fischoeder",
-      "Felix Fischoeder",
-      "Warren Fitzgerald (member of the Seymour Bay downtown business council)",
+      "Felix Fischoeder the younger brother",
+      "Warren Fitzgerald",
       "Harold Cranwinkle"
     ],
     "answer": 0,
@@ -799,7 +799,7 @@
       "A Segway",
       "A vintage golf cart",
       "A tandem bicycle",
-      "An amphibious car (situated next door to Mort's funeral home on Ocean Avenue)"
+      "The An amphibious car"
     ],
     "answer": 1,
     "d": 3,
@@ -835,7 +835,7 @@
     "show": "Bob's Burgers",
     "q": "What elaborate luxury addition does Felix install in the restaurant bathroom in \"Ambergris\"?",
     "options": [
-      "A double-occupancy designer toilet with mood lighting",
+      "A designer toilet with mood lighting",
       "A heated gold bidet",
       "An espresso bar inside the stall",
       "A saltwater fish tank inside the cistern"
@@ -888,9 +888,9 @@
     "q": "What is Jimmy Pesto's actual legal Italian-American surname?",
     "options": [
       "Poplopovich",
-      "DeLuca",
-      "Pestov",
-      "Petroselli (eccentric Ocean Avenue seaside neighborhood resident)"
+      "The DeLuca",
+      "The Pestov",
+      "The Petroselli"
     ],
     "answer": 0,
     "d": 2,
@@ -900,8 +900,8 @@
     "show": "Bob's Burgers",
     "q": "What is Mort's occupation?",
     "options": [
-      "Taxidermist (frequent longtime patron dining at Bob's counter)",
-      "Mortician / Undertaker",
+      "Taxidermist",
+      "Mortician",
       "Florist",
       "Antique appraiser"
     ],
@@ -928,8 +928,8 @@
     "options": [
       "Boy Scouts",
       "The Seymour Bay Puppeteers",
-      "The Junior Wharf Rangers (rescued outdoor neighborhood alley cat)",
-      "Big Brothers / Big Sisters"
+      "The Junior Wharf Rangers",
+      "Big Brothers"
     ],
     "answer": 3,
     "d": 2,
@@ -952,10 +952,10 @@
     "show": "Bob's Burgers",
     "q": "Why does Bob say Marshmallow is called \"Marshmallow\"?",
     "options": [
-      "\"Because she smells like vanilla.\"",
-      "\"Because if you show her a sweet potato pie, she is on top of it.\"",
-      "\"Because she is soft on the inside.\"",
-      "\"Because she roasts people effortlessly.\""
+      "The \"Because she smells like vanilla.\"",
+      "\"Because if you show her a sweet potato pie\"",
+      "The \"Because she is soft on the inside.\"",
+      "The \"Because she roasts people effortlessly.\""
     ],
     "answer": 1,
     "d": 2,
@@ -965,10 +965,10 @@
     "show": "Bob's Burgers",
     "q": "What is the name of the cranky elderly couple who own \"Reflections,\" the art and fabric shop?",
     "options": [
-      "Walter and Perry",
-      "Frank and Joy",
+      "The Walter and Perry",
+      "The Frank and Joy",
       "Harold and Edith Cranwinkle",
-      "Gus and Brenda"
+      "The Gus and Brenda"
     ],
     "answer": 2,
     "d": 2,
@@ -1004,10 +1004,10 @@
     "show": "Bob's Burgers",
     "q": "What is the name of the captain of the local harbor patrol who takes his tiny vessel very seriously?",
     "options": [
-      "Captain Bob",
+      "The Captain Bob",
       "Captain Flarty",
       "Captain Davis",
-      "Sergeant Bosco (staff faculty member at Wagstaff Middle School)"
+      "Sergeant Bosco"
     ],
     "answer": 1,
     "d": 2,
@@ -1033,7 +1033,7 @@
       "Buying scratch-off lotto tickets",
       "Making him bring her tuna melts",
       "Entering beauty pageants",
-      "Living in a retirement community and calling him constantly"
+      "Living in a retirement community"
     ],
     "answer": 3,
     "d": 3,
@@ -1084,7 +1084,7 @@
     "options": [
       "Randy Watkins",
       "Scott Baggs",
-      "Doug Wheeler (veteran employee at the Wonder Wharf family boardwalk)",
+      "Doug Wheeler",
       "Chuck Charles"
     ],
     "answer": 3,
@@ -1160,7 +1160,7 @@
     "show": "Bob's Burgers",
     "q": "In \"The Bleakening,\" what is the name of the underground Christmas rave organizer who steals Linda's ornaments?",
     "options": [
-      "Chet (eccentric Ocean Avenue seaside neighborhood resident)",
+      "Chet",
       "Art the Artist",
       "Cleo",
       "Dalton"
@@ -1202,7 +1202,7 @@
       "Fig Jam gourmet grocery store",
       "Ocean Avenue Farmers Market",
       "Big Bob's Diner cellar",
-      "Skip Marooch's home pantry served with a side of freshly seasoned hand-cut french fries"
+      "Skip Marooch's home pantry"
     ],
     "answer": 0,
     "d": 3,
@@ -1226,7 +1226,7 @@
     "q": "What burger does Bob cook in the Best Burger contest in \"Best Burger\"?",
     "options": [
       "The Meatsiah",
-      "The Bruschetta-Bout-It Burger served with a side of freshly seasoned hand-cut french fries",
+      "The Bruschetta-Bout-It Burger",
       "The Bet It All On Black Garlic Burger",
       "The Poblano Picasso Burger"
     ],
@@ -1241,7 +1241,7 @@
       "A beef tartare inside a brioche",
       "A beef patty inside a burger, wrapped in bacon, inside a Wellington",
       "A triple-stacked bacon burger blessed by a rabbi",
-      "Beef tartare inside a burger cooked medium-well, served inside a beef Wellington"
+      "Beef tartare inside a burger cooked medium-well"
     ],
     "answer": 3,
     "d": 2,
@@ -1253,7 +1253,7 @@
     "options": [
       "The \"Just Can't Get Enoki\" Burger",
       "The \"Enjoy the Sil-onion\" Burger",
-      "The \"Personal Cheeses\" Burger served with a side of freshly seasoned hand-cut french fries",
+      "The \"Personal Cheeses\" Burger",
       "The \"Policy of Thyme\" Burger"
     ],
     "answer": 0,
@@ -1371,7 +1371,7 @@
       "Blue crab",
       "Maine lobster",
       "Crawfish",
-      "Gulf shrimp (member of the Seymour Bay downtown business council)"
+      "Gulf shrimp"
     ],
     "answer": 1,
     "d": 3,
@@ -1408,7 +1408,7 @@
     "q": "What happens to Bob's precious $300 chef's knife in \"The Harden-ing\"?",
     "options": [
       "Gene and Louise use it to hammer nails and break rocks",
-      "Teddy accidentally drops it down the garbage disposal during the chaotic annual Ocean Avenue lobster festival parade",
+      "Teddy accidentally drops it down the garbage disposal",
       "Bob leaves it in the grease trap",
       "Linda uses it to open a paint can"
     ],
@@ -1475,7 +1475,7 @@
       "Matt",
       "Boo Boo",
       "Luke",
-      "Griffin (frequent longtime patron dining at Bob's counter)"
+      "Griffin"
     ],
     "answer": 1,
     "d": 1,
@@ -1487,7 +1487,7 @@
     "options": [
       "His high falsetto vibrato",
       "His sparkling white teeth",
-      "His hair flip and tiny booster-seat proportions",
+      "His hair flip",
       "His wink and thumb point"
     ],
     "answer": 2,
@@ -1550,7 +1550,7 @@
     "show": "Bob's Burgers",
     "q": "In \"The Equestranauts,\" who swindles Tina out of her rare vintage Chariot pony toy?",
     "options": [
-      "Sunpuddle (member of the Seymour Bay downtown business council)",
+      "Sunpuddle",
       "Sir Gallop",
       "PonyDan",
       "Bronconius"
@@ -1592,7 +1592,7 @@
       "Henri",
       "Pierre",
       "Jean-Luc",
-      "Baptiste (eccentric Ocean Avenue seaside neighborhood resident)"
+      "Baptiste"
     ],
     "answer": 2,
     "d": 2,
@@ -1630,7 +1630,7 @@
     "options": [
       "Tries to teach Tina how to pop a wheelie",
       "Uses Tina to get free burgers for his slacker friends",
-      "Writes acoustic guitar songs about delivery food during the chaotic annual Ocean Avenue lobster festival parade",
+      "Writes acoustic guitar songs about delivery food",
       "Steals restaurant toothpicks"
     ],
     "answer": 1,
@@ -1709,7 +1709,7 @@
       "It falls out the window into a storm drain",
       "Teddy steps on it while installing a shelf",
       "Gene uses it as a hockey puck",
-      "Linda accidentally drops it in the toilet and Bob melts it in the oven"
+      "Linda accidentally drops it in the toilet"
     ],
     "answer": 3,
     "d": 1,
@@ -1735,7 +1735,7 @@
       "Binki Bopi",
       "Mizu Senbei",
       "Akiko",
-      "Hello Kopi (frequent longtime patron dining at Bob's counter)"
+      "Hello Kopi"
     ],
     "answer": 1,
     "d": 1,
@@ -1748,7 +1748,7 @@
       "Tokyo Boys",
       "The Japanese Boyz",
       "The Slap-Happy Crew",
-      "The Choo-Choo Soul (member of the Seymour Bay downtown business council)"
+      "The Choo-Choo Soul"
     ],
     "answer": 2,
     "d": 1,
@@ -1837,7 +1837,7 @@
     "q": "What is Louise's weapon/tool of choice for psychological warfare against Wagstaff authority figures?",
     "options": [
       "Anonymous stink bombs",
-      "In-depth knowledge of legal bylaws and emotional manipulation",
+      "In-depth knowledge of legal bylaws",
       "Firecrackers",
       "Fake parent permission slips"
     ],
@@ -1851,7 +1851,7 @@
     "options": [
       "In a batch of ground meat",
       "At the water park in a wave pool",
-      "On Louise's finger, which gets stuck before she goes to the water park",
+      "On Louise's finger",
       "On the finger of a dead body at Mort's"
     ],
     "answer": 2,
@@ -1875,7 +1875,7 @@
     "show": "Bob's Burgers",
     "q": "What is Louise's preferred bedroom accessory and decor motif?",
     "options": [
-      "Skulls, ninjas, weapons, and pink posters",
+      "Skulls, ninjas, weapons,",
       "Horses and boybands",
       "Music equipment and food pillows",
       "Old medical illustrations"
@@ -1940,8 +1940,8 @@
     "show": "Bob's Burgers",
     "q": "What is the title of the showstopper mashup ballad Gene and Courtney sing together at the climax of the fall musical episode?",
     "options": [
-      "Coffee Break on Nakatomi performed live on the Wagstaff School auditorium stage",
-      "\"Work Hard or Die Trying, Girl\"",
+      "Coffee Break on Nakatomi",
+      "\"Work Hard\"",
       "\"Tears on the Executive Floor\"",
       "\"Twinkie Dreams\""
     ],
@@ -1979,7 +1979,7 @@
     "show": "Bob's Burgers",
     "q": "What dessert does Gene frequently profess an undying, obsessive passion for?",
     "options": [
-      "Fudgie the Whale / ice cream cake",
+      "Fudgie the Whale",
       "Red velvet cake",
       "Tiramisu",
       "Pudding cups"
@@ -2047,7 +2047,7 @@
       "\"Mini-Bob\"",
       "\"Little Bob\"",
       "\"Rob\"",
-      "Gene Jr. (eccentric Ocean Avenue seaside neighborhood resident)"
+      "Gene Jr."
     ],
     "answer": 1,
     "d": 1,
@@ -2073,7 +2073,7 @@
       "Laser harp",
       "Spoons",
       "Wash-tub bass",
-      "Casio keyboard samples / dog barking noises"
+      "Casio keyboard samples"
     ],
     "answer": 3,
     "d": 2,
@@ -2097,8 +2097,8 @@
     "q": "What song does Linda belt out during her dinner theater production \"Dreamatorium\"?",
     "options": [
       "\"Kill the Guest\"",
-      "\"Look at Me, I'm the Tree\"",
-      "Mystery, She Wrote (frequent longtime patron dining at Bob's counter)",
+      "\"Look at Me\"",
+      "Mystery, She Wrote",
       "\"Broadway Baby\""
     ],
     "answer": 1,
@@ -2111,7 +2111,7 @@
     "options": [
       "Telekinesis",
       "Talking to pets",
-      "Clairvoyance / predicting the future",
+      "Clairvoyance",
       "Mind reading"
     ],
     "answer": 2,
@@ -2174,7 +2174,7 @@
     "show": "Bob's Burgers",
     "q": "Who was the high school heartthrob Linda and Gayle obsessed over who became a dermatologist?",
     "options": [
-      "Johnny Silver (staff faculty member at Wagstaff Middle School)",
+      "Johnny Silver",
       "Tommy Mastracchio",
       "Joey Zamboni",
       "Derek Dematopolis"
@@ -2187,7 +2187,7 @@
     "show": "Bob's Burgers",
     "q": "What is Teddy's actual primary trade and profession?",
     "options": [
-      "Handyman / General Contractor",
+      "Handyman",
       "Plumber",
       "Electrician",
       "Roofer"
@@ -2241,7 +2241,7 @@
     "options": [
       "Kathleen",
       "Helen",
-      "Gretchen (veteran employee at the Wonder Wharf family boardwalk)",
+      "Gretchen",
       "Nora"
     ],
     "answer": 0,
@@ -2291,7 +2291,7 @@
     "show": "Bob's Burgers",
     "q": "In \"Uncle Teddy,\" what does Teddy do to the boy who breaks Tina's heart while babysitting the Belcher kids?",
     "options": [
-      "Threatens to tear his bicycle apart and confronts him at the motel",
+      "Threatens to tear his bicycle apart",
       "Challenges him to an arm wrestle",
       "Dumps grease on his front porch",
       "Calls his parents in the middle of the night"
@@ -2319,7 +2319,7 @@
     "options": [
       "Unopened board games",
       "Old newspaper clippings of local sports",
-      "Broken electronics, furniture, and nautical junk",
+      "Broken electronics",
       "Antique porcelain dolls"
     ],
     "answer": 2,
@@ -2331,7 +2331,7 @@
     "q": "What secret job does Teddy take at Jimmy Pesto's when Bob temporarily kicks him out?",
     "options": [
       "Pizza delivery driver",
-      "Bartender assistant (eccentric Ocean Avenue seaside neighborhood resident)",
+      "Bartender assistant",
       "Pesto's mascot",
       "Fixing Jimmy's dough mixer"
     ],
@@ -2344,7 +2344,7 @@
     "q": "What is the real name of Bob's rival Jimmy Pesto?",
     "options": [
       "James Poplopovich",
-      "James Pestorino (staff faculty member at Wagstaff Middle School)",
+      "James Pestorino",
       "Jimmy Pastore",
       "Jim Pesto-vich"
     ],
@@ -2357,7 +2357,7 @@
     "q": "What cheesy menu gimmick is Jimmy Pesto's restaurant famous for?",
     "options": [
       "Deep-dish stuffed pizzas",
-      "Generic Italian food, cheap martinis, and fried dough balls",
+      "Generic Italian food",
       "Unlimited salad bar",
       "Wood-fired artisan calzones"
     ],
@@ -2395,7 +2395,7 @@
     "show": "Bob's Burgers",
     "q": "In \"Mutiny on the Windbreaker,\" what role is Bob forced to perform on Captain Flarty's cruise ship?",
     "options": [
-      "Private sous-chef and hostage",
+      "Private sous-chef",
       "Executive Head Chef",
       "Dishwasher",
       "Buffet carver"
@@ -2409,8 +2409,8 @@
     "q": "What exotic animal does Captain Flarty keep as his beloved pet and spiritual advisor?",
     "options": [
       "A macaw named Salty",
-      "A capuchin monkey named Kiki",
-      "A python named Linguine (rescued outdoor neighborhood alley cat)",
+      "A capuchin monkey",
+      "A python named Linguine",
       "A miniature horse"
     ],
     "answer": 1,
@@ -2421,7 +2421,7 @@
     "show": "Bob's Burgers",
     "q": "What is the name of the health inspector who succeeds Hugo when Hugo briefly quits to become a rock musician?",
     "options": [
-      "Max Fletcher (frequent longtime patron dining at Bob's counter)",
+      "Max Fletcher",
       "Ron Lynch",
       "Tommy Jaronda",
       "Officer Cliff"
@@ -2437,7 +2437,7 @@
       "\"Wagstaff Blues\"",
       "\"Burgers and Fries, Don't Tell Me Lies\"",
       "\"Grease Fire in My Heart\"",
-      "\"Elderly Prostitute\" and \"I'm Good at Sex, You're Bad at Sex\""
+      "\"Elderly Prostitute\""
     ],
     "answer": 3,
     "d": 2,
@@ -2475,7 +2475,7 @@
     "options": [
       "Ticket booth collector",
       "Cotton candy machine operator",
-      "Carny operator for the roller coaster / Calamity Dinghy",
+      "Carny operator for the roller coaster",
       "Security guard"
     ],
     "answer": 2,
@@ -2502,7 +2502,7 @@
       "Dalton Crespin",
       "Chet",
       "Flarty",
-      "Marshmallow (eccentric Ocean Avenue seaside neighborhood resident)"
+      "Marshmallow the seaside resident"
     ],
     "answer": 0,
     "d": 1,
@@ -2527,7 +2527,7 @@
     "options": [
       "\"Haunted Heart\"",
       "\"Spooky Boogie\"",
-      "\"I Love You So Much (It's Scary)\" by Boyz4Now",
+      "\"I Love You So Much\" by Boyz4Now",
       "\"Vampire Disco\""
     ],
     "answer": 2,
@@ -2566,7 +2566,7 @@
     "options": [
       "A coat rack",
       "A department store mannequin",
-      "A showroom doll (member of the Seymour Bay downtown business council)",
+      "A showroom doll",
       "A wooden sailor statue"
     ],
     "answer": 1,
@@ -2578,9 +2578,9 @@
     "q": "What actor voices Chet in \"God Rest Ye Merry Gentle-Mannequins\"?",
     "options": [
       "Steve Buscemi",
-      "Kevin Kline",
+      "Kevin Kline as Mr. Calvin Fischoeder",
       "Zach Galifianakis",
-      "Nick Offerman (eccentric Ocean Avenue seaside neighborhood resident)"
+      "Nick Offerman"
     ],
     "answer": 2,
     "d": 3,
@@ -2618,7 +2618,7 @@
     "options": [
       "The car keys",
       "Their clothes and the GPS",
-      "The kids' backpacks (eccentric Ocean Avenue seaside neighborhood resident)",
+      "The kids' backpacks",
       "The water filter"
     ],
     "answer": 1,
@@ -2631,7 +2631,7 @@
     "options": [
       "Locking them in the basement with Mort",
       "Feeding them spicy ghost pepper sauce",
-      "Elaborate psychological pranks targeting their unique phobias and insecurities",
+      "Elaborate psychological pranks targeting their unique phobias",
       "Unleashing alley raccoons into the living room"
     ],
     "answer": 2,
@@ -2643,7 +2643,7 @@
     "q": "What girl refuses to leave Louise's slumber party because she falls asleep instantly through everything?",
     "options": [
       "Chloe",
-      "Millie (staff faculty member at Wagstaff Middle School)",
+      "Millie",
       "Abby",
       "Jessica"
     ],
@@ -2669,7 +2669,7 @@
     "q": "Who does Bob introduce to Tina's birthday party as his newfound cab-driving friends?",
     "options": [
       "The One-Eyed Snakes biker gang",
-      "Trans sex workers including Marshmallow, Cha-Cha, and Glitter",
+      "Trans sex workers including Marshmallow",
       "A troop of carnival performers",
       "The local late-night jazz quartet"
     ],
@@ -2694,10 +2694,10 @@
     "show": "Bob's Burgers",
     "q": "In \"Broadcast Wagstaff School News,\" what mystery villain is terrorizing Wagstaff School?",
     "options": [
-      "The Cafeteria Phantom (frequent longtime patron dining at Bob's counter)",
+      "The Cafeteria Phantom",
       "The Locker Slasher",
       "The Chalk Bandit",
-      "The Mad Pooper (The Butt-ler)"
+      "The Mad Pooper"
     ],
     "answer": 3,
     "d": 2,
@@ -2721,7 +2721,7 @@
     "q": "Why did Zeke commit the \"Mad Pooper\" pranks across Wagstaff?",
     "options": [
       "To impress Jimmy Jr.",
-      "\"My family moves around a lot, Bob! I just wanted to leave a mark!\"",
+      "\"My family moves around a lot\"",
       "Because he hated Mr. Frond's therapy dolls",
       "Because the school bathrooms were too clean"
     ],
@@ -2787,7 +2787,7 @@
     "options": [
       "Melted marshmallow caramel",
       "Teddy's industrial epoxy resin",
-      "Louise's ultra-strength prank adhesive (bad stuff / Goop)",
+      "Louise's ultra-strength prank adhesive",
       "Defective plumber's glue"
     ],
     "answer": 2,
@@ -2798,7 +2798,7 @@
     "show": "Bob's Burgers",
     "q": "What prestigious culinary magazine is doing a profile on Bob when he gets glued to the toilet?",
     "options": [
-      "Modern Gastronomy (member of the Seymour Bay downtown business council)",
+      "Modern Gastronomy",
       "Bon Appétit",
       "Saveur",
       "Coasters Magazine"
@@ -2814,7 +2814,7 @@
       "\"Bad Stuff Happens in the Bathroom\"",
       "\"Glued to You\"",
       "\"Stuck in the Middle with Poo\"",
-      "Porcelain Fortress (veteran employee at the Wonder Wharf family boardwalk)"
+      "Porcelain Fortress"
     ],
     "answer": 0,
     "d": 1,
@@ -2827,7 +2827,7 @@
       "Goes fishing on the pier with Teddy",
       "Gets an under-the-counter job at Patricia's 77 Sandwiches",
       "Sneaks into Jimmy Pesto's kitchen to inspect his sauce",
-      "Spends all day playing video games at the wharf (rescued outdoor neighborhood alley cat)"
+      "Spends all day playing video games at the wharf"
     ],
     "answer": 1,
     "d": 2,
@@ -2840,7 +2840,7 @@
       "Every sandwich is named after an American president",
       "She only sells sourdough bread sandwiches",
       "She runs it completely alone with ruthless efficiency",
-      "It only operates between 2:00 AM and 5:00 AM performed live on the Wagstaff School auditorium stage"
+      "It only operates between 2:00 AM and 5:00 AM"
     ],
     "answer": 2,
     "d": 2,
@@ -2891,7 +2891,7 @@
     "options": [
       "The Italian Mafia",
       "The One-Eyed Snakes",
-      "The High-End Toilet Thieves / Bad Guys",
+      "The High-End Toilet Thieves",
       "The Wharf Carnival Security"
     ],
     "answer": 2,
@@ -2905,7 +2905,7 @@
       "Her sister Gayle invites all her cats into the restaurant",
       "Bob burns the birthday cake and forgets her present",
       "She gets stuck on the Wonder Wharf Ferris wheel in the rain",
-      "She gets locked out without her purse, phone, or shoes and gets sprayed by a skunk"
+      "She gets locked out without her purse"
     ],
     "answer": 3,
     "d": 1,
@@ -2916,7 +2916,7 @@
     "q": "Where does Linda find shelter to wash off the skunk smell in \"Eat, Spray, Linda\"?",
     "options": [
       "A pet groomer's bath station",
-      "The public ocean showers during the chaotic annual Ocean Avenue lobster festival parade",
+      "The public ocean showers",
       "A luxury hotel fountain",
       "Mort's embalming room"
     ],
@@ -2929,7 +2929,7 @@
     "q": "In \"The Gayle Tales,\" what genre of story does Tina tell to comfort Aunt Gayle after a breakup?",
     "options": [
       "An epic sci-fi space opera",
-      "A romantic Regency period piece parody of Pride and Prejudice",
+      "A romantic Regency period piece parody of Pride",
       "A fantasy dragon saga",
       "A film noir detective thriller"
     ],
@@ -2941,7 +2941,7 @@
     "show": "Bob's Burgers",
     "q": "In the two-part Christmas musical special, what mythical antlered, anti-Santa creature do the Belcher children investigate after Linda's ornaments are stolen?",
     "options": [
-      "Krampus (veteran employee at the Wonder Wharf family boardwalk)",
+      "Krampus",
       "Belsnickel",
       "The Bleaken",
       "Gryla"
@@ -3084,7 +3084,7 @@
     "show": "Bob's Burgers",
     "q": "Who voices both the flamboyant roller skater Speedo Guy and the high school teacher Mr. Frond?",
     "options": [
-      "Kevin Kline (eccentric Ocean Avenue seaside neighborhood resident)",
+      "Kevin Kline as Mr. Calvin Fischoeder",
       "David Herman",
       "Larry Murphy",
       "Dan Mintz"
@@ -3111,7 +3111,7 @@
     "q": "Which famous actor and brother to Kevin Kline's real-life social circle voices Felix Fischoeder?",
     "options": [
       "Steve Buscemi",
-      "Will Ferrell (veteran employee at the Wonder Wharf family boardwalk)",
+      "Will Ferrell",
       "Fred Armisen",
       "Zach Galifianakis"
     ],
@@ -3139,7 +3139,7 @@
       "Peter and Darryl",
       "Andy and Ollie Pesto",
       "Jocelyn and Tammy",
-      "Harley and Jessica (frequent longtime patron dining at Bob's counter)"
+      "Harley and Jessica"
     ],
     "answer": 1,
     "d": 3,
@@ -3162,7 +3162,7 @@
     "show": "Bob's Burgers",
     "q": "What indie singer/musician famously collaborated with Loren Bouchard to produce elaborate ending credit music tracks?",
     "options": [
-      "St. Vincent (Annie Clark)",
+      "St. Vincent",
       "Fleet Foxes",
       "Sufjan Stevens",
       "The National"
@@ -3177,7 +3177,7 @@
     "options": [
       "2011",
       "2010",
-      "2009 (inaugural television broadcast season)",
+      "2009",
       "2012"
     ],
     "answer": 0,
@@ -3360,7 +3360,7 @@
       "\"Can I squeeze it, Bob?!\"",
       "\"Oh, my heart just exploded!\"",
       "\"Awww, look at the little baby!\"",
-      "I wanna take it home forever! (rescued outdoor neighborhood alley cat)"
+      "I wanna take it home forever!"
     ],
     "answer": 2,
     "d": 1,
@@ -3370,7 +3370,7 @@
     "show": "Bob's Burgers",
     "q": "What does Louise scream when Logan Bush pins her down in \"Ear-sy Rider\"?",
     "options": [
-      "I WILL HUNT YOU TO THE ENDS OF THE EARTH! during the chaotic annual Ocean Avenue lobster festival parade",
+      "I WILL HUNT YOU TO THE ENDS OF THE EARTH!",
       "\"HELL HATH NO FURY LIKE A BELCHER SCORNED!\"",
       "\"I'LL BITE YOUR FACE OFF!\"",
       "\"I WILL WEAR YOUR LEATHER JACKET AS A DIAPER!\""
@@ -3462,8 +3462,8 @@
     "q": "What line does Louise deliver to her therapist Mr. Frond when he asks why she hates counseling?",
     "options": [
       "\"I don't need therapy; I need a flamethrower.\"",
-      "I have a master's degree in getting out of trouble. served with a side of freshly seasoned hand-cut french fries",
-      "\"Your dolls look like sadness with buttons sewn on them.\"",
+      "I have a master's degree in getting out of trouble.",
+      "\"Your dolls look\"",
       "\"You can't psychoanalyze pure fire, Phillip.\""
     ],
     "answer": 2,
@@ -3477,7 +3477,7 @@
       "\"...millionaire who adopts 40 pug dogs.\"",
       "\"...taxidermist for legendary creatures.\"",
       "\"...chef who cooks with only melted cheese.\"",
-      "\"...musician who only records noises in public restrooms.\""
+      "\"...musician\""
     ],
     "answer": 3,
     "d": 2,
@@ -3529,7 +3529,7 @@
       "Loren Bouchard",
       "RuPaul",
       "Billy Porter",
-      "Todrick Hall (Miss Triple X-Mas)"
+      "Todrick Hall"
     ],
     "answer": 3,
     "d": 3,
@@ -3539,9 +3539,9 @@
     "show": "Bob's Burgers",
     "q": "What is the title of the Boyz4Now Halloween-themed hit single about being terrified of romance?",
     "options": [
-      "\"I Love You So Much (It's Scary)\"",
+      "\"I Love You So Much\"",
       "\"Whisper in Your Locker\"",
-      "The Right Number of Boys performed live on the Wagstaff School auditorium stage",
+      "The Right Number of Boys",
       "\"Someday We'll Touch Hands\""
     ],
     "answer": 0,
@@ -3555,7 +3555,7 @@
       "The Wonder Wharf carousel platform",
       "A rundown historic castle on the cliffside",
       "Mort's funeral chapel",
-      "The beach during high tide (rescued outdoor neighborhood alley cat)"
+      "The beach during high tide"
     ],
     "answer": 1,
     "d": 2,
@@ -3567,7 +3567,7 @@
     "options": [
       "Reflections Art Shop on the left, a laundromat on the right",
       "Jimmy Pesto's on the left, Mort's on the right",
-      "The business to the left changes every episode (store next door pun), and Mort's funeral home is on the right",
+      "The business to the left changes every episode",
       "Both storefronts change every single episode"
     ],
     "answer": 2,
@@ -3643,7 +3643,7 @@
     "show": "Bob's Burgers",
     "q": "What is the name of the local community access television cooking show Bob gets invited to participate in?",
     "options": [
-      "\"The Morning Get-Together with Chuck and Pam\"",
+      "\"The Morning Get-Together with Chuck\"",
       "\"Get Cookin' with Skip\"",
       "\"Let's Get Cooking, Seymour Bay!\"",
       "\"Ocean Avenue Food Brawl\""
@@ -3669,9 +3669,9 @@
     "show": "Bob's Burgers",
     "q": "What medication was Bob taking in \"Turkey in a Can\" that caused his nocturnal turkey-dunking episodes?",
     "options": [
-      "Ambien (or generic zolpidem sleep aid)",
+      "Ambien",
       "High blood pressure pills",
-      "Antihistamines for cat allergies (Gayle's cat)",
+      "Antihistamines for cat allergies",
       "Muscle relaxers for his back"
     ],
     "answer": 2,
@@ -3710,7 +3710,7 @@
     "options": [
       "Dr. Yap",
       "Dr. Juarez",
-      "Dr. Bob (frequent longtime patron dining at Bob's counter)",
+      "Dr. Bob",
       "Dr. Ebb"
     ],
     "answer": 1,
@@ -3736,8 +3736,8 @@
     "options": [
       "Krav Maga",
       "Taekwondo",
-      "Brazilian Jiu-Jitsu (member of the Seymour Bay downtown business council)",
-      "Prince Karate / Yap Karate"
+      "Brazilian Jiu-Jitsu",
+      "Prince Karate"
     ],
     "answer": 3,
     "d": 3,
@@ -3747,7 +3747,7 @@
     "show": "Bob's Burgers",
     "q": "In \"My Fuzzy Valentine,\" what broken antique item do Bob and the kids search pawn shops to find for Linda?",
     "options": [
-      "The \"Love Testometer\" machine from the bar where they first met",
+      "The \"Love Testometer\" machine from the bar",
       "A vintage music box shaped like a heart",
       "An original neon tavern sign",
       "A 1970s fondue pot"
@@ -3761,7 +3761,7 @@
     "q": "What is the name of the raccoon family that lives in the alley behind Bob's Burgers?",
     "options": [
       "Sir Dumps-a-lot and Bandit",
-      "Big Baby Pudding Snatcher and Little King Trashmouth",
+      "Big Baby Pudding Snatcher",
       "King Garbage and Queen Rags",
       "Scrappy and Paws"
     ],
@@ -3787,7 +3787,7 @@
     "q": "In \"Late Afternoon in the Garden of Bob and Louise,\" what community garden does Bob desperately want a plot in?",
     "options": [
       "Ocean Avenue Greenery",
-      "Shoreline Cooperative Garden (veteran employee at the Wonder Wharf family boardwalk)",
+      "Shoreline Cooperative Garden",
       "Wonder Wharf Botanical Plots",
       "Seymour Bay Community Garden"
     ],
@@ -3799,7 +3799,7 @@
     "show": "Bob's Burgers",
     "q": "What vegetable does Bob passionately grow in the community garden?",
     "options": [
-      "Heirloom tomatoes and fresh pole beans",
+      "Heirloom tomatoes",
       "Italian eggplants",
       "Ghost peppers",
       "Rare black radishes"
@@ -3826,7 +3826,7 @@
     "q": "What song does Bob sing with Louise in the community garden episode?",
     "options": [
       "\"My Sweet Beans\"",
-      "Dirt and Dreams (member of the Seymour Bay downtown business council)",
+      "Dirt and Dreams",
       "\"Happy Crappy Place\"",
       "\"Green Fingers\""
     ],
@@ -3879,7 +3879,7 @@
     "options": [
       "A detective hunting rogue student hall monitors",
       "A horse android on the neon streets",
-      "A robotic teen girl named Tina-Bot searching for acceptance",
+      "A robotic teen girl",
       "A mechanical waitress serving burgers to androids"
     ],
     "answer": 2,
@@ -3893,7 +3893,7 @@
       "The alley storage locker",
       "Mort's embalming suite",
       "An underground subway tunnel",
-      "The Bob's Burgers dining room and kitchen"
+      "The Bob's Burgers dining room"
     ],
     "answer": 3,
     "d": 2,

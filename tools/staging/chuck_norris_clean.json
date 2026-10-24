@@ -64,7 +64,7 @@
     "q": "What happens when Chuck Norris jumps into water?",
     "options": [
       "The water evaporates",
-      "He doesn't get wet, the water gets Chuck Norris",
+      "He doesn't get wet",
       "A tsunami forms immediately",
       "The water parts like the Red Sea"
     ],
@@ -173,7 +173,7 @@
     "options": [
       "The temperature drops below freezing",
       "The lights turn on automatically",
-      "He doesn't turn the lights on; he turns the dark off",
+      "He doesn't turn the lights on",
       "Everyone drops to the floor"
     ],
     "answer": 2,
@@ -269,7 +269,7 @@
     "options": [
       "Rare and bloody",
       "Still grazing in the field",
-      "He brings a live cow and stares at it until it cooks itself",
+      "He brings a live cow",
       "Burnt to a crisp with jalapeños"
     ],
     "answer": 2,
@@ -387,7 +387,7 @@
     "show": "Chuck Norris Jokes",
     "q": "When Chuck Norris looks in the mirror, what happens?",
     "options": [
-      "There is no reflection; there's only one Chuck Norris",
+      "There is no reflection",
       "The glass cracks into a million pieces",
       "The reflection blushes",
       "His reflection nods with respect"
@@ -400,7 +400,7 @@
     "q": "Chuck Norris does not use spell check. Why?",
     "options": [
       "He never makes typographical errors",
-      "If he misspells a word, Oxford changes the dictionary",
+      "If he misspells a word",
       "Computers refuse to correct him",
       "He speaks an ancient warrior tongue"
     ],
@@ -461,7 +461,7 @@
     "options": [
       "He stomps across the yard once a week",
       "He pays a landscaping army",
-      "He stands on his porch and dares the grass to grow",
+      "He stands on his porch",
       "He breathes fire over the grass"
     ],
     "answer": 2,
@@ -474,7 +474,7 @@
       "Cold-brewed in volcanic lava",
       "Black with five sugars",
       "Boiling hot with liquid nitrogen",
-      "He eats whole coffee beans and drinks boiling water"
+      "He eats whole coffee beans"
     ],
     "answer": 3,
     "d": 1
@@ -618,7 +618,7 @@
       "He eats the shells and throws the yolk away",
       "The chickens lay them pre-cooked",
       "They crack themselves out of fear",
-      "He doesn't crack them; he intimidates them into opening"
+      "He doesn't crack them"
     ],
     "answer": 3,
     "d": 1
@@ -736,7 +736,7 @@
     "q": "What is the Great Wall of China originally built for?",
     "options": [
       "To keep the Mongols out",
-      "To keep Chuck Norris out (it didn't work)",
+      "To keep Chuck Norris out",
       "As a balance beam for Chuck Norris's gymnastics routine",
       "To mark the boundary of Chuck Norris's front yard"
     ],
@@ -832,7 +832,7 @@
     "q": "What is Chuck Norris’s calendar missing?",
     "options": [
       "Weekends",
-      "April Fools' Day, because nobody fools Chuck Norris",
+      "April Fools' Day",
       "Mondays, because he roundkicks them away",
       "Leap years"
     ],
@@ -845,7 +845,7 @@
     "options": [
       "It flew upward away from him",
       "It tore to shreds at Mach 2",
-      "It didn't open, so he returned it for a refund the next day",
+      "It didn't open",
       "He didn't wear one; he caught the Earth"
     ],
     "answer": 2,
@@ -858,7 +858,7 @@
       "Three dimensions",
       "The laws of physics",
       "His own boot",
-      "The sound barrier and the speed of light simultaneously"
+      "The sound barrier"
     ],
     "answer": 3,
     "d": 2
@@ -906,7 +906,7 @@
       "Who could hold their breath longer under lava",
       "A fist fight in outer space",
       "A race around Saturn's rings",
-      "An arm-wrestling match where the loser wore red underwear outside"
+      "An arm-wrestling match"
     ],
     "answer": 3,
     "d": 2
@@ -928,7 +928,7 @@
     "q": "Chuck Norris can juggle what?",
     "options": [
       "Four bowling pins and two bowling balls",
-      "Nothing; objects stay in the air out of respect until he allows them down",
+      "Nothing",
       "Running chainsaws",
       "Bowling balls with one finger"
     ],
@@ -1181,7 +1181,7 @@
     "options": [
       "The blocks arrange themselves into a fortress",
       "The tower never falls",
-      "He pulls the bottom block, and the rest floats in mid-air",
+      "He pulls the bottom block",
       "He builds a skyscraper instead"
     ],
     "answer": 2,
@@ -1242,7 +1242,7 @@
       "Chuck Norris took all 9 from every cat",
       "Chuck Norris lives 9 lives simultaneously",
       "A cat has 9, Chuck has infinite",
-      "A cat has 9, Chuck has none because death is too scared to visit him"
+      "A cat has 9, Chuck has none"
     ],
     "answer": 3,
     "d": 2
@@ -1264,7 +1264,7 @@
     "q": "What is Chuck Norris’s favorite beverage?",
     "options": [
       "Liquid fire",
-      "Tears of his enemies (which don't exist because enemies don't live long enough to cry)",
+      "Tears of his enemies",
       "Kerosene mixed with motor oil",
       "Pure black coffee made with molten lead"
     ],
@@ -1386,7 +1386,7 @@
       "The gun clicks on every chamber",
       "The gun fires, but the bullet dodges Chuck",
       "The gun wins, then collapses",
-      "Chuck Norris wins every time, with a fully loaded six-shooter"
+      "Chuck Norris wins every time"
     ],
     "answer": 3,
     "d": 2
@@ -1456,7 +1456,7 @@
     "q": "Chuck Norris can open a beer bottle with what?",
     "options": [
       "His forearm",
-      "His teeth? No, with another man's teeth",
+      "His teeth? No",
       "Pure eye contact",
       "His teeth"
     ],
@@ -1504,7 +1504,7 @@
     "q": "What does Chuck Norris put in his vehicle's gas tank?",
     "options": [
       "Pure ethanol",
-      "Nothing; his car runs on pure respect",
+      "Nothing",
       "Hot sauce and gunpowder",
       "Premium 93 octane"
     ],
@@ -1565,7 +1565,7 @@
     "options": [
       "Scrambled with ghost peppers",
       "Hard-boiled for 4 hours",
-      "Unfertilized, but beaten into submission",
+      "Unfertilized",
       "Raw, shell included"
     ],
     "answer": 2,
@@ -1613,7 +1613,7 @@
     "options": [
       "Because hiding is for cowards",
       "Because nobody could ever find him",
-      "Because no one hides from Chuck Norris and survives",
+      "Because no one hides from Chuck Norris",
       "Because it wasn't challenging enough"
     ],
     "answer": 2,
@@ -1683,7 +1683,7 @@
     "show": "Chuck Norris Jokes",
     "q": "Why does Chuck Norris never sleep with the light on?",
     "options": [
-      "It's not that Chuck Norris is afraid of the dark; the dark is afraid of Chuck Norris",
+      "It's not that Chuck Norris is afraid of the dark",
       "He sleeps with his eyes open anyway",
       "His beard produces enough ambient light",
       "He saves electricity"
@@ -1731,7 +1731,7 @@
     "show": "Chuck Norris Jokes",
     "q": "When Chuck Norris plays darts, where does the dart land?",
     "options": [
-      "Wherever Chuck Norris wants; the bullseye moves to the dart",
+      "Wherever Chuck Norris wants",
       "It splits the opponent's dart in half",
       "In the bullseye",
       "In the wall behind the board"
@@ -1914,7 +1914,7 @@
       "Half a move",
       "Two moves",
       "One move",
-      "Zero moves; his king roundhouse kicked the opposing king"
+      "Zero moves"
     ],
     "answer": 3,
     "d": 3
@@ -1984,7 +1984,7 @@
     "q": "What happens when Chuck Norris goes bowling?",
     "options": [
       "He throws gutter balls on purpose",
-      "The pins fall down when he picks up the ball",
+      "The pins fall down",
       "He scores 300 every game",
       "The ball shatters the wooden lane"
     ],
@@ -2010,7 +2010,7 @@
       "He chews the wood off with his molars",
       "With an electric sharpener",
       "He sticks it into his nose and sneezes",
-      "He shoves it into his fist and twists it with pure fury"
+      "He shoves it into his fist"
     ],
     "answer": 3,
     "d": 3
@@ -2127,8 +2127,8 @@
     "show": "Chuck Norris Jokes",
     "q": "What is Chuck Norris’s favorite weapon?",
     "options": [
-      "The Colt .45",
-      "His right leg, followed closely by his left leg",
+      "The Colt.45",
+      "His right leg",
       "The M16 assault rifle",
       "The katana"
     ],
@@ -2346,7 +2346,7 @@
       "The conductor was hospitalized",
       "The tracks bent 90 degrees",
       "Chuck Norris bruised an elbow",
-      "The train was derailed and completely totaled"
+      "The train was derailed"
     ],
     "answer": 3,
     "d": 3

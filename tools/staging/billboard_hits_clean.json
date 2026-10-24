@@ -16,7 +16,7 @@
     "q": "In The Beatles' 1968 #1 hit 'Hey Jude', what is the advice given in the opening verse to make things better?",
     "options": [
       "Carry that weight a long time",
-      "Take a sad song and make it better",
+      "Take a sad song",
       "Listen to the music playing",
       "Look into your heart and smile"
     ],
@@ -51,7 +51,7 @@
     "show": "Billboard Hits",
     "q": "Otis Redding's only Billboard Hot 100 #1 single was released posthumously in early 1968. What was its title?",
     "options": [
-      "(Sittin' On) The Dock of the Bay",
+      "Sittin' On The Dock of the Bay",
       "Try a Little Tenderness",
       "I've Been Loving You Too Long",
       "Respect"
@@ -64,7 +64,7 @@
     "q": "Which Rolling Stones classic, featuring Keith Richards' iconic fuzz-guitar riff, became the band's first US Billboard Hot 100 #1 in 1965?",
     "options": [
       "Paint It Black",
-      "(I Can't Get No) Satisfaction",
+      "I Can't Get No Satisfaction",
       "Get Off of My Cloud",
       "Jumpin' Jack Flash"
     ],
@@ -160,7 +160,7 @@
     "q": "Percy Sledge's emotional soul ballad 'When a Man Loves a Woman' reached #1 in 1966 after being recorded at which famous studio?",
     "options": [
       "Abbey Road Studios in London",
-      "Norala Sound Studio in Sheffield, Alabama",
+      "Norala Sound Studio in Sheffield",
       "Hitsville U.S.A. in Detroit",
       "Sun Studio in Memphis"
     ],
@@ -195,7 +195,7 @@
     "show": "Billboard Hits",
     "q": "Which 1958 hit by Domenico Modugno is the only foreign-language song to win both Record of the Year and Song of the Year at the Grammys after hitting #1 on the Hot 100?",
     "options": [
-      "Nel Blu, Dipinto di Blu (Volare)",
+      "Nel Blu, Dipinto di Blu",
       "La Bamba",
       "Sukiyaki",
       "Guantanamera"
@@ -339,7 +339,7 @@
     "show": "Billboard Hits",
     "q": "Which track by The 5th Dimension spent six weeks at #1 on the Billboard Hot 100 in 1969, originating from the musical 'Hair'?",
     "options": [
-      "Aquarius / Let the Sunshine In",
+      "Aquarius",
       "Up, Up and Away",
       "Wedding Bell Blues",
       "Stoned Soul Picnic"
@@ -351,8 +351,8 @@
     "show": "Billboard Hits",
     "q": "What was Stevie Wonder's first Billboard Hot 100 #1 single, recorded live when he was just 12 years old and billed as 'Little Stevie Wonder'?",
     "options": [
-      "Uptight (Everything's Alright)",
-      "Fingertips (Pt. 2)",
+      "Uptight",
+      "Fingertips",
       "I Was Made to Love Her",
       "My Cherie Amour"
     ],
@@ -414,7 +414,7 @@
       "Dance to the Music",
       "Hot Fun in the Summertime",
       "Everyday People",
-      "Thank You (Falettinme Be Mice Elf Agin)"
+      "Thank You"
     ],
     "answer": 2,
     "d": 1
@@ -485,7 +485,7 @@
     "options": [
       "You've Lost That Lovin' Feelin'",
       "Unchained Melody",
-      "(You're My) Soul and Inspiration",
+      "You're My Soul and Inspiration",
       "Ebb Tide"
     ],
     "answer": 0,
@@ -675,7 +675,7 @@
     "show": "Billboard Hits",
     "q": "What 1965 folk-rock classic by The Byrds, adapted from the Book of Ecclesiastes by Pete Seeger, hit #1 on the Hot 100?",
     "options": [
-      "Turn! Turn! Turn! (To Everything There Is a Season)",
+      "Turn! Turn! Turn!",
       "Mr. Tambourine Man",
       "Eight Miles High",
       "So You Want to Be a Rock 'n' Roll Star"
@@ -772,7 +772,7 @@
     "q": "Which Four Tops soul anthem topped the Billboard Hot 100 for two weeks in October 1966 with Levi Stubbs passionately shouting the dramatic lead vocals?",
     "options": [
       "Reach Out I'll Be There",
-      "I Can't Help Myself (Sugar Pie Honey Bunch)",
+      "I Can't Help Myself",
       "Bernadette",
       "Standing in the Shadows of Love"
     ],
@@ -784,7 +784,7 @@
     "q": "What Four Tops hit was their first Billboard Hot 100 #1 single, spending two non-consecutive weeks at the top in June 1965?",
     "options": [
       "Reach Out I'll Be There",
-      "I Can't Help Myself (Sugar Pie Honey Bunch)",
+      "I Can't Help Myself",
       "Baby I Need Your Loving",
       "It's the Same Old Song"
     ],
@@ -1036,7 +1036,7 @@
     "q": "Nancy Sinatra hit #1 on the Billboard Hot 100 in early 1966 with which assertive Lee Hazlewood-penned song?",
     "options": [
       "Sugar Town",
-      "The single 'Bang Bang (My Baby Shot Me Down)'",
+      "The single 'Bang Bang'",
       "These Boots Are Made for Walkin'",
       "Some Velvet Morning"
     ],
@@ -1277,7 +1277,7 @@
     "options": [
       "The assassination of John F. Kennedy",
       "The breakup of The Beatles",
-      "The 1959 plane crash that killed Buddy Holly, Ritchie Valens, and the Big Bopper",
+      "The 1959 plane crash that killed Buddy Holly",
       "The Kent State shootings"
     ],
     "answer": 2,
@@ -1290,7 +1290,7 @@
       "Hotel California",
       "One of These Nights",
       "Desperado",
-      "Their Greatest Hits (1971–1975)"
+      "Their Greatest Hits"
     ],
     "answer": 3,
     "d": 3
@@ -1443,7 +1443,7 @@
     "show": "Billboard Hits",
     "q": "Which Pink Floyd single, featuring a children's choir singing 'We don't need no education', reached #1 on the Hot 100 in 1980?",
     "options": [
-      "Another Brick in the Wall (Part II)",
+      "Another Brick in the Wall",
       "Comfortably Numb",
       "Money",
       "Wish You Were Here"
@@ -1517,7 +1517,7 @@
     "options": [
       "Maggie May",
       "Da Ya Think I'm Sexy?",
-      "Tonight's the Night (Gonna Be Alright)",
+      "Tonight's the Night",
       "You're in My Heart"
     ],
     "answer": 2,
@@ -1564,8 +1564,8 @@
     "q": "Which KC and the Sunshine Band dance anthem reached #1 on the Billboard Hot 100 in 1975, repeating the title phrase in the chorus?",
     "options": [
       "Get Down Tonight",
-      "(Shake, Shake, Shake) Shake Your Booty",
-      "That's the Way (I Like It)",
+      "Shake, Shake, Shake Shake Your Booty",
+      "That's the Way",
       "Boogie Shoes"
     ],
     "answer": 2,
@@ -1601,7 +1601,7 @@
     "options": [
       "What's Going On",
       "Let's Get It On",
-      "Mercy Mercy Me (The Ecology)",
+      "Mercy Mercy Me",
       "Inner City Blues"
     ],
     "answer": 1,
@@ -1697,7 +1697,7 @@
     "options": [
       "You Don't Mess Around with Jim",
       "Bad, Bad Leroy Brown",
-      "Operator (That's Not the Way It Feels)",
+      "Operator",
       "I'll Have to Say I Love You in a Song"
     ],
     "answer": 1,
@@ -1864,7 +1864,7 @@
     "q": "Which James Taylor cover of a Carole King composition reached #1 on the Billboard Hot 100 in July 1971?",
     "options": [
       "Fire and Rain",
-      "How Sweet It Is (To Be Loved by You)",
+      "How Sweet It Is",
       "Handy Man",
       "You've Got a Friend"
     ],
@@ -2021,7 +2021,7 @@
     "options": [
       "Give Up the Funk",
       "Flash Light",
-      "P. Funk (Wants to Get Funked Up)",
+      "P. Funk",
       "Mothership Connection"
     ],
     "answer": 0,
@@ -2044,7 +2044,7 @@
     "q": "What Commodores funk track peaked at #5 on the Billboard Hot 100 in 1977, celebrating a woman built like a 'brick outhouse'?",
     "options": [
       "Easy",
-      "Lady (You Bring Me Up)",
+      "Lady",
       "Brick House",
       "Too Hot ta Trot"
     ],
@@ -2080,7 +2080,7 @@
     "q": "What 1971 John Denver anthem peaked at #2 on the Billboard Hot 100, paying homage to West Virginia's Blue Ridge Mountains?",
     "options": [
       "Rocky Mountain High",
-      "Take Me Home, Country Roads",
+      "Take Me Home",
       "Annie's Song",
       "Leaving on a Jet Plane"
     ],
@@ -2163,7 +2163,7 @@
     "show": "Billboard Hits",
     "q": "Which Four Seasons disco hit topped the Billboard Hot 100 for three weeks in early 1976, celebrating 'late December back in '63'?",
     "options": [
-      "December, 1963 (Oh, What a Night)",
+      "December, 1963",
       "Who Loves You",
       "Silver Star",
       "Rag Doll"
@@ -2201,7 +2201,7 @@
     "options": [
       "Half-Breed",
       "Dark Lady",
-      "Bang Bang (My Baby Shot Me Down)",
+      "Bang Bang",
       "Gypsys, Tramps & Thieves"
     ],
     "answer": 3,
@@ -2214,7 +2214,7 @@
       "Tie a Yellow Ribbon Round the Ole Oak Tree",
       "Candida",
       "Knock Three Times",
-      "He Don't Love You (Like I Love You)"
+      "He Don't Love You"
     ],
     "answer": 0,
     "d": 2
@@ -2394,7 +2394,7 @@
       "The Main Event/Fight",
       "Evergreen",
       "Tell Him",
-      "No More Tears (Enough Is Enough)"
+      "No More Tears"
     ],
     "answer": 3,
     "d": 3
@@ -2608,7 +2608,7 @@
     "q": "What Phil Collins ballad, written for a 1984 romantic drama of the same name, was his first solo #1 hit on the Hot 100?",
     "options": [
       "In the Air Tonight",
-      "Against All Odds (Take a Look at Me Now)",
+      "Against All Odds",
       "One More Night",
       "Groovy Kind of Love"
     ],
@@ -2742,7 +2742,7 @@
       "With or Without You",
       "I Still Haven't Found What I'm Looking For",
       "Where the Streets Have No Name",
-      "Pride (In the Name of Love)"
+      "Pride"
     ],
     "answer": 0,
     "d": 1
@@ -2931,10 +2931,10 @@
     "show": "Billboard Hits",
     "q": "Whose single did Peter Gabriel's 'Sledgehammer' displace from #1 on the Billboard Hot 100 in July 1986?",
     "options": [
-      "Genesis ('Invisible Touch')",
-      "Phil Collins ('Against All Odds')",
-      "Peter Cetera ('Glory of Love')",
-      "Madonna ('Papa Don't Preach')"
+      "Genesis",
+      "Phil Collins",
+      "Peter Cetera",
+      "Madonna"
     ],
     "answer": 0,
     "d": 2
@@ -3318,7 +3318,7 @@
       "Nothing's Gonna Stop Us Now",
       "Sara",
       "We Built This City",
-      "It's Not Over ('Til It's Over)"
+      "It's Not Over"
     ],
     "answer": 0,
     "d": 2
@@ -3832,7 +3832,7 @@
     "q": "What was Britney Spears' debut single, which reached #1 on the Billboard Hot 100 in January 1999?",
     "options": [
       "Sometimes",
-      "(You Drive Me) Crazy",
+      "You Drive Me Crazy",
       "Born to Make You Happy",
       "...Baby One More Time"
     ],
@@ -3855,7 +3855,7 @@
     "show": "Billboard Hits",
     "q": "Which Backstreet Boys song spent 39 weeks on the Hot 100 and peaked at #6 in 1999, becoming their signature anthem?",
     "options": [
-      "Quit Playing Games (with My Heart)",
+      "Quit Playing Games",
       "I Want It That Way",
       "As Long as You Love Me",
       "Larger Than Life"
@@ -4218,7 +4218,7 @@
       "Please Forgive Me",
       "Have You Ever Really Loved a Woman?",
       "All for Love",
-      "(Everything I Do) I Do It for You"
+      "Everything I Do I Do It for You"
     ],
     "answer": 3,
     "d": 2
@@ -4228,7 +4228,7 @@
     "q": "Bryan Adams teamed up with Rod Stewart and Sting for which 1994 #1 hit from 'The Three Musketeers' soundtrack?",
     "options": [
       "All for Love",
-      "(Everything I Do) I Do It for You",
+      "Everything I Do I Do It for You",
       "Have You Ever Really Loved a Woman?",
       "Can't Stop This Thing We Started"
     ],
@@ -4409,7 +4409,7 @@
     "options": [
       "What a Girl Wants",
       "I Turn to You",
-      "Come On Over Baby (All I Want Is You)",
+      "Come On Over Baby",
       "Genie in a Bottle"
     ],
     "answer": 3,
@@ -4493,7 +4493,7 @@
     "options": [
       "Who Will Save Your Soul",
       "Hands",
-      "Foolish Games / You Were Meant for Me",
+      "Foolish Games",
       "Down So Long"
     ],
     "answer": 2,
@@ -4552,7 +4552,7 @@
     "q": "Which R. Kelly ballad from the 1996 film 'Space Jam' peaked at #2 on the Billboard Hot 100 and won three Grammy Awards?",
     "options": [
       "Bump N' Grind",
-      "Ignition (Remix)",
+      "Ignition",
       "Step in the Name of Love",
       "I Believe I Can Fly"
     ],
@@ -4743,9 +4743,9 @@
     "show": "Billboard Hits",
     "q": "Which 1990 Mariah Carey Christmas recording became a perennial Billboard Hot 100 #1 hit decades after its initial release?",
     "options": [
-      "Christmas (Baby Please Come Home)",
+      "Christmas",
       "O Holy Night",
-      "Miss You Most (At Christmas Time)",
+      "Miss You Most",
       "All I Want for Christmas Is You"
     ],
     "answer": 3,
@@ -4960,7 +4960,7 @@
     "q": "What was 2Pac's first Billboard Hot 100 #1 single, a double A-side featuring Dr. Dre and Roger Troutman that topped the chart in 1996?",
     "options": [
       "Dear Mama",
-      "California Love / How Do U Want It",
+      "California Love",
       "Keep Ya Head Up",
       "I Get Around"
     ],
@@ -5068,7 +5068,7 @@
     "q": "Which Coolio song featuring L.V. spent three weeks at #1 on the Billboard Hot 100 and was the Billboard Year-End #1 single of 1995?",
     "options": [
       "Fantastic Voyage",
-      "1, 2, 3, 4 (Sumpin' New)",
+      "1, 2, 3, 4",
       "Gangsta's Paradise",
       "C U When U Get There"
     ],
@@ -5187,7 +5187,7 @@
     "show": "Billboard Hits",
     "q": "What Lauryn Hill single debuted at #1 on the Billboard Hot 100 in November 1998, the first solo rap track by a female artist to do so?",
     "options": [
-      "Doo Wop (That Thing)",
+      "Doo Wop",
       "Ex-Factor",
       "Everything Is Everything",
       "Lost Ones"
@@ -5571,7 +5571,7 @@
     "show": "Billboard Hits",
     "q": "Which Oasis album reached #4 on the Billboard 200 in 1996 and sold over four million copies in the US?",
     "options": [
-      "(What's the Story) Morning Glory?",
+      "What's the Story Morning Glory?",
       "Definitely Maybe",
       "Be Here Now",
       "Standing on the Shoulder of Giants"
@@ -5619,7 +5619,7 @@
     "show": "Billboard Hits",
     "q": "Which The Offspring comedic novelty track peaked at #5 on the Hot 100 Airplay chart in 1998, mocking wannabe gangstas?",
     "options": [
-      "Pretty Fly (For a White Guy)",
+      "Pretty Fly",
       "The Kids Aren't Alright",
       "Why Don't You Get a Job?",
       "Self Esteem"
@@ -5667,7 +5667,7 @@
     "show": "Billboard Hits",
     "q": "Which Smashing Pumpkins double album debuted at #1 on the Billboard 200 in 1995 and was certified Diamond?",
     "options": [
-      "Mellon Collie and the Infinite Sadness",
+      "Mellon Collie",
       "Siamese Dream",
       "Gish",
       "Adore"
@@ -5837,7 +5837,7 @@
     "options": [
       "I Got a Girl",
       "Tricky, Tricky",
-      "Mambo No. 5 (A Little Bit Of...)",
+      "Mambo No. 5",
       "Sweet Like Cola"
     ],
     "answer": 2,
@@ -5907,7 +5907,7 @@
     "show": "Billboard Hits",
     "q": "Which DMX album was his second #1 album of 1998, released just seven months after his debut?",
     "options": [
-      "Flesh of My Flesh, Blood of My Blood",
+      "Flesh of My Flesh",
       "...And Then There Was X",
       "Grand Champ",
       "Year of the Dog... Again"
@@ -5920,7 +5920,7 @@
     "q": "Which Pras Michel single featuring Ol' Dirty Bastard and Mýa peaked at #2 on the Billboard Hot 100 in 1998 from the 'Bulworth' soundtrack?",
     "options": [
       "Blue Angels",
-      "Ghetto Supastar (That Is What You Are)",
+      "Ghetto Supastar",
       "Avenues",
       "Another One Bites the Dust"
     ],
@@ -6078,7 +6078,7 @@
       "Bombs Over Baghdad",
       "Rosa Parks",
       "Ms. Jackson",
-      "Elevators (Me & You)"
+      "Elevators"
     ],
     "answer": 2,
     "d": 1
@@ -6136,7 +6136,7 @@
     "q": "What was the Billboard Year-End #1 single of 2003 on the Hot 100?",
     "options": [
       "Crazy in Love by Beyoncé",
-      "Ignition (Remix) by R. Kelly",
+      "Ignition by R. Kelly",
       "Get Busy by Sean Paul",
       "In da Club by 50 Cent"
     ],
@@ -6173,7 +6173,7 @@
     "options": [
       "Have You Seen Her",
       "Oh Girl",
-      "Are You My Woman? (Tell Me So)",
+      "Are You My Woman?",
       "Give It Away"
     ],
     "answer": 2,
@@ -6221,7 +6221,7 @@
     "options": [
       "Diva",
       "Sweet Dreams",
-      "Single Ladies (Put a Ring on It)",
+      "Single Ladies",
       "Video Phone"
     ],
     "answer": 2,
@@ -6339,7 +6339,7 @@
     "show": "Billboard Hits",
     "q": "Who produced Gwen Stefani's chart-topping 2005 digital blockbuster 'Hollaback Girl'?",
     "options": [
-      "The Neptunes (Pharrell Williams and Chad Hugo)",
+      "The Neptunes",
       "Timbaland",
       "Dr. Luke",
       "will.i.am"
@@ -6652,8 +6652,8 @@
     "q": "Which T-Pain single featuring Yung Joc topped the Billboard Hot 100 for one week in May 2007, solidifying auto-tune in pop rap?",
     "options": [
       "Bartender",
-      "I'm 'n Luv (wit a Stripper)",
-      "Buy U a Drank (Shawty Snappin')",
+      "I'm 'n Luv",
+      "Buy U a Drank",
       "Can't Believe It"
     ],
     "answer": 2,
@@ -6773,7 +6773,7 @@
     "options": [
       "Empire State of Mind",
       "Run This Town",
-      "Heart of the City",
+      "Heart",
       "New York, New York"
     ],
     "answer": 0,
@@ -6844,7 +6844,7 @@
     "q": "Which Timbaland remix featuring OneRepublic peaked at #2 on the Billboard Hot 100 in late 2007 and set North American airplay records?",
     "options": [
       "Stop and Stare",
-      "Say (All I Need)",
+      "Say",
       "Apologize",
       "Secrets"
     ],
@@ -6857,7 +6857,7 @@
     "options": [
       "Maneater",
       "Say It Right",
-      "All Good Things (Come to an End)",
+      "All Good Things",
       "Promiscuous"
     ],
     "answer": 3,
@@ -6977,7 +6977,7 @@
     "options": [
       "Lonely",
       "Don't Matter",
-      "Right Now (Na Na Na)",
+      "Right Now",
       "Sorry, Blame It on Me"
     ],
     "answer": 1,
@@ -7002,7 +7002,7 @@
       "Fastest-selling physical CD single of the decade",
       "Longest radio recurrent run",
       "Most digital plays in three hours",
-      "Largest jump to #1, vaulting from #96 to #1 in a single week"
+      "Largest jump to #1"
     ],
     "answer": 3,
     "d": 3
@@ -7122,7 +7122,7 @@
       "Lucky",
       "I'm Yours",
       "I Won't Give Up",
-      "The Remedy (I Won't Worry)"
+      "The Remedy"
     ],
     "answer": 1,
     "d": 2
@@ -7170,7 +7170,7 @@
       "1, 2, 3, 4",
       "Hey There Delilah",
       "Rhythm of Love",
-      "Hate (I Really Don't Like You)"
+      "Hate"
     ],
     "answer": 1,
     "d": 3
@@ -7264,7 +7264,7 @@
     "q": "Which was the fifth and final single from Katy Perry's 'Teenage Dream' to hit #1, tying the Michael Jackson record in August 2011?",
     "options": [
       "E.T.",
-      "Last Friday Night (T.G.I.F.)",
+      "Last Friday Night",
       "Firework",
       "California Gurls"
     ],
@@ -7407,7 +7407,7 @@
     "show": "Billboard Hits",
     "q": "Which Lauryn Hill classic was prominently sampled in Drake's 2018 #1 hit 'Nice for What'?",
     "options": [
-      "Doo Wop (That Thing)",
+      "Doo Wop",
       "Ex-Factor",
       "To Zion",
       "Lost Ones"
@@ -7470,7 +7470,7 @@
       "Where Have You Been",
       "Diamonds",
       "We Found Love",
-      "Only Girl (In the World)"
+      "Only Girl"
     ],
     "answer": 2,
     "d": 3
@@ -7661,7 +7661,7 @@
     "options": [
       "Fastest single to reach Gold status",
       "Most weeks at #1 on physical vinyl",
-      "First single certified Double Diamond (20x Platinum) in RIAA history",
+      "First single certified Double Diamond in RIAA history",
       "Most downloaded ringtone"
     ],
     "answer": 2,
@@ -7863,10 +7863,10 @@
     "show": "Billboard Hits",
     "q": "Whose 1995-1996 record of 16 weeks at #1 did 'Despacito' tie in August 2017?",
     "options": [
-      "Whitney Houston ('I Will Always Love You')",
-      "Elton John ('Candle in the Wind')",
-      "The Black Eyed Peas ('I Gotta Feeling')",
-      "Mariah Carey and Boyz II Men ('One Sweet Day')"
+      "Whitney Houston",
+      "Elton John",
+      "The Black Eyed Peas",
+      "Mariah Carey and Boyz II Men"
     ],
     "answer": 3,
     "d": 2
@@ -7973,8 +7973,8 @@
     "options": [
       "Harlem Shake",
       "Gangnam Style",
-      "Watch Me (Whip/Nae Nae)",
-      "The Fox (What Does the Fox Say?)"
+      "Watch Me",
+      "The Fox"
     ],
     "answer": 0,
     "d": 2
@@ -8043,7 +8043,7 @@
     "show": "Billboard Hits",
     "q": "Which Pitbull club anthem featuring Ne-Yo, Afrojack, and Nayer gave Pitbull his first Billboard Hot 100 #1 in July 2011?",
     "options": [
-      "I Know You Want Me (Calle Ocho)",
+      "I Know You Want Me",
       "Hotel Room Service",
       "Give Me Everything",
       "Time of Our Lives"
@@ -8202,7 +8202,7 @@
       "AstroWorld in Arlington, Texas",
       "Six Flags Over Texas",
       "Space City Funland",
-      "Six Flags AstroWorld in Houston, Texas"
+      "Six Flags AstroWorld in Houston"
     ],
     "answer": 3,
     "d": 2
@@ -8658,7 +8658,7 @@
       "Panini",
       "Old Town Road",
       "Rodeo",
-      "Montero (Call Me by Your Name)"
+      "Montero"
     ],
     "answer": 1,
     "d": 1
@@ -8979,7 +8979,7 @@
     "show": "Billboard Hits",
     "q": "Doja Cat's 'Say So' remix featuring Nicki Minaj marked what historic milestone for both artists?",
     "options": [
-      "The first Billboard Hot 100 #1 hit for both Doja Cat and Nicki Minaj",
+      "The first Billboard Hot 100 #1 hit for both Doja Cat",
       "The fastest song to reach Gold",
       "The first rap song to win a Tony Award",
       "The longest rap intro in chart history"
@@ -9075,7 +9075,7 @@
     "show": "Billboard Hits",
     "q": "Which Jawsh 685 and Jason Derulo dance track hit #1 on the Billboard Hot 100 in October 2020 after BTS joined for a remix?",
     "options": [
-      "Savage Love (Laxed – Siren Beat)",
+      "Savage Love",
       "Take You Dancing",
       "Swalla",
       "CoCo"
@@ -9136,7 +9136,7 @@
     "q": "What record did Taylor Swift set in August 2020 with the release of 'folklore' and 'cardigan'?",
     "options": [
       "First artist with 10 albums at #1",
-      "First artist to debut at #1 on both Billboard 200 and Hot 100 in the same week",
+      "First artist to debut at #1 on both Billboard 200",
       "Most streamed album in 10 minutes",
       "First female artist with two albums in the top 2"
     ],
@@ -9183,10 +9183,10 @@
     "show": "Billboard Hits",
     "q": "Which 10-minute Taylor Swift song became the longest song in history to reach #1 on the Billboard Hot 100 in November 2021?",
     "options": [
-      "Dear John (Taylor's Version)",
-      "All Too Well (10 Minute Version)",
-      "Last Kiss (Taylor's Version)",
-      "Enchanted (Taylor's Version)"
+      "Dear John",
+      "All Too Well",
+      "Last Kiss",
+      "Enchanted"
     ],
     "answer": 1,
     "d": 3
@@ -9195,10 +9195,10 @@
     "show": "Billboard Hits",
     "q": "Whose 1972 record for the longest song to reach #1 on the Hot 100 did Taylor Swift's 'All Too Well (10 Minute Version)' break?",
     "options": [
-      "The Beatles ('Hey Jude')",
-      "Meat Loaf ('I'd Do Anything for Love')",
-      "Don McLean ('American Pie')",
-      "Guns N' Roses ('November Rain')"
+      "The Beatles",
+      "Meat Loaf",
+      "Don McLean",
+      "Guns N' Roses"
     ],
     "answer": 2,
     "d": 3
@@ -9329,7 +9329,7 @@
     "options": [
       "Princess Diana",
       "Barbie World",
-      "Munch (Feelin' U)",
+      "Munch",
       "Karma"
     ],
     "answer": 1,
@@ -9342,7 +9342,7 @@
       "In Ha Mood",
       "Deli",
       "Boy's a Liar Pt. 2",
-      "The single 'Munch (Feelin' U)'"
+      "The single 'Munch'"
     ],
     "answer": 2,
     "d": 3
@@ -9593,7 +9593,7 @@
     "options": [
       "Meltdown",
       "K-pop",
-      "I Know ?",
+      "I Know?",
       "Fe!n"
     ],
     "answer": 3,
@@ -9651,7 +9651,7 @@
     "show": "Billboard Hits",
     "q": "Which electronic system did Billboard adopt in 1990 to monitor actual radio station broadcasts using digital acoustic fingerprinting?",
     "options": [
-      "Broadcast Data Systems (BDS)",
+      "Broadcast Data Systems",
       "Airplay Monitor",
       "SoundScan",
       "Mediaguide"
@@ -9664,7 +9664,7 @@
     "q": "In December 1998, Billboard changed Hot 100 rules to allow which type of songs to chart for the first time?",
     "options": [
       "Instrumental tracks without vocals",
-      "Radio album cuts and airplay-only tracks without physical commercial singles",
+      "Radio album cuts",
       "Songs with non-English lyrics",
       "Songs released exclusively on digital MP3"
     ],
@@ -9808,7 +9808,7 @@
     "q": "What record did Kelly Clarkson set in February 2009 with 'My Life Would Suck Without You' on the Billboard Hot 100?",
     "options": [
       "Fastest selling digital single in 24 hours",
-      "Biggest jump to #1 in chart history, leaping from #97 to #1",
+      "Biggest jump to #1 in chart history",
       "Longest title of a #1 song",
       "First American Idol song to reach #1 without a video"
     ],
@@ -9834,7 +9834,7 @@
       "Thriller by Michael Jackson",
       "Rumours by Fleetwood Mac",
       "21 by Adele",
-      "West Side Story soundtrack (1961)"
+      "West Side Story soundtrack"
     ],
     "answer": 3,
     "d": 2
@@ -10059,10 +10059,10 @@
     "show": "Billboard Hits",
     "q": "Whose record as the oldest living artist to top the Hot 100 did Brenda Lee break in 2023?",
     "options": [
-      "Louis Armstrong (62 years old)",
-      "Frank Sinatra (51 years old)",
-      "Cher (52 years old with 'Believe')",
-      "Tina Turner (44 years old)"
+      "Louis Armstrong",
+      "Frank Sinatra",
+      "Cher",
+      "Tina Turner"
     ],
     "answer": 2,
     "d": 3
@@ -10095,10 +10095,10 @@
     "show": "Billboard Hits",
     "q": "Who holds the record for the longest span between an artist's first and last #1 on the Billboard Hot 100, spanning over 59 years?",
     "options": [
-      "Cher (1965 to 1999)",
-      "The Beatles (1964 with 'I Want to Hold Your Hand' to 2023 with 'Now and Then')",
-      "Elvis Presley (1956 to 2002)",
-      "Brenda Lee (1960 to 2023)"
+      "Cher",
+      "The Beatles",
+      "Elvis Presley",
+      "Brenda Lee"
     ],
     "answer": 1,
     "d": 3
@@ -10179,7 +10179,7 @@
     "show": "Billboard Hits",
     "q": "How many #1 singles did Fleetwood Mac's 31-week chart-topping album 'Rumours' generate on the Billboard Hot 100?",
     "options": [
-      "One ('Dreams')",
+      "One",
       "Two",
       "Three",
       "Four"
@@ -10227,7 +10227,7 @@
     "show": "Billboard Hits",
     "q": "Which artist was the first woman in Billboard Hot 100 history to replace herself at the #1 position?",
     "options": [
-      "Taylor Swift (with 'Blank Space' replacing 'Shake It Off' in 2014)",
+      "Taylor Swift",
       "Mariah Carey",
       "Beyoncé",
       "Madonna"
@@ -10505,7 +10505,7 @@
     "options": [
       "The Metro",
       "No More Words",
-      "Sex (I'm A...)",
+      "Sex",
       "Take My Breath Away"
     ],
     "answer": 3,
@@ -10623,7 +10623,7 @@
     "show": "Billboard Hits",
     "q": "What Slade cover song on Quiet Riot's 'Metal Health' peaked at #5 on the Billboard Hot 100, driving the album to #1?",
     "options": [
-      "Metal Health (Bang Your Head)",
+      "Metal Health",
       "Cum On Feel the Noize",
       "Mama Weer All Crazee Now",
       "Slick Black Cadillac"
@@ -10685,7 +10685,7 @@
     "options": [
       "The Poor People of Paris by Les Baxter",
       "Theme from A Summer Place by Percy Faith",
-      "Tequila by The Champs (1958)",
+      "Tequila by The Champs",
       "Telstar by The Tornados"
     ],
     "answer": 2,
@@ -10746,7 +10746,7 @@
       "The band was fined $10,000",
       "The single was banned from interstate commerce",
       "The singer admitted to inserting obscene jokes",
-      "The recording was unintelligible at any speed and therefore legally not obscene"
+      "The recording was unintelligible at any speed"
     ],
     "answer": 3,
     "d": 3
@@ -10827,9 +10827,9 @@
     "show": "Billboard Hits",
     "q": "What was the very first Billboard Hot 100 #1 single co-written and produced by Max Martin?",
     "options": [
-      "Quit Playing Games (with My Heart) by Backstreet Boys",
+      "Quit Playing Games by Backstreet Boys",
       "It's Gonna Be Me by *NSYNC",
-      "...Baby One More Time by Britney Spears (1999)",
+      "...Baby One More Time by Britney Spears",
       "Since U Been Gone by Kelly Clarkson"
     ],
     "answer": 2,
@@ -10842,7 +10842,7 @@
       "Bloodshy",
       "Avicii",
       "Carl Falk",
-      "Shellback (Johan Schuster)"
+      "Shellback"
     ],
     "answer": 3,
     "d": 3
@@ -10986,7 +10986,7 @@
       "Olympic Studios",
       "Trident Studios",
       "Decca Studios",
-      "Abbey Road Studios (EMI Studios)"
+      "Abbey Road Studios"
     ],
     "answer": 3,
     "d": 2
@@ -11043,7 +11043,7 @@
     "show": "Billboard Hits",
     "q": "Which songwriter and producer holds the record for winning the Grammy Award for Producer of the Year, Non-Classical four times in the 1990s?",
     "options": [
-      "Babyface (Kenneth Edmonds)",
+      "Babyface",
       "David Foster",
       "Quincy Jones",
       "Don Was"
@@ -11091,7 +11091,7 @@
     "show": "Billboard Hits",
     "q": "What nickname was given to the tiny converted garage at Hitsville U.S.A. where the Funk Brothers tracked Motown's legendary hits?",
     "options": [
-      "Studio A (The Snakepit)",
+      "Studio A",
       "The Echo Chamber",
       "The Engine Room",
       "The Hit Factory"
@@ -11418,7 +11418,7 @@
       "Love's Theme",
       "Pick Up the Pieces",
       "Express",
-      "TSOP (The Sound of Philadelphia)"
+      "TSOP"
     ],
     "answer": 3,
     "d": 1
@@ -11463,10 +11463,10 @@
     "show": "Billboard Hits",
     "q": "What Abbey Road innovation invented by Ken Townsend allowed automatic doubling of vocal tracks without singing twice?",
     "options": [
-      "Direct Injection (DI)",
+      "Direct Injection",
       "Phasing flanger",
       "Tape loop echo",
-      "Artificial Double Tracking (ADT)"
+      "Artificial Double Tracking"
     ],
     "answer": 3,
     "d": 1
@@ -11561,8 +11561,8 @@
     "options": [
       "Whoot, There It Is",
       "Tootsee Roll",
-      "C'mon N' Ride It (The Train)",
-      "Whoomp! (There It Is)"
+      "C'mon N' Ride It",
+      "Whoomp!"
     ],
     "answer": 3,
     "d": 1
@@ -11571,10 +11571,10 @@
     "show": "Billboard Hits",
     "q": "Which Quad City DJ's dance track reached #3 on the Billboard Hot 100 in 1996, inviting listeners on a train ride?",
     "options": [
-      "C'mon N' Ride It (The Train)",
+      "C'mon N' Ride It",
       "Space Jam",
       "Tootsee Roll",
-      "Whoomp! (There It Is)"
+      "Whoomp!"
     ],
     "answer": 0,
     "d": 2
@@ -11741,7 +11741,7 @@
     "options": [
       "120 Minutes",
       "MTV Jams",
-      "Total Request Live (TRL)",
+      "Total Request Live",
       "Headbangers Ball"
     ],
     "answer": 2,

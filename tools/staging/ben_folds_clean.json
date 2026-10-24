@@ -4,9 +4,9 @@
     "section": "Ben Folds Five (Original Run 1993–2000)",
     "q": "In what North Carolina town/city was Ben Folds Five officially formed in 1993?",
     "options": [
-      "Raleigh",
+      "Raleigh, North Carolina",
       "Chapel Hill",
-      "Charlotte (studio recording)",
+      "Charlotte",
       "Durham"
     ],
     "answer": 1,
@@ -69,9 +69,9 @@
     "section": "Ben Folds Five (Original Run 1993–2000)",
     "q": "What is the opening track on the 1995 debut album \"Ben Folds Five\"?",
     "options": [
-      "Philosophy",
+      "Philosophy the album track",
       "Julianne",
-      "Underground (studio recording)",
+      "Underground",
       "Jackson Cannery"
     ],
     "answer": 3,
@@ -82,10 +82,10 @@
     "section": "Ben Folds Five (Original Run 1993–2000)",
     "q": "In the song \"Underground,\" what subculture or social group is playfully satirized?",
     "options": [
-      "Wall Street yuppies",
-      "Hip hop breakdancers",
-      "Hardcore punk and alternative scene wannabes",
-      "Ivy League academics"
+      "The Wall Street yuppies",
+      "The Hip hop breakdancers",
+      "Alternative scene wannabes",
+      "The Ivy League academics"
     ],
     "answer": 2,
     "d": 1
@@ -175,8 +175,8 @@
     "options": [
       "Abbey Road Studios in London",
       "Electric Lady Studios in New York",
-      "Ben Folds' house in Chapel Hill, North Carolina",
-      "Sound City in Van Nuys, California (studio recording)"
+      "Ben Folds' house in Chapel Hill",
+      "Sound City in Van Nuys, California"
     ],
     "answer": 2,
     "d": 1
@@ -264,10 +264,10 @@
     "section": "Ben Folds Five (Original Run 1993–2000)",
     "q": "What instrument famously provides the fuzzy, heavily distorted sound in Ben Folds Five songs instead of an electric guitar?",
     "options": [
-      "Synthesizer through a Big Muff",
-      "Electric cello",
-      "Prepared tack piano",
-      "Bass guitar through an electro-harmonix Big Muff distortion pedal"
+      "The Synthesizer through a Big Muff",
+      "The Electric cello",
+      "The Prepared tack piano",
+      "Bass guitar through a Big Muff distortion pedal"
     ],
     "answer": 3,
     "d": 2
@@ -306,7 +306,7 @@
       "A lawnmower outside",
       "A train whistle",
       "A phone ringing in the kitchen",
-      "Ben yelling \"Smile, you motherfuckers!\" or counting off"
+      "Ben yelling \"Smile\""
     ],
     "answer": 3,
     "d": 1
@@ -343,9 +343,9 @@
     "q": "What is the title of Ben Folds Five's 1999 album, named after a famous mountaineer?",
     "options": [
       "The High Road",
-      "Lullabye for a Mountaineer",
-      "K2 Memories",
-      "The Unauthorized Biography of Reinhold Messner"
+      "The Lullabye for a Mountaineer",
+      "The K2 Memories",
+      "The Biography of Reinhold Messner"
     ],
     "answer": 3,
     "d": 2
@@ -357,8 +357,8 @@
     "options": [
       "A German classical composer",
       "A famous World War I fighter pilot",
-      "An Italian mountaineer who made the first solo ascent of Mount Everest without supplemental oxygen",
-      "An Austrian painter and architect"
+      "An Italian mountaineer",
+      "The An Austrian painter and architect"
     ],
     "answer": 2,
     "d": 1
@@ -369,9 +369,9 @@
     "q": "Why did Ben Folds choose the name \"Reinhold Messner\" for the 1999 album?",
     "options": [
       "He was an avid mountaineer himself",
-      "He and his childhood friends used Messner's name on fake IDs",
+      "He and his childhood friends used Messner's name",
       "It was the name of his grandfather",
-      "He read Messner's biography during an overseas flight (studio recording)"
+      "He read Messner's biography during an overseas flight"
     ],
     "answer": 1,
     "d": 2
@@ -407,10 +407,10 @@
     "section": "Ben Folds Five (Original Run 1993–2000)",
     "q": "What instrument plays the prominent brass lines throughout the track \"Army\"?",
     "options": [
-      "Synthesizer horn patches",
-      "Real brass section featuring trumpet, trombone, and French horn",
-      "Melodica",
-      "Kazoo ensemble"
+      "The Synthesizer horn patches",
+      "Real brass section featuring trumpet",
+      "The Melodica",
+      "The Kazoo ensemble"
     ],
     "answer": 1,
     "d": 1
@@ -434,9 +434,9 @@
     "q": "In the song \"Don't Change Your Plans,\" what musical style forms the lush orchestral bridge?",
     "options": [
       "1950s cinematic string arrangement",
-      "12-bar blues",
-      "Heavy metal shredding",
-      "Baroque harpsichord fugue (studio recording)"
+      "The 12-bar blues",
+      "The Heavy metal shredding",
+      "The Baroque harpsichord fugue"
     ],
     "answer": 0,
     "d": 2
@@ -524,10 +524,10 @@
     "section": "Ben Folds Five (Original Run 1993–2000)",
     "q": "What habit is Uncle Walter described as having constantly?",
     "options": [
-      "Prank calling neighbors",
-      "Playing banjo on the porch",
-      "Building model airplanes",
-      "Talking incessantly about politics and smoking cigarettes"
+      "The Prank calling neighbors",
+      "The Playing banjo on the porch",
+      "The Building model airplanes",
+      "Talking incessantly about politics"
     ],
     "answer": 3,
     "d": 1
@@ -537,10 +537,10 @@
     "section": "Ben Folds Five (Original Run 1993–2000)",
     "q": "In \"Julianne,\" what happened to the relationship?",
     "options": [
-      "She moved to California",
-      "They got married in Las Vegas",
-      "She dumped him for his roommate (studio recording)",
-      "The narrator realized she was crazy and ran away"
+      "The She moved to California",
+      "The They got married in Las Vegas",
+      "The She dumped him for his roommate",
+      "The narrator realized she was crazy"
     ],
     "answer": 3,
     "d": 1
@@ -551,7 +551,7 @@
     "q": "Which song from the 1997 album features the lyric \"Give me my money back, you bitch\"?",
     "options": [
       "Cigarette",
-      "One Angry Dwarf (studio recording)",
+      "One Angry Dwarf and 200 Solemn Faces",
       "Fair",
       "Song for the Dumped"
     ],
@@ -577,7 +577,7 @@
     "q": "In \"Selfless, Cold and Composed,\" what is the narrator reacting to?",
     "options": [
       "A family funeral",
-      "A promotion at work (studio recording)",
+      "A promotion at work",
       "A sports defeat",
       "A brutally emotionless breakup"
     ],
@@ -589,7 +589,7 @@
     "section": "Ben Folds Five (Original Run 1993–2000)",
     "q": "What was the title of Ben Folds Five's live concert VHS/DVD filmed during their 1999 tour?",
     "options": [
-      "Live at the Bowery Ballroom (studio recording)",
+      "The Live at the Bowery Ballroom",
       "Live at Sessions at West 54th",
       "Live in Tokyo",
       "Rocking the Roundhouse"
@@ -642,9 +642,9 @@
     "q": "Where did the band members meet before forming Ben Folds Five?",
     "options": [
       "In the local Chapel Hill indie music scene",
-      "In a high school jazz band",
-      "At the Berklee College of Music",
-      "At a piano showroom in Nashville (studio recording)"
+      "The In a high school jazz band",
+      "The At the Berklee College of Music",
+      "The At a piano showroom in Nashville"
     ],
     "answer": 0,
     "d": 1
@@ -693,10 +693,10 @@
     "section": "Solo Career & \"Rockin' The Suburbs\" (2001–2004)",
     "q": "The title track \"Rockin' the Suburbs\" is a satirical parody of which musical trend prominent in 2000-2001?",
     "options": [
-      "EDM and trance",
-      "Boy bands (e.g., Backstreet Boys)",
-      "Country pop (e.g., Shania Twain)",
-      "Nu-metal and angry rap-rock (e.g., Limp Bizkit, Korn)"
+      "The EDM and trance",
+      "The Boy bands",
+      "The Country pop",
+      "Nu-metal and angry rap-rock"
     ],
     "answer": 3,
     "d": 1
@@ -706,10 +706,10 @@
     "section": "Solo Career & \"Rockin' The Suburbs\" (2001–2004)",
     "q": "In the music video for \"Rockin' the Suburbs,\" who makes a comedic cameo playing multiple instruments and yelling angry lyrics?",
     "options": [
-      "Jack Black",
+      "The Jack Black",
       "\"Weird Al\" Yankovic",
-      "Tenacious D (studio recording)",
-      "Seth Green"
+      "The Tenacious D",
+      "The Seth Green"
     ],
     "answer": 1,
     "d": 1
@@ -746,7 +746,7 @@
     "q": "In \"The Luckiest,\" what couple who lived to be 96 and died within days of each other does Ben describe?",
     "options": [
       "His maternal grandparents",
-      "An old couple in his neighborhood who walked down the street holding hands",
+      "An old couple in his neighborhood",
       "Two strangers he met on a plane to Paris",
       "Characters from an old black-and-white movie"
     ],
@@ -784,8 +784,8 @@
     "section": "Solo Career & \"Rockin' The Suburbs\" (2001–2004)",
     "q": "In \"Annie Waits,\" what is Annie waiting for?",
     "options": [
-      "Her luggage at the airport (studio recording)",
-      "Her high school diploma",
+      "The Her luggage at the airport",
+      "The Her high school diploma",
       "A bus into the city",
       "Love and the right man to change her life"
     ],
@@ -810,8 +810,8 @@
     "section": "Solo Career & \"Rockin' The Suburbs\" (2001–2004)",
     "q": "In \"Zak and Sara,\" what does Sara see while working at the counter that Zak fails to notice?",
     "options": [
-      "Visions of the future and guitars ringing in her head",
-      "A famous rock star walking into the mall (studio recording)",
+      "Visions of the future",
+      "A famous rock star walking into the mall",
       "A shoplifter running out of the store",
       "A thunderstorm brewing outside"
     ],
@@ -839,7 +839,7 @@
       "An onstage breakdown by an opening band",
       "A dream Ben had about a religious cult",
       "A newspaper article from the Chapel Hill Herald",
-      "Ben watching an acquaintance take acid at a high school party and climb a tree"
+      "Ben watching an acquaintance take acid"
     ],
     "answer": 3,
     "d": 1
@@ -849,9 +849,9 @@
     "section": "Solo Career & \"Rockin' The Suburbs\" (2001–2004)",
     "q": "What concert tradition developed during live performances of \"Not the Same\"?",
     "options": [
-      "Ben diving into the audience",
-      "Robert Sledge returning to play bass",
-      "Ben directing the audience into a three-part vocal choir (high, middle, low harmonies)",
+      "The Ben diving into the audience",
+      "The Robert Sledge returning to play bass",
+      "Ben directing the audience into a three-part vocal choir",
       "The entire audience sitting down on the floor"
     ],
     "answer": 2,
@@ -862,8 +862,8 @@
     "section": "Solo Career & \"Rockin' The Suburbs\" (2001–2004)",
     "q": "Which track on \"Rockin' the Suburbs\" addresses an aging 1960s hippie who has become a corporate conservative?",
     "options": [
-      "Carrying Cathy",
-      "Fred Jones Part 2 (studio recording)",
+      "The Carrying Cathy",
+      "The Fred Jones Part 2",
       "Losing Lisa",
       "The Ascent of Stan"
     ],
@@ -888,7 +888,7 @@
     "section": "Solo Career & \"Rockin' The Suburbs\" (2001–2004)",
     "q": "What is the story told in \"Fred Jones Part 2\"?",
     "options": [
-      "A newspaper employee being quietly laid off after decades of service",
+      "A newspaper employee being quietly laid off",
       "A boxer losing his final title fight",
       "A retired sailor sitting by the harbor",
       "A grandfather moving into a nursing home"
@@ -953,9 +953,9 @@
     "section": "Solo Career & \"Rockin' The Suburbs\" (2001–2004)",
     "q": "What Dr. Dre and Snoop Dogg hip-hop track did Ben notoriously cover live on piano during his 2002 tour?",
     "options": [
-      "The Next Episode (studio recording)",
-      "Still D.R.E.",
-      "Gin and Juice",
+      "The Next Episode",
+      "The Still D.R.E.",
+      "The Gin and Juice",
       "Nuthin' but a 'G' Thang"
     ],
     "answer": 3,
@@ -980,7 +980,7 @@
     "q": "In which country did Ben Folds live for several years in the early 2000s with his then-wife Frally Hynes?",
     "options": [
       "Australia",
-      "England (studio recording)",
+      "The England",
       "Canada",
       "Ireland"
     ],
@@ -1085,8 +1085,8 @@
     "options": [
       "Robert Sledge and Darren Jessee",
       "Matt Chamberlain and Leland Sklar",
-      "Jared Reynolds (bass) and Lindsay Jamieson (drums)",
-      "Joey Waronker and Justin Meldal-Johnsen (studio recording)"
+      "Jared Reynolds and Lindsay Jamieson",
+      "Joey Waronker and Justin Meldal-Johnsen"
     ],
     "answer": 2,
     "d": 2
@@ -1111,7 +1111,7 @@
     "options": [
       "Renaissance fairs in the Midwest",
       "A Christian amusement park in Florida",
-      "Commercialized mega-churches and suburban sprawl across red-state America",
+      "Commercialized mega-churches",
       "TV televangelists from the 1980s"
     ],
     "answer": 2,
@@ -1174,9 +1174,9 @@
     "section": "\"Songs For Silverman\" & Later Solo Work (2005–2010)",
     "q": "What was the title of the 2006 compilation album that gathered tracks from the \"Speed Graphic\", \"Sunny 16\", and \"Super D\" EPs?",
     "options": [
-      "B-Sides & Rarities Vol. 2 (studio recording)",
+      "B-Sides & Rarities Vol. 2",
       "The Best of Ben Folds",
-      "Supersunnyspeedgraphic, LP",
+      "Supersunnyspeedgraphic",
       "Vault 2006"
     ],
     "answer": 2,
@@ -1187,7 +1187,7 @@
     "section": "\"Songs For Silverman\" & Later Solo Work (2005–2010)",
     "q": "Which popular hip-hop song by Dr. Dre did Ben cover on \"Supersunnyspeedgraphic, LP\"?",
     "options": [
-      "Forgot About Dre (studio recording)",
+      "Forgot About Dre",
       "Gin and Juice",
       "California Love",
       "Bitches Ain't Shit"
@@ -1240,7 +1240,7 @@
     "q": "Prior to releasing \"Way to Normal,\" what unusual prank did Ben pull after the album leaked online?",
     "options": [
       "He sued the website that leaked it",
-      "He secretly recorded a full set of \"fake\" joke songs overnight in Dublin and leaked them as the real album",
+      "He secretly recorded a full set of \"fake\" joke songs overnight in Dublin",
       "He canceled the album release entirely",
       "He re-recorded the album with an accordion"
     ],
@@ -1265,7 +1265,7 @@
     "section": "\"Songs For Silverman\" & Later Solo Work (2005–2010)",
     "q": "Which hit song on \"Way to Normal\" is a duet with singer-songwriter Regina Spektor?",
     "options": [
-      "Brainwascht (studio recording)",
+      "Brainwascht",
       "Effington",
       "Cologne",
       "You Don't Know Me"
@@ -1279,9 +1279,9 @@
     "q": "In the song \"Effington,\" what is Effington?",
     "options": [
       "An English boarding school",
-      "A fictitious, stereotypical small Midwestern town",
+      "A fictitious",
       "Ben's dog",
-      "A fictional brand of luxury clothing (studio recording)"
+      "A fictional brand of luxury clothing"
     ],
     "answer": 1,
     "d": 1
@@ -1293,7 +1293,7 @@
     "options": [
       "Buying gifts for fans",
       "A shopping trip in Paris",
-      "Ben's feelings and isolation in a hotel room following his divorce",
+      "Ben's feelings",
       "An allergy to perfume"
     ],
     "answer": 2,
@@ -1319,7 +1319,7 @@
     "options": [
       "The power completely went out",
       "His grand piano fell apart",
-      "He fell off the stage into the orchestra pit and cracked his head open",
+      "He fell off the stage into the orchestra pit",
       "A fan threw a shoe at him"
     ],
     "answer": 2,
@@ -1382,7 +1382,7 @@
     "section": "\"Songs For Silverman\" & Later Solo Work (2005–2010)",
     "q": "Which fellow judges sat alongside Ben Folds on early seasons of \"The Sing-Off\"?",
     "options": [
-      "Shawn Stockman (Boyz II Men) and Nicole Scherzinger",
+      "Shawn Stockman",
       "Simon Cowell and Paula Abdul",
       "Blake Shelton and Adam Levine",
       "Randy Jackson and Kara DioGuardi"
@@ -1411,7 +1411,7 @@
       "High Fidelity",
       "About a Boy",
       "Fever Pitch",
-      "Juliet, Naked (studio recording)"
+      "Juliet, Naked"
     ],
     "answer": 0,
     "d": 2
@@ -1421,8 +1421,8 @@
     "section": "Collaborations, \"Lonely Avenue\", & Ben Folds Five Reunion",
     "q": "What is the premise of the song \"Your Dogs\" on \"Lonely Avenue\"?",
     "options": [
-      "A woman explaining that her dogs don't like her new boyfriend",
-      "A complaint about a bad neighbor's barking dogs (studio recording)",
+      "A woman explaining that her dogs don't",
+      "A complaint about a bad neighbor's barking dogs",
       "A veterinarian's workday",
       "A dog race in London"
     ],
@@ -1474,7 +1474,7 @@
     "q": "In 2011, Ben Folds Five reunited to record three new tracks for which release?",
     "options": [
       "Live in Tokyo 2011",
-      "Whatever and Ever Amen Deluxe Edition (studio recording)",
+      "Whatever and Ever Amen Deluxe Edition",
       "The Best Imitation of Myself: A Retrospective",
       "Songs for Silverman Revisited"
     ],
@@ -1487,7 +1487,7 @@
     "q": "What was the name of Ben Folds Five's fourth full-length studio album, released in September 2012 (their first in 13 years)?",
     "options": [
       "Three Again",
-      "Back to North Carolina (studio recording)",
+      "Back to North Carolina",
       "The Sound of the Life of the Mind",
       "Re-Assembled"
     ],
@@ -1526,7 +1526,7 @@
     "q": "Which famous puppet characters appeared in the official music video for \"Do It Anyway\"?",
     "options": [
       "The Muppets",
-      "Fraggle Rock (Gobos, Mokey, Wembley, Boober, Red, and Uncle Traveling Matt)",
+      "Fraggle Rock",
       "Sesame Street",
       "Avenue Q"
     ],
@@ -1552,7 +1552,7 @@
     "q": "In \"Michael Praytor, Five Years Later,\" who is Michael Praytor?",
     "options": [
       "A high school bully",
-      "A sound technician at Sony (studio recording)",
+      "A sound technician at Sony",
       "A fictional superhero",
       "The band's real-life former tour manager"
     ],
@@ -1642,7 +1642,7 @@
     "section": "Collaborations, \"Lonely Avenue\", & Ben Folds Five Reunion",
     "q": "What supergroup trio did Ben Folds form with Amanda Palmer, Neil Gaiman, and Damian Kulash (of OK Go) in 2011?",
     "options": [
-      "8in8 (writing and recording 8 songs in 8 hours)",
+      "8in8",
       "The Quick Four",
       "Flash Project",
       "Boston-Nashville Express"
@@ -1655,10 +1655,10 @@
     "section": "Collaborations, \"Lonely Avenue\", & Ben Folds Five Reunion",
     "q": "What video streaming site was used to broadcast the 8in8 project live while they created the EP?",
     "options": [
-      "Ustream / YouTube",
+      "Ustream",
       "Twitch",
       "Vimeo",
-      "Periscope (studio recording)"
+      "Periscope"
     ],
     "answer": 0,
     "d": 2
@@ -1681,9 +1681,9 @@
     "section": "Collaborations, \"Lonely Avenue\", & Ben Folds Five Reunion",
     "q": "What major multi-movement classical piece is featured on the second half of the album \"So There\"?",
     "options": [
-      "The North Carolina Suite (studio recording)",
+      "The North Carolina Suite",
       "Symphony in F Minor",
-      "Concerto for Piano and Orchestra",
+      "Concerto for Piano",
       "Appalachian Rhapsody"
     ],
     "answer": 2,
@@ -1707,7 +1707,7 @@
     "section": "Collaborations, \"Lonely Avenue\", & Ben Folds Five Reunion",
     "q": "What instrument family makes up the ensemble yMusic?",
     "options": [
-      "Sextet consisting of flute, clarinet, trumpet, violin, viola, and cello",
+      "Sextet consisting of flute",
       "Traditional string quartet only",
       "Percussion ensemble",
       "Brass quintet"
@@ -1722,7 +1722,7 @@
     "options": [
       "So There",
       "Not a Robot",
-      "Phone in a Pool (studio recording)",
+      "Phone in a Pool",
       "Capable of Anything"
     ],
     "answer": 3,
@@ -1749,7 +1749,7 @@
       "Rockin' the Suburbs: My Life",
       "The Luckiest Man",
       "Whatever and Ever Amen: The Book",
-      "A Dream About Lightning Bugs: A Life of Music and Cheap Lessons"
+      "A Dream About Lightning Bugs: A Life of Music"
     ],
     "answer": 3,
     "d": 1
@@ -1824,7 +1824,7 @@
     "section": "\"What Matters Most\", Memoir, & Current Work (2016–2026)",
     "q": "What is the opening track of \"What Matters Most\"?",
     "options": [
-      "Clouds with Ellipses (studio recording)",
+      "Clouds with Ellipses",
       "Exhausting Lover",
       "Winslow Gardens",
       "But Wait, There's More"
@@ -1838,7 +1838,7 @@
     "q": "What is the comedic storyline in the single \"Exhausting Lover\"?",
     "options": [
       "An exhausting flight next to a talkative tourist",
-      "A disastrous one-night stand in an Atlanta Motel 6 involving sweat, bodily injury, and a hyper-athletic partner",
+      "A disastrous one-night stand in an Atlanta Motel 6 involving sweat",
       "An annoying roommate who never leaves the house",
       "Running a marathon to impress someone"
     ],
@@ -1876,7 +1876,7 @@
     "section": "\"What Matters Most\", Memoir, & Current Work (2016–2026)",
     "q": "What controversial topic is touched upon in \"Kristine from the 7th Grade\"?",
     "options": [
-      "A former childhood friend falling down internet conspiracy theory rabbit holes and sending unhinged political emails",
+      "A former childhood friend falling down internet conspiracy theory rabbit holes",
       "A high school romance gone wrong",
       "Cheating on a 7th grade math test",
       "An awkward reunion at a shopping mall"
@@ -1916,7 +1916,7 @@
     "q": "During the COVID-19 pandemic lockdowns, where was Ben Folds stranded and living for over a year?",
     "options": [
       "Sydney, Australia",
-      "Chapel Hill, NC (studio recording)",
+      "Chapel Hill, NC",
       "London, UK",
       "Tokyo, Japan"
     ],
@@ -1928,7 +1928,7 @@
     "section": "\"What Matters Most\", Memoir, & Current Work (2016–2026)",
     "q": "What weekly livestream piano performance did Ben broadcast from his apartment during the 2020 lockdowns?",
     "options": [
-      "Live from Australia (studio recording)",
+      "Live from Australia",
       "Couch Concerts",
       "Piano Quarantine",
       "Saturday Night Apartment Show"
@@ -1954,7 +1954,7 @@
     "section": "Lyrics, Themes, And Song Identification",
     "q": "\"I want my money back, you bitch\" is the iconic uncensored refrain from which song?",
     "options": [
-      "One Angry Dwarf (studio recording)",
+      "One Angry Dwarf and 200 Solemn Faces",
       "Julianne",
       "Bitch Went Nuts",
       "Song for the Dumped"
@@ -1980,8 +1980,8 @@
     "section": "Lyrics, Themes, And Song Identification",
     "q": "\"Down on the corner, see the people standing in line / What you got to offer them, what you got to say?\" opens which song?",
     "options": [
-      "Philosophy",
-      "Underground (studio recording)",
+      "Philosophy the album track",
+      "Underground",
       "Kate",
       "Jackson Cannery"
     ],
@@ -2061,7 +2061,7 @@
       "Ween",
       "The Flaming Lips",
       "Beck",
-      "Pavement (studio recording)"
+      "Pavement"
     ],
     "answer": 1,
     "d": 2
@@ -2085,9 +2085,9 @@
     "q": "In \"You Don't Know Me,\" what does Ben say people see when they look at him?",
     "options": [
       "\"A complete stranger\"",
-      "\"Some kind of cheerful clown\" (studio recording)",
+      "\"Some kind of cheerful clown\"",
       "\"Someone they used to know\"",
-      "\"A guy who looks like he has it all together\""
+      "\"A guy who looks\""
     ],
     "answer": 3,
     "d": 1
@@ -2100,7 +2100,7 @@
       "He lives in a gated mansion",
       "He has everything he ever wanted",
       "He has never had a real job",
-      "His parents are white and pay for his tuition and car"
+      "His parents are white"
     ],
     "answer": 3,
     "d": 1
@@ -2126,7 +2126,7 @@
       "He dances alone in an empty ballroom",
       "He wins the dance competition",
       "He gets thrown out of the wedding",
-      "His partner packs her bags and drives away into the rain"
+      "His partner packs her bags"
     ],
     "answer": 3,
     "d": 1
@@ -2175,7 +2175,7 @@
     "section": "Lyrics, Themes, And Song Identification",
     "q": "\"We can be happy / It's really up to you\" is a bittersweet refrain found in:",
     "options": [
-      "Missing the War (studio recording)",
+      "Missing the War",
       "Don't Change Your Plans",
       "Cigarette",
       "Lullabye"
@@ -2216,7 +2216,7 @@
     "options": [
       "Old black and white television sets",
       "Rain falling on a tin roof",
-      "Dust settling in an empty bedroom (studio recording)",
+      "Dust settling in an empty bedroom",
       "A broken grandfather clock"
     ],
     "answer": 0,
@@ -2241,9 +2241,9 @@
     "q": "What is the title of the Ben Folds Five song that addresses high school bullies who ridiculed Ben: \"Now I'm big and important / And you're still working at the gas station\"?",
     "options": [
       "Julianne",
-      "Song for the Dumped (studio recording)",
+      "Song for the Dumped",
       "Uncle Walter",
-      "One Angry Dwarf and 200 Solemn Faces"
+      "One Angry Dwarf"
     ],
     "answer": 3,
     "d": 1
@@ -2294,7 +2294,7 @@
     "options": [
       "Board up the windows",
       "Drive inland",
-      "Just sit right here and play the piano",
+      "Just sit right here",
       "Fly to California"
     ],
     "answer": 2,
@@ -2319,7 +2319,7 @@
     "q": "In \"Still,\" from the film soundtrack *Over the Hedge*, what is the creature pondering?",
     "options": [
       "Finding acorns in the yard",
-      "Human suburban civilization and the stillness of night",
+      "Human suburban civilization",
       "Hibernation",
       "Running across the highway"
     ],
@@ -2345,8 +2345,8 @@
     "q": "What brand of grand piano is Ben Folds most famously associated with playing and touring with worldwide?",
     "options": [
       "Steinway & Sons",
-      "Yamaha (C7)",
-      "Baldwin (specifically the Baldwin SD-10)",
+      "Yamaha",
+      "Baldwin",
       "Bösendorfer"
     ],
     "answer": 2,
@@ -2358,7 +2358,7 @@
     "q": "What unusual percussive technique does Ben Folds frequently use on the piano during high-energy live performances?",
     "options": [
       "Playing with drumsticks on the copper strings",
-      "Hitting the keys with his elbows, fists, and throwing his piano stool onto the keys",
+      "Hitting the keys with his elbows",
       "Plucking strings with guitar picks",
       "Strumming the dampers"
     ],
@@ -2396,7 +2396,7 @@
     "section": "Instruments, Technique, And Musical Gear",
     "q": "At what prestigious music institution did Ben Folds briefly study classical percussion before dropping out?",
     "options": [
-      "Juilliard School of Music (studio recording)",
+      "Juilliard School of Music",
       "University of Miami Frost School of Music",
       "Berklee College of Music",
       "Curtis Institute of Music"
@@ -2410,7 +2410,7 @@
     "q": "What happened to Ben's drum kit during his time at the University of Miami?",
     "options": [
       "It was stolen from his dorm room",
-      "He threw it into a lake after failing a jury exam",
+      "He threw it into a lake",
       "He sold it to buy a grand piano",
       "It was signed by Buddy Rich"
     ],
@@ -2435,7 +2435,7 @@
     "section": "Instruments, Technique, And Musical Gear",
     "q": "In live shows, when Ben Folds covers Dr. Dre's \"Bitches Ain't Shit,\" what tempo and style does he perform it in?",
     "options": [
-      "Melodramatic, slow solo piano ballad",
+      "Melodramatic",
       "High-speed ragtime",
       "Fast punk rock",
       "Latin bossa nova"
@@ -2461,7 +2461,7 @@
     "section": "Instruments, Technique, And Musical Gear",
     "q": "Why was Ben Folds instrumental in saving RCA Studio A in Nashville in 2014?",
     "options": [
-      "It was scheduled to be demolished and replaced with luxury condominiums",
+      "It was scheduled to be demolished",
       "It had been abandoned after a flood",
       "It was being converted into a parking garage",
       "The city wanted to turn it into a highway exit"
@@ -2476,7 +2476,7 @@
     "options": [
       "Jack White and Dolly Parton",
       "Dave Cobb and Audrey Fletcher",
-      "Taylor Swift and Keith Urban (studio recording)",
+      "Taylor Swift and Keith Urban",
       "Garth Brooks"
     ],
     "answer": 1,
@@ -2490,7 +2490,7 @@
       "Kawai",
       "Yamaha",
       "Baldwin",
-      "Fazioli (studio recording)"
+      "Fazioli"
     ],
     "answer": 2,
     "d": 3
@@ -2503,7 +2503,7 @@
       "Direct XLR line out from a digital soundboard",
       "Shure SM57s taped to the lid",
       "Neumann U87s overhead",
-      "Helpinstill magnetic piano pickups and Barcus-Berry contact mics"
+      "Helpinstill magnetic piano pickups"
     ],
     "answer": 3,
     "d": 3
@@ -2552,7 +2552,7 @@
     "section": "Biography, Trivia, And Extratextual Facts",
     "q": "On what date was Ben Folds born?",
     "options": [
-      "October 31, 1965 (studio recording)",
+      "October 31, 1965",
       "August 14, 1967",
       "September 12, 1966",
       "July 4, 1968"
@@ -2567,8 +2567,8 @@
     "options": [
       "Charlotte, North Carolina",
       "Greensboro, North Carolina",
-      "Chapel Hill, North Carolina (studio recording)",
-      "Winston-Salem, North Carolina"
+      "Chapel Hill, North Carolina",
+      "Winston-Salem"
     ],
     "answer": 3,
     "d": 1
@@ -2592,7 +2592,7 @@
     "q": "What instrument did Ben primarily play in the band Majosha?",
     "options": [
       "Bass guitar and drums",
-      "Lead electric guitar (studio recording)",
+      "Lead electric guitar",
       "Keyboards only",
       "Saxophone"
     ],
@@ -2618,7 +2618,7 @@
     "q": "What was the name of Ben Folds' short-lived Nashville band in the early 1990s before Ben Folds Five?",
     "options": [
       "The Bens",
-      "The Broadway Dogs (studio recording)",
+      "The Broadway Dogs",
       "Fear of Pop",
       "The International Velvet"
     ],
@@ -2630,7 +2630,7 @@
     "section": "Biography, Trivia, And Extratextual Facts",
     "q": "Before achieving musical stardom, what musical theater audition accompanist job did Ben hold in New York City?",
     "options": [
-      "Organist at St. Patrick's Cathedral (studio recording)",
+      "Organist at St. Patrick's Cathedral",
       "Rehearsal pianist for off-Broadway auditions",
       "Conductor for Phantom of the Opera",
       "Keyboardist for Blue Man Group"
@@ -2696,7 +2696,7 @@
     "q": "Ben Folds has twins born in 1999 with his second wife Frally Hynes. What are their names?",
     "options": [
       "Zak and Sara",
-      "Jack and Diane (studio recording)",
+      "Jack and Diane",
       "Louis and Gracie",
       "Sam and Lily"
     ],
@@ -2722,7 +2722,7 @@
     "q": "What is Ben Folds' passionate secondary artistic hobby, which has resulted in public exhibitions and book publications?",
     "options": [
       "Oil painting",
-      "Photography (especially large-format and 35mm film)",
+      "Photography",
       "Sculpting",
       "Woodworking"
     ],
@@ -2747,7 +2747,7 @@
     "section": "Biography, Trivia, And Extratextual Facts",
     "q": "In 2010, an internet sensation emerged where Ben improvised songs live on Chatroulette while disguised in what?",
     "options": [
-      "A baseball cap, glasses, and a piano playing improvisations about whoever appeared on screen",
+      "A baseball cap",
       "A gorilla mask and a piano",
       "A clown suit",
       "A fake beard and tuxedo"
@@ -2801,7 +2801,7 @@
     "options": [
       "\"Ass Crack Bandit\"",
       "\"Brick\"",
-      "\"The Luckiest\" (studio recording)",
+      "\"The Luckiest\"",
       "\"Kate\""
     ],
     "answer": 0,
@@ -2812,10 +2812,10 @@
     "section": "Biography, Trivia, And Extratextual Facts",
     "q": "In which episode of \"Community\" does Ben Folds play Professor Bublitz, a botanical chemistry teacher?",
     "options": [
-      "\"Geothermal Escapism\" (Season 5)",
-      "\"Modern Warfare\" (Season 1)",
-      "\"Remedial Chaos Theory\" (Season 3)",
-      "\"Basic Intergluteal Numismatics\" (Season 5, Episode 3)"
+      "\"Geothermal Escapism\"",
+      "\"Modern Warfare\"",
+      "\"Remedial Chaos Theory\"",
+      "\"Basic Intergluteal Numismatics\""
     ],
     "answer": 3,
     "d": 3
@@ -2906,7 +2906,7 @@
       "Driving a golf cart through a supermarket",
       "Sitting in a therapy session with puppets",
       "Speed dating at a coffee shop",
-      "Breaking dishes and throwing furniture at each other in a stylish suburban house"
+      "Breaking dishes"
     ],
     "answer": 3,
     "d": 1
@@ -2916,7 +2916,7 @@
     "section": "Biography, Trivia, And Extratextual Facts",
     "q": "What was the name of Ben's official 2011 career retrospective box set?",
     "options": [
-      "Whatever and Ever Amen: The Complete Works (studio recording)",
+      "Whatever and Ever Amen: The Complete Works",
       "20 Years of Folds",
       "The Best Imitation of Myself: A Retrospective",
       "Life in a Cardboard Box"
@@ -2943,7 +2943,7 @@
     "q": "What song did Ben Folds write for the soundtrack to the film \"The Sessions\" (2012)?",
     "options": [
       "Wistful",
-      "The Luckiest (Acoustic) (studio recording)",
+      "The Luckiest",
       "Think About Your Troubles",
       "All You Can Eat"
     ],
@@ -2983,7 +2983,7 @@
     "options": [
       "Say Yes",
       "Between the Bars",
-      "Waltz #2 (XO)",
+      "Waltz #2",
       "Needle in the Hay"
     ],
     "answer": 0,
@@ -2995,7 +2995,7 @@
     "q": "What classic Burt Bacharach song did Ben Folds record with Rufus Wainwright on vocals?",
     "options": [
       "Careless Whisper",
-      "What the World Needs Now Is Love (studio recording)",
+      "What the World Needs Now Is Love",
       "Raindrops Keep Fallin' on My Head",
       "Close to You"
     ],
@@ -3059,7 +3059,7 @@
     "section": "Biography, Trivia, And Extratextual Facts",
     "q": "What is the title of the instrumental track on \"Whatever and Ever Amen\" that sounds like a 1970s game show theme?",
     "options": [
-      "Song for the Dumped (Outro)",
+      "Song for the Dumped",
       "Theme from Dr. Pyser",
       "Polka Time",
       "The Last Laugh"
@@ -3074,7 +3074,7 @@
     "options": [
       "It was a college philosophy professor who failed him",
       "It was a character from a German soap opera",
-      "Dr. Pyser was Ben's childhood orthodontist who constantly complained about his teeth",
+      "Dr. Pyser was Ben's childhood orthodontist",
       "It was a brand of electric typewriter"
     ],
     "answer": 2,
@@ -3111,10 +3111,10 @@
     "section": "Biography, Trivia, And Extratextual Facts",
     "q": "In what city did Ben Folds Five play their first major reunion show together in 2008, performing the entire \"Reinhold Messner\" album live?",
     "options": [
-      "Los Angeles (at the Troubadour)",
-      "New York City (at Carnegie Hall) (studio recording)",
-      "London (at Royal Albert Hall)",
-      "Chapel Hill, NC (at Memorial Hall)"
+      "Los Angeles",
+      "New York City",
+      "London",
+      "Chapel Hill, NC"
     ],
     "answer": 3,
     "d": 3
@@ -3151,7 +3151,7 @@
     "q": "In 2018, Ben was featured as a guest performer with which symphony orchestra at the Hollywood Bowl?",
     "options": [
       "Pasadena Symphony",
-      "Hollywood Bowl Orchestra (studio recording)",
+      "Hollywood Bowl Orchestra",
       "Los Angeles Philharmonic",
       "Pacific Symphony"
     ],
@@ -3189,7 +3189,7 @@
     "section": "Biography, Trivia, And Extratextual Facts",
     "q": "What unusual guitar-style technique does Ben use on the song \"Free Coffee\"?",
     "options": [
-      "Putting metal chains and weights on the piano strings (prepared piano)",
+      "Putting metal chains and weights on the piano strings",
       "Running the grand piano through a distortion pedal with heavy overdrive",
       "Playing an electric clavinet through a talk box",
       "Using an acoustic guitar bowed with a violin bow"
@@ -3228,7 +3228,7 @@
     "section": "Biography, Trivia, And Extratextual Facts",
     "q": "Which of the following is true about Ben's live performance of \"Army\"?",
     "options": [
-      "He divides the audience into horn sections (trumpets, trombones, tubas) and directs their vocal melodies",
+      "He divides the audience into horn sections",
       "He brings an actual marching band on stage every night",
       "He refuses to play the piano solo",
       "He sings the song while walking on his hands"
@@ -3293,8 +3293,8 @@
     "section": "Deep Cuts, B-Sides, And Obscure Trivia",
     "q": "What is the opening track on the 1998 live/rarities album \"Naked Baby Photos\"?",
     "options": [
-      "Alice Childress (Live)",
-      "Jackson Cannery (Original 7\" version)",
+      "Alice Childress",
+      "Jackson Cannery",
       "Emaline",
       "Eddie Walker"
     ],
@@ -3306,8 +3306,8 @@
     "section": "Deep Cuts, B-Sides, And Obscure Trivia",
     "q": "In the song \"Emaline,\" what is Emaline's situation?",
     "options": [
-      "She is an elderly woman in a nursing home (studio recording)",
-      "She went off to college and left behind the simple life",
+      "She is an elderly woman in a nursing home",
+      "She went off to college",
       "She was Ben's childhood piano teacher",
       "She is a famous Broadway dancer"
     ],
@@ -3334,7 +3334,7 @@
     "options": [
       "A song written for William Shatner",
       "An unreleased track from \"Rockin' the Suburbs\"",
-      "A spontaneous, fully improvised song that Ben composes on the spot with orchestral sections during live symphony concerts",
+      "A spontaneous",
       "A heavy metal cover of a Black Sabbath song"
     ],
     "answer": 2,
@@ -3345,7 +3345,7 @@
     "section": "Deep Cuts, B-Sides, And Obscure Trivia",
     "q": "Where did the phrase \"Rock This Bitch\" originate?",
     "options": [
-      "An audience member in Chicago yelled out \"Rock this bitch!\" during a quiet solo piano show, prompting Ben to improvise a song around it",
+      "An audience member in Chicago yelled out \"Rock this bitch!\" during a quiet solo piano show",
       "Robert Sledge wrote it on his bass amplifier",
       "It was the working title for \"One Angry Dwarf\"",
       "A review in Rolling Stone Magazine"
@@ -3425,7 +3425,7 @@
     "options": [
       "An instrumental piano lullaby",
       "An acoustic demo of \"Brick\"",
-      "A recorded prank phone call to a local bar or an argument with Ben's friend",
+      "A recorded prank phone call to a local bar",
       "A drum solo by Darren Jessee"
     ],
     "answer": 2,
@@ -3438,7 +3438,7 @@
     "options": [
       "Crickets in a backyard",
       "Ben falling off the piano stool",
-      "A massive choir of handclaps and a church choir fading out",
+      "A massive choir of handclaps",
       "A police siren passing by"
     ],
     "answer": 2,
@@ -3450,7 +3450,7 @@
     "q": "Which track on \"Way to Normal\" contains the lyric \"She's an intellectual / But she likes to watch trash TV\"?",
     "options": [
       "Kylie from Connecticut",
-      "The Frowneast Sailor (studio recording)",
+      "The Frowneast Sailor",
       "You Don't Know Me",
       "Effington"
     ],
@@ -3464,7 +3464,7 @@
     "options": [
       "A college student visiting New York for Christmas",
       "A girl who moves to Hollywood to become an actress",
-      "An older woman in a long-standing comfortable marriage secretly longing for excitement and a lost past",
+      "An older woman in a long-standing comfortable marriage secretly longing for excitement",
       "A dancer retiring from the stage"
     ],
     "answer": 2,
@@ -3476,7 +3476,7 @@
     "q": "What instrument does Ben Folds play in the music video for \"Do It Anyway\" with Fraggle Rock?",
     "options": [
       "A glass grand piano",
-      "A keytar on the roof of a van (studio recording)",
+      "A keytar on the roof of a van",
       "An accordion",
       "A battered upright piano in a basement"
     ],
@@ -3528,7 +3528,7 @@
     "q": "In \"Draw a Crowd,\" what humorous lyric does Ben sing about his own aging body?",
     "options": [
       "\"My hair is falling out on the stage\"",
-      "\"If you're drawing a crowd / Then you're doing it right / I've got a bad hip and a belly\"",
+      "\"If you're drawing a crowd\"",
       "\"My knees pop when I bend down\"",
       "\"I need reading glasses for the sheet music\""
     ],
@@ -3606,7 +3606,7 @@
     "q": "In 2015, Ben Folds produced and performed on the critically acclaimed album \"Sketches of Brunswick East\" or was it another artist? Which indie artist did Ben produce an album for in the 2010s?",
     "options": [
       "St. Vincent",
-      "Amanda Palmer (\"Who Killed Amanda Palmer\", 2008)",
+      "Amanda Palmer",
       "Courtney Barnett",
       "Sharon Van Etten"
     ],
@@ -3644,7 +3644,7 @@
     "section": "Deep Cuts, B-Sides, And Obscure Trivia",
     "q": "On the 2023 album 'What Matters Most', which agonizing slow-motion activity serves as the titular metaphor for being trapped in an inescapable relationship conflict?",
     "options": [
-      "Getting trapped in a revolving door (studio recording)",
+      "Getting trapped in a revolving door",
       "Sitting on a stalled ski lift",
       "Pedaling a rented paddleboat out on a lake",
       "Riding a tandem bicycle uphill"
@@ -3671,7 +3671,7 @@
     "q": "In the song \"What Matters Most,\" what specific object in the storage locker triggers an emotional wave?",
     "options": [
       "A rusted acoustic guitar",
-      "A cheap plastic horse and an old shoebox of letters",
+      "A cheap plastic horse",
       "An old wedding album",
       "A collection of vinyl records"
     ],
@@ -3697,7 +3697,7 @@
     "q": "In \"Losing Lisa,\" what is the musical style of the bridge?",
     "options": [
       "Hardcore punk scream",
-      "1980s synth-wave breakdown (studio recording)",
+      "1980s synth-wave breakdown",
       "Ragtime stride piano",
       "Beach Boys-esque vocal harmonies"
     ],
@@ -3750,7 +3750,7 @@
     "options": [
       "Perth, Australia",
       "London, UK",
-      "Dublin, Ireland (studio recording)",
+      "Dublin, Ireland",
       "Berlin, Germany"
     ],
     "answer": 0,
@@ -3774,8 +3774,8 @@
     "section": "Deep Cuts, B-Sides, And Obscure Trivia",
     "q": "Which song on \"Live in Perth\" features Ben directing the brass section by singing their parts to them on the spot?",
     "options": [
-      "Narcolepsy (studio recording)",
-      "Army",
+      "Narcolepsy",
+      "Army the horn-driven single",
       "Rock This Bitch",
       "Landed"
     ],
@@ -3787,7 +3787,7 @@
     "section": "Deep Cuts, B-Sides, And Obscure Trivia",
     "q": "In the song \"Bitch Went Nuts,\" why did the narrator's girlfriend get angry?",
     "options": [
-      "He didn't want to go to dinner with her friends / trivial everyday reasons",
+      "He didn't want to go to dinner with her friends",
       "He crashed her car",
       "He forgot their anniversary",
       "He sold her favorite record"
@@ -3853,7 +3853,7 @@
     "q": "In the song \"Best Imitation of Myself,\" what does Ben say he is doing to please other people?",
     "options": [
       "Changing his clothes and haircut",
-      "Putting on a persona and smiling until his face hurts",
+      "Putting on a persona",
       "Quitting music to get a normal job",
       "Moving to Los Angeles"
     ],
@@ -3866,7 +3866,7 @@
     "q": "What instrument does Ben Folds play at the beginning of \"Zak and Sara\" before the piano kicks in?",
     "options": [
       "Mellotron flute lines",
-      "Rapid drum fills played on a snare and hi-hat",
+      "Rapid drum fills played on a snare",
       "Bass guitar slide",
       "Triangle chime"
     ],
@@ -3881,7 +3881,7 @@
       "Burgers and fries at a diner",
       "Ice cream cones",
       "Pizza down the street",
-      "Pancakes on Sunday morning (studio recording)"
+      "Pancakes on Sunday morning"
     ],
     "answer": 0,
     "d": 3

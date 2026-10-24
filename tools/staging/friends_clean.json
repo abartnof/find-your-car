@@ -135,10 +135,10 @@
     "show": "Friends",
     "q": "In 'The One with George Stephanopoulos', what sports object strikes Ross in the face, landing him in the hospital?",
     "options": [
-      "A baseball",
+      "An official major league leather baseball",
       "A basketball",
       "An ice hockey puck",
-      "A tennis ball displayed prominently on screen"
+      "A tennis ball"
     ],
     "answer": 2,
     "d": 1
@@ -159,9 +159,9 @@
     "show": "Friends",
     "q": "Because the friends get locked out of the apartment and burn their Thanksgiving feast, what meal do they share instead?",
     "options": [
-      "Cold leftover pizza",
+      "Greasy slices of cold leftover pepperoni pizza from Ray's",
       "Chinese takeout noodles",
-      "Grilled cheese sandwiches and Funyuns",
+      "Grilled cheese sandwiches",
       "Canned baked beans"
     ],
     "answer": 2,
@@ -171,10 +171,10 @@
     "show": "Friends",
     "q": "What species of primate is Ross's beloved exotic pet Marcel?",
     "options": [
-      "Chimpanzee",
+      "West African wild chimpanzee native to jungle canopies",
       "Spider monkey",
       "Rhesus macaque",
-      "White-headed capuchin monkey"
+      "Capuchin monkey"
     ],
     "answer": 3,
     "d": 2
@@ -195,7 +195,7 @@
     "show": "Friends",
     "q": "What is the occupation of Chandler's glamorous mother, Nora Tyler Bing, portrayed by Morgan Fairchild?",
     "options": [
-      "Broadway stage actress (as described in the episode)",
+      "Celebrated Tony Award-winning Broadway dramatic stage actress",
       "Erotic romance novelist",
       "Cosmetics executive",
       "Vogue fashion editor"
@@ -220,9 +220,9 @@
     "q": "In 'The One with the Dozen Lasagnas', why is Monica unable to deliver the twelve lasagnas she prepared for her Aunt Syl?",
     "options": [
       "Aunt Syl moved to Florida unexpectedly",
-      "Monica dropped half of them on the floor (introduced during the storyline)",
+      "Monica dropped half of them on the floor",
       "The lasagnas burned to a crisp",
-      "They contain meat and Aunt Syl is a vegetarian"
+      "They contain meat"
     ],
     "answer": 3,
     "d": 2
@@ -243,9 +243,9 @@
     "show": "Friends",
     "q": "What is the profession of Ronni, the woman with whom Joey's father has an extramarital affair in Season 1?",
     "options": [
-      "Florist",
+      "Independent floral boutique owner designing bespoke centerpieces",
       "Pet mortician",
-      "Dog groomer (introduced during the storyline)",
+      "Dog groomer",
       "Manicurist"
     ],
     "answer": 1,
@@ -267,8 +267,8 @@
     "show": "Friends",
     "q": "What corporate job title does Chandler accept in Season 1 after initially planning to resign from his firm?",
     "options": [
-      "Head of Data Reconfiguration and Processing",
-      "Senior Statistical Systems Coordinator (introduced during the storyline)",
+      "Head of Data Reconfiguration",
+      "Senior Statistical Systems Coordinator",
       "Director of IT Architecture",
       "Executive VP of Corporate Logistics"
     ],
@@ -315,8 +315,8 @@
     "show": "Friends",
     "q": "For which luxury department store does Rachel interview for an assistant buyer position in 'The One with All the Poker'?",
     "options": [
-      "Bloomingdale's",
-      "Barneys New York (referenced by the characters)",
+      "Bloomingdale's flagship department store in Manhattan",
+      "Barneys New York",
       "Bergdorf Goodman",
       "Saks Fifth Avenue"
     ],
@@ -375,8 +375,8 @@
     "show": "Friends",
     "q": "What heirloom birthday gift does Ross present to Rachel in the Season 1 finale, signaling his long-held romantic feelings?",
     "options": [
-      "A diamond tennis bracelet mentioned during the episode",
-      "An antique crystal cameo pin",
+      "A diamond tennis bracelet",
+      "An antique cameo pin",
       "A gold locket necklace",
       "A silver pocket watch"
     ],
@@ -400,7 +400,7 @@
     "q": "Who steps off the terminal gate with Ross when Rachel rushes to JFK Airport with flowers in the Season 2 premiere?",
     "options": [
       "Julie",
-      "Carol Willick (Ross's ex-wife)",
+      "Carol Willick",
       "Mindy",
       "Emily"
     ],
@@ -413,8 +413,8 @@
     "options": [
       "Roger Moore",
       "Dudley Moore",
-      "Julian Sands (A Room with a View actor)",
-      "Hugh Grant"
+      "Julian Sands",
+      "The original Hugh Grant"
     ],
     "answer": 1,
     "d": 1
@@ -460,9 +460,9 @@
     "q": "Why is Monica abruptly fired from her head chef job at the upscale restaurant Iridium in Season 2?",
     "options": [
       "Dropping an entire wedding cake on the dining room floor",
-      "Engaging in a screaming match with a restaurant food critic (as described in the episode)",
+      "Engaging in a screaming match with a restaurant food critic",
       "Violating municipal health code sanitation guidelines",
-      "Accepting a promotional kickback of five complimentary steaks"
+      "Accepting a kickback of five steaks"
     ],
     "answer": 3,
     "d": 2
@@ -531,9 +531,9 @@
     "show": "Friends",
     "q": "What physical feature does Ross unflatteringly catalog on his laptop comparison list between Rachel and Julie?",
     "options": [
-      "\"Big nose\"",
+      "The original \"Big nose\"",
       "\"Chubby ankles\"",
-      "\"Crooked toes (delivered with dramatic comedic emphasis)\"",
+      "\"Crooked toes\"",
       "\"Messy hair\""
     ],
     "answer": 1,
@@ -555,9 +555,9 @@
     "show": "Friends",
     "q": "In 'The One with the Old Yeller Guy', what emotional secret does Phoebe uncover regarding her mother's film habits?",
     "options": [
-      "Her mother only allowed black-and-white comedies",
+      "The original Her mother only allowed black-and-white comedies",
       "Her mother turned off films before their tragic endings",
-      "Her mother dubbed over voices with farm animal sounds (referenced by the characters)",
+      "Her mother dubbed over voices with farm animal sounds",
       "Her mother skipped the ending credits of every movie"
     ],
     "answer": 1,
@@ -592,9 +592,9 @@
     "q": "What happened to Rachel's prom date Chip Matthews that spurred high school Ross to put on his father's tuxedo?",
     "options": [
       "He was arrested for speeding",
-      "He got sick with mononucleosis (referenced by the characters)",
+      "He got sick with mononucleosis",
       "He dumped her via telephone",
-      "He had not shown up to pick her up"
+      "He had not shown up"
     ],
     "answer": 3,
     "d": 1
@@ -604,7 +604,7 @@
     "q": "Where do Ross and Rachel finally spend their first intimate romantic night together in Season 2?",
     "options": [
       "At a luxury suite at the Plaza Hotel",
-      "Inside Monica's empty bedroom",
+      "The original Inside Monica's empty bedroom",
       "In the back row of an empty cinema",
       "Beneath projected constellations inside the museum planetarium"
     ],
@@ -615,8 +615,8 @@
     "show": "Friends",
     "q": "What matching luxury living room seats do Joey and Chandler buy when Joey receives his soap opera paychecks?",
     "options": [
-      "Two red velvet chaise lounges (introduced during the storyline)",
-      "Two massage recliners",
+      "Two red velvet chaise lounges",
+      "The original Two massage recliners",
       "Two swivel club chairs",
       "Two black leather BarcaLoungers"
     ],
@@ -652,9 +652,9 @@
     "q": "What bizarre culinary pastime does Chandler's temporary roommate Eddie engage in during the middle of the night?",
     "options": [
       "Pickling hard-boiled eggs",
-      "Dehydrating fruit and making jerky",
+      "Dehydrating fruit",
       "Churning fresh goat butter",
-      "Baking artisan sourdough bread (introduced during the storyline)"
+      "Baking artisan sourdough bread"
     ],
     "answer": 1,
     "d": 2
@@ -675,7 +675,7 @@
     "show": "Friends",
     "q": "How do Joey and Chandler successfully evict Eddie when he adamantly refuses to vacate the apartment?",
     "options": [
-      "They change the deadbolt locks and act like they have never laid eyes on him",
+      "They change the deadbolt locks",
       "They report him to the police for possessing smuggled melons",
       "They hire an actor to impersonate the building landlord",
       "They move all his belongings into Central Perk's basement"
@@ -687,9 +687,9 @@
     "show": "Friends",
     "q": "In 'The One After the Superbowl', what fictional blockbuster feature is Ross's monkey Marcel filming on location in New York?",
     "options": [
-      "Planet of the Apes 3: Manhattan Wild (as described in the episode)",
+      "Planet of the Apes 3: Manhattan Wild",
       "Outbreak 2: The Virus Takes Manhattan",
-      "Monkey Shines II",
+      "The original Monkey Shines II",
       "King Kong: Return to New York"
     ],
     "answer": 1,
@@ -723,8 +723,8 @@
     "show": "Friends",
     "q": "What does Susie Moss steal from Chandler in the restaurant bathroom cubicle to settle her childhood score?",
     "options": [
-      "His wallet containing all his credit cards (as described in the episode)",
-      "His Rolex watch and cell phone",
+      "His wallet containing all his credit cards",
+      "The original His Rolex watch and cell phone",
       "Every article of his clothing including his underwear",
       "His coat and apartment house keys"
     ],
@@ -735,8 +735,8 @@
     "show": "Friends",
     "q": "Which international action star appears as himself in 'The One After the Superbowl', wooing both Rachel and Monica?",
     "options": [
-      "Steven Seagal",
-      "Arnold Schwarzenegger (The Terminator star)",
+      "The original Steven Seagal",
+      "Arnold Schwarzenegger",
       "Sylvester Stallone",
       "Jean-Claude Van Damme"
     ],
@@ -747,9 +747,9 @@
     "show": "Friends",
     "q": "What is the full name of Phoebe's biological father, whom she attempts to confront in Season 2?",
     "options": [
-      "Charles Buffay (recurring character)",
+      "Charles Buffay",
       "Arthur Buffay",
-      "Henry Buffay",
+      "The original Henry Buffay",
       "Frank Buffay Sr."
     ],
     "answer": 3,
@@ -760,7 +760,7 @@
     "q": "What is the name of Phoebe's teenage half-brother whom she meets on the porch of her father's home?",
     "options": [
       "Frank Buffay Jr.",
-      "Billy Buffay (recurring character)",
+      "The original Billy Buffay",
       "Jimmy Buffay",
       "Bobby Buffay"
     ],
@@ -772,9 +772,9 @@
     "q": "What destructive obsession does Frank Buffay Jr. share when he first bonds with Phoebe?",
     "options": [
       "Blowing up mailbox firecrackers",
-      "Melting plastic and household items with a blowtorch",
+      "Melting plastic",
       "Throwing eggs at oncoming yellow cabs",
-      "Smashing glass bottles against brick alleys (referenced by the characters)"
+      "Smashing glass bottles against brick alleys"
     ],
     "answer": 1,
     "d": 2
@@ -795,8 +795,8 @@
     "show": "Friends",
     "q": "How do Phoebe and Ryan prevent themselves from scratching their uncomfortable chicken pox sores?",
     "options": [
-      "By tying their wrists to the bedposts",
-      "By coating their bodies in petroleum jelly (referenced by the characters)",
+      "The original By tying their wrists to the bedposts",
+      "By coating their bodies in petroleum jelly",
       "By wearing heavy leather winter gloves",
       "By taping kitchen oven mitts over their hands"
     ],
@@ -831,8 +831,8 @@
     "show": "Friends",
     "q": "What color was the famously unflattering puffy bridesmaid dress Rachel wore to Barry and Mindy's wedding?",
     "options": [
-      "Lime green",
-      "Canary yellow (referenced by the characters)",
+      "The original Lime green",
+      "Canary yellow",
       "Pepto-Bismol pink",
       "Powder blue"
     ],
@@ -855,9 +855,9 @@
     "show": "Friends",
     "q": "In 'The One with the Princess Leia Fantasy', which specific cinematic outfit does Ross confide is his ultimate fantasy?",
     "options": [
-      "Princess Leia's white hooded gown from 'A New Hope' (referenced by the characters)",
+      "Princess Leia's white hooded gown from 'A New Hope'",
       "Barbarella's silver space suit",
-      "Princess Leia's gold bikini from 'Return of the Jedi'",
+      "Princess Leia's gold bikini",
       "Wonder Woman's red and blue corseted armor"
     ],
     "answer": 2,
@@ -867,8 +867,8 @@
     "show": "Friends",
     "q": "In the bottle episode 'The One Where No One's Ready', what does Joey do after Chandler hides his underwear?",
     "options": [
-      "He puts on every single piece of clothing Chandler owns",
-      "He throws Chandler's shoes out into the alleyway (referenced by the characters)",
+      "He puts",
+      "He throws Chandler's shoes out into the alleyway",
       "He drinks all the milk straight from the carton",
       "He locks Chandler out in the public hallway"
     ],
@@ -915,8 +915,8 @@
     "show": "Friends",
     "q": "In the Season 3 flashback episode, what kind of establishment occupied the Central Perk space in 1993?",
     "options": [
-      "A neighborhood pool hall and bar",
-      "An antique furniture showroom used as a comedic plot device",
+      "A neighborhood pool hall",
+      "An antique furniture showroom",
       "A dry cleaning shop",
       "A bakery and deli counter"
     ],
@@ -988,9 +988,9 @@
     "q": "What is the name of the attractive Dutch traveler that Chandler and Joey squabble over during the Thanksgiving football game?",
     "options": [
       "Margha",
-      "Katja",
+      "The original Katja",
       "Anouk",
-      "Astrid (Dutch international traveler)"
+      "Astrid"
     ],
     "answer": 0,
     "d": 3
@@ -1048,9 +1048,9 @@
     "q": "What musical novelty act does an insecure Ross dispatch to Rachel's new Bloomingdale's office on their anniversary?",
     "options": [
       "A singing mariachi band",
-      "A bagpipe player",
+      "Authentic A bagpipe player",
       "A four-man barbershop quartet",
-      "An acapella collegiate octet displayed prominently on screen"
+      "An acapella collegiate octet"
     ],
     "answer": 2,
     "d": 2
@@ -1096,8 +1096,8 @@
     "q": "What subconscious side effect affects Chandler when he listens to a smoking-cessation hypnosis tape designed for women?",
     "options": [
       "He begins speaking with a thick French accent",
-      "He uncontrollably applies bright red lipstick at meetings (as described in the episode)",
-      "He adopts mannerisms and mindset of a confident corporate woman",
+      "He uncontrollably applies bright red lipstick at meetings",
+      "He adopts mannerisms",
       "He wears high heels and curlers to work"
     ],
     "answer": 2,
@@ -1144,8 +1144,8 @@
     "q": "What unconventional cosmetic item do the four trapped friends end up sampling out of desperation in Monica's bedroom?",
     "options": [
       "A pot of organic leg wax",
-      "Cucumber eye pads",
-      "Mint clay facial mask (as described in the episode)",
+      "The original Cucumber eye pads",
+      "Mint clay facial mask",
       "Cocoa butter lotion"
     ],
     "answer": 0,
@@ -1215,7 +1215,7 @@
     "show": "Friends",
     "q": "How many pages long was Rachel's handwritten letter to Ross at the beach house, written 'front and back'?",
     "options": [
-      "12 handwritten pages (front and back)",
+      "12 handwritten pages",
       "24 pages",
       "18 pages",
       "8 pages"
@@ -1227,7 +1227,7 @@
     "show": "Friends",
     "q": "What memorable retort does Ross shout when Rachel insists that premature performance issues happen to every guy?",
     "options": [
-      "\"It DOES NOT happen to every guy, and it IS a big deal!\"",
+      "\"It DOES NOT happen\"",
       "\"I was tired, Rachel!\"",
       "\"Nobody talks about this!\"",
       "\"That was one time!\""
@@ -1253,7 +1253,7 @@
     "options": [
       "Joanna, Rachel's Bloomingdale's boss",
       "Janice",
-      "Kathy",
+      "Kathy the theater actress who dated Joey and Chandler",
       "Sophie"
     ],
     "answer": 0,
@@ -1265,7 +1265,7 @@
     "options": [
       "To audition for a Broadway dance ensemble",
       "To win a neighborhood charity competition",
-      "To prevent Mr. Treeger from evicting Rachel and Monica for illegal subletting",
+      "To prevent Mr. Treeger",
       "To impress a dancer he met at Central Perk"
     ],
     "answer": 2,
@@ -1300,9 +1300,9 @@
     "q": "What punishment does Chandler voluntarily endure on Thanksgiving in Season 4 to earn Joey's forgiveness for kissing Kathy?",
     "options": [
       "Handing over his BarcaLounger recliner permanently",
-      "Eating an entire raw Thanksgiving onion",
+      "The original Eating an entire raw Thanksgiving onion",
       "Doing Joey's laundry and dishes for six months",
-      "Remaining locked silently inside a wooden shipping crate for hours"
+      "Remaining locked silently inside a wooden shipping crate"
     ],
     "answer": 3,
     "d": 1
@@ -1311,7 +1311,7 @@
     "show": "Friends",
     "q": "In 'The One with Chandler in a Box', why does Monica wear a pirate-style eyepatch during Thanksgiving dinner?",
     "options": [
-      "She got ice in her eye and was treated by Richard's handsome son Timothy",
+      "She got ice in her eye",
       "She scratched her cornea on a dried turkey wishbone",
       "She had an allergic reaction to onion steam",
       "She poked herself with a chopstick"
@@ -1383,8 +1383,8 @@
     "show": "Friends",
     "q": "What is Chandler Bing's actual job field during the first several seasons before his career change?",
     "options": [
-      "Investment banking and derivatives trading (referenced by the characters)",
-      "Statistical analysis and data reconfiguration",
+      "Investment banking and derivatives trading",
+      "Statistical analysis",
       "Corporate human resources compliance",
       "Public relations and communications"
     ],
@@ -1395,7 +1395,7 @@
     "show": "Friends",
     "q": "What prize do Chandler and Joey win from Monica and Rachel at the conclusion of the apartment trivia contest?",
     "options": [
-      "Knicks courtside season tickets",
+      "The original Knicks courtside season tickets",
       "Monica and Rachel's spacious two-bedroom apartment",
       "A year of free home-cooked dinners",
       "Their vintage ceramic white dog statue"
@@ -1419,10 +1419,10 @@
     "show": "Friends",
     "q": "What cheerleader uniform from Lincoln High does Rachel wear to a fake party in an attempt to seduce Joshua?",
     "options": [
-      "A French maid costume",
+      "Authentic A French maid costume",
       "Her high school cheerleading uniform",
       "A sailor dance costume",
-      "Her high school prom dress (referenced by the characters)"
+      "Her high school prom dress"
     ],
     "answer": 1,
     "d": 2
@@ -1456,9 +1456,9 @@
     "q": "How do Monica and Rachel finally win their original apartment back from Chandler and Joey in 'The One with the Haste'?",
     "options": [
       "They beat the guys in a rematch trivia competition",
-      "They pay the guys two thousand dollars in cash",
+      "The original They pay the guys two thousand dollars in cash",
       "They bribe Mr. Treeger to void the guys' lease",
-      "They move all their belongings back while the guys are away at a Knicks game"
+      "They move all their belongings back while the guys are away"
     ],
     "answer": 3,
     "d": 2
@@ -1469,8 +1469,8 @@
     "options": [
       "Monica, Rachel, and Carol",
       "Monica, Phoebe, and Emily",
-      "Rachel, Phoebe, and Janice (referenced by the characters)",
-      "Monica, Phoebe, and Rachel"
+      "Rachel, Phoebe, and Janice",
+      "Monica"
     ],
     "answer": 3,
     "d": 1
@@ -1479,9 +1479,9 @@
     "show": "Friends",
     "q": "Why does Joshua abruptly end his relationship with Rachel in Season 4?",
     "options": [
-      "Rachel confesses that she is still in love with Ross (as described in the episode)",
+      "Rachel confesses that she is still in love with Ross",
       "Joshua catches Rachel wearing Emily's wedding dress",
-      "Joshua's parents object to Rachel's career",
+      "The original Joshua's parents object to Rachel's career",
       "Rachel impulsively suggests that they get married right away"
     ],
     "answer": 3,
@@ -1503,9 +1503,9 @@
     "show": "Friends",
     "q": "Which billionaire founder of Virgin Atlantic makes a cameo selling London tourist hats to Joey and Chandler?",
     "options": [
-      "Elon Musk",
+      "The original Elon Musk",
       "Richard Branson",
-      "Rupert Murdoch (notable supporting figure)",
+      "Rupert Murdoch",
       "Ted Turner"
     ],
     "answer": 1,
@@ -1539,10 +1539,10 @@
     "show": "Friends",
     "q": "What shocking name does Ross say during his wedding vows to Emily at the altar in the Season 4 finale?",
     "options": [
-      "\"Carol\"",
+      "The original \"Carol\"",
       "\"Susan\"",
       "\"Rachel\"",
-      "\"Janice (full televised quote)\""
+      "\"Janice\""
     ],
     "answer": 2,
     "d": 1
@@ -1563,7 +1563,7 @@
     "show": "Friends",
     "q": "How does Chandler attempt to cover up accidentally kissing Monica in front of Rachel and Phoebe in early Season 5?",
     "options": [
-      "He kisses Rachel and Phoebe on the lips as well, claiming it is a European greeting",
+      "He kisses Rachel",
       "He pretends he tripped and fell forward onto Monica",
       "He claims he was performing a magic trick",
       "He says he mistook Monica for Joey in the dark"
@@ -1575,8 +1575,8 @@
     "show": "Friends",
     "q": "What are the names of the triplets born to Phoebe as a gestational surrogate for her brother Frank Jr. and Alice?",
     "options": [
-      "Frank Jr. Jr., Leslie, and Chandler",
-      "Frank Jr. Jr., Lily, and Joey (referenced by the characters)",
+      "Frank Jr. Jr.",
+      "Frank Jr. Jr., Lily, and Joey",
       "Frankie, Mary, and Chandler",
       "Jack, Leslie, and Ross"
     ],
@@ -1587,9 +1587,9 @@
     "show": "Friends",
     "q": "In 'The One with the Triplets', what 1970s TV character is Phoebe's delivering obstetrician Dr. Harad obsessed with?",
     "options": [
-      "Captain James T. Kirk from 'Star Trek' (introduced in the episode)",
+      "Captain James T. Kirk from 'Star Trek'",
       "Kojak from 'Kojak'",
-      "Arthur Fonzarelli (\"The Fonz\") from 'Happy Days'",
+      "Arthur Fonzarelli from 'Happy Days'",
       "Hawkeye Pierce from 'M*A*S*H'"
     ],
     "answer": 2,
@@ -1600,9 +1600,9 @@
     "q": "Why does Phoebe harbor a longstanding grudge against PBS in 'The One Where Phoebe Hates PBS'?",
     "options": [
       "Phoebe sent a donation and never received her promised tote bag",
-      "Her mother died shortly after Sesame Street wrote a letter that made her cry",
+      "Her mother died shortly",
       "PBS canceled her favorite children's puppet show",
-      "Phoebe failed an audition to appear on Mister Rogers' Neighborhood (as described in the episode)"
+      "Phoebe failed an audition to appear on Mister Rogers' Neighborhood"
     ],
     "answer": 1,
     "d": 3
@@ -1611,9 +1611,9 @@
     "show": "Friends",
     "q": "How does Joey first deduce that Chandler and Monica are secretly romantically involved in Season 5?",
     "options": [
-      "He connects Monica leaving an eyelash curler in a hotel room with Chandler hunting for one",
+      "He connects Monica leaving an eyelash curler in a hotel room",
       "He finds Monica's silk scarf tucked under Chandler's pillow",
-      "He overhears them whispering on the fire escape",
+      "The original He overhears them whispering on the fire escape",
       "He sees matching hotel keys in both of their jackets"
     ],
     "answer": 0,
@@ -1623,9 +1623,9 @@
     "show": "Friends",
     "q": "In 'The One with the Yeti', what do Rachel and Monica spray at their bearded neighbor Danny in the dark basement?",
     "options": [
-      "Pepper spray",
+      "The original Pepper spray",
       "Insect fogger bug spray",
-      "A fire extinguisher used as a comedic plot device",
+      "A fire extinguisher",
       "WD-40 lubricant"
     ],
     "answer": 1,
@@ -1638,7 +1638,7 @@
       "Monica accidentally dropped a kitchen knife that severed the tip of his toe",
       "He slipped on butter and dislocated his left elbow",
       "A frozen turkey slid off the counter and broke his foot",
-      "Monica slammed a pantry door shut on his fingers"
+      "The original Monica slammed a pantry door shut on his fingers"
     ],
     "answer": 0,
     "d": 1
@@ -1649,8 +1649,8 @@
     "options": [
       "A hollowed-out pumpkin with candle holes",
       "A pilgrim hat made of construction paper",
-      "A raw turkey wearing oversized sunglasses and a fez",
-      "A metal colander with dangling cranberry vines mentioned during the episode"
+      "A raw turkey wearing oversized sunglasses",
+      "A metal colander with dangling cranberry vines"
     ],
     "answer": 2,
     "d": 1
@@ -1671,10 +1671,10 @@
     "show": "Friends",
     "q": "What was the special ingredient in Monica's leftover Thanksgiving turkey sandwich that Ross treasured?",
     "options": [
-      "\"The Moist Maker\" (an extra slice of gravy-soaked bread in the middle)",
-      "\"The Turkey Glaze\" (homemade cranberry reduction)",
-      "\"The Crunch Layer\" (crispy stuffing baked twice)",
-      "\"The Butter Dip\" (herb-infused melted butter spread)"
+      "\"The Moist Maker\"",
+      "\"The Turkey Glaze\"",
+      "\"The Crunch Layer\"",
+      "\"The Butter Dip\""
     ],
     "answer": 0,
     "d": 1
@@ -1707,10 +1707,10 @@
     "show": "Friends",
     "q": "What paste-like mess forms on Ross's legs in his date's bathroom when he attempts to lubricate his tight leather pants?",
     "options": [
-      "A gooey mixture of conditioner and bath salts displayed prominently on screen",
+      "A gooey mixture of conditioner and bath salts",
       "A slippery blend of olive oil and flour",
       "A congealed film of hand soap and talcum",
-      "A sticky paste of body lotion and baby powder"
+      "A sticky paste of body lotion"
     ],
     "answer": 3,
     "d": 2
@@ -1719,9 +1719,9 @@
     "show": "Friends",
     "q": "What fashionable men's accessory does Joey proudly carry around town, claiming 'It's unisex!' and 'European!'?",
     "options": [
-      "A leather fanny pack used as a comedic plot device",
+      "A leather fanny pack",
       "A silk pocket ascot",
-      "A wool beret",
+      "Authentic A wool beret",
       "A shoulder strap man-purse"
     ],
     "answer": 3,
@@ -1733,7 +1733,7 @@
     "options": [
       "\"OH MY GOD! THEY'RE KISSING! CALL THE POLICE!\"",
       "\"CHANDLER AND MONICA! CHANDLER AND MONICA! MY EYES! MY EYES!\"",
-      "\"WHAT ARE YOU DOING?! STOP IT RIGHT NOW!\"",
+      "The original \"WHAT ARE YOU DOING?! STOP IT RIGHT NOW!\"",
       "\"I CANNOT BELIEVE THIS! CHANDLER IS NAKED!\""
     ],
     "answer": 1,
@@ -1745,7 +1745,7 @@
     "options": [
       "They take polygraph lie-detector tests administered by Joey",
       "They hold a staged mock trial in Monica's living room",
-      "They engage in an elaborate, awkward fake romantic seduction of each other",
+      "They engage in an elaborate",
       "They auction off Chandler's apartment keys"
     ],
     "answer": 2,
@@ -1757,8 +1757,8 @@
     "options": [
       "She bites his earlobes during normal conversations",
       "She steps aggressively on his toes whenever excited",
-      "She headbutts his shoulder as an affectionate greeting (introduced during the storyline)",
-      "She constantly punches him hard on the arm when laughing"
+      "She headbutts his shoulder as an affectionate greeting",
+      "She constantly punches him hard on the arm"
     ],
     "answer": 3,
     "d": 2
@@ -1792,9 +1792,9 @@
     "q": "Why does Phoebe abruptly break up with Gary the morning after they move into an apartment together?",
     "options": [
       "He reveals that he has a secret wife and three children",
-      "He handcuffs Phoebe to the radiator as a joke",
+      "The original He handcuffs Phoebe to the radiator as a joke",
       "He arrests Ross for jaywalking outside the deli",
-      "He shoots a chirping bird on the windowsill with his service gun from bed"
+      "He shoots a chirping bird on the windowsill with his service gun"
     ],
     "answer": 3,
     "d": 1
@@ -1804,7 +1804,7 @@
     "q": "In 'The One with the Ball', what game do Joey, Ross, Chandler, and Monica play continuously for hours without stopping?",
     "options": [
       "Bouncing a ping-pong ball on a paddle",
-      "Throwing a small rubber ball back and forth without letting it touch the ground",
+      "Throwing a small rubber ball back",
       "Balancing an egg on a soup spoon",
       "Keeping a hacky sack airborne in the living room"
     ],
@@ -1817,8 +1817,8 @@
     "options": [
       "He instinctively reacted to save Chandler's life",
       "He tripped over the squad car seatbelt latch",
-      "He thought the shooter was aiming for his leather jacket (referenced by the characters)",
-      "He was trying to shield his delicious meatball sandwich from damage"
+      "He thought the shooter was aiming for his leather jacket",
+      "He was trying to shield his delicious meatball sandwich"
     ],
     "answer": 3,
     "d": 1
@@ -1827,8 +1827,8 @@
     "show": "Friends",
     "q": "What job does Joey end up doing at Caesar's Palace in Las Vegas after his indie movie production runs out of funds?",
     "options": [
-      "Dealing twenty-one at the high-stakes blackjack table (referenced by the characters)",
-      "Dressing as a Roman gladiator and posing with tourists",
+      "Dealing twenty-one at the high-stakes blackjack table",
+      "Dressing as a Roman gladiator",
       "Serving cocktails poolside in Roman togas",
       "Operating the hotel casino luggage carousel"
     ],
@@ -1853,8 +1853,8 @@
     "options": [
       "Paul Rudd",
       "Thomas Lennon",
-      "Adam Goldberg (Eddie on Friends)",
-      "Jim Rash"
+      "Adam Goldberg",
+      "The original Jim Rash"
     ],
     "answer": 1,
     "d": 2
@@ -1877,7 +1877,7 @@
     "options": [
       "Monica and Chandler secretly exchange marriage vows",
       "Phoebe marries a casino pit boss for free buffet passes",
-      "Joey marries an elderly tourist from Idaho",
+      "The original Joey marries an elderly tourist from Idaho",
       "Ross and Rachel stumble out intoxicated having just gotten legally married"
     ],
     "answer": 3,
@@ -1914,7 +1914,7 @@
       "He takes the car on high-speed joyrides down Broadway",
       "He rents the vehicle to tourists for photo shoots",
       "He enters the car in an illegal street race in Brooklyn",
-      "He washes the parked Porsche and wears matching Porsche merchandise to impress passersby"
+      "He washes the parked Porsche"
     ],
     "answer": 3,
     "d": 2
@@ -1948,7 +1948,7 @@
     "q": "What cosmetic disaster befalls Ross before his date with Hillary in 'The One with Ross's Teeth'?",
     "options": [
       "His gums turn completely blue from expired dental rinse",
-      "He leaves whitening gel on so long his teeth glow neon white under blacklight",
+      "He leaves whitening gel",
       "Two of his front veneers fall out into his clam chowder",
       "His dental trays stick to his lips and leave blisters"
     ],
@@ -2008,9 +2008,9 @@
     "q": "Why do Joey and Janine break up after attending Dick Clark's New Year's Eve broadcast together?",
     "options": [
       "Janine lands a permanent dance gig in London",
-      "Janine cannot stand spending time with Monica and Chandler",
+      "Janine cannot stand spending time with Monica",
       "Joey catches Janine eating his favorite sandwich",
-      "Janine refuses to let Joey watch Days of Our Lives (referenced by the characters)"
+      "Janine refuses to let Joey watch Days of Our Lives"
     ],
     "answer": 1,
     "d": 2
@@ -2032,8 +2032,8 @@
     "q": "What do Phoebe and Rachel repeatedly tell Ross that 'unagi' actually is?",
     "options": [
       "A fermented soybean paste",
-      "A steamed octopus dumpling mentioned during the episode",
-      "A freshwater eel used in sushi",
+      "A steamed octopus dumpling",
+      "A freshwater eel used",
       "A spicy seaweed salad"
     ],
     "answer": 2,
@@ -2043,7 +2043,7 @@
     "show": "Friends",
     "q": "What culinary disaster does Rachel create on Thanksgiving in Season 6 after pages of her cookbook stick together?",
     "options": [
-      "An English trifle combined with a shepherd's pie (beef, peas, onions, custard, jam)",
+      "An English trifle combined with a shepherd's pie",
       "A pumpkin pie filled with tuna and scallions",
       "A cranberry tart layered with clam chowder",
       "A bread pudding stuffed with turkey giblets"
@@ -2058,7 +2058,7 @@
       "\"It tastes like feet, but I'll eat it anyway!\"",
       "\"This is the best holiday dinner ever!\"",
       "\"More whipped cream and ground beef, please!\"",
-      "\"What's not to like? Custard, good. Jam, good. Meat, GOOD!\""
+      "\"What's not to like? Custard\""
     ],
     "answer": 3,
     "d": 1
@@ -2068,8 +2068,8 @@
     "q": "What confession does Judy Geller blurt out during the chaotic Thanksgiving dinner argument in Season 6?",
     "options": [
       "She admits she never wanted to buy Monica a car",
-      "She confesses that she burned the kitchen curtains on purpose (as described in the episode)",
-      "She confesses that Jack and Judy always loved Ross more than Monica",
+      "She confesses that she burned the kitchen curtains on purpose",
+      "She confesses that Jack",
       "She reveals that Ross was not accepted into medical school"
     ],
     "answer": 2,
@@ -2118,7 +2118,7 @@
       "A world-touring folk-pop superstar",
       "A high school guidance counselor",
       "A corporate marketing director",
-      "A hard-charging, chain-smoking Wall Street stockbroker"
+      "A hard-charging"
     ],
     "answer": 3,
     "d": 2
@@ -2127,10 +2127,10 @@
     "show": "Friends",
     "q": "In 'The One That Could Have Been', who is Ross still unhappily married to in the alternate timeline?",
     "options": [
-      "Rachel Green",
+      "Rachel Karen Green",
       "Mindy Hunter",
       "Carol Willick",
-      "Emily Waltham (recurring character)"
+      "Emily Waltham"
     ],
     "answer": 2,
     "d": 2
@@ -2139,8 +2139,8 @@
     "show": "Friends",
     "q": "What is the name of the undergraduate student Ross improperly dates in Season 6, violating university policy?",
     "options": [
-      "Mona",
-      "Charlie Wheeler (recurring character)",
+      "Mona whom Ross met at Monica and Chandler's wedding",
+      "Charlie Wheeler",
       "Elizabeth Stevens",
       "Katie"
     ],
@@ -2165,7 +2165,7 @@
     "options": [
       "\"You're a tiger. Roar like a tiger!\"",
       "\"Nobody messes with Paul Stevens. Nobody!\"",
-      "\"Look at that handsome devil in the glass! (complete uncut dialogue line)\"",
+      "\"Look at that handsome devil in the glass!\"",
       "\"You're a neat guy. You're the man. You are the man!\""
     ],
     "answer": 3,
@@ -2175,7 +2175,7 @@
     "show": "Friends",
     "q": "What childhood trauma causes Paul Stevens to break down into uncontrollable sobbing during his weekend with Rachel?",
     "options": [
-      "Recalling how his father called him 'chicken boy' and wouldn't buy him a pet pony",
+      "Recalling how his father",
       "Remembering getting lost at a shopping mall carnival",
       "His eighth-grade science fair project collapsing on stage",
       "Getting pushed into a mud puddle on his birthday"
@@ -2212,9 +2212,9 @@
     "q": "What unexpected former flame reappears at the restaurant where Chandler plans to propose to Monica in the Season 6 finale?",
     "options": [
       "Dr. Richard Burke",
-      "Janice",
+      "Janice Litman Goralnik",
       "Paolo",
-      "Pete Becker (frequent social acquaintance)"
+      "Pete Becker"
     ],
     "answer": 0,
     "d": 1
@@ -2237,7 +2237,7 @@
     "options": [
       "He flirts with waitresses in front of her",
       "He pretends he wants to date other women exclusively",
-      "He constantly complains about marriage being a restrictive, antiquated institution",
+      "He constantly complains about marriage being a restrictive",
       "He claims he is moving to Chicago for work"
     ],
     "answer": 2,
@@ -2259,9 +2259,9 @@
     "show": "Friends",
     "q": "Who actually completes speaking the marriage proposal vows when Monica becomes overcome with emotion and tears?",
     "options": [
-      "Joey",
+      "Joseph Francis Tribbiani Jr.",
       "Ross",
-      "Phoebe (referenced by the characters)",
+      "Phoebe",
       "Chandler"
     ],
     "answer": 3,
@@ -2295,10 +2295,10 @@
     "show": "Friends",
     "q": "How does Ross convince Ugly Naked Guy to sublet his highly coveted apartment to Ross in Season 5?",
     "options": [
-      "Ross offers him six months of rent paid in upfront cash (introduced during the storyline)",
+      "Ross offers him six months of rent paid in upfront cash",
       "Ross promises to let him sleep on the couch anytime",
       "Ross gives him his collection of rare dinosaur fossils",
-      "Ross strips completely naked and bonds with him over mini-muffins"
+      "Ross strips completely naked"
     ],
     "answer": 3,
     "d": 1
@@ -2308,7 +2308,7 @@
     "q": "What phrase does Ross shout repeatedly at Chandler and Rachel while attempting to move a heavy sofa up the stairs?",
     "options": [
       "\"Lift! Lift! LIFT!\"",
-      "\"Heave! Heave! HEAVE! (delivered with dramatic comedic emphasis)\"",
+      "\"Heave! Heave! HEAVE!\"",
       "\"Pivot! Pivot! PIVOT!\"",
       "\"Push! Push! PUSH!\""
     ],
@@ -2320,8 +2320,8 @@
     "q": "What sketch did Ross draw on a piece of paper to plan the maneuvering of his new sofa up the staircase?",
     "options": [
       "A blueprint of the apartment hallway",
-      "A geometric vector sketch with angles and arrows",
-      "A cartoon stick figure lifting weights mentioned during the episode",
+      "A geometric vector sketch with angles",
+      "A cartoon stick figure lifting weights",
       "A 3D isometric diagram of the stairs"
     ],
     "answer": 1,
@@ -2331,7 +2331,7 @@
     "show": "Friends",
     "q": "What happens to Ross's new couch at the end of the moving ordeal in 'The One with the Cop'?",
     "options": [
-      "It breaks completely in half, and Ross returns it to the store for four dollars in store credit",
+      "It breaks completely in half",
       "It falls down three flights of stairs and crushes Mr. Treeger's mop",
       "It gets stuck permanently wedged between the banisters",
       "The delivery movers throw it into a dumpster on the street"
@@ -2346,7 +2346,7 @@
       "Janine Lecroix",
       "Erin",
       "Cheryl",
-      "Kate Miller (notable supporting figure)"
+      "Kate Miller"
     ],
     "answer": 0,
     "d": 1
@@ -2370,7 +2370,7 @@
       "A box of chocolate cherries",
       "A pack of unscented votive candles",
       "A pencil case with a built-in pencil sharpener",
-      "A novelty coffee mug with a cat picture used as a comedic plot device"
+      "A novelty coffee mug with a cat picture"
     ],
     "answer": 2,
     "d": 2
@@ -2379,9 +2379,9 @@
     "show": "Friends",
     "q": "What is the name of the woman with whom Ross goes on a disastrous date involving his glow-in-the-dark teeth?",
     "options": [
-      "Kristen (as described in the episode)",
+      "Kristen",
       "Cheryl",
-      "Julie",
+      "Julie the paleontologist Ross met in China",
       "Hillary"
     ],
     "answer": 3,
@@ -2403,10 +2403,10 @@
     "show": "Friends",
     "q": "In the Season 7 premiere 'The One with Monica's Thunder', why does Monica become furious with Rachel?",
     "options": [
-      "Rachel accidentally spills red wine on Monica's engagement gown (referenced by the characters)",
+      "Rachel accidentally spills red wine on Monica's engagement gown",
       "Rachel announces that she is moving to London",
       "Rachel criticizes Chandler's diamond engagement ring",
-      "Rachel kisses Ross in the hallway, stealing Monica's engagement spotlight"
+      "Rachel kisses Ross in the hallway"
     ],
     "answer": 3,
     "d": 1
@@ -2415,10 +2415,10 @@
     "show": "Friends",
     "q": "What hidden book does Joey discover under Rachel's mattress in 'The One with Rachel's Book'?",
     "options": [
-      "A diary filled with romantic poems about Ross used as a comedic plot device",
+      "A diary filled with romantic poems about Ross",
       "A book on how to marry a millionaire",
       "A novel about male underwear models",
-      "A spicy erotic romance novel called 'Be My Duchess'"
+      "A spicy erotic romance novel"
     ],
     "answer": 3,
     "d": 2
@@ -2464,7 +2464,7 @@
     "q": "What costume does Ross rent to teach his son Ben about Hanukkah when all Santa costumes are rented out?",
     "options": [
       "A giant armadillo costume",
-      "A brown beaver costume mentioned during the episode",
+      "A brown beaver costume",
       "A turtle shell outfit",
       "A reindeer mascot suit"
     ],
@@ -2475,7 +2475,7 @@
     "show": "Friends",
     "q": "What festive title does Ross give himself while dressed in the rented armadillo suit?",
     "options": [
-      "\"The Hanukkah Hedgehog (complete uncut dialogue line)\"",
+      "\"The Hanukkah Hedgehog\"",
       "\"The Festival Ferret\"",
       "\"The Holiday Armadillo\"",
       "\"The Mitzvah Mammal\""
@@ -2487,8 +2487,8 @@
     "show": "Friends",
     "q": "Which characters arrive at Monica's apartment dressed as Santa Claus and Superman to join the Holiday Armadillo?",
     "options": [
-      "Joey as Santa and Chandler as Superman (introduced during the storyline)",
-      "Chandler as Santa and Joey as Superman",
+      "Joey as Santa and Chandler as Superman",
+      "Chandler as Santa",
       "Phoebe as Santa and Joey as Superman",
       "Ross as Santa and Chandler as Superman"
     ],
@@ -2511,8 +2511,8 @@
     "show": "Friends",
     "q": "What do Chandler and Rachel do after dropping their stolen cheesecake onto the hallway floor?",
     "options": [
-      "They scoop it into a trash bag and throw it out the window (introduced during the storyline)",
-      "They kneel on the carpet and eat it directly off the floor with forks",
+      "They scoop it into a trash bag and throw it out the window",
+      "They kneel on the carpet",
       "They wash the dirt off in the bathroom sink",
       "They feed the remaining crumbs to the street pigeons"
     ],
@@ -2537,7 +2537,7 @@
     "options": [
       "\"I don't want to turn thirty! Take Chandler instead!\"",
       "\"Why, God, why?! We had a deal! Let the others grow old, not me!\"",
-      "\"Thirty is the end of life! I will never be an actor now! (full televised quote)\"",
+      "\"Thirty is the end of life! I will never be an actor now!\"",
       "\"God, please rewind the clock five years!\""
     ],
     "answer": 1,
@@ -2547,8 +2547,8 @@
     "show": "Friends",
     "q": "Why does Rachel break up with her handsome young assistant Tag Jones on her 30th birthday?",
     "options": [
-      "Tag is only 24 and she realizes their life and family timelines do not match",
-      "Tag accidentally damages Ralph Lauren's private designer collection (introduced during the storyline)",
+      "Tag is only 24",
+      "Tag accidentally damages Ralph Lauren's private designer collection",
       "Tag forgets Rachel's milestone 30th birthday party",
       "Tag decides to move back to Colorado to join a band"
     ],
@@ -2583,7 +2583,7 @@
     "show": "Friends",
     "q": "What revelation about the London trip is uncovered in 'The One with the Truth About London'?",
     "options": [
-      "Joey accidentally filmed Chandler and Monica on his handheld camcorder (referenced by the characters)",
+      "Joey accidentally filmed Chandler and Monica on his handheld camcorder",
       "Monica originally went to Chandler's hotel room looking to sleep with Joey",
       "Chandler initially wanted to propose to Rachel in London",
       "Ross heard Chandler and Monica together the night before the wedding"
@@ -2644,7 +2644,7 @@
     "q": "Where does Phoebe discover a positive pregnancy test on the day of Monica and Chandler's wedding?",
     "options": [
       "In the wastebasket inside Monica's bathroom",
-      "Inside Rachel's handbag on the coffee table (as described in the episode)",
+      "Inside Rachel's handbag on the coffee table",
       "On the edge of the kitchen sink",
       "In the pocket of Monica's bridal robe"
     ],
@@ -2655,7 +2655,7 @@
     "show": "Friends",
     "q": "Who is revealed to be the actual pregnant woman at the conclusion of the Season 7 finale?",
     "options": [
-      "Monica (referenced by the characters)",
+      "Monica E. Geller",
       "Phoebe",
       "Rachel",
       "Janice"
@@ -2717,7 +2717,7 @@
     "options": [
       "Mount Tibidabo",
       "Montserrat",
-      "Mount Montjuïc (introduced during the storyline)",
+      "Mount Montjuïc",
       "The Pyrenees"
     ],
     "answer": 0,
@@ -2727,7 +2727,7 @@
     "show": "Friends",
     "q": "What costume does Ross wear to Monica's Halloween party that everyone mistakes for a giant piece of excrement?",
     "options": [
-      "\"Spud-nik\" (a brown potato costume with an antenna)",
+      "\"Spud-nik\"",
       "A brown acorn with a twig",
       "A chocolate bean with a wire",
       "A coconut with an umbrella"
@@ -2765,7 +2765,7 @@
     "options": [
       "That Rachel wore a wig to cover up a bald patch",
       "That Rachel cheated on her high school SAT exams",
-      "That Rachel was born a hermaphrodite with both male and female reproductive organs",
+      "That Rachel was born a hermaphrodite with both male",
       "That Rachel was secretly thirty years old in high school"
     ],
     "answer": 2,
@@ -2790,7 +2790,7 @@
       "He gives her an empty jewelry box and runs away",
       "He invents a fake overseas business trip to Tokyo",
       "He claims he cannot celebrate holidays due to paleontology",
-      "He gives her a key to his apartment and then immediately changes the deadbolt lock"
+      "He gives her a key to his apartment"
     ],
     "answer": 3,
     "d": 2
@@ -2801,7 +2801,7 @@
     "options": [
       "On the Central Perk couch",
       "At a dimly lit romantic restaurant over dinner",
-      "On the fire escape outside her bedroom (introduced during the storyline)",
+      "On the fire escape outside her bedroom",
       "In the hospital waiting room"
     ],
     "answer": 1,
@@ -2835,7 +2835,7 @@
     "show": "Friends",
     "q": "Who turns out to be Rachel's loud and irritating labor roommate at the hospital in the Season 8 finale?",
     "options": [
-      "Ursula Buffay (recurring character)",
+      "Ursula Buffay",
       "Amy Green",
       "Jill Green",
       "Janice Litman-Goralnik"
@@ -2862,7 +2862,7 @@
       "Joey blurts out 'Marry me!' in an emotional delirium",
       "Joey hands Rachel a box of chocolates with a ring inside",
       "Joey reads a script from Days of Our Lives by mistake",
-      "An engagement ring drops from Ross's coat, and Joey kneels to pick it up, facing Rachel"
+      "An engagement ring drops from Ross's coat"
     ],
     "answer": 3,
     "d": 1
@@ -2909,7 +2909,7 @@
     "options": [
       "Sandy accidentally drops baby Emma's favorite stuffed animal",
       "Sandy charges three times the market rate for nannies",
-      "He feels deeply uncomfortable with a man being so emotional, nurturing, and playing recorder",
+      "He feels deeply uncomfortable with a man being so emotional",
       "Sandy flirts openly with Joey and Rachel"
     ],
     "answer": 2,
@@ -2958,7 +2958,7 @@
       "He accepts a promotion to oversee European branches in London",
       "He sues his firm for wrongful holiday relocation",
       "He launches an independent accounting firm with Joey",
-      "He resigns from his executive job to return home to New York and be with Monica"
+      "He resigns from his executive job to return home to New York"
     ],
     "answer": 3,
     "d": 1
@@ -2969,7 +2969,7 @@
     "options": [
       "She lived in the crawlspace beneath Ross's college dorm",
       "She stolen Ross's bicycle when he was twelve years old",
-      "She was the street kid who mugged Ross and stole his 'Geology Boy' comic book",
+      "She was the street kid",
       "She threw an egg at Ross during his high school graduation"
     ],
     "answer": 2,
@@ -2992,8 +2992,8 @@
     "q": "What fake news do Chandler and Ross post about each other on their college alumni message board?",
     "options": [
       "Chandler posts that Ross joined a cult, and Ross posts that Chandler was arrested",
-      "Ross posts that Chandler went bankrupt, and Chandler posts that Ross married a monkey (introduced during the storyline)",
-      "Chandler posts that Ross died getting hit by a blimp, and Ross posts that Chandler is gay",
+      "Ross posts that Chandler went bankrupt, and Chandler posts that Ross married a monkey",
+      "Chandler posts that Ross died getting hit by a blimp",
       "Chandler posts that Ross went bald, and Ross posts that Chandler moved to Antarctica"
     ],
     "answer": 2,
@@ -3005,7 +3005,7 @@
     "options": [
       "She accidentally runs them through the laundry washing machine",
       "She lights incense and sets the entire stack of tickets ablaze",
-      "A pigeon startles her on the balcony and she drops the bowl of tickets into the street",
+      "A pigeon startles her on the balcony",
       "Joey mistakes the tickets for napkins and throws them in the trash"
     ],
     "answer": 2,
@@ -3042,7 +3042,7 @@
       "It swells into a massive ball of frizz due to the extreme humidity",
       "It turns bright green from pool chlorine",
       "She accidentally burns off her bangs with a curling iron",
-      "She gets cornrows braided with seashells that get tangled (referenced by the characters)"
+      "She gets cornrows braided with seashells that get tangled"
     ],
     "answer": 0,
     "d": 1
@@ -3063,7 +3063,7 @@
     "show": "Friends",
     "q": "What competitive game do Monica and Mike Hannigan play obsessively for hours at the hotel resort in Barbados?",
     "options": [
-      "Table tennis (ping-pong)",
+      "Table tennis",
       "Foosball",
       "Air hockey",
       "Billiards"
@@ -3075,7 +3075,7 @@
     "show": "Friends",
     "q": "What romantic twist occurs between Joey and Rachel in Joey's hotel room in the Season 9 finale?",
     "options": [
-      "Joey kisses Rachel after seeing Ross kissing Charlie in the garden",
+      "Joey kisses Rachel",
       "Rachel proposes marriage to Joey on the beach",
       "Joey tells Rachel he only loves her as a sister",
       "Rachel confesses she wants to move back to Paris"
@@ -3087,9 +3087,9 @@
     "show": "Friends",
     "q": "What culinary dish does Ross insist on making while drunkenly claiming 'I'M FINE!' in Season 10?",
     "options": [
-      "Spaghetti bolognese and garlic bread (referenced by the characters)",
+      "Spaghetti bolognese and garlic bread",
       "Barbecue ribs and potato salad",
-      "Sizzling Mexican fajitas and margaritas",
+      "Sizzling Mexican fajitas",
       "Cheese fondue with sourdough bread"
     ],
     "answer": 2,
@@ -3114,7 +3114,7 @@
       "He forgets to take off his clothes before the mist sprays",
       "He accidentally sprays himself with permanent dark mahogany stain",
       "He faces the wrong wall and gets sprayed entirely in the eyes",
-      "He counts 'Mississippis' too slowly and gets sprayed repeatedly on his front side only"
+      "He counts 'Mississippis' too slowly"
     ],
     "answer": 3,
     "d": 1
@@ -3123,8 +3123,8 @@
     "show": "Friends",
     "q": "What shade number difference does Ross end up with between his front and back after two spray tan visits?",
     "options": [
-      "He is a 10 on the front and a 2 on his back (as described in the episode)",
-      "He is an 8 on the front and a 0 on his back",
+      "He is a 10 on the front and a 2 on his back",
+      "He is an 8 on the front",
       "He is a 6 on the front and a 1 on his back",
       "He is a 4 on the front and a 0 on his back"
     ],
@@ -3149,7 +3149,7 @@
     "options": [
       "He slices it into a fluffy bunny rabbit",
       "He transforms it into a racing car",
-      "He covers it in icing to resemble a baseball glove (referenced by the characters)",
+      "He covers it in icing to resemble a baseball glove",
       "He carves and rearranges the cake into a cute puppy dog"
     ],
     "answer": 3,
@@ -3172,7 +3172,7 @@
     "q": "Why is Laura, the adoption agency social worker, deeply biased against Chandler and Monica's building?",
     "options": [
       "Mr. Treeger refused to let her ride the service elevator",
-      "Joey dated her in the past and never called her back after sleeping with her",
+      "Joey dated her in the past",
       "Ross broke her heart at a college paleontology mixer",
       "Monica gave her terrible catering service at a charity gala"
     ],
@@ -3186,7 +3186,7 @@
       "They forgot to bring the turkey and pumpkin pie",
       "They invited Janice to dinner without asking Monica",
       "They got arrested for jaywalking on Sixth Avenue",
-      "They arrive nearly an hour late after attending a Rangers game and beauty pageant"
+      "They arrive nearly an hour late"
     ],
     "answer": 3,
     "d": 1
@@ -3195,7 +3195,7 @@
     "show": "Friends",
     "q": "What comical dilemma befalls Joey through the door crack while begging Monica for Thanksgiving forgiveness?",
     "options": [
-      "He gets his arm stuck inside the brass letter mail slot (introduced during the storyline)",
+      "He gets his arm stuck inside the brass letter mail slot",
       "His foot gets wedged under the wooden threshold",
       "He gets his jacket zipper caught on the doorknob",
       "He gets his head trapped inside the doorway chain opening"
@@ -3210,7 +3210,7 @@
       "Monica has been awarded a prestigious Michelin star",
       "Chandler's advertising firm made him a full partner",
       "An expectant birth mother from Ohio has chosen them to adopt her baby",
-      "Monica has discovered she is naturally pregnant with twins (as described in the episode)"
+      "Monica has discovered she is naturally pregnant with twins"
     ],
     "answer": 2,
     "d": 1
@@ -3246,7 +3246,7 @@
       "They find lipstick on his business collar from a client",
       "He sneaks out of town on weekends claiming to go to dentist conventions",
       "They find hotel room receipts in his coat pocket",
-      "They see him getting into a blonde woman's car, unaware she is a real estate agent showing them houses"
+      "They see him getting into a blonde woman's car"
     ],
     "answer": 3,
     "d": 1
@@ -3256,8 +3256,8 @@
     "q": "Where are Monica and Chandler secretly planning to move to raise their new baby?",
     "options": [
       "Hoboken, New Jersey",
-      "Westchester County, New York",
-      "Greenwich, Connecticut (as described in the episode)",
+      "Westchester County",
+      "Greenwich, Connecticut",
       "Long Island, New York"
     ],
     "answer": 1,
@@ -3279,7 +3279,7 @@
     "show": "Friends",
     "q": "Where do Phoebe and Mike hold their wedding ceremony after a massive blizzard shuts down New York City?",
     "options": [
-      "Inside the Central Perk coffeehouse around the orange sofa (referenced by the characters)",
+      "Inside the Central Perk coffeehouse around the orange sofa",
       "Inside the hallway between Monica and Joey's apartments",
       "In the subway station beneath Grand Central Terminal",
       "Outside in the snowy street right in front of Central Perk"
@@ -3316,7 +3316,7 @@
     "q": "What absurd name does Phoebe legally change her name to in Season 10 after discovering she can pick anything?",
     "options": [
       "Princess Consuela Banana Hammock",
-      "Duchess Valentina Sparkle Toes (as described in the episode)",
+      "Duchess Valentina Sparkle Toes",
       "Lady Guinevere Cinnamon Twist",
       "Queen Regina Honeydew Phalange"
     ],
@@ -3339,7 +3339,7 @@
     "show": "Friends",
     "q": "What talent agent of Joey's passes away in Season 10, prompting Phoebe to impersonate her on the phone?",
     "options": [
-      "Joanna Miller (frequent social acquaintance)",
+      "Joanna Miller",
       "Mindy Hunter",
       "Estelle Leonard",
       "Erika Ford"
@@ -3364,7 +3364,7 @@
     "q": "Why does Rachel say goodbye privately to Joey, Monica, Chandler, and Phoebe, but initially skip saying goodbye to Ross?",
     "options": [
       "She was furious that Ross didn't throw her a farewell party",
-      "It was too painful and emotionally overwhelming because Ross meant too much to her",
+      "It was too painful",
       "She believed Ross didn't care whether she moved to France",
       "Ross told her earlier that he never wanted to see her again"
     ],
@@ -3375,10 +3375,10 @@
     "show": "Friends",
     "q": "What major surprise occurs during Erica's delivery in the series finale 'The Last One'?",
     "options": [
-      "Erica gives birth to unexpected fraternal twins (a boy and a girl)",
+      "Erica gives birth to unexpected fraternal twins",
       "Erica decides at the last minute to keep the baby herself",
       "The doctor delivers triplets instead of one baby",
-      "Erica's estranged fiancé bursts into the room demanding custody (introduced in the episode)"
+      "Erica's estranged fiancé bursts into the room demanding custody"
     ],
     "answer": 0,
     "d": 1
@@ -3390,7 +3390,7 @@
       "Ross and Rachel",
       "Frank and Judy",
       "Richard and Nora",
-      "Jack (after Monica's father) and Erica (after the birth mother)"
+      "Jack and Erica"
     ],
     "answer": 3,
     "d": 1
@@ -3399,10 +3399,10 @@
     "show": "Friends",
     "q": "Which airport do Ross and Phoebe accidentally race to first in Phoebe's yellow cab to stop Rachel?",
     "options": [
-      "LaGuardia Airport (LGA)",
-      "Newark Liberty International Airport (EWR) (introduced during the storyline)",
-      "Westchester County Airport (HPN)",
-      "John F. Kennedy International Airport (JFK)"
+      "LaGuardia Airport",
+      "Newark Liberty International Airport",
+      "Westchester County Airport",
+      "John F. Kennedy International Airport"
     ],
     "answer": 3,
     "d": 1
@@ -3411,10 +3411,10 @@
     "show": "Friends",
     "q": "Which airport was Rachel actually departing from to fly to Paris in the series finale?",
     "options": [
-      "John F. Kennedy International Airport (JFK)",
-      "LaGuardia Airport (LGA)",
-      "Newark Liberty International Airport (EWR)",
-      "Stewart International Airport (SWF)"
+      "John F. Kennedy International Airport",
+      "LaGuardia Airport",
+      "Newark Liberty International Airport",
+      "Stewart International Airport"
     ],
     "answer": 2,
     "d": 1
@@ -3507,7 +3507,7 @@
     "show": "Friends",
     "q": "What is the name of Joey's stuffed penguin toy that he refuses to part with?",
     "options": [
-      "Waddles, the cuddle penguin (as described in the episode)",
+      "Waddles, the cuddle penguin",
       "Pippy, the sleep buddy",
       "Hugsy, the bedtime penguin pal",
       "Flipper, the chilly pal"
@@ -3520,7 +3520,7 @@
     "q": "In Season 10, what does Phoebe receive from Mike's eccentric mother Bitsy Hannigan at their upscale dinner?",
     "options": [
       "An antique silver soup tureen",
-      "A check for ten thousand dollars to stay away from Mike used as a comedic plot device",
+      "A check for ten thousand dollars to stay away from Mike",
       "Extreme condescension regarding Phoebe's bohemian background",
       "An invitation to join a competitive polo club"
     ],
@@ -3531,7 +3531,7 @@
     "show": "Friends",
     "q": "What was the name of the woman from the adoption agency who interviewed Monica and Chandler and remembered Joey?",
     "options": [
-      "Sarah (introduced during the storyline)",
+      "Sarah",
       "Nancy",
       "Laura",
       "Karen"
@@ -3556,7 +3556,7 @@
     "q": "In Season 7, how does Chandler discover that Monica has no wedding savings left?",
     "options": [
       "Her parents Judy and Jack spent her wedding fund on a beach house",
-      "Monica spent her entire life savings on catering deposits and dresses earlier in life",
+      "Monica spent her entire life savings on catering deposits",
       "Her bank went bankrupt during the tech bubble",
       "She lent her entire life savings to Richard Burke"
     ],
@@ -3593,7 +3593,7 @@
     "options": [
       "\"Roll into the future on four wheels\"",
       "\"Fast feet for fast people\"",
-      "\"Shoes that let you roll when you don't feel like walking\"",
+      "\"Shoes that let you roll\"",
       "\"Why walk when you can glide?\""
     ],
     "answer": 2,
@@ -3603,7 +3603,7 @@
     "show": "Friends",
     "q": "What Japanese men's cosmetic product did Joey promote in an infamous Tokyo television commercial?",
     "options": [
-      "Samurai Hair Pomade (referenced by the characters)",
+      "Samurai Hair Pomade",
       "Ichiban, Lipstick for Men",
       "Tokyo Blue Cologne",
       "Kabuki Facial Mud"
@@ -3628,7 +3628,7 @@
     "q": "What passionate food philosophy does Joey scream when a date takes a french fry from his plate?",
     "options": [
       "\"GET YOUR OWN FRIES!\"",
-      "\"DON'T TOUCH MY PLATE! (complete uncut dialogue line)\"",
+      "\"DON'T TOUCH MY PLATE!\"",
       "\"FOOD IS SACRED!\"",
       "\"JOEY DOESN'T SHARE FOOD!\""
     ],
@@ -3641,7 +3641,7 @@
     "options": [
       "'Robo-Cop and Joey'",
       "'Mac and C.H.E.E.S.E.'",
-      "'Detective and Droid (full televised quote)'",
+      "'Detective and Droid'",
       "'Cyber-Cop NYC'"
     ],
     "answer": 1,
@@ -3663,8 +3663,8 @@
     "show": "Friends",
     "q": "What song does Joey sing during his audition performance in the musical 'Freud!'?",
     "options": [
-      "\"Dreams and Desires of the Subconscious Mind (delivered with dramatic comedic emphasis)\"",
-      "\"All you want is a dink, what you envy's a wink\"",
+      "\"Dreams and Desires of the Subconscious Mind\"",
+      "\"All you want is a dink\"",
       "\"Tell Me About Your Mother\"",
       "\"The Psychoanalytic Rag\""
     ],
@@ -3713,7 +3713,7 @@
     "options": [
       "Maurice",
       "Cosmo",
-      "Barnaby (as described in the episode)",
+      "Barnaby",
       "Buzz"
     ],
     "answer": 0,
@@ -3747,10 +3747,10 @@
     "show": "Friends",
     "q": "What bodily oddity did Chandler have surgically removed in Season 3?",
     "options": [
-      "A sixth toe on his left foot (noted in production records)",
+      "A sixth toe on his left foot",
       "A webbed finger",
       "A benign tailbone spur",
-      "A third nipple (his 'nubbin')"
+      "A third nipple"
     ],
     "answer": 3,
     "d": 1
@@ -3759,7 +3759,7 @@
     "show": "Friends",
     "q": "What corporate acronym at Chandler's data processing office stands for 'Weekly Estimated Net Usage Statistics'?",
     "options": [
-      "NEXUS (referenced by the characters)",
+      "NEXUS",
       "MENUS",
       "TENUS",
       "WENUS"
@@ -3774,7 +3774,7 @@
       "YEARUS",
       "CANUS",
       "TOTALUS",
-      "ANUS (Annual Net Usage Statistics)"
+      "ANUS"
     ],
     "answer": 3,
     "d": 1
@@ -3786,7 +3786,7 @@
       "Nora Bing Jr.",
       "Viva Las Diva",
       "Helena Handbasket",
-      "Chloe Champagne (notable supporting figure)"
+      "Chloe Champagne"
     ],
     "answer": 2,
     "d": 1
@@ -3846,7 +3846,7 @@
       "He choked on a turkey bone at school and had a tracheotomy",
       "His pet dog ran away during the Macy's Thanksgiving Day Parade",
       "His mother burned down the family dining room while basting a turkey",
-      "His parents announced their divorce over roast turkey when he was nine years old"
+      "His parents announced their divorce over roast turkey"
     ],
     "answer": 3,
     "d": 1
@@ -3855,7 +3855,7 @@
     "show": "Friends",
     "q": "What alternative non-Thanksgiving food did the young houseboy serve to Chandler's family during the divorce announcement?",
     "options": [
-      "Hot dogs and macaroni and cheese (introduced during the storyline)",
+      "Hot dogs and macaroni and cheese",
       "Cheeseburgers and fries",
       "Tomato soup and grilled cheese sandwiches",
       "Spaghetti and meatballs"
@@ -3905,7 +3905,7 @@
     "options": [
       "Because Joey desperately needed money to pay back Chandler",
       "So she can publicly fire him to intimidate the mutinous kitchen staff",
-      "Because Joey was fluent in traditional Italian cooking techniques (as described in the episode)",
+      "Because Joey was fluent in traditional Italian cooking techniques",
       "To have an ally who could spy on the sous chefs"
     ],
     "answer": 1,
@@ -3942,7 +3942,7 @@
       "Peppermint bark",
       "Fudge brownies",
       "Almond biscotti",
-      "Holiday candy and chocolate truffles"
+      "Holiday candy"
     ],
     "answer": 3,
     "d": 2
@@ -3965,7 +3965,7 @@
     "options": [
       "Peterbald show cat",
       "Sphynx cat",
-      "Devon Rex show cat (as described in the episode)",
+      "Devon Rex show cat",
       "Cornish Rex cat"
     ],
     "answer": 0,
@@ -3978,7 +3978,7 @@
       "Mrs. Whiskerson",
       "Fluffy",
       "Cleopatra",
-      "Princess Sophia (recurring character)"
+      "Princess Sophia"
     ],
     "answer": 0,
     "d": 2
@@ -3988,7 +3988,7 @@
     "q": "What does Joey mistake Rachel's hairless cat for when he first sees it sitting on a cushion?",
     "options": [
       "\"It's not a cat! Why is it inside out?!\"",
-      "\"A plucked Thanksgiving turkey! (full televised quote)\"",
+      "\"A plucked Thanksgiving turkey!\"",
       "\"A giant rat with whiskers!\"",
       "\"An alien invasion specimen!\""
     ],
@@ -4011,7 +4011,7 @@
     "show": "Friends",
     "q": "Who was Rachel's sharp, demanding boss at Bloomingdale's who was tragically killed in a traffic accident?",
     "options": [
-      "Sophie (Bloomingdale's assistant)",
+      "Sophie",
       "Nora",
       "Joanna",
       "Amanda"
@@ -4023,9 +4023,9 @@
     "show": "Friends",
     "q": "What long-suffering administrative assistant worked alongside Rachel under Joanna at Bloomingdale's?",
     "options": [
-      "Chloe (Leo's clinic colleague in Cambodia)",
+      "Chloe",
       "Sophie",
-      "Mona",
+      "Mona whom Ross met at Monica and Chandler's wedding",
       "Julie"
     ],
     "answer": 1,
@@ -4048,7 +4048,7 @@
     "q": "What iconic American fashion corporation employs Rachel for five seasons starting in Season 5?",
     "options": [
       "Calvin Klein",
-      "Donna Karan New York (DKNY)",
+      "Donna Karan New York",
       "Tommy Hilfiger",
       "Ralph Lauren"
     ],
@@ -4073,8 +4073,8 @@
     "options": [
       "She spills hot coffee over his executive desk",
       "She insults the fabric of his necktie",
-      "She gets her heel caught in his carpet and falls (as described in the episode)",
-      "She accidentally kisses him on the cheek when leaving"
+      "She gets her heel caught in his carpet and falls",
+      "She accidentally kisses him on the cheek"
     ],
     "answer": 3,
     "d": 2
@@ -4108,7 +4108,7 @@
     "q": "Why does Rachel become incensed when her spoiled sister Jill visits New York?",
     "options": [
       "Jill starts dating Ross purely out of spite toward Rachel",
-      "Jill steals Rachel's designer clothes and pawns them (referenced by the characters)",
+      "Jill steals Rachel's designer clothes and pawns them",
       "Jill tries to get Rachel fired from Ralph Lauren",
       "Jill invites their father to Monica's apartment"
     ],
@@ -4119,7 +4119,7 @@
     "show": "Friends",
     "q": "What is the name of Rachel and Monica's beloved childhood dog whose death was hidden from Ross for years?",
     "options": [
-      "LaPooh (as described in the episode)",
+      "LaPooh",
       "Rover",
       "Chi-Chi",
       "Buster"
@@ -4191,7 +4191,7 @@
     "show": "Friends",
     "q": "What musical instrument does Ross attempt to learn to play for Monica and Chandler's wedding ceremony?",
     "options": [
-      "The classical cello featured prominently in the storyline",
+      "The classical cello",
       "The harp",
       "The Scottish Highland bagpipes",
       "The French horn"
@@ -4206,7 +4206,7 @@
       "\"Auld Lang Syne\"",
       "\"Celebration\" by Kool & the Gang",
       "\"Amazing Grace\"",
-      "\"I'll Be There for You (full televised quote)\""
+      "\"I'll Be There for You\""
     ],
     "answer": 1,
     "d": 2
@@ -4215,7 +4215,7 @@
     "show": "Friends",
     "q": "What is the name of Ross's first wife who leaves him for Susan Bunch before the pilot episode?",
     "options": [
-      "Emily Waltham (notable supporting figure)",
+      "Emily Waltham",
       "Mindy Hunter",
       "Chloe",
       "Carol Willick"
@@ -4254,7 +4254,7 @@
       "Ross survived a rare childhood illness at age two",
       "Ross walked and talked at five months old",
       "Ross was born two months premature in a taxi",
-      "Judy was told by doctors that she was barren and could never conceive"
+      "Judy was told by doctors that she was barren"
     ],
     "answer": 3,
     "d": 2
@@ -4263,9 +4263,9 @@
     "show": "Friends",
     "q": "What was the name of the girl from Long Island with whom Ross lost his virginity?",
     "options": [
-      "Mindy Hunter (frequent social acquaintance)",
+      "Mindy Hunter",
       "Carol Willick",
-      "Rachel Green",
+      "Rachel Karen Green",
       "Julie"
     ],
     "answer": 1,
@@ -4275,7 +4275,7 @@
     "show": "Friends",
     "q": "What is the name of the eccentric Central Perk barista who is hopelessly in love with Rachel for ten years?",
     "options": [
-      "Terry (as described in the episode)",
+      "Terry",
       "Kip",
       "Gunther",
       "Mark"
@@ -4287,9 +4287,9 @@
     "show": "Friends",
     "q": "What was Gunther's former acting claim to fame on a daytime soap opera before working at Central Perk?",
     "options": [
-      "He played a villain on 'General Hospital' who got poisoned (referenced by the characters)",
+      "He played a villain on 'General Hospital' who got poisoned",
       "He played a surgeon on 'One Life to Live'",
-      "He played Bryce on 'All My Children' and was buried in an avalanche",
+      "He played Bryce on 'All My Children'",
       "He played an orderly on 'Days of Our Lives'"
     ],
     "answer": 2,
@@ -4347,8 +4347,8 @@
     "show": "Friends",
     "q": "What is the opening line of Phoebe Buffay's world-famous song 'Smelly Cat'?",
     "options": [
-      "\"Smelly Cat, Smelly Cat, it's not your fault! (delivered with dramatic comedic emphasis)\"",
-      "\"Smelly Cat, Smelly Cat, what are they feeding you?\"",
+      "\"Smelly Cat, Smelly Cat, it's not your fault!\"",
+      "\"Smelly Cat\"",
       "\"Oh little stinky kitty walking in the alley\"",
       "\"Cat with no bath, why do you stink so bad?\""
     ],
@@ -4420,7 +4420,7 @@
     "q": "What is the name of Phoebe's eccentric grandmother who passed away in Season 5, leaving her her yellow taxi?",
     "options": [
       "Frances",
-      "Althea (introduced during the storyline)",
+      "Althea",
       "Sylvia",
       "Gladys"
     ],
@@ -4444,7 +4444,7 @@
     "q": "What framing device did Phoebe's grandmother Frances use regarding the identity of Phoebe's biological father?",
     "options": [
       "She showed Phoebe photos of Albert Einstein",
-      "She framed pictures of the handsome scientist from photo frame packaging and claimed it was him",
+      "She framed pictures of the handsome scientist from photo frame packaging",
       "She pointed to famous politicians on television",
       "She claimed her father was an astronaut in orbit"
     ],
@@ -4470,7 +4470,7 @@
       "Max",
       "David",
       "Gary",
-      "Roger (as described in the episode)"
+      "Roger"
     ],
     "answer": 1,
     "d": 1
@@ -4527,7 +4527,7 @@
     "show": "Friends",
     "q": "Why does Monica break up with billionaire Pete Becker?",
     "options": [
-      "He refuses to give up UFC cage fighting despite being brutally beaten and hospitalized",
+      "He refuses to give up UFC cage fighting despite being brutally beaten",
       "He loses his entire software fortune in a failed venture",
       "He proposes to Monica during a business conference",
       "He demands she move to Silicon Valley with him"
@@ -4587,7 +4587,7 @@
     "show": "Friends",
     "q": "What childhood boxes of Monica's did Jack Geller use to divert flood water away from his Porsche?",
     "options": [
-      "Monica's childhood scrapbooks, photo albums, and school memorabilia",
+      "Monica's childhood scrapbooks",
       "Monica's collection of dollhouse furniture",
       "Monica's middle school culinary ribbons",
       "Monica's high school yearbooks and uniforms"
@@ -4626,7 +4626,7 @@
       "Seven sisters",
       "Five sisters",
       "Six sisters",
-      "Eight sisters (referenced by the characters)"
+      "Eight sisters"
     ],
     "answer": 0,
     "d": 2
@@ -4649,7 +4649,7 @@
     "options": [
       "Ukulele",
       "Banjo",
-      "Tambourine (introduced during the storyline)",
+      "Tambourine",
       "Acoustic guitar"
     ],
     "answer": 3,
@@ -4683,7 +4683,7 @@
     "show": "Friends",
     "q": "What does Phoebe rhyme with 'Rachel and Chandler' in her festive holiday song?",
     "options": [
-      "\"And please tell Joey / Christmas will be snowy!\"",
+      "\"And please tell Joey",
       "\"Handler and candle\"",
       "\"Reindeer and blizzard\"",
       "\"Santa's little handler\""
@@ -4707,10 +4707,10 @@
     "show": "Friends",
     "q": "What apartment number was Monica's apartment originally in Season 1 before writers changed it to reflect an upper floor?",
     "options": [
-      "Apartment 4 (located in the same apartment building)",
-      "Apartment 2 (changed to Apartment 14)",
-      "Apartment 5 (changed to Apartment 20)",
-      "Apartment 1 (changed to Apartment 12)"
+      "Apartment 4",
+      "Apartment 2",
+      "Apartment 5",
+      "Apartment 1"
     ],
     "answer": 2,
     "d": 3
@@ -4719,7 +4719,7 @@
     "show": "Friends",
     "q": "What apartment number was Chandler and Joey's apartment originally before being renumbered to 19?",
     "options": [
-      "Apartment 3 (directly down the residential hallway)",
+      "Apartment 3",
       "Apartment 6",
       "Apartment 5",
       "Apartment 4"
@@ -4734,7 +4734,7 @@
       "Barnaby",
       "Foghorn",
       "Pecker",
-      "The Rooster (formerly the baby chick)"
+      "The Rooster"
     ],
     "answer": 3,
     "d": 2
@@ -4758,7 +4758,7 @@
       "Joey moves it into his new apartment in Los Angeles",
       "They leave it on the curb for street sanitation pickup",
       "Chandler gives it to the neighborhood youth center",
-      "Monica smashes it open with a hammer and crowbar to rescue Chick Jr. and Duck Jr."
+      "Monica smashes it open with a hammer"
     ],
     "answer": 3,
     "d": 2
@@ -4780,7 +4780,7 @@
     "q": "What is the full name of Ross's boss at the museum who eats his Thanksgiving sandwich?",
     "options": [
       "Dr. Donald Ledbetter",
-      "Dr. Kenneth Oberman (as described in the episode)",
+      "Dr. Kenneth Oberman",
       "Dr. Richard Burke",
       "Dr. Alan Fluffy"
     ],
@@ -4804,7 +4804,7 @@
     "q": "On what date did the Pilot episode of Friends make its original television broadcast debut on NBC?",
     "options": [
       "August 15, 1994",
-      "October 12, 1994 (referenced by the characters)",
+      "October 12, 1994",
       "September 22, 1994",
       "November 3, 1994"
     ],
@@ -4875,10 +4875,10 @@
     "show": "Friends",
     "q": "What timeslot on Thursday evenings did Friends predominantly occupy during its prime run?",
     "options": [
-      "9:00 PM Eastern / Pacific (referenced by the characters)",
+      "9:00 PM Eastern / Pacific",
       "8:30 PM Eastern / Pacific",
       "9:30 PM Eastern / Pacific",
-      "8:00 PM Eastern / Pacific"
+      "8:00 PM Eastern"
     ],
     "answer": 3,
     "d": 1
@@ -4888,7 +4888,7 @@
     "q": "What hit sitcom originally preceded Friends at 8:00 PM during early Season 1 before Friends moved to the lead-off slot?",
     "options": [
       "'Mad About You'",
-      "'Seinfeld (full televised quote)'",
+      "'Seinfeld'",
       "'Frasier'",
       "'Wings'"
     ],
@@ -4911,7 +4911,7 @@
     "show": "Friends",
     "q": "Approximately how many viewers tuned in to watch 'The One After the Superbowl' on January 28, 1996?",
     "options": [
-      "41.2 million viewers (introduced during the storyline)",
+      "41.2 million viewers",
       "62.4 million viewers",
       "35.8 million viewers",
       "52.9 million viewers"
@@ -4923,7 +4923,7 @@
     "show": "Friends",
     "q": "Approximately how many viewers watched the series finale 'The Last One' on May 6, 2004?",
     "options": [
-      "38.2 million viewers (as described in the episode)",
+      "38.2 million viewers",
       "68.4 million viewers",
       "52.5 million viewers",
       "44.1 million viewers"
@@ -4961,7 +4961,7 @@
     "options": [
       "$2.0 million",
       "$750,000",
-      "$1.0 million (referenced by the characters)",
+      "$1.0 million",
       "$3.5 million"
     ],
     "answer": 0,
@@ -4971,10 +4971,10 @@
     "show": "Friends",
     "q": "In which season did Friends finish as the undisputed number one ranked show overall in the Nielsen primetime ratings?",
     "options": [
-      "Season 2 (1995–1996)",
-      "Season 8 (2001–2002)",
-      "Season 5 (1998–1999)",
-      "Season 10 (2003–2004)"
+      "Season 2",
+      "Season 8",
+      "Season 5",
+      "Season 10"
     ],
     "answer": 1,
     "d": 1
@@ -5010,7 +5010,7 @@
       "\"The Case of...\"",
       "\"A Tale of...\"",
       "\"Life with...\"",
-      "\"The One with...\" or \"The One Where...\""
+      "\"The One with...\""
     ],
     "answer": 3,
     "d": 1
@@ -5031,7 +5031,7 @@
     "show": "Friends",
     "q": "What alternative title was appended to the pilot episode on syndication prints and DVD releases?",
     "options": [
-      "\"The One with the Wedding Dress (full televised quote)\"",
+      "\"The One with the Wedding Dress\"",
       "\"The One Where Rachel Escapes\"",
       "\"The One Where Monica Gets a Roommate\"",
       "\"The One in Central Perk\""
@@ -5055,10 +5055,10 @@
     "show": "Friends",
     "q": "In which television season did Friends debut in the Nielsen Top 10 by finishing at #8 overall?",
     "options": [
-      "Season 1 (1994–1995)",
-      "Season 2 (primetime television season)",
-      "Season 3 (1996–1997)",
-      "Season 4 (1997–1998)"
+      "Season 1",
+      "Season 2",
+      "Season 3",
+      "Season 4"
     ],
     "answer": 0,
     "d": 2
@@ -5067,7 +5067,7 @@
     "show": "Friends",
     "q": "What was the average weekly viewership for Friends during its peak-rated second season (1995–1996)?",
     "options": [
-      "Approximately 22.1 million viewers per episode (as described in the episode)",
+      "Approximately 22.1 million viewers per episode",
       "Approximately 40.5 million viewers per episode",
       "Approximately 31.7 million viewers per episode",
       "Approximately 18.3 million viewers per episode"
@@ -5079,7 +5079,7 @@
     "show": "Friends",
     "q": "In what year did Friends first enter broadcast syndication on local television stations across the United States?",
     "options": [
-      "Autumn 1996 (referenced by the characters)",
+      "Autumn 1996",
       "Autumn 2000",
       "Spring 2002",
       "Autumn 1998"
@@ -5117,7 +5117,7 @@
     "options": [
       "Approximately $20 million",
       "Approximately $45 million",
-      "Approximately $250 million (introduced during the storyline)",
+      "Approximately $250 million",
       "Approximately $100 million"
     ],
     "answer": 3,
@@ -5139,7 +5139,7 @@
     "show": "Friends",
     "q": "What British terrestrial broadcaster served as the original UK home of Friends from 1995 until the finale in 2004?",
     "options": [
-      "BBC One (notable supporting figure)",
+      "BBC One",
       "ITV",
       "BBC Two",
       "Channel 4"
@@ -5199,7 +5199,7 @@
     "show": "Friends",
     "q": "How many total Thanksgiving-themed episodes were produced over the ten seasons of Friends?",
     "options": [
-      "10 episodes (one in each season)",
+      "10 episodes",
       "8 episodes",
       "9 episodes",
       "12 episodes"
@@ -5211,7 +5211,7 @@
     "show": "Friends",
     "q": "Which season of Friends is the only season featuring a shorter order of 18 episodes instead of 24?",
     "options": [
-      "Season 1 (original network broadcast run)",
+      "Season 1",
       "Season 7",
       "Season 9",
       "Season 10"
@@ -5223,7 +5223,7 @@
     "show": "Friends",
     "q": "Why was the final season of Friends truncated to 18 episodes instead of a full standard 24-episode order?",
     "options": [
-      "The cast requested a shorter season to pursue film careers and family commitments",
+      "The cast requested a shorter season to pursue film careers",
       "NBC lacked the budget to pay the cast for 24 episodes",
       "The writers ran out of storyline material for Monica and Chandler",
       "A writers' strike shut down television production in early 2004"
@@ -5272,7 +5272,7 @@
     "q": "What was the final Nielsen rank of Friends during its tenth and farewell season (2003–2004)?",
     "options": [
       "First overall",
-      "Fourth overall (averaging 22.8 million viewers)",
+      "Fourth overall",
       "Eighth overall",
       "Eleventh overall"
     ],
@@ -5284,9 +5284,9 @@
     "q": "Which single episode in Season 2 features the most high-profile ensemble of celebrity guest stars in the series' history?",
     "options": [
       "\"The One with the Prom Video\"",
-      "\"The One with the Lesbian Wedding (delivered with dramatic comedic emphasis)\"",
+      "\"The One with the Lesbian Wedding\"",
       "\"The One with All the Jealousy\"",
-      "\"The One After the Superbowl\" (Parts 1 & 2)"
+      "\"The One After the Superbowl\""
     ],
     "answer": 3,
     "d": 1
@@ -5295,8 +5295,8 @@
     "show": "Friends",
     "q": "What was the Nielsen household rating for the series finale of Friends on May 6, 2004?",
     "options": [
-      "20.2 rating / 31 share (as described in the episode)",
-      "29.8 rating / 43 share",
+      "20.2 rating / 31 share",
+      "29.8 rating",
       "38.5 rating / 55 share",
       "15.4 rating / 24 share"
     ],
@@ -5319,7 +5319,7 @@
     "show": "Friends",
     "q": "Approximately how many viewers watched the one-hour retrospective special directly preceding the series finale?",
     "options": [
-      "Approximately 18 million viewers (referenced by the characters)",
+      "Approximately 18 million viewers",
       "Approximately 36 million viewers",
       "Approximately 48 million viewers",
       "Approximately 25 million viewers"
@@ -5333,8 +5333,8 @@
     "options": [
       "\"The Pilot\"",
       "\"The One with the Blackout\"",
-      "\"The One Where Rachel Finds Out (delivered with dramatic comedic emphasis)\"",
-      "\"The One with Two Parts, Part 2\""
+      "\"The One Where Rachel Finds Out\"",
+      "\"The One with Two Parts\""
     ],
     "answer": 3,
     "d": 3
@@ -5391,7 +5391,7 @@
     "show": "Friends",
     "q": "Which major Canadian broadcast network aired Friends during its original run simultaneously with NBC?",
     "options": [
-      "CBC Television (notable supporting figure)",
+      "CBC Television",
       "CTV",
       "Global Television Network",
       "Citytv"
@@ -5415,7 +5415,7 @@
     "show": "Friends",
     "q": "In which season of Friends did the series experience its lowest overall average Nielsen rank (#5 overall)?",
     "options": [
-      "Season 6 and Season 7 (both ranked #5)",
+      "Season 6 and Season 7",
       "Season 1 and Season 2",
       "Season 3 and Season 4",
       "Season 9 and Season 10"
@@ -5441,7 +5441,7 @@
     "options": [
       "\"Mega Comedy Night\"",
       "\"Super-Sized Thursdays\"",
-      "\"Expanded Must See TV (delivered with dramatic comedic emphasis)\"",
+      "\"Expanded Must See TV\"",
       "\"Friends Extra Large\""
     ],
     "answer": 1,
@@ -5463,10 +5463,10 @@
     "show": "Friends",
     "q": "In what broadcast season did Friends surpass 'ER' as NBC's highest-rated program of the week?",
     "options": [
-      "1996–1997 (Season 3)",
-      "2001–2002 (Season 8)",
-      "1998–1999 (Season 5)",
-      "2003–2004 (Season 10)"
+      "1996–1997",
+      "2001–2002",
+      "1998–1999",
+      "2003–2004"
     ],
     "answer": 1,
     "d": 2
@@ -5488,7 +5488,7 @@
     "q": "What storyline was hastily removed and re-shot from Season 8 Episode 3 following the September 11 attacks?",
     "options": [
       "Joey accidentally setting off an emergency fire sprinkler system",
-      "Chandler joking about airport security and bombs while boarding a honeymoon flight",
+      "Chandler joking about airport security",
       "Ross getting trapped inside a collapsing subway tunnel",
       "Phoebe getting arrested for protesting at City Hall"
     ],
@@ -5512,7 +5512,7 @@
     "q": "What item displayed behind the door in Chandler and Joey's apartment frequently displayed supportive NYC messages post-9/11?",
     "options": [
       "The bathroom mirror",
-      "The refrigerator chalkboard featured prominently in the storyline",
+      "The refrigerator chalkboard",
       "The cork bulletin board",
       "The Magna Doodle drawing board"
     ],
@@ -5523,7 +5523,7 @@
     "show": "Friends",
     "q": "Who was responsible for drawing the famous changing sketches on the Magna Doodle on the back of Joey and Chandler's door?",
     "options": [
-      "Crew member Paul Swain (art department)",
+      "Crew member Paul Swain",
       "David Schwimmer",
       "Matt LeBlanc",
       "Creator David Crane"
@@ -5535,7 +5535,7 @@
     "show": "Friends",
     "q": "What was the estimated total domestic syndication revenue generated by Friends by its 10th anniversary in 2004?",
     "options": [
-      "$250 million (introduced during the storyline)",
+      "$250 million",
       "$500 million",
       "Over $1 billion",
       "$100 million"
@@ -5548,7 +5548,7 @@
     "q": "How much residual income does each of the six main cast members reportedly continue to earn annually from syndication and streaming?",
     "options": [
       "Approximately $2 million per year",
-      "Approximately $50 million per year (referenced by the characters)",
+      "Approximately $50 million per year",
       "Approximately $20 million per year",
       "Approximately $500,000 per year"
     ],
@@ -5583,7 +5583,7 @@
     "show": "Friends",
     "q": "What television rating system code was Friends typically designated under the TV Parental Guidelines implemented in 1997?",
     "options": [
-      "TV-14 (often with D for dialogue and S for sexual situations)",
+      "TV-14",
       "TV-PG",
       "TV-G",
       "TV-MA"
@@ -5598,7 +5598,7 @@
       "\"The One with the Casino Wedding\"",
       "\"The One at Caesar's Palace\"",
       "\"The One with the Hand Twin\"",
-      "\"The One in Vegas\" (Parts 1 & 2)"
+      "\"The One in Vegas\""
     ],
     "answer": 3,
     "d": 2
@@ -5608,8 +5608,8 @@
     "q": "What was the title of the two-part Season 4 finale set abroad in the United Kingdom?",
     "options": [
       "\"The One in London\"",
-      "\"The One Where Ross Marries Emily (full televised quote)\"",
-      "\"The One with Ross's Wedding\" (Parts 1 & 2)",
+      "\"The One Where Ross Marries Emily\"",
+      "\"The One with Ross's Wedding\"",
       "\"The One with London, Baby!\""
     ],
     "answer": 2,
@@ -5622,7 +5622,7 @@
       "\"The One in the Tropics\"",
       "\"The One with the Paleontology Conference\"",
       "\"The One with the Frizzy Hair\"",
-      "\"The One in Barbados\" (Parts 1 & 2)"
+      "\"The One in Barbados\""
     ],
     "answer": 3,
     "d": 1
@@ -5632,8 +5632,8 @@
     "q": "How many total two-part (hour-long) season finale episodes did Friends produce across its ten seasons?",
     "options": [
       "All ten season finales",
-      "Only two season finales (Seasons 4 and 10) (referenced by the characters)",
-      "Five season finales (Seasons 4, 5, 8, 9, and 10)",
+      "Only two season finales",
+      "Five season finales",
       "Seven season finales"
     ],
     "answer": 2,
@@ -5643,7 +5643,7 @@
     "show": "Friends",
     "q": "What was the average Nielsen viewer rating for Season 3 of Friends (1996–1997)?",
     "options": [
-      "19.5 million viewers (introduced during the storyline)",
+      "19.5 million viewers",
       "31.2 million viewers",
       "14.8 million viewers",
       "25.8 million viewers"
@@ -5668,7 +5668,7 @@
     "q": "What was the average weekly audience for Season 4 of Friends (1997–1998)?",
     "options": [
       "24.7 million viewers",
-      "18.1 million viewers (as described in the episode)",
+      "18.1 million viewers",
       "30.4 million viewers",
       "35.2 million viewers"
     ],
@@ -5679,8 +5679,8 @@
     "show": "Friends",
     "q": "What milestone broadcast episode marked the 100th episode of Friends in autumn 1998?",
     "options": [
-      "\"The One with the Thanksgiving Flashbacks (complete uncut dialogue line)\"",
-      "\"The One with the Triplets\" (Season 5, Episode 3)",
+      "\"The One with the Thanksgiving Flashbacks\"",
+      "\"The One with the Triplets\"",
       "\"The One with Ross's Wedding\"",
       "\"The One Where Everybody Finds Out\""
     ],
@@ -5692,7 +5692,7 @@
     "q": "What milestone broadcast episode marked the 200th episode of Friends in November 2002?",
     "options": [
       "\"The One with the Mugging\"",
-      "\"The One with the Male Nanny\" (Season 9, Episode 6)",
+      "\"The One with the Male Nanny\"",
       "\"The One Where Rachel Has a Baby\"",
       "\"The One with Rachel's Other Sister\""
     ],
@@ -5703,7 +5703,7 @@
     "show": "Friends",
     "q": "What milestone broadcast episode marked the 150th episode of Friends in early 2001?",
     "options": [
-      "\"The One with Joey's New Brain\" (Season 7, Episode 15)",
+      "\"The One with Joey's New Brain\"",
       "\"The One with All the Cheesecakes\"",
       "\"The One with the Nap Partners\"",
       "\"The One with the Holiday Armadillo\""
@@ -5728,7 +5728,7 @@
     "q": "What is the only season of Friends where the series finale was NOT the highest-rated episode of that particular season?",
     "options": [
       "Season 1",
-      "Season 2 (where 'The One After the Superbowl' was highest)",
+      "Season 2",
       "Season 8",
       "Season 5"
     ],
@@ -5847,7 +5847,7 @@
     "show": "Friends",
     "q": "How many total episodes comprise Season 10 (2003–2004)?",
     "options": [
-      "18 episodes (including the two-part finale)",
+      "18 episodes",
       "20 episodes",
       "16 episodes",
       "22 episodes"
@@ -5871,7 +5871,7 @@
     "show": "Friends",
     "q": "What format was Friends originally shot in on 35mm film that allowed for later remastering in 16:9 widescreen HD?",
     "options": [
-      "35mm color film (3-perf Super 35)",
+      "35mm color film",
       "Standard definition Betacam SP videotape",
       "Multi-camera 16mm reversal film",
       "High-definition digital video tape"
@@ -5896,7 +5896,7 @@
     "q": "What aspect ratio was Friends originally framed and broadcast in during its 1994–2004 network run?",
     "options": [
       "16:9 anamorphic widescreen",
-      "1.85:1 theatrical widescreen (introduced during the storyline)",
+      "1.85:1 theatrical widescreen",
       "4:3 fullscreen standard definition",
       "2.35:1 cinemascope"
     ],
@@ -5908,7 +5908,7 @@
     "q": "What unintended visual artifact became noticeable on the sides of the screen after Friends was remastered into 16:9 widescreen?",
     "options": [
       "Boom microphones dropping from the ceiling",
-      "Stand-in body doubles, lighting equipment, and crew members",
+      "Stand-in body doubles",
       "Script binders left on the orange couch",
       "Visible studio cameras in wide shots"
     ],
@@ -5921,7 +5921,7 @@
     "options": [
       "A male stand-in double for Monica Geller",
       "An obvious stand-in double for Rachel Green",
-      "A crew member holding a cue card for Joey displayed prominently on screen",
+      "A crew member holding a cue card for Joey",
       "A dummy replacing Chandler Bing"
     ],
     "answer": 1,
@@ -5991,10 +5991,10 @@
     "show": "Friends",
     "q": "What RIAA sales certification did the 1995 Friends official soundtrack album achieve in the United States?",
     "options": [
-      "Gold (500,000 copies)",
-      "Platinum (1 million copies)",
-      "Double Platinum (over 2 million copies sold)",
-      "Diamond (10 million copies)"
+      "Gold",
+      "Platinum",
+      "Double Platinum",
+      "Diamond"
     ],
     "answer": 2,
     "d": 3
@@ -6015,7 +6015,7 @@
     "show": "Friends",
     "q": "What university did co-creators David Crane and Marta Kauffman attend together as undergraduate students in the 1970s?",
     "options": [
-      "New York University (NYU) in Greenwich Village",
+      "New York University in Greenwich Village",
       "Columbia University",
       "Harvard University",
       "Brandeis University"
@@ -6052,7 +6052,7 @@
     "q": "What was the production company name formed by the three executive producers that produced Friends?",
     "options": [
       "Crane-Kauffman Television",
-      "Bright Light Entertainment (introduced during the storyline)",
+      "Bright Light Entertainment",
       "Bright/Kauffman/Crane Productions",
       "Manhattan Friends TV"
     ],
@@ -6150,7 +6150,7 @@
       "Mark Snow",
       "Mike Post",
       "Michael Skloff",
-      "Snuffy Walden (frequent social acquaintance)"
+      "Snuffy Walden"
     ],
     "answer": 2,
     "d": 2
@@ -6172,7 +6172,7 @@
     "q": "Who actually performed the four rhythmic hand claps during the recording of the theme song?",
     "options": [
       "The six main actors in the studio",
-      "The producers and composers (Crane, Kauffman, Bright, and Skloff)",
+      "The producers and composers",
       "Professional percussionists from the LA Philharmonic",
       "A machine drum synthesizer loop"
     ],
@@ -6183,7 +6183,7 @@
     "show": "Friends",
     "q": "Where did 'I'll Be There for You' peak on the Billboard Hot 100 Airplay chart in 1995?",
     "options": [
-      "Number 1 (for eight consecutive weeks)",
+      "Number 1",
       "Number 5",
       "Number 12",
       "Number 2"
@@ -6195,7 +6195,7 @@
     "show": "Friends",
     "q": "Where was the famous opening title sequence featuring the water fountain and umbrella sofa actually filmed?",
     "options": [
-      "The Warner Bros. Ranch backlot in Burbank, California",
+      "The Warner Bros. Ranch backlot in Burbank",
       "Central Park in New York City",
       "Prospect Park in Brooklyn",
       "Gramercy Park in Manhattan"
@@ -6219,10 +6219,10 @@
     "show": "Friends",
     "q": "In what year did Friends win the Primetime Emmy Award for Outstanding Comedy Series?",
     "options": [
-      "1996 (for Season 2)",
-      "1999 (for Season 5)",
-      "2002 (for Season 8)",
-      "2004 (for Season 10)"
+      "1996",
+      "1999",
+      "2002",
+      "2004"
     ],
     "answer": 2,
     "d": 1
@@ -6245,7 +6245,7 @@
     "options": [
       "Outstanding Supporting Actress in a Comedy Series",
       "Outstanding Lead Actress in a Comedy Series",
-      "Outstanding Guest Actress in a Comedy Series (referenced by the characters)",
+      "Outstanding Guest Actress in a Comedy Series",
       "Outstanding Original Music and Lyrics"
     ],
     "answer": 0,
@@ -6282,7 +6282,7 @@
       "One nomination",
       "Five nominations",
       "Zero nominations",
-      "Three nominations (2002, 2003, 2004)"
+      "Three nominations"
     ],
     "answer": 3,
     "d": 2
@@ -6340,7 +6340,7 @@
     "q": "Which director won the Primetime Emmy Award for Outstanding Directing for a Comedy Series for 'The One After the Superbowl'?",
     "options": [
       "James Burrows",
-      "Kevin S. Bright (as described in the episode)",
+      "Kevin S. Bright",
       "David Schwimmer",
       "Michael Lembeck"
     ],
@@ -6388,7 +6388,7 @@
     "q": "Who directed the emotional series finale 'The Last One' (Parts 1 & 2)?",
     "options": [
       "James Burrows",
-      "David Schwimmer (recurring character)",
+      "David Schwimmer",
       "Gary Halvorson",
       "Kevin S. Bright"
     ],
@@ -6472,7 +6472,7 @@
     "q": "Who was the president of NBC Entertainment who championed and greenlit Friends in early 1994?",
     "options": [
       "Warren Littlefield",
-      "Brandon Tartikoff (notable supporting figure)",
+      "Brandon Tartikoff",
       "Jeff Zucker",
       "Les Moonves"
     ],
@@ -6519,9 +6519,9 @@
     "show": "Friends",
     "q": "Which longtime Friends writers became executive producers and co-showrunners in the later seasons?",
     "options": [
-      "Scott Silveri and Shana Goldberg-Meehan",
+      "Scott Silveri",
       "Ted Cohen and Andrew Reich",
-      "Adam Chase and Ira Ungerleider (referenced by the characters)",
+      "Adam Chase and Ira Ungerleider",
       "Greg Malins and Wil Calhoun"
     ],
     "answer": 0,
@@ -6582,7 +6582,7 @@
       "6 episodes",
       "12 episodes plus the pilot",
       "22 episodes",
-      "Full 24-episode order (introduced during the storyline)"
+      "Full 24-episode order"
     ],
     "answer": 1,
     "d": 2
@@ -6591,7 +6591,7 @@
     "show": "Friends",
     "q": "Which episode of Friends was the first one directed by David Schwimmer?",
     "options": [
-      "\"The One on the Last Night\" (Season 6, Episode 6)",
+      "\"The One on the Last Night\"",
       "\"The One with the Red Sweater\"",
       "\"The One with Rachel's Phone Number\"",
       "\"The One with the Truth About London\""
@@ -6616,7 +6616,7 @@
     "q": "Which of these episodes was directed by David Schwimmer?",
     "options": [
       "\"The One with the Prom Video\"",
-      "\"The One Where No One's Ready (full televised quote)\"",
+      "\"The One Where No One's Ready\"",
       "\"The One with the Embryos\"",
       "\"The One with the Truth About London\""
     ],
@@ -6627,7 +6627,7 @@
     "show": "Friends",
     "q": "How many total Primetime Emmy nominations did Friends receive for Outstanding Comedy Series?",
     "options": [
-      "10 nominations (every season)",
+      "10 nominations",
       "3 nominations",
       "6 nominations",
       "8 nominations"
@@ -6663,9 +6663,9 @@
     "show": "Friends",
     "q": "How many consecutive Emmy wins for Outstanding Comedy Series did 'Frasier' win while competing with Friends?",
     "options": [
-      "Three consecutive wins (featured in original broadcast)",
+      "Three consecutive wins",
       "Seven consecutive wins",
-      "Five consecutive wins (1994–1998)",
+      "Five consecutive wins",
       "Two consecutive wins"
     ],
     "answer": 2,
@@ -6714,7 +6714,7 @@
       "\"Tears in Heaven\"",
       "\"Layla\"",
       "\"Wonderful Tonight\"",
-      "\"Change the World (complete uncut dialogue line)\""
+      "\"Change the World\""
     ],
     "answer": 2,
     "d": 1
@@ -6747,7 +6747,7 @@
     "show": "Friends",
     "q": "What rock band's song 'Semi-Charmed Life' is featured in the party background in Season 4?",
     "options": [
-      "Smash Mouth (recurring character)",
+      "Smash Mouth",
       "Third Eye Blind",
       "Sugar Ray",
       "Matchbox 20"
@@ -6797,7 +6797,7 @@
     "options": [
       "James Burrows",
       "Michael Lembeck",
-      "Kevin S. Bright (referenced by the characters)",
+      "Kevin S. Bright",
       "Gail Mancuso"
     ],
     "answer": 1,
@@ -6807,7 +6807,7 @@
     "show": "Friends",
     "q": "Who directed the memorable Season 3 Thanksgiving football episode 'The One with the Football'?",
     "options": [
-      "Kevin S. Bright (introduced during the storyline)",
+      "Kevin S. Bright",
       "James Burrows",
       "Michael Lembeck",
       "Peter Bonerz"
@@ -6928,7 +6928,7 @@
     "q": "Who composed the whimsical transitional guitar and acoustic musical stingers between scenes?",
     "options": [
       "Michael Skloff",
-      "The Rembrandts (recurring character)",
+      "The Rembrandts",
       "Danny Elfman",
       "David Schwartz"
     ],
@@ -6940,7 +6940,7 @@
     "q": "What famous sound effect was created using a real human mouth to accompany scene cuts throughout the series?",
     "options": [
       "Snapping fingers",
-      "Scat vocal riffs and acoustic guitar strumming by Michael Skloff",
+      "Scat vocal riffs",
       "A muted brass trumpet",
       "A slide whistle"
     ],
@@ -6976,7 +6976,7 @@
     "q": "What production role did Lisa Kudrow's real-life husband Michel Stern work in?",
     "options": [
       "Advertising executive",
-      "Television producer (referenced by the characters)",
+      "Television producer",
       "Cinematographer",
       "Talent manager"
     ],
@@ -7023,7 +7023,7 @@
     "show": "Friends",
     "q": "What distinct design rule did production designer John Shaffner break by painting Monica's apartment walls lilac purple?",
     "options": [
-      "Producers initially opposed purple walls, but Shaffner argued it would make the show instantly identifiable when flipping channels",
+      "Producers initially opposed purple walls",
       "Lilac was considered bad luck in theatrical tradition",
       "Purple absorbed too much studio lighting and required higher power",
       "The network mandated all comedy sets must be beige or cream"
@@ -7037,7 +7037,7 @@
     "options": [
       "At a flea market on Melrose Avenue",
       "In an antique thrift shop in Greenwich Village",
-      "It was custom-built by an upholstery artisan in Burbank (referenced by the characters)",
+      "It was custom-built by an upholstery artisan in Burbank",
       "Stored in the basement of the Warner Bros. prop department"
     ],
     "answer": 3,
@@ -7050,7 +7050,7 @@
       "The brass door knocker",
       "The yellow peephole picture frame",
       "The chain latch",
-      "The numbered apartment plaque featured prominently in the storyline"
+      "The numbered apartment plaque"
     ],
     "answer": 1,
     "d": 1
@@ -7061,7 +7061,7 @@
     "options": [
       "The prop master forgot to order a replacement before taping",
       "Director James Burrows demanded it stay as a joke",
-      "Set decorator Greg Grande hung the empty frame around the peephole and loved how it looked",
+      "Set decorator Greg Grande hung the empty frame around the peephole",
       "Jennifer Aniston requested it remain as a good luck charm"
     ],
     "answer": 2,
@@ -7096,8 +7096,8 @@
     "q": "What food was traditionally ordered and distributed to feed the studio audience during the long taping nights?",
     "options": [
       "In-N-Out burgers",
-      "Chinese takeout noodles",
-      "Gourmet submarine sandwiches (introduced during the storyline)",
+      "Cartons of greasy cold Chinese takeout sesame noodles",
+      "Gourmet submarine sandwiches",
       "Dozens of fresh delivery pizzas"
     ],
     "answer": 3,
@@ -7144,7 +7144,7 @@
     "q": "Which major television trade publication chronicled the weekly production and ratings data of Friends throughout the 1990s?",
     "options": [
       "Variety and The Hollywood Reporter",
-      "Billboard and Rolling Stone (referenced by the characters)",
+      "Billboard and Rolling Stone",
       "Time and Newsweek",
       "Forbes and Fortune"
     ],
@@ -7155,7 +7155,7 @@
     "show": "Friends",
     "q": "What was the official name of the soundstage at Warner Bros. Studios where Friends was filmed from Season 2 through Season 10?",
     "options": [
-      "Stage 12 (referenced by the characters)",
+      "Stage 12",
       "Stage 18",
       "Stage 24",
       "Stage 29"
@@ -7203,7 +7203,7 @@
     "show": "Friends",
     "q": "What was the starting per-episode salary earned by each of the six main cast members during Season 1?",
     "options": [
-      "$10,000 per episode (introduced during the storyline)",
+      "$10,000 per episode",
       "$40,000 per episode",
       "$22,500 per episode",
       "$75,000 per episode"
@@ -7215,7 +7215,7 @@
     "show": "Friends",
     "q": "What landmark per-episode salary did each of the six cast members negotiate for Seasons 9 and 10?",
     "options": [
-      "$1,000,000 ($1 million) per episode",
+      "$1,000,000 per episode",
       "$500,000 per episode",
       "$750,000 per episode",
       "$2,000,000 per episode"
@@ -7252,9 +7252,9 @@
     "q": "Which female cast members became the highest-paid actresses in television history when their salaries reached $1 million per episode?",
     "options": [
       "Helen Hunt and Roseanne Barr",
-      "Jennifer Aniston, Courteney Cox, and Lisa Kudrow",
+      "Jennifer Aniston",
       "Julia Louis-Dreyfus and Candice Bergen",
-      "Sarah Jessica Parker and Calista Flockhart (as described in the episode)"
+      "Sarah Jessica Parker and Calista Flockhart"
     ],
     "answer": 1,
     "d": 1
@@ -7263,9 +7263,9 @@
     "show": "Friends",
     "q": "What backend financial compensation did the cast secure in 2000 that continues to generate millions annually for each of them?",
     "options": [
-      "5 percent of NBC's Thursday advertising revenue (introduced during the storyline)",
+      "5 percent of NBC's Thursday advertising revenue",
       "Direct ownership of the soundstage real estate",
-      "2 percent of backend syndication and licensing profits",
+      "2 percent of backend syndication",
       "10 percent of international home video sales"
     ],
     "answer": 2,
@@ -7287,7 +7287,7 @@
     "show": "Friends",
     "q": "Why did Courteney Cox turn down the role of Rachel Green and ask to audition for Monica instead?",
     "options": [
-      "She felt her own personality was much more aligned with Monica's strong, neurotic nature",
+      "She felt her own personality was much more aligned with Monica's strong",
       "She felt Rachel had too few lines in the pilot script",
       "Her agent advised her that Monica was the central lead role",
       "She disliked the wardrobe chosen for Rachel"
@@ -7337,7 +7337,7 @@
     "options": [
       "He had signed a multi-picture contract with a film studio",
       "He was preparing to enter a master's program in anthropology",
-      "He had a miserable experience on an earlier canceled sitcom and vowed to stick to Chicago theater",
+      "He had a miserable experience on an earlier canceled sitcom",
       "He refused to relocate from London to Los Angeles"
     ],
     "answer": 2,
@@ -7386,7 +7386,7 @@
       "'Space Cadets'",
       "'Galactic Cargo 2000'",
       "'Subway 3000'",
-      "'LAX 2194' (about airport baggage handlers in the twenty-second century)"
+      "'LAX 2194'"
     ],
     "answer": 3,
     "d": 2
@@ -7407,10 +7407,10 @@
     "show": "Friends",
     "q": "How much money did Matt LeBlanc famously have left in his checking account when he auditioned for Joey Tribbiani?",
     "options": [
-      "Fifty cents ($0.50)",
-      "Eleven dollars ($11)",
-      "One hundred dollars ($100)",
-      "Five hundred dollars ($500)"
+      "Fifty cents",
+      "Eleven dollars",
+      "One hundred dollars",
+      "Five hundred dollars"
     ],
     "answer": 1,
     "d": 1
@@ -7431,7 +7431,7 @@
     "show": "Friends",
     "q": "What was the very first item Matt LeBlanc purchased after receiving his first official Friends paycheck?",
     "options": [
-      "A vintage motorcycle used as a comedic plot device",
+      "A vintage motorcycle",
       "A new television set",
       "A hot, full restaurant dinner",
       "A leather jacket"
@@ -7503,7 +7503,7 @@
     "show": "Friends",
     "q": "On what popular NBC sitcom was Lisa Kudrow already portraying the eccentric waitress Ursula Buffay when cast in Friends?",
     "options": [
-      "'Seinfeld (full televised quote)'",
+      "'Seinfeld'",
       "'Wings'",
       "'Cheers'",
       "'Mad About You'"
@@ -7563,7 +7563,7 @@
     "show": "Friends",
     "q": "What pre-taping backstage ritual did the six cast members maintain without fail before every single episode recording?",
     "options": [
-      "A private group huddle and embrace with no producers or crew permitted",
+      "A private group huddle",
       "Drinking a synchronized espresso toast in the kitchen",
       "Singing the opening verse of 'Smelly Cat'",
       "Touching the yellow picture frame on Monica's door for luck"
@@ -7599,7 +7599,7 @@
     "show": "Friends",
     "q": "Why couldn't Courteney Cox's pregnancy be written into the show during Season 10?",
     "options": [
-      "The show had already established that Monica and Chandler were biologically unable to conceive",
+      "The show had already established that Monica",
       "The producers wanted the finale to focus exclusively on Rachel",
       "Network censors prohibited pregnant characters from adopting children",
       "The writers had already finalized all 18 scripts before the season began"
@@ -7611,7 +7611,7 @@
     "show": "Friends",
     "q": "How did the costume and camera departments conceal Courteney Cox's growing baby bump in Season 10?",
     "options": [
-      "By dressing her in loose, baggy sweaters, long scarves, and holding laundry baskets or props",
+      "By dressing her in loose",
       "By filming her exclusively from the shoulders up",
       "By using a digital CGI body replacement technique",
       "By having her sit behind the Central Perk counter in every scene"
@@ -7626,7 +7626,7 @@
       "125 Bleecker Street in SoHo",
       "45 Perry Street in the West Village",
       "210 East 10th Street in the East Village",
-      "90 Bedford Street (at the corner of Grove Street) in Greenwich Village"
+      "90 Bedford Street in Greenwich Village"
     ],
     "answer": 3,
     "d": 1
@@ -7649,7 +7649,7 @@
     "options": [
       "Yes, the Thanksgiving football game was filmed in Central Park",
       "Yes, all Central Perk exteriors were filmed in Greenwich Village",
-      "No, the entire series was filmed on soundstages in Burbank, California (except for exterior B-roll and the London shoot)",
+      "No, the entire series was filmed on soundstages in Burbank, California",
       "Yes, Season 1 was entirely filmed in Manhattan before moving west"
     ],
     "answer": 2,
@@ -7662,7 +7662,7 @@
       "Paris, France",
       "London, England",
       "Rome, Italy",
-      "Dublin, Ireland (introduced during the storyline)"
+      "Dublin, Ireland"
     ],
     "answer": 1,
     "d": 1
@@ -7674,7 +7674,7 @@
       "She was shooting a feature film in Vancouver",
       "She contracted a severe case of bronchitis",
       "She had a contractual dispute with the British production crew",
-      "She was in the third trimester of her real-life pregnancy and unable to fly internationally"
+      "She was in the third trimester of her real-life pregnancy"
     ],
     "answer": 3,
     "d": 2
@@ -7684,7 +7684,7 @@
     "q": "How did the writers explain Phoebe remaining in New York while the other five friends traveled to London?",
     "options": [
       "Phoebe lost her passport on the subway",
-      "Phoebe was heavily pregnant with the triplets and her obstetrician forbade air travel",
+      "Phoebe was heavily pregnant with the triplets",
       "Phoebe refused to fly on airplanes due to spiritual beliefs",
       "Phoebe had to care for Joey's chick and duck"
     ],
@@ -7698,7 +7698,7 @@
       "Matthew Perry",
       "Jennifer Aniston",
       "Matt LeBlanc",
-      "David Schwimmer (notable supporting figure)"
+      "David Schwimmer"
     ],
     "answer": 1,
     "d": 1
@@ -7721,7 +7721,7 @@
     "options": [
       "Pathological gambling and sports betting debts",
       "Compulsive shopping and luxury car hoarding",
-      "Severe alcohol and prescription opioid (Vicodin) addictions during the series run",
+      "Severe alcohol",
       "Addiction to performance-enhancing steroids"
     ],
     "answer": 2,
@@ -7745,7 +7745,7 @@
     "options": [
       "They immediately destroyed the sets with sledgehammers",
       "They took an overnight chartered flight to Las Vegas",
-      "They sat together on the Central Perk orange sofa drinking champagne and weeping",
+      "They sat together on the Central Perk orange sofa drinking champagne",
       "They hosted a live televised press conference from Stage 24"
     ],
     "answer": 2,
@@ -7755,8 +7755,8 @@
     "show": "Friends",
     "q": "Who threw the lavish official farewell wrap party for the cast and crew in February 2004?",
     "options": [
-      "Warner Bros. and executive producers at the Park Hyatt in Century City",
-      "Brad Pitt and Jennifer Aniston at their Beverly Hills estate (introduced during the storyline)",
+      "Warner Bros.",
+      "Brad Pitt and Jennifer Aniston at their Beverly Hills estate",
       "NBC at the Rainbow Room in New York City",
       "James Burrows at Caesar's Palace in Las Vegas"
     ],
@@ -7769,7 +7769,7 @@
     "options": [
       "U2",
       "Bruce Springsteen",
-      "The Rembrandts and Sheryl Crow",
+      "The Rembrandts",
       "Coldplay"
     ],
     "answer": 2,
@@ -7780,7 +7780,7 @@
     "q": "What did the six cast members add to their contracts in Season 7 ensuring their equal treatment in marketing?",
     "options": [
       "A clause banning solo television commercials",
-      "Contractual clauses requiring that all promotional posters and magazine covers feature all six equally",
+      "Contractual clauses requiring that all promotional posters",
       "A guarantee of equal dialogue line counts per script",
       "A veto over any guest star castings"
     ],
@@ -7815,7 +7815,7 @@
     "show": "Friends",
     "q": "How many total times did the cast of Friends appear on the cover of Rolling Stone magazine during the show's run?",
     "options": [
-      "3 times (1995, 1999, and 2004)",
+      "3 times",
       "Only once in 1995",
       "5 times",
       "7 times"
@@ -7827,10 +7827,10 @@
     "show": "Friends",
     "q": "What real-life romance blossomed on set between a cast member and an executive producer or guest star in Season 4?",
     "options": [
-      "Matthew Perry dated guest star Paget Brewster (Kathy) briefly off-screen",
-      "David Schwimmer dated Helen Baxendale (Emily)",
-      "Matt LeBlanc dated Elle Macpherson (Janine)",
-      "Courteney Cox dated Michael Vartan (Timothy Burke)"
+      "Matthew Perry dated guest star Paget Brewster briefly off-screen",
+      "David Schwimmer dated Helen Baxendale",
+      "Matt LeBlanc dated Elle Macpherson",
+      "Courteney Cox dated Michael Vartan"
     ],
     "answer": 0,
     "d": 3
@@ -7840,7 +7840,7 @@
     "q": "What did Jennifer Aniston and David Schwimmer reveal during the 2021 reunion special about their Season 1 dynamic?",
     "options": [
       "They secretly dated for two months before the pilot aired",
-      "They had a huge mutual crush on each other but never acted on it because one of them was always in a relationship",
+      "They had a huge mutual crush on each other but never acted on it",
       "They actively disliked each other during the first few table reads",
       "They originally planned to buy a shared house together in Burbank"
     ],
@@ -7852,7 +7852,7 @@
     "q": "Where did David Schwimmer and Jennifer Aniston say they channeled all their mutual romantic feelings and adoration?",
     "options": [
       "Into late-night phone conversations during hiatus",
-      "Directly into Ross and Rachel's on-screen romance and first kiss at Central Perk",
+      "Directly into Ross",
       "Into writing song lyrics together",
       "Into coaching each other on other dates"
     ],
@@ -7863,10 +7863,10 @@
     "show": "Friends",
     "q": "Which cast member was the youngest of the six leads when the series debuted in September 1994?",
     "options": [
-      "Jennifer Aniston and Matthew Perry (both 25 years old)",
-      "Matt LeBlanc (27)",
-      "Courteney Cox (30)",
-      "David Schwimmer (27)"
+      "Jennifer Aniston",
+      "Matt LeBlanc",
+      "Courteney Cox",
+      "David Schwimmer"
     ],
     "answer": 0,
     "d": 2
@@ -7875,10 +7875,10 @@
     "show": "Friends",
     "q": "Which cast member was the oldest of the six leads when the pilot premiered in 1994?",
     "options": [
-      "Courteney Cox (30)",
-      "David Schwimmer (27) (referenced by the characters)",
-      "Matt LeBlanc (27)",
-      "Lisa Kudrow (31 years old)"
+      "Courteney Cox",
+      "David Schwimmer",
+      "Matt LeBlanc",
+      "Lisa Kudrow"
     ],
     "answer": 3,
     "d": 2
@@ -7925,7 +7925,7 @@
     "options": [
       "Quinoa, dried cranberries, goat cheese, and walnuts",
       "Brown rice, grilled shrimp, avocado, and almonds",
-      "Bulgur wheat, diced cucumber, chickpeas, feta cheese, and chopped pistachios",
+      "Bulgur wheat",
       "Couscous, sun-dried tomatoes, pine nuts, and parmesan"
     ],
     "answer": 2,
@@ -7949,7 +7949,7 @@
     "options": [
       "Her father guest-starred as Joey's doctor",
       "Her father directed Joey's audition scenes",
-      "John Aniston starred on 'Days of Our Lives' for decades, the exact soap opera Joey joins",
+      "John Aniston starred on 'Days of Our Lives' for decades",
       "Her father played Dr. Drake Ramoray's father on TV"
     ],
     "answer": 2,
@@ -8008,7 +8008,7 @@
     "q": "What scientific research did Lisa Kudrow conduct with her physician father Dr. Lee Kudrow prior to acting?",
     "options": [
       "Cardiovascular response to high-altitude exercise",
-      "A clinical study on hemispheric brain dominance and cluster headaches",
+      "A clinical study on hemispheric brain dominance",
       "Genetic sequencing of botanical pathogens",
       "Pediatric cognitive developmental milestones"
     ],
@@ -8031,7 +8031,7 @@
     "show": "Friends",
     "q": "Which cast member co-founded the Lookingglass Theatre Company in Chicago in 1988?",
     "options": [
-      "Matthew Perry (notable supporting figure)",
+      "Matthew Perry",
       "David Schwimmer",
       "Matt LeBlanc",
       "Courteney Cox"
@@ -8055,7 +8055,7 @@
     "show": "Friends",
     "q": "What music video for Bruce Springsteen did Courteney Cox famously star in in 1984, dancing on stage?",
     "options": [
-      "\"Born in the U.S.A. (full televised quote)\"",
+      "\"Born in the U.S.A.\"",
       "\"Dancing in the Dark\"",
       "\"Glory Days\"",
       "\"I'm on Fire\""
@@ -8094,7 +8094,7 @@
       "'I Know What You Did Last Summer'",
       "'Halloween'",
       "'A Nightmare on Elm Street'",
-      "'Scream' (Scream 1, 2, and 3)"
+      "'Scream'"
     ],
     "answer": 3,
     "d": 1
@@ -8163,7 +8163,7 @@
     "show": "Friends",
     "q": "What hit film comedy did Matthew Perry star in alongside Bruce Willis in 2000 during the show's run?",
     "options": [
-      "'The Whole Ten Yards (complete uncut dialogue line)'",
+      "'The Whole Ten Yards'",
       "'Fools Rush In'",
       "'Three to Tango'",
       "'The Whole Nine Yards'"
@@ -8189,7 +8189,7 @@
     "options": [
       "'Picture Perfect'",
       "'She's the One'",
-      "'Along Came Polly (full televised quote)'",
+      "'Along Came Polly'",
       "'The Object of My Affection'"
     ],
     "answer": 3,
@@ -8212,7 +8212,7 @@
     "q": "What cult classic 1999 workplace satire comedy by Mike Judge featured Jennifer Aniston wearing flare buttons at Chotchkie's?",
     "options": [
       "'Clerks'",
-      "'Waiting... (full televised quote)'",
+      "'Waiting...'",
       "'Office Space'",
       "'Extract'"
     ],
@@ -8274,7 +8274,7 @@
       "Willis bet Perry couldn't beat him in ping-pong",
       "Willis bet that Friends would not win the Emmy for Best Comedy",
       "Willis bet Perry couldn't run a marathon in under four hours",
-      "Willis bet that the movie would not open at #1 at the box office; if it did, Willis would guest-star on Friends for free"
+      "Willis bet that the movie would not open at #1 at the box office"
     ],
     "answer": 3,
     "d": 1
@@ -8283,7 +8283,7 @@
     "show": "Friends",
     "q": "What did Bruce Willis do with his SAG acting salary earned from guest starring on Friends after losing the bet?",
     "options": [
-      "He donated the entire paycheck to multiple children's and AIDS charities",
+      "He donated the entire paycheck to multiple children's",
       "He bought a motorcycle for Matthew Perry",
       "He paid for the Friends crew wrap party",
       "He bought a round of drinks for the live studio audience"
@@ -8297,7 +8297,7 @@
     "options": [
       "They were invited months in advance by director James Burrows",
       "They won a charity auction bid to appear on the show",
-      "They were shooting a movie on an adjacent Warner Bros. soundstage and agreed to an entirely improvised walk-on",
+      "They were shooting a movie on an adjacent Warner Bros. soundstage",
       "They were promoting a joint stand-up comedy television special"
     ],
     "answer": 2,
@@ -8319,10 +8319,10 @@
     "show": "Friends",
     "q": "How much of Robin Williams and Billy Crystal's dialogue on the Central Perk couch was written in the script?",
     "options": [
-      "Every line was scripted word-for-word by David Crane (referenced by the characters)",
+      "Every line was scripted word-for-word by David Crane",
       "Only Robin Williams's lines were improvised",
       "Only the final punchline was scripted",
-      "None of it; their entire scene was 100% improvised on the spot"
+      "None of it"
     ],
     "answer": 3,
     "d": 1
@@ -8333,8 +8333,8 @@
     "options": [
       "Prince Harry",
       "Zara Phillips",
-      "Sophie, Countess of Wessex (referenced by the characters)",
-      "Sarah Ferguson, Duchess of York"
+      "Sophie, Countess of Wessex",
+      "Sarah Ferguson"
     ],
     "answer": 3,
     "d": 2
@@ -8346,7 +8346,7 @@
       "Cindy Crawford",
       "Naomi Campbell",
       "Linda Evangelista",
-      "No supermodel appeared; Jill Goodacre and Elle Macpherson appeared in other episodes"
+      "No supermodel appeared"
     ],
     "answer": 3,
     "d": 3
@@ -8357,7 +8357,7 @@
     "options": [
       "Anthony Edwards",
       "George Clooney",
-      "Noah Wyle (appeared alongside Clooney)",
+      "Noah Wyle",
       "Julianna Margulies"
     ],
     "answer": 1,
@@ -8391,7 +8391,7 @@
     "show": "Friends",
     "q": "How did Matthew Perry persuade Julia Roberts to make her guest appearance in 'The One After the Superbowl'?",
     "options": [
-      "She demanded he write her a paper on quantum physics, which he faxed to her with flirty notes",
+      "She demanded he write her a paper on quantum physics",
       "He sent three dozen red roses every day for two weeks",
       "He promised to appear in her next romantic comedy for free",
       "He cooked her dinner at his apartment in Manhattan"
@@ -8417,7 +8417,7 @@
     "options": [
       "A blunt, chin-length asymmetric bob with micro-bangs",
       "Long, flowing beach waves with dark lowlights",
-      "Heavily layered, square, face-framing shaggy layers with blonde highlights",
+      "Heavily layered",
       "A sleek, straightened pixie crop"
     ],
     "answer": 2,
@@ -8428,7 +8428,7 @@
     "q": "What did Jennifer Aniston famously confess to Allure magazine in 2011 regarding 'The Rachel' hairstyle?",
     "options": [
       "She considered it the proudest aesthetic achievement of her career",
-      "She thought it was 'the ugliest haircut I've ever seen' and a nightmare to style",
+      "She thought it was 'the ugliest haircut I've ever seen'",
       "She secretly wore a wig because her natural hair was damaged",
       "She copyrighted the haircut name to earn royalties from salons"
     ],
@@ -8454,7 +8454,7 @@
       "\"The Pilot\"",
       "\"The One with the Blackout\"",
       "\"The One Where Rachel Finds Out\"",
-      "\"The One with the Evil Orthodontist\" (Season 1, Episode 19/20)"
+      "\"The One with the Evil Orthodontist\""
     ],
     "answer": 3,
     "d": 3
@@ -8465,7 +8465,7 @@
     "options": [
       "\"Ghosting\"",
       "\"Catfishing\"",
-      "\"Binge-watching (delivered with dramatic comedic emphasis)\"",
+      "\"Binge-watching\"",
       "\"The Friend Zone\""
     ],
     "answer": 3,
@@ -8476,7 +8476,7 @@
     "q": "What specific phrase did Joey utter when diagnosing Ross's romantic predicament with Rachel in Season 1?",
     "options": [
       "\"You're the mayor of the friend zone!\"",
-      "\"You've been locked in the buddy box! (full televised quote)\"",
+      "\"You've been locked in the buddy box!\"",
       "\"You're stuck in brother territory!\"",
       "\"You're stranded on platonic island!\""
     ],
@@ -8499,7 +8499,7 @@
     "show": "Friends",
     "q": "What intensifying adverb did the characters frequently use that linguists noted surged in American youth speech during the 1990s?",
     "options": [
-      "Using \"so\" to modify negative or prepositional clauses (\"That is so not true\")",
+      "Using \"so\" to modify negative",
       "Using \"totally\" before every adjective",
       "Using \"wicked\" as a quantifier",
       "Using \"mega\" before verbs"
@@ -8525,7 +8525,7 @@
     "options": [
       "A brilliant troupe of modern comedic geniuses",
       "An aristocratic collection of Broadway refugees",
-      "A dangerous influence on American high schoolers displayed prominently on screen",
+      "A dangerous influence on American high schoolers",
       "A mindless, whiny group of twentysomething slackers"
     ],
     "answer": 3,
@@ -8536,7 +8536,7 @@
     "q": "What grade did Entertainment Weekly critic Ken Tucker award the debut season of Friends in autumn 1994?",
     "options": [
       "B+",
-      "A+ (referenced by the characters)",
+      "A+",
       "C-",
       "F"
     ],
@@ -8571,7 +8571,7 @@
     "show": "Friends",
     "q": "Why did two-time Oscar winner Sean Penn agree to guest-star as Eric, Ursula Buffay's fiancé, in Season 8?",
     "options": [
-      "His children were enormous fans of Friends and begged him to appear on the show",
+      "His children were enormous fans of Friends",
       "He lost a bet with director James Burrows",
       "He wanted to promote an independent drama film",
       "He was close childhood friends with Matthew Perry"
@@ -8669,7 +8669,7 @@
     "options": [
       "He was terrified of her character's pet cat",
       "He couldn't stop giggling at her hairstyle",
-      "He had such an overwhelming crush on her that he constantly forgot his lines and froze",
+      "He had such an overwhelming crush on her that he constantly forgot his lines",
       "He refused to eat any of the studio cookies"
     ],
     "answer": 2,
@@ -8705,7 +8705,7 @@
     "options": [
       "Katy Perry",
       "Taylor Swift",
-      "Selena Gomez (notable supporting figure)",
+      "Selena Gomez",
       "Lady Gaga"
     ],
     "answer": 1,
@@ -8730,7 +8730,7 @@
       "Rachel's cheerleading outfit",
       "Monica's chef coat",
       "Phoebe's Supergirl costume",
-      "Ross's tight black leather pants and button-up shirt"
+      "Ross's tight black leather pants"
     ],
     "answer": 3,
     "d": 1
@@ -8741,7 +8741,7 @@
     "options": [
       "Monica's Catwoman suit",
       "Phoebe's bridal gown",
-      "Rachel's Pepto-Bismol pink puffy bridesmaid dress (and the Holiday Armadillo)",
+      "Rachel's Pepto-Bismol pink puffy bridesmaid dress",
       "Joey's gladiator armor"
     ],
     "answer": 2,
@@ -8763,9 +8763,9 @@
     "show": "Friends",
     "q": "Which BTS member specifically credited watching Friends on DVD with helping him learn to speak fluent English?",
     "options": [
-      "RM (Kim Nam-joon)",
+      "RM",
       "Jimin",
-      "Jungkook (featured in original broadcast)",
+      "Jungkook",
       "V"
     ],
     "answer": 0,
@@ -8775,7 +8775,7 @@
     "show": "Friends",
     "q": "Which Nobel Peace Prize laureate appeared in 'Friends: The Reunion' to profess her love for the comedy?",
     "options": [
-      "Greta Thunberg (frequent social acquaintance)",
+      "Greta Thunberg",
       "Malala Yousafzai",
       "Nadia Murad",
       "Shirin Ebadi"
@@ -8799,7 +8799,7 @@
     "show": "Friends",
     "q": "What official toy building-block brand released a massive, highly successful Central Perk set in 2019?",
     "options": [
-      "LEGO (LEGO Ideas Central Perk Set 21319)",
+      "LEGO",
       "Mega Bloks",
       "Playmobil",
       "K'NEX"
@@ -8813,7 +8813,7 @@
     "options": [
       "The Central Perk Outdoor Fountain Set",
       "The Ross's Paleontology Museum Set",
-      "The Friends Apartments Set (featuring both Monica/Rachel's and Joey/Chandler's apartments)",
+      "The Friends Apartments Set",
       "The Las Vegas Wedding Chapel Set"
     ],
     "answer": 2,
@@ -8823,7 +8823,7 @@
     "show": "Friends",
     "q": "In celebration of the show's 20th anniversary in September 2014, where did Warner Bros. open an authentic pop-up Central Perk?",
     "options": [
-      "SoHo, Manhattan in New York City (Lafayette Street)",
+      "SoHo, Manhattan in New York City",
       "Times Square, Manhattan",
       "Greenwich Village on Bedford Street",
       "Rockefeller Center"
@@ -8848,7 +8848,7 @@
     "q": "How did actor James Michael Tyler originally land the background role of Gunther in Season 1?",
     "options": [
       "He was a cousin of director James Burrows",
-      "He was the only extra on set who knew how to operate an authentic espresso machine",
+      "He was the only extra on set",
       "He had auditioned for Ross and was offered a consolation role",
       "He was the personal assistant to producer Marta Kauffman"
     ],
@@ -8859,7 +8859,7 @@
     "show": "Friends",
     "q": "How many episodes did Gunther appear in before he was given his very first line of spoken dialogue?",
     "options": [
-      "33 episodes (he finally spoke in Season 2, saying \"Yeah\")",
+      "33 episodes",
       "5 episodes",
       "12 episodes",
       "50 episodes"
@@ -8884,7 +8884,7 @@
     "q": "Why was James Michael Tyler's hair bleached bright platinum blonde the day before he was cast as Gunther?",
     "options": [
       "He was auditioning for a punk-rock music video",
-      "An acquaintance who was an aspiring hairstylist used him as a guinea pig to practice bleaching hair",
+      "An acquaintance",
       "He did it on a dare at a college fraternity party",
       "He tried to dye his hair silver for a science fiction role"
     ],
@@ -8897,7 +8897,7 @@
     "options": [
       "October 24, 2021",
       "August 15, 2020",
-      "December 1, 2021 (as described in the episode)",
+      "December 1, 2021",
       "January 14, 2022"
     ],
     "answer": 0,
@@ -8921,7 +8921,7 @@
     "options": [
       "'Could I BE Any Prouder?'",
       "'Life on Stage 24'",
-      "'Friends, Lovers, and the Big Terrible Thing'",
+      "'Friends, Lovers,",
       "'The Boy with the Wit'"
     ],
     "answer": 2,
@@ -8944,7 +8944,7 @@
     "q": "What was the title of the multi-city interactive fan exhibition launched by Warner Bros. in 2019 featuring full set replicas?",
     "options": [
       "'Central Perk Live Tour'",
-      "'The FRIENDS Experience' (The One in New York)",
+      "'The FRIENDS Experience'",
       "'The Ultimate Friends Museum'",
       "'Must See Exhibition'"
     ],
@@ -8958,7 +8958,7 @@
       "'Monica's Clean House Manual'",
       "'Joey's Cookbook for Pizza Lovers'",
       "'Phoebe's Guitar Tablature Collection'",
-      "'Friends: The Official Advent Calendar' and 'Friends: The Official Recipe Book'"
+      "'Friends: The Official Advent Calendar'"
     ],
     "answer": 3,
     "d": 3
@@ -8991,9 +8991,9 @@
     "show": "Friends",
     "q": "What major UK city is home to a permanent replica of Central Perk located inside a Primark flagship store?",
     "options": [
-      "Edinburgh",
+      "Edinburgh, Scotland",
       "Glasgow",
-      "Manchester (and later Birmingham)",
+      "Manchester",
       "Cardiff"
     ],
     "answer": 2,
@@ -9029,7 +9029,7 @@
     "options": [
       "Jerry Stiller",
       "Carl Reiner",
-      "No uncle Ellis appeared; Aunt Syl and Nana Althea were their featured relatives",
+      "No uncle Ellis appeared",
       "Bob Newhart"
     ],
     "answer": 2,
@@ -9075,7 +9075,7 @@
     "show": "Friends",
     "q": "What iconic slow-motion hair flip song plays whenever cousin Cassie shakes out her hair in front of the mesmerized characters?",
     "options": [
-      "\"I Want You to Want Me\" by Cheap Trick (or Barry White's sensual soul music)",
+      "\"I Want You to Want Me\" by Cheap Trick",
       "\"Careless Whisper\" by George Michael",
       "\"Let's Get It On\" by Marvin Gaye",
       "\"Fever\" by Peggy Lee"
@@ -9090,7 +9090,7 @@
       "Tate Donovan",
       "Michael Vartan",
       "Guest star performer Dermot Mulroney",
-      "Eddie Cahill (male actor)"
+      "Eddie Cahill"
     ],
     "answer": 3,
     "d": 1
@@ -9114,7 +9114,7 @@
       "They were secretly engaged and married shortly after",
       "They had never met before the first table read",
       "They were college sweethearts from New York",
-      "They had just broken off their real-life engagement after dating for two years"
+      "They had just broken off their real-life engagement"
     ],
     "answer": 3,
     "d": 1
@@ -9126,7 +9126,7 @@
       "\"It was completely hilarious and brought us back together.\"",
       "\"We refused to speak to each other off camera.\"",
       "\"The director had to use body doubles for our kisses.\"",
-      "\"It was really tough... we were breaking up and the show was having us fall in love.\""
+      "\"It was really tough... we were breaking up\""
     ],
     "answer": 3,
     "d": 2
@@ -9219,7 +9219,7 @@
     "show": "Friends",
     "q": "How many of the ten seasons of Friends did Maggie Wheeler's character Janice appear in?",
     "options": [
-      "All ten seasons (at least one episode per season)",
+      "All ten seasons",
       "Only the first five seasons",
       "Eight seasons",
       "Six seasons"
@@ -9315,7 +9315,7 @@
     "show": "Friends",
     "q": "How many affiliate stations across the United States refused to broadcast the lesbian wedding episode in 1996?",
     "options": [
-      "Two affiliate stations (in Ohio and Texas)",
+      "Two affiliate stations",
       "Zero affiliates; all aired it without objection",
       "Over twenty-five affiliates",
       "Nearly half of all Southern affiliates"
@@ -9364,7 +9364,7 @@
     "q": "What minor background role did Giovanni Ribisi play in Season 2 before being cast as Frank Buffay Jr.?",
     "options": [
       "A customer ordering a muffin from Gunther",
-      "A stranger who drops a condom into Phoebe's guitar case outside Central Perk",
+      "A stranger",
       "A man reading a newspaper on the subway",
       "A laundromat patron who takes Rachel's cart"
     ],
@@ -9401,7 +9401,7 @@
     "options": [
       "David Schwimmer",
       "Adam Goldberg",
-      "Kip is never shown on screen; he is only discussed by the group",
+      "Kip is never shown on screen",
       "Hank Azaria"
     ],
     "answer": 2,
@@ -9411,9 +9411,9 @@
     "show": "Friends",
     "q": "Which actor portrayed Ross's double 'Russ' in Season 2, who dates Rachel briefly?",
     "options": [
-      "David Schwimmer (under the pseudonym Snaro)",
+      "David Schwimmer",
       "Matthew Perry in a wig",
-      "A professional David Schwimmer lookalike (featured in original broadcast)",
+      "A professional David Schwimmer lookalike",
       "David Schwimmer's real-life brother"
     ],
     "answer": 0,
@@ -9424,7 +9424,7 @@
     "q": "Which iconic late-night host made a guest cameo in Season 7's 'The One with the Cheap Wedding Dress' as himself?",
     "options": [
       "David Letterman",
-      "Jay Leno appeared in Season 1; Regis Philbin appeared in Season 7",
+      "Jay Leno appeared in Season 1",
       "Conan O'Brien",
       "Craig Kilborn"
     ],
@@ -9447,7 +9447,7 @@
     "show": "Friends",
     "q": "Why was Conan O'Brien sitting as an extra in Central Perk in Season 9?",
     "options": [
-      "He won an NBC charity auction and chose to sit silently in the background as an extra",
+      "He won an NBC charity auction",
       "He was visiting the set while shooting late-night promos",
       "He was filling in for an actor who missed his call",
       "He wanted to surprise his friend Lisa Kudrow"
@@ -9474,7 +9474,7 @@
       "She had creative clashes with David Schwimmer",
       "She was cast as the lead in a major Hollywood feature",
       "Network executives disliked her British accent",
-      "Helen Baxendale became pregnant in real life and could not travel between England and the US"
+      "Helen Baxendale became pregnant in real life"
     ],
     "answer": 3,
     "d": 2
@@ -9546,7 +9546,7 @@
       "Winona Ryder",
       "Christina Applegate",
       "Paget Brewster",
-      "Denise is never seen on screen; Phoebe only shouts 'I talk about her all the time! DENISE!'"
+      "Denise is never seen on screen"
     ],
     "answer": 3,
     "d": 2
@@ -9568,7 +9568,7 @@
     "q": "Why did David Schwimmer notoriously dislike working with Katie the capuchin monkey on set?",
     "options": [
       "The monkey bit his finger during a rehearsal",
-      "The monkey threw live mealworms at him and required endless repetitive takes that ruined comedic timing",
+      "The monkey threw live mealworms at him",
       "The monkey had an allergic reaction to studio lights",
       "The animal trainer demanded higher pay than the actors"
     ],
@@ -9581,7 +9581,7 @@
     "options": [
       "The Budweiser Super Bowl frogs",
       "The Geico gecko campaign",
-      "The 1995 Taco Bell commercial campaign (and Rally's commercials)",
+      "The 1995 Taco Bell commercial campaign",
       "The Energizer bunny ads"
     ],
     "answer": 2,

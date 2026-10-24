@@ -4,7 +4,7 @@
     "q": "For which national business publication did Ann Zimmerman spend over a decade covering retail and major corporate investigations?",
     "options": [
       "The Wall Street Journal",
-      "The New York Times (national daily broadsheet newspaper)",
+      "The New York Times",
       "Financial Times",
       "Bloomberg Businessweek"
     ],
@@ -53,7 +53,7 @@
     "options": [
       "Walmart",
       "Target",
-      "Kmart (historic big-box retailer operated by S.S. Kresge)",
+      "Kmart",
       "Sears"
     ],
     "answer": 0,
@@ -63,7 +63,7 @@
     "show": "A. Zimmerman, Reporter-at-Large!",
     "q": "In a landmark 2005 investigative series co-authored with James Bandler, Zimmerman uncovered corporate fraud and expense abuse involving which former Walmart vice chairman?",
     "options": [
-      "H. Lee Scott (former Walmart CEO and corporate board executive)",
+      "H. Lee Scott",
       "Tom Coughlin",
       "David Glass",
       "Lee Scott"
@@ -221,7 +221,7 @@
     "options": [
       "Blockchain ledger tracking",
       "Biometric fingerprint verification",
-      "RFID (Radio-Frequency Identification) tags",
+      "RFID tags",
       "QR code scanning systems across retail store operations nationwide"
     ],
     "answer": 2,
@@ -483,7 +483,7 @@
     "show": "A. Zimmerman, Reporter-at-Large!",
     "q": "Zimmerman covered the 2005 leveraged buyout of Neiman Marcus by which private equity groups?",
     "options": [
-      "Warburg Pincus and Texas Pacific Group (TPG)",
+      "Warburg Pincus and Texas Pacific Group",
       "Blackstone and Carlyle Group",
       "KKR and Bain Capital across regional distribution centers and big-box stores",
       "Apollo Global Management"
@@ -642,7 +642,7 @@
       "Nelson Peltz",
       "Edward Lampert",
       "Carl Icahn",
-      "Bill Ackman (activist hedge fund manager and corporate turnaround investor)"
+      "Bill Ackman"
     ],
     "answer": 1,
     "d": 2
@@ -832,7 +832,7 @@
     "q": "Zimmerman reported on how big-box retailers utilized \"planograms\" to:",
     "options": [
       "Map local competitor pricing via satellite imaging",
-      "Dictate exact, centimeter-by-centimeter product placement on store shelves nationwide",
+      "Dictate exact",
       "Schedule construction blueprints for underground storm shelters",
       "Plot regional delivery truck driving routes to avoid highway tolls"
     ],
@@ -867,7 +867,7 @@
     "show": "A. Zimmerman, Reporter-at-Large!",
     "q": "In reporting on the pharmacy sector, Zimmerman covered how retailers used prescription refills to:",
     "options": [
-      "Drive regular, recurring foot traffic into the back of the store past high-margin merchandise",
+      "Drive regular",
       "Fund their charitable philanthropic foundations",
       "Eliminate the need for customer loyalty credit programs",
       "Cross-subsidize international shipping costs"
@@ -915,7 +915,7 @@
     "show": "A. Zimmerman, Reporter-at-Large!",
     "q": "Zimmerman explored how retail landlords and mall operators responded to big-box department store closures by:",
     "options": [
-      "Subdividing massive anchor spaces for gyms, movie theaters, and restaurants",
+      "Subdividing massive anchor spaces for gyms",
       "Converting entire malls into light-industrial manufacturing facilities",
       "Tearing down buildings to create municipal surface parking lots",
       "Operating their own unbranded clothing liquidation centers"
@@ -928,7 +928,7 @@
     "q": "In her investigative pieces for the Dallas Observer, what kind of stories did Zimmerman develop a strong reputation for?",
     "options": [
       "Architecture and luxury interior design features",
-      "Deeply reported local profiles, social justice investigations, and systemic civic issues",
+      "Deeply reported local profiles",
       "Hollywood celebrity gossip and film reviews",
       "High school sports play-by-play commentary"
     ],
@@ -1002,7 +1002,7 @@
       "Canadian customs refusing to allow American brands into the country",
       "Complete rejection of credit card payments by Canadian banks",
       "A national boycott initiated by Canadian apparel unions",
-      "Severe supply chain and inventory system failures leading to widespread empty shelves"
+      "Severe supply chain"
     ],
     "answer": 3,
     "d": 3
@@ -1011,7 +1011,7 @@
     "show": "A. Zimmerman, Reporter-at-Large!",
     "q": "In Zimmerman’s coverage of retail earnings calls, which key financial metric did she consistently highlight as the purest gauge of a retailer’s operational health?",
     "options": [
-      "Same-store sales (comparable-store sales)",
+      "Same-store sales",
       "Total gross floor space square footage",
       "Total count of active employee badges",
       "Gross number of physical retail doors opened in a calendar year"
@@ -1024,7 +1024,7 @@
     "q": "When reporting on seasonal inventory overhang, Zimmerman explained how excess unsold merchandise was offloaded to off-price retailers such as:",
     "options": [
       "Best Buy and RadioShack",
-      "The TJX Companies (T.J. Maxx, Marshalls) and Ross Stores",
+      "The TJX Companies",
       "Nordstrom and Saks Fifth Avenue",
       "Sears and Kmart"
     ],
@@ -1050,7 +1050,7 @@
       "High-margin designer luxury into cheap military rations",
       "Regulated prescription medicines into over-the-counter vitamins",
       "Store giveaways into employee-only perks",
-      "Plain generic white boxes into premium, high-margin gourmet brands"
+      "Plain generic white boxes into premium"
     ],
     "answer": 3,
     "d": 3
@@ -1059,7 +1059,7 @@
     "show": "A. Zimmerman, Reporter-at-Large!",
     "q": "When covering consumer shopping patterns during natural disasters (like Gulf Coast hurricanes), Zimmerman reported on Walmart’s sophisticated logistics that tracked demand for:",
     "options": [
-      "Bottled water, flashlights, batteries, and strawberry Pop-Tarts",
+      "Bottled water",
       "Luxury camping tents and portable espresso machines",
       "High-end fishing rods and outboard boat motors",
       "Formal rainwear and umbrella stands"
@@ -1098,7 +1098,7 @@
       "Autonomous humanoid delivery couriers",
       "Underground pneumatic parcel tube networks",
       "Helicopter drop-offs directly into backyards",
-      "Free two-day shipping and same-day in-store pickup (\"click-and-collect\")"
+      "Free two-day shipping"
     ],
     "answer": 3,
     "d": 3
@@ -1107,7 +1107,7 @@
     "show": "A. Zimmerman, Reporter-at-Large!",
     "q": "Zimmerman reported on how department stores responded to declining foot traffic in suburban shopping malls by:",
     "options": [
-      "Opening \"off-the-mall\" locations in open-air lifestyle centers and power strips",
+      "Opening \"off-the-mall\" locations in open-air lifestyle centers",
       "Merging into single megastores containing twelve competing brands",
       "Removing all exterior windows and doors",
       "Converting upper floors into high-density poultry farms"
@@ -1133,7 +1133,7 @@
     "options": [
       "Regional truck drivers and store security staff",
       "Cashiers and visual window merchandisers",
-      "Ivy League financial executives in corporate suites and store managers who rose through the stockrooms",
+      "Ivy League financial executives in corporate suites",
       "East Coast logistics engineers and West Coast software coders"
     ],
     "answer": 2,
@@ -1146,7 +1146,7 @@
       "Endcap surcharges",
       "Pallet penalties",
       "Gondola taxes",
-      "Slotting fees (slotting allowances)"
+      "Slotting fees"
     ],
     "answer": 3,
     "d": 3
@@ -1155,7 +1155,7 @@
     "show": "A. Zimmerman, Reporter-at-Large!",
     "q": "Zimmerman covered how big-box retailers handled post-holiday returns and unsellable merchandise by:",
     "options": [
-      "Auctioning off truckloads of returned goods to liquidation brokers and salvage resellers",
+      "Auctioning off truckloads of returned goods to liquidation brokers",
       "Incinerating all open items in on-site store incinerators",
       "Donating 100% of opened consumer electronics directly to public libraries",
       "Shipping unsold items back to factories in Asia for complete remanufacturing"
@@ -1168,7 +1168,7 @@
     "q": "In her reporting on the transformation of American mass merchandisers, which classic storefront format did Zimmerman trace as the retail ancestor of modern discount chains?",
     "options": [
       "The catalog mail-order apothecary",
-      "The five-and-dime variety store (e.g., Woolworth's)",
+      "The five-and-dime variety store",
       "The high-end Parisian couture salon",
       "The rural general trading post"
     ],
@@ -1179,10 +1179,10 @@
     "show": "A. Zimmerman, Reporter-at-Large!",
     "q": "In Zimmerman's coverage of labor organizing campaigns, which union was most active in attempting to organize Walmart retail and distribution workers?",
     "options": [
-      "Teamsters (IBT)",
-      "SEIU (Service Employees International Union)",
-      "UFCW (United Food and Commercial Workers)",
-      "UAW (United Auto Workers)"
+      "Teamsters",
+      "SEIU",
+      "UFCW",
+      "UAW"
     ],
     "answer": 2,
     "d": 3
@@ -1194,7 +1194,7 @@
       "Publishing speculative daily stock-trading picks and penny-stock investment newsletters",
       "Promoting corporate public relations campaigns for department store conglomerates",
       "Writing consumer guidebooks on international duty-free airport shopping",
-      "Groundbreaking investigative depth into corporate governance, retail supply chains, and the human impact of big-box economics"
+      "Groundbreaking investigative depth into corporate governance"
     ],
     "answer": 3,
     "d": 3

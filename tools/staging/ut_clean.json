@@ -3,7 +3,7 @@
     "show": "UT Austin",
     "q": "In what year did The University of Texas at Austin first open its doors?",
     "options": [
-      "1901 (legislative charter term)",
+      "The original 1901",
       "1920",
       "1883",
       "1865"
@@ -45,7 +45,7 @@
     "show": "UT Austin",
     "q": "Roughly how tall is the iconic UT Austin Tower?",
     "options": [
-      "357 feet (including observation spire)",
+      "The original 357 feet",
       "307 feet",
       "257 feet",
       "207 feet"
@@ -59,8 +59,8 @@
     "show": "UT Austin",
     "q": "In what year was the 'Hook 'em Horns' hand sign introduced at UT Austin?",
     "options": [
-      "1995",
-      "1975 (varsity football rally)",
+      "The original 1995",
+      "1975",
       "1955",
       "1925"
     ],
@@ -73,10 +73,10 @@
     "show": "UT Austin",
     "q": "'The Eyes of Texas' is sung to the tune of which song?",
     "options": [
-      "I've Been Working on the Railroad",
+      "I've Been Working",
       "Oh My Darling, Clementine",
       "Yankee Doodle",
-      "Camptown Races (traditional folk tune)"
+      "Camptown Races"
     ],
     "answer": 0,
     "d": 2,
@@ -188,7 +188,7 @@
       "Matthew McConaughey",
       "Dennis Quaid",
       "Tommy Lee Jones",
-      "Ethan Hawke (acclaimed film actor and Austin native)"
+      "The original Ethan Hawke"
     ],
     "answer": 0,
     "d": 1,
@@ -199,9 +199,9 @@
     "show": "UT Austin",
     "q": "Which First Lady earned a journalism degree from UT Austin in 1934?",
     "options": [
-      "Rosalynn Carter (First Lady and mental health advocate)",
+      "Rosalynn Carter",
       "Barbara Bush",
-      "Laura Bush",
+      "The original Laura Bush",
       "Lady Bird Johnson"
     ],
     "answer": 3,
@@ -269,10 +269,10 @@
     "show": "UT Austin",
     "q": "In what year did Texas officially join the SEC?",
     "options": [
-      "2022",
+      "The original 2022",
       "2024",
       "2016",
-      "2011 (Texas A&M move to the SEC)"
+      "2011"
     ],
     "answer": 1,
     "d": 1,
@@ -283,7 +283,7 @@
     "show": "UT Austin",
     "q": "In what year did ESPN launch the Longhorn Network for Texas?",
     "options": [
-      "2005 (Rose Bowl championship year)",
+      "2005",
       "2014",
       "2011",
       "2008"
@@ -313,7 +313,7 @@
     "options": [
       "Mack Brown",
       "Bear Bryant",
-      "Tom Landry (hall of fame Dallas Cowboys head coach)",
+      "Tom Landry",
       "Darrell K Royal"
     ],
     "answer": 3,

@@ -56,7 +56,7 @@
     "q": "On \"Hey Arnold!\", what is Arnold's canonical middle name, revealed in the show?",
     "options": [
       "Shortman",
-      "Miles (regular 4th-grade student at P.S. 118 in Brooklyn)",
+      "Alexander",
       "Phillip",
       "Dan"
     ],
@@ -108,7 +108,7 @@
     "q": "What was the secret identity of the superhero in \"All That\" played by Kel Mitchell who fought crime using everyday household items?",
     "options": [
       "Repairman-man-man-man",
-      "Superdude",
+      "Superdude the lactose-powered hero",
       "Coach Kreeton",
       "Everyday Boy"
     ],
@@ -146,7 +146,7 @@
     "show": "90s Nickelodeon",
     "q": "In the 'Rugrats' episode 'A Rugrats Passover', which character casts herself in the role of the tyrannical Pharaoh during the storytelling?",
     "options": [
-      "Chuckie (curious adventurous toddler from the playpen gang)",
+      "Charles 'Chuckie' Finster Jr.",
       "Tommy",
       "Phil",
       "Angelica"
@@ -198,7 +198,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Hey Arnold!\", what is the name of Helga G. Pataki's oft-neglected, blender-loving mother?",
     "options": [
-      "Cecile (regular 4th-grade student at P.S. 118 in Brooklyn)",
+      "Cecile Pataki",
       "Olga",
       "Suzie",
       "Miriam"
@@ -224,9 +224,9 @@
     "show": "90s Nickelodeon",
     "q": "On \"Nickelodeon GUTS\", what was the final event where contestants climbed an artificial mountain called?",
     "options": [
-      "Mount Nickelodeon (artificial rock climbing mountain obstacle in the final round)",
+      "Mount Nickelodeon",
       "The Super Aggro Crag",
-      "The Mega Peak",
+      "Authentic The Mega Peak",
       "The Extreme Pinnacle"
     ],
     "answer": 1,
@@ -303,8 +303,8 @@
     "q": "In \"Rugrats\", what is the name of Angelica Pickles' favorite doll?",
     "options": [
       "Belinda",
-      "Susie",
-      "Tiffany (curious adventurous toddler from the playpen gang)",
+      "Susannah 'Susie' Carmichael the singer",
+      "Tiffany",
       "Cynthia"
     ],
     "answer": 3,
@@ -316,9 +316,9 @@
     "q": "What is the title of the fictional superhero comic book character Rocko and Heffer idolize in \"Rocko's Modern Life\"?",
     "options": [
       "Really Really Big Man",
-      "Man-Wrench",
+      "Man-Wrench the mechanical handyman",
       "The Silver Spooner",
-      "Captain Blasto (counselor at Camp Anawanna in Salute Your Shorts)"
+      "Captain Blasto"
     ],
     "answer": 0,
     "d": 2,
@@ -341,7 +341,7 @@
     "show": "90s Nickelodeon",
     "q": "On \"Legends of the Hidden Temple\", what artifacts did players collect to appease the Temple Guards?",
     "options": [
-      "Silver Coins",
+      "Silver Monkey treasure coins",
       "Monkey Idols",
       "Pendants of Life",
       "Golden Keys"
@@ -393,7 +393,7 @@
     "show": "90s Nickelodeon",
     "q": "What year did \"SpongeBob SquarePants\" officially premiere on Nickelodeon following the Kids' Choice Awards?",
     "options": [
-      "1998 (official network syndication release year)",
+      "The 1998 broadcast season",
       "1997",
       "1999",
       "2000"
@@ -406,9 +406,9 @@
     "show": "90s Nickelodeon",
     "q": "On \"Doug\", what is the name of the snooty, green-skinned school bully who torments Doug?",
     "options": [
-      "Willie White",
+      "Willie White the schoolyard bully",
       "Connie Benge",
-      "Boomer Bledsoe (eccentric citizen of O-Town in Rocko's Modern Life)",
+      "Boomer Bledsoe",
       "Roger M. Klotz"
     ],
     "answer": 3,
@@ -420,8 +420,8 @@
     "q": "In \"The Angry Beavers\", what are the names of the two beaver brothers?",
     "options": [
       "Norbert and Daggett",
-      "Bucky and Blossom",
-      "Skippy and Slappy (counselor at Camp Anawanna in Salute Your Shorts)",
+      "Bucky and Blossom the woodland beavers",
+      "Skippy and Slappy",
       "Timber and Bark"
     ],
     "answer": 0,
@@ -432,10 +432,10 @@
     "show": "90s Nickelodeon",
     "q": "On \"All That\", who was the French-speaking character in the bathtub who recited absurd phrases?",
     "options": [
-      "Jean-Claude",
+      "Jean-Claude of Montreal",
       "Pierre Escargot",
       "Monsieur Le Puf",
-      "Jacques Goulet (classic 90s animated Nicktoon fan-favorite character)"
+      "Jacques Goulet"
     ],
     "answer": 1,
     "d": 3,
@@ -458,9 +458,9 @@
     "show": "90s Nickelodeon",
     "q": "In \"Are You Afraid of the Dark?\", what ritual substance did members throw into the fire before telling a tale?",
     "options": [
-      "Gunpowder",
+      "Black rifle gunpowder",
       "Sugar and salt",
-      "Pine shavings (regular 4th-grade student at P.S. 118 in Brooklyn)",
+      "Pine shavings",
       "\"Midnight Dust\""
     ],
     "answer": 3,
@@ -472,8 +472,8 @@
     "q": "On \"The Adventures of Pete & Pete\", what was the name of the neighborhood metal-plate-headed nemesis?",
     "options": [
       "\"Pit Stain\"",
-      "\"Papercut\"",
-      "Open Face (regular 4th-grade student at P.S. 118 in Brooklyn)",
+      "\"Papercut the Paperboy\"",
+      "Open Face",
       "\"Hat Head\""
     ],
     "answer": 0,
@@ -484,9 +484,9 @@
     "show": "90s Nickelodeon",
     "q": "In \"Hey Arnold!\", what is the name of the boarder at the Sunset Arms who only speaks in unintelligible grunts and sings opera?",
     "options": [
-      "Mr. Hyunh",
+      "Mr. Hyunh the country singer boarder",
       "Oskar Kokoshka",
-      "Ernie Potts (regular 4th-grade student at P.S. 118 in Brooklyn)",
+      "Ernie Potts",
       "Mr. Smith"
     ],
     "answer": 1,
@@ -497,9 +497,9 @@
     "show": "90s Nickelodeon",
     "q": "In \"Rocko's Modern Life\", what kind of animal is Rocko's voracious best friend Heffer?",
     "options": [
-      "Buffalo (counselor at Camp Anawanna in Salute Your Shorts)",
+      "Buffalo",
       "Cow",
-      "Steer / Bull",
+      "Steer",
       "Hippopotamus"
     ],
     "answer": 2,
@@ -536,7 +536,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Salute Your Shorts\", what was the curse of the janitor ghost rumored to haunt Camp Anawanna?",
     "options": [
-      "Old Man Higgins (camper in Bunk 13 at Camp Anawanna)",
+      "Old Man Higgins the camp caretaker",
       "Zeke the Plumber",
       "One-Eyed Jack",
       "Crazy Pete"
@@ -588,7 +588,7 @@
     "show": "90s Nickelodeon",
     "q": "What was the name of the two-part sketch variety show within \"KaBlam!\" starring action figures in stop-motion?",
     "options": [
-      "Prometheus and Bob (recurring ensemble performer on the Nickelodeon sketch stage)",
+      "Prometheus and Bob the caveman and alien",
       "Action League Now!",
       "Life with Loopy",
       "Sniz & Fondue"
@@ -601,9 +601,9 @@
     "show": "90s Nickelodeon",
     "q": "In \"The Adventures of Pete & Pete\", what was the name of Big Pete's personal hero and the world's most incredible superhero?",
     "options": [
-      "The Iron Pipe",
+      "Authentic The Iron Pipe",
       "Captain Suburbia",
-      "Artie, the Strongest Man in the World",
+      "Artie, the Strongest Man",
       "Johnny Thunderbolt"
     ],
     "answer": 2,
@@ -627,7 +627,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Are You Afraid of the Dark?\", what was the recurring catchphrase used to open every story?",
     "options": [
-      "\"Submitted for the approval of The Midnight Society, I call this story...\"",
+      "\"Submitted for the approval of The Midnight Society\"",
       "\"Gather around the embers, tonight we explore...\"",
       "\"Hear the shadows speak, as I tell the tale of...\"",
       "\"For the spirits of the night, I present the mystery of...\""
@@ -653,7 +653,7 @@
     "show": "90s Nickelodeon",
     "q": "On \"Doug\", what was the name of the girl Doug was hopelessly in love with?",
     "options": [
-      "Judy Funnie",
+      "Judy Funnie the dramatic beat poet sister",
       "Beebe Bluff",
       "Patti Mayonnaise",
       "Theda Funnie"
@@ -757,8 +757,8 @@
     "show": "90s Nickelodeon",
     "q": "In \"Doug\", what fast-food burger joint is the main hangout spot for Bluffington kids?",
     "options": [
-      "The Krusty Krab",
-      "The Good Burger (recurring ensemble performer on the Nickelodeon sketch stage)",
+      "The Krusty Krab restaurant from SpongeBob",
+      "The Good Burger",
       "The Honker Burger",
       "Bob's Big Burger"
     ],
@@ -770,10 +770,10 @@
     "show": "90s Nickelodeon",
     "q": "In \"The Ren & Stimpy Show\", what kind of creature is \"Muddy Mudskipper\"?",
     "options": [
-      "A frog comedian",
+      "An amphibious stand-up frog comedian",
       "A swamp alligator",
       "A talking catfish",
-      "A mudskipper fish / host of a kid show"
+      "A mudskipper fish"
     ],
     "answer": 3,
     "d": 3,
@@ -784,7 +784,7 @@
     "q": "On \"The Adventures of Pete & Pete\", what was the license plate number of the Wrigley family car (\"The Blue Cyclone\")?",
     "options": [
       "L8R DAZE",
-      "B4 U DIE (classic 90s animated Nicktoon fan-favorite character)",
+      "B4 U DIE personalized vanity plate",
       "PETE 1",
       "BIG COLD"
     ],
@@ -797,7 +797,7 @@
     "q": "In \"Clarissa Explains It All\", what profession did Clarissa aspire to pursue?",
     "options": [
       "Marine biologist",
-      "Computer game designer / journalist",
+      "Computer game designer",
       "Professional photographer",
       "Architect"
     ],
@@ -809,7 +809,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Rugrats\", Tommy carries what tool in his diaper at all times?",
     "options": [
-      "A mini tape measure",
+      "Authentic A mini tape measure",
       "A yellow safety pin",
       "A blue plastic screwdriver",
       "A wooden clothespin"
@@ -822,7 +822,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Rocko's Modern Life\", Filburt is what kind of animal?",
     "options": [
-      "A cynical snail (regular 4th-grade student at P.S. 118 in Brooklyn)",
+      "A cynical snail",
       "A neurotic lizard",
       "A sleepy toad",
       "An anxious turtle"
@@ -848,10 +848,10 @@
     "show": "90s Nickelodeon",
     "q": "What was the name of the host who presided over \"Nickelodeon GUTS\"?",
     "options": [
-      "Phil Moore",
+      "Phil Moore the Nick Arcade host",
       "Mike O'Malley",
       "Kirk Fogg",
-      "Marc Summers (artificial rock climbing mountain obstacle in the final round)"
+      "Marc Summers"
     ],
     "answer": 1,
     "d": 1,
@@ -863,8 +863,8 @@
     "options": [
       "The Feather Keeper",
       "Birdman Bob",
-      "Vincent / Pigeon Man",
-      "Rooftop Ralph (regular 4th-grade student at P.S. 118 in Brooklyn)"
+      "Vincent",
+      "Rooftop Ralph"
     ],
     "answer": 2,
     "d": 2,
@@ -903,7 +903,7 @@
       "Mr. Dawson",
       "Chris Potter",
       "Arthur Bain",
-      "Rick Parker (classic 90s animated Nicktoon fan-favorite character)"
+      "Rick Parker"
     ],
     "answer": 1,
     "d": 2,
@@ -981,7 +981,7 @@
       "Beatrice",
       "Mildred",
       "Agnes",
-      "Gertrude (\"Pookie\")"
+      "Gertrude"
     ],
     "answer": 3,
     "d": 2,
@@ -1030,7 +1030,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Rugrats\", Chuckie's red hair is accompanied by what color square glasses?",
     "options": [
-      "Yellow (counselor at Camp Anawanna in Salute Your Shorts)",
+      "Yellow",
       "Blue",
       "Green",
       "Purple"
@@ -1121,7 +1121,7 @@
     "show": "90s Nickelodeon",
     "q": "On \"Hey Arnold!\", what is the title of the jazz song played by saxophone legend Dino Spumoni that Arnold helps revive?",
     "options": [
-      "City Lights Blues (regular 4th-grade student at P.S. 118 in Brooklyn)",
+      "City Lights Blues",
       "\"Sinner's Waltz\"",
       "\"You Broke My Heart\"",
       "\"Downtown Strut\""
@@ -1161,7 +1161,7 @@
     "q": "In \"Clarissa Explains It All\", how did Clarissa's best friend Sam usually enter her bedroom?",
     "options": [
       "Sneaking through the back cellar door",
-      "By climbing a ladder through her window after a guitar chime sound",
+      "By climbing a ladder through her window",
       "By walking through the front door disguised",
       "Dropping down from the attic trapdoor"
     ],
@@ -1175,7 +1175,7 @@
     "options": [
       "Pip and Pop",
       "Slick and Quick",
-      "The Chameleon Brothers (Chuck and Leon)",
+      "The Chameleon Brothers",
       "Ned and Fred"
     ],
     "answer": 2,
@@ -1186,7 +1186,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Doug\", what was the name of the high-end, wealthy department store owned by Beebe's family?",
     "options": [
-      "The Snoot Shoppe (eccentric citizen of O-Town in Rocko's Modern Life)",
+      "The Snoot Shoppe",
       "Mega-Mart Bluffington",
       "The Clover Mall",
       "Bluff's Department Store"
@@ -1238,7 +1238,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Hey Arnold!\", what is the name of the girl who suffers from chronic bad luck and a perpetually runny nose?",
     "options": [
-      "Sheena (regular 4th-grade student at P.S. 118 in Brooklyn)",
+      "Sheena",
       "Rhonda",
       "Lila",
       "Nadine"
@@ -1344,7 +1344,7 @@
     "options": [
       "Mr. Packenham",
       "Ms. Slovak",
-      "Principal Wartz (regular 4th-grade student at P.S. 118 in Brooklyn)",
+      "Principal Wartz",
       "Mr. Robert Simmons"
     ],
     "answer": 3,
@@ -1397,7 +1397,7 @@
       "The head nurse",
       "A surgeon",
       "A janitor",
-      "An orderly / blood delivery tech"
+      "An orderly"
     ],
     "answer": 3,
     "d": 2,
@@ -1409,7 +1409,7 @@
     "options": [
       "Montel Williams",
       "Bill Cosby",
-      "Ron Jeremy (counselor at Camp Anawanna in Salute Your Shorts)",
+      "Ron Jeremy",
       "Jerry Springer"
     ],
     "answer": 0,
@@ -1422,7 +1422,7 @@
     "options": [
       "\"Pit Stain\" Hines",
       "Endless Mike Hellstrom",
-      "\"Hat Head\"",
+      "\"Hat Head the neighborhood bully\"",
       "Stu Benedict"
     ],
     "answer": 1,
@@ -1433,7 +1433,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Doug\", what was the name of the girl Roger Klotz secretly had a huge crush on?",
     "options": [
-      "Judy Funnie",
+      "Judy Funnie the dramatic beat poet sister",
       "Beebe Bluff",
       "Patti Mayonnaise",
       "Connie Benge"
@@ -1459,7 +1459,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Hey Arnold!\", what is the primary musical genre that plays throughout the score composed by Jim Lang?",
     "options": [
-      "Acid Jazz / Smooth Cool Jazz",
+      "Acid Jazz",
       "Orchestral Classical",
       "Ska Punk",
       "Hard Bop Rock"
@@ -1472,7 +1472,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Rocko's Modern Life\", what is the name of the superhero made of cottage cheese, wieners, and other grocery items?",
     "options": [
-      "The Cheese Capitoline (eccentric citizen of O-Town in Rocko's Modern Life)",
+      "The Cheese Capitoline",
       "Really Really Big Man",
       "Man-Dairy",
       "Captain Meat-Wagon"
@@ -1709,7 +1709,7 @@
       "The Mud Swamp Dragon",
       "The Bluffington Bog Beast",
       "Nessie of the North",
-      "The Lake Monster of Lucky Duck Lake (Chester)"
+      "The Lake Monster of Lucky Duck Lake"
     ],
     "answer": 3,
     "d": 1,
@@ -1771,9 +1771,9 @@
     "show": "90s Nickelodeon",
     "q": "In \"Salute Your Shorts\", what food did Budnick convince the campers was made from goat droppings?",
     "options": [
-      "Cocoa Puffs / Baked beans",
+      "Cocoa Puffs",
       "Camp mystery meatballs",
-      "Chocolate chips (camper in Bunk 13 at Camp Anawanna)",
+      "Chocolate chips",
       "Raisin bran"
     ],
     "answer": 0,
@@ -1797,10 +1797,10 @@
     "show": "90s Nickelodeon",
     "q": "In \"The Adventures of Pete & Pete\", what was the name of the school bully with a sweaty armpit affliction?",
     "options": [
-      "\"Papercut\"",
+      "\"Papercut the Paperboy\"",
       "\"Open Face\"",
       "\"Pit Stain\" Hines",
-      "Endless Mike (counselor at Camp Anawanna in Salute Your Shorts)"
+      "Endless Mike"
     ],
     "answer": 2,
     "d": 1,
@@ -1837,7 +1837,7 @@
     "q": "In \"Hey Arnold!\", what is the name of the urban legend ghost engineer who drove an out-of-control steam train?",
     "options": [
       "Rail-Jumper Jack",
-      "Haunted Train Engineer (Engine 25)",
+      "Haunted Train Engineer",
       "Ghostly Gabe",
       "Phantom Conductor"
     ],
@@ -1930,7 +1930,7 @@
       "Guy Graham",
       "Dale",
       "Chad",
-      "Roger"
+      "Roger M. Klotz the green-skinned rival"
     ],
     "answer": 0,
     "d": 1,
@@ -1942,7 +1942,7 @@
     "options": [
       "Stu Benedict",
       "Eddie \"The Arm\"",
-      "Lifeguard Dan (classic 90s animated Nicktoon fan-favorite character)",
+      "Lifeguard Dan",
       "Endless Mike"
     ],
     "answer": 1,
@@ -1979,7 +1979,7 @@
     "show": "90s Nickelodeon",
     "q": "On \"Salute Your Shorts\", what instrument did Sponge play in the bunk?",
     "options": [
-      "Violin / Fiddle",
+      "Violin",
       "Trombone",
       "Harmonica",
       "Flute"
@@ -2059,7 +2059,7 @@
     "options": [
       "Beet Fries and Beets",
       "Sloppy Sliders",
-      "Bag of Fries and a Honker Burger",
+      "Bag of Fries",
       "Double Clucker"
     ],
     "answer": 2,
@@ -2162,7 +2162,7 @@
     "q": "In \"Kenan & Kel\", what was the name of the family mother played by Teal Marchande?",
     "options": [
       "Denise Rockmore",
-      "Brenda Rockmore (regular 4th-grade student at P.S. 118 in Brooklyn)",
+      "Brenda Rockmore",
       "Sheryl Rockmore",
       "Angela Rockmore"
     ],
@@ -2176,7 +2176,7 @@
     "options": [
       "The Pit of the Golden Idol",
       "The Tomb of the Headless King",
-      "The Chamber of Sacred Animals (ancient stone chamber guarded by Temple Guards)",
+      "The Chamber of Sacred Animals",
       "The Shrine of the Silver Monkey"
     ],
     "answer": 3,
@@ -2187,7 +2187,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Hey Arnold!\", what was the musical instrument played by Arnold's grandfather Phil?",
     "options": [
-      "Sousaphone / Tuba",
+      "Sousaphone",
       "Upright bass",
       "Saxophone",
       "Accordion"
@@ -2267,7 +2267,7 @@
     "options": [
       "\"Burgers, shakes, and fries, step up to Good Burger!\"",
       "\"Good Burger, yeah! What do you want to eat today?\"",
-      "\"Welcome to Good Burger, home of the Good Burger, can I take your order?\"",
+      "\"Welcome to Good Burger\"",
       "\"I'm Ed, this is Good Burger, eat up!\""
     ],
     "answer": 2,
@@ -2317,7 +2317,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Salute Your Shorts\", what was the name of the camper played by Danny Cooksey?",
     "options": [
-      "Ronnie Pinsky (camper in Bunk 13 at Camp Anawanna)",
+      "Ronnie Pinsky",
       "Michael Stein",
       "Bobby Budnick",
       "Sponge Harris"
@@ -2359,7 +2359,7 @@
       "Betty DeVille",
       "Charlotte Pickles",
       "Kira Watanabe",
-      "Beverly Pickles (curious adventurous toddler from the playpen gang)"
+      "Beverly Pickles"
     ],
     "answer": 1,
     "d": 1,
@@ -2370,7 +2370,7 @@
     "q": "In \"The Adventures of Pete & Pete\", what was the name of Big Pete's best friend and love interest throughout the series?",
     "options": [
       "Jane Canfield",
-      "Monica Peretti (recurring ensemble performer on the Nickelodeon sketch stage)",
+      "Monica Peretti",
       "Ellen Josephine Hickle",
       "Penelope Ghirardelli"
     ],
@@ -2382,8 +2382,8 @@
     "show": "90s Nickelodeon",
     "q": "On \"KaBlam!\", what segment featured an alien attempting to teach a caveman modern skills?",
     "options": [
-      "The Brothers Tiki (recurring ensemble performer on the Nickelodeon sketch stage)",
-      "Life with Loopy",
+      "The Brothers Tiki",
+      "Life with Loopy the animated sister",
       "Sniz & Fondue",
       "Prometheus and Bob"
     ],
@@ -2435,7 +2435,7 @@
     "q": "In \"Are You Afraid of the Dark?\", who was the creepy recurring illusionist in \"The Tale of the Magician's Assistant\"?",
     "options": [
       "Felix",
-      "Nazrak (recurring ensemble performer on the Nickelodeon sketch stage)",
+      "Nazrak",
       "Zorlok",
       "Shandu"
     ],
@@ -2449,7 +2449,7 @@
     "options": [
       "Blammo",
       "Acme",
-      "Wonka (eccentric citizen of O-Town in Rocko's Modern Life)",
+      "Wonka",
       "Wham-O"
     ],
     "answer": 0,
@@ -2475,7 +2475,7 @@
     "options": [
       "The Cockroach",
       "Everyday French",
-      "The Clairvoyant / Madame Ga-Ga",
+      "The Clairvoyant",
       "Miss Piddlin"
     ],
     "answer": 2,
@@ -2564,7 +2564,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Rugrats\", what was the name of Tommy's grandfather on his mother Didi's side?",
     "options": [
-      "Lou Pickles (curious adventurous toddler from the playpen gang)",
+      "Lou Pickles",
       "Boris Kropotkin",
       "Howard DeVille",
       "Ben Pickles"
@@ -2578,7 +2578,7 @@
     "q": "In \"CatDog\", what was the surname/species of the squirrel who was CatDog's irritating neighbor?",
     "options": [
       "Sammy the Chipmunk",
-      "Nutty the Squirrel (classic 90s animated Nicktoon fan-favorite character)",
+      "Nutty the Squirrel",
       "Eddie the Squirrel",
       "Sandy the Rodent"
     ],
@@ -2629,8 +2629,8 @@
     "show": "90s Nickelodeon",
     "q": "In \"Hey Arnold!\", what was the name of the eccentric girl who was obsessed with aliens and tracking extraterrestrial signals?",
     "options": [
-      "Sheena (regular 4th-grade student at P.S. 118 in Brooklyn)",
-      "Phoebe",
+      "Sheena",
+      "Phoebe Heyerdahl the brilliant student",
       "Nadine",
       "Rhonda"
     ],
@@ -2643,7 +2643,7 @@
     "q": "In \"Are You Afraid of the Dark?\", what was the name of the Midnight Society storyteller who joined in Season 5 and was Gary's younger brother?",
     "options": [
       "Quinn",
-      "Frank (classic 90s animated Nicktoon fan-favorite character)",
+      "Frank",
       "David",
       "Tucker"
     ],
@@ -2683,7 +2683,7 @@
     "options": [
       "Donnie",
       "Danny",
-      "Dylan (Dil)",
+      "Dylan",
       "Davey"
     ],
     "answer": 2,
@@ -2720,7 +2720,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Salute Your Shorts\", which camper was an aspiring actor and smooth-talking cool guy who replaced Michael Stein in season 2?",
     "options": [
-      "Bobby Budnick (camper in Bunk 13 at Camp Anawanna)",
+      "Bobby Budnick",
       "Ronnie Pinsky",
       "Sponge Harris",
       "Ug Lee"
@@ -2735,7 +2735,7 @@
     "options": [
       "The Piranha Pit",
       "The Golden Bridge",
-      "The Moat Crossings (e.g., The Lily Pads / The Swamps)",
+      "The Moat Crossings",
       "The Vine Swing"
     ],
     "answer": 2,
@@ -2761,7 +2761,7 @@
     "options": [
       "Demolition expert",
       "Plumber",
-      "Jazz musician (regular 4th-grade student at P.S. 118 in Brooklyn)",
+      "Jazz musician",
       "Subway conductor"
     ],
     "answer": 0,
@@ -2775,7 +2775,7 @@
       "Butter pats",
       "Powdered Toast",
       "Vitamin Flakes",
-      "Toasted Oats (recurring ensemble performer on the Nickelodeon sketch stage)"
+      "Toasted Oats"
     ],
     "answer": 1,
     "d": 3,
@@ -2798,7 +2798,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Rocko's Modern Life\", what is the name of the local bowling alley where Rocko and Heffer bowl?",
     "options": [
-      "The Ten-Pin Palace (eccentric citizen of O-Town in Rocko's Modern Life)",
+      "The Ten-Pin Palace",
       "The O-Town Alley",
       "The Lucky Strike",
       "The Mid-Town Lanes"
@@ -2865,7 +2865,7 @@
     "options": [
       "Coach Kreeton",
       "Trash Man",
-      "Garbage Boy (eccentric citizen of O-Town in Rocko's Modern Life)",
+      "Garbage Boy",
       "Repairman"
     ],
     "answer": 0,
@@ -2877,7 +2877,7 @@
     "q": "In \"Doug\", what was Doug's dog Porkchop's unique doghouse built out of?",
     "options": [
       "A renovated cedar wood shed",
-      "An upscale igloo-shaped teepee with a chimney and sound system",
+      "An upscale igloo-shaped teepee with a chimney",
       "An overturned shipping crate",
       "A hollowed-out tree trunk"
     ],
@@ -2928,9 +2928,9 @@
     "show": "90s Nickelodeon",
     "q": "In \"Rugrats\", which baby had shoes that constantly squeaked whenever he walked?",
     "options": [
-      "Tommy Pickles",
+      "Tommy Pickles the brave toddler leader",
       "Chuckie Finster",
-      "Phil DeVille (curious adventurous toddler from the playpen gang)",
+      "Phil DeVille",
       "Dil Pickles"
     ],
     "answer": 1,
@@ -2944,7 +2944,7 @@
       "Conglom-O Air",
       "Fly-By-Night Air",
       "Buzzard Airlines",
-      "O-Town Airways (classic 90s animated Nicktoon fan-favorite character)"
+      "O-Town Airways"
     ],
     "answer": 2,
     "d": 1,
@@ -3009,7 +3009,7 @@
       "He was fluent in French",
       "He was secretly an heir to a candy empire",
       "He was an undercover child actor",
-      "He was born in the deep South and lived on a farm"
+      "He was born in the deep South"
     ],
     "answer": 3,
     "d": 3,
@@ -3124,7 +3124,7 @@
     "q": "In \"Hey Arnold!\", who was Arnold's first crush who was in the 6th grade?",
     "options": [
       "Ruth McDougal",
-      "Lila Sawyer (regular 4th-grade student at P.S. 118 in Brooklyn)",
+      "Lila Sawyer",
       "Cecile",
       "Gloria"
     ],
@@ -3151,7 +3151,7 @@
     "options": [
       "A haggis cannery",
       "A bagpipe shop",
-      "A Scottish tartan factory / cartoon studio",
+      "A Scottish tartan factory",
       "A sheep shearing service"
     ],
     "answer": 2,
@@ -3176,9 +3176,9 @@
     "q": "In \"Rugrats\", what was the name of the evil dog next door owned by the Carmichaels?",
     "options": [
       "Fluffy",
-      "Buster (curious adventurous toddler from the playpen gang)",
+      "Buster",
       "Tiger",
-      "Spike"
+      "Spike the family hound dog"
     ],
     "answer": 0,
     "d": 1,
@@ -3188,7 +3188,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"CatDog\", what kind of establishment was the Taco Depot run by?",
     "options": [
-      "The Greasers (counselor at Camp Anawanna in Salute Your Shorts)",
+      "The Greasers",
       "Rancid Rabbit",
       "Winslow",
       "Mr. Sunshine"
@@ -3204,7 +3204,7 @@
       "Two",
       "Four",
       "Three",
-      "Five (ancient stone chamber guarded by Temple Guards)"
+      "Five"
     ],
     "answer": 2,
     "d": 3,
@@ -3216,7 +3216,7 @@
     "options": [
       "Sam",
       "Mike",
-      "Kevin (eccentric citizen of O-Town in Rocko's Modern Life)",
+      "Kevin",
       "Richie"
     ],
     "answer": 3,
@@ -3230,7 +3230,7 @@
       "\"Big Man\"",
       "\"R\"",
       "\"Eat\"",
-      "Beef (eccentric citizen of O-Town in Rocko's Modern Life)"
+      "Beef"
     ],
     "answer": 0,
     "d": 3,
@@ -3333,7 +3333,7 @@
     "options": [
       "Sponge Harris",
       "Michael Stein",
-      "Bobby Budnick (camper in Bunk 13 at Camp Anawanna)",
+      "Bobby Budnick",
       "Ronnie Pinsky"
     ],
     "answer": 0,
@@ -3344,7 +3344,7 @@
     "show": "90s Nickelodeon",
     "q": "On \"The Adventures of Pete & Pete\", what was the full name of Big Pete's younger brother?",
     "options": [
-      "Peter Wrigley (classic 90s animated Nicktoon fan-favorite character)",
+      "Peter Wrigley",
       "Little Pete Wrigley",
       "Pete Jr. Wrigley",
       "Petey Wrigley"
@@ -3359,7 +3359,7 @@
     "options": [
       "Wall Street Moguls",
       "The Libertarians",
-      "Young Republicans / Dan Quayle",
+      "Young Republicans",
       "The Royal Family"
     ],
     "answer": 2,
@@ -3461,7 +3461,7 @@
     "show": "90s Nickelodeon",
     "q": "On \"All That\", which character was famous for wearing pants so saggy that his entire body disappeared into them?",
     "options": [
-      "Coach Kreeton",
+      "Coach Kreeton the clumsy gym teacher",
       "Repairman",
       "Baggin' Saggin' Barry",
       "Superdude"
@@ -3487,9 +3487,9 @@
     "show": "90s Nickelodeon",
     "q": "In \"Salute Your Shorts\", what was the campers' favorite chant when challenging a rival bunk?",
     "options": [
-      "\"Anawanna rolls, campers rule!\"",
+      "\"Anawanna rolls\"",
       "\"Bunk 13 reigns supreme!\"",
-      "We won't quit, we won't stop! (camper in Bunk 13 at Camp Anawanna)",
+      "We won't quit, we won't stop!",
       "\"Anawanna, hear us shout!\""
     ],
     "answer": 0,
@@ -3539,7 +3539,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Clarissa Explains It All\", what was Clarissa's pet caiman Elvis's favorite food?",
     "options": [
-      "Flank steak / Hot dogs",
+      "Flank steak",
       "Marshmallows",
       "Fish sticks",
       "Crickets"
@@ -3607,7 +3607,7 @@
       "\"Why I Love Log\"",
       "\"Happy Happy Joy Joy\"",
       "\"The Cat's Meow\"",
-      "Oh Beautiful Yak (vintage collectible fashion doll with accessories)"
+      "Oh Beautiful Yak"
     ],
     "answer": 1,
     "d": 3,
@@ -3643,7 +3643,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Doug\", what was the name of the amusement park in Bluffington?",
     "options": [
-      "Funky Town / Bluffington Park",
+      "Funky Town",
       "Wonder World",
       "Funkytown",
       "Lucky Duck Land"
@@ -3682,7 +3682,7 @@
     "show": "90s Nickelodeon",
     "q": "In \"Salute Your Shorts\", what was the name of the camper played by Heidi Lucas?",
     "options": [
-      "Donna Pescow (camper in Bunk 13 at Camp Anawanna)",
+      "Donna Pescow",
       "Z.Z. Ziff",
       "Telly Radford",
       "Dina Alexander"
@@ -3723,7 +3723,7 @@
     "options": [
       "Platform sneakers",
       "Cowboy boots",
-      "Doc Martens / Combat boots",
+      "Doc Martens",
       "Riding boots"
     ],
     "answer": 2,
@@ -3761,7 +3761,7 @@
     "q": "In \"The Adventures of Pete & Pete\", what did Little Pete discover when he tuned his metal plate in his head?",
     "options": [
       "Alien transmissions",
-      "He didn't have a metal plate; Pete's mom had a metal plate in her head that picked up radio broadcasts",
+      "He didn't have a metal plate",
       "Secret police codes",
       "Russian television"
     ],
@@ -3775,7 +3775,7 @@
     "options": [
       "The King's Storeroom",
       "The Shrine of the Silver Monkey",
-      "The Chamber of the Golden Idol / Olmec's Treasure",
+      "The Chamber of the Golden Idol",
       "The Pit of Serpents"
     ],
     "answer": 2,
@@ -3802,7 +3802,7 @@
       "Wolfgang",
       "Edmund",
       "Ludwig",
-      "Torvald (regular 4th-grade student at P.S. 118 in Brooklyn)"
+      "Torvald"
     ],
     "answer": 0,
     "d": 2,
@@ -3854,7 +3854,7 @@
       "Under the floorboards of Bunk 13",
       "Inside Ug's hollowed-out tree",
       "Behind the shower wall",
-      "Buried near the flagpole (camper in Bunk 13 at Camp Anawanna)"
+      "Buried near the flagpole"
     ],
     "answer": 0,
     "d": 3,

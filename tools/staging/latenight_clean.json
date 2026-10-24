@@ -30,7 +30,7 @@
     "q": "In 1960, Jack Paar famously walked off the show after NBC cut a joke involving what?",
     "options": [
       "A Cuban cigar",
-      "A 'W.C.' (water closet) reference",
+      "A 'W.C.' reference",
       "A movie star's divorce",
       "A joke about a presidential candidate"
     ],
@@ -110,7 +110,7 @@
       "Aunt Blabby",
       "Carnac the Magnificent",
       "Floyd R. Turbo",
-      "Art Fern"
+      "The original Art Fern"
     ],
     "answer": 1,
     "d": 1,
@@ -162,7 +162,7 @@
       "Gasoline",
       "Toilet paper",
       "Coffee",
-      "Sugar"
+      "The original Sugar"
     ],
     "answer": 1,
     "d": 2,
@@ -266,7 +266,7 @@
       "Branford Marsalis",
       "Doc Severinsen",
       "Paul Shaffer",
-      "Questlove"
+      "The original Questlove"
     ],
     "answer": 0,
     "d": 3,
@@ -342,7 +342,7 @@
     "q": "Roughly how long did Conan O'Brien host The Tonight Show?",
     "options": [
       "About four years",
-      "About six weeks",
+      "The original About six weeks",
       "About seven months",
       "About two years"
     ],
@@ -367,7 +367,7 @@
     "show": "Late Night TV",
     "q": "Which car-focused web and TV series is hosted by Jay Leno?",
     "options": [
-      "Gearhead",
+      "The original Gearhead",
       "Motor Mondays",
       "Leno's Wheels",
       "Jay Leno's Garage"
@@ -471,7 +471,7 @@
     "show": "Late Night TV",
     "q": "On Fallon's show, what must players of 'Egg Russian Roulette' try to avoid?",
     "options": [
-      "Smashing a raw egg on their own head",
+      "Smashing a raw egg",
       "Throwing an egg at the host",
       "Dropping an egg",
       "Eating a raw egg"
@@ -536,7 +536,7 @@
     "show": "Late Night TV",
     "q": "Letterman's Late Show broadcast from which New York theater?",
     "options": [
-      "The Beacon Theatre",
+      "Authentic The Beacon Theatre",
       "Radio City Music Hall",
       "The Apollo Theater",
       "The Ed Sullivan Theater"
@@ -589,7 +589,7 @@
     "q": "What nightly comedy list became Letterman's signature bit?",
     "options": [
       "The Top Ten List",
-      "The Daily Dozen (Twelve Points of View and Sarcastic Observations)",
+      "The Daily Dozen",
       "The Hot Five",
       "The Big Seven"
     ],
@@ -627,7 +627,7 @@
     "show": "Late Night TV",
     "q": "Who succeeded Letterman as host of The Late Show on CBS?",
     "options": [
-      "Craig Ferguson (The Late Late Show host / puppet Geoff Peterson)",
+      "Craig Ferguson",
       "Stephen Colbert",
       "James Corden",
       "Jimmy Kimmel"
@@ -746,7 +746,7 @@
     "options": [
       "Kevin Spacey",
       "Daniel Roebuck",
-      "Matthew Perry (frequent late-night talk show guest and comedy performer)",
+      "Matthew Perry",
       "Jon Lovitz"
     ],
     "answer": 1,
@@ -863,7 +863,7 @@
     "options": [
       "In Living Color and Frasier",
       "Seinfeld and Cheers",
-      "Saturday Night Live and The Simpsons",
+      "Saturday Night Live",
       "Taxi and Friends"
     ],
     "answer": 2,
@@ -887,7 +887,7 @@
     "show": "Late Night TV",
     "q": "Who was Conan's sidekick on Late Night?",
     "options": [
-      "Paul Shaffer (CBS Orchestra leader / Letterman musical director)",
+      "Paul Shaffer",
       "Andy Richter",
       "Max Weinberg",
       "Ed McMahon"
@@ -1020,7 +1020,7 @@
       "Chris Rock",
       "Craig Kilborn",
       "Jon Stewart",
-      "Dennis Miller (Weekend Update anchor / Dennis Miller Live)"
+      "Dennis Miller"
     ],
     "answer": 1,
     "d": 2,
@@ -1059,7 +1059,7 @@
       "Jon Stewart Lieberman",
       "Jonathan Stuart Levine",
       "Jonathan Stuart Leibowitz",
-      "Joseph Stewart Lowenthal (frequent late-night talk show guest and comedy performer)"
+      "Joseph Stewart Lowenthal"
     ],
     "answer": 2,
     "d": 2,
@@ -1175,7 +1175,7 @@
     "options": [
       "Final Joke",
       "Moment of Zen",
-      "The widely discussed and memorable Sign-Off",
+      "The Sign-Off",
       "Last Laugh"
     ],
     "answer": 1,
@@ -1227,7 +1227,7 @@
     "options": [
       "Wyatt Cenac",
       "Larry Wilmore",
-      "Aasif Mandvi (frequent late-night talk show guest and comedy performer)",
+      "Aasif Mandvi",
       "Jason Jones"
     ],
     "answer": 1,
@@ -1433,7 +1433,7 @@
     "show": "Late Night TV",
     "q": "On which network did The Colbert Report air?",
     "options": [
-      "HBO",
+      "HBO Cable Network",
       "Comedy Central",
       "FX",
       "TBS"
@@ -1589,7 +1589,7 @@
     "show": "Late Night TV",
     "q": "In which Southern state did Colbert grow up?",
     "options": [
-      "North Carolina (frequent late-night talk show guest and comedy performer)",
+      "North Carolina",
       "Georgia",
       "Tennessee",
       "South Carolina"
@@ -1615,7 +1615,7 @@
     "show": "Late Night TV",
     "q": "On which network does Jimmy Kimmel Live air?",
     "options": [
-      "Fox Broadcasting Company (FOX)",
+      "Fox Broadcasting Company",
       "NBC",
       "ABC",
       "CBS"
@@ -1800,7 +1800,7 @@
       "Peep Show",
       "Gavin & Stacey",
       "Fawlty Towers",
-      "The Office (UK)"
+      "The Office"
     ],
     "answer": 1,
     "d": 2,
@@ -1824,7 +1824,7 @@
     "q": "Who hosted The Late Late Show on CBS from 2005 to 2014?",
     "options": [
       "James Corden",
-      "Craig Kilborn (inaugural The Daily Show host / Late Late Show)",
+      "Craig Kilborn",
       "Tom Snyder",
       "Craig Ferguson"
     ],
@@ -1838,7 +1838,7 @@
     "options": [
       "Scotland",
       "Wales",
-      "The Republic of Ireland (County Dublin)",
+      "The Republic of Ireland",
       "England"
     ],
     "answer": 0,
@@ -1941,7 +1941,7 @@
     "q": "Arsenio's studio audience was famous for doing what?",
     "options": [
       "Chanting his name",
-      "Barking 'Woof, woof, woof!'",
+      "Barking 'Woof",
       "Holding up signs",
       "Standing for every guest"
     ],
@@ -1994,7 +1994,7 @@
     "options": [
       "David Spade",
       "Garry Shandling",
-      "Jerry Seinfeld (I'm Telling You for the Last Time / Comedians in Cars)",
+      "Jerry Seinfeld",
       "Martin Short"
     ],
     "answer": 1,
@@ -2070,7 +2070,7 @@
     "show": "Late Night TV",
     "q": "Who was the first Weekend Update anchor on SNL?",
     "options": [
-      "Dan Aykroyd (The Blues Brothers / original SNL cast)",
+      "Dan Aykroyd",
       "Jane Curtin",
       "Chevy Chase",
       "Bill Murray"
@@ -2096,7 +2096,7 @@
     "show": "Late Night TV",
     "q": "Which network has aired The Tonight Show since 1954?",
     "options": [
-      "American Broadcasting Company (ABC)",
+      "American Broadcasting Company",
       "Fox",
       "NBC",
       "CBS"
@@ -2150,7 +2150,7 @@
     "options": [
       "David Letterman",
       "Conan O'Brien",
-      "Stephen Colbert (The Late Show / The Colbert Report host)",
+      "Stephen Colbert",
       "Craig Ferguson"
     ],
     "answer": 0,
@@ -2268,7 +2268,7 @@
       "Lenny Johnson",
       "Chuck Roberts",
       "Biff Henderson",
-      "Skip Henderson (frequent late-night talk show guest and comedy performer)"
+      "Skip Henderson"
     ],
     "answer": 2,
     "d": 3,

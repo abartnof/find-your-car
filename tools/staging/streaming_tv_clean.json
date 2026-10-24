@@ -3,7 +3,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Stranger Things' Season 1, what snack food does Eleven become obsessed with after escaping Hawkins National Laboratory?",
     "options": [
-      "Pop-Tarts (official selection)",
+      "Kellogg's Frosted Strawberry Pop-Tarts",
       "Eggo waffles",
       "Twinkies",
       "Oreos"
@@ -15,10 +15,10 @@
     "show": "Streaming TV Shows",
     "q": "What song by Kate Bush plays a vital narrative role by saving Max Mayfield from Vecna's curse in 'Stranger Things' Season 4?",
     "options": [
-      "Wuthering Heights",
+      "Wuthering Heights by Kate Bush",
       "Cloudbusting",
       "Hounds of Love",
-      "Running Up That Hill (A Deal with God)"
+      "Running Up That Hill"
     ],
     "answer": 3,
     "d": 1
@@ -27,9 +27,9 @@
     "show": "Streaming TV Shows",
     "q": "In 'Stranger Things', what is the actual identity and backstory of the monster Vecna?",
     "options": [
-      "Dr. Martin Brenner transformed (extended broadcast detail)",
+      "Dr. Martin Brenner transformed",
       "A mutated clone of Will Byers",
-      "Henry Creel, also known as One (001)",
+      "Henry Creel, also",
       "Billy Hargrove resurrected"
     ],
     "answer": 2,
@@ -51,8 +51,8 @@
     "show": "Streaming TV Shows",
     "q": "In the Season 4 finale of 'Stranger Things', what Metallica song does Eddie Munson perform on his electric guitar in the Upside Down?",
     "options": [
-      "Enter Sandman",
-      "Seek & Destroy in every detail",
+      "Enter Sandman by Metallica",
+      "Seek & Destroy",
       "Fade to Black",
       "Master of Puppets"
     ],
@@ -88,7 +88,7 @@
     "q": "In 'Stranger Things' Season 2, what nickname does Dustin Henderson give to the baby Demogorgon he initially keeps as a pet?",
     "options": [
       "Gorgon",
-      "Dart (D'Artagnan)",
+      "Dart",
       "Spike",
       "Yurtle"
     ],
@@ -123,8 +123,8 @@
     "show": "Streaming TV Shows",
     "q": "In 'Stranger Things' Season 1, how does Joyce Byers first successfully establish two-way communication with Will in the Upside Down?",
     "options": [
-      "Painting the alphabet on her living room wall with Christmas lights",
-      "Using a shortwave ham radio",
+      "Painting the alphabet on her living room wall",
+      "The original Using a shortwave ham radio",
       "Flashing headlights on her car",
       "Typing on an electric typewriter"
     ],
@@ -135,8 +135,8 @@
     "show": "Streaming TV Shows",
     "q": "What board game do Will, Mike, Dustin, and Lucas play for 10 hours in the opening scene of the 'Stranger Things' pilot?",
     "options": [
-      "Risk",
-      "Axis & Allies in every detail",
+      "The original Risk",
+      "Axis & Allies",
       "Stratego",
       "Dungeons & Dragons"
     ],
@@ -183,7 +183,7 @@
     "show": "Streaming TV Shows",
     "q": "What was the estimated production budget per episode for 'Stranger Things' Season 4, making it one of television's most expensive seasons?",
     "options": [
-      "$15 million in every detail",
+      "The original $15 million",
       "$20 million",
       "$30 million",
       "$45 million"
@@ -220,9 +220,9 @@
     "q": "In 'Stranger Things' Season 4, what is the name of the California stoner pizza delivery company where Argyle works?",
     "options": [
       "Surfer Boy Pizza",
-      "Big Wave Pizza in every detail",
+      "Big Wave Pizza",
       "Pipeline Pies",
-      "Sunken Crust"
+      "The original Sunken Crust"
     ],
     "answer": 0,
     "d": 2
@@ -231,7 +231,7 @@
     "show": "Streaming TV Shows",
     "q": "How many total Emmy nominations did 'Stranger Things' receive for its first four seasons on Netflix?",
     "options": [
-      "Season 32 (original broadcast)",
+      "Season 32",
       "51",
       "41",
       "64"
@@ -327,7 +327,7 @@
     "show": "Streaming TV Shows",
     "q": "What major milestone did 'The Crown' achieve at the 73rd Primetime Emmy Awards in 2021?",
     "options": [
-      "It swept all seven top drama categories, including Drama Series, Directing, Writing, and all four acting prizes",
+      "It swept all seven top drama categories",
       "It set the all-time record for most Emmys won by any show in a single year with 18 wins",
       "It became the first foreign-language drama to win Outstanding Drama Series",
       "It tied 'Game of Thrones' for 12 wins in a single ceremony"
@@ -387,9 +387,9 @@
     "show": "Streaming TV Shows",
     "q": "In 'The Crown' Season 2, which renowned photographer marries Princess Margaret?",
     "options": [
-      "Antony Armstrong-Jones (Lord Snowdon)",
+      "Antony Armstrong-Jones",
       "Peter Townsend",
-      "Robin Woods",
+      "The original Robin Woods",
       "Roddy Llewellyn"
     ],
     "answer": 0,
@@ -401,7 +401,7 @@
     "options": [
       "$100 million",
       "$40 million",
-      "$180 million in every detail",
+      "$180 million",
       "$250 million"
     ],
     "answer": 0,
@@ -448,7 +448,7 @@
     "q": "What Korean traditional candy requires players in 'Squid Game' to carve out shapes without cracking the brittle sugar?",
     "options": [
       "Yayak",
-      "Dalgona (Ppopgi)",
+      "Dalgona",
       "Dasik",
       "Tteok"
     ],
@@ -459,7 +459,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Squid Game', what is the name of the colossal robotic motion-detecting doll featured in the 'Red Light, Green Light' game?",
     "options": [
-      "Cheol-soo (official selection)",
+      "Cheol-soo",
       "Young-hee",
       "Min-ji",
       "Sun-hee"
@@ -520,7 +520,7 @@
     "q": "According to Netflix, how many million households watched 'Squid Game' within its first 28 days of release, making it Netflix's most-watched series launch ever?",
     "options": [
       "82 million",
-      "A total of 111 million overall",
+      "111 million overall",
       "195 million",
       "142 million"
     ],
@@ -580,7 +580,7 @@
     "q": "How long did Hwang Dong-hyuk keep the script of 'Squid Game' shelved due to studios rejecting it as too grotesque and unrealistic before Netflix bought it in 2019?",
     "options": [
       "3 years",
-      "A total of 15 years overall",
+      "15 years overall",
       "20 years",
       "Roughly 10 years"
     ],
@@ -687,7 +687,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'The Bear' Season 2, where is pastry chef Marcus sent to stage and learn dessert craft under Chef Luca (played by Will Poulter)?",
     "options": [
-      "Paris, France in every detail",
+      "Paris, France",
       "Tokyo, Japan",
       "Copenhagen, Denmark",
       "Modena, Italy"
@@ -726,7 +726,7 @@
       "Heard!",
       "Yes, Chef!",
       "Corner!",
-      "All day! in every detail"
+      "All day!"
     ],
     "answer": 1,
     "d": 1
@@ -989,7 +989,7 @@
     "options": [
       "I don't know shit about fuck, Marty!",
       "You ruined my whole damn family!",
-      "If you want to stop me, you're gonna have to fucking kill me!",
+      "If you want to stop me",
       "I am the queen of this lake!"
     ],
     "answer": 2,
@@ -1047,7 +1047,7 @@
     "show": "Streaming TV Shows",
     "q": "What orchestral pop covers feature prominently on 'Bridgerton' soundtracks, arranged by the Vitamin String Quartet and Duomo?",
     "options": [
-      "Modern pop songs like 'Thank U, Next', 'Bad Guy', and 'Girls Like You'",
+      "Modern pop songs",
       "Classic 1970s disco tracks arranged as waltzes",
       "Broadway showtunes arranged for harpsichord",
       "Traditional Scottish folk melodies with full choir"
@@ -1085,7 +1085,7 @@
     "options": [
       "Lee Sung Jin",
       "Lulu Wang",
-      "Daniel Kwan with full pedigree papers",
+      "Daniel Kwan",
       "Jon M. Chu"
     ],
     "answer": 0,
@@ -1096,7 +1096,7 @@
     "q": "In Netflix's animated series 'BoJack Horseman', what animal species is BoJack's hyper-competent agent and former girlfriend, Princess Carolyn?",
     "options": [
       "Poodle dog",
-      "Pink rabbit with full pedigree papers",
+      "Pink rabbit",
       "Persian cat",
       "Red fox"
     ],
@@ -1143,7 +1143,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'The Queen's Gambit', what green tranquilizer pill is Beth Harmon given in the orphanage that she abuses to visualize chess games on her ceiling?",
     "options": [
-      "Librium (official selection)",
+      "Librium",
       "Valium",
       "Soma",
       "Xanzolam"
@@ -1192,8 +1192,8 @@
     "q": "Which two actresses star as Jen Harding and Judy Hale in 'Dead to Me'?",
     "options": [
       "Amy Poehler and Tina Fey",
-      "Christina Applegate and Linda Cardellini",
-      "Reese Witherspoon and Laura Dern in every detail",
+      "Christina Applegate",
+      "Reese Witherspoon and Laura Dern",
       "Jane Krakowski and Ellie Kemper"
     ],
     "answer": 1,
@@ -1314,7 +1314,7 @@
       "First streaming series to win 12 Emmys in a single night",
       "Most Emmy nominations for a freshman comedy series in history with 20 nominations",
       "Highest percentage of viewers watching an Emmy telecast",
-      "First British-filmed comedy to sweep all writing and directing categories in every detail"
+      "First British-filmed comedy to sweep all writing and directing categories"
     ],
     "answer": 1,
     "d": 2
@@ -1371,10 +1371,10 @@
     "show": "Streaming TV Shows",
     "q": "In 'Ted Lasso', which real-life soccer stadium in London stands in for AFC Richmond's home ground, Nelson Road?",
     "options": [
-      "Craven Cottage (Fulham F.C.)",
-      "The Den (Millwall F.C.)",
-      "Selhurst Park (Crystal Palace F.C.)",
-      "Stamford Bridge (Chelsea F.C., full cut)"
+      "Craven Cottage",
+      "The Den",
+      "Selhurst Park",
+      "Stamford Bridge"
     ],
     "answer": 2,
     "d": 3
@@ -1420,9 +1420,9 @@
     "q": "In 'Severance', what department do Mark, Helly, Dylan, and Irving work in on the severed floor of Lumon Industries?",
     "options": [
       "Optics & Design",
-      "Disposal & Reclamation (extended broadcast detail)",
+      "Disposal & Reclamation",
       "Research & Development",
-      "Macrodata Refinement (MDR)"
+      "Macrodata Refinement"
     ],
     "answer": 3,
     "d": 1
@@ -1431,7 +1431,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Severance', what do the Macrodata Refinement workers actually do on their retro CRT monitors?",
     "options": [
-      "Transcribe encrypted phone conversations from foreign countries in every detail",
+      "Transcribe encrypted phone conversations from foreign countries",
       "Censor objectionable words from corporate legal briefs",
       "Sort floating numbers that elicit specific emotions into digital bins",
       "Delete metadata logs from executive correspondence"
@@ -1587,7 +1587,7 @@
     "show": "Streaming TV Shows",
     "q": "In Apple TV+'s spy thriller 'Slow Horses', what derogatory nickname is given to MI5 reject agents exiled to Slough House?",
     "options": [
-      "Lame Ducks (senior associate)",
+      "Lame Ducks",
       "Slow Horses",
       "Dead Wood",
       "Flatliners"
@@ -1625,7 +1625,7 @@
     "options": [
       "The Apollo 11 lunar module crashes on the moon",
       "The United States launches a manned mission to Mars in 1968",
-      "The Soviet Union lands the first human, Alexei Leonov, on the Moon before Apollo 11",
+      "The Soviet Union lands the first human",
       "A permanent lunar military base is discovered by NASA satellites"
     ],
     "answer": 2,
@@ -1793,7 +1793,7 @@
     "options": [
       "Michaela Coel",
       "Sharon Horgan",
-      "Daisy May Cooper in every detail",
+      "Daisy May Cooper",
       "Phoebe Waller-Bridge"
     ],
     "answer": 3,
@@ -1804,7 +1804,7 @@
     "q": "In 'Fleabag' Season 2, which character played by Andrew Scott became an internet cultural phenomenon?",
     "options": [
       "The Bank Manager",
-      "The Priest (The Hot Priest)",
+      "The Priest",
       "The Lecturer",
       "The Counselor"
     ],
@@ -1815,7 +1815,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Fleabag', what tragic event in Fleabag's past causes her deep-seated guilt and emotional trauma throughout Season 1?",
     "options": [
-      "Hedgehog cafe with full pedigree papers",
+      "Hedgehog cafe",
       "Cat cafe",
       "Ferret cafe",
       "Guinea pig cafe"
@@ -1827,7 +1827,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Fleabag', which actress won an Emmy for Outstanding Supporting Actress in a Comedy Series playing Fleabag's neurotic sister Claire?",
     "options": [
-      "Breaking the fourth wall by glancing and speaking directly into the camera",
+      "Breaking the fourth wall by glancing",
       "Voiceover narration by an omniscient narrator",
       "Black-and-white flashbacks with subtitles",
       "Subconscious animated doodles on screen"
@@ -1839,8 +1839,8 @@
     "show": "Streaming TV Shows",
     "q": "In 'Fleabag', what rodent-themed cafe does Fleabag operate in London, originally co-owned with her late friend Boo?",
     "options": [
-      "He realizes she stole her Godmother's headless sculpture in every detail",
-      "He notices when she disassociates and turns to address the camera",
+      "He realizes she stole her Godmother's headless sculpture",
+      "He notices",
       "He guesses her true birth name before she speaks it",
       "He catches her whispering prayers under her breath"
     ],
@@ -1851,7 +1851,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Fleabag' Season 2, what bizarre physical reaction does Fleabag's sister Claire experience after getting a disastrous haircut ('I look like a pencil!')?",
     "options": [
-      "It won Outstanding Comedy Series, defeating heavily favored multi-time winner 'Veep'",
+      "It won Outstanding Comedy Series",
       "It won every single guest acting category in television history",
       "It was the first non-American production to win Outstanding Drama Series",
       "Phoebe Waller-Bridge won four acting Emmys in the same night"
@@ -1866,7 +1866,7 @@
       "Oscorp Global",
       "Vought International",
       "LexCorp",
-      "Acrodyne Corporation (senior associate)"
+      "Acrodyne Corporation"
     ],
     "answer": 1,
     "d": 1
@@ -1878,7 +1878,7 @@
       "Compound V",
       "Serum X",
       "Mirakuru",
-      "Formula 9 in every detail"
+      "Formula 9"
     ],
     "answer": 0,
     "d": 1
@@ -1962,7 +1962,7 @@
       "A-Train",
       "Translucent",
       "Tek Knight",
-      "The Deep (Kevin Moskowitz)"
+      "The Deep"
     ],
     "answer": 3,
     "d": 2
@@ -1983,7 +1983,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'The Boys' Season 3, what weapon is Billy Butcher and The Boys hunting in Russia, believing it can permanently kill Homelander?",
     "options": [
-      "Kryptonians (longtime friend)",
+      "Kryptonians",
       "Kree",
       "Skrulls",
       "Viltrumites"
@@ -2176,7 +2176,7 @@
     "q": "Which master Elven smith is manipulated into forging the three Elven rings of power in Eregion in 'The Rings of Power'?",
     "options": [
       "Celebrimbor",
-      "Gil-galad (official selection)",
+      "Gil-galad",
       "Elrond",
       "Círdan"
     ],
@@ -2223,7 +2223,7 @@
     "show": "Streaming TV Shows",
     "q": "Which British comedy writer created 'The IT Crowd' and co-created 'Father Ted' before developing 'Slow Horses' for television?",
     "options": [
-      "Will Smith (not to be confused with the American actor)",
+      "Will Smith",
       "Graham Linehan",
       "Arthur Mathews",
       "Armando Iannucci"
@@ -2235,7 +2235,7 @@
     "show": "Streaming TV Shows",
     "q": "In Apple TV+'s 'Severance', what is the full four-word name of the mysterious room where Mark finds baby goats being bottle-fed?",
     "options": [
-      "There is no official door label, but the feeder yells 'They aren't ready yet!'",
+      "There is no official door label",
       "The Caprine Incubation Chamber",
       "The Pastoral Biological Reserve",
       "Sub-basement Fauna Sector"
@@ -2250,7 +2250,7 @@
       "A rusted Rover 75",
       "A battered blue Ford Mondeo",
       "A 1980s Jaguar XJ",
-      "He does not own a car and relies almost entirely on London black cabs and walking"
+      "He does not own a car"
     ],
     "answer": 3,
     "d": 3
@@ -2259,7 +2259,7 @@
     "show": "Streaming TV Shows",
     "q": "In Apple TV+'s 'The Morning Show', what is the on-air title of the fictional breakfast news program hosted by Alex Levy on the UBA network?",
     "options": [
-      "Daybreak America (senior associate)",
+      "Daybreak America",
       "The Morning Show",
       "Good Morning USA",
       "Rise & Shine"
@@ -2271,10 +2271,10 @@
     "show": "Streaming TV Shows",
     "q": "In 'Ted Lasso', which real Premier League club manager made a high-profile cameo appearance interacting with Ted in Season 3?",
     "options": [
-      "Pep Guardiola (Manchester City)",
-      "Jürgen Klopp (Liverpool, full cut)",
-      "Mikel Arteta (Arsenal)",
-      "José Mourinho (Roma)"
+      "Pep Guardiola",
+      "Jürgen Klopp",
+      "Mikel Arteta",
+      "José Mourinho"
     ],
     "answer": 0,
     "d": 2
@@ -2307,7 +2307,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'The Boys' Season 4, which new member joins The Seven billed as the world's smartest person?",
     "options": [
-      "Firecracker (official selection)",
+      "Firecracker",
       "Sister Sage",
       "Webweaver",
       "Splinter"
@@ -2322,7 +2322,7 @@
       "Angstrom Levy",
       "Conquest",
       "Thragg",
-      "Battle Beast (senior associate)"
+      "Battle Beast"
     ],
     "answer": 0,
     "d": 3
@@ -2344,7 +2344,7 @@
     "q": "In 'The Marvelous Mrs. Maisel', how many total Primetime Emmy Awards did the series win across its five-season run?",
     "options": [
       "22",
-      "Season 14 (original broadcast)",
+      "Season 14",
       "18",
       "27"
     ],
@@ -2355,7 +2355,7 @@
     "show": "Streaming TV Shows",
     "q": "What song does Midge Maisel's father Abe Weissman play on the piano during a poignant scene in Season 4 of 'Mrs. Maisel'?",
     "options": [
-      "Chopin's Nocturne in E-flat major in every detail",
+      "Chopin's Nocturne in E-flat major",
       "Rachmaninoff's Prelude in C-sharp minor",
       "Beethoven's Moonlight Sonata",
       "Debussy's Clair de Lune"
@@ -2487,7 +2487,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Succession', what is the name of the right-wing cable news network owned by Waystar Royco where Tom and Greg work?",
     "options": [
-      "ATN (American Television Network)",
+      "ATN",
       "ANC News",
       "GBS World",
       "LNN America"
@@ -2500,7 +2500,7 @@
     "q": "What culinary concoction do Kendall, Shiv, and Roman make for Kendall in their mother's kitchen in the 'Succession' series finale?",
     "options": [
       "A traditional English Sunday roast with burnt Yorkshire puddings",
-      "A meal fit for a king, containing milk, hot sauce, raw egg, and bread crusts",
+      "A meal fit for a king",
       "A bowl of frosted flakes mixed with expensive champagne",
       "A smoothie made with protein powder and single-malt scotch"
     ],
@@ -2526,7 +2526,7 @@
       "Unreported maritime pollution and toxic waste dumping",
       "Illegal offshore tax shelters in the Cayman Islands",
       "Bribery of foreign port officials in Southeast Asia",
-      "The Brightstar cruise line sexual misconduct and wrongful death cover-up ('Mo' Lester)"
+      "The Brightstar cruise line sexual misconduct"
     ],
     "answer": 3,
     "d": 3
@@ -2549,7 +2549,7 @@
     "options": [
       "Max Richter",
       "Ramin Djawadi",
-      "Ludwig Göransson in every detail",
+      "Ludwig Göransson",
       "Nicholas Britell"
     ],
     "answer": 3,
@@ -2573,7 +2573,7 @@
     "options": [
       "Connor's Wedding",
       "America Decides",
-      "Church and State in every detail",
+      "Church and State",
       "With Open Eyes"
     ],
     "answer": 0,
@@ -2619,10 +2619,10 @@
     "show": "Streaming TV Shows",
     "q": "In 'The White Lotus', where are the luxury resorts located in Season 1 and Season 2, respectively?",
     "options": [
-      "Hawaii (Maui) and Thailand (Koh Samui)",
-      "The Bahamas and French Polynesia (Bora Bora)",
-      "Costa Rica and Greece (Santorini)",
-      "Hawaii (Maui) and Italy (Sicily)"
+      "Hawaii and Thailand",
+      "The Bahamas and French Polynesia",
+      "Costa Rica and Greece",
+      "Hawaii and Italy"
     ],
     "answer": 3,
     "d": 1
@@ -2645,7 +2645,7 @@
     "options": [
       "These gays, they're trying to murder me!",
       "I know what you did in Palermo!",
-      "Greg never loved me from the start! in every detail",
+      "Greg never loved me from the start!",
       "Take me back to Taormina right now!"
     ],
     "answer": 0,
@@ -2658,7 +2658,7 @@
       "She is shot by Quentin inside the luxury stateroom",
       "She is poisoned with champagne during the farewell dinner",
       "She is thrown overboard during a struggle on the open sea",
-      "She slips off the railing of the yacht trying to jump into a dinghy, hits her head, and drowns"
+      "She slips off the railing of the yacht trying to jump into a dinghy"
     ],
     "answer": 3,
     "d": 2
@@ -2727,10 +2727,10 @@
     "show": "Streaming TV Shows",
     "q": "In Max's 'Hacks', what is the name of the canceled twenty-something comedy writer hired to refresh Deborah Vance's aging material?",
     "options": [
-      "Kayla Daniels (Meg Stalter)",
-      "Ava Daniels (Hannah Einbinder)",
-      "Robin Buckley (Maya Hawke)",
-      "Phoebe Waller (Abbi Jacobson, full cut)"
+      "Kayla Daniels",
+      "Ava Daniels",
+      "Robin Buckley",
+      "Phoebe Waller"
     ],
     "answer": 1,
     "d": 1
@@ -2811,7 +2811,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Hacks' Season 2, which veteran character actress plays the chaotic, eccentric weed-dealing boat captain who takes Deborah and Ava aboard?",
     "options": [
-      "She didn't burn it down, but let the rumor persist because it made people afraid of her",
+      "She didn't burn it down",
       "She deliberately threw a lit cigarette onto his mattress",
       "Her sister accidentally started the grease fire",
       "It was an insurance fraud scam orchestrated by the casino"
@@ -2825,8 +2825,8 @@
     "options": [
       "On a luxury comedy cruise through the Caribbean",
       "Across performing arts centers in Western Europe",
-      "In independent college campuses across the Pacific Northwest in every detail",
-      "On a tour bus across small clubs in the American South and Midwest"
+      "In independent college campuses across the Pacific Northwest",
+      "On a tour bus across small clubs in the American South"
     ],
     "answer": 3,
     "d": 2
@@ -2919,9 +2919,9 @@
     "show": "Streaming TV Shows",
     "q": "In 'House of the Dragon', which actor plays Ser Criston Cole, the Dornish knight who becomes Lord Commander of the Kingsguard and Hand of the King?",
     "options": [
-      "Troy Baker and Ashley Johnson in every detail",
+      "Troy Baker and Ashley Johnson",
       "Oscar Isaac and Cailee Spaeny",
-      "Pedro Pascal and Bella Ramsey",
+      "Pedro Pascal",
       "Karl Urban and Dafne Keen"
     ],
     "answer": 2,
@@ -2958,7 +2958,7 @@
       "Damon Lindelof",
       "Noah Hawley",
       "Nic Pizzolatto",
-      "Craig Mazin (creator of 'Chernobyl')"
+      "Craig Mazin"
     ],
     "answer": 3,
     "d": 2
@@ -2969,7 +2969,7 @@
     "options": [
       "Blue Bayou",
       "Long Long Time",
-      "You're No Good in every detail",
+      "You're No Good",
       "Desperado"
     ],
     "answer": 1,
@@ -3087,10 +3087,10 @@
     "show": "Streaming TV Shows",
     "q": "In 'Peacemaker', what amber liquid produced by alien creatures serves as the sole food source for the Butterflies?",
     "options": [
-      "John Blackthorne (Anjin)",
+      "John Blackthorne",
       "William Adams",
       "Richard Cocks",
-      "Thomas Cavendish (extended broadcast detail)"
+      "Thomas Cavendish"
     ],
     "answer": 0,
     "d": 2
@@ -3111,7 +3111,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Peacemaker', what special ability does Christopher Smith's X-ray helmet possess?",
     "options": [
-      "Beskar (Mandalorian iron)",
+      "Beskar",
       "Cortosis",
       "Phrik",
       "Durasteel"
@@ -3172,9 +3172,9 @@
     "q": "In 'The Mandalorian', who portrays the ruthless Imperial warlord Moff Gideon, who wields the Darksaber?",
     "options": [
       "Holocube",
-      "CineMatrix LED (extended broadcast detail)",
+      "CineMatrix LED",
       "ChromaDome",
-      "StageCraft (The Volume)"
+      "StageCraft"
     ],
     "answer": 3,
     "d": 2
@@ -3280,7 +3280,7 @@
     "q": "In 'Andor', which mysterious antiquities dealer and master rebel operative played by Stellan Skarsgård gives the 'What do I sacrifice?' monologue?",
     "options": [
       "Bix Caleen",
-      "Dedra Meero (Denise Gough)",
+      "Dedra Meero",
       "Vel Sartha",
       "Cinta Kaz"
     ],
@@ -3342,7 +3342,7 @@
       "I Love Lucy",
       "The Dick Van Dyke Show",
       "The Honeymooners",
-      "Father Knows Best in every detail"
+      "Father Knows Best"
     ],
     "answer": 1,
     "d": 2
@@ -3388,8 +3388,8 @@
     "q": "In Marvel's 'WandaVision', what retro suburban sitcom town does Wanda Maximoff create to escape her grief?",
     "options": [
       "The Chrono Protection Agency",
-      "The Temporal Oversight Bureau (extended broadcast detail)",
-      "The Time Variance Authority (TVA)",
+      "The Temporal Oversight Bureau",
+      "The Time Variance Authority",
       "The Multiverse Enforcers"
     ],
     "answer": 2,
@@ -3436,7 +3436,7 @@
     "q": "In 'Loki' Season 1, what colossal trans-temporal cloud beast guards the Citadel at the End of Time?",
     "options": [
       "He assumes the mantle of permanent Director of the TVA",
-      "He weaves the dying timelines with his magic and sits upon a throne holding the temporal tree (Yggdrasil)",
+      "He weaves the dying timelines with his magic",
       "He merges with the Temporal Loom to power time forever",
       "He becomes the Supreme Sovereign of Asgard across all timelines"
     ],
@@ -3450,7 +3450,7 @@
       "Miss Minutes",
       "Clocky",
       "Timey",
-      "Lady Hour (senior associate)"
+      "Lady Hour"
     ],
     "answer": 0,
     "d": 2
@@ -3471,7 +3471,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'Loki', what female variant of the God of Mischief played by Sophia Di Martino teams with Loki to overthrow the Time-Keepers?",
     "options": [
-      "Brian (the eccentric intellectual trainee)",
+      "Brian",
       "Gerri Kellman",
       "Karl Muller",
       "Frank Vernon"
@@ -3485,7 +3485,7 @@
     "options": [
       "Villa d'Este, Lake Como",
       "Belmond Grand Hotel Timeo",
-      "San Domenico Palace, Taormina, A Four Seasons Hotel",
+      "San Domenico Palace",
       "Hotel Cipriani, Venice"
     ],
     "answer": 2,
@@ -3519,7 +3519,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'The Last of Us', what is the name of the revolutionary militia movement in Kansas City led by Kathleen Coghlan (Melanie Lynskey)?",
     "options": [
-      "The People's Free Army (overthrow of FEDRA)",
+      "The People's Free Army",
       "The Fireflies Chapter 4",
       "The Hunters of KC",
       "The Resistance Movement"
@@ -3543,7 +3543,7 @@
     "show": "Streaming TV Shows",
     "q": "In 'The Mandalorian' Season 1, what IG-series assassin droid voiced by Taika Waititi is reprogrammed by Kuiil to protect Grogu?",
     "options": [
-      "IG-88 in every detail",
+      "IG-88",
       "IG-90",
       "IG-55",
       "IG-11"
@@ -3591,7 +3591,7 @@
     "show": "Streaming TV Shows",
     "q": "What is the name of the Ferrix marching band's musical instrument made of scrap metal and played during funerals in 'Andor'?",
     "options": [
-      "The Ferrix anvil (rung by the time grappler)",
+      "The Ferrix anvil",
       "The beskar bugle",
       "The scrap horn",
       "The plasma chime"
@@ -3603,7 +3603,7 @@
     "show": "Streaming TV Shows",
     "q": "What all-time Primetime Emmy record did FX/Hulu's 'Shōgun' set in 2024 for the most wins by any series in a single television season?",
     "options": [
-      "A total of 14 Emmys overall",
+      "14 Emmys overall",
       "16 Emmys",
       "20 Emmys",
       "18 Emmys"
@@ -3615,10 +3615,10 @@
     "show": "Streaming TV Shows",
     "q": "What was the first television show produced by a streaming service to win the Primetime Emmy Award for Outstanding Drama Series?",
     "options": [
-      "House of Cards (Netflix, 2014)",
-      "The Crown (Netflix, 2021)",
-      "The Handmaid's Tale (Hulu, 2017)",
-      "Stranger Things (Netflix, 2017, full cut)"
+      "House of Cards",
+      "The Crown",
+      "The Handmaid's Tale",
+      "Stranger Things"
     ],
     "answer": 2,
     "d": 2
@@ -3627,10 +3627,10 @@
     "show": "Streaming TV Shows",
     "q": "What was the first television show produced by a streaming service to win the Primetime Emmy Award for Outstanding Comedy Series?",
     "options": [
-      "Transparent (Amazon Prime Video, 2015)",
-      "Fleabag (Amazon Prime Video, 2019)",
-      "Ted Lasso (Apple TV+, 2021)",
-      "The Marvelous Mrs. Maisel (Amazon Prime Video, 2018)"
+      "Transparent",
+      "Fleabag",
+      "Coach Ted Lasso the football manager",
+      "The Marvelous Mrs. Maisel"
     ],
     "answer": 3,
     "d": 2
@@ -3642,7 +3642,7 @@
       "11 Emmys",
       "8 Emmys",
       "9 Emmys",
-      "A total of 13 Emmys overall"
+      "13 Emmys overall"
     ],
     "answer": 0,
     "d": 2
@@ -3652,8 +3652,8 @@
     "q": "Which show held the previous record of 10 Emmy wins in a single season for a comedy series, set in 2021, before 'The Bear' broke it?",
     "options": [
       "Schitt's Creek",
-      "Ted Lasso",
-      "Modern Family (senior associate)",
+      "Coach Ted Lasso the football manager",
+      "Modern Family",
       "30 Rock"
     ],
     "answer": 0,
@@ -3666,7 +3666,7 @@
       "Two times",
       "Three times",
       "Five times",
-      "Four times (one for each season)"
+      "Four times"
     ],
     "answer": 3,
     "d": 2
@@ -3675,10 +3675,10 @@
     "show": "Streaming TV Shows",
     "q": "At the 74th Primetime Emmy Awards in 2022, who became the first Asian actor in history to win Outstanding Lead Actor in a Drama Series?",
     "options": [
-      "Hiroyuki Sanada (Shōgun, full cut)",
-      "Steven Yeun (Beef)",
-      "Lee Jung-jae (Squid Game)",
-      "John Cho (Cowboy Bebop)"
+      "Hiroyuki Sanada",
+      "Steven Yeun",
+      "Lee Jung-jae",
+      "John Cho"
     ],
     "answer": 2,
     "d": 1
@@ -3699,10 +3699,10 @@
     "show": "Streaming TV Shows",
     "q": "At the 73rd Primetime Emmy Awards in 2021, which series achieved an unprecedented sweep of all seven major Drama categories?",
     "options": [
-      "Succession (Season 2)",
-      "Game of Thrones (Season 8)",
-      "The Crown (Season 4)",
-      "Better Call Saul (Season 5)"
+      "Succession",
+      "Game of Thrones",
+      "The Crown",
+      "Better Call Saul"
     ],
     "answer": 2,
     "d": 2
@@ -3711,10 +3711,10 @@
     "show": "Streaming TV Shows",
     "q": "How many total Emmy nominations did AMC/Netflix's 'Better Call Saul' receive across its six seasons without winning a single Emmy?",
     "options": [
-      "32 nominations (0 wins, full cut)",
-      "41 nominations (0 wins)",
-      "53 nominations (0 wins)",
-      "65 nominations (0 wins)"
+      "32 nominations",
+      "41 nominations",
+      "53 nominations",
+      "65 nominations"
     ],
     "answer": 2,
     "d": 2
@@ -3747,9 +3747,9 @@
     "show": "Streaming TV Shows",
     "q": "In 2024, which Japanese star became the first Japanese actress to win an Emmy for Lead Actress in a Drama Series?",
     "options": [
-      "Rinko Kikuchi (recurring guest performer)",
+      "Rinko Kikuchi",
       "Tao Okamoto",
-      "Anna Sawai (Shōgun)",
+      "Anna Sawai",
       "Moeka Hoshi"
     ],
     "answer": 2,
@@ -3771,8 +3771,8 @@
     "show": "Streaming TV Shows",
     "q": "Who became the first person in Emmy history to win Directing, Writing, and Lead Actress for a Comedy Series in the same night in 2019?",
     "options": [
-      "Amy Sherman-Palladino (recurring guest performer)",
-      "Phoebe Waller-Bridge (Fleabag)",
+      "Amy Sherman-Palladino",
+      "Phoebe Waller-Bridge",
       "Tina Fey",
       "Issa Rae"
     ],
@@ -3783,7 +3783,7 @@
     "show": "Streaming TV Shows",
     "q": "In 2018, Amy Sherman-Palladino made Emmy history by becoming the first woman to win which two awards in the same ceremony?",
     "options": [
-      "Outstanding Writing and Outstanding Directing for a Comedy Series ('The Marvelous Mrs. Maisel')",
+      "Outstanding Writing",
       "Outstanding Comedy Series and Lead Actress in a Comedy Series",
       "Outstanding Writing for a Drama and Comedy Series",
       "Outstanding Directing and Outstanding Editing"
@@ -3843,7 +3843,7 @@
     "show": "Streaming TV Shows",
     "q": "How many total Primetime Emmy nominations did HBO's 'Game of Thrones' receive across its run, setting the all-time drama record?",
     "options": [
-      "A total of 112 nominations overall",
+      "112 nominations overall",
       "135 nominations",
       "160 nominations",
       "190 nominations"
@@ -3894,7 +3894,7 @@
       "It won every single acting category across comedy and drama",
       "It became the first platform to win 50 Emmys in one evening",
       "It swept all four major series categories in the same year",
-      "It ended HBO's 17-year streak by earning the most Emmy nominations of any network/platform (112 nominations)"
+      "It ended HBO's 17-year streak by earning the most Emmy nominations of any network/platform"
     ],
     "answer": 3,
     "d": 3
@@ -3903,7 +3903,7 @@
     "show": "Streaming TV Shows",
     "q": "In what year did Netflix officially launch its revolutionary video-on-demand streaming service alongside its legacy DVD-by-mail service?",
     "options": [
-      "The calendar year 2005",
+      "2005",
       "2007",
       "2009",
       "2011"
@@ -3928,7 +3928,7 @@
     "q": "What was the Norwegian-American comedy series starring Steven Van Zandt that technically premiered in 2012 as Netflix's first exclusive co-production?",
     "options": [
       "Lilyhammer",
-      "Norsemen (official selection)",
+      "Norsemen",
       "Ragnarok",
       "Occupied"
     ],
@@ -3940,7 +3940,7 @@
     "q": "On what date did Disney+ officially launch in the United States, signing up over 10 million subscribers on its very first day?",
     "options": [
       "November 1, 2019",
-      "December 15, 2019 in every detail",
+      "December 15, 2019",
       "January 1, 2020",
       "November 12, 2019"
     ],
@@ -3965,7 +3965,7 @@
     "options": [
       "$14.99 per month",
       "$9.99 per month",
-      "$11.99 per month in every detail",
+      "$11.99 per month",
       "$19.99 per month"
     ],
     "answer": 0,
@@ -3987,10 +3987,10 @@
     "show": "Streaming TV Shows",
     "q": "Which pair of media giants initially founded Hulu in 2007 as a joint venture streaming platform to compete with YouTube?",
     "options": [
-      "NBCUniversal and News Corporation",
+      "NBCUniversal",
       "CBS and Viacom",
       "Disney and WarnerMedia",
-      "Sony Pictures and Time Warner with full pedigree papers"
+      "Sony Pictures and Time Warner"
     ],
     "answer": 0,
     "d": 3
@@ -4023,7 +4023,7 @@
     "show": "Streaming TV Shows",
     "q": "Which NBCUniversal streaming service launched in July 2020, named after the iconic feathered logo of NBC?",
     "options": [
-      "Pelican (official selection)",
+      "Pelican",
       "Peacock",
       "Eagle",
       "Falcon"
@@ -4047,7 +4047,7 @@
     "show": "Streaming TV Shows",
     "q": "In what year did Netflix roll out its algorithmic 'Skip Intro' button, which users now click billions of times per year?",
     "options": [
-      "The calendar year 2014",
+      "2014",
       "2015",
       "2019",
       "2017"
@@ -4060,9 +4060,9 @@
     "q": "In 2023, Netflix implemented a controversial global crackdown on what widespread consumer behavior, resulting in an unexpected surge of new subscribers?",
     "options": [
       "Password/account sharing across multiple households",
-      "Use of Virtual Private Networks (VPNs)",
+      "Use of Virtual Private Networks",
       "Offline downloading of 4K content",
-      "Third-party profile picture customizations in every detail"
+      "Third-party profile picture customizations"
     ],
     "answer": 0,
     "d": 2
@@ -4071,9 +4071,9 @@
     "show": "Streaming TV Shows",
     "q": "In November 2022, Netflix launched its first-ever cheaper subscription tier supported by what feature it had previously resisted for decades?",
     "options": [
-      "Commercial advertisements ('Basic with Ads')",
+      "Commercial advertisements",
       "Daily viewing time limits",
-      "480p standard-definition restrictions (extended broadcast detail)",
+      "480p standard-definition restrictions",
       "Mandatory two-year annual contracts"
     ],
     "answer": 0,
@@ -4085,7 +4085,7 @@
     "options": [
       "Netflix",
       "Amazon Prime Video",
-      "Apple TV+ in every detail",
+      "Apple TV+",
       "Disney+"
     ],
     "answer": 1,
@@ -4098,7 +4098,7 @@
       "2018",
       "2019",
       "2023",
-      "2021 (closing in 2022)"
+      "2021"
     ],
     "answer": 3,
     "d": 3
@@ -4181,7 +4181,7 @@
     "options": [
       "Netflix",
       "Amazon Prime Video",
-      "Apple TV+ in every detail",
+      "Apple TV+",
       "Peacock"
     ],
     "answer": 1,
@@ -4191,9 +4191,9 @@
     "show": "Streaming TV Shows",
     "q": "In 2022, Apple signed a historic 10-year, $2.5 billion worldwide broadcast partnership with which North American professional sports league?",
     "options": [
-      "Major League Soccer (MLS)",
-      "Major League Baseball (MLB)",
-      "National Hockey League (NHL)",
+      "Major League Soccer",
+      "Major League Baseball",
+      "National Hockey League",
       "WNBA"
     ],
     "answer": 0,
@@ -4206,7 +4206,7 @@
       "The linear rollout",
       "The episodic flow",
       "The syndicated trickle",
-      "The binge-drop model (or batch drop)"
+      "The binge-drop model"
     ],
     "answer": 3,
     "d": 1
@@ -4216,7 +4216,7 @@
     "q": "How did Netflix release Season 4 of 'Stranger Things' in 2022 to sustain subscriber engagement and Emmy buzz over the summer?",
     "options": [
       "Releasing one episode every Friday over nine consecutive weeks",
-      "Splitting the season into two volumes released one month apart (May and July 2022)",
+      "Splitting the season into two volumes released one month apart",
       "Dropping three episodes every weekend for three weeks",
       "Streaming the episodes live as a continuous 24-hour marathon"
     ],
@@ -4227,7 +4227,7 @@
     "show": "Streaming TV Shows",
     "q": "Which streaming service standardizes a hybrid rollout model: dropping the first three episodes on premiere day, followed by weekly installments?",
     "options": [
-      "Amazon Prime Video (and Apple TV+ for many series)",
+      "Amazon Prime Video",
       "Netflix",
       "YouTube Premium",
       "Pluto TV"
@@ -4251,7 +4251,7 @@
     "show": "Streaming TV Shows",
     "q": "In what year did Nielsen officially launch its SVOD (Subscription Video on Demand) Content Ratings to track streaming minutes viewed on television sets?",
     "options": [
-      "The calendar year 2016",
+      "2016",
       "2020",
       "2018",
       "2022"
@@ -4275,10 +4275,10 @@
     "show": "Streaming TV Shows",
     "q": "According to Netflix's historical data, which non-English language series holds the all-time record as the platform's most-watched television season ever?",
     "options": [
-      "Money Heist (Part 4)",
-      "Squid Game (Season 1) with over 2.2 billion hours viewed",
-      "Lupin (Part 1)",
-      "Dark (Season 3)"
+      "Money Heist",
+      "Squid Game with over 2.2 billion hours viewed",
+      "Lupin",
+      "Dark"
     ],
     "answer": 1,
     "d": 2
@@ -4326,7 +4326,7 @@
       "House of the Dragon",
       "The Last of Us",
       "Euphoria Season 2",
-      "Succession Season 4 in every detail"
+      "Succession Season 4"
     ],
     "answer": 0,
     "d": 2
@@ -4336,7 +4336,7 @@
     "q": "According to Amazon, how many global viewers tuned into the premiere of 'The Lord of the Rings: The Rings of Power' in its first 24 hours?",
     "options": [
       "25 million viewers",
-      "10 million viewers in every detail",
+      "10 million viewers",
       "45 million viewers",
       "60 million viewers"
     ],
@@ -4349,7 +4349,7 @@
     "options": [
       "Fallout",
       "Halo",
-      "Twisted Metal with full pedigree papers",
+      "Twisted Metal",
       "The Last of Us"
     ],
     "answer": 3,
@@ -4359,9 +4359,9 @@
     "show": "Streaming TV Shows",
     "q": "Which animated video game adaptation produced by Riot Games and Fortiche on Netflix won the Emmy for Outstanding Animated Program in 2022?",
     "options": [
-      "Arcane (League of Legends)",
+      "Arcane",
       "Castlevania",
-      "Cyberpunk: Edgerunners (extended broadcast detail)",
+      "Cyberpunk: Edgerunners",
       "DOTA: Dragon's Blood"
     ],
     "answer": 0,
@@ -4374,7 +4374,7 @@
       "Making a Murderer",
       "The Jinx",
       "Don't F**k with Cats",
-      "Tiger King: Murder, Mayhem and Madness"
+      "Tiger King: Murder"
     ],
     "answer": 3,
     "d": 1
@@ -4383,7 +4383,7 @@
     "show": "Streaming TV Shows",
     "q": "According to Nielsen, how many billion minutes of 'The Office' were streamed on Netflix in the United States in 2020 before it moved exclusively to Peacock?",
     "options": [
-      "25.4 billion minutes in every detail",
+      "25.4 billion minutes",
       "38.7 billion minutes",
       "57.1 billion minutes",
       "72.0 billion minutes"
@@ -4395,7 +4395,7 @@
     "show": "Streaming TV Shows",
     "q": "In 2019, how much did NBCUniversal reportedly pay to license the exclusive domestic streaming rights of 'The Office' for five years on Peacock?",
     "options": [
-      "$500 million ($100 million per year)",
+      "$500 million",
       "$250 million",
       "$425 million",
       "$750 million"
@@ -4407,7 +4407,7 @@
     "show": "Streaming TV Shows",
     "q": "How much did WarnerMedia reportedly pay in 2019 to secure the exclusive five-year domestic streaming rights of 'Friends' for HBO Max?",
     "options": [
-      "$425 million ($85 million per year)",
+      "$425 million",
       "$200 million",
       "$300 million",
       "$600 million"
@@ -4419,7 +4419,7 @@
     "show": "Streaming TV Shows",
     "q": "How much did Netflix pay in 2019 to secure the worldwide global streaming rights to 'Seinfeld' starting in 2021?",
     "options": [
-      "$200 million in every detail",
+      "$200 million",
       "$350 million",
       "Over $500 million",
       "$800 million"
@@ -4456,7 +4456,7 @@
     "q": "What chess board retail surge occurred globally in late 2020 following the premiere of 'The Queen's Gambit' on Netflix?",
     "options": [
       "Chess set sales declined due to online mobile apps",
-      "Chess set sales surged by over 80% to 1,000% across major retailers like eBay and Goliath Games",
+      "Chess set sales surged by over 80% to 1,000% across major retailers",
       "Only wooden antique boards saw a modest 10% increase",
       "Manufacturers faced a total wood shortage halting all production"
     ],
@@ -4480,9 +4480,9 @@
     "q": "What Spanish heist drama became an unexpected global phenomenon after Netflix acquired global streaming rights in late 2017 and recut its episodes?",
     "options": [
       "Elite",
-      "Money Heist (La Casa de Papel)",
+      "Money Heist",
       "Cable Girls",
-      "Vis a Vis (Locked Up, extended broadcast television cut)"
+      "Vis a Vis"
     ],
     "answer": 1,
     "d": 1
@@ -4503,7 +4503,7 @@
     "show": "Streaming TV Shows",
     "q": "Who are the twin brother creators, writers, and directors of Netflix's 'Stranger Things'?",
     "options": [
-      "Matt and Ross Duffer (The Duffer Brothers)",
+      "Matt and Ross Duffer",
       "Anthony and Joe Russo",
       "Joel and Ethan Coen",
       "Jonathan and Christopher Nolan"
@@ -4539,7 +4539,7 @@
     "show": "Streaming TV Shows",
     "q": "Which former showrunner of 'Gilmore Girls' and 'Bunheads' created the award-winning Amazon series 'The Marvelous Mrs. Maisel'?",
     "options": [
-      "Marta Kauffman (senior associate)",
+      "Marta Kauffman",
       "Liz Meriwether",
       "Mindy Kaling",
       "Amy Sherman-Palladino"
@@ -4625,7 +4625,7 @@
     "options": [
       "Jonathan Nolan and Lisa Joy",
       "Damon Lindelof and Carlton Cuse",
-      "David Benioff, D.B. Weiss, and Alexander Woo",
+      "David Benioff",
       "The Duffer Brothers"
     ],
     "answer": 2,
@@ -4684,7 +4684,7 @@
     "q": "Who directed the four-episode series finale of 'The Crown' and previously directed the theatrical films 'The Iron Lady' and 'Mamma Mia!'?",
     "options": [
       "Tom Hooper directed all six season finales",
-      "Phyllida Lloyd did not direct; Christian Schwochow and Stephen Daldry directed major installments",
+      "Phyllida Lloyd did not direct",
       "Kenneth Branagh directed the final season",
       "Stephen Daldry directed the entire six-season run solo"
     ],
@@ -4731,8 +4731,8 @@
     "show": "Streaming TV Shows",
     "q": "Who co-created and wrote the mockumentary vampire comedy series 'What We Do in the Shadows' for FX and Hulu?",
     "options": [
-      "Jemaine Clement and Taika Waititi",
-      "Bret McKenzie and Jemaine Clement in every detail",
+      "Jemaine Clement",
+      "Bret McKenzie and Jemaine Clement",
       "Rhys Darby and Taika Waititi",
       "Bill Hader and Alec Berg"
     ],
@@ -4746,7 +4746,7 @@
       "Baran bo Odar and Jantje Friese",
       "Søren Sveistrup",
       "Lars Mikkelsen",
-      "Jannik Tai Mosholt, Christian Potalivo, and Esben Toft Jacobsen"
+      "Jannik Tai Mosholt"
     ],
     "answer": 3,
     "d": 3
@@ -4779,7 +4779,7 @@
     "show": "Streaming TV Shows",
     "q": "Which writer-director wrote and directed the entire third season of 'Twin Peaks' ('The Return') for Showtime/streaming in 2017?",
     "options": [
-      "David Lynch (co-written with Mark Frost)",
+      "David Lynch",
       "Mark Frost solo",
       "David Cronenberg",
       "Denis Villeneuve"
@@ -4803,10 +4803,10 @@
     "show": "Streaming TV Shows",
     "q": "With a total production budget exceeding $465 million for its eight-episode first season, which fantasy series became the most expensive television season ever made?",
     "options": [
-      "The Lord of the Rings: The Rings of Power (Amazon Prime Video)",
-      "House of the Dragon (HBO/Max)",
-      "Stranger Things Season 4 (Netflix)",
-      "The Mandalorian (Disney+)"
+      "The Lord of the Rings: The Rings of Power",
+      "House of the Dragon",
+      "Stranger Things Season 4",
+      "The Mandalorian"
     ],
     "answer": 0,
     "d": 1
@@ -4815,7 +4815,7 @@
     "show": "Streaming TV Shows",
     "q": "How much did each episode of Netflix's 'Stranger Things' Season 4 cost on average to produce?",
     "options": [
-      "$12 million per episode in every detail",
+      "$12 million per episode",
       "$18 million per episode",
       "$30 million per episode",
       "$45 million per episode"
@@ -4839,7 +4839,7 @@
     "show": "Streaming TV Shows",
     "q": "What was the estimated production budget per episode for Marvel's flagship Disney+ series such as 'WandaVision' and 'The Falcon and the Winter Soldier'?",
     "options": [
-      "$10 million per episode in every detail",
+      "$10 million per episode",
       "$15 million per episode",
       "$25 million per episode",
       "$40 million per episode"
@@ -4852,7 +4852,7 @@
     "q": "What was the estimated production budget per episode for Season 1 of HBO's 'House of the Dragon', keeping it under $20 million per episode?",
     "options": [
       "$8 million per episode",
-      "$12 million per episode in every detail",
+      "$12 million per episode",
       "$35 million per episode",
       "Roughly $20 million per episode"
     ],
@@ -4878,7 +4878,7 @@
       "Unity",
       "CryEngine",
       "Frostbite",
-      "Unreal Engine (Epic Games)"
+      "Unreal Engine"
     ],
     "answer": 3,
     "d": 2
@@ -4889,7 +4889,7 @@
     "options": [
       "2 to 3 hours",
       "4 to 5 hours",
-      "12 to 14 hours with full pedigree papers",
+      "12 to 14 hours",
       "Between 7 and 8.5 hours"
     ],
     "answer": 3,
@@ -4900,7 +4900,7 @@
     "q": "What percentage of Vecna's on-screen appearance in 'Stranger Things' Season 4 was created using practical prosthetics rather than full CGI, according to makeup designer Barrie Gower?",
     "options": [
       "Roughly 90% practical",
-      "20% practical in every detail",
+      "20% practical",
       "50% practical",
       "70% practical"
     ],
@@ -4938,7 +4938,7 @@
       "Wētā FX",
       "Digital Domain",
       "Framestore",
-      "Industrial Light & Magic (ILM)"
+      "Industrial Light & Magic"
     ],
     "answer": 3,
     "d": 1
@@ -4950,7 +4950,7 @@
       "$15 million per episode",
       "$5 million per episode",
       "$8 million per episode",
-      "$25 million per episode in every detail"
+      "$25 million per episode"
     ],
     "answer": 0,
     "d": 3
@@ -4971,7 +4971,7 @@
     "show": "Streaming TV Shows",
     "q": "How much was the estimated budget for the two-hour series finale episodes (Volume 2) of 'Stranger Things' Season 4 combined?",
     "options": [
-      "$20 million in every detail",
+      "$20 million",
       "$35 million",
       "$90 million",
       "Over $60 million"
@@ -4985,7 +4985,7 @@
     "options": [
       "The Queen's wedding dress",
       "The ceremonial Order of the Garter mantle",
-      "The Queen's coronation gown and crimson velvet Robe of Estate",
+      "The Queen's coronation gown",
       "The Imperial State Crown with replica diamonds"
     ],
     "answer": 2,
@@ -4996,7 +4996,7 @@
     "q": "What was the total estimated budget for Netflix's live-action adaptation of 'One Piece' Season 1, costing roughly $18 million per episode?",
     "options": [
       "$80 million",
-      "$100 million in every detail",
+      "$100 million",
       "$140 million",
       "$200 million"
     ],
@@ -5007,7 +5007,7 @@
     "show": "Streaming TV Shows",
     "q": "Which 2024 Netflix sci-fi series spent an estimated $20 million per episode adapting Liu Cixin's complex Hugo Award-winning novel?",
     "options": [
-      "Altered Carbon (senior associate)",
+      "Altered Carbon",
       "Sense8",
       "3 Body Problem",
       "Dark"
@@ -5129,7 +5129,7 @@
     "options": [
       "Will Forte was the studio frontrunner",
       "John C. Reilly turned down the pilot offer",
-      "No high-profile comedy star was cast, but Harbour was chosen over bigger studio names",
+      "No high-profile comedy star was cast",
       "Jason Sudeikis was originally offered the role"
     ],
     "answer": 2,
@@ -5141,7 +5141,7 @@
     "options": [
       "Disney released him from his Lucasfilm contract early",
       "He filmed both shows concurrently on the same soundstage in Atlanta",
-      "His Mandalorian face was rarely shown, allowing stunt doubles (Brendan Wayne and Lateef Crowder) to perform in suit while Pascal voiced the role",
+      "His Mandalorian face was rarely shown",
       "Lucasfilm put 'The Mandalorian' on a two-year hiatus to accommodate HBO"
     ],
     "answer": 2,
@@ -5163,8 +5163,8 @@
     "show": "Streaming TV Shows",
     "q": "Which character in 'The Bear' was specifically written by Christopher Storer for real-life Canadian culinary star and chef Matty Matheson?",
     "options": [
-      "Neil Fak (the handyman)",
-      "Gary 'Sweeps' Woods (extended broadcast detail)",
+      "Neil Fak",
+      "Gary 'Sweeps' Woods",
       "Marcus",
       "Ebraheim"
     ],
@@ -5176,9 +5176,9 @@
     "q": "What real-life mother and daughter duo played the mother-daughter lead characters in Netflix's 2021 drama miniseries 'Maid'?",
     "options": [
       "Laura Dern and Diane Ladd",
-      "Margaret Qualley and Andie MacDowell",
+      "Margaret Qualley",
       "Goldie Hawn and Kate Hudson",
-      "Blythe Danner and Gwyneth Paltrow in every detail"
+      "Blythe Danner and Gwyneth Paltrow"
     ],
     "answer": 1,
     "d": 2
@@ -5214,7 +5214,7 @@
       "David Harbour",
       "Matthew Modine",
       "Paul Reiser",
-      "Winona Ryder (as Joyce Byers)"
+      "Winona Ryder"
     ],
     "answer": 3,
     "d": 2
@@ -5223,7 +5223,7 @@
     "show": "Streaming TV Shows",
     "q": "Which actor auditioned for the role of Homelander in 'The Boys' while reading the sides in an American accent before Eric Kripke cast him?",
     "options": [
-      "Antony Starr (a New Zealander)",
+      "Antony Starr",
       "Karl Urban",
       "Nathan Fillion",
       "Alexander Skarsgård"
@@ -5307,7 +5307,7 @@
     "show": "Streaming TV Shows",
     "q": "Which comedy star was originally cast as Greg Hirsch in 'Succession' before Nicholas Braun took the role?",
     "options": [
-      "Nicholas Braun was cast from the pilot; no other actor shot scenes as Greg",
+      "Nicholas Braun was cast from the pilot",
       "Thomas Middleditch was originally cast",
       "Kumail Nanjiani shot test pilot scenes",
       "Pete Davidson was considered for the role"
@@ -5320,7 +5320,7 @@
     "q": "Which Oscar-winning actor was cast as eccentric billionaire Peter Weyland in 'Prometheus' and later played Logan Roy's wealthy investor rival Josh Aaronson in 'Succession'?",
     "options": [
       "Guy Pearce",
-      "Mark Rylance with full pedigree papers",
+      "Mark Rylance",
       "Adrien Brody",
       "Sam Rockwell"
     ],
@@ -5391,7 +5391,7 @@
     "show": "Streaming TV Shows",
     "q": "Which ancient Portuguese village built into and around giant granite boulders served as the filming location for the ancestral Targaryen stronghold Dragonstone in 'House of the Dragon'?",
     "options": [
-      "Sintra, Portugal with full pedigree papers",
+      "Sintra, Portugal",
       "Monsanto, Portugal",
       "Marvão, Portugal",
       "Óbidos, Portugal"
@@ -5429,7 +5429,7 @@
     "options": [
       "Dubrovnik, Croatia",
       "Girona, Spain",
-      "Cáceres (Extremadura, Spain)",
+      "Cáceres",
       "Seville, Spain"
     ],
     "answer": 2,
@@ -5439,10 +5439,10 @@
     "show": "Streaming TV Shows",
     "q": "In 'The Last of Us', which Canadian province served as the primary filming location standing in for various post-apocalyptic American cities including Boston and Jackson?",
     "options": [
-      "British Columbia (Vancouver)",
-      "Ontario (Toronto)",
-      "Quebec (Montreal)",
-      "Alberta (Calgary, Edmonton, and Canmore)"
+      "British Columbia",
+      "Ontario",
+      "Quebec",
+      "Alberta"
     ],
     "answer": 3,
     "d": 2
@@ -5451,7 +5451,7 @@
     "show": "Streaming TV Shows",
     "q": "What Norwegian luxury hotel perched on a fjord cliff served as Lukas Matsson's Scandinavian retreat in 'Succession' Season 4 Episode 5?",
     "options": [
-      "Juvet Landscape Hotel in Valldal, Norway",
+      "Juvet Landscape Hotel in Valldal",
       "The Arctic TreeHouse Hotel",
       "Treehotel Harads",
       "Manshausen Island Resort"
@@ -5487,8 +5487,8 @@
     "show": "Streaming TV Shows",
     "q": "In Apple TV+'s 'Ted Lasso', which historic street in southwest London served as the picturesque cobblestone exterior where Ted's flat and pub are located?",
     "options": [
-      "Paved Court in Richmond Green, London",
-      "Portobello Road in Notting Hill with full pedigree papers",
+      "Paved Court in Richmond Green",
+      "Portobello Road in Notting Hill",
       "Carnaby Street in Soho",
       "Columbia Road in Bethnal Green"
     ],
@@ -5499,9 +5499,9 @@
     "show": "Streaming TV Shows",
     "q": "Which luxury cliffside hotel in Taormina, Sicily served as the filming location for 'The White Lotus' Season 2, formerly a 14th-century Dominican convent?",
     "options": [
-      "Belmond Grand Hotel Timeo (extended broadcast detail)",
+      "Belmond Grand Hotel Timeo",
       "Villa Sant'Andrea",
-      "San Domenico Palace (Four Seasons)",
+      "San Domenico Palace",
       "The Ashbee Hotel"
     ],
     "answer": 2,
@@ -5514,7 +5514,7 @@
       "Jeju Island",
       "Ulleungdo",
       "Ganghwado",
-      "Seungbong-do (specifically Guleop-do)"
+      "Seungbong-do"
     ],
     "answer": 3,
     "d": 3
@@ -5535,7 +5535,7 @@
     "show": "Streaming TV Shows",
     "q": "Which Scottish coastal fishing town served as the location for the vibrant, crowded Ferrix marketplace and funeral procession in 'Andor'?",
     "options": [
-      "Little Marlow in Buckinghamshire (built on a massive outdoor quarry backlot)",
+      "Little Marlow in Buckinghamshire",
       "Stonehaven, Scotland",
       "Oban, Scotland",
       "Portree, Isle of Skye"
@@ -5548,9 +5548,9 @@
     "q": "In 'House of the Dragon', where was the dramatic coastal fortress of High Tide on Driftmark (seat of House Velaryon) filmed?",
     "options": [
       "Mont-Saint-Michel in Normandy",
-      "Dunluce Castle in Northern Ireland in every detail",
+      "Dunluce Castle in Northern Ireland",
       "Bamburgh Castle in Northumberland",
-      "St Michael's Mount in Cornwall, England"
+      "St Michael's Mount in Cornwall"
     ],
     "answer": 3,
     "d": 3
@@ -5584,7 +5584,7 @@
     "q": "In 'Yellowstone' and its streaming spinoffs '1883' and '1923', what real Montana ranch serves as the iconic Chief Joseph Ranch where the Dutton family resides?",
     "options": [
       "Flying D Ranch",
-      "Chief Joseph Ranch in Darby, Montana",
+      "Chief Joseph Ranch in Darby",
       "Bozeman Creek Ranch",
       "Bitterroot River Ranch"
     ],
@@ -5597,7 +5597,7 @@
     "options": [
       "Lake of the Ozarks in Missouri",
       "Table Rock Lake in Missouri",
-      "Lake Allatoona and Lake Lanier in Georgia (not Missouri)",
+      "Lake Allatoona",
       "Lake Norman in North Carolina"
     ],
     "answer": 2,
@@ -5622,7 +5622,7 @@
       "Leavesden Studios in Watford",
       "Pinewood Studios in Buckinghamshire",
       "Belfast Harbor Studios in Northern Ireland",
-      "Bray Film Studios and Bovingdon Airfield in England"
+      "Bray Film Studios"
     ],
     "answer": 3,
     "d": 3
@@ -5631,7 +5631,7 @@
     "show": "Streaming TV Shows",
     "q": "Which iconic street in Albuquerque, New Mexico features the real car wash owned by Walter White in 'Breaking Bad' (Octopus Car Wash, now Mister Car Wash)?",
     "options": [
-      "Snow Heights Circle NE (Menaul Blvd)",
+      "Snow Heights Circle NE",
       "Central Avenue",
       "Lomas Boulevard",
       "Coors Boulevard"
@@ -5643,7 +5643,7 @@
     "show": "Streaming TV Shows",
     "q": "In 2023, what unprecedented simultaneous labor action shut down almost all streaming television productions for nearly five months?",
     "options": [
-      "The joint WGA (Writers Guild of America) and SAG-AFTRA (Screen Actors Guild) strikes",
+      "The joint WGA and SAG-AFTRA strikes",
       "The IATSE nationwide technical team walkout",
       "The Directors Guild of America solo strike",
       "The Teamsters theatrical driver boycott"
@@ -5658,7 +5658,7 @@
       "Mandatory 60-day theatrical exclusivity windows",
       "Elimination of foreign language dubbing programs",
       "Banning the use of green screen technology",
-      "Streaming residual formulas based on viewership transparency and success metrics"
+      "Streaming residual formulas based on viewership transparency"
     ],
     "answer": 3,
     "d": 2
@@ -5691,7 +5691,7 @@
     "show": "Streaming TV Shows",
     "q": "Which controversial 2023 HBO/Max drama series created by Sam Levinson and Abel 'The Weeknd' Tesfaye was widely panned by critics at Cannes and canceled after five episodes?",
     "options": [
-      "Euphoria (official selection)",
+      "Euphoria",
       "Industry",
       "The Idol",
       "Vinyl"
@@ -5718,7 +5718,7 @@
       "Swamp Thing",
       "Stargirl",
       "Krypton",
-      "Doom Patrol (and Titans)"
+      "Doom Patrol"
     ],
     "answer": 3,
     "d": 3
@@ -5790,7 +5790,7 @@
       "The Empress",
       "Sisi",
       "Charité",
-      "Maximilian (official selection)"
+      "Maximilian"
     ],
     "answer": 0,
     "d": 3
@@ -5814,7 +5814,7 @@
       "A 75% score that failed to find an audience",
       "Universal critical praise that was too expensive to renew",
       "Positive domestic ratings but a total boycott in Japan",
-      "A 46% Rotten Tomatoes score and swift cancellation due to poor completion rates"
+      "A 46% Rotten Tomatoes score"
     ],
     "answer": 3,
     "d": 3
@@ -5823,7 +5823,7 @@
     "show": "Streaming TV Shows",
     "q": "In 2024, what real-world legal action followed the viral success of Netflix's 'Baby Reindeer'?",
     "options": [
-      "A $170 million defamation and emotional distress lawsuit filed by Fiona Harvey, claiming she was defamed as the real-life Martha",
+      "A $170 million defamation",
       "A trademark infringement lawsuit by the Edinburgh Fringe Festival",
       "A criminal indictment against Richard Gadd for unauthorized recording",
       "A copyright injunction filed by the BBC over script rights"
@@ -5886,7 +5886,7 @@
       "BBC One",
       "ITV",
       "Sky Atlantic",
-      "Channel 4 (United Kingdom)"
+      "Channel 4"
     ],
     "answer": 3,
     "d": 2
@@ -5955,7 +5955,7 @@
     "show": "Streaming TV Shows",
     "q": "Which critically acclaimed Hulu comedy about a Native American teenager and his friends living on an Oklahoma reservation was created by Sterlin Harjo and Taika Waititi?",
     "options": [
-      "Rutherford Falls (senior associate)",
+      "Rutherford Falls",
       "Dark Winds",
       "Smoke Signals",
       "Reservation Dogs"
@@ -5982,7 +5982,7 @@
       "Scavengers Reign",
       "Pantheon",
       "Inside Job",
-      "Final Space (senior associate)"
+      "Final Space"
     ],
     "answer": 0,
     "d": 3

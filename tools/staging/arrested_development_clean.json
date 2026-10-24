@@ -4,7 +4,7 @@
     "q": "What was the name of the Bluth family frozen banana stand?",
     "options": [
       "Bluth's Original Frozen Banana Stand",
-      "The Big Yellow Joint",
+      "The Big Yellow Joint on the Balboa boardwalk",
       "Bluth's Frozen Treats",
       "Banana Shack"
     ],
@@ -27,9 +27,9 @@
     "show": "Arrested Development",
     "q": "What condition does Tobias claim causes him extreme anxiety when completely naked?",
     "options": [
-      "Hydrophobia",
+      "Hydrophobia and fear of water",
       "Agoraphobia",
-      "Never-nude syndrome (gymnophobia)",
+      "Never-nude syndrome",
       "Trichotillomania"
     ],
     "answer": 2,
@@ -63,8 +63,8 @@
     "show": "Arrested Development",
     "q": "What was George Bluth Sr. secretly building in Iraq?",
     "options": [
-      "Water purification plants",
-      "Residential housing subdivisions (mini-palaces)",
+      "Municipal regional water desalination plants",
+      "Residential housing subdivisions",
       "Missile silos",
       "Fast food franchises"
     ],
@@ -87,7 +87,7 @@
     "show": "Arrested Development",
     "q": "What marine animal bites off Buster Bluth's left hand?",
     "options": [
-      "Great white shark with full pedigree papers",
+      "Great white shark swimming off Newport Beach",
       "Dolphin",
       "Barracuda",
       "Seal wearing a yellow bowtie"
@@ -100,7 +100,7 @@
     "q": "What is the name of G.O.B.'s beloved puppet?",
     "options": [
       "Franklin Delano Bluth",
-      "Mister Bananagrabber with full pedigree papers",
+      "Mister Bananagrabber",
       "Chuckles",
       "Little George"
     ],
@@ -171,8 +171,8 @@
     "show": "Arrested Development",
     "q": "What recurring character was hired by George Sr. to teach his children lessons through staged, horrifying amputations?",
     "options": [
-      "Gene Parmesan",
-      "Uncle Father Oscar in every detail",
+      "Gene Parmesan, private investigator in hilarious disguises",
+      "Uncle Father Oscar",
       "J. Walter Weatherman",
       "Carl Weathers"
     ],
@@ -221,7 +221,7 @@
     "options": [
       "Gin and tonic",
       "Martini with an olive",
-      "Vodka on the rocks (often with a piece of toast)",
+      "Vodka on the rocks",
       "White wine spritzer"
     ],
     "answer": 2,
@@ -246,7 +246,7 @@
       "Severe inner-ear vertigo",
       "Vertigo",
       "Narcolepsy",
-      "Low blood sugar in every detail"
+      "Low blood sugar"
     ],
     "answer": 0,
     "d": 2
@@ -496,7 +496,7 @@
     "q": "What physical feature does Stan Sitwell lack due to alopecia?",
     "options": [
       "Only eyebrows",
-      "All body and head hair (wears synthetic hair, eyebrows, and mustache)",
+      "All body and head hair",
       "Teeth",
       "Fingernails"
     ],
@@ -531,7 +531,7 @@
     "show": "Arrested Development",
     "q": "What food tip does Carl Weathers repeatedly give to save money on groceries?",
     "options": [
-      "\"There's still plenty of meat on that bone. Now you take this home, throw it in a pot, add some broth, a potato. Baby, you've got a stew going!\"",
+      "\"There's still plenty of meat on that bone. Now you take this home\"",
       "\"Buy expired cans in bulk!\"",
       "\"Always eat the display fruit!\"",
       "\"Fast food napkins save on paper towels!\""
@@ -543,8 +543,8 @@
     "show": "Arrested Development",
     "q": "What was the slogan printed on Lindsay Bluth's activist blouse that Tobias misread?",
     "options": [
-      "\"Save the Wetlands (full version)\"",
-      "\"Shemale\" (misreading \"Shémale\")",
+      "\"Save the Wetlands\"",
+      "\"Shemale\"",
       "\"Solidarity\"",
       "\"SLUT\""
     ],
@@ -567,7 +567,7 @@
     "show": "Arrested Development",
     "q": "What vanity license plate does Tobias get that results in misunderstandings?",
     "options": [
-      "BLUEMAN (official selection)",
+      "BLUEMAN",
       "ACTOR1",
       "NEVERNU",
       "ANUSTART"
@@ -630,7 +630,7 @@
       "Ann Paul Veal",
       "Amy",
       "Rita",
-      "Sally (close confidante)"
+      "Sally"
     ],
     "answer": 0,
     "d": 3
@@ -675,10 +675,10 @@
     "show": "Arrested Development",
     "q": "What is Ann's father's profession?",
     "options": [
-      "Pastor (Pastor Terry Veal)",
+      "Pastor",
       "Dentist",
       "Carpenter",
-      "Real estate agent (extended broadcast detail)"
+      "Real estate agent"
     ],
     "answer": 0,
     "d": 2
@@ -714,7 +714,7 @@
       "She is an undercover CIA agent",
       "She is an escaped convict",
       "She is George Sr.'s secret daughter",
-      "She is an MRF (Mentally Retarded Female / has an intellectual disability)"
+      "She is an MRF"
     ],
     "answer": 3,
     "d": 3
@@ -726,7 +726,7 @@
       "\"Sound of Silence\" by Simon & Garfunkel",
       "\"Mad World\" by Gary Jules",
       "\"Yesterday\" by The Beatles",
-      "\"Alone Again (Naturally)\" by Gilbert O'Sullivan"
+      "\"Alone Again\" by Gilbert O'Sullivan"
     ],
     "answer": 0,
     "d": 2
@@ -845,7 +845,7 @@
     "options": [
       "It was trained by the military",
       "It was starved at the aquarium",
-      "It was fed a taste for mammal blood through raw cat food / mammal meat",
+      "It was fed a taste for mammal blood through raw cat food",
       "Buster provoked it"
     ],
     "answer": 2,
@@ -867,7 +867,7 @@
     "show": "Arrested Development",
     "q": "What brand of candy does G.O.B. constantly consume or offer?",
     "options": [
-      "Candy beans / jelly beans",
+      "Candy beans",
       "M&Ms",
       "Mike and Ike",
       "Skittles"
@@ -892,8 +892,8 @@
     "q": "What character does Tobias portray on the telenovela *El Amor Prohibido*?",
     "options": [
       "Dr. Tobias",
-      "Doctor Corazón in every detail",
-      "El Doctor / El Americano",
+      "Doctor Corazón",
+      "El Doctor",
       "Dr. Love"
     ],
     "answer": 2,
@@ -905,7 +905,7 @@
     "options": [
       "Starla",
       "Lupe",
-      "Annyong (official selection)",
+      "Hel-loh 'Annyong' Bluth the adopted son",
       "Marta Estrella"
     ],
     "answer": 3,
@@ -963,7 +963,7 @@
     "show": "Arrested Development",
     "q": "Why did the family think his name was \"Annyong\"?",
     "options": [
-      "It is the Korean greeting (\"Hello\"), which he repeated upon meeting them",
+      "It is the Korean greeting",
       "It was stitched onto his jacket",
       "The agency misprinted the paperwork",
       "Buster named him"
@@ -1000,7 +1000,7 @@
     "q": "What protest did Lindsay and Tobias take part in while trapped in a cage at the rally?",
     "options": [
       "Anti-war rally",
-      "Free speech rally in every detail",
+      "Free speech rally",
       "Protect the Seals",
       "Save the Wetlands"
     ],
@@ -1050,7 +1050,7 @@
       "Electric shock",
       "It shorted out the house",
       "The handle fell off",
-      "Severe second- and third-degree burns (\"Every damn time!\")"
+      "Severe second-"
     ],
     "answer": 3,
     "d": 2
@@ -1059,7 +1059,7 @@
     "show": "Arrested Development",
     "q": "What was the name of the company rival led by Stan Sitwell?",
     "options": [
-      "Sitwell Enterprises / Sitwell Company",
+      "Sitwell Enterprises",
       "Balboa Development",
       "Apex Construction",
       "Pacific Homes"
@@ -1084,7 +1084,7 @@
     "q": "What was the name of the soap opera actress both G.O.B. and Buster were in love with?",
     "options": [
       "Starla",
-      "Carlotta (official selection)",
+      "Carlotta",
       "Marta Estrella",
       "Lupe"
     ],
@@ -1107,7 +1107,7 @@
     "show": "Arrested Development",
     "q": "What sport does Steve Holt play for the high school football team?",
     "options": [
-      "Star running back / linebacker",
+      "Star running back",
       "Quarterback",
       "Kicker",
       "Wide receiver"
@@ -1227,7 +1227,7 @@
     "show": "Arrested Development",
     "q": "What did George Michael use inside his diorama of the banana stand?",
     "options": [
-      "Real dried bananas in every detail",
+      "Real dried bananas",
       "Carved soap",
       "Yellow LEGO bricks",
       "Cheetos"
@@ -1252,7 +1252,7 @@
     "q": "How much cash was actually hidden inside the walls of the banana stand before Michael burned it down?",
     "options": [
       "$250,000",
-      "$100,000 in crisp cash bills",
+      "$100,000",
       "$50,000",
       "$500,000"
     ],
@@ -1263,9 +1263,9 @@
     "show": "Arrested Development",
     "q": "Who set fire to the banana stand along with Michael?",
     "options": [
-      "G.O.B. (official selection)",
+      "G.O.B.",
       "George Michael",
-      "Tobias",
+      "Dr. Tobias Onyango Fünke the analyst",
       "Buster"
     ],
     "answer": 1,
@@ -1289,8 +1289,8 @@
     "options": [
       "The Glider",
       "The Chariot",
-      "The G.O.B.-Mobile (extended broadcast detail)",
-      "Segway HT (Human Transporter)"
+      "The G.O.B.-Mobile",
+      "Segway HT"
     ],
     "answer": 3,
     "d": 1
@@ -1323,7 +1323,7 @@
     "show": "Arrested Development",
     "q": "What uninspired culinary creation did Lindsay serve after boiling poultry in water with a smack of ham?",
     "options": [
-      "Chicken bouillon in every detail",
+      "Chicken bouillon",
       "Poached poultry",
       "Hot chicken water",
       "Clear bird stew"
@@ -1337,7 +1337,7 @@
     "options": [
       "Orange Oaks",
       "Hidden Hills",
-      "Balboa Pines (senior associate)",
+      "Balboa Pines",
       "Sudden Valley"
     ],
     "answer": 3,
@@ -1347,7 +1347,7 @@
     "show": "Arrested Development",
     "q": "Why did prospective homebuyers dislike the name \"Sudden Valley\"?",
     "options": [
-      "\"It sounds like a sinkhole or a sudden tragedy.\"",
+      "\"It sounds\"",
       "It sounded like a retirement home",
       "It had no trees",
       "It sounded cheap"
@@ -1359,7 +1359,7 @@
     "show": "Arrested Development",
     "q": "What alternative name did G.O.B. suggest for the subdivision instead of Sudden Valley?",
     "options": [
-      "Paradise Point (senior associate)",
+      "Paradise Point",
       "\"Fuck Mountain\"",
       "Bluth Meadows",
       "Sunshine Acres"
@@ -1419,7 +1419,7 @@
     "show": "Arrested Development",
     "q": "What was the name of the school Michael and Buster attended as boys?",
     "options": [
-      "Newport Country Day in every detail",
+      "Newport Country Day",
       "Balboa Prep",
       "The Milford Academy",
       "St. Jude's"
@@ -1589,7 +1589,7 @@
     "options": [
       "A brick-patterned bodysuit",
       "Soot and coal",
-      "Fire-retardant felt in every detail",
+      "Fire-retardant felt",
       "Black velvet"
     ],
     "answer": 0,
@@ -1600,7 +1600,7 @@
     "q": "What did Tobias mistakenly paint himself blue with when he couldn't afford proper body makeup?",
     "options": [
       "House paint",
-      "Diamond dust blue paint / industrial floor enamel",
+      "Diamond dust blue paint",
       "Tempera paint",
       "Watercolors"
     ],
@@ -1614,7 +1614,7 @@
       "Hypothermia",
       "Severe dermatitis",
       "Lead and copper toxicity",
-      "Temporary blindness in every detail"
+      "Temporary blindness"
     ],
     "answer": 2,
     "d": 2
@@ -1638,7 +1638,7 @@
       "George Michael of Wham!",
       "Boy George",
       "George Harrison and Michael Jackson",
-      "George Michael Bluth (his great-grandfather)"
+      "George Michael Bluth"
     ],
     "answer": 0,
     "d": 2
@@ -1647,7 +1647,7 @@
     "show": "Arrested Development",
     "q": "What does George Michael reveal he wants to change his name to in Season 4?",
     "options": [
-      "Michael George (senior associate)",
+      "Michael George",
       "George Maharis",
       "George Sr. Jr.",
       "Boy Michael"
@@ -1661,7 +1661,7 @@
     "options": [
       "A professional boxer",
       "A Greek pop singer",
-      "An American actor who starred in *Route 66*",
+      "An American actor",
       "A famous racecar driver"
     ],
     "answer": 2,
@@ -1722,7 +1722,7 @@
       "A high-speed rail",
       "Offshore oil rigs",
       "New prisons",
-      "A border wall between California and Mexico"
+      "A border wall between California"
     ],
     "answer": 3,
     "d": 2
@@ -1805,7 +1805,7 @@
     "options": [
       "Rhinoplasty",
       "Lip injections",
-      "Breast augmentation (one larger than the other initially)",
+      "Breast augmentation",
       "Facelift"
     ],
     "answer": 2,
@@ -1828,7 +1828,7 @@
     "q": "What was the name of the prison where George Sr. was held?",
     "options": [
       "Orange County Corrections",
-      "Chino State Penitentiary in every detail",
+      "Chino State Penitentiary",
       "Balboa County Jail",
       "Pelican Bay"
     ],
@@ -1875,8 +1875,8 @@
     "show": "Arrested Development",
     "q": "What happened to G.O.B. when he got stabbed in prison during his magic act?",
     "options": [
-      "He claimed it was an illusion and yelled \"Ta-da!\"",
-      "He was hospitalized with a punctured lung in every detail",
+      "He claimed it was an illusion",
+      "He was hospitalized with a punctured lung",
       "He pressed charges against the inmate",
       "He escaped in an ambulance"
     ],
@@ -1901,7 +1901,7 @@
     "options": [
       "He escaped",
       "He became warden",
-      "He converted to Judaism and renounced white supremacy",
+      "He converted to Judaism",
       "He killed another inmate"
     ],
     "answer": 2,
@@ -1937,7 +1937,7 @@
     "options": [
       "Blue skin",
       "Graft versus host disease",
-      "Temporary muteness in every detail",
+      "Temporary muteness",
       "Severe blindness"
     ],
     "answer": 1,
@@ -1971,7 +1971,7 @@
     "show": "Arrested Development",
     "q": "What did Dr. Fishman tell the family when George Sr. had a heart attack?",
     "options": [
-      "\"We've lost him\" (meaning they couldn't find where he wandered off)",
+      "\"We've lost him\"",
       "\"He has passed.\"",
       "\"He is no longer with us.\"",
       "\"Prepare for the worst.\""
@@ -2007,7 +2007,7 @@
     "show": "Arrested Development",
     "q": "How did G.O.B. accidentally marry his wife, played by Amy Poehler?",
     "options": [
-      "At a drive-through chapel in Vegas while drunk in every detail",
+      "At a drive-through chapel in Vegas while drunk",
       "On a cruise ship",
       "To get health insurance",
       "As part of a dare during a series of escalating dares"
@@ -2032,7 +2032,7 @@
     "q": "What did G.O.B.'s wife do for a living?",
     "options": [
       "Magician's assistant",
-      "It was never fully specified; she was an eccentric competitive woman",
+      "It was never fully specified",
       "Army recruit",
       "Seal trainer"
     ],
@@ -2044,8 +2044,8 @@
     "q": "What song does Tobias enthusiastically sing when cleaning the apartment with Lindsay?",
     "options": [
       "\"Downtown\"",
-      "\"Putting on the Ritz (full version)\"",
-      "\"Morning Train (Nine to Five)\"",
+      "\"Putting on the Ritz\"",
+      "\"Morning Train\"",
       "\"Big Yellow Taxi\""
     ],
     "answer": 2,
@@ -2118,7 +2118,7 @@
       "Ice cream sandwiches",
       "Potato chips",
       "Bananas",
-      "Canned peaches in every detail"
+      "Canned peaches"
     ],
     "answer": 0,
     "d": 2
@@ -2163,8 +2163,8 @@
     "show": "Arrested Development",
     "q": "Who played Adam to George Sr.'s God in the recreation of *The Creation of Adam*?",
     "options": [
-      "George Michael (in a muscle suit)",
-      "Buster",
+      "George Michael",
+      "Byron 'Buster' Bluth the cartographer",
       "Tobias",
       "G.O.B."
     ],
@@ -2188,7 +2188,7 @@
     "q": "What was the name of the Bluth company's chief competitor in building homes in Newport?",
     "options": [
       "Anchor Homes",
-      "Dumb Construction with full pedigree papers",
+      "Dumb Construction",
       "Stan Sitwell Enterprises",
       "Pacific Estates"
     ],
@@ -2213,7 +2213,7 @@
     "options": [
       "Mrs. Featherbottom",
       "Nanny McPhee",
-      "Mrs. Doubtfire (senior associate)",
+      "Mrs. Doubtfire",
       "Aunt Poppins"
     ],
     "answer": 0,
@@ -2223,9 +2223,9 @@
     "show": "Arrested Development",
     "q": "Where does Tobias claim Mrs. Featherbottom is from?",
     "options": [
-      "London",
+      "London, England",
       "Blackstool",
-      "Liverpool (official selection)",
+      "Liverpool",
       "Edinburgh"
     ],
     "answer": 1,
@@ -2237,7 +2237,7 @@
     "options": [
       "Rappelling with curtains",
       "Sliding down the bannister",
-      "Floating down with an umbrella (and crashing through a coffee table)",
+      "Floating down with an umbrella",
       "Gliding with balloons"
     ],
     "answer": 2,
@@ -2271,7 +2271,7 @@
     "show": "Arrested Development",
     "q": "What was the name of the school teacher George Michael and Michael both had a crush on?",
     "options": [
-      "Miss Barely (senior associate)",
+      "Miss Barely",
       "Beth Baerly",
       "Miss Baerly",
       "Miss Temple"
@@ -2307,9 +2307,9 @@
     "show": "Arrested Development",
     "q": "What did Buster bid on at the charity bachelors auction to outbid his mother?",
     "options": [
-      "Lucille Austero (Lucille 2)",
+      "Lucille Austero",
       "A sports car",
-      "A dinner date with Starla (extended broadcast detail)",
+      "A dinner date with Starla",
       "A magic kit"
     ],
     "answer": 0,
@@ -2333,7 +2333,7 @@
     "options": [
       "Marfan's",
       "Circumvallo-thoracic Syndrome",
-      "BS (Bullshit)",
+      "BS",
       "Encephalitis"
     ],
     "answer": 2,
@@ -2346,7 +2346,7 @@
       "Help Surely Walk",
       "Save the Twins",
       "Maeby's Miracles",
-      "The Surely Fünke Foundation (BS Awareness)"
+      "The Surely Fünke Foundation"
     ],
     "answer": 3,
     "d": 3
@@ -2394,7 +2394,7 @@
       "Driving his car",
       "Massaging his legs",
       "Cooking his meals",
-      "Carrying Uncle Jack physically everywhere because Jack refused to use a wheelchair"
+      "Carrying Uncle Jack physically everywhere"
     ],
     "answer": 3,
     "d": 2
@@ -2489,7 +2489,7 @@
     "options": [
       "It was floating in the water",
       "Buster lost it at the marina",
-      "Lucille dropped it in the harbor in every detail",
+      "Lucille dropped it in the harbor",
       "G.O.B. tied it on for a magic trick"
     ],
     "answer": 3,
@@ -2502,7 +2502,7 @@
       "Newport Union High School",
       "Balboa High School",
       "Orange County Prep",
-      "San Clemente Academy in every detail"
+      "San Clemente Academy"
     ],
     "answer": 0,
     "d": 1
@@ -2596,7 +2596,7 @@
     "q": "What did G.O.B. keep inside his sleeves for his dove illusion?",
     "options": [
       "Collapsible wire cages",
-      "Flour and feathers in every detail",
+      "Flour and feathers",
       "Hidden magnets",
       "Silk scarves"
     ],
@@ -2609,7 +2609,7 @@
     "options": [
       "Faith & Wonder",
       "The Holy Wonder Show",
-      "Illusion of Christ in every detail",
+      "Illusion of Christ",
       "Miracles of Faith"
     ],
     "answer": 1,
@@ -2621,7 +2621,7 @@
     "options": [
       "Walking on water",
       "Turning water into boxed wine",
-      "Rising from the dead (being buried in a fake tomb for 3 days)",
+      "Rising from the dead",
       "Multiplying loaves and fishes"
     ],
     "answer": 2,
@@ -2692,8 +2692,8 @@
     "q": "What was the name of Tobias's singing partner in the pharmaceutical folk duo?",
     "options": [
       "DeBrie Bardeaux",
-      "Lindsay",
-      "Dr. Terry (senior associate)",
+      "Lindsay Bluth Fünke the activist",
+      "Dr. Terry",
       "Starla"
     ],
     "answer": 0,
@@ -2730,7 +2730,7 @@
       "Hair regrowth",
       "Uncontrollable rage",
       "Memory loss",
-      "Complete numbness and loss of libido"
+      "Complete numbness"
     ],
     "answer": 3,
     "d": 2
@@ -2765,7 +2765,7 @@
     "options": [
       "Wonder Woman",
       "Catwoman",
-      "Sue Storm (The Invisible Woman)",
+      "Sue Storm",
       "Batgirl"
     ],
     "answer": 2,
@@ -2788,7 +2788,7 @@
     "q": "What did Ron Howard constantly eat or order throughout his Season 4 appearances?",
     "options": [
       "Barbecue from a food truck",
-      "Frozen bananas in every detail",
+      "Frozen bananas",
       "Pretzels",
       "Fancy salads"
     ],
@@ -2800,7 +2800,7 @@
     "q": "What did Lucille smoke in her penthouse despite the building's strict no-smoking policy?",
     "options": [
       "Cigars",
-      "Cigarettes on the balcony, blowing smoke into Buster's mouth to exhale outside",
+      "Cigarettes on the balcony",
       "Herbal cigarettes",
       "Cloves"
     ],
@@ -2812,7 +2812,7 @@
     "q": "What was the name of the real estate company where Lindsay briefly worked as a sales agent?",
     "options": [
       "Coldwell Banker",
-      "Wrench & Associates in every detail",
+      "Wrench & Associates",
       "Stan Sitwell Realty",
       "The Sitwell Group"
     ],
@@ -2992,7 +2992,7 @@
     "q": "What pastry did Tony Wonder hide inside for his grand illusion?",
     "options": [
       "A giant croissant",
-      "A hollowed-out baguette / sourdough loaf",
+      "A hollowed-out baguette",
       "A giant wedding cake",
       "A massive gingerbread house"
     ],
@@ -3066,7 +3066,7 @@
       "He passed out immediately",
       "He ran away to the army base",
       "He broke into tears",
-      "He became aggressive and violently cursed out his mother"
+      "He became aggressive"
     ],
     "answer": 3,
     "d": 2
@@ -3123,7 +3123,7 @@
     "show": "Arrested Development",
     "q": "What did Michael suggest Tobias do after listening to his Dictaphone recordings?",
     "options": [
-      "\"You're going to want to get a tape recorder and just record yourself for a whole day. I think you're going to be surprised at some of your phrasing.\"",
+      "\"You're going to want to get a tape recorder\"",
       "\"Buy a better microphone.\"",
       "\"Go back to medical school.\"",
       "\"Delete those immediately.\""
@@ -3197,7 +3197,7 @@
     "options": [
       "He was always on his phone",
       "He never accepted cash",
-      "He described himself as a \"guy who has never cried\" and a \"consummate professional\"",
+      "He described himself as a \"guy\"",
       "He lost every single court case"
     ],
     "answer": 2,
@@ -3258,7 +3258,7 @@
       "Franklin Delano Bluth",
       "G.O.B.",
       "Tobias Fünke",
-      "William Hung (from *American Idol*)"
+      "William Hung"
     ],
     "answer": 3,
     "d": 3
@@ -3315,7 +3315,7 @@
     "show": "Arrested Development",
     "q": "What did the family order at the Mexican restaurant while George Sr. was hiding in Mexico?",
     "options": [
-      "\"A pitcher of virgin sangria and four empty glasses\"",
+      "\"A pitcher of virgin sangria\"",
       "Enchiladas and margaritas",
       "Flautas and beer",
       "Tacos and burritos"
@@ -3328,7 +3328,7 @@
     "q": "What was the secret ingredient in the frozen bananas according to George Sr.?",
     "options": [
       "Cinnamon",
-      "Two dips in chocolate and nuts",
+      "Two dips in chocolate",
       "Love",
       "Salt"
     ],
@@ -3339,7 +3339,7 @@
     "show": "Arrested Development",
     "q": "What was the nickname of the Bluth model home's neighborhood where only one home was completed?",
     "options": [
-      "Newport Hills (senior associate)",
+      "Newport Hills",
       "Orange Acres",
       "Sudden Valley",
       "Sun Valley"
@@ -3354,7 +3354,7 @@
       "Zero",
       "Five",
       "Twelve",
-      "One (the model home)"
+      "One"
     ],
     "answer": 3,
     "d": 3
@@ -3363,7 +3363,7 @@
     "show": "Arrested Development",
     "q": "What room in the model home frequently collapsed or had faulty fixtures?",
     "options": [
-      "The master bathroom cabinet / hidden door",
+      "The master bathroom cabinet",
       "The attic",
       "The kitchen ceiling",
       "The garage door"
@@ -3423,7 +3423,7 @@
     "show": "Arrested Development",
     "q": "In what year did Netflix revive *Arrested Development* for its fourth season?",
     "options": [
-      "Season 2011 (original broadcast)",
+      "2011",
       "2013",
       "2012",
       "2015"
@@ -3522,7 +3522,7 @@
       "They are married",
       "They are brother and sister",
       "They are cousins",
-      "They are unrelated in every detail"
+      "They are unrelated"
     ],
     "answer": 1,
     "d": 3
@@ -3533,7 +3533,7 @@
     "options": [
       "Michael's former college girlfriend",
       "An IRS auditor",
-      "A woman named Nellie who Michael mistakenly suspects might be his biological sister",
+      "A woman named Nellie",
       "G.O.B.'s boss"
     ],
     "answer": 2,
@@ -3545,8 +3545,8 @@
     "options": [
       "It sounds like \"Blah Blah Blah\"",
       "It sounds like \"Bob Low Law\"",
-      "It translates to \"Foolish Advocate\" in German in every detail",
-      "It sounds like \"Bob-Lob-Law\" / \"Bob Loblaw Lobs Law Bomb\""
+      "It translates to \"Foolish Advocate\" in German",
+      "It sounds like \"Bob-Lob-Law\""
     ],
     "answer": 3,
     "d": 3
@@ -3568,7 +3568,7 @@
     "q": "What instrument did the show use as its primary background score transition motif?",
     "options": [
       "Solo cello",
-      "Upbeat ukulele and acoustic slide guitar",
+      "Upbeat ukulele",
       "Heavy electric synthesizer",
       "Big band horns"
     ],
@@ -3592,7 +3592,7 @@
     "q": "In the final scene of Season 3, where do Michael and George Michael flee on the yacht while leaving the family behind?",
     "options": [
       "Mexico",
-      "Phoenix (official selection)",
+      "Phoenix",
       "France",
       "Cabo San Lucas"
     ],

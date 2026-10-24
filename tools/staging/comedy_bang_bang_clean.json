@@ -81,10 +81,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "What fake or humorous middle name does Scott Aukerman frequently adopt depending on the syllable count of the year or guest's name?",
     "options": [
-      "\"Hot Dog\"",
-      "\"Hot Saucerman\" / \"Scotty Aux\"",
-      "\"Danger\"",
-      "\"Boring\""
+      "The \"Hot Dog\"",
+      "\"Hot Saucerman\"",
+      "The \"Danger\"",
+      "The \"Boring\""
     ],
     "answer": 1,
     "d": 1,
@@ -185,10 +185,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "What is the \"Golden Rule\" or primary condition often enforced during \"Would You Rather\"?",
     "options": [
-      "No bathroom breaks",
+      "The No bathroom breaks",
       "The floor remains open until properly closed",
-      "Scott cannot vote",
-      "You cannot choose both options"
+      "The Scott cannot vote",
+      "The You cannot choose both options"
     ],
     "answer": 1,
     "d": 1,
@@ -211,9 +211,9 @@
     "show": "Comedy Bang! Bang!",
     "q": "How many episodes are typically featured in the countdown on the annual \"Best Of\" multi-part specials?",
     "options": [
-      "Top 10",
+      "The Top 10",
       "Top 15",
-      "Top 20 (plus honorable mentions)",
+      "Top 20",
       "Top 25"
     ],
     "answer": 2,
@@ -224,9 +224,9 @@
     "show": "Comedy Bang! Bang!",
     "q": "In the \"Best Of\" episodes, who traditionally provides the \"cantina band\" or vocal humming during conversational pauses?",
     "options": [
-      "Reggie Watts",
+      "The Reggie Watts",
       "Paul F. Tompkins",
-      "Jason Mantzoukas (How Did This Get Made? co-host & actor)",
+      "The Jason Mantzoukas",
       "Scott Aukerman"
     ],
     "answer": 1,
@@ -263,7 +263,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "What happens whenever someone in the studio notes a fine point of rules or an obscure loophole?",
     "options": [
-      "Scott shouts \"No foul play allowed in the studio!\"",
+      "The Scott shouts \"No foul play allowed in the studio!\"",
       "A bell dings three times followed by a buzzer",
       "Scott and the guests chant \"Technicality no down boo over?!\"",
       "A siren sounds and the plug bag theme plays"
@@ -277,9 +277,9 @@
     "q": "When someone says \"Wait a minute\" or mentions a classic rhythm, what 1993 hip-hop song is often invoked?",
     "options": [
       "\"Rump Shaker\" by Wreckx-n-Effect",
-      "\"Whoomp! (There It Is)\" by Tag Team",
-      "\"C.R.E.A.M.\" by Wu-Tang Clan",
-      "\"Shoop\" by Salt-N-Pepa"
+      "The \"Whoomp!\" by Tag Team",
+      "The \"C.R.E.A.M.\" by Wu-Tang Clan",
+      "The \"Shoop\" by Salt-N-Pepa"
     ],
     "answer": 0,
     "d": 1,
@@ -289,8 +289,8 @@
     "show": "Comedy Bang! Bang!",
     "q": "When someone says \"My wife...\", who is traditionally impersonated, and in what style?",
     "options": [
-      "Rodney Dangerfield (famed stand-up comic who got no respect)",
-      "Borat (Sacha Baron Cohen)",
+      "Rodney Dangerfield",
+      "Borat",
       "Columbo",
       "Homer Simpson"
     ],
@@ -302,10 +302,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "What catchphrase is triggered whenever someone in the studio mentions a casual piece of upper-body clothing?",
     "options": [
-      "\"Take it off!\"",
-      "\"Button up!\"",
-      "\"Collared or non?\"",
-      "\"Is that a t-shirt?!\" / \"Talkin' 'bout shirts!\""
+      "The \"Take it off!\"",
+      "The \"Button up!\"",
+      "The \"Collared or non?\"",
+      "\"Is that a t-shirt?!\""
     ],
     "answer": 3,
     "d": 1,
@@ -341,9 +341,9 @@
     "show": "Comedy Bang! Bang!",
     "q": "What is \"The Monster Fuck\" (or \"Monster Fuck Part 2 / Part 3\")?",
     "options": [
-      "A Halloween song performed annually by Leo Karpatze (Nick Wiger)",
+      "A Halloween song performed annually by Leo Karpatze",
       "A movie pitch by Jason Mantzoukas",
-      "An erotic fan fiction segment",
+      "The An erotic fan fiction segment",
       "A game involving terrifying movie monsters"
     ],
     "answer": 0,
@@ -394,7 +394,7 @@
     "q": "What is the title of the recurring sub-podcast within the show where Scott and guests review specific rock bands (U2, R.E.M., Talking Heads)?",
     "options": [
       "Rocking and Rolling with Scott",
-      "\"U Talkin' U2 To Me?\" and its sister spin-offs",
+      "\"U Talkin' U2 To Me?\"",
       "Album Commentary Network",
       "Sonic Bang! Bang!"
     ],
@@ -433,9 +433,9 @@
     "q": "What is the \"Plugs\" theme song routine in the classic Earwolf era?",
     "options": [
       "A somber piano solo",
-      "Scott playing random viewer-submitted mashups and remixing them over and over",
+      "Scott playing random viewer-submitted mashups",
       "A completely silent minute",
-      "An advertisement for Casper Mattresses"
+      "The An advertisement for Casper Mattresses"
     ],
     "answer": 1,
     "d": 1,
@@ -523,10 +523,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "Which real-life musical theatre composer does Paul F. Tompkins famously impersonate as a pompous, Lord-titled aristocrat?",
     "options": [
-      "Stephen Sondheim",
+      "The Stephen Sondheim",
       "Andrew Lloyd Webber",
       "Richard Rodgers",
-      "Lin-Manuel Miranda (Hamilton / In the Heights creator)"
+      "Lin-Manuel Miranda"
     ],
     "answer": 1,
     "d": 1,
@@ -549,7 +549,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "Which iconic movie director does PFT play who made Jurassic Park and is obsessed with \"the cinema\"?",
     "options": [
-      "Martin Scorsese (frequent podcast improviser, character actor, and comedy guest)",
+      "The Martin Scorsese",
       "George Lucas",
       "Steven Spielberg",
       "James Cameron"
@@ -562,7 +562,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "Which reality TV pastry chef persona played by Paul F. Tompkins possesses the second sight after being bitten by a radioactive bug?",
     "options": [
-      "Cake Boss (Buddy Valastro)",
+      "Cake Boss",
       "The Pastry Prince of Hoboken, New Jersey",
       "Baker Bob",
       "Chef Luigi"
@@ -576,7 +576,7 @@
     "q": "What happens to Cake Boss after he is bitten by a radioactive bug/snake?",
     "options": [
       "He gets superhero powers",
-      "He gets the second sight / psychic powers",
+      "He gets the second sight",
       "He loses his sense of taste",
       "He turns into fondant"
     ],
@@ -615,7 +615,7 @@
     "q": "What vehicle does J.W. Stillwater frequently arrive in, and what is his county of origin in Georgia/Florida?",
     "options": [
       "A jet ski; Dade County",
-      "A fan-boat; Cumberland Island / Georgia",
+      "A fan-boat",
       "An airboat; Possum Lake",
       "A tractor; Fulton County"
     ],
@@ -627,10 +627,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "J.W. Stillwater is a passionate fan of which musical and cultural phenomenon?",
     "options": [
-      "Professional wrestling and Juggalos",
+      "Professional wrestling",
       "The opera",
-      "Nascar only",
-      "Riverdancing"
+      "The Nascar only",
+      "The Riverdancing"
     ],
     "answer": 0,
     "d": 1,
@@ -679,9 +679,9 @@
     "show": "Comedy Bang! Bang!",
     "q": "What is the name of Paul F. Tompkins' character who creates soapy spheres for children's parties, but is extremely defensive and temperamental?",
     "options": [
-      "Captain Bubble (children's party entertainer)",
+      "The Captain Bubble",
       "Big Chunky Bubbles",
-      "Mr. Bubbly",
+      "The Mr. Bubbly",
       "The Soap King"
     ],
     "answer": 1,
@@ -848,7 +848,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "What character played by Lauren Lapkus is a wealthy heiress with a ridiculously thick vocal fry and vocal mannerisms parodying socialites?",
     "options": [
-      "Paris Hilton (frequent podcast improviser, character actor, and comedy guest)",
+      "The Paris Hilton",
       "Amanda Bynes",
       "Regina Crimp",
       "Traci Reardon"
@@ -887,8 +887,8 @@
     "show": "Comedy Bang! Bang!",
     "q": "What legendary pop music superstar did Lauren Lapkus impersonate alongside PFT's Andrew Lloyd Webber?",
     "options": [
-      "Madonna",
-      "Britney Spears (frequent podcast improviser, character actor, and comedy guest)",
+      "The Madonna",
+      "The Britney Spears",
       "Whitney Houston",
       "Celine Dion"
     ],
@@ -900,9 +900,9 @@
     "show": "Comedy Bang! Bang!",
     "q": "What is the name of Lauren Lapkus's character who won a contest to visit the show, talks very quietly, and is obsessed with turtles?",
     "options": [
-      "Harmony",
-      "Mary Phillips (long-time listener from Northern California)",
-      "Big Sue",
+      "The Harmony",
+      "The Mary Phillips",
+      "The Big Sue",
       "Pamela from Big Sur"
     ],
     "answer": 3,
@@ -914,7 +914,7 @@
     "q": "What common personality trait or dramatic arc unites almost every character played by Andy Daly?",
     "options": [
       "They are secretly aliens",
-      "They begin cheerful and wholesome, then spiral into extreme depravity and suicidal ideation",
+      "They begin cheerful",
       "They are all trying to sell real estate in Burbank",
       "They are completely mute"
     ],
@@ -926,7 +926,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "What is the name of Andy Daly's cowboy poet character who recites rhyming verse about life on the range?",
     "options": [
-      "Cactus Jack (notorious frontier outlaw and gunslinger)",
+      "The Cactus Jack",
       "Dalton Wilcox",
       "Dusty Trail",
       "Pecos Bill"
@@ -942,7 +942,7 @@
       "Poems on the Prairie",
       "You Must Buy Your Wife a Saddle",
       "Run, Cowboy, Run",
-      "You Must Buy Your Wife a Truck (wait, no) / Run, Cowboy, Run"
+      "You Must Buy Your Wife a Truck / Run, Cowboy, Run"
     ],
     "answer": 0,
     "d": 1,
@@ -953,7 +953,7 @@
     "q": "According to Dalton Wilcox, what mythological creatures and predators is a cowboy duty-bound to kill on the prairie?",
     "options": [
       "Dragons and Griffins",
-      "Vampires, Werewolves, Mummy-men, and Frankensteins",
+      "Vampires",
       "Sirens and Minotaurs",
       "Bigfoots and Chupacabras"
     ],
@@ -966,7 +966,7 @@
     "q": "What inanimate prairie object does Dalton Wilcox frequently make love to out on the range?",
     "options": [
       "A bale of hay",
-      "A hole in the ground / cactus",
+      "A hole in the ground",
       "A saddle",
       "A tumbleweed"
     ],
@@ -991,10 +991,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "Don Dimello is notorious for introducing what illicit elements into wholesome stage musicals like Peter Pan or Pinocchio?",
     "options": [
-      "High-tech laser shows",
-      "\"A little something for the dads\" (prostitution, strippers, girls)",
-      "Political commentary",
-      "Extreme sports"
+      "The High-tech laser shows",
+      "\"A little something for the dads\"",
+      "The Political commentary",
+      "The Extreme sports"
     ],
     "answer": 1,
     "d": 1,
@@ -1004,10 +1004,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "What is Don Dimello's catchphrase when describing a performance feature meant to titillate the male audience?",
     "options": [
-      "\"Dads love it!\"",
+      "The \"Dads love it!\"",
       "\"A little something for the daddies.\"",
-      "\"Bring your wallets!\"",
-      "\"Hot stuff for Papa!\""
+      "The \"Bring your wallets!\"",
+      "The \"Hot stuff for Papa!\""
     ],
     "answer": 1,
     "d": 1,
@@ -1069,10 +1069,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "Who is Andy Daly's tragic travel writer character who visits international destinations and constantly attempts suicide?",
     "options": [
-      "Bill Craven",
+      "The Bill Craven",
       "Rick Steves",
       "Chip Gardner",
-      "August Lindt (frequent podcast improviser, character actor, and comedy guest)"
+      "August Lindt"
     ],
     "answer": 2,
     "d": 1,
@@ -1108,10 +1108,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "Jason Mantzoukas rarely plays a guest character; instead, what is the running premise regarding his true identity?",
     "options": [
-      "He is an undercover FBI agent",
+      "The He is an undercover FBI agent",
       "He is a character played by character actor \"Jeffrey Characterwheaties\"",
-      "He is Scott Aukerman's biological brother",
-      "He is an AI simulation from 2045"
+      "The He is Scott Aukerman's biological brother",
+      "The He is an AI simulation from 2045"
     ],
     "answer": 1,
     "d": 1,
@@ -1134,10 +1134,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "What nickname does Scott frequently call Jason Mantzoukas, referencing an iconic animated film?",
     "options": [
-      "\"Aladdin\"",
-      "\"The Hey Nongman (classic catchphrase coined by Jason Mantzoukas)\"",
+      "The \"Aladdin\"",
+      "The \"The Hey Nongman\"",
       "\"Zouks\" or \"The Dink Dink Man\"",
-      "\"Jeffrey\""
+      "The \"Jeffrey\""
     ],
     "answer": 2,
     "d": 1,
@@ -1147,7 +1147,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "When Jason Mantzoukas co-hosts, which long-running guest character often terrorizes him with bizarre accusations?",
     "options": [
-      "Gino Lombardo (frequent podcast improviser, character actor, and comedy guest)",
+      "The Gino Lombardo",
       "Marissa Wompler",
       "Dalton Wilcox",
       "Bob Ducca"
@@ -1160,10 +1160,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "In Episode 600, what milestone event occurred between Jason Mantzoukas and Scott Aukerman?",
     "options": [
-      "They officially retired the podcast",
+      "The They officially retired the podcast",
       "They celebrated 10 years of doing the show together",
-      "They fought in a steel cage match",
-      "They bought the Earwolf studio"
+      "The They fought in a steel cage match",
+      "The They bought the Earwolf studio"
     ],
     "answer": 1,
     "d": 1,
@@ -1200,7 +1200,7 @@
     "q": "Brett Gelman's early appearances on the show were famous for culminating in what regular occurrence?",
     "options": [
       "Elaborate tap-dance routines",
-      "Horrifying, graphic, offensive short fiction/plays that resulted in him getting \"banned\"",
+      "Horrifying",
       "Beautiful operatic arias",
       "Selling vacuum cleaners"
     ],
@@ -1225,10 +1225,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "What character played by Jon Daly was a ridiculously unhinged tennis coach?",
     "options": [
-      "Coach Hines",
+      "The Coach Hines",
       "Coach Pete Peterson",
-      "Coach Bill",
-      "Coach Little (varsity assistant wrestling coach)"
+      "The Coach Bill",
+      "The Coach Little"
     ],
     "answer": 1,
     "d": 1,
@@ -1251,10 +1251,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "What is Bob Ducca's trademark segment when he visits the show?",
     "options": [
-      "Singing sea shanties",
-      "Reading an exhaustive list of bizarre, fictional ailments and medical conditions",
-      "Giving financial stock tips",
-      "Performing magic tricks that fail"
+      "The Singing sea shanties",
+      "Reading an exhaustive list of bizarre",
+      "The Giving financial stock tips",
+      "The Performing magic tricks that fail"
     ],
     "answer": 1,
     "d": 1,
@@ -1277,7 +1277,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "Bob Ducca was married to Scott's mother, making him Scott's:",
     "options": [
-      "Step-father / Ex-step-father",
+      "Step-father",
       "Half-brother",
       "Uncle",
       "Father-in-law"
@@ -1329,8 +1329,8 @@
     "show": "Comedy Bang! Bang!",
     "q": "What is the name of Jon Gabrus's signature Long Island, fast-talking intern character?",
     "options": [
-      "Tony Balboni",
-      "Frankie Pizza (frequent podcast improviser, character actor, and comedy guest)",
+      "The Tony Balboni",
+      "Frankie Pizza",
       "Gino Lombardo",
       "Joey Clams"
     ],
@@ -1356,7 +1356,7 @@
     "q": "What Long Island commuter railroad line does Gino constantly reference taking?",
     "options": [
       "Metro-North",
-      "Long Island Rail Road (LIRR)",
+      "Long Island Rail Road",
       "New Jersey Transit",
       "The Staten Island Ferry commuting across New York Harbor"
     ],
@@ -1369,7 +1369,7 @@
     "q": "What side-hustle or illicit job does Gino Lombardo frequently admit to doing to pay for train tickets?",
     "options": [
       "Selling counterfeit watches",
-      "Being a bait boy for the FBI / sound guy for court cases",
+      "Being a bait boy for the FBI",
       "Working at an illegal poker den",
       "Running a chop shop"
     ],
@@ -1395,7 +1395,7 @@
     "q": "Gino Lombardo is known for drinking an absurd amount of which beverage during his recordings?",
     "options": [
       "Monster Energy Drinks",
-      "Iced coffee / cold brew from Dunkin' Donuts",
+      "Iced coffee",
       "Snapple Peach Tea",
       "Red Bull"
     ],
@@ -1422,7 +1422,7 @@
     "options": [
       "Chino Hills High; Quarterback",
       "Bayside High; Class President",
-      "Marina Del Rey High; School Intern / Morning Announcements",
+      "Marina Del Rey High",
       "Beverly Hills High; Valedictorian"
     ],
     "answer": 2,
@@ -1434,7 +1434,7 @@
     "q": "What is the name of Marissa Wompler's long-suffering teacher, mentor, and co-host (played by Lennon Parham)?",
     "options": [
       "Miss Crabtree",
-      "Charlotte Listler (Miss Listler)",
+      "Charlotte Listler",
       "Mrs. Higgins",
       "Principal Brown"
     ],
@@ -1488,7 +1488,7 @@
       "Danielle Bartiromo",
       "Sarah Chalke",
       "Jessica Alba",
-      "Stacy Keibler (former professional wrestling valet and model)"
+      "Stacy Keibler"
     ],
     "answer": 0,
     "d": 1,
@@ -1499,7 +1499,7 @@
     "q": "Tim Baltz plays Randy Snutz. What is Randy's signature hairstyle and personality archetype?",
     "options": [
       "A buzzcut; Wall Street broker",
-      "A frosted-tips mullet; small-time Midwestern hustler / sneakerhead",
+      "A frosted-tips mullet",
       "Long dreadlocks; reggae singer",
       "Bald; serious martial artist"
     ],
@@ -1540,7 +1540,7 @@
       "Francesca Bolognese",
       "Gina Carano",
       "Sophia Loren",
-      "Isabella Rossellini (frequent podcast improviser, character actor, and comedy guest)"
+      "Isabella Rossellini"
     ],
     "answer": 0,
     "d": 1,
@@ -1550,7 +1550,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "Lily Sullivan's character Bridget Jones is famous for:",
     "options": [
-      "Reciting diary entries that turn into extreme, violent revenge plots",
+      "Reciting diary entries that turn into extreme",
       "Being an actual British movie character",
       "Reviewing romantic comedies",
       "Singing showtunes"
@@ -1576,7 +1576,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "In their collaborative spin-off podcast Hey Randy!, what town in Wisconsin are Randy Snutz and his crew based in?",
     "options": [
-      "Milwaukee, Wisconsin (on the shores of Lake Michigan)",
+      "Milwaukee, Wisconsin",
       "Green Bay",
       "Stevens Point",
       "Kenosha"
@@ -1629,7 +1629,7 @@
     "q": "What character does Drew Tarver play who is an aspiring southern country music singer with bizarrely specific, dark songs?",
     "options": [
       "Donny Gary",
-      "Memphis Kansas Breeze (frequent podcast improviser, character actor, and comedy guest)",
+      "Memphis Kansas Breeze",
       "Martin Sheffield Lickly",
       "Billy Joe"
     ],
@@ -1641,7 +1641,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "Drew Tarver teamed up with Carl Tart to form which iconic fictional country-music truck-loving duo?",
     "options": [
-      "The Diesel Brothers (country rock harmony duo)",
+      "The Diesel Brothers",
       "The Mudflaps",
       "Memphis Kansas Breeze",
       "Two Guys, One Rig"
@@ -1656,7 +1656,7 @@
     "options": [
       "Broken hearts and whiskey",
       "Honky-tonk bars in Nashville",
-      "Trucks, whether human beings are trucks, and trucks having birthdays",
+      "Trucks, whether human beings are trucks,",
       "Rodeo bulls and tractors"
     ],
     "answer": 2,
@@ -1693,7 +1693,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "What is the name of Carl Tart's character who is an old-timey African-American gumshoe / chief of police from the south?",
     "options": [
-      "Chief Donahue (local municipal police captain)",
+      "Chief Donahue",
       "Chief Kevin",
       "Chief The Chief",
       "Chief Gumshoe"
@@ -1735,7 +1735,7 @@
       "Pastor Pasta",
       "Entree P. Neur",
       "Judge Judy",
-      "Auntie Brenda (frequent podcast improviser, character actor, and comedy guest)"
+      "Auntie Brenda"
     ],
     "answer": 1,
     "d": 1,
@@ -1747,7 +1747,7 @@
     "options": [
       "Entree P. Neur",
       "Madame Cash",
-      "Bizness Girl (aspiring corporate entrepreneur)",
+      "Bizness Girl",
       "Boss Lady"
     ],
     "answer": 0,
@@ -1772,7 +1772,7 @@
     "q": "What character played by Shaun Diston is a time-traveler who visits CBB to prevent dark futures, often referencing pop culture movies?",
     "options": [
       "John Connor",
-      "The Terminator (cybernetic organism sent back in time)",
+      "The Terminator",
       "Rudy North",
       "Sprague the Whisperer"
     ],
@@ -1785,7 +1785,7 @@
     "q": "Shaun Diston's character Sprague the Whisperer claims to be what profession in Hollywood?",
     "options": [
       "A stunt coordinator",
-      "An ultra-powerful English talent agent / manager",
+      "An ultra-powerful English talent agent",
       "A lighting technician",
       "A studio executive at Warner Bros."
     ],
@@ -1800,7 +1800,7 @@
       "He can run faster than light",
       "He can shoot lasers from his eyes",
       "He can jump from body to body / reset dirt",
-      "He has \"The Dirt\" power (involving dirt and sewer tunnels)"
+      "He has \"The Dirt\" power"
     ],
     "answer": 3,
     "d": 1,
@@ -1810,8 +1810,8 @@
     "show": "Comedy Bang! Bang!",
     "q": "What movie franchise did Scott Aukerman and Shaun Diston review film-by-film on CBB World?",
     "options": [
-      "James Bond (James Bonding)",
-      "Teenage Mutant Ninja Turtles (We Have to Stop Talking TMNT On CBM)",
+      "James Bond",
+      "Teenage Mutant Ninja Turtles",
       "Star Wars",
       "Fast & Furious"
     ],
@@ -1838,7 +1838,7 @@
     "options": [
       "Arnold Schwarzenegger",
       "Jesse Ventura",
-      "Jean-Claude Van Damme (Bloodsport / martial arts star)",
+      "Jean-Claude Van Damme",
       "Sylvester Stallone"
     ],
     "answer": 0,
@@ -1851,7 +1851,7 @@
     "options": [
       "Al Franken",
       "Jesse Ventura",
-      "Tim Pawlenty (frequent podcast improviser, character actor, and comedy guest)",
+      "Tim Pawlenty",
       "Gary Johnson"
     ],
     "answer": 1,
@@ -1863,8 +1863,8 @@
     "q": "In James Adomian's impression of Jesse Ventura, where does Jesse claim to reside?",
     "options": [
       "Underneath Area 51",
-      "In the Baja / Mexico, off the grid",
-      "In the deep forests of Minnesota (in its classic original format)",
+      "In the Baja",
+      "In the deep forests of Minnesota",
       "Inside an abandoned missile silo"
     ],
     "answer": 1,
@@ -1917,7 +1917,7 @@
       "\"I'm a real boy!\"",
       "\"This is an outrage!\"",
       "\"Look at me, Scott!\"",
-      "\"Wooden you know it! (and don't you ever forget it!)\""
+      "\"Wooden you know it!\""
     ],
     "answer": 1,
     "d": 1,
@@ -1928,7 +1928,7 @@
     "q": "Which actor and comedian played the character of \"Fourvel\", an aggressive, knife-wielding orphan?",
     "options": [
       "Bobby Moynihan",
-      "Horatio Sanz (SNL alumnus & frequent podcast improviser)",
+      "Horatio Sanz",
       "Ben Schwartz",
       "Paul Rust"
     ],
@@ -1967,7 +1967,7 @@
     "q": "What character played by Horatio Sanz is an aging, alcoholic candy manufacturer with a heart condition?",
     "options": [
       "Willy Wonka",
-      "Peanuts Holmes (unlicensed private investigator)",
+      "Peanuts Holmes",
       "Shelly Driftwood",
       "Aaron Neville"
     ],
@@ -1993,7 +1993,7 @@
     "q": "What was the premise of Paul Rust's \"New No-Nos\"?",
     "options": [
       "Proposing polite etiquette for fine dining",
-      "Taking bizarre daily grievances and flipping the premise into absurd, escalating life rules",
+      "Taking bizarre daily grievances",
       "Banning guests from using curse words",
       "Giving parenting advice"
     ],
@@ -2007,7 +2007,7 @@
     "options": [
       "Bobby Bottleservice",
       "El Chupacabra",
-      "Fabrice Fabrice (the craft services coordinator extraordinaire)",
+      "Fabrice Fabrice",
       "The Roz"
     ],
     "answer": 0,
@@ -2018,7 +2018,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "Nick Kroll's character El Chupacabra is famous for what trademark audio gimmick?",
     "options": [
-      "Using a voice-disguising vocoder / blowing horns and sirens",
+      "Using a voice-disguising vocoder",
       "Playing an accordion",
       "Tap dancing",
       "Whispering into the mic"
@@ -2044,9 +2044,9 @@
     "show": "Comedy Bang! Bang!",
     "q": "John Mulaney and Nick Kroll frequently appeared together on CBB as George St. Geegland and Gil Faizon, the elderly hosts of which stage show?",
     "options": [
-      "Too Much Tuna / Oh, Hello",
+      "Too Much Tuna",
       "Steppin' Out",
-      "The Pranksters (Gil Faizon and George St. Geegland from Oh, Hello)",
+      "The Pranksters",
       "Old New York"
     ],
     "answer": 0,
@@ -2070,7 +2070,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "What character played by Ben Schwartz appears annually around his birthday or the new year to talk nonsense and sing songs?",
     "options": [
-      "Himself (accompanied by \"The Solo Bolo\" episodes)",
+      "Himself",
       "Benny Schwa",
       "Rodney Waynes",
       "The Singer"
@@ -2110,7 +2110,7 @@
     "q": "What musical challenge do Scott Aukerman and Ben Schwartz attempt during \"Solo Bolo\" episodes?",
     "options": [
       "Singing an entire Broadway score from memory",
-      "The \"Olympic Song Challenge\" (singing back-and-forth transitions between pop songs without stopping)",
+      "The \"Olympic Song Challenge\"",
       "A beatboxing contest",
       "Rapping Gilbert and Sullivan"
     ],
@@ -2135,7 +2135,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "On which major milestone episode did the infamous \"Goodnight Saigon\" sing-along occur with dozens of CBB characters?",
     "options": [
-      "Episode 100 (in its classic original format)",
+      "Episode 100",
       "Episode 200",
       "Episode 300",
       "Episode 400"
@@ -2161,7 +2161,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "Who was the very first guest interviewed on Episode 1 of Comedy Death-Ray Radio on May 1, 2009?",
     "options": [
-      "Zach Galifianakis (Between Two Ferns / The Hangover)",
+      "Zach Galifianakis",
       "Rob Huebel and Thomas Lennon",
       "Paul F. Tompkins",
       "Patton Oswalt"
@@ -2188,7 +2188,7 @@
     "q": "What was the original studio location where early Earwolf episodes were recorded before moving to Midroll studios?",
     "options": [
       "Sunset Gower Studios",
-      "Scott's garage / The \"Earwolf Studio\" in Hollywood on Sunset Blvd",
+      "Scott's garage",
       "Upright Citizens Brigade Theatre basement",
       "Meltdown Comics"
     ],
@@ -2202,7 +2202,7 @@
     "options": [
       "Three brand new episodes released every single week without fail",
       "Two",
-      "One (every Monday)",
+      "One",
       "Five"
     ],
     "answer": 2,
@@ -2214,7 +2214,7 @@
     "q": "The television adaptation of Comedy Bang! Bang! aired for five seasons on which cable network?",
     "options": [
       "Comedy Central",
-      "IFC (Independent Film Channel)",
+      "IFC",
       "Adult Swim",
       "TBS"
     ],
@@ -2254,7 +2254,7 @@
     "options": [
       "\"Weird Al\" Yankovic",
       "Jack Black",
-      "Donald Glover (frequent podcast improviser, character actor, and comedy guest)",
+      "Donald Glover",
       "Jon Batiste"
     ],
     "answer": 0,
@@ -2279,7 +2279,7 @@
     "q": "What was the title of the hardcover anniversary compilation published by Scott Aukerman and the show's contributors in 2023?",
     "options": [
       "Comedy Bang! Bang!: The Book",
-      "Welcome to the Bang! Bang! (in its classic original format)",
+      "Welcome to the Bang! Bang!",
       "The Earwolf Almanac",
       "Between Two Bangs"
     ],
@@ -2317,10 +2317,10 @@
     "show": "Comedy Bang! Bang!",
     "q": "What character played by Andy Daly is an auctioneer with an absurdly rapid, indecipherable vocal cadence?",
     "options": [
-      "Dalton Wilcox (Poet Laureate of the West & author of You Must Buy Your Wife at Least as Much Jewelry as You Buy Your Horse)",
+      "Dalton Wilcox",
       "Don Dimello",
       "August Lindt",
-      "Auctioneer Bill / Joe Bongo"
+      "Auctioneer Bill"
     ],
     "answer": 3,
     "d": 1,
@@ -2332,7 +2332,7 @@
     "options": [
       "Bobby Moynihan",
       "Paul Rust",
-      "Neil Campbell (Comedy Bang! Bang! head writer & Time Keeper)",
+      "Neil Campbell",
       "James Adomian"
     ],
     "answer": 0,
@@ -2357,8 +2357,8 @@
     "q": "What is the response whenever Scott or a guest uses the word \"infotainment\"?",
     "options": [
       "\"It's not infotainment!\"",
-      "\"A mix of information and entertainment!\"",
-      "\"Neither informative nor entertaining! (and don't you ever forget it!)\"",
+      "\"A mix of information\"",
+      "\"Neither informative nor entertaining!\"",
       "\"That's Hollywood, baby!\""
     ],
     "answer": 1,
@@ -2369,7 +2369,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "When Scott Aukerman and Adam Scott host U Talkin' U2 To Me?, what is their standard introductory catchphrase?",
     "options": [
-      "\"Welcome to the show, this is Scott... and this is Scott!\"",
+      "\"Welcome to the show\"",
       "\"Hey rockers!\"",
       "\"Turn the volume up!\"",
       "\"Bono, where are you?\""
@@ -2424,7 +2424,7 @@
       "Doughboys",
       "Off Book: The Improvised Musical",
       "Spontaneanation",
-      "With Special Guest Lauren Lapkus (in its classic original format)"
+      "With Special Guest Lauren Lapkus"
     ],
     "answer": 1,
     "d": 1,
@@ -2447,7 +2447,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "What was the name of the sound engineer who famously sat in the booth during the golden Earwolf era and occasionally chimed in on mic?",
     "options": [
-      "Engineer Brett (Brett Morris)",
+      "Engineer Brett",
       "Engineer Cody",
       "Engineer Sam",
       "Engineer Kevin"
@@ -2461,7 +2461,7 @@
     "q": "What is Engineer Cody often remembered for on the podcast?",
     "options": [
       "Forgetting to press record",
-      "Bringing his dog (Peanut) into the studio / getting yelled at by Scott",
+      "Bringing his dog into the studio",
       "Playing guitar solos",
       "Correcting guests on movie trivia"
     ],
@@ -2473,7 +2473,7 @@
     "show": "Comedy Bang! Bang!",
     "q": "What is the name of the character played by Tim Heidecker who is an obnoxious, hacky stand-up comedian with an open-mic persona?",
     "options": [
-      "Johnny Pemberton (frequent podcast improviser, character actor, and comedy guest)",
+      "Johnny Pemberton",
       "The Joke Man",
       "Buddy Young Jr.",
       "Richard \"Richie\" Bargs"
