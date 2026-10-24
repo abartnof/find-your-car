@@ -397,8 +397,10 @@ const TOPIC_CLUSTERS = {
   'Romantic Comedies': 'Movies & Pop Culture',
   "RuPaul's Drag Race": 'Movies & Pop Culture',
   'Celebrity Anecdotes': 'Movies & Pop Culture',
-  'Chuck Norris Jokes': 'Movies & Pop Culture',
-  'Knock-Knock Jokes': 'Movies & Pop Culture',
+
+  // Jokes
+  'Chuck Norris Jokes': 'Jokes',
+  'Knock-Knock Jokes': 'Jokes',
 
   // History, People & Places
   'Texas History': 'History, People & Places',
@@ -418,6 +420,7 @@ const CLUSTER_ORDER = [
   'Animation & Cartoons',
   'Stand-Up, Podcasts & Comedy Shows',
   'Movies & Pop Culture',
+  'Jokes',
   'History, People & Places',
   'Music',
   'General Trivia',
@@ -425,10 +428,11 @@ const CLUSTER_ORDER = [
 
 function getClusterName(label) {
   if (TOPIC_CLUSTERS[label]) return TOPIC_CLUSTERS[label];
+  if (/joke/i.test(label)) return 'Jokes';
   if (/music|song|band|rock|folds|album/i.test(label)) return 'Music';
   if (/nickelodeon|animation|cartoon|simpson|burger|king of the hill/i.test(label)) return 'Animation & Cartoons';
   if (/stand-up|podcast|comedy bang|how did this get made|why won't you date me|taskmaster|late night|don't tell/i.test(label)) return 'Stand-Up, Podcasts & Comedy Shows';
-  if (/movie|film|drag race|joke|anecdote|pop culture/i.test(label)) return 'Movies & Pop Culture';
+  if (/movie|film|drag race|anecdote|pop culture/i.test(label)) return 'Movies & Pop Culture';
   if (/history|texas|dallas|austin|canadian|zimmerman|slang|fruits/i.test(label)) return 'History, People & Places';
   if (/sitcom|series|show|comedy|season|episode/i.test(label)) return 'TV Sitcoms & Comedies';
   return 'General Trivia';
@@ -461,17 +465,31 @@ const topicWins = {
     store.set('topicWins', w);
   },
 };
+const savedGroups = store.get('groups', null);
 const S = {
   name: store.get('name', ''),
   char: Math.min(store.get('char', 0), CHARACTERS.length - 1),
   car: Math.min(store.get('car', 0), CARS.length - 1),
   tex: store.get('tex', 0),
-  groups: new Set(store.get('groups', []).filter((l) => showGroups.some((g) => g.label === l))),
+  groups: new Set(
+    savedGroups
+      ? savedGroups.filter((l) => showGroups.some((g) => g.label === l))
+      : showGroups.filter((g) => getClusterName(g.label) !== 'Jokes').map((g) => g.label)
+  ),
   qs: [], i: 0, score: 0, answered: false, seen: new Set(),
   history: [],
 };
 let lot;
-if (!S.groups.size) showGroups.forEach((g) => S.groups.add(g.label));
+if (!store.get('jokes_default_off', 0)) {
+  for (const g of showGroups) {
+    if (getClusterName(g.label) === 'Jokes') S.groups.delete(g.label);
+  }
+  store.set('jokes_default_off', 1);
+  if (savedGroups) store.set('groups', [...S.groups]);
+}
+if (!S.groups.size) {
+  showGroups.filter((g) => getClusterName(g.label) !== 'Jokes').forEach((g) => S.groups.add(g.label));
+}
 
 const ESC = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const ICON = {
