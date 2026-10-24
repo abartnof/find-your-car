@@ -479,7 +479,7 @@ const S = {
       ? savedGroups.filter((l) => showGroups.some((g) => g.label === l))
       : showGroups.filter((g) => getClusterName(g.label) !== 'Jokes').map((g) => g.label)
   ),
-  qs: [], i: 0, score: 0, answered: false, seen: new Set(),
+  qs: [], i: 0, score: 0, streak: 0, answered: false, seen: new Set(),
   history: [],
 };
 let lot;
@@ -657,11 +657,56 @@ sheet.addEventListener('click', (e) => {
   else if (b.id === 'lb') showBoard(S.lastT);
 });
 
+const DOG_IDS = ['basset', 'chihuahua', 'shiba', 'dachshund', 'beagle'];
+let lastDogIdx = -1;
+let dogTimeout = null;
+
+function triggerDogStreak() {
+  clearTimeout(dogTimeout);
+  let idx;
+  do {
+    idx = Math.floor(Math.random() * DOG_IDS.length);
+  } while (idx === lastDogIdx && DOG_IDS.length > 1);
+  lastDogIdx = idx;
+  const dogId = DOG_IDS[idx];
+  const dogStreakEl = $('dogStreak');
+  const dogImg = $('dogImg');
+  if (!dogStreakEl || !dogImg) return;
+
+  const src = ASSETS[`dogs/${dogId}_open.png`];
+  if (!src) return;
+
+  dogImg.src = src;
+  dogStreakEl.classList.add('show');
+
+  // Slide up takes 0.5s (500ms), stays up for 1.0s (1000ms), then slides down over 0.5s (500ms)
+  dogTimeout = setTimeout(() => {
+    dismissDogStreak();
+  }, 1500);
+}
+
+function dismissDogStreak() {
+  clearTimeout(dogTimeout);
+  const dogStreakEl = $('dogStreak');
+  if (dogStreakEl) dogStreakEl.classList.remove('show');
+}
+
+$('dogStreak')?.addEventListener('pointerdown', (e) => {
+  e.stopPropagation();
+  dismissDogStreak();
+});
+$('dogStreak')?.addEventListener('click', (e) => {
+  e.stopPropagation();
+  dismissDogStreak();
+});
+window.triggerDogStreak = triggerDogStreak;
+
 function startGame() {
   $('app').classList.remove('menu-mode');
   sheet.style.height = '';
   if ($('skyBadge')) $('skyBadge').hidden = true;
-  S.qs = pickQuestions(); S.qs.forEach((q) => S.seen.add(q.q)); S.i = 0; S.score = 0;
+  S.qs = pickQuestions(); S.qs.forEach((q) => S.seen.add(q.q)); S.i = 0; S.score = 0; S.streak = 0;
+  dismissDogStreak();
   S.history = Array(STEPS).fill(null);
   clearEffects(); lot.reset(); lot.mode = 'play';
   $('title').hidden = true; $('pips').hidden = false; updateHud();
@@ -697,8 +742,13 @@ function answer(i) {
   });
   const last = S.i === STEPS - 1, win = ok && S.score + 1 === STEPS;
   if (ok) {
-    S.score++; lot.advance(); lot.cheer(); audio.correct(S.score - 1);
+    S.score++;
+    S.streak = (S.streak || 0) + 1;
+    lot.advance(); lot.cheer(); audio.correct(S.score - 1);
+    if (S.streak > 0 && S.streak % 3 === 0) triggerDogStreak();
   } else {
+    S.streak = 0;
+    dismissDogStreak();
     lot.stumble(); audio.wrong();
   }
   updateHud();
@@ -716,12 +766,14 @@ function answer(i) {
 }
 function nextQ() {
   if (!S.answered) return;
+  dismissDogStreak();
   if (S.i === STEPS - 1) return finish();
   S.i++; renderQ();
 }
 let fx;
 window.addEventListener('resize', () => { if (lot?.mode === 'menu') renderMenu(true); });
 async function finish() {
+  dismissDogStreak();
   $('app').classList.remove('menu-mode');
   sheet.style.height = '';
   if ($('skyBadge')) $('skyBadge').hidden = true;
@@ -768,6 +820,7 @@ async function finish() {
   if (demo) { lot.snap = true; startGame(); for (let i = 0; i < +demo[1]; i++) { lot.advance(); S.score++; S.history[i] = true; } lot.z = lot.stepZ; updateHud(); if (/win/.test(location.hash)) { lot.z = lot.stepZ; finish(); } else if (/fail/.test(location.hash)) finish(); }
   if (/ans/.test(location.hash)) answer(0);
   if (/board/.test(location.hash)) { for (const sc of [10, 7, 3]) board.add({ score: sc, t: Date.now() - sc * 3.6e6 }); showBoard(); }
+  if (/dog|streak/.test(location.hash)) { startGame(); triggerDogStreak(); }
   await wait(300);
   $('loading').classList.add('done');
 })();
