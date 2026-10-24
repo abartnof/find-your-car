@@ -496,6 +496,7 @@ if (!S.groups.size) {
 }
 
 const ESC = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const formatK = (n) => (n >= 1000 ? parseFloat((n / 1000).toFixed(1)) + 'k' : String(n));
 const ICON = {
   next: '<svg viewBox="0 0 24 24"><path d="M12 4l-1.4 1.4 5.6 5.6H4v2h12.2l-5.6 5.6L12 20l8-8z"/></svg>',
   prev: '<svg viewBox="0 0 24 24"><path d="M15.4 7.4 14 6l-6 6 6 6 1.4-1.4L10.8 12z"/></svg>',
@@ -539,8 +540,7 @@ function renderMenu(keepScroll = false) {
   const car = CARS[S.car];
   const prevScroll = keepScroll ? sheet.scrollTop : 0;
   sheet.innerHTML = `
-    <p class="overline">Trivia challenge</p>
-    <h1 class="headline">Where did you park?</h1>
+    <div class="cereal-bar">Now with ${formatK(QUESTIONS.length)} questions!</div>
     <p class="body">Ten questions. Every right answer gets you one step closer to your car. Get all ten and you're driving home.</p>
     <label class="field"><input id="name" maxlength="16" placeholder=" " autocomplete="nickname" value="${ESC(S.name)}"><span>Your name (for the leaderboard)</span></label>
     <div class="picker-row">

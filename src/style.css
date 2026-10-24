@@ -43,6 +43,7 @@ html,body{margin:0;height:100%;background:var(--md-surface);color:var(--md-on-su
 @keyframes spin{to{transform:rotate(360deg)}}
 .sheet{flex:0 1 auto;max-height:calc(100dvh - 90px);overflow-y:auto;background:var(--md-surface-1);border-radius:var(--r-xl) var(--r-xl) 0 0;margin-top:-20px;position:relative;padding:20px 16px calc(16px + env(safe-area-inset-bottom));box-shadow:0 -2px 12px rgba(0,0,0,.4)}
 .menu-mode .sheet{flex:0 0 auto;max-height:calc(100dvh - 56px - 140px + 20px - env(safe-area-inset-top));padding-top:16px}
+.cereal-bar{margin:-16px -16px 14px -16px;padding:10px 16px;background:#ffe115;color:#c41212;font-weight:900;font-size:15px;line-height:1.2;text-align:center;text-transform:uppercase;letter-spacing:.8px;border-radius:var(--r-xl) var(--r-xl) 0 0;border-bottom:2px solid #e5c100;box-shadow:0 2px 6px rgba(0,0,0,.25)}
 .overline{font-size:12px;font-weight:500;letter-spacing:.8px;text-transform:uppercase;color:var(--md-primary);margin:0 0 6px}
 .headline{font-size:24px;line-height:32px;font-weight:400;margin:0 0 8px}
 .question{font-size:19px;line-height:26px;font-weight:500;margin:0 0 14px}
