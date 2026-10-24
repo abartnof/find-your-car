@@ -34,6 +34,13 @@
   <main class="stage"><canvas id="gl"></canvas><div class="sky-badge" id="skyBadge"></div><div class="loading" id="loading"><div class="spinner"></div><div>Parking the cars…</div></div></main>
   <section class="sheet" id="sheet"></section>
   <div class="dog-streak" id="dogStreak" aria-hidden="true">
+    <div class="dog-bubble" id="dogBubble">
+      <span class="dog-bubble-text" id="dogBubbleText"></span>
+      <svg class="dog-bubble-tail" viewBox="0 0 24 16">
+        <polygon points="0,-2 24,-2 20,16" fill="#ffffff" />
+        <polyline points="0,-2 20,16 24,-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" />
+      </svg>
+    </div>
     <img class="dog-streak-img" id="dogImg" src="" alt="">
   </div>
 </div>

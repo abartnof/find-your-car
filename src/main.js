@@ -658,7 +658,55 @@ sheet.addEventListener('click', (e) => {
 });
 
 const DOG_IDS = ['basset', 'chihuahua', 'shiba', 'dachshund', 'beagle'];
+const DOG_PHRASES = [
+  "You ate and left no crumbs",
+  "Mother is mothering",
+  "Stand on business",
+  "She’s locked in",
+  "Main character energy",
+  "Pop off!",
+  "Understood the assignment",
+  "Putting in that work",
+  "Cook, then!",
+  "Certified bop",
+  "Glow up in real time",
+  "Big stepper",
+  "Cleared the room",
+  "Putting up Wilt numbers",
+  "No cap, pure gas",
+  "Face card never declines",
+  "Run that bag up",
+  "Clock it",
+  "Taking Ws only",
+  "Gag them a bit, for sure",
+  "Heavy on it",
+  "Out of pocket with how good this is",
+  "All gas, no brakes",
+  "Carrying the team on your back",
+  "Built different",
+  "Let her cook",
+  "Unreal motion",
+  "Snatching wigs",
+  "Living rent-free in their heads",
+  "Pure heat",
+  "A whole mood",
+  "Slagging them off the court",
+  "Bodying it",
+  "Straight pressure",
+  "Giving top tier",
+  "Brought the whole bakery",
+  "Unbothered, moisturized, in your lane",
+  "She’s the blueprint",
+  "Dropping masterclasses",
+  "Maxed-out stats",
+  "Certified heavy hitter",
+  "Level 100 boss behavior",
+  "Smoking that doubt pack",
+  "Holding down the fort",
+  "Unmatched aura",
+];
 let lastDogIdx = -1;
+let lastPhraseIdx = -1;
 let dogTimeout = null;
 
 function triggerDogStreak() {
@@ -669,14 +717,24 @@ function triggerDogStreak() {
   } while (idx === lastDogIdx && DOG_IDS.length > 1);
   lastDogIdx = idx;
   const dogId = DOG_IDS[idx];
+
+  let pIdx;
+  do {
+    pIdx = Math.floor(Math.random() * DOG_PHRASES.length);
+  } while (pIdx === lastPhraseIdx && DOG_PHRASES.length > 1);
+  lastPhraseIdx = pIdx;
+  const phrase = DOG_PHRASES[pIdx];
+
   const dogStreakEl = $('dogStreak');
   const dogImg = $('dogImg');
+  const bubbleText = $('dogBubbleText');
   if (!dogStreakEl || !dogImg) return;
 
   const src = ASSETS[`dogs/${dogId}_open.png`];
   if (!src) return;
 
   dogImg.src = src;
+  if (bubbleText) bubbleText.textContent = phrase;
   dogStreakEl.classList.add('show');
 
   // Slide up takes 0.5s (500ms), stays up for 1.0s (1000ms), then slides down over 0.5s (500ms)
