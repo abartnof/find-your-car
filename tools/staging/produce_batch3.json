@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Fruits & Veggies",
+    "q": "Prior to the Columbian Exchange beginning in 1492, which staple vegetable was entirely unknown in Europe?",
+    "options": [
+      "Cabbage",
+      "Turnip",
+      "Potato",
+      "Onion"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In which geographic region were wild potatoes first domesticated by indigenous peoples over 7,000 years ago?",
+    "options": [
+      "The steppes of Central Asia",
+      "The Nile River valley of Egypt",
+      "The coastal plains of Brazil",
+      "The Andean highlands of modern Peru and Bolivia"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Where did the cultivated tomato originate before being introduced to Europe and the rest of the world?",
+    "options": [
+      "Western South America and Mesoamerica",
+      "Southern Italy and Sicily",
+      "The Balkan peninsula",
+      "Southeast Asia"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which fruit or vegetable was native to the Old World rather than the Americas?",
+    "options": [
+      "Chili pepper",
+      "Pumpkin",
+      "Corn (maize)",
+      "Apple"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The wild ancestor of all modern domestic apple varieties, Malus sieversii, originated in which mountain region?",
+    "options": [
+      "Caucasus mountains of Georgia",
+      "Tian Shan mountains of Central Asia (Kazakhstan)",
+      "Pyrenees of Spain and France",
+      "Appalachian mountains of North America"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What city in Kazakhstan literally translates to 'Father of Apples' due to its proximity to wild ancestral apple forests?",
+    "options": [
+      "Almaty",
+      "Astana",
+      "Tashkent",
+      "Bishkek"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Citrus fruits such as oranges, lemons, and limes originally evolved in which region of the world?",
+    "options": [
+      "The Mediterranean coast of Italy and Greece",
+      "Sub-Saharan Africa",
+      "Southeast Asia, South Asia, and northeastern Australia",
+      "Central America"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Where were wild bananas first domesticated by ancient farmers roughly 7,000 to 10,000 years ago?",
+    "options": [
+      "New Guinea and Island Southeast Asia",
+      "The Canary Islands",
+      "Central America",
+      "Madagascar"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which of the following culinary staples was brought to the Americas by European colonists rather than native to the Americas?",
+    "options": [
+      "Sweet potato",
+      "Garlic",
+      "Avocado",
+      "Bell pepper"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Watermelons were originally domesticated thousands of years ago in which continent?",
+    "options": [
+      "South America",
+      "Africa (northeastern Africa / Sudan)",
+      "Europe",
+      "Australia"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What ancient civilization cultivated watermelons as portable water storage containers, as evidenced by seeds found in King Tutankhamun's tomb?",
+    "options": [
+      "Ancient Rome",
+      "Ancient Egypt",
+      "The Maya civilization",
+      "The Indus Valley civilization"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Where were wild peaches first domesticated by humans over 8,000 years ago?",
+    "options": [
+      "The Tigris-Euphrates basin in Mesopotamia",
+      "The Black Sea coast of Turkey",
+      "The Yangtze River valley of China",
+      "The Nile Delta in Egypt"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What color were carrots originally before Dutch growers selectively bred orange varieties in the 17th century?",
+    "options": [
+      "Bright blue and black",
+      "Purple and yellow",
+      "Neon red and white",
+      "Emerald green"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In which historical region did wild purple and yellow carrots first originate and undergo domestication?",
+    "options": [
+      "Scandinavia",
+      "The British Isles",
+      "Persia and modern Afghanistan",
+      "The Caribbean basin"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which of these crops is part of the traditional Mesoamerican 'Three Sisters' agricultural companion planting triad?",
+    "options": [
+      "Potato",
+      "Tomato",
+      "Winter squash",
+      "Wheat"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In the 'Three Sisters' companion planting system, what role does winter squash play?",
+    "options": [
+      "Its broad prickly leaves shade the soil to suppress weeds and retain soil moisture",
+      "It fixes atmospheric nitrogen into the root zone",
+      "Its tall stems provide a physical climbing pole for beans",
+      "It emits ethylene to ripen the corn faster"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Where was the avocado first domesticated by indigenous Mesoamericans?",
+    "options": [
+      "South-central Mexico (Puebla valley)",
+      "The Amazon rainforest of Brazil",
+      "The Pampas of Argentina",
+      "The Caribbean island of Cuba"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Pineapples are indigenous to which tropical region of the Americas?",
+    "options": [
+      "The Hawaiian Islands",
+      "The Florida Everglades",
+      "The Sonoran desert",
+      "The Paraná-Paraguay River basin between southern Brazil and Paraguay"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which ancient grain-like crop with edible leaves was domesticated in the Andean altiplano of South America?",
+    "options": [
+      "Barley",
+      "Buckwheat",
+      "Spelt",
+      "Quinoa"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Cassava (manioc or yuca), an essential tropical root crop, was originally domesticated in which region?",
+    "options": [
+      "West Africa",
+      "Southeast Asia",
+      "The Mediterranean basin",
+      "The Amazon basin of South America"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which popular modern apple variety was developed by the University of Minnesota and patented in 1988 for its exceptional crispness?",
+    "options": [
+      "Gala",
+      "Fuji",
+      "Granny Smith",
+      "Honeycrisp"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What unique cellular property gives the Honeycrisp apple its extraordinarily juicy, explosive crunch compared to other varieties?",
+    "options": [
+      "Its cells are significantly larger and fracture cleanly rather than tearing apart when bitten",
+      "It contains double the amount of crystalline calcium oxalate",
+      "Its cell walls are reinforced with natural latex",
+      "It has air pockets pressurized with carbon dioxide"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Who was the Southern California amateur horticulturist and mail carrier who discovered and patented the Hass avocado in 1935?",
+    "options": [
+      "Luther Burbank",
+      "Charles Hovey",
+      "Rudolph Hass",
+      "George Roeding"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Every Hass avocado tree in the world today is genetically a clone propagated from a single mother tree grown where?",
+    "options": [
+      "Oaxaca, Mexico",
+      "Homestead, Florida",
+      "Kula, Hawaii",
+      "La Habra Heights, California"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What variety was the world's dominant export banana until the 1950s, when Panama disease nearly wiped out commercial plantations?",
+    "options": [
+      "Cavendish",
+      "Lady Finger",
+      "Gros Michel ('Big Mike')",
+      "Red Dacca"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which banana variety replaced the Gros Michel as the primary global commercial export banana due to its initial resistance to race 1 Panama disease?",
+    "options": [
+      "Gros Michel",
+      "Cavendish",
+      "Blue Java",
+      "Plantain"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "After whom is the Cavendish banana cultivar named?",
+    "options": [
+      "Henry Cavendish, discoverer of hydrogen",
+      "Sir Thomas Cavendish, English privateer",
+      "William Cavendish, 6th Duke of Devonshire",
+      "Lord Richard Cavendish of Kenya"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What soil-borne fungal pathogen caused Panama disease in Gros Michel bananas and now threatens Cavendish bananas with Tropical Race 4 (TR4)?",
+    "options": [
+      "Phytophthora infestans",
+      "Botrytis cinerea",
+      "Fusarium oxysporum",
+      "Claviceps purpurea"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Who discovered the crisp, bright green Granny Smith apple in 1868 as a chance seedling in New South Wales, Australia?",
+    "options": [
+      "Eliza Tibbets",
+      "Maria Ann Smith",
+      "Beatrix Potter",
+      "Florence Nightingale"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "All commercial Washington Navel orange trees in the United States trace back to budwood sent to California from a spontaneous mutation found where?",
+    "options": [
+      "Seville, Spain",
+      "Valencia, Spain",
+      "Palermo, Sicily",
+      "Bahia, Brazil"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Who was the pioneering woman in Riverside, California who received two Brazilian navel orange trees from the USDA in 1873, sparking the California citrus industry?",
+    "options": [
+      "Laura Ingalls Wilder",
+      "Clara Barton",
+      "Julia Morgan",
+      "Eliza Tibbets"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which sweet, easy-to-peel mandarin hybrid was named after Father Clément Rodier, who discovered it in his orphanage garden in Algeria around 1900?",
+    "options": [
+      "Tangerine",
+      "Satsuma",
+      "Clementine",
+      "Tangelo"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What agricultural explorer traveled extensively through Asia for the USDA between 1905 and 1918, introducing the Meyer lemon and hundreds of other crops?",
+    "options": [
+      "David Fairchild",
+      "Luther Burbank",
+      "George Washington Carver",
+      "Frank N. Meyer"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which highly anticipated apple variety (WA 38), developed by Washington State University as a cross between Honeycrisp and Enterprise, debuted in 2019?",
+    "options": [
+      "SnapDragon",
+      "Envy",
+      "Cosmic Crisp",
+      "Sweetango"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why was the Cosmic Crisp apple given the name 'Cosmic'?",
+    "options": [
+      "The bright yellow lenticels (pores) on its deep red skin resembled stars scattered across the cosmos",
+      "It was the first fruit tree bred aboard the International Space Station",
+      "Its DNA was treated with cosmic ray bombardment",
+      "It was named in honor of the Apollo moon landings"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The trademarked Pink Lady apple is the commercial brand name for which botanical apple cultivar developed in Western Australia?",
+    "options": [
+      "Lady Williams",
+      "Sundowner",
+      "Cripps Pink",
+      "Pink Pearl"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The Fuji apple was developed by Japanese agricultural researchers in the 1930s as a cross between Red Delicious and which classic American variety?",
+    "options": [
+      "Ralls Janet",
+      "Golden Delicious",
+      "Granny Smith",
+      "Northern Spy"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Who discovered the famous McIntosh apple in 1811 while clearing overgrown brush on his homestead farm in Ontario, Canada?",
+    "options": [
+      "Alexander Graham Bell",
+      "Charles McIntosh",
+      "William Lyon Mackenzie",
+      "John McIntosh"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The original Red Delicious apple tree was discovered in Peru, Iowa by farmer Jesse Hiatt, who initially called it what?",
+    "options": [
+      "Hawkeye",
+      "Cornhusker",
+      "Stark's Gem",
+      "Prairie Queen"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Where was the Golden Delicious apple discovered as a chance seedling in 1905 before its rights were purchased by Stark Bro's Nurseries?",
+    "options": [
+      "Clay County, West Virginia",
+      "Yakima Valley, Washington",
+      "Sonoma County, California",
+      "Lancaster County, Pennsylvania"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What natural mutation gives pink-fleshed Cara Cara navel oranges their distinctive interior hue?",
+    "options": [
+      "Anthocyanin synthesis triggered by cold nights",
+      "Extreme levels of vitamin B12",
+      "Excessive chlorophyll degradation",
+      "High accumulation of the red carotenoid lycopene"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Blood oranges (such as Moro and Tarocco) produce their deep crimson interior flesh through high levels of which pigments, stimulated by cool Mediterranean night temperatures?",
+    "options": [
+      "Carotenoids",
+      "Anthocyanins",
+      "Betalains",
+      "Curcumins"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What famous American plant breeder in Santa Rosa, California developed the Shasta daisy, the Burbank potato, and the plumcot?",
+    "options": [
+      "George Washington Carver",
+      "Luther Burbank",
+      "Gregor Mendel",
+      "Norman Borlaug"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The Russet Burbank potato, the primary potato used for fast-food French fries worldwide, was developed from a seedling of which variety?",
+    "options": [
+      "Yukon Gold",
+      "Kennebec",
+      "Irish Cobbler",
+      "Burbank potato (selected by Luther Burbank)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which yellow-fleshed potato variety was bred at the University of Guelph in Ontario and officially released in 1980?",
+    "options": [
+      "Yukon Gold",
+      "Fingerling",
+      "Adirondack Blue",
+      "Red Pontiac"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What ancient horticultural practice involves training a fruit tree to grow flat against a wall, lattice, or wire trellis?",
+    "options": [
+      "Topiary",
+      "Pollarding",
+      "Pleaching",
+      "Espalier"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why do commercial orchardists heavily favor dwarf apple trees over standard full-sized trees?",
+    "options": [
+      "Their fruit contains twice as much vitamin C",
+      "They do not require water after initial planting",
+      "They are immune to all bacterial and fungal diseases",
+      "They yield fruit years earlier, produce more fruit per acre, and allow easier pruning and harvesting from the ground"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What grafting technique uses a single dormant vegetative bud inserted into a T-shaped slit in the bark of a rootstock?",
+    "options": [
+      "Whip and tongue grafting",
+      "Cleft grafting",
+      "T-budding (shield budding)",
+      "Bridge grafting"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What is the critical physiological requirement for a successful graft union between a scion and rootstock?",
+    "options": [
+      "Both plants must have identical leaf surface areas",
+      "The roots of the scion must be kept submerged in fertilizer",
+      "Both branches must be coated in petroleum jelly before cutting",
+      "The vascular cambium layers of both plants must align and make intimate contact"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why are commercial fruit trees almost universally propagated via clonal propagation (grafting or cuttings) rather than from seeds?",
+    "options": [
+      "Seed propagation produces plants that cannot photosynthesize",
+      "Seeds from fruit trees are illegal to plant without federal permits",
+      "Clonal propagation ensures exact genetic copies with predictable fruit quality and flavor",
+      "Fruit seeds can only germinate in pressurized laboratory chambers"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What agricultural practice involves growing white asparagus by piling mounds of soil over the crowns to exclude all sunlight?",
+    "options": [
+      "Blanching (etiolation)",
+      "Stratification",
+      "Girdling",
+      "Scarification"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why is white asparagus white rather than green?",
+    "options": [
+      "Deprived of sunlight, the emerging spears cannot synthesize green chlorophyll",
+      "It is treated with sulfur dioxide gas while growing",
+      "It is genetically devoid of all chloroplasts",
+      "It is bleached by calcium carbonate in the soil"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Belgian endive (witloof) undergoes a secondary forced growing cycle in total darkness to produce its compact, pale yellow heads. What is this process called?",
+    "options": [
+      "Bletting",
+      "Vernalization",
+      "Forcing (chicon production)",
+      "Scarification"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What term describes the intentional removal of excess immature fruits from a tree in spring to ensure remaining fruits grow to marketable size?",
+    "options": [
+      "Fruit thinning",
+      "Topping",
+      "Pinching back",
+      "Debudding"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "If a fruit tree bears an enormous crop of small fruit one year and almost no fruit the following year, it is exhibiting what common habit?",
+    "options": [
+      "Senescence shock",
+      "Dormancy wilt",
+      "Epigenetic collapse",
+      "Biennial bearing (alternate bearing)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What horticultural practice involves cutting a narrow ring of bark and phloem around a tree trunk or branch to trap carbohydrates in the canopy?",
+    "options": [
+      "Girdling (cincturing)",
+      "Coppicing",
+      "Layering",
+      "Root pruning"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What system of soil-less cultivation suspends plant roots in air inside a closed chamber and mists them with nutrient solution?",
+    "options": [
+      "Aeroponics",
+      "Hydroponics",
+      "Aquaponics",
+      "Geoponics"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What is the primary difference between hydroponics and aquaponics?",
+    "options": [
+      "Hydroponics uses only saltwater while aquaponics uses distilled rain water",
+      "Aquaponics relies entirely on synthetic petrochemical fertilizers",
+      "Aquaponics combines hydroponic plant cultivation with aquaculture (raising aquatic animals like fish) in a symbiotic cycle",
+      "Hydroponics uses soil mixed with volcanic pumice"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What cold-temperature exposure triggers winter wheat and certain biennial vegetables (like carrots and cabbages) to flower in their second year?",
+    "options": [
+      "Vernalization",
+      "Stratification",
+      "Scarification",
+      "Photoperiodism"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What term describes treating seeds with moisture and chilling to break embryonic dormancy before spring planting?",
+    "options": [
+      "Scarification",
+      "Vernalization",
+      "Stratification",
+      "Inoculation"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What process involves nicking or scratching the hard, impermeable seed coat of certain legumes to allow water absorption and germination?",
+    "options": [
+      "Stratification",
+      "Scarification",
+      "Maceration",
+      "Pelleting"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why do commercial orchardists paint the lower trunks of young fruit trees with white latex paint?",
+    "options": [
+      "To prevent deer from smelling the bark sap",
+      "To seal nitrogen gas inside the wood",
+      "To sterilize viral pathogens from the atmosphere",
+      "To reflect winter sunlight and prevent southwest injury (sunscald) and bark splitting"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What pruning cut removes an entire branch back to its point of origin on the parent stem or trunk?",
+    "options": [
+      "Heading cut",
+      "Pinching cut",
+      "Thinning cut",
+      "Shearing cut"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What pruning system opens the center of stone fruit trees (peaches, plums) into an inverted cone or vase shape to maximize sunlight penetration?",
+    "options": [
+      "Central leader system",
+      "Spindle bush system",
+      "Open center (vase) system",
+      "Trellis cordons"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What is the common term for vigorous, upright vegetative shoots that sprout vertically from the rootstock or main branches of fruit trees and sap energy?",
+    "options": [
+      "Calyx tendrils",
+      "Spur clusters",
+      "Petioles",
+      "Suckers and water sprouts"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Genomic studies reveal that almost all cultivated modern citrus varieties derive from hybridization among which three ancestral wild species?",
+    "options": [
+      "Lemon, Lime, and Orange",
+      "Bergamot, Kumquat, and Grapefruit",
+      "Key lime, Yuzu, and Clementine",
+      "Citron, Pomelo, and Mandarin"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The sweet orange (Citrus × sinensis) is a hybrid between which two ancestral citrus parents?",
+    "options": [
+      "Citron and Kumquat",
+      "Lemon and Lime",
+      "Pomelo and Mandarin",
+      "Grapefruit and Tangerine"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The grapefruit (Citrus × paradisi) originated in the 18th century in Barbados as an accidental cross between which two citrus fruits?",
+    "options": [
+      "Lemon and Lime",
+      "Sweet orange and Pomelo",
+      "Mandarin and Citron",
+      "Kumquat and Bergamot"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why was the grapefruit given the English common name 'grapefruit'?",
+    "options": [
+      "It was originally fermented into wine like grapes",
+      "Its large fruits grow in clusters on the branches resembling bunches of grapes",
+      "Its wild ancestor had purple skin like Concord grapes",
+      "It was named by grape breeders in California"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which thick-rinded, ancient ancestral citrus fruit with very little juice was historically prized for its fragrant peel and Jewish Sukkot rituals?",
+    "options": [
+      "Bergamot",
+      "Pomelo",
+      "Kumquat",
+      "Citron (Etrog)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which bizarre citron variety produces segmented, elongated finger-like carpels resembling a human hand?",
+    "options": [
+      "Buddha's hand (Fingered citron)",
+      "Dragon's eye",
+      "Devil's claw",
+      "Monkey orange"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The bergamot orange, famous for flavoring Earl Grey tea and high-end perfumes, is primarily grown in which Italian coastal region?",
+    "options": [
+      "Tuscany",
+      "Piedmont",
+      "Calabria",
+      "Veneto"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which small oval citrus fruit is eaten whole, including the sweet rind, while the pulp inside is pleasantly tart?",
+    "options": [
+      "Meyer lemon",
+      "Calamansi",
+      "Rangpur",
+      "Kumquat"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What aromatic East Asian citrus fruit, widely used in Japanese cuisine and ponzu sauce, can withstand freezing temperatures down to 15°F (-9°C)?",
+    "options": [
+      "Yuzu",
+      "Kaffir lime",
+      "Blood orange",
+      "Sudachi"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What distinct feature characterizes the leaves of the makrut (kaffir) lime tree, widely used in Thai curry pastes?",
+    "options": [
+      "Needle-like foliage like a pine",
+      "Double leaves (an hourglass-shaped winged leaf with an attached petiole)",
+      "Variegated purple and silver stripes",
+      "Serrated triangular margins with stinging hairs"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What devastating, incurable bacterial disease of citrus trees is spread by the Asian citrus psyllid and turns fruit green, bitter, and misshapen?",
+    "options": [
+      "Citrus canker",
+      "Citrus greening (Huanglongbing / HLB)",
+      "Tristeza virus",
+      "Black spot blight"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The Persian lime (Citrus × latifolia), the dominant lime sold in American supermarkets, is seedless because it is:",
+    "options": [
+      "A triploid (3n) hybrid",
+      "Treated with gamma radiation",
+      "A clone of a diploid orange",
+      "Harvested before ovaries develop"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Key limes (Citrus aurantiifolia) differ from Persian limes because Key limes are:",
+    "options": [
+      "Sweet and completely devoid of acid",
+      "Bright blue when fully ripe",
+      "Smaller, spherical, more acidic, aromatic, and contain seeds",
+      "Grown exclusively underground"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What small, round citrus hybrid native to the Philippines is also known as the Philippine lime or calamondin?",
+    "options": [
+      "Calamansi",
+      "Yuzu",
+      "Pomelo",
+      "Finger lime"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What native Australian citrus fruit contains caviar-like spherical juice vesicles that pop in the mouth?",
+    "options": [
+      "Desert quandong",
+      "Australian finger lime",
+      "Kakadu plum",
+      "Davidson plum"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The Great Famine of Ireland (1845–1852) was triggered by which devastating oomycete pathogen that attacked the potato crop?",
+    "options": [
+      "Fusarium oxysporum",
+      "Phytophthora infestans (Late blight)",
+      "Puccinia graminis",
+      "Claviceps purpurea"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why was the Irish potato crop so uniquely vulnerable to late blight in the 1840s?",
+    "options": [
+      "Irish farmers refused to use copper fungicides",
+      "Overwhelming reliance on a genetic monoculture of a single potato variety called the 'Irish Lumper'",
+      "Potatoes were planted only in submerged wetlands",
+      "The potato had only been imported that same year"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What French military pharmacist and agronomist championed the potato in 18th-century France by hosting potato feasts for nobles and intellectuals?",
+    "options": [
+      "Louis Pasteur",
+      "Georges Cuvier",
+      "Denis Diderot",
+      "Antoine-Augustin Parmentier"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In classical French culinary terminology, dishes prepared with or containing potatoes are often named in honor of Parmentier, such as:",
+    "options": [
+      "Sauce Mornay",
+      "Potage Parmentier",
+      "Béchamel",
+      "Consommé Colbert"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What Prussian monarch issued the famous 'Kartoffelbefehl' (Potato Decrees) in 1756 compelling peasants to plant potatoes to safeguard against famine?",
+    "options": [
+      "Frederick the Great (Frederick II)",
+      "Otto von Bismarck",
+      "Kaiser Wilhelm II",
+      "Charlemagne"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "According to historical lore, how did Frederick the Great convince suspicious Prussian peasants to cultivate potatoes?",
+    "options": [
+      "He banned bread and beer until everyone planted a field",
+      "He paid gold coins for every potato brought to Berlin",
+      "He personally cooked mashed potatoes in public town squares",
+      "He planted a royal potato field and posted royal guards around it, tempting curious peasants to steal the 'valuable' crop at night"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why were tomatoes feared as 'poison apples' by wealthy European aristocrats throughout the late 1500s and 1600s?",
+    "options": [
+      "Early wild tomatoes contained lethal cyanide",
+      "The tomato's acidity leached toxic lead from the pewter plates used by aristocrats, causing lead poisoning",
+      "Eating tomatoes was declared a heresy by the Pope",
+      "The red juice was mistaken for arterial blood"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What botanical family do tomatoes belong to that caused early European herbalists to distrust them due to associations with deadly nightshade (belladonna)?",
+    "options": [
+      "Solanaceae",
+      "Apocynaceae",
+      "Euphorbiaceae",
+      "Ranunculaceae"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What American folk legend and nurseryman, born John Chapman, traveled through Ohio, Indiana, and Illinois planting apple orchards from seed?",
+    "options": [
+      "Johnny Appleseed",
+      "Paul Bunyan",
+      "Davy Crockett",
+      "Daniel Boone"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why did Johnny Appleseed grow his apple trees from seed rather than grafting scions of sweet dessert apples?",
+    "options": [
+      "He did not know how to graft trees",
+      "His Swedenborgian religious beliefs opposed grafting as unnatural, and settlers needed sour cider apples for making hard alcoholic cider",
+      "Grafting was outlawed under the Northwest Ordinance",
+      "Wild animals ate grafted trees faster than seed-grown trees"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What famous African American agricultural scientist at Tuskegee Institute developed over 300 products from peanuts and 100 from sweet potatoes?",
+    "options": [
+      "Benjamin Banneker",
+      "George Washington Carver",
+      "Percy Julian",
+      "Norbert Rillieux"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why did George Washington Carver promote peanuts and sweet potatoes to Southern sharecroppers?",
+    "options": [
+      "To make peanut butter the official currency of Alabama",
+      "Because cotton had gone extinct due to a viral epidemic",
+      "To replenish nitrogen-depleted soils and provide nutritious alternatives to cotton monoculture",
+      "To satisfy an exclusive military ration contract"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What ancient trade route network facilitated the overland exchange of produce like peaches, pomegranates, and garlic across Eurasia?",
+    "options": [
+      "The Amber Road",
+      "The King's Highway",
+      "The Silk Road",
+      "The Incense Route"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which fruit was used by the British Royal Navy beginning in the late 18th century to prevent scurvy among sailors, earning them the nickname 'limeys'?",
+    "options": [
+      "Orange",
+      "Lime (and lemon)",
+      "Grapefruit",
+      "Pomegranate"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What Scottish naval surgeon published 'A Treatise of the Scurvy' in 1753 proving that citrus fruits effectively cured scurvy?",
+    "options": [
+      "James Lind",
+      "Alexander Fleming",
+      "Joseph Lister",
+      "Edward Jenner"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What essential vitamin is deficient in the human body during the onset of scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C (Ascorbic acid)",
+      "Vitamin D",
+      "Vitamin B12"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why must humans obtain Vitamin C from fresh fruits and vegetables, unlike most other mammals that produce it endogenously?",
+    "options": [
+      "Humans lack liver cells capable of processing glucose",
+      "Human stomach acid destroys all self-synthesized vitamins",
+      "Humans store too much copper in their bone marrow",
+      "Humans carry a non-functional pseudo-gene for L-gulonolactone oxidase (GULO), the final enzyme in vitamin C synthesis"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In the 18th century, pineapples were so extraordinarily rare and expensive in Europe that wealthy elites would:",
+    "options": [
+      "Lock them in bank vaults as collateral for real estate loans",
+      "Rent them for an evening to carry around at lavish parties as a status symbol of wealth and hospitality",
+      "Offer a single pineapple in exchange for a castle",
+      "Use them exclusively to crown royalty at coronations"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What architectural ornamentation frequently seen on historic fence posts, stone gates, and doorways depicts a fruit symbolizing warm hospitality?",
+    "options": [
+      "Pomegranate",
+      "Pineapple",
+      "Grape cluster",
+      "Acorn"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What British WWII government propaganda campaign claimed that RAF pilots ate excessive carrots to explain their superior night-fighting abilities?",
+    "options": [
+      "A campaign to boost wartime carrot sales for private farm syndicates",
+      "A psychological warfare plot to convince Germany to ration meat",
+      "A cover story designed to conceal the secret military invention of airborne radar",
+      "A scientific experiment to cure congenital night blindness"
+    ],
+    "answer": 2,
+    "d": 2
+  }
+]

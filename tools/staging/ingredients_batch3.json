@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Ingredients",
+    "q": "Which green fruit is the essential mashed base of Mexican guacamole?",
+    "options": [
+      "Tomatillo",
+      "Green bell pepper",
+      "Avocado",
+      "Zucchini"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fresh green herb is the signature primary ingredient in classic Pesto Genovese?",
+    "options": [
+      "Genovese sweet basil",
+      "Cilantro",
+      "Mint",
+      "Oregano"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which type of nut is traditionally ground with basil, garlic, and cheese in classic Pesto Genovese?",
+    "options": [
+      "Walnuts",
+      "Pine nuts",
+      "Almonds",
+      "Pecans"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French mother sauce is made by whisking warm melted butter into egg yolks and lemon juice?",
+    "options": [
+      "Béchamel",
+      "Hollandaise",
+      "Velouté",
+      "Espagnole"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French mother sauce consists of milk thickened with a white roux (butter and flour)?",
+    "options": [
+      "Béchamel",
+      "Velouté",
+      "Hollandaise",
+      "Allemande"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which legume is cooked and pureed to form the smooth base of traditional Middle Eastern Hummus?",
+    "options": [
+      "Lentils",
+      "Black beans",
+      "Fava beans",
+      "Chickpeas (Garbanzo beans)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sesame seed paste is blended with chickpeas, lemon juice, and garlic to make Hummus?",
+    "options": [
+      "Tahini",
+      "Halva",
+      "Za'atar",
+      "Gomasio"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which roasted vegetable is pureed with tahini, garlic, and lemon juice to create Levantine Baba Ghanoush?",
+    "options": [
+      "Zucchini",
+      "Cauliflower",
+      "Sweet potato",
+      "Eggplant (Aubergine)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dairy product forms the creamy foundation of traditional Greek Tzatziki sauce?",
+    "options": [
+      "Sour cream",
+      "Ricotta",
+      "Greek yogurt (strained yogurt)",
+      "Feta brine"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which grated vegetable is salted, drained, and stirred into yogurt and garlic to make Tzatziki?",
+    "options": [
+      "Zucchini",
+      "Radish",
+      "Celery",
+      "Cucumber"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fresh green herb gives Argentinian Chimichurri its characteristic herbal taste and vibrant color?",
+    "options": [
+      "Dill",
+      "Flat-leaf parsley",
+      "Rosemary",
+      "Tarragon"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which two ingredients form the classic foundation of mayonnaise via steady emulsification?",
+    "options": [
+      "Milk and flour",
+      "Egg yolks and oil",
+      "Butter and stock",
+      "Cream and vinegar"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French mother sauce is made by thickening a white stock (veal, chicken, or fish) with a blond roux?",
+    "options": [
+      "Béchamel",
+      "Espagnole",
+      "Hollandaise",
+      "Velouté"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic French sauce derived from Hollandaise is flavored with tarragon, chervil, and a white wine vinegar reduction?",
+    "options": [
+      "Béarnaise sauce",
+      "Maltese sauce",
+      "Mornay sauce",
+      "Soubise sauce"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which herb is the definitive seasoning in a classic Béarnaise sauce?",
+    "options": [
+      "Cilantro",
+      "Rosemary",
+      "Sage",
+      "Tarragon"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which grated cheese is melted into béchamel sauce to create a classic Mornay sauce?",
+    "options": [
+      "Mozzarella",
+      "Brie",
+      "Blue cheese",
+      "Gruyère (or Parmesan)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which pickled vegetable is finely chopped and mixed with mayonnaise to make classic tartar sauce for fish?",
+    "options": [
+      "Pickled cucumbers (gherkins/capers)",
+      "Pickled beets",
+      "Pickled turnips",
+      "Pickled garlic"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What fermented condiment made from soybeans, roasted wheat, water, and salt is a pillar of East Asian cuisine?",
+    "options": [
+      "Fish sauce",
+      "Oyster sauce",
+      "Soy sauce",
+      "Hoisin sauce"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which pungent green root paste is served alongside pickled ginger and soy sauce for sushi?",
+    "options": [
+      "Matcha paste",
+      "Wasabi",
+      "Guacamole",
+      "Green harissa"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What sweet and savory Asian brown sauce is commonly served with Peking duck and Moo Shu pork?",
+    "options": [
+      "Hoisin sauce",
+      "Fish sauce",
+      "Teriyaki sauce",
+      "Ponzu"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which acidic red condiment made from cooked tomatoes, vinegar, sugar, and seasonings is America's favorite table sauce?",
+    "options": [
+      "Marinara",
+      "Salsa roja",
+      "Barbecue sauce",
+      "Tomato ketchup"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which seed gives prepared table mustard, such as Dijon or American yellow mustard, its sharp pungency?",
+    "options": [
+      "Coriander seeds",
+      "Fenugreek seeds",
+      "Caraway seeds",
+      "Mustard seeds"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French city is world-famous for its smooth, tangy mustard made with brown mustard seeds and white wine or verjuice?",
+    "options": [
+      "Bordeaux",
+      "Dijon",
+      "Lyon",
+      "Marseille"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cultured dairy beverage provides the tangy base for classic homemade buttermilk ranch dressing?",
+    "options": [
+      "Buttermilk",
+      "Evaporated milk",
+      "Almond milk",
+      "Coconut milk"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which small, salty, unripened flower buds pickled in brine are common in tartar sauce and piccata sauces?",
+    "options": [
+      "Peppercorns",
+      "Juniper berries",
+      "Clove buds",
+      "Capers"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which allium gives authentic French aioli its indispensable pungent bite?",
+    "options": [
+      "Garlic",
+      "Ginger",
+      "Shallot",
+      "Horseradish"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which small green fruit encased in a papery husk is the primary acidic ingredient in Mexican salsa verde?",
+    "options": [
+      "Green bell pepper",
+      "Jalapeño",
+      "Poblano",
+      "Tomatillo"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What sweet beehive product is paired with prepared mustard to make classic honey mustard dressing?",
+    "options": [
+      "Honey",
+      "Maple syrup",
+      "Agave nectar",
+      "Molasses"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy North African red pepper paste is seasoned with garlic, caraway seeds, coriander, and olive oil?",
+    "options": [
+      "Ajika",
+      "Harissa",
+      "Samba Oelek",
+      "Sriracha"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which herb gives Green Goddess dressing its signature green hue along with tarragon, chives, and parsley?",
+    "options": [
+      "Oregano",
+      "Lemongrass",
+      "Rosemary",
+      "Chervil or parsley"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Catalan sauce is traditionally made by pounding roasted tomatoes, garlic, toasted almonds, hazelnuts, nyora peppers, and olive oil?",
+    "options": [
+      "Salsa brava",
+      "Mojo picón",
+      "Xató",
+      "Romesco sauce"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Spanish dried sweet pepper variety is essential to authentic Catalan Romesco sauce?",
+    "options": [
+      "Nyora pepper (ñora)",
+      "Piquillo pepper",
+      "Padrón pepper",
+      "Guernica pepper"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Provençal olive spread is made by finely chopping or blending cured black olives, capers, anchovies, and olive oil?",
+    "options": [
+      "Anchoïade",
+      "Rouille",
+      "Pissalat",
+      "Tapenade"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What French term describes a 1:1 mixture by weight of flour and fat (usually butter) cooked together to thicken sauces?",
+    "options": [
+      "Beurre manié",
+      "Slurry",
+      "Roux",
+      "Liaison"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What culinary thickener consists of equal parts soft uncooked butter and flour kneaded together and whisked into simmering sauces at the end?",
+    "options": [
+      "Roux",
+      "Panade",
+      "Velouté",
+      "Beurre manié"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What culinary term describes a thickening mixture of egg yolks and heavy cream whisked into hot sauces or soups?",
+    "options": [
+      "Liaison",
+      "Emulsion",
+      "Monté au beurre",
+      "Roux blond"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic French butter sauce, originating in the Loire Valley, is made by emulsifying cold butter cubes into a white wine and shallot reduction?",
+    "options": [
+      "Hollandaise",
+      "Beurre Noisette",
+      "Beurre Blanc",
+      "Beurre Rouge"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What French culinary sauce, translating to 'hazelnut butter', consists of butter cooked until the milk solids turn golden brown with an aroma of toasted nuts?",
+    "options": [
+      "Beurre Blanc",
+      "Beurre Noir",
+      "Beurre Noisette",
+      "Ghee"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic French brown mother sauce is prepared from roasted brown veal stock, browned mirepoix, and brown roux?",
+    "options": [
+      "Demi-glace",
+      "Velouté",
+      "Espagnole sauce",
+      "Sauce Robert"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which concentrated sauce is made by combining equal parts Espagnole sauce and rich veal stock, then simmering until reduced by half?",
+    "options": [
+      "Glace de viande",
+      "Jus lié",
+      "Demi-glace",
+      "Sauce Bordelaise"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French red wine sauce named after a southwestern region is flavored with shallots, thyme, bay leaf, and poached beef bone marrow?",
+    "options": [
+      "Bordelaise sauce",
+      "Sauce Robert",
+      "Sauce Chasseur",
+      "Sauce Périgueux"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which luxurious French brown sauce is perfumed with finely minced black truffles and Madeira wine?",
+    "options": [
+      "Sauce Bordelaise",
+      "Sauce Mornay",
+      "Sauce Périgueux",
+      "Sauce Chasseur"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic hunter's sauce (Sauce Chasseur) features sautéed mushrooms, shallots, white wine, and demi-glace, finished with fresh parsley and tarragon?",
+    "options": [
+      "Capers and lemon",
+      "Mushrooms and shallots",
+      "Tomatoes and basil",
+      "Truffles and cream"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French cold emulsion sauce is made by emulsifying hard-boiled egg yolks with oil and vinegar, folded with chopped egg whites, capers, and herbs?",
+    "options": [
+      "Sauce Ravigote",
+      "Sauce Gribiche",
+      "Sauce Tartare",
+      "Sauce Remoulade"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Greek garlic and potato (or stale bread) dip is emulsified with copious amounts of extra virgin olive oil and lemon juice?",
+    "options": [
+      "Tzatziki",
+      "Skordalia",
+      "Taramosalata",
+      "Melitzanosalata"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which creamy Greek meze dip is made from cured roe of cod, carp, or grey mullet mashed with stale bread or potatoes, olive oil, and lemon juice?",
+    "options": [
+      "Skordalia",
+      "Tirokafteri",
+      "Fava",
+      "Taramosalata"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy Greek meze spread is made by whipping feta cheese with roasted red peppers, chili peppers, olive oil, and lemon juice?",
+    "options": [
+      "Taramosalata",
+      "Melitzanosalata",
+      "Tirokafteri",
+      "Ktipiti"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Middle Eastern red pepper and walnut dip originated in Aleppo, Syria, seasoned with pomegranate molasses and cumin?",
+    "options": [
+      "Baba Ghanoush",
+      "Muhammara",
+      "Ajika",
+      "Matbucha"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Lebanese condiment consists solely of fresh raw garlic cloves and oil emulsified vigorously into a thick, fluffy white garlic spread?",
+    "options": [
+      "Tarator",
+      "Tzatziki",
+      "Toum",
+      "Aioli"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy Yemenite green hot sauce, made with green serrano or jalapeño chilies, garlic, coriander, cardamom, and caraway, is ubiquitous in Israeli cuisine?",
+    "options": [
+      "Harissa",
+      "Zhug (Schug)",
+      "Chermoula",
+      "Shatta"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which North African marinade and sauce, particularly revered in Morocco for fish, is made of cilantro, garlic, cumin, paprika, preserved lemon, and olive oil?",
+    "options": [
+      "Harissa",
+      "Zhug",
+      "Chermoula",
+      "Shakshuka"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Maghrebi cooked salad or relish made of stewed tomatoes, roasted bell peppers, garlic, and chili peppers is served cold with bread?",
+    "options": [
+      "Taktouka",
+      "Muhammara",
+      "Za'alouk",
+      "Matbucha"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Moroccan cooked eggplant and tomato warm salad or spread is seasoned with garlic, paprika, cumin, and fresh cilantro?",
+    "options": [
+      "Za'alouk",
+      "Matbucha",
+      "Taktouka",
+      "Bissara"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fermented condiment made from salted anchovies, tamarind, vinegar, molasses, and garlic was created in the English county of Worcestershire?",
+    "options": [
+      "Worcestershire sauce",
+      "Marmite",
+      "Henderson's Relish",
+      "HP Sauce"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which famous British 'brown sauce' contains tomatoes, malt vinegar, dates, tamarind extract, rye flour, and spices?",
+    "options": [
+      "HP Sauce",
+      "Worcestershire sauce",
+      "Colman's mustard",
+      "Branston Pickle"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic British sweet, chunky pickle relish features diced rutabaga, carrots, onions, and cauliflower pickled in a dark, spiced, malted vinegar sauce?",
+    "options": [
+      "Piccalilli",
+      "Branston Pickle",
+      "Chow chow",
+      "Gentleman's Relish"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which bright yellow British relish made of chopped pickled vegetables flavored with mustard powder and turmeric was adapted from Indian achaar?",
+    "options": [
+      "Branston Pickle",
+      "Chow chow",
+      "Remoulade",
+      "Piccalilli"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese citrus-flavored soy dipping sauce combines soy sauce, mirin, bonito flakes, kombu, and yuzu or sudachi juice?",
+    "options": [
+      "Tare",
+      "Ponzu",
+      "Tsuyu",
+      "Goma dare"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese sesame dipping sauce made from ground roasted white sesame seeds, dashi, soy sauce, and mirin is commonly served with shabu-shabu?",
+    "options": [
+      "Ponzu",
+      "Goma dare",
+      "Tare",
+      "Tonkatsu sauce"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese thick, fruity brown sauce, similar to Worcestershire but sweeter, is specifically served over breaded pork cutlets?",
+    "options": [
+      "Teriyaki sauce",
+      "Unagi tare",
+      "Okonomiyaki sauce",
+      "Tonkatsu sauce"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Korean fermented condiment made of red chili powder, glutinous rice powder, fermented soybean powder (meju), and salt provides sweet heat?",
+    "options": [
+      "Doenjang",
+      "Gochujang",
+      "Ssamjang",
+      "Ganjang"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which savory Korean dipping paste for lettuce wraps (ssam) is made by blending doenjang (soybean paste) and gochujang with sesame oil, garlic, and scallions?",
+    "options": [
+      "Chochujang",
+      "Ganjang",
+      "Cheonggukjang",
+      "Ssamjang"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fermented Indonesian chili paste consisting simply of crushed red chili peppers, salt, and vinegar or lime juice is called:",
+    "options": [
+      "Sambal Oelek",
+      "Sambal Terasi",
+      "Sambal Matah",
+      "Sambal Bajak"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Indonesian sweet soy sauce, sweetened with thick palm sugar and infused with star anise and cloves, has a syrupy molasses consistency?",
+    "options": [
+      "Kecap Asin",
+      "Kecap Manis",
+      "Tamari",
+      "Sweet soy glaze"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Vietnamese all-purpose dipping sauce is made from fish sauce, water, sugar, lime juice, finely minced garlic, and bird's eye chilies?",
+    "options": [
+      "Nước mắm",
+      "Tương đen",
+      "Nước chấm",
+      "Mắm tôm"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which pungent Vietnamese fermented purple paste made from crushed sea krill or shrimp is used to flavor Bún riêu and Bún đậu?",
+    "options": [
+      "Mắm tôm",
+      "Nước mắm",
+      "Mắm ruốc",
+      "Tương bần"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Thai spicy dipping sauce made with toasted dried chili flakes, fish sauce, lime juice, shallots, and toasted rice powder is served with grilled meats?",
+    "options": [
+      "Nam Jim Jaew",
+      "Nam Jim Gai",
+      "Nam Prik Pao",
+      "Sriracha"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Thai roasted chili jam contains roasted shallots, garlic, dried shrimp, tamarind, palm sugar, and chilies fried in oil?",
+    "options": [
+      "Nam Jim Jaew",
+      "Nam Jim Seafood",
+      "Nam Prik Pao",
+      "Prik Nam Pla"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Canarian cold sauce comes in a red version (with dried red peppers and cumin) and a green version (with coriander and green peppers)?",
+    "options": [
+      "Mojo sauce (Mojo picón / Mojo verde)",
+      "Salsa brava",
+      "Alioli",
+      "Romesco"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic Mexican chocolate-infused rich brown sauce from Puebla incorporates dried ancho, pasilla, and mulato chilies, raisins, spices, and Mexican chocolate?",
+    "options": [
+      "Mole Poblano",
+      "Mole Verde",
+      "Mole Amarillo",
+      "Mole Manchamanteles"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Oaxacan green mole sauce gets its emerald hue from pumpkin seeds, tomatillos, and fresh leaves like epazote, hoja santa, and parsley?",
+    "options": [
+      "Mole Negro",
+      "Mole Coloradito",
+      "Mole Verde",
+      "Mole Chichilo"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which unique herb, also known as Mexican pepperleaf or Piper auritum, lends an essential sassafras-anise flavor to Oaxacan Mole Verde?",
+    "options": [
+      "Epazote",
+      "Papalo",
+      "Hoja santa",
+      "Culantro"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which ancient Mexican sauce or stew category takes its name from the Spanish word for pumpkin seeds (pepitas), which form its thickened nutty base?",
+    "options": [
+      "Mole",
+      "Encacahuatado",
+      "Pipián",
+      "Adobo"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French derivative of Hollandaise incorporates blood orange juice reduction and grated zest along with the egg yolks and butter?",
+    "options": [
+      "Sauce Maltaise",
+      "Sauce Mousseline",
+      "Sauce Choron",
+      "Sauce Noisette"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which derivative of Béarnaise sauce is created by whisking in tomato paste or pureed tomato coulis?",
+    "options": [
+      "Sauce Foyot",
+      "Sauce Choron",
+      "Sauce Colbert",
+      "Sauce Paloise"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which derivative of Béarnaise sauce substitutes fresh garden mint for the traditional tarragon, commonly served with roast lamb?",
+    "options": [
+      "Sauce Choron",
+      "Sauce Paloise",
+      "Sauce Foyot",
+      "Sauce Béarn"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sauce made by adding melted meat glaze (glace de viande) to Béarnaise sauce is named after a 19th-century French food writer?",
+    "options": [
+      "Sauce Choron",
+      "Sauce Foyot (Sauce Valois)",
+      "Sauce Paloise",
+      "Sauce Colbert"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic French onion-puree sauce, named after the 18th-century Duke of Soubise, is made by sweating pureed onions in béchamel sauce?",
+    "options": [
+      "Sauce Lyonnaise",
+      "Sauce Soubise",
+      "Sauce Mornay",
+      "Sauce Dugléré"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic French fish sauce is created by poaching white fish in white wine, shallots, and diced tomatoes, then finishing the cooking liquor with velouté and cold butter?",
+    "options": [
+      "Sauce Bercy",
+      "Sauce Cardinal",
+      "Sauce Joinville",
+      "Sauce Dugléré"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic fish sauce named after a Paris neighborhood reduces white wine, fish stock, and chopped shallots, finished with butter, lemon, and parsley?",
+    "options": [
+      "Sauce Dugléré",
+      "Sauce Nantua",
+      "Sauce Bercy",
+      "Sauce Dieppoise"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which luxurious French seafood velouté sauce is enriched with heavy cream and flavored with crayfish butter (beurre d'écrevisse)?",
+    "options": [
+      "Sauce Homard",
+      "Sauce Dugléré",
+      "Sauce Nantua",
+      "Sauce Joinville"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Sicilian pesto originating in Trapani replaces pine nuts and heavy basil with blanched almonds, ripe fresh tomatoes, and garlic?",
+    "options": [
+      "Pesto alla Trapanese",
+      "Pesto Modenese",
+      "Pesto Calabrese",
+      "Pesto Rosso"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Modena specialty spread, known as 'cunza' or Pesto Modenese, is made of finely beaten pork lard, rosemary, and garlic, spread over warm tigelle?",
+    "options": [
+      "Lardo di Colonnata",
+      "Pesto alla Trapanese",
+      "Nduja",
+      "Pesto Modenese (Cunza)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Southern Italian citrus dressing, used across Sicily and Calabria for grilled swordfish, consists of olive oil, lemon juice, hot water, oregano, and minced garlic whisked vigorously?",
+    "options": [
+      "Salsa Verde",
+      "Gremolata",
+      "Salmoriglio",
+      "Agrodolce"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Piedmontese warm bath dip made with garlic, salted anchovies, butter, and olive oil is served in a terracotta burner (fujot) for dipping raw cardoons and peppers?",
+    "options": [
+      "Salsa Verde",
+      "Agliata",
+      "Bagna Càuda",
+      "Fonduta"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic Italian sweet-and-sour glaze is prepared by simmering caramelized sugar with vinegar, often infused with red wine, dried fruit, or onions?",
+    "options": [
+      "Saba",
+      "Vincotto",
+      "Agrodolce",
+      "Mostarda"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Northern Italian condiment from Cremona features whole candied fruits preserved in a transparent sugar syrup spiced with spicy mustard oil?",
+    "options": [
+      "Mostarda di Cremona",
+      "Cotognata",
+      "Mostaccioli",
+      "Amarena"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which ancient Roman fermented fish sauce, produced by fermenting fish entrails in sea salt in large open vats under the Mediterranean sun, was called:",
+    "options": [
+      "Hallex",
+      "Garum (Liquamen)",
+      "Colatura",
+      "Murri"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which modern artisanal Italian amber liquid from the Amalfi Coast village of Cetara is the direct historical descendant of ancient Roman garum, made from salted anchovies fermented in chestnut barrels?",
+    "options": [
+      "Garum di tonno",
+      "Bottarga liquida",
+      "Colatura di Alici",
+      "Aceto Balsamico"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy and aromatic Georgian seasoning paste is made by pounding hot red peppers, garlic, blue fenugreek, coriander seeds, and dill with salt?",
+    "options": [
+      "Tkemali",
+      "Satsivi",
+      "Khmeli suneli",
+      "Ajika"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which tart and tangy Georgian fruit sauce is made from wild sour cherry plums, flavored with cilantro, dill, garlic, and pennyroyal?",
+    "options": [
+      "Ajika",
+      "Narsharab",
+      "Tkemali",
+      "Kizil"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which rich Azerbaijani and Russian reduced pomegranate syrup sauce is simmered until dense and glossy, traditionally spooned over grilled sturgeon or lamb?",
+    "options": [
+      "Narsharab",
+      "Tkemali",
+      "Robb",
+      "Pekmez"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Sichuan fermented seasoning paste made from broad beans (fava beans), fermented chili peppers, salt, and wheat flour is hailed as the 'soul of Sichuan cuisine'?",
+    "options": [
+      "Tianmianjiang",
+      "Gochujang",
+      "Douchi",
+      "Pixian Doubanjiang"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fermented Chinese sweet bean sauce made from fermented wheat flour and yellow soybeans is an indispensable base for Zha Jiang Mian?",
+    "options": [
+      "Doubanjiang",
+      "Tianmianjiang (Sweet Bean Sauce)",
+      "Hoisin sauce",
+      "Shahe paste"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Cantonese umami-bomb condiment invented in the 1980s by chefs at the Peninsula Hotel is made of dried scallops (conpoy), dried shrimp, Jinhua ham, shallots, garlic, and chilies?",
+    "options": [
+      "XO Sauce",
+      "Shacha sauce",
+      "Hao You",
+      "Douban sauce"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Chinese savory and slightly seafood-forward barbecue condiment, adapted from Southeast Asian satay sauce and popular in Chaoshan hot pots, is called:",
+    "options": [
+      "XO Sauce",
+      "Shacha sauce (Sa Cha)",
+      "Hoisin sauce",
+      "Char siu sauce"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy, intensely aromatic condiment from the Japanese island of Kyushu is made by mashing spicy green or red chili peppers with fragrant unripened yuzu citrus zest and salt?",
+    "options": [
+      "Shichimi Togarashi",
+      "Kanzuri",
+      "Sansho",
+      "Yuzukosho"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which artisanal fermented chili paste from Niigata Prefecture, Japan, is made by exposing salted red chili peppers to winter snowdrifts before fermenting with yuzu, koji, and malt?",
+    "options": [
+      "Yuzukosho",
+      "Kanzuri",
+      "Momiji oroshi",
+      "Rayu"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese condiment made from finely grated daikon radish infused with red chili pepper gives the appearance of autumn maple leaves?",
+    "options": [
+      "Daikon oroshi",
+      "Kanzuri",
+      "Beni shoga",
+      "Momiji Oroshi"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Indonesian fermented shrimp paste, packed into dense dark blocks with an intense pungent aroma, is toasted over coals before pounding into sambals?",
+    "options": [
+      "Petis udang",
+      "Bagoong",
+      "Terasi (Belacan)",
+      "Kapi"
+    ],
+    "answer": 2,
+    "d": 3
+  }
+]

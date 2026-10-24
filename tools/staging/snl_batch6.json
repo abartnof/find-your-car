@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "SNL",
+    "q": "Who is the longest-tenured cast member in Saturday Night Live history, having joined in 2003 and performed for over 21 seasons?",
+    "options": [
+      "Darrell Hammond",
+      "Seth Meyers",
+      "Kenan Thompson",
+      "Fred Armisen"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who held the record for the longest cast tenure before Kenan Thompson surpassed him, having served 14 seasons from 1995 to 2009?",
+    "options": [
+      "Tim Meadows",
+      "Darrell Hammond",
+      "Kevin Nealon",
+      "Phil Hartman"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who served as the legendary announcer of Saturday Night Live from the premiere in 1975 until his death in 2014 at age 96?",
+    "options": [
+      "Ernie Anderson",
+      "Don Pardo",
+      "Charlie O'Donnell",
+      "Johnny Olson"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which former cast member took over as the permanent announcer of SNL in 2014 following Don Pardo's passing?",
+    "options": [
+      "Dana Carvey",
+      "Kevin Nealon",
+      "Darrell Hammond",
+      "Bill Hader"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who was the original musical director of Saturday Night Live (1975-1980) who later won three Academy Awards for scoring 'The Lord of the Rings' trilogy?",
+    "options": [
+      "Howard Shore",
+      "Paul Shaffer",
+      "G.E. Smith",
+      "Lenny Pickett"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which distinctive blonde guitarist led the Saturday Night Live Band from 1985 to 1995, famous for his energetic facial expressions and Fender Telecaster solos?",
+    "options": [
+      "G.E. Smith",
+      "Paul Shaffer",
+      "Howard Shore",
+      "Lenny Pickett"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which tenor saxophone virtuoso and former Tower of Power member has led the SNL Band since 1995, famous for his screaming altissimo closing solos?",
+    "options": [
+      "Clarence Clemons",
+      "Lenny Pickett",
+      "Michael Brecker",
+      "David Sanborn"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which musician played keyboards in the original SNL Band, frequently impersonated Don Kirshner, and later spent three decades leading David Letterman's band?",
+    "options": [
+      "Leon Pendarvis",
+      "Cheryl Hardwick",
+      "Tom Malone",
+      "Paul Shaffer"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who was appointed as the first female head writer in Saturday Night Live history in 1999?",
+    "options": [
+      "Paula Pell",
+      "Sarah Schneider",
+      "Tina Fey",
+      "Marilyn Suzanne Miller"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who holds the record as the most nominated individual in the history of the Primetime Emmy Awards, with over 100 nominations?",
+    "options": [
+      "David Letterman",
+      "Norman Lear",
+      "Steven Spielberg",
+      "Lorne Michaels"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which television program has received more Primetime Emmy Award nominations and wins than any other show in television history?",
+    "options": [
+      "Game of Thrones",
+      "ER",
+      "Saturday Night Live",
+      "The Simpsons"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who was the primary head writer and dark comedic visionary behind SNL's earliest seasons, nicknamed 'Mr. Mike'?",
+    "options": [
+      "Jim Downey",
+      "Al Franken",
+      "Herb Sargent",
+      "Michael O'Donoghue"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which veteran writer spent nearly 30 years at SNL and penned the vast majority of its most celebrated presidential debates and political parodies?",
+    "options": [
+      "Jack Handey",
+      "Jim Downey",
+      "Adam McKay",
+      "Robert Smigel"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which Oscar-winning writer-director served as SNL's head writer from 1996 to 2001, frequently collaborating with Will Ferrell?",
+    "options": [
+      "Spike Jonze",
+      "Paul Thomas Anderson",
+      "Judd Apatow",
+      "Adam McKay"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who served as SNL's head writer from 2005 until his departure in 2014, while also anchoring Weekend Update?",
+    "options": [
+      "Colin Jost",
+      "Seth Meyers",
+      "Michael Che",
+      "John Mulaney"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which female writer penned many of SNL's most beloved sketches, including the Spartan Cheerleaders, Debbie Downer, and O沉默 Culps?",
+    "options": [
+      "Emily Spivey",
+      "Marilyn Suzanne Miller",
+      "Sarah Schneider",
+      "Paula Pell"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who directed the live broadcast of Saturday Night Live for its first two decades (1975-1995)?",
+    "options": [
+      "Don Roy King",
+      "Beth McCarthy-Miller",
+      "Paul Miller",
+      "Dave Wilson"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which trailblazing director helmed SNL from 1995 to 2006 before going on to direct '30 Rock' and high-profile comedy specials?",
+    "options": [
+      "Liz Patrick",
+      "Pamela Fryman",
+      "Beth McCarthy-Miller",
+      "Gail Mancuso"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which television director won a record 11 Primetime Emmy Awards for directing Saturday Night Live between 2006 and 2021?",
+    "options": [
+      "Dave Wilson",
+      "Beth McCarthy-Miller",
+      "James Burrows",
+      "Don Roy King"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who took over as the live broadcast director of Saturday Night Live in 2021 following Don Roy King's retirement?",
+    "options": [
+      "Beth McCarthy-Miller",
+      "Paul Pennolino",
+      "Carrie Havel",
+      "Liz Patrick"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "In which iconic Manhattan skyscraper and studio space is Saturday Night Live produced and broadcast live?",
+    "options": [
+      "Studio 8H at 30 Rockefeller Plaza",
+      "Studio 6A at 30 Rockefeller Plaza",
+      "The Ed Sullivan Theater",
+      "Kaufman Astoria Studios"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "For which legendary classical music conductor was Studio 8H originally constructed in 1937 as an orchestral radio studio?",
+    "options": [
+      "Leonard Bernstein",
+      "Leopold Stokowski",
+      "Arthur Fiedler",
+      "Arturo Toscanini (and the NBC Symphony Orchestra)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Approximately how many live audience members does Studio 8H accommodate during an SNL broadcast?",
+    "options": [
+      "Around 750",
+      "Over 1,200",
+      "Between 300 and 330",
+      "Under 100"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who produced Saturday Night Live during Season 6 (1980-1981) following the departure of Lorne Michaels and the entire original cast?",
+    "options": [
+      "Jean Doumanian",
+      "Dick Ebersol",
+      "Brandon Tartikoff",
+      "Lorne Michaels"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who took over as executive producer in the spring of 1981, bringing stability and commercial success back to SNL until 1985?",
+    "options": [
+      "Jean Doumanian",
+      "Michael O'Donoghue",
+      "Lorne Michaels",
+      "Dick Ebersol"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "In what year did Lorne Michaels return to produce Saturday Night Live after his five-year hiatus?",
+    "options": [
+      "1985 (Season 11)",
+      "1983",
+      "1987",
+      "1989"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which future Academy Award-winning actress was a cast member on SNL during the notorious 1985-1986 Season 11?",
+    "options": [
+      "Helen Hunt",
+      "Joan Cusack",
+      "Marisa Tomei",
+      "Mira Sorvino"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which future superstar actor was cast in Season 11 (1985-1986) at age 20 before being let go during the cast overhaul?",
+    "options": [
+      "Tom Cruise",
+      "Johnny Depp",
+      "Brad Pitt",
+      "Robert Downey Jr."
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which celebrated stand-up comedian and future 'Seinfeld' star was a cast member on SNL from 1982 to 1985?",
+    "options": [
+      "Laurie Metcalf",
+      "Julia Louis-Dreyfus",
+      "Catherine O'Hara",
+      "Jane Lynch"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "At what age did Eddie Murphy join the cast of Saturday Night Live in the fall of 1980, making him one of the youngest cast members in history?",
+    "options": [
+      "17 years old",
+      "21 years old",
+      "23 years old",
+      "19 years old"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who holds the record as the absolute youngest cast member ever hired in SNL history at just 17 years old?",
+    "options": [
+      "Anthony Michael Hall",
+      "Eddie Murphy",
+      "Pete Davidson",
+      "Robert Downey Jr."
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What legendary cue-card coordinator has been writing and handling the cue cards on SNL since 1990 and frequently appears on camera?",
+    "options": [
+      "Joe Dicso",
+      "Wally Feresten",
+      "Tony Mendez",
+      "Steve Higgins"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Why does Saturday Night Live famously refuse to use electronic teleprompters for its sketch dialogue and Weekend Update?",
+    "options": [
+      "Cue cards allow rapid, last-second rewrites right up until the camera is live",
+      "Studio 8H's lights create too much glare on teleprompters",
+      "The actors union mandates paper cue cards",
+      "Teleprompters were deemed too expensive in 1975 and the habit stuck"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who serves as the longtime announcer for 'The Tonight Show Starring Jimmy Fallon' and a key producer/writer on SNL since 1995?",
+    "options": [
+      "Erik Kenward",
+      "Ken Aymong",
+      "Bryan Tucker",
+      "Steve Higgins"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which female cast member won back-to-back Primetime Emmy Awards for Outstanding Supporting Actress in a Comedy Series in 2016 and 2017?",
+    "options": [
+      "Kristen Wiig",
+      "Cecily Strong",
+      "Kate McKinnon",
+      "Aidy Bryant"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who was the first Saturday Night Live performer ever to win a Primetime Emmy Award for individual performance on the show?",
+    "options": [
+      "John Belushi",
+      "Gilda Radner",
+      "Dana Carvey",
+      "Chevy Chase (1976)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "In 1978, which beloved original cast member won the Primetime Emmy Award for Outstanding Continuing or Single Performance by a Supporting Actress?",
+    "options": [
+      "Jane Curtin",
+      "Gilda Radner",
+      "Laraine Newman",
+      "Candice Bergen"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which cast member won the Primetime Emmy Award for Outstanding Individual Performance in a Variety or Music Program in 1993 for his impressions and characters?",
+    "options": [
+      "Phil Hartman",
+      "Dana Carvey",
+      "Mike Myers",
+      "Chris Farley"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who won a posthumous Primetime Emmy nomination in 1998 for his brilliant body of work on SNL following his tragic death?",
+    "options": [
+      "Phil Hartman",
+      "Chris Farley",
+      "John Belushi",
+      "Danitra Vance"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which long-serving cast member earned the moniker 'The Glue' from castmates and Lorne Michaels because of his rock-solid professionalism and ability to hold sketches together?",
+    "options": [
+      "Dan Aykroyd",
+      "Phil Hartman",
+      "Kevin Nealon",
+      "Darrell Hammond"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "What was the moniker bestowed upon the original seven cast members of Season 1 in the opening credits?",
+    "options": [
+      "The 8H Troupe",
+      "The Midnight Comedians",
+      "The Not Ready for Prime Time Players",
+      "The Live from New York Crew"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which original cast member left the show early in Season 2 (November 1976) to pursue a Hollywood film career?",
+    "options": [
+      "John Belushi",
+      "Dan Aykroyd",
+      "Bill Murray",
+      "Chevy Chase"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who was brought in to replace Chevy Chase in the cast during Season 2 in early 1977?",
+    "options": [
+      "Buck Henry",
+      "Bill Murray",
+      "Steve Martin",
+      "Brian Doyle-Murray"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which two original cast members simultaneously departed SNL at the conclusion of Season 4 in 1979 to film 'The Blues Brothers'?",
+    "options": [
+      "Chevy Chase and Bill Murray",
+      "Jane Curtin and Gilda Radner",
+      "Garrett Morris and Laraine Newman",
+      "Dan Aykroyd and John Belushi"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which writer-performer duo performed their own signature news commentaries on SNL in the late 1970s and declared the 1980s their personal decade?",
+    "options": [
+      "Al Franken and Tom Davis",
+      "Jim Downey and Herb Sargent",
+      "Brian Doyle-Murray and Bill Murray",
+      "Bob Odenkirk and Robert Smigel"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What did Al Franken famously dub the 1980s on SNL?",
+    "options": [
+      "The Al Franken Decade",
+      "The Decade of Smalley",
+      "The Me-Franken Era",
+      "The Stuart Years"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which former SNL writer and cast member was elected to the United States Senate representing Minnesota in 2008?",
+    "options": [
+      "Jim Downey",
+      "Al Franken",
+      "Don Novello",
+      "Kevin Nealon"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which cast member holds the unfortunate record of appearing in only one single episode of SNL as a repertory player in April 1981?",
+    "options": [
+      "Emily Prager",
+      "Morwenna Banks",
+      "Catherine O'Hara",
+      "Laurie Metcalf"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which British actress appeared in only four episodes of SNL during the turbulent final weeks of Season 20 in 1995?",
+    "options": [
+      "Laura Kightlinger",
+      "Sarah Silverman",
+      "Morwenna Banks",
+      "Janeane Garofalo"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which acclaimed stand-up comedian and actress quit the SNL cast mid-season in early 1995, citing toxic writer culture?",
+    "options": [
+      "Sarah Silverman",
+      "Laura Kightlinger",
+      "Janeane Garofalo",
+      "Julia Sweeney"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which future stand-up superstar and Emmy-winning creator was a featured player and writer during Season 19 (1993-1994), never getting a sketch on air?",
+    "options": [
+      "Mindy Kaling",
+      "Sarah Silverman",
+      "Amy Schumer",
+      "Chelsea Handler"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which future late-night talk show host was hired as an SNL writer in 1988 and co-wrote classic sketches like 'Five-Timers Club' and 'Mr. Short-Term Memory'?",
+    "options": [
+      "Conan O'Brien",
+      "Jimmy Kimmel",
+      "Stephen Colbert",
+      "Craig Ferguson"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which future 'Better Call Saul' star worked as an SNL writer from 1987 to 1991 and created the character Matt Foley with Chris Farley at Second City?",
+    "options": [
+      "Bryan Cranston",
+      "David Cross",
+      "Bob Odenkirk",
+      "Paul F. Tompkins"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which iconic writer created the deadpan, absurd philosophical segment 'Deep Thoughts'?",
+    "options": [
+      "George Meyer",
+      "Robert Smigel",
+      "Jack Handey",
+      "Jim Downey"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who provided the calm, soothing narration voice for Jack Handey's 'Deep Thoughts' interstitials?",
+    "options": [
+      "Don Pardo",
+      "Phil Hartman",
+      "Jack Handey himself",
+      "Steve Martin"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which writer-performer was the mastermind behind 'TV Funhouse', including 'The Ambiguously Gay Duo' and puppet segments?",
+    "options": [
+      "Conan O'Brien",
+      "Robert Smigel",
+      "Adam McKay",
+      "Jack Handey"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "What famous foul-mouthed canine puppet character did Robert Smigel create on 'Late Night with Conan O'Brien'?",
+    "options": [
+      "Barkley the Hound",
+      "Cynical Buster",
+      "Triumph the Insult Comic Dog",
+      "Scruffy the Pug"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which writing duo served as co-head writers in Season 42 (2016-2017) and created acclaimed pre-tapes like 'Wells for Boys'?",
+    "options": [
+      "Colin Jost and Michael Che",
+      "Chris Kelly and Sarah Schneider",
+      "Kent Sublette and Alison Gates",
+      "Bryan Tucker and Rob Klein"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "In what year did Colin Jost and Michael Che step down as co-head writers of SNL, while remaining Weekend Update anchors?",
+    "options": [
+      "2019",
+      "2020",
+      "2022",
+      "2024"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Who became co-head writers of SNL in 2022 following the tenure of Colin Jost and Michael Che?",
+    "options": [
+      "Kent Sublette, Alison Gates, and Streeter Seidell",
+      "John Mulaney and Simon Rich",
+      "Mikey Day and Streeter Seidell",
+      "Dave McCary and Kyle Mooney"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which writer-director directed many of Kyle Mooney and Beck Bennett's surreal pre-taped digital shorts before directing the film 'Brigsby Bear'?",
+    "options": [
+      "Paul Briganti",
+      "Oz Rodriguez",
+      "Matt Villines",
+      "Dave McCary"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which SNL director married Five-Timers Club member Emma Stone after they met when she hosted in 2016?",
+    "options": [
+      "Colin Jost",
+      "Don Roy King",
+      "Akiva Schaffer",
+      "Dave McCary"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which two directing partners, collectively known as 'Matt & Oz', directed dozens of visually stunning pre-taped sketches from 2011 to 2016?",
+    "options": [
+      "Akiva Schaffer and Jorma Taccone",
+      "Dave McCary and Ryan Perez",
+      "Matt Villines and Osmany Rodriguez",
+      "Paul Briganti and Mike Diva"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "What visual effects director joined SNL in 2021, directing high-energy, hyper-stylized digital shorts like 'Meatballs'?",
+    "options": [
+      "Dave McCary",
+      "Paul Briganti",
+      "Mike Diva",
+      "Akiva Schaffer"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What is the traditional weekly production schedule on SNL: on which night do the writers pitch concepts to the host in Lorne's office?",
+    "options": [
+      "Sunday morning",
+      "Tuesday afternoon",
+      "Monday evening",
+      "Wednesday night"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "On which night does the entire writing staff stay up all night writing first drafts of sketches?",
+    "options": [
+      "Tuesday night into Wednesday morning",
+      "Monday night",
+      "Wednesday night",
+      "Thursday night"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "On which afternoon does the famous 40-to-50 sketch table read take place around the massive table in Room 8H?",
+    "options": [
+      "Tuesday morning",
+      "Wednesday afternoon",
+      "Thursday afternoon",
+      "Friday morning"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Approximately how many sketches are read aloud during the Wednesday table read before Lorne and the head writers make cuts?",
+    "options": [
+      "Between 35 and 50 sketches",
+      "Between 10 and 15 sketches",
+      "Over 100 sketches",
+      "Around 20 sketches"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "On which day do the cast and crew block sketches on stage and rehearse camera positions for the first time?",
+    "options": [
+      "Wednesday night",
+      "Saturday morning only",
+      "Thursday and Friday",
+      "Sunday afternoon"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "At what time on Saturday evening does the full-length dress rehearsal begin in front of a live audience before final cuts are made?",
+    "options": [
+      "8:00 PM EST",
+      "6:00 PM EST",
+      "9:30 PM EST",
+      "10:30 PM EST"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "How much material is typically cut from the 8:00 PM dress rehearsal before the 11:30 PM live show airs?",
+    "options": [
+      "Approximately 20 to 30 minutes (2 to 4 entire sketches)",
+      "Over 60 minutes",
+      "Only about 5 minutes",
+      "No sketches are cut, only trimmed"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What term is used for a finished sketch that was rehearsed but discarded right before or during the live broadcast?",
+    "options": [
+      "Shelved on 8",
+      "Dead on arrival",
+      "Cut for time",
+      "Table draft"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which costume designer has dressed the cast of Saturday Night Live since 1990, coordinating rapid multi-second costume changes?",
+    "options": [
+      "Bob Mackie",
+      "Tom Broecker",
+      "Edith Head",
+      "Patricia Field"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "How fast are some of the fastest live costume and prosthetic quick-changes executed in the wings of Studio 8H?",
+    "options": [
+      "Under 90 seconds (during commercial breaks)",
+      "Around 10 minutes",
+      "Between 4 and 5 minutes",
+      "Quick-changes are not done live"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What is the longest cold open sketch in SNL history, which ran over 12 minutes in Season 42?",
+    "options": [
+      "The 2000 Bush vs. Gore debate",
+      "The 1975 Wolverine opening",
+      "The 2024 Vice Presidential debate",
+      "The 2016 town hall presidential debate parody"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which commercial parody was written by Dan Aykroyd and Chevy Chase in 1976 about a floor wax that doubled as a dessert topping?",
+    "options": [
+      "Shimmer",
+      "Glisten",
+      "Sparkle",
+      "Glow-Brite"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What was the famous tag line in the 'Shimmer Floor Wax' commercial parody?",
+    "options": [
+      "Wax your kitchen, feed your children!",
+      "It's a floor wax! No, it's a dessert topping! It's both!",
+      "Tastes great, shines bright!",
+      "Clean floors, sweet treats!"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which fake commercial in Season 18 advertised a luxury car with a diamond-tipped stylus that played vinyl records on potholes?",
+    "options": [
+      "The Regal Tourer",
+      "The Chameleon XLE",
+      "The Stuyvesant Coupe",
+      "The Lincoln Town Glider"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "What feature did the 'Chameleon XLE' car commercial boast to keep the vehicle safe from carjackers?",
+    "options": [
+      "An electrified steering wheel",
+      "An exterior that looked like a rusted, dented 1972 Pontiac beat-up car",
+      "An invisible cloaking paint job",
+      "A fake police siren on the roof"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which fake razor commercial from the 1970s famously joked about a razor with an absurd number of blades, decades before it became real?",
+    "options": [
+      "The Triple-Trac razor (three blades)",
+      "The Quintuple-Blade 5000",
+      "The Octo-Shave",
+      "The Mach-Seven"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What was the punchline tag for the 'Triple-Trac' razor in Season 1?",
+    "options": [
+      "For the closest shave ever",
+      "Three blades are better than two",
+      "Because you'll believe anything",
+      "Sharpness beyond reason"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which cast member has appeared in more total sketches than any other performer in SNL history?",
+    "options": [
+      "Darrell Hammond",
+      "Kenan Thompson",
+      "Phil Hartman",
+      "Fred Armisen"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Approximately how many sketches has Kenan Thompson performed in over his record-breaking tenure?",
+    "options": [
+      "Around 500 sketches",
+      "Around 800 sketches",
+      "Over 1,500 sketches",
+      "Over 3,000 sketches"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which former cast member holds the record for the most celebrity impressions performed on the show (over 100)?",
+    "options": [
+      "Darrell Hammond",
+      "Dana Carvey",
+      "Bill Hader",
+      "Jay Pharoah"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which cast member holds the record for the most consecutive seasons appearing as an impersonator of sitting U.S. presidents (Bill Clinton for 8 years)?",
+    "options": [
+      "Dana Carvey",
+      "Darrell Hammond",
+      "Phil Hartman",
+      "Will Ferrell"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who portrayed President George W. Bush on SNL from 2000 to 2002, coining the iconic term 'Strategery'?",
+    "options": [
+      "Will Ferrell",
+      "Darrell Hammond",
+      "Jason Sudeikis",
+      "Chris Parnell"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which SNL writer actually coined the word 'Strategery' in the famous 2000 debate sketch, which the real Bush White House later adopted?",
+    "options": [
+      "Adam McKay",
+      "Jim Downey",
+      "Tina Fey",
+      "Al Franken"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "In that same 2000 debate sketch, what single word did Darrell Hammond's Al Gore repeat endlessly to describe his budget plan?",
+    "options": [
+      "Safehouse",
+      "Ironclad",
+      "Lockbox",
+      "Fortress"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which writer was nominated for a Primetime Emmy for co-writing the critically acclaimed 2023 sketch 'Washington's Dream'?",
+    "options": [
+      "Colin Jost and Michael Che",
+      "Kent Sublette and Alison Gates",
+      "Mikey Day, Streeter Seidell, and Nate Bargatze",
+      "John Higgins and Martin Herlihy"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which cast member portrayed British Prime Minister Theresa May on Weekend Update during the Brexit negotiations?",
+    "options": [
+      "Cecily Strong",
+      "Kate McKinnon",
+      "Aidy Bryant",
+      "Vanessa Bayer"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "In what year did Saturday Night Live celebrate its 25th Anniversary with a primetime special from Studio 8H?",
+    "options": [
+      "1999",
+      "2000",
+      "1998",
+      "2001"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "In what year did Saturday Night Live celebrate its 15th Anniversary Special?",
+    "options": [
+      "1990",
+      "1988",
+      "1991",
+      "1989"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Who was the executive producer who originally developed Saturday Night Live for NBC in 1974-1975 under the title 'NBC's Saturday Night'?",
+    "options": [
+      "Fred Silverman",
+      "Grant Tinker",
+      "Dick Ebersol (alongside Lorne Michaels)",
+      "Herbert Schlosser"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "What NBC executive was responsible for commissioning a live late-night weekend show to replace reruns of 'The Tonight Show Starring Johnny Carson' in 1974?",
+    "options": [
+      "Herbert Schlosser",
+      "Fred Silverman",
+      "David Sarnoff",
+      "Brandon Tartikoff"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Why was the show originally titled 'NBC's Saturday Night' rather than 'Saturday Night Live' when it debuted in 1975?",
+    "options": [
+      "ABC was broadcasting a competing prime-time variety show titled 'Saturday Night Live with Howard Cosell'",
+      "CBS owned the trademark to the phrase 'Saturday Night Live'",
+      "NBC executives felt the word 'Live' was unnecessary",
+      "A radio show in Chicago held the federal copyright"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "In what year did NBC officially change the title of the show to 'Saturday Night Live' after Howard Cosell's show was cancelled?",
+    "options": [
+      "1976",
+      "1978",
+      "1980",
+      "1977 (Season 2)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which long-time producer served as SNL's line producer and co-producer overseeing daily physical production for over 30 years?",
+    "options": [
+      "Steve Higgins",
+      "Erik Kenward",
+      "Lorne Michaels",
+      "Ken Aymong"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which producer has served as an integral producer alongside Lorne Michaels since joining the show in the 1990s and became a senior producer in 2000?",
+    "options": [
+      "Bryan Tucker",
+      "Steve Higgins",
+      "Mike Shoemaker",
+      "Erik Kenward"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Who was the head of makeup at SNL for over 30 years, transforming cast members into flawless replicas of presidents and celebrities?",
+    "options": [
+      "Rick Baker",
+      "Dick Smith",
+      "Stan Winston",
+      "Louie Zakarian"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "How many total Primetime Emmy Awards had Saturday Night Live won as of its 50th season milestone, more than any show in history?",
+    "options": [
+      "Over 100 Primetime Emmy Awards",
+      "Around 50 Primetime Emmy Awards",
+      "Around 75 Primetime Emmy Awards",
+      "Over 200 Primetime Emmy Awards"
+    ],
+    "answer": 0,
+    "d": 1
+  }
+]

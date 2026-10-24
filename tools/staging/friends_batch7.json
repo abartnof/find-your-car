@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Friends",
+    "q": "What was the starting per-episode salary earned by each of the six main cast members during Season 1?",
+    "options": [
+      "$10,000 per episode",
+      "$40,000 per episode",
+      "$22,500 per episode",
+      "$75,000 per episode"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What landmark per-episode salary did each of the six cast members negotiate for Seasons 9 and 10?",
+    "options": [
+      "$1,000,000 ($1 million) per episode",
+      "$500,000 per episode",
+      "$750,000 per episode",
+      "$2,000,000 per episode"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which cast member was the primary instigator behind the cast forming a united front for collective salary bargaining in Season 3?",
+    "options": [
+      "Matthew Perry",
+      "Jennifer Aniston",
+      "David Schwimmer",
+      "Matt LeBlanc"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Why was David Schwimmer's salary initiative considered unprecedented and selfless in television history?",
+    "options": [
+      "He donated his entire syndication royalty to the crew",
+      "He gave up his private dressing room to the guest stars",
+      "He voluntarily took a pay cut so that all six actors would be paid equally",
+      "He waived his per-episode fees for charity"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which female cast members became the highest-paid actresses in television history when their salaries reached $1 million per episode?",
+    "options": [
+      "Helen Hunt and Roseanne Barr",
+      "Jennifer Aniston, Courteney Cox, and Lisa Kudrow",
+      "Julia Louis-Dreyfus and Candice Bergen",
+      "Sarah Jessica Parker and Calista Flockhart"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What backend financial compensation did the cast secure in 2000 that continues to generate millions annually for each of them?",
+    "options": [
+      "5 percent of NBC's Thursday advertising revenue",
+      "Direct ownership of the soundstage real estate",
+      "2 percent of backend syndication and licensing profits",
+      "10 percent of international home video sales"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What character was Courteney Cox originally invited and encouraged to audition for by the show's producers?",
+    "options": [
+      "Phoebe Buffay",
+      "Rachel Green",
+      "Carol Willick",
+      "Janice Litman"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Why did Courteney Cox turn down the role of Rachel Green and ask to audition for Monica instead?",
+    "options": [
+      "She felt her own personality was much more aligned with Monica's strong, neurotic nature",
+      "She felt Rachel had too few lines in the pilot script",
+      "Her agent advised her that Monica was the central lead role",
+      "She disliked the wardrobe chosen for Rachel"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which actress, known for 'The Facts of Life', came down to the final two alongside Courteney Cox for the role of Monica?",
+    "options": [
+      "Molly Ringwald",
+      "Alyssa Milano",
+      "Justine Bateman",
+      "Nancy McKeon"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which comedic actress auditioned for Monica and later guest-starred as Lydia in 'The One with the Birth'?",
+    "options": [
+      "Fran Drescher",
+      "Leah Remini",
+      "Marisa Tomei",
+      "Janeane Garofalo"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "For which character did co-creators David Crane and Marta Kauffman specifically write the role with David Schwimmer in mind?",
+    "options": [
+      "Ross Geller",
+      "Chandler Bing",
+      "Joey Tribbiani",
+      "Gunther"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Why did David Schwimmer initially turn down the offer to audition for Ross Geller?",
+    "options": [
+      "He had signed a multi-picture contract with a film studio",
+      "He was preparing to enter a master's program in anthropology",
+      "He had a miserable experience on an earlier canceled sitcom and vowed to stick to Chicago theater",
+      "He refused to relocate from London to Los Angeles"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which actor, who later starred as Will Truman on 'Will & Grace', auditioned multiple times for the role of Ross?",
+    "options": [
+      "Eric McCormack",
+      "Sean Hayes",
+      "Thomas Gibson",
+      "David Hyde Pierce"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which Hollywood actor/director was offered the role of Chandler Bing and turned it down before later guest starring as Pete Becker?",
+    "options": [
+      "Ben Stiller",
+      "Vince Vaughn",
+      "Jon Favreau",
+      "Jon Cryer"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which 'Two and a Half Men' star auditioned for Chandler Bing from London, but had his audition tape delayed by UK customs?",
+    "options": [
+      "Charlie Sheen",
+      "Thomas Haden Church",
+      "Rob Lowe",
+      "Jon Cryer"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What futuristic science-fiction pilot was Matthew Perry contractually committed to that nearly prevented him from playing Chandler?",
+    "options": [
+      "'Space Cadets'",
+      "'Galactic Cargo 2000'",
+      "'Subway 3000'",
+      "'LAX 2194' (about airport baggage handlers in the twenty-second century)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which actor was offered the role of Chandler Bing first, turned it down for 'Madman of the People', and regretted it ever since?",
+    "options": [
+      "French Stewart",
+      "Steven Weber",
+      "Craig Bierko",
+      "Richard Kind"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "How much money did Matt LeBlanc famously have left in his checking account when he auditioned for Joey Tribbiani?",
+    "options": [
+      "Fifty cents ($0.50)",
+      "Eleven dollars ($11)",
+      "One hundred dollars ($100)",
+      "Five hundred dollars ($500)"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What physical injury did Matt LeBlanc show up with at his final network audition for Joey after a drunken stumble?",
+    "options": [
+      "A black eye from a bar scuffle",
+      "A broken collarbone in a sling",
+      "A bloody, badly scraped nose from hitting a toilet bowl",
+      "A chipped front incisor tooth"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What was the very first item Matt LeBlanc purchased after receiving his first official Friends paycheck?",
+    "options": [
+      "A vintage motorcycle",
+      "A new television set",
+      "A hot, full restaurant dinner",
+      "A leather jacket"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What was the first luxury item Courteney Cox purchased with her initial earnings from the show?",
+    "options": [
+      "A beach house in Malibu",
+      "A diamond tennis bracelet",
+      "An antique grandfather clock",
+      "A brand new Porsche car"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which future movie star auditioned for Joey Tribbiani before Matt LeBlanc secured the role?",
+    "options": [
+      "Mark Wahlberg",
+      "Vince Vaughn",
+      "Matthew McConaughey",
+      "Owen Wilson"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which actor auditioned twice for Joey Tribbiani, was rejected both times, but was subsequently cast as David the Scientist?",
+    "options": [
+      "Jon Lovitz",
+      "Fisher Stevens",
+      "Paul Rudd",
+      "Hank Azaria"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which future talk-show host was originally offered the role of Phoebe Buffay by producers but turned it down?",
+    "options": [
+      "Rosie O'Donnell",
+      "Bonnie Hunt",
+      "Ricki Lake",
+      "Ellen DeGeneres"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which comedic actresses both auditioned for the role of Phoebe Buffay before Lisa Kudrow won the part?",
+    "options": [
+      "Kathy Griffin and Jane Lynch",
+      "Sarah Silverman and Tina Fey",
+      "Amy Poehler and Maya Rudolph",
+      "Wanda Sykes and Chelsea Handler"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "On what popular NBC sitcom was Lisa Kudrow already portraying the eccentric waitress Ursula Buffay when cast in Friends?",
+    "options": [
+      "'Seinfeld'",
+      "'Wings'",
+      "'Cheers'",
+      "'Mad About You'"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Why did producers decide to create the character of Ursula as Phoebe's identical twin sister?",
+    "options": [
+      "To explain why Lisa Kudrow was appearing on two different NBC primetime Thursday sitcoms simultaneously",
+      "Because Lisa Kudrow asked to play two characters for a higher salary",
+      "Because a storyline required Phoebe to have a criminal background",
+      "To create a crossover promotion with Saturday Night Live"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which actress was originally cast as Rachel Green before choosing to star in the ABC sitcom 'The Naked Truth' instead?",
+    "options": [
+      "Jane Krakowski",
+      "Téa Leoni",
+      "Jami Gertz",
+      "Helen Slater"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which '30 Rock' star revealed in interviews that she had auditioned for the role of Rachel Green in 1994?",
+    "options": [
+      "Tina Fey",
+      "Kristen Wiig",
+      "Jane Krakowski",
+      "Megan Mullally"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which 'Saved by the Bell' actress auditioned for Rachel Green but was considered slightly too young at age 20?",
+    "options": [
+      "Tiffani Thiessen",
+      "Elizabeth Berkley",
+      "Lark Voorhies",
+      "Jennie Garth"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What pre-taping backstage ritual did the six cast members maintain without fail before every single episode recording?",
+    "options": [
+      "A private group huddle and embrace with no producers or crew permitted",
+      "Drinking a synchronized espresso toast in the kitchen",
+      "Singing the opening verse of 'Smelly Cat'",
+      "Touching the yellow picture frame on Monica's door for luck"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What real-life event in Lisa Kudrow's personal life inspired the Season 4 and 5 storyline where Phoebe carries triplets?",
+    "options": [
+      "Lisa Kudrow became pregnant with her son Julian",
+      "Lisa Kudrow's sister gave birth to triplets in real life",
+      "Lisa Kudrow volunteered as a surrogate mother for a relative",
+      "Lisa Kudrow wanted to wear comfortable maternity clothing on set"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What real-life personal milestone for Courteney Cox had to be concealed during the filming of the final season in 2004?",
+    "options": [
+      "Courteney Cox was nursing a broken ankle in a cast",
+      "Courteney Cox was pregnant with her daughter Coco",
+      "Courteney Cox was undergoing laser eye surgery",
+      "Courteney Cox had dyed her hair bright blonde for a movie"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Why couldn't Courteney Cox's pregnancy be written into the show during Season 10?",
+    "options": [
+      "The show had already established that Monica and Chandler were biologically unable to conceive",
+      "The producers wanted the finale to focus exclusively on Rachel",
+      "Network censors prohibited pregnant characters from adopting children",
+      "The writers had already finalized all 18 scripts before the season began"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "How did the costume and camera departments conceal Courteney Cox's growing baby bump in Season 10?",
+    "options": [
+      "By dressing her in loose, baggy sweaters, long scarves, and holding laundry baskets or props",
+      "By filming her exclusively from the shoulders up",
+      "By using a digital CGI body replacement technique",
+      "By having her sit behind the Central Perk counter in every scene"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What Manhattan street address serves as the exterior facade for Monica, Rachel, Chandler, and Joey's apartment building?",
+    "options": [
+      "125 Bleecker Street in SoHo",
+      "45 Perry Street in the West Village",
+      "210 East 10th Street in the East Village",
+      "90 Bedford Street (at the corner of Grove Street) in Greenwich Village"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What restaurant operates in the ground-floor retail space of the real Greenwich Village building used for exterior shots?",
+    "options": [
+      "Central Perk Cafe",
+      "The Village Bistro",
+      "Buvette",
+      "The Little Owl"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Was any regular scene of Friends ever filmed on location in the actual streets of New York City during its ten seasons?",
+    "options": [
+      "Yes, the Thanksgiving football game was filmed in Central Park",
+      "Yes, all Central Perk exteriors were filmed in Greenwich Village",
+      "No, the entire series was filmed on soundstages in Burbank, California (except for exterior B-roll and the London shoot)",
+      "Yes, Season 1 was entirely filmed in Manhattan before moving west"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "In which city did the cast travel on location to film the Season 4 wedding episodes in 1998?",
+    "options": [
+      "Paris, France",
+      "London, England",
+      "Rome, Italy",
+      "Dublin, Ireland"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Why was Lisa Kudrow absent from the on-location filming in London for the Season 4 finale?",
+    "options": [
+      "She was shooting a feature film in Vancouver",
+      "She contracted a severe case of bronchitis",
+      "She had a contractual dispute with the British production crew",
+      "She was in the third trimester of her real-life pregnancy and unable to fly internationally"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "How did the writers explain Phoebe remaining in New York while the other five friends traveled to London?",
+    "options": [
+      "Phoebe lost her passport on the subway",
+      "Phoebe was heavily pregnant with the triplets and her obstetrician forbade air travel",
+      "Phoebe refused to fly on airplanes due to spiritual beliefs",
+      "Phoebe had to care for Joey's chick and duck"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which cast member nearly walked away from the series prior to Season 10, citing burnout and wanting to leave on a high note?",
+    "options": [
+      "Matthew Perry",
+      "Jennifer Aniston",
+      "Matt LeBlanc",
+      "David Schwimmer"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What physical prop piece was given to each cast member as a memento after the final episode wrapped in 2004?",
+    "options": [
+      "Their character's original apartment front door key",
+      "A replica of the yellow door peephole frame",
+      "A signed Central Perk ceramic coffee mug",
+      "A piece of the pavement/brick from outside Central Perk mounted in a wooden box"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What personal addiction battles did Matthew Perry candidly detail in his 2022 memoir 'Friends, Lovers, and the Big Terrible Thing'?",
+    "options": [
+      "Pathological gambling and sports betting debts",
+      "Compulsive shopping and luxury car hoarding",
+      "Severe alcohol and prescription opioid (Vicodin) addictions during the series run",
+      "Addiction to performance-enhancing steroids"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What dramatic physical change in Matthew Perry's appearance between Season 6 and Season 7 was caused by severe pancreatitis?",
+    "options": [
+      "He shaved his head completely bald",
+      "He lost approximately 50 pounds following a hospital stay for pancreatitis",
+      "He underwent corrective spinal surgery that altered his posture",
+      "He grew a full beard and wore tinted glasses"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What did the cast and crew do immediately after filming the final take of 'The Last One' on January 23, 2004?",
+    "options": [
+      "They immediately destroyed the sets with sledgehammers",
+      "They took an overnight chartered flight to Las Vegas",
+      "They sat together on the Central Perk orange sofa drinking champagne and weeping",
+      "They hosted a live televised press conference from Stage 24"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Who threw the lavish official farewell wrap party for the cast and crew in February 2004?",
+    "options": [
+      "Warner Bros. and executive producers at the Park Hyatt in Century City",
+      "Brad Pitt and Jennifer Aniston at their Beverly Hills estate",
+      "NBC at the Rainbow Room in New York City",
+      "James Burrows at Caesar's Palace in Las Vegas"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "Which musical superstar performed a private live set at the official Friends wrap party in 2004?",
+    "options": [
+      "U2",
+      "Bruce Springsteen",
+      "The Rembrandts and Sheryl Crow",
+      "Coldplay"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "What did the six cast members add to their contracts in Season 7 ensuring their equal treatment in marketing?",
+    "options": [
+      "A clause banning solo television commercials",
+      "Contractual clauses requiring that all promotional posters and magazine covers feature all six equally",
+      "A guarantee of equal dialogue line counts per script",
+      "A veto over any guest star castings"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What famous magazine cover in May 1995 featured the six stars bundled together in bed, photographed by Mark Seliger?",
+    "options": [
+      "Vanity Fair",
+      "Entertainment Weekly",
+      "Rolling Stone",
+      "People"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What photographer captured the iconic 1995 Rolling Stone cover of the cast lying together under white sheets?",
+    "options": [
+      "Annie Leibovitz",
+      "Herb Ritts",
+      "David LaChapelle",
+      "Mark Seliger"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "How many total times did the cast of Friends appear on the cover of Rolling Stone magazine during the show's run?",
+    "options": [
+      "3 times (1995, 1999, and 2004)",
+      "Only once in 1995",
+      "5 times",
+      "7 times"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "What real-life romance blossomed on set between a cast member and an executive producer or guest star in Season 4?",
+    "options": [
+      "Matthew Perry dated guest star Paget Brewster (Kathy) briefly off-screen",
+      "David Schwimmer dated Helen Baxendale (Emily)",
+      "Matt LeBlanc dated Elle Macpherson (Janine)",
+      "Courteney Cox dated Michael Vartan (Timothy Burke)"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "What did Jennifer Aniston and David Schwimmer reveal during the 2021 reunion special about their Season 1 dynamic?",
+    "options": [
+      "They secretly dated for two months before the pilot aired",
+      "They had a huge mutual crush on each other but never acted on it because one of them was always in a relationship",
+      "They actively disliked each other during the first few table reads",
+      "They originally planned to buy a shared house together in Burbank"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Where did David Schwimmer and Jennifer Aniston say they channeled all their mutual romantic feelings and adoration?",
+    "options": [
+      "Into late-night phone conversations during hiatus",
+      "Directly into Ross and Rachel's on-screen romance and first kiss at Central Perk",
+      "Into writing song lyrics together",
+      "Into coaching each other on other dates"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which cast member was the youngest of the six leads when the series debuted in September 1994?",
+    "options": [
+      "Jennifer Aniston and Matthew Perry (both 25 years old)",
+      "Matt LeBlanc (27)",
+      "Courteney Cox (30)",
+      "David Schwimmer (27)"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which cast member was the oldest of the six leads when the pilot premiered in 1994?",
+    "options": [
+      "Courteney Cox (30)",
+      "David Schwimmer (27)",
+      "Matt LeBlanc (27)",
+      "Lisa Kudrow (31 years old)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What popular handheld electronic game did the cast frequently play together on set between scene takes in early seasons?",
+    "options": [
+      "Sega Game Gear",
+      "Tamagotchi",
+      "Game Boy (playing Tetris)",
+      "Nintendo DS"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "What word-puzzle board game did the six actors obsessively play together in their dressing rooms?",
+    "options": [
+      "Boggle",
+      "Pictionary",
+      "Trivial Pursuit",
+      "Scrabble"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What daily dietary routine did Courteney Cox, Jennifer Aniston, and Lisa Kudrow share on set for ten straight years?",
+    "options": [
+      "Drinking green protein smoothies made by Monica's chef assistant",
+      "Eating sushi platters delivered from Beverly Hills",
+      "Sharing egg white omelets from the studio commissary",
+      "Eating the exact same modified Cobb salad together for lunch every single day"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What special ingredient did Jennifer Aniston add to their daily set salad that made it famous as 'The Jennifer Aniston Salad'?",
+    "options": [
+      "Quinoa, dried cranberries, goat cheese, and walnuts",
+      "Brown rice, grilled shrimp, avocado, and almonds",
+      "Bulgur wheat, diced cucumber, chickpeas, feta cheese, and chopped pistachios",
+      "Couscous, sun-dried tomatoes, pine nuts, and parmesan"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which cast member's father was a veteran daytime soap opera actor on 'Days of Our Lives' in real life?",
+    "options": [
+      "Matt LeBlanc",
+      "Courteney Cox",
+      "Jennifer Aniston (her father John Aniston played Victor Kiriakis)",
+      "Matthew Perry"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What irony connects Jennifer Aniston's real father to Joey Tribbiani's character arc?",
+    "options": [
+      "Her father guest-starred as Joey's doctor",
+      "Her father directed Joey's audition scenes",
+      "John Aniston starred on 'Days of Our Lives' for decades, the exact soap opera Joey joins",
+      "Her father played Dr. Drake Ramoray's father on TV"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What actor father of Matthew Perry made a cameo guest appearance in 'The One with Rachel's New Dress'?",
+    "options": [
+      "John Bennett Perry (playing Joshua Burgin's father)",
+      "Dick Van Dyke",
+      "James Brolin",
+      "Robert Foxworth"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What iconic commercial campaign did Matthew Perry's real father John Bennett Perry star in during the 1970s and 1980s?",
+    "options": [
+      "The Marlboro Man campaign",
+      "The Old Spice sailor commercial campaign",
+      "The Maytag repairman campaign",
+      "The Campbell's soup father"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "Which cast member was a competitive junior tennis player in Canada before pursuing acting?",
+    "options": [
+      "Matthew Perry",
+      "David Schwimmer",
+      "Matt LeBlanc",
+      "Lisa Kudrow"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What prestigious college degree does Lisa Kudrow hold from Vassar College?",
+    "options": [
+      "Bachelor of Arts in English Literature",
+      "Bachelor of Science in Biology",
+      "Bachelor of Fine Arts in Theater",
+      "Bachelor of Science in Psychology"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What scientific research did Lisa Kudrow conduct with her physician father Dr. Lee Kudrow prior to acting?",
+    "options": [
+      "Cardiovascular response to high-altitude exercise",
+      "A clinical study on hemispheric brain dominance and cluster headaches",
+      "Genetic sequencing of botanical pathogens",
+      "Pediatric cognitive developmental milestones"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "Which famous comedic improv troupe in Los Angeles was Lisa Kudrow a member of alongside Conan O'Brien?",
+    "options": [
+      "The Groundlings",
+      "The Second City",
+      "Upright Citizens Brigade",
+      "ImprovOlympic"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which cast member co-founded the Lookingglass Theatre Company in Chicago in 1988?",
+    "options": [
+      "Matthew Perry",
+      "David Schwimmer",
+      "Matt LeBlanc",
+      "Courteney Cox"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What university did David Schwimmer attend where he earned a Bachelor of Science in Speech and Theater?",
+    "options": [
+      "University of Southern California",
+      "Yale University",
+      "UCLA",
+      "Northwestern University"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What music video for Bruce Springsteen did Courteney Cox famously star in in 1984, dancing on stage?",
+    "options": [
+      "\"Born in the U.S.A.\"",
+      "\"Dancing in the Dark\"",
+      "\"Glory Days\"",
+      "\"I'm on Fire\""
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Who directed the 1984 Bruce Springsteen music video 'Dancing in the Dark' featuring young Courteney Cox?",
+    "options": [
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Brian De Palma",
+      "David Fincher"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What 1980s hit sitcom did Courteney Cox star in as Alex P. Keaton's girlfriend Lauren Miller?",
+    "options": [
+      "'Growing Pains'",
+      "'Family Ties'",
+      "'Who's the Boss?'",
+      "'Silver Spoons'"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What hit horror movie franchise did Courteney Cox star in as reporter Gale Weathers throughout the run of Friends?",
+    "options": [
+      "'I Know What You Did Last Summer'",
+      "'Halloween'",
+      "'A Nightmare on Elm Street'",
+      "'Scream' (Scream 1, 2, and 3)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which actor did Courteney Cox marry in 1999, changing her screen credits to Courteney Cox Arquette?",
+    "options": [
+      "David Arquette",
+      "Michael Keaton",
+      "Brad Pitt",
+      "Christian Slater"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "In the Season 6 premiere 'The One After Vegas', what gag did producers add to the opening credits to celebrate Courteney's marriage?",
+    "options": [
+      "Every single cast member had 'Arquette' added to their last name in the credits",
+      "Wedding bells chimed over the theme song",
+      "A photo of the wedding cake replaced the water fountain",
+      "All six actors were shown wearing wedding veils"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which of the six actors appeared in a series of popular Heinz Ketchup commercials in the late 1980s?",
+    "options": [
+      "Matthew Perry",
+      "Matt LeBlanc",
+      "David Schwimmer",
+      "Jennifer Aniston"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What television commercial for Coca-Cola featured Matt LeBlanc roller-skating through a warm city street?",
+    "options": [
+      "A 1990 Cherry 7-Up commercial (and Coca-Cola commercial)",
+      "Pepsi Generation ad",
+      "Mountain Dew extreme ad",
+      "Dr Pepper retro ad"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "What comedy film about an intelligent baseball-playing chimpanzee did Matt LeBlanc star in during hiatus in 1996?",
+    "options": [
+      "'Dunston Checks In'",
+      "'MVP: Most Valuable Primate'",
+      "'Ed'",
+      "'Monkey Business'"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What hit film comedy did Matthew Perry star in alongside Bruce Willis in 2000 during the show's run?",
+    "options": [
+      "'The Whole Ten Yards'",
+      "'Fools Rush In'",
+      "'Three to Tango'",
+      "'The Whole Nine Yards'"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What romantic comedy did Matthew Perry star in alongside Salma Hayek in 1997?",
+    "options": [
+      "'Three to Tango'",
+      "'Serving Sara'",
+      "'Almost Heroes'",
+      "'Fools Rush In'"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What romantic comedy did Jennifer Aniston star in alongside Paul Rudd in 1998?",
+    "options": [
+      "'Picture Perfect'",
+      "'She's the One'",
+      "'Along Came Polly'",
+      "'The Object of My Affection'"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What critically acclaimed dark indie comedy did Jennifer Aniston star in in 2002 as frustrated store clerk Justine Last?",
+    "options": [
+      "'Office Space'",
+      "'The Good Girl'",
+      "'Friends with Money'",
+      "'Rock Star'"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What cult classic 1999 workplace satire comedy by Mike Judge featured Jennifer Aniston wearing flare buttons at Chotchkie's?",
+    "options": [
+      "'Clerks'",
+      "'Waiting...'",
+      "'Office Space'",
+      "'Extract'"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What animated character did David Schwimmer voice in DreamWorks' blockbuster 2005 animated film 'Madagascar'?",
+    "options": [
+      "Alex the lion",
+      "Marty the zebra",
+      "Melman the neurotic giraffe",
+      "Gloria the hippo"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What critically acclaimed HBO World War II miniseries did David Schwimmer star in in 2001 as strict Captain Herbert Sobel?",
+    "options": [
+      "'Band of Brothers'",
+      "'The Pacific'",
+      "'Generation Kill'",
+      "'From the Earth to the Moon'"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which critically acclaimed cult comedy series on HBO did Lisa Kudrow create and star in as Valerie Cherish in 2005?",
+    "options": [
+      "'Web Therapy'",
+      "'Romy and Michele'",
+      "'The Comeback'",
+      "'Unbreakable Kimmy Schmidt'"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What beloved 1997 buddy comedy film did Lisa Kudrow star in alongside Mira Sorvino?",
+    "options": [
+      "'Clockwatchers'",
+      "'Romy and Michele's High School Reunion'",
+      "'The Opposite of Sex'",
+      "'Hanging Up'"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What real-life guest appearance bet did Bruce Willis make with Matthew Perry on the set of 'The Whole Nine Yards'?",
+    "options": [
+      "Willis bet Perry couldn't beat him in ping-pong",
+      "Willis bet that Friends would not win the Emmy for Best Comedy",
+      "Willis bet Perry couldn't run a marathon in under four hours",
+      "Willis bet that the movie would not open at #1 at the box office; if it did, Willis would guest-star on Friends for free"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What did Bruce Willis do with his SAG acting salary earned from guest starring on Friends after losing the bet?",
+    "options": [
+      "He donated the entire paycheck to multiple children's and AIDS charities",
+      "He bought a motorcycle for Matthew Perry",
+      "He paid for the Friends crew wrap party",
+      "He bought a round of drinks for the live studio audience"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "How did Robin Williams and Billy Crystal's cameo in the Season 3 premiere 'The One with the Ultimate Fighting Champion' come about?",
+    "options": [
+      "They were invited months in advance by director James Burrows",
+      "They won a charity auction bid to appear on the show",
+      "They were shooting a movie on an adjacent Warner Bros. soundstage and agreed to an entirely improvised walk-on",
+      "They were promoting a joint stand-up comedy television special"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What comedy film were Robin Williams and Billy Crystal filming next door when they dropped into Central Perk?",
+    "options": [
+      "'Patch Adams'",
+      "'Fathers' Day'",
+      "'City Slickers II'",
+      "'Good Will Hunting'"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "How much of Robin Williams and Billy Crystal's dialogue on the Central Perk couch was written in the script?",
+    "options": [
+      "Every line was scripted word-for-word by David Crane",
+      "Only Robin Williams's lines were improvised",
+      "Only the final punchline was scripted",
+      "None of it; their entire scene was 100% improvised on the spot"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which member of the British royal family agreed to make a brief appearance with Matt LeBlanc in London in 1998?",
+    "options": [
+      "Prince Harry",
+      "Zara Phillips",
+      "Sophie, Countess of Wessex",
+      "Sarah Ferguson, Duchess of York"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which renowned supermodel made a cameo appearance in 'The One with the Flashback' as Joey's dream fantasy?",
+    "options": [
+      "Cindy Crawford",
+      "Naomi Campbell",
+      "Linda Evangelista",
+      "No supermodel appeared; Jill Goodacre and Elle Macpherson appeared in other episodes"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "Which actor, who famously played Dr. Doug Ross on 'ER', made an emergency room doctor cameo in Season 1?",
+    "options": [
+      "Anthony Edwards",
+      "George Clooney",
+      "Noah Wyle (appeared alongside Clooney)",
+      "Julianna Margulies"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What real-life couple was married during Brad Pitt's iconic guest appearance in Season 8's Thanksgiving episode?",
+    "options": [
+      "Brad Pitt and Jennifer Aniston were married in real life",
+      "Courteney Cox and David Arquette",
+      "Matthew Perry and Julia Roberts",
+      "Lisa Kudrow and Michel Stern"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "In what year did Jennifer Aniston and Brad Pitt marry in Malibu before his appearance on Friends?",
+    "options": [
+      "June 1998",
+      "September 2001",
+      "December 2002",
+      "July 2000"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "How did Matthew Perry persuade Julia Roberts to make her guest appearance in 'The One After the Superbowl'?",
+    "options": [
+      "She demanded he write her a paper on quantum physics, which he faxed to her with flirty notes",
+      "He sent three dozen red roses every day for two weeks",
+      "He promised to appear in her next romantic comedy for free",
+      "He cooked her dinner at his apartment in Manhattan"
+    ],
+    "answer": 0,
+    "d": 1
+  }
+]

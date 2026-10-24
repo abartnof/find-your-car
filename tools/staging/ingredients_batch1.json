@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Ingredients",
+    "q": "Which primary spirit forms the base of a classic Margarita?",
+    "options": [
+      "Rum",
+      "Tequila",
+      "Vodka",
+      "Gin"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spirit is the traditional primary base of a classic Martini?",
+    "options": [
+      "Gin",
+      "Bourbon",
+      "Tequila",
+      "Rum"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fresh herb is muddled with sugar and lime in a classic Cuban Mojito?",
+    "options": [
+      "Basil",
+      "Cilantro",
+      "Rosemary",
+      "Mint"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spirit provides the alcoholic foundation for a Moscow Mule?",
+    "options": [
+      "Vodka",
+      "Gin",
+      "Tequila",
+      "Bourbon"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which non-alcoholic effervescent beverage is mixed with vodka and lime juice to make a Moscow Mule?",
+    "options": [
+      "Tonic water",
+      "Club soda",
+      "Ginger beer",
+      "Cola"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which liquor is traditionally used to make a classic Daiquiri along with lime juice and simple syrup?",
+    "options": [
+      "White rum",
+      "Tequila",
+      "Vodka",
+      "Bourbon"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which bitter red Italian liqueur is an essential component of a classic Negroni?",
+    "options": [
+      "Aperol",
+      "Fernet-Branca",
+      "Campari",
+      "Amaretto"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which type of wine is traditionally fortified and flavored with botanicals to produce sweet and dry vermouth?",
+    "options": [
+      "Apple cider",
+      "Rice wine",
+      "Grape wine",
+      "Mead"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which primary spirit is combined with sweet vermouth and Angostura bitters to create a Manhattan?",
+    "options": [
+      "White rum",
+      "Tequila blanco",
+      "Rye whiskey",
+      "Vodka"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which citrus juice is an essential fresh ingredient in a traditional Whiskey Sour?",
+    "options": [
+      "Lemon juice",
+      "Grapefruit juice",
+      "Orange juice",
+      "Cranberry juice"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic brunch cocktail consists of chilled Champagne mixed with fresh orange juice?",
+    "options": [
+      "Bellini",
+      "French 75",
+      "Mimosa",
+      "Kir Royale"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fruit puree is blended with Prosecco to make a traditional Venetian Bellini?",
+    "options": [
+      "Strawberry puree",
+      "White peach puree",
+      "Mango puree",
+      "Raspberry puree"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dark soda is mixed with dark rum to prepare the registered highball cocktail known as a Dark 'n Stormy?",
+    "options": [
+      "Root beer",
+      "Cola",
+      "Ginger beer",
+      "Dr Pepper"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spirit is mixed with ginger ale and grenadine to turn a Shirley Temple into a Dirty Shirley?",
+    "options": [
+      "Tequila",
+      "Scotch",
+      "Vodka",
+      "Brandy"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which botanical flavor characterizes tonic water and gives it its distinctive bitterness?",
+    "options": [
+      "Juniper",
+      "Wormwood",
+      "Anise",
+      "Quinine"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which plant extract gives traditional gin its unmistakable pine-forward aroma and flavor?",
+    "options": [
+      "Coriander seeds",
+      "Juniper berries",
+      "Angelica root",
+      "Orris root"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which red fruit syrup is traditionally used to sweeten cocktails like the Tequila Sunrise and Shirley Temple?",
+    "options": [
+      "Grenadine",
+      "Orgeat",
+      "Falernum",
+      "Cassis"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spirit forms the base of a classic Mint Julep served at the Kentucky Derby?",
+    "options": [
+      "Vodka",
+      "Gin",
+      "Rum",
+      "Bourbon"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fruit juice is the primary mixer combined with vodka in a classic Screwdriver?",
+    "options": [
+      "Pineapple juice",
+      "Apple juice",
+      "Grapefruit juice",
+      "Orange juice"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Mexican cocktail is traditionally made with tequila, grapefruit soda, and fresh lime juice?",
+    "options": [
+      "Michelada",
+      "Margarita",
+      "Paloma",
+      "Vampiro"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which creamy Irish liqueur is made from a blend of Irish whiskey, dairy cream, and cocoa?",
+    "options": [
+      "Kahlúa",
+      "Baileys Irish Cream",
+      "Frangelico",
+      "Disaronno"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Mexican coffee liqueur is a primary ingredient in a White Russian and Black Russian?",
+    "options": [
+      "Tia Maria",
+      "Midori",
+      "Kahlúa",
+      "Galliano"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What dairy product is floated atop a Black Russian to transform it into a White Russian?",
+    "options": [
+      "Sour cream",
+      "Heavy cream",
+      "Condensed milk",
+      "Coconut milk"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which tropical juice is blended with white rum and cream of coconut to make a classic Piña Colada?",
+    "options": [
+      "Guava juice",
+      "Mango juice",
+      "Passion fruit juice",
+      "Pineapple juice"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which savoury ingredient gives a Bloody Mary its signature red color and savory vegetable base?",
+    "options": [
+      "Beet juice",
+      "Carrot juice",
+      "Tomato juice",
+      "Pomegranate juice"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What carbonated wine is combined with Aperol and club soda to create a classic Aperol Spritz?",
+    "options": [
+      "Champagne",
+      "Prosecco",
+      "Cava",
+      "Moscato"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fermented apple beverage serves as the alcoholic base of traditional hard cider?",
+    "options": [
+      "Fermented apple juice",
+      "Distilled pear brandy",
+      "Fermented honey water",
+      "Malted barley wash"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spirit is mixed with tomato juice, Worcestershire sauce, and spices to make a Bloody Mary?",
+    "options": [
+      "Gin",
+      "Tequila",
+      "Rum",
+      "Vodka"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What sweetener made from equal parts water and granulated sugar is a staple simple syrup in cocktail making?",
+    "options": [
+      "Simple syrup",
+      "Molasses",
+      "Agave nectar",
+      "Corn syrup"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which citrus peel is traditionally expressed over an Old Fashioned before serving?",
+    "options": [
+      "Lime peel",
+      "Grapefruit peel",
+      "Orange peel",
+      "Kumquat peel"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which almond-flavored syrup with a hint of rose or orange blossom water is a critical ingredient in a classic Mai Tai?",
+    "options": [
+      "Falernum",
+      "Grenadine",
+      "Orgeat syrup",
+      "Demerara syrup"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which orange-flavored French liqueur made from Cognac and bitter orange essence is commonly used in high-end Margaritas and Sidecars?",
+    "options": [
+      "Cointreau",
+      "Triple Sec",
+      "Blue Curaçao",
+      "Grand Marnier"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which aromatic spirit from France or Switzerland, traditionally flavored with wormwood and anise, is famously used to rinse the glass for a Sazerac?",
+    "options": [
+      "Chartreuse",
+      "Pastis",
+      "Sambuca",
+      "Absinthe"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which type of bitters, formulated by an apothecary in New Orleans, is essential to a traditional Sazerac cocktail?",
+    "options": [
+      "Angostura Bitters",
+      "Peychaud's Bitters",
+      "Orange Bitters",
+      "Walnut Bitters"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What component provides the signature frothy foam atop a classic Pisco Sour or Gin Fizz?",
+    "options": [
+      "Heavy cream",
+      "Raw egg white",
+      "Gelatin powder",
+      "Aquafaba"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spirit is distilled from fermented sugarcane juice (rather than molasses) and forms the base of Brazil's national cocktail, the Caipirinha?",
+    "options": [
+      "Aguardiente",
+      "Pisco",
+      "Mezcal",
+      "Cachaça"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which three ingredients are muddled and combined in equal balance to create a traditional Brazilian Caipirinha?",
+    "options": [
+      "Cachaça, lime, and sugar",
+      "Rum, mint, and soda",
+      "Tequila, lime, and salt",
+      "Pisco, lemon, and egg white"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French herbal liqueur, made by Carthusian monks using a secret blend of 130 botanicals, comes in green and yellow varieties?",
+    "options": [
+      "Chartreuse",
+      "Bénédictine",
+      "Strega",
+      "Drambuie"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cocktail made with gin, lemon juice, simple syrup, and Champagne is named after a World War I field artillery piece?",
+    "options": [
+      "French 75",
+      "Aviation",
+      "Corpse Reviver #2",
+      "Sidecar"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which liqueur made from marasca cherries gives the classic Aviation cocktail its subtle cherry-pit and floral complexity?",
+    "options": [
+      "Kirsch",
+      "Maraschino liqueur",
+      "Cherry Heering",
+      "Chambord"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which floral violet liqueur gives the classic Aviation cocktail its distinctive pale sky-blue or lavender tint?",
+    "options": [
+      "Crème de violette",
+      "Parfait Amour",
+      "Blue Curaçao",
+      "Crème de cassis"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which blackcurrant liqueur from Burgundy is mixed with white wine to produce a traditional Kir?",
+    "options": [
+      "Chambord",
+      "Sloe gin",
+      "Crème de mûre",
+      "Crème de cassis"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fortified wine from the town of Chambéry, France, is the classic vermouth brand known for its clear, bone-dry profile?",
+    "options": [
+      "Martini & Rossi",
+      "Carpano Antica",
+      "Punt e Mes",
+      "Dolin Dry Vermouth"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which rich, vanilla-forward Italian sweet vermouth is widely considered the gold standard for high-end craft Manhattans and Negronis?",
+    "options": [
+      "Cinzano Rosso",
+      "Noilly Prat",
+      "Lillet Blanc",
+      "Carpano Antica Formula"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which aperitif wine from Podensac, France, made from Bordeaux grapes and macerated citrus liqueurs, is an essential ingredient in the Vesper Martini?",
+    "options": [
+      "Lillet Blanc",
+      "Dubonnet",
+      "Byrrh",
+      "Cocchi Americano"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Italian bitter liqueur infused with artichoke leaves is classified as a carciofo amaro?",
+    "options": [
+      "Averna",
+      "Montenegro",
+      "Nonino",
+      "Cynar"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which hazelnut-flavored liqueur packaged in a bottle shaped like a monk with a rope belt is produced in Piedmont, Italy?",
+    "options": [
+      "Disaronno",
+      "Tuaca",
+      "Frangelico",
+      "Galliano"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Italian liqueur flavored with bitter almond apricot kernels is famously produced in Saronno?",
+    "options": [
+      "Sambuca",
+      "Strega",
+      "Limoncello",
+      "Disaronno Amaretto"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which star anise-flavored Italian liqueur is often served with three toasted coffee beans called 'con la mosca'?",
+    "options": [
+      "Ouzo",
+      "Anisette",
+      "Pastis",
+      "Sambuca"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which liqueur flavored with Scotch whisky, heather honey, herbs, and spices was historically associated with Prince Charles Edward Stuart?",
+    "options": [
+      "Glayva",
+      "Southern Comfort",
+      "Drambuie",
+      "Yukon Jack"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic gin-based cocktail created in 1915 at the Raffles Hotel in Singapore includes pineapple juice, cherry liqueur, Benedictine, and lime?",
+    "options": [
+      "Zombie",
+      "Singapore Sling",
+      "Planter's Punch",
+      "Suffering Bastard"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which four equal parts make up the classic prohibition-era Last Word cocktail?",
+    "options": [
+      "Gin, Green Chartreuse, Maraschino liqueur, and lime juice",
+      "Vodka, Blue Curaçao, triple sec, and lemon juice",
+      "Bourbon, Aperol, Amaro Nonino, and lemon juice",
+      "Rye, sweet vermouth, Campari, and orange bitters"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which modern classic cocktail created by Sam Ross is made from equal parts bourbon, Aperol, Amaro Nonino Quintessentia, and fresh lemon juice?",
+    "options": [
+      "Penicillin",
+      "Naked and Famous",
+      "Paper Plane",
+      "Toronto"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which peaty spirit is floated atop Sam Ross's famous modern cocktail, the Penicillin?",
+    "options": [
+      "Islay single malt Scotch",
+      "Irish pot still whiskey",
+      "Rye whiskey",
+      "Mezcal joven"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy root syrup is combined with honey syrup, blended Scotch, and lemon juice in a Penicillin cocktail?",
+    "options": [
+      "Horseradish syrup",
+      "Cinnamon syrup",
+      "Turmeric syrup",
+      "Fresh ginger syrup"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy, salted Mexican preparation featuring beer, lime juice, assorted sauces (like Worcestershire and hot sauce), and a chili-salt rim is called a:",
+    "options": [
+      "Michelada",
+      "Chelada",
+      "Chavela",
+      "Clamato Cooler"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which savory, commercially bottled tomato beverage seasoned with clam broth is a mandatory ingredient in the Canadian Caesar cocktail?",
+    "options": [
+      "V8 vegetable juice",
+      "Clamato juice",
+      "Spiced marinara",
+      "Gazpacho puree"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fruit liqueur made from black raspberries, cognac, and Madagascan vanilla is packaged in an orb-shaped bottle with a golden crown?",
+    "options": [
+      "Crème de mûre",
+      "Cherry Heering",
+      "Bols Raspberry",
+      "Chambord"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Caribbean spiced syrup or liqueur flavored with almond, ginger, lime, and clove is a cornerstone of Tiki cocktails?",
+    "options": [
+      "Allspice dram",
+      "Orgeat",
+      "Falernum",
+      "Fassionola"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Jamaican allspice liqueur, also known as pimento dram, provides intense holiday-spice warmth to tropical and autumn drinks?",
+    "options": [
+      "Allspice dram",
+      "Falernum",
+      "Anisette",
+      "Bénédictine"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fortified wine from Andalusia, Spain, made primarily from Palomino grapes, is used in classic cocktail cobblers and bamboo cocktails?",
+    "options": [
+      "Sherry",
+      "Port",
+      "Madeira",
+      "Marsala"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fortified wine produced on the Portuguese islands in the Atlantic Ocean is heated repeatedly during the aging process (estufagem)?",
+    "options": [
+      "Sherry",
+      "Port",
+      "Marsala",
+      "Madeira"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What unique plant root provides the bittering agent in gentian-based aperitifs like Suze and Salers?",
+    "options": [
+      "Licorice root",
+      "Chicory root",
+      "Yellow gentian root",
+      "Dandelion root"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which grape brandy produced in the Cognac and Gascony regions of France is distilled in column stills and known as Armagnac?",
+    "options": [
+      "Calvados",
+      "Grappa",
+      "Armagnac",
+      "Pisco"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which apple and pear brandy produced in the Normandy region of France is aged in oak casks?",
+    "options": [
+      "Kirschwasser",
+      "Calvados",
+      "Poire Williams",
+      "Marc de Bourgogne"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which clear fruit brandy made from double distillation of fermented morello cherries originated in the Black Forest of Germany?",
+    "options": [
+      "Slivovitz",
+      "Maraschino",
+      "Framboise",
+      "Kirschwasser"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which pomace brandy made from distilling the skins, pulp, and seeds left over from winemaking is famous in Northern Italy?",
+    "options": [
+      "Ouzo",
+      "Grappa",
+      "Metaxa",
+      "Tsipouro"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which ingredient gives the classic Grasshopper cocktail its bright green color and fresh minty flavor?",
+    "options": [
+      "Green crème de menthe",
+      "Midori",
+      "Absinthe",
+      "Chartreuse verte"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese melon liqueur with a vibrant neon green color is the key flavor component in a Japanese Slipper and Midori Sour?",
+    "options": [
+      "Pisang Ambon",
+      "Midori",
+      "Green curaçao",
+      "Crème de banane"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What aromatic tree bark from Trinidad and Tobago is the foundational bittering agent in Angostura bitters?",
+    "options": [
+      "Gentian root and aromatic herbs",
+      "Cinchona bark",
+      "Birch bark",
+      "Sassafras root"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which bitter aperitif wine created by Giulio Cocchi in 1891 is flavored with cinchona bark, gentian, and citrus peel?",
+    "options": [
+      "Cocchi Americano",
+      "Cardamaro",
+      "Lillet Rosé",
+      "Bonal Gentiane-Quina"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which herbal amaro from Bormio in the Italian Alps is flavored with alpine herbs, peppermint, gentian, and wormwood?",
+    "options": [
+      "Fernet-Branca",
+      "Amaro Lucano",
+      "Braulio",
+      "Amaro Montenegro"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which botanical amaro from Bologna, named after Princess Elena of Montenegro, features coriander, sweet orange peel, and oregano?",
+    "options": [
+      "Ramazzotti",
+      "Vecchia Romagna",
+      "Amaro Montenegro",
+      "Averna"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which intensely minty, dark Italian fernet is world-famous in San Francisco and Argentina, where it is commonly mixed with Coca-Cola?",
+    "options": [
+      "Fernet del Frate",
+      "Fernet-Branca",
+      "Branca Menta",
+      "Meletti"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which rare, highly prized bitter vermouth produced in Turin features cinchona bark and is named 'Punt e Mes' (meaning 'a point and a half')?",
+    "options": [
+      "Carpano Bianco",
+      "Cocchi Vermouth di Torino",
+      "Punt e Mes",
+      "Vermouth del Professore"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French fortified wine aperitif produced in Roussillon uses mistelle combined with cinchona bark and gentian?",
+    "options": [
+      "Dubonnet Rouge",
+      "Byrrh",
+      "Saint-Raphaël",
+      "Lillet Rouge"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which wine-based Italian amaro is infused specifically with cardoon (wild artichoke) and blessed thistle?",
+    "options": [
+      "Cynar",
+      "Nardini Rabarbaro",
+      "Zucca Rabarbaro",
+      "Cardamaro"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Chinese spirit distilled from fermented sorghum, wheat, or barley is categorized as having 'sauce aroma' or 'strong aroma'?",
+    "options": [
+      "Baijiu",
+      "Soju",
+      "Shochu",
+      "Huangjiu"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Korean distilled beverage is traditionally made from fermented rice, but modern commercial versions often use sweet potatoes or tapioca?",
+    "options": [
+      "Soju",
+      "Makgeolli",
+      "Cheongju",
+      "Baekseju"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese distilled beverage is commonly made from barley (mugi), sweet potatoes (imo), or rice (kome) using koji mold for saccharification?",
+    "options": [
+      "Sake",
+      "Shochu",
+      "Awamori",
+      "Mirin"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which unique Okinawan distilled spirit is made exclusively from fermented long-grain Thai indica rice inoculated with black koji mold?",
+    "options": [
+      "Hon-mirin",
+      "Awamori",
+      "Sake junmai",
+      "Shochu soba"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sweet rice wine containing approximately 14% alcohol is primarily used in Japanese glazes, marinades, and teriyaki sauce?",
+    "options": [
+      "Cooking sake",
+      "Mirin",
+      "Rice vinegar",
+      "Shaoxing wine"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional fermented Chinese rice wine from Zhejiang province is aged in earthenware jars and widely used in Chinese braises and marinades?",
+    "options": [
+      "Mijiu",
+      "Shaoxing wine",
+      "Baijiu",
+      "Choya umeshu"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese liqueur is made by steeping green, unripe Japanese ume plums in shochu or neutral alcohol and rock sugar?",
+    "options": [
+      "Yuzushu",
+      "Umeshu",
+      "Midori",
+      "Sakura liqueur"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which aniseed-flavored national spirit of Greece turns milky white (the ouzo effect) when water or ice is added due to the louche effect?",
+    "options": [
+      "Tsikoudia",
+      "Ouzo",
+      "Raki",
+      "Metaxa"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which resinous Greek wine has been flavored with Aleppo pine tree sap for over two thousand years?",
+    "options": [
+      "Retsina",
+      "Assyrtiko",
+      "Agiorgitiko",
+      "Mavrodaphne"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Turkish anise-flavored distilled spirit made from twice-distilled grapes is traditionally known as 'lion's milk' (aslan sütü)?",
+    "options": [
+      "Arak",
+      "Pastis",
+      "Rakı",
+      "Mastika"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Levantine clear anise-flavored spirit is traditionally distilled from fermented grapes and green aniseeds, and consumed with mezze?",
+    "options": [
+      "Arak",
+      "Ouzo",
+      "Chacha",
+      "Boukha"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Tunisian eau-de-vie is distilled from fermented Mediterranean figs?",
+    "options": [
+      "Mahia",
+      "Boukha",
+      "Grappa",
+      "Thibarine"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Moroccan distilled spirit, historically produced by Jewish communities, is flavored with anise and distilled from figs or dates?",
+    "options": [
+      "Boukha",
+      "Cedratine",
+      "Mahia",
+      "Arak"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fermented dairy drink originating in the Caucasus Mountains is made using symbiotic grain-like colonies of yeasts and lactic acid bacteria?",
+    "options": [
+      "Kefir",
+      "Kombucha",
+      "Kumis",
+      "Ayran"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Central Asian fermented alcoholic beverage is traditionally produced from mare's milk?",
+    "options": [
+      "Kefir",
+      "Kumis",
+      "Doogh",
+      "Chal"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Turkish and Persian refreshing cold beverage is made by whisking plain yogurt with chilled water, salt, and sometimes dried mint?",
+    "options": [
+      "Lassi",
+      "Chaas",
+      "Ayran",
+      "Borhani"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Indian spiced yogurt beverage, often seasoned with roasted cumin, black salt, and coriander, is known in Gujarat and Rajasthan as:",
+    "options": [
+      "Mango Lassi",
+      "Thandai",
+      "Jal-jeera",
+      "Chaas"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional festival beverage prepared during Holi in Northern India is made from milk, almonds, fennel seeds, watermelon seeds, rose petals, and cannabis (bhang)?",
+    "options": [
+      "Lassi",
+      "Kahwa",
+      "Falooda",
+      "Thandai"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Taiwanese tea-based beverage invented in Taichung in the 1980s features chewy pearls made from cassava root starch?",
+    "options": [
+      "Teh tarik",
+      "Chai masala",
+      "Matcha latte",
+      "Boba bubble tea"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which South American herbal infusion made from the dried leaves of Ilex paraguariensis is traditionally sipped through a metal straw called a bombilla?",
+    "options": [
+      "Guayusa",
+      "Yerba mate",
+      "Rooibos",
+      "Lapacho"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which South African caffeine-free herbal infusion is harvested exclusively from the Aspalathus linearis plant in the Cederberg mountains?",
+    "options": [
+      "Honeybush",
+      "Hibiscus",
+      "Moringa",
+      "Rooibos"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fermented Russian soft drink with negligible alcohol is traditionally brewed from stale black or rye sourdough bread, sugar, and raisins?",
+    "options": [
+      "Kompot",
+      "Sbiten",
+      "Kvass",
+      "Medovukha"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which historic Slavic hot winter beverage is brewed by simmering water or wine with honey, jam, and aromatic spices such as ginger, clove, and cinnamon?",
+    "options": [
+      "Kvass",
+      "Glögg",
+      "Mors",
+      "Sbiten"
+    ],
+    "answer": 3,
+    "d": 3
+  }
+]

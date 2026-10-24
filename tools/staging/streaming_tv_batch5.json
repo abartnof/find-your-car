@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Streaming TV Shows",
+    "q": "With a total production budget exceeding $465 million for its eight-episode first season, which fantasy series became the most expensive television season ever made?",
+    "options": [
+      "The Lord of the Rings: The Rings of Power (Amazon Prime Video)",
+      "House of the Dragon (HBO/Max)",
+      "Stranger Things Season 4 (Netflix)",
+      "The Mandalorian (Disney+)"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "How much did each episode of Netflix's 'Stranger Things' Season 4 cost on average to produce?",
+    "options": [
+      "$12 million per episode",
+      "$18 million per episode",
+      "$30 million per episode",
+      "$45 million per episode"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which Amazon spy thriller series saw its budget balloon to over $300 million for just six episodes following massive creative overhauls and reshoots?",
+    "options": [
+      "Citadel",
+      "Tom Clancy's Jack Ryan",
+      "Reacher",
+      "The Terminal List"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What was the estimated production budget per episode for Marvel's flagship Disney+ series such as 'WandaVision' and 'The Falcon and the Winter Soldier'?",
+    "options": [
+      "$10 million per episode",
+      "$15 million per episode",
+      "$25 million per episode",
+      "$40 million per episode"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What was the estimated production budget per episode for Season 1 of HBO's 'House of the Dragon', keeping it under $20 million per episode?",
+    "options": [
+      "$8 million per episode",
+      "$12 million per episode",
+      "$35 million per episode",
+      "Roughly $20 million per episode"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "How much did the physical puppet of Grogu (Baby Yoda) used on set in 'The Mandalorian' reportedly cost to design and fabricate?",
+    "options": [
+      "$500,000",
+      "$5 million",
+      "$1.5 million",
+      "$10 million"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What cutting-edge game engine powers the real-time photo-realistic backgrounds displayed on LED walls inside Industrial Light & Magic's StageCraft Volume?",
+    "options": [
+      "Unity",
+      "CryEngine",
+      "Frostbite",
+      "Unreal Engine (Epic Games)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "How many hours of prosthetic makeup application did actor Jamie Campbell Bower endure each day to transform practically into Vecna in 'Stranger Things' Season 4?",
+    "options": [
+      "2 to 3 hours",
+      "4 to 5 hours",
+      "12 to 14 hours",
+      "Between 7 and 8.5 hours"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What percentage of Vecna's on-screen appearance in 'Stranger Things' Season 4 was created using practical prosthetics rather than full CGI, according to makeup designer Barrie Gower?",
+    "options": [
+      "Roughly 90% practical",
+      "20% practical",
+      "50% practical",
+      "70% practical"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which legendary makeup and prosthetics artist designed the Night King for 'Game of Thrones' and Vecna for 'Stranger Things'?",
+    "options": [
+      "Rick Baker",
+      "Greg Nicotero",
+      "Stan Winston",
+      "Barrie Gower"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "How many real individual background extras were hired to fill the colossal dormitory room during the first game in 'Squid Game'?",
+    "options": [
+      "456 real actors and extras",
+      "50 extras multiplied by CGI",
+      "100 extras",
+      "250 extras"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 'The Mandalorian', which visual effects studio founded by George Lucas pioneered the StageCraft virtual production platform?",
+    "options": [
+      "Wētā FX",
+      "Digital Domain",
+      "Framestore",
+      "Industrial Light & Magic (ILM)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What was the estimated budget per episode for Apple TV+'s period sci-fi drama 'See' starring Jason Momoa in Season 1?",
+    "options": [
+      "$15 million per episode",
+      "$5 million per episode",
+      "$8 million per episode",
+      "$25 million per episode"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In Martin Scorsese's Netflix crime epic 'The Irishman', which visual effects technique was heavily employed allowing Robert De Niro and Al Pacino to portray characters across decades?",
+    "options": [
+      "Deepfake generative neural networks",
+      "Full 3D computer-animated body doubles",
+      "De-aging digital markerless facial replacement technology by ILM",
+      "Traditional silicon prosthetic appliances exclusively"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "How much was the estimated budget for the two-hour series finale episodes (Volume 2) of 'Stranger Things' Season 4 combined?",
+    "options": [
+      "$20 million",
+      "$35 million",
+      "$90 million",
+      "Over $60 million"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 'The Crown', what iconic garment worn by Queen Elizabeth II in the coronation episode was painstakingly recreated by costume designers at a cost of roughly £30,000?",
+    "options": [
+      "The Queen's wedding dress",
+      "The ceremonial Order of the Garter mantle",
+      "The Queen's coronation gown and crimson velvet Robe of Estate",
+      "The Imperial State Crown with replica diamonds"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What was the total estimated budget for Netflix's live-action adaptation of 'One Piece' Season 1, costing roughly $18 million per episode?",
+    "options": [
+      "$80 million",
+      "$100 million",
+      "$140 million",
+      "$200 million"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which 2024 Netflix sci-fi series spent an estimated $20 million per episode adapting Liu Cixin's complex Hugo Award-winning novel?",
+    "options": [
+      "Altered Carbon",
+      "Sense8",
+      "3 Body Problem",
+      "Dark"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "How much was the licensing fee Netflix reportedly paid each year to Sony Pictures Television for the global rights to 'The Crown'?",
+    "options": [
+      "An overall production commitment of roughly £100 million per two seasons",
+      "£20 million per year",
+      "£50 million per year",
+      "£200 million per year"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which streaming platform spent over $450 million in 2021 to acquire the rights to produce two sequels to Rian Johnson's murder mystery 'Knives Out'?",
+    "options": [
+      "Apple TV+",
+      "Amazon Prime Video",
+      "Max",
+      "Netflix"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which Hollywood superstar personally reached out to Martin Short via text message begging to join 'Only Murders in the Building' Season 3 because she loved the show?",
+    "options": [
+      "Glenn Close",
+      "Meryl Streep",
+      "Shirley MacLaine",
+      "Bette Midler"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Before landing the role of Eleven in 'Stranger Things' at age 11, Millie Bobby Brown was so devastated by industry rejections that she almost did what?",
+    "options": [
+      "Moved back to Spain permanently",
+      "Quit acting entirely",
+      "Switched to professional musical theater",
+      "Enrolled full-time in culinary boarding school"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which actor, fresh off playing Lip Gallagher for 10 years on 'Shameless', was initially hesitant to take another Chicago working-class role before reading 'The Bear'?",
+    "options": [
+      "Cameron Monaghan",
+      "Noel Fisher",
+      "Steve Howey",
+      "Jeremy Allen White"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which runway fashion model had never acted in any screen production before auditioning for and landing the co-starring role of Kang Sae-byeok (067) in 'Squid Game'?",
+    "options": [
+      "Jung Ho-yeon",
+      "Kim Joo-ryoung",
+      "Bae Doona",
+      "Park So-dam"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which Australian actress initially hesitated and considered turning down the role of Shiv Roy in 'Succession' because she worried American political satire might alienate her?",
+    "options": [
+      "Rose Byrne",
+      "Toni Collette",
+      "Sarah Snook",
+      "Yvonne Strahovski"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which screen icon joined Apple TV+'s comedy 'Shrinking' and Paramount+'s '1923' simultaneously, marking his first major recurring television roles at age 80?",
+    "options": [
+      "Robert De Niro",
+      "Harrison Ford",
+      "Al Pacino",
+      "Clint Eastwood"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What British actor was cast as Prince Daemon Targaryen in 'House of the Dragon' after previously starring as Prince Philip in 'The Crown' and the Eleventh Doctor in 'Doctor Who'?",
+    "options": [
+      "Matt Smith",
+      "David Tennant",
+      "Tobias Menzies",
+      "Tom Glynn-Carney"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which comedic actor originally auditioned for the role of Jim Hopper in 'Stranger Things' before David Harbour was ultimately cast?",
+    "options": [
+      "Will Forte was the studio frontrunner",
+      "John C. Reilly turned down the pilot offer",
+      "No high-profile comedy star was cast, but Harbour was chosen over bigger studio names",
+      "Jason Sudeikis was originally offered the role"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "How did Pedro Pascal secure the lead role of Joel Miller in HBO's 'The Last of Us' while still committed to Disney+'s 'The Mandalorian'?",
+    "options": [
+      "Disney released him from his Lucasfilm contract early",
+      "He filmed both shows concurrently on the same soundstage in Atlanta",
+      "His Mandalorian face was rarely shown, allowing stunt doubles (Brendan Wayne and Lateef Crowder) to perform in suit while Pascal voiced the role",
+      "Lucasfilm put 'The Mandalorian' on a two-year hiatus to accommodate HBO"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which actress and comedian co-wrote the pilot of 'What We Do in the Shadows' and won an Emmy for writing and acting on 'The Bear' as Sydney Adamu?",
+    "options": [
+      "Quinta Brunson",
+      "Ayo Edebiri",
+      "Janelle James",
+      "Stephanie Hsu"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which character in 'The Bear' was specifically written by Christopher Storer for real-life Canadian culinary star and chef Matty Matheson?",
+    "options": [
+      "Neil Fak (the handyman)",
+      "Gary 'Sweeps' Woods",
+      "Marcus",
+      "Ebraheim"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What real-life mother and daughter duo played the mother-daughter lead characters in Netflix's 2021 drama miniseries 'Maid'?",
+    "options": [
+      "Laura Dern and Diane Ladd",
+      "Margaret Qualley and Andie MacDowell",
+      "Goldie Hawn and Kate Hudson",
+      "Blythe Danner and Gwyneth Paltrow"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which British actress was cast as Queen Elizabeth II in Seasons 5 and 6 of 'The Crown' after having previously portrayed Dolores Umbridge in the Harry Potter franchise?",
+    "options": [
+      "Maggie Smith",
+      "Fiona Shaw",
+      "Imelda Staunton",
+      "Julie Walters"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which actor portrayed Logan Roy's estranged eldest son Connor Roy in 'Succession', having decades earlier starred in 'Ferris Bueller's Day Off'?",
+    "options": [
+      "Matthew Broderick",
+      "Alan Ruck",
+      "Jeffrey Jones",
+      "Judge Reinhold"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Who was the first actor officially cast by the Duffer Brothers for 'Stranger Things', serving as the veteran anchor for the series?",
+    "options": [
+      "David Harbour",
+      "Matthew Modine",
+      "Paul Reiser",
+      "Winona Ryder (as Joyce Byers)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which actor auditioned for the role of Homelander in 'The Boys' while reading the sides in an American accent before Eric Kripke cast him?",
+    "options": [
+      "Antony Starr (a New Zealander)",
+      "Karl Urban",
+      "Nathan Fillion",
+      "Alexander Skarsgård"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Who recommended Bella Ramsey to Craig Mazin for the role of Ellie in 'The Last of Us' after seeing her fierce performance as Lyanna Mormont in 'Game of Thrones'?",
+    "options": [
+      "Pedro Pascal",
+      "Neil Druckmann",
+      "David Benioff and D.B. Weiss",
+      "Peter Dinklage"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which actress landed the breakout role of Wednesday Addams after Tim Burton personally Zoomed with her while she was filming in New Zealand covered in fake horror blood?",
+    "options": [
+      "Sadie Sink",
+      "Jenna Ortega",
+      "Chloë Grace Moretz",
+      "Kiernan Shipka"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which veteran character actor was cast as Hector Salamanca in 'Breaking Bad' and 'Better Call Saul', receiving an Emmy nomination despite having almost no spoken dialogue?",
+    "options": [
+      "Raymond Cruz",
+      "Mark Margolis",
+      "Steven Bauer",
+      "Giancarlo Esposito"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In Apple TV+'s 'Severance', which cast member was cast as Dylan George after Ben Stiller saw his viral stand-up comedy and commercial appearances?",
+    "options": [
+      "Zach Cherry",
+      "Tramell Tillman",
+      "Michael Chernus",
+      "Yul Vazquez"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which Broadway legend made a guest appearance as bunny-loving theater legend Bunny Folger's mother Leonora Folger in 'Only Murders in the Building' Season 2?",
+    "options": [
+      "Rita Moreno",
+      "Angela Lansbury",
+      "Liza Minnelli",
+      "Shirley MacLaine"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What British actor played both Lord Voldemort's snake Nagini's master and Prince Philip in 'The Crown' Season 3 and 4?",
+    "options": [
+      "Jonathan Pryce",
+      "Tobias Menzies",
+      "Ben Daniels",
+      "Jason Isaacs"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which comedy star was originally cast as Greg Hirsch in 'Succession' before Nicholas Braun took the role?",
+    "options": [
+      "Nicholas Braun was cast from the pilot; no other actor shot scenes as Greg",
+      "Thomas Middleditch was originally cast",
+      "Kumail Nanjiani shot test pilot scenes",
+      "Pete Davidson was considered for the role"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which Oscar-winning actor was cast as eccentric billionaire Peter Weyland in 'Prometheus' and later played Logan Roy's wealthy investor rival Josh Aaronson in 'Succession'?",
+    "options": [
+      "Guy Pearce",
+      "Mark Rylance",
+      "Adrien Brody",
+      "Sam Rockwell"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Who portrayed Martha, the relentless stalker in Netflix's 2024 sensation 'Baby Reindeer', winning critical raves for her terrifying yet sympathetic performance?",
+    "options": [
+      "Nava Mau",
+      "Daisy May Cooper",
+      "Jessica Gunning",
+      "Sharon Horgan"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What real-life architectural marvel in Holmdel, New Jersey—designed by legendary modernist Eero Saarinen—serves as the corporate headquarters exterior of Lumon Industries in 'Severance'?",
+    "options": [
+      "Bell Works (the former Bell Labs Holmdel Complex)",
+      "The Armstrong Rubber Building",
+      "The TWA Flight Center",
+      "The IBM Somers Complex"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which real-life Chicago sandwich shop on Orleans Street served as the exterior and pilot-episode interior filming location for 'The Bear'?",
+    "options": [
+      "Al's #1 Italian Beef",
+      "Portillo's",
+      "Mr. Beef on Orleans",
+      "Johnnie's Beef"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 'Succession' Season 3, what magnificent historic estate in the hills of Tuscany, Italy served as the setting for Lady Caroline Collingwood's lavish wedding?",
+    "options": [
+      "Villa d'Este",
+      "Villa del Balbianello",
+      "Villa Ephrussi de Rothschild",
+      "Villa Cetinale"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Where were the striking ghost-town desert scenes depicting the apocalyptic California wasteland filmed for Prime Video's 'Fallout'?",
+    "options": [
+      "The Mojave Desert near Barstow, California",
+      "Kolmanskop, a real-life abandoned diamond-mining ghost town in the Namib Desert in Namibia",
+      "The Atacama Desert in northern Chile",
+      "The White Sands National Park in New Mexico"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which ancient Portuguese village built into and around giant granite boulders served as the filming location for the ancestral Targaryen stronghold Dragonstone in 'House of the Dragon'?",
+    "options": [
+      "Sintra, Portugal",
+      "Monsanto, Portugal",
+      "Marvão, Portugal",
+      "Óbidos, Portugal"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What luxury resort served as the primary filming and cast-bubble quarantine location for 'The White Lotus' Season 1 during the height of the COVID-19 pandemic in late 2020?",
+    "options": [
+      "The Ritz-Carlton, Kapalua",
+      "Grand Wailea, A Waldorf Astoria Resort",
+      "Montage Kapalua Bay",
+      "Four Seasons Resort Maui at Wailea"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 'The Crown', which historic English country house stood in for Buckingham Palace's grand interior state rooms across multiple seasons?",
+    "options": [
+      "Blenheim Palace",
+      "Lancaster House (and Wilton House)",
+      "Highclere Castle",
+      "Chatsworth House"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which medieval Spanish city, previously used for King's Landing in 'Game of Thrones', returned as the primary exterior location for King's Landing in 'House of the Dragon'?",
+    "options": [
+      "Dubrovnik, Croatia",
+      "Girona, Spain",
+      "Cáceres (Extremadura, Spain)",
+      "Seville, Spain"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 'The Last of Us', which Canadian province served as the primary filming location standing in for various post-apocalyptic American cities including Boston and Jackson?",
+    "options": [
+      "British Columbia (Vancouver)",
+      "Ontario (Toronto)",
+      "Quebec (Montreal)",
+      "Alberta (Calgary, Edmonton, and Canmore)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What Norwegian luxury hotel perched on a fjord cliff served as Lukas Matsson's Scandinavian retreat in 'Succession' Season 4 Episode 5?",
+    "options": [
+      "Juvet Landscape Hotel in Valldal, Norway",
+      "The Arctic TreeHouse Hotel",
+      "Treehotel Harads",
+      "Manshausen Island Resort"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Where in the United States does the production of Netflix's 'Stranger Things' primarily film all its Hawkins suburban neighborhoods and school exteriors?",
+    "options": [
+      "Vancouver, British Columbia",
+      "Atlanta and surrounding towns in Georgia",
+      "Albuquerque, New Mexico",
+      "Wilmington, North Carolina"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What historic converted psychiatric hospital in Atlanta, Georgia was used as the exterior filming location for the Hawkins National Laboratory in 'Stranger Things'?",
+    "options": [
+      "Central State Hospital in Milledgeville",
+      "Emory University's Briarcliff Campus (former Georgia Mental Health Institute)",
+      "Danvers State Hospital",
+      "Trenton Psychiatric Hospital"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In Apple TV+'s 'Ted Lasso', which historic street in southwest London served as the picturesque cobblestone exterior where Ted's flat and pub are located?",
+    "options": [
+      "Paved Court in Richmond Green, London",
+      "Portobello Road in Notting Hill",
+      "Carnaby Street in Soho",
+      "Columbia Road in Bethnal Green"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which luxury cliffside hotel in Taormina, Sicily served as the filming location for 'The White Lotus' Season 2, formerly a 14th-century Dominican convent?",
+    "options": [
+      "Belmond Grand Hotel Timeo",
+      "Villa Sant'Andrea",
+      "San Domenico Palace (Four Seasons)",
+      "The Ashbee Hotel"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 'Squid Game', on what uninhabited South Korean island were the dramatic exterior island cliffs and drone shots of the secret gaming facility filmed?",
+    "options": [
+      "Jeju Island",
+      "Ulleungdo",
+      "Ganghwado",
+      "Seungbong-do (specifically Guleop-do)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In Disney+'s 'Andor', which futuristic high-rise building in London served as the sleek, oppressive Coruscant apartment of Senator Mon Mothma?",
+    "options": [
+      "The Gherkin",
+      "The Brunel Building in Paddington",
+      "The Shard",
+      "One Blackfriars"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which Scottish coastal fishing town served as the location for the vibrant, crowded Ferrix marketplace and funeral procession in 'Andor'?",
+    "options": [
+      "Little Marlow in Buckinghamshire (built on a massive outdoor quarry backlot)",
+      "Stonehaven, Scotland",
+      "Oban, Scotland",
+      "Portree, Isle of Skye"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 'House of the Dragon', where was the dramatic coastal fortress of High Tide on Driftmark (seat of House Velaryon) filmed?",
+    "options": [
+      "Mont-Saint-Michel in Normandy",
+      "Dunluce Castle in Northern Ireland",
+      "Bamburgh Castle in Northumberland",
+      "St Michael's Mount in Cornwall, England"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What iconic New York skyscraper served as the real-world filming location for the sleek executive offices of Waystar Royco in 'Succession' Season 1?",
+    "options": [
+      "The Empire State Building",
+      "Rockefeller Plaza",
+      "4 World Trade Center (and later 7 World Trade Center)",
+      "The Chrysler Building"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Where in Chicago did the production of 'The Bear' build an exact, working replica of the Mr. Beef kitchen after filming the pilot inside the real restaurant?",
+    "options": [
+      "Chicago Studio City",
+      "Essanay Studios",
+      "Trilogy Studios",
+      "Cinespace Chicago Film Studios"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 'Yellowstone' and its streaming spinoffs '1883' and '1923', what real Montana ranch serves as the iconic Chief Joseph Ranch where the Dutton family resides?",
+    "options": [
+      "Flying D Ranch",
+      "Chief Joseph Ranch in Darby, Montana",
+      "Bozeman Creek Ranch",
+      "Bitterroot River Ranch"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which real estate mansion in Lake of the Ozarks or Atlanta served as the Byrde family lakeside home in Netflix's 'Ozark'?",
+    "options": [
+      "Lake of the Ozarks in Missouri",
+      "Table Rock Lake in Missouri",
+      "Lake Allatoona and Lake Lanier in Georgia (not Missouri)",
+      "Lake Norman in North Carolina"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 'The Mandalorian', how tall is the curved LED StageCraft video wall enclosure constructed on the Manhattan Beach Studios lot?",
+    "options": [
+      "10 feet tall and 40 feet in diameter",
+      "35 feet tall and 120 feet in diameter",
+      "20 feet tall and 75 feet in diameter",
+      "50 feet tall and 200 feet in diameter"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Where in the United Kingdom did the production of Prime Video's 'The Rings of Power' relocate for Season 2 after filming Season 1 in New Zealand?",
+    "options": [
+      "Leavesden Studios in Watford",
+      "Pinewood Studios in Buckinghamshire",
+      "Belfast Harbor Studios in Northern Ireland",
+      "Bray Film Studios and Bovingdon Airfield in England"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which iconic street in Albuquerque, New Mexico features the real car wash owned by Walter White in 'Breaking Bad' (Octopus Car Wash, now Mister Car Wash)?",
+    "options": [
+      "Snow Heights Circle NE (Menaul Blvd)",
+      "Central Avenue",
+      "Lomas Boulevard",
+      "Coors Boulevard"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 2023, what unprecedented simultaneous labor action shut down almost all streaming television productions for nearly five months?",
+    "options": [
+      "The joint WGA (Writers Guild of America) and SAG-AFTRA (Screen Actors Guild) strikes",
+      "The IATSE nationwide technical team walkout",
+      "The Directors Guild of America solo strike",
+      "The Teamsters theatrical driver boycott"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What central issue regarding streaming compensation was a primary catalyst for the 2023 Hollywood writers' and actors' strikes?",
+    "options": [
+      "Mandatory 60-day theatrical exclusivity windows",
+      "Elimination of foreign language dubbing programs",
+      "Banning the use of green screen technology",
+      "Streaming residual formulas based on viewership transparency and success metrics"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which high-profile Netflix mystery sci-fi series by the creators of 'Dark' was abruptly canceled in early 2023 after only one season, despite strong European viewing hours?",
+    "options": [
+      "The OA",
+      "Sense8",
+      "1899",
+      "Archive 81"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In late 2022, Warner Bros. Discovery shocked the television industry by canceling which critically acclaimed, multi-Emmy-winning HBO sci-fi series and removing it entirely from HBO Max for tax write-downs?",
+    "options": [
+      "Raised by Wolves",
+      "The Nevers",
+      "Westworld",
+      "Carnivàle"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which controversial 2023 HBO/Max drama series created by Sam Levinson and Abel 'The Weeknd' Tesfaye was widely panned by critics at Cannes and canceled after five episodes?",
+    "options": [
+      "Euphoria",
+      "Industry",
+      "The Idol",
+      "Vinyl"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which Netflix supernatural series starring Brit Marling developed a devoted cult following that staged public protests and hunger strikes in Los Angeles when it was canceled in 2019 after Season 2?",
+    "options": [
+      "The OA",
+      "Sense8",
+      "Chilling Adventures of Sabrina",
+      "Shadow and Bone"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What live-action superhero series originally developed for DC Universe was saved by fan outcry and moved to HBO Max for Seasons 3 and 4 before concluding in 2023?",
+    "options": [
+      "Swamp Thing",
+      "Stargirl",
+      "Krypton",
+      "Doom Patrol (and Titans)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which Netflix fantasy series based on Leigh Bardugo's Grishaverse novels was canceled in late 2023 after two seasons, scrapping a planned 'Six of Crows' spinoff?",
+    "options": [
+      "Locke & Key",
+      "Fate: The Winx Saga",
+      "Shadow and Bone",
+      "The Letter for the King"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 2022, Warner Bros. Discovery famously made the unprecedented decision to permanently shelve which completed $90 million DC superhero film intended for HBO Max?",
+    "options": [
+      "Supergirl",
+      "Zatanna",
+      "Batgirl",
+      "Wonder Twins"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which historical comedy-drama starring Elle Fanning and Nicholas Hoult was unexpectedly canceled by Hulu in 2023 after three seasons despite receiving critical acclaim and Emmy nominations?",
+    "options": [
+      "Dickinson",
+      "The Great",
+      "Harlots",
+      "The Serpent Queen"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What Rotten Tomatoes approval rating milestone did FX/Hulu's 'Shōgun' achieve upon its 2024 debut, earning widespread comparisons to peak 'Game of Thrones'?",
+    "options": [
+      "82% Fresh",
+      "88% Fresh",
+      "91% Fresh",
+      "99% Certified Fresh from critics"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What was the Rotten Tomatoes critic score for the acclaimed first season of 'The Bear' upon its June 2022 release?",
+    "options": [
+      "89% Fresh",
+      "100% Certified Fresh",
+      "93% Fresh",
+      "96% Fresh"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which Netflix series about an 18th-century Austrian monarch, Empress Elisabeth, became an international sleeper hit in 2022 and won the International Emmy for Best Drama?",
+    "options": [
+      "The Empress",
+      "Sisi",
+      "Charité",
+      "Maximilian"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which live-action anime adaptation on Netflix achieved a rare 85%+ critic rating and 95%+ audience score in 2023, reversing Netflix's curse of poorly received anime adaptations?",
+    "options": [
+      "Cowboy Bebop",
+      "Death Note",
+      "Avatar: The Last Airbender",
+      "One Piece"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What was the critical response to the live-action 'Cowboy Bebop' series on Netflix in 2021, leading to its swift cancellation less than one month after premiere?",
+    "options": [
+      "A 75% score that failed to find an audience",
+      "Universal critical praise that was too expensive to renew",
+      "Positive domestic ratings but a total boycott in Japan",
+      "A 46% Rotten Tomatoes score and swift cancellation due to poor completion rates"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 2024, what real-world legal action followed the viral success of Netflix's 'Baby Reindeer'?",
+    "options": [
+      "A $170 million defamation and emotional distress lawsuit filed by Fiona Harvey, claiming she was defamed as the real-life Martha",
+      "A trademark infringement lawsuit by the Edinburgh Fringe Festival",
+      "A criminal indictment against Richard Gadd for unauthorized recording",
+      "A copyright injunction filed by the BBC over script rights"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which New York Times television critic wrote the influential review hailing 'Succession' as 'the finest television drama of the decade' during its third season?",
+    "options": [
+      "Emily Nussbaum",
+      "James Poniewozik",
+      "Matt Zoller Seitz",
+      "Alan Sepinwall"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which Rolling Stone television critic published glowing, definitive episode-by-episode recaps and retrospective books on 'The Sopranos', 'Breaking Bad', and 'Succession'?",
+    "options": [
+      "Alan Sepinwall",
+      "David Bianculli",
+      "Tim Goodman",
+      "Ken Tucker"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What rare achievement did 'Fleabag' Season 2 attain on review aggregator Metacritic in 2019, making it one of the highest-rated television seasons in Metacritic history?",
+    "options": [
+      "A Metascore of 96 out of 100",
+      "A Metascore of 88 out of 100",
+      "A Metascore of 91 out of 100",
+      "A Metascore of 100 out of 100"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which acclaimed Apple TV+ comedy about video game development created by Rob McElhenney, Charlie Day, and Megan Ganz was renewed for four seasons?",
+    "options": [
+      "Silicon Valley",
+      "Mythic Quest",
+      "Severance",
+      "Players"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What streaming service originally commissioned and aired the dark anthology series 'Black Mirror' before Netflix purchased the franchise rights in 2015?",
+    "options": [
+      "BBC One",
+      "ITV",
+      "Sky Atlantic",
+      "Channel 4 (United Kingdom)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which streaming platform rescued the canceled Fox police comedy 'Brooklyn Nine-Nine' in 2018 within 31 hours of Fox canceling it?",
+    "options": [
+      "Netflix",
+      "NBC (broadcast network with immediate streaming on Hulu and Peacock)",
+      "Amazon Prime Video",
+      "TBS"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which beloved supernatural series canceled by NBC in 2021 was saved by Netflix for a super-sized 20-episode fourth and final season after charting #1 on Netflix for weeks?",
+    "options": [
+      "Lucifer",
+      "Manifest",
+      "Designated Survivor",
+      "Longmire"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which acclaimed fantasy comedy series starring Tom Ellis was canceled by Fox after three seasons in 2018 and picked up by Netflix for three additional seasons?",
+    "options": [
+      "Constantine",
+      "Lucifer",
+      "Preacher",
+      "Sleepy Hollow"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which Netflix sci-fi series created by the Wachowskis was canceled in 2017 due to its massive $9 million per episode budget, but granted a two-hour finale special after global fan petitions?",
+    "options": [
+      "Sense8",
+      "Altered Carbon",
+      "The OA",
+      "Dark"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 2022, what company acquired WarnerMedia from AT&T in a $43 billion mega-merger to form Warner Bros. Discovery under CEO David Zaslav?",
+    "options": [
+      "Comcast",
+      "Discovery, Inc.",
+      "Paramount Global",
+      "Sony Entertainment"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which critically acclaimed Hulu comedy about a Native American teenager and his friends living on an Oklahoma reservation was created by Sterlin Harjo and Taika Waititi?",
+    "options": [
+      "Rutherford Falls",
+      "Dark Winds",
+      "Smoke Signals",
+      "Reservation Dogs"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "In 2024, what landmark deal allowed Disney+ to officially integrate Hulu content into a single unified app experience for bundle subscribers?",
+    "options": [
+      "The Disney-Comcast unified media interface",
+      "The Star Stream launcher",
+      "The Hulu on Disney+ integrated hub",
+      "The ABC Unlimited portal"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "Which acclaimed animated sci-fi series was canceled by Max in 2023, only to be licensed to Netflix in 2024 where it found a massive new audience?",
+    "options": [
+      "Scavengers Reign",
+      "Pantheon",
+      "Inside Job",
+      "Final Space"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Streaming TV Shows",
+    "q": "What documentary film won the first Academy Award of any kind for Netflix at the 90th Academy Awards in 2018, exposing state-sponsored Russian Olympic doping?",
+    "options": [
+      "13th",
+      "The White Helmets",
+      "My Octopus Teacher",
+      "Icarus"
+    ],
+    "answer": 3,
+    "d": 3
+  }
+]

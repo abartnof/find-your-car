@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "80s TV Shows",
+    "q": "Who created the groundbreaking, realistic police drama Hill Street Blues with Michael Kozoll?",
+    "options": [
+      "Steven Bochco",
+      "Donald P. Bellisario",
+      "Stephen J. Cannell",
+      "Dick Wolf"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What was the signature morning roll-call catchphrase of Sgt. Phil Esterhaus on Hill Street Blues?",
+    "options": [
+      "Stay sharp, people",
+      "Keep your heads down",
+      "Let's be careful out there",
+      "Watch your six"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actor portrayed the dignified, Latin-quoting Sgt. Phil Esterhaus until his death in 1983?",
+    "options": [
+      "Bruce Weitz",
+      "Charles Haid",
+      "Daniel J. Travanti",
+      "Michael Conrad"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who played the recovering alcoholic and respected precinct commander Captain Frank Furillo?",
+    "options": [
+      "Michael Conrad",
+      "Daniel J. Travanti",
+      "James B. Sikking",
+      "Taurean Blacque"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actress played public defender Joyce Davenport, Frank Furillo's secret lover and eventual wife?",
+    "options": [
+      "Veronica Hamel",
+      "Sharon Gless",
+      "Betty Thomas",
+      "Barbara Bosson"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What pet name did Frank Furillo and Joyce Davenport use for their private late-night bathtub encounters?",
+    "options": [
+      "Pizza man",
+      "Midnight court",
+      "Coffee break",
+      "Case review"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which scruffy, growling undercover detective on Hill Street Blues was notorious for biting suspects?",
+    "options": [
+      "Neal Washington",
+      "Mick Belker",
+      "Andy Renko",
+      "Johnny LaRue"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actor played the eccentric, canine-growling detective Mick Belker on Hill Street Blues?",
+    "options": [
+      "Bruce Weitz",
+      "Kiel Martin",
+      "Charles Haid",
+      "Rene Enriquez"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What insulting term did Detective Mick Belker routinely scream at criminals he wrestled to the ground?",
+    "options": [
+      "Lowlifes! / Vermin!",
+      "Dirtbag! / Scumbag!",
+      "Punks! / Clowns!",
+      "Dog breath! / Hairbag!"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What two street patrol partners were ambushed and shot in the climactic cliffhanger of the pilot episode?",
+    "options": [
+      "Frank Furillo and Phil Esterhaus",
+      "Mick Belker and Johnny LaRue",
+      "Neal Washington and Ray Calletano",
+      "Andy Renko and Bobby Hill"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actor played Officer Andy Renko, the cowboy-hat-wearing patrol cop from the South?",
+    "options": [
+      "Michael Warren",
+      "Kiel Martin",
+      "Charles Haid",
+      "James B. Sikking"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which former college basketball star played Officer Bobby Hill, Renko's level-headed African-American partner?",
+    "options": [
+      "Michael Warren",
+      "Taurean Blacque",
+      "Carl Weathers",
+      "Robert Guillaume"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who played the pipe-smoking, militaristic SWAT Emergency Action Team commander Lieutenant Howard Hunter?",
+    "options": [
+      "Charles Haid",
+      "James B. Sikking",
+      "Ed Flanders",
+      "Michael Conrad"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actress played the tough, competent patrol officer (and later sergeant) Lucille Bates?",
+    "options": [
+      "Veronica Hamel",
+      "Barbara Bosson",
+      "Tyne Daly",
+      "Betty Thomas"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actress played Frank Furillo's neurotic, demanding ex-wife Fay Furillo on Hill Street Blues?",
+    "options": [
+      "Betty Thomas",
+      "Barbara Bosson",
+      "Alfre Woodard",
+      "Veronica Hamel"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What real-life relationship existed between actress Barbara Bosson and co-creator Steven Bochco?",
+    "options": [
+      "They were former high school sweethearts",
+      "They were married",
+      "They were first cousins",
+      "They were brother and sister"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "How did Sgt. Phil Esterhaus die on the show following actor Michael Conrad's real-life passing?",
+    "options": [
+      "He died in a routine traffic accident",
+      "He suffered a fatal heart attack while making love to his partner Grace Gardner",
+      "He passed away quietly in his sleep at home",
+      "He was shot during a bank hostage crisis"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "How many Primetime Emmy Awards did Hill Street Blues win for its rookie season in 1981, setting a drama record?",
+    "options": [
+      "8 Emmys",
+      "4 Emmys",
+      "16 Emmys",
+      "12 Emmys"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "How many consecutive years did Hill Street Blues win the Primetime Emmy for Outstanding Drama Series (1981-1984)?",
+    "options": [
+      "4 consecutive years",
+      "2 consecutive years",
+      "3 consecutive years",
+      "5 consecutive years"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who composed the melancholy piano-and-guitar instrumental theme song for Hill Street Blues?",
+    "options": [
+      "Jan Hammer",
+      "Mike Post (featuring Larry Carlton)",
+      "Henry Mancini",
+      "Bill Conti"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "In what fictional or unnamed metropolitan setting was Hill Street Blues located?",
+    "options": [
+      "Philadelphia",
+      "New York City",
+      "Los Angeles",
+      "An unnamed gritty northern rust-belt metropolis"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What legendary production studio founded by Mary Tyler Moore and Grant Tinker produced Hill Street Blues?",
+    "options": [
+      "Lorimar Television",
+      "Universal Television",
+      "MTM Enterprises",
+      "Stephen J. Cannell Productions"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which veteran actor played Lieutenant Ray Calletano, the precinct's proud Hispanic division coordinator?",
+    "options": [
+      "Edward James Olmos",
+      "A Martinez",
+      "Henry Darrow",
+      "Rene Enriquez"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which character was the precinct's smarmy, alcoholic, camera-craving undercover vice cop?",
+    "options": [
+      "Stan Jablonski",
+      "Johnny LaRue",
+      "Neal Washington",
+      "Mick Belker"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actor played the troubled detective Johnny LaRue on Hill Street Blues?",
+    "options": [
+      "Bruce Weitz",
+      "Charles Haid",
+      "Ken Olin",
+      "Kiel Martin"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What was the real name of the deteriorating South Boston public teaching hospital in St. Elsewhere?",
+    "options": [
+      "Boston Metropolitan",
+      "St. Eligius Hospital",
+      "County General",
+      "Mercy General"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who played Dr. Donald Westphall, the compassionate Director of Medicine at St. Eligius?",
+    "options": [
+      "William Daniels",
+      "Ed Begley Jr.",
+      "Norman Lloyd",
+      "Ed Flanders"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who played the pompous, abrasive Chief of Surgery Dr. Mark Craig on St. Elsewhere?",
+    "options": [
+      "Ed Flanders",
+      "Howie Mandel",
+      "William Daniels",
+      "David Morse"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which real-life wife of William Daniels played his on-screen wife Ellen Craig on St. Elsewhere?",
+    "options": [
+      "Marian Mercer",
+      "Doris Roberts",
+      "Bonnie Bartlett",
+      "Swoosie Kurtz"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What historic Emmy milestone did William Daniels and Bonnie Bartlett achieve in 1986 for St. Elsewhere?",
+    "options": [
+      "They were the oldest acting winners in Emmy history",
+      "They swept all comedy and drama guest categories",
+      "They both won for writing and acting",
+      "They became the first real-life married couple to win Emmys on the same night since 1965"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actor played Dr. Victor Ehrlich, Dr. Craig's sycophantic and bumbling surgical protégé?",
+    "options": [
+      "David Morse",
+      "Howie Mandel",
+      "Ed Begley Jr.",
+      "Denzel Washington"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which future two-time Academy Award winner starred as young resident physician Dr. Philip Chandler on St. Elsewhere?",
+    "options": [
+      "Morgan Freeman",
+      "Samuel L. Jackson",
+      "Forest Whitaker",
+      "Denzel Washington"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which stand-up comedian and future game show host played ER resident Dr. Wayne Fiscus on St. Elsewhere?",
+    "options": [
+      "Ray Romano",
+      "Bob Saget",
+      "Drew Carey",
+      "Howie Mandel"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which tall dramatic actor played Dr. Jack 'Boomer' Morrison, an earnest resident who suffered numerous personal tragedies?",
+    "options": [
+      "Ed Begley Jr.",
+      "David Morse",
+      "Mark Harmon",
+      "Bruce Greenwood"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which Hollywood heartthrob played plastic surgeon Dr. Robert Caldwell, who contracted HIV in season 4?",
+    "options": [
+      "Harry Hamlin",
+      "Pierce Brosnan",
+      "Patrick Dempsey",
+      "Mark Harmon"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What landmark television storyline in 1986 featured Mark Harmon's character Dr. Robert Caldwell?",
+    "options": [
+      "He contracted HIV from heterosexual promiscuity and later died of AIDS",
+      "He became the first doctor to perform an artificial heart transplant",
+      "He was convicted of medical malpractice in a criminal trial",
+      "He survived a lethal hospital bombing"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which legendary stage and screen veteran played hospital administrator Dr. Peter Auschlander?",
+    "options": [
+      "E.G. Marshall",
+      "John Huston",
+      "Norman Lloyd",
+      "Ed Flanders"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who composed the gentle, melodic synthesizer theme music for St. Elsewhere?",
+    "options": [
+      "John Addison",
+      "Jan Hammer",
+      "Mike Post",
+      "Dave Grusin"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What was the title of the famous, mind-bending series finale of St. Elsewhere broadcast in May 1988?",
+    "options": [
+      "The Last One",
+      "Eligius Farewell",
+      "A Snowball's Chance",
+      "Fade to Black"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What shocking final reveal occurred in the closing scene of St. Elsewhere's series finale?",
+    "options": [
+      "The entire series was revealed to be a daydream inside the mind of autistic child Tommy Westphall",
+      "Donald Westphall woke up from a coma after being shot in the pilot",
+      "All the doctors were revealed to be patients in a psychiatric asylum",
+      "The hospital was demolished to build a high-rise shopping mall"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What object was Tommy Westphall holding in the final scene of St. Elsewhere containing a miniature of the hospital?",
+    "options": [
+      "A snow globe",
+      "A music box",
+      "A kaleidoscope",
+      "A glass paperweight"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What cultural and media theory grew out of St. Elsewhere's snow globe finale regarding hundreds of interconnected shows?",
+    "options": [
+      "The Boston Canon Paradox",
+      "The Tommy Westphall Universe Hypothesis",
+      "The Bochco Multiverse",
+      "The MTM Crossover Matrix"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who played the autistic child Tommy Westphall on St. Elsewhere?",
+    "options": [
+      "Fred Savage",
+      "Jeremy Miller",
+      "Danny Pintauro",
+      "Chad Allen"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which acclaimed creators developed St. Elsewhere before going on to create Northern Exposure?",
+    "options": [
+      "Joshua Brand and John Falsey",
+      "Steven Bochco and Terry Louise Fisher",
+      "David E. Kelley and Mark Tinker",
+      "Marshall Herskovitz and Edward Zwick"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which classic bar sitcom characters made a famous crossover appearance in a St. Elsewhere episode at a local tavern?",
+    "options": [
+      "Cheers patrons (Norm, Cliff, and Carla appeared in an episode)",
+      "Barney Miller detectives",
+      "Night Court bailiffs",
+      "Taxi drivers from the Sunshine Cab Company"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who co-created the glossy legal drama L.A. Law alongside Steven Bochco?",
+    "options": [
+      "John Masius",
+      "David E. Kelley",
+      "Terry Louise Fisher",
+      "Dick Wolf"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What was the name of the prestigious Century City law firm in L.A. Law?",
+    "options": [
+      "Hamlin, Hamlin & McGill",
+      "McKenzie, Brackman, Chaney and Kuzak",
+      "Florrick & Agos",
+      "Cage & Fish"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who played the dignified senior founding partner Leland McKenzie on L.A. Law?",
+    "options": [
+      "Alan Rachins",
+      "Corbin Bernsen",
+      "Harry Hamlin",
+      "Richard Dysart"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who played the dashing, idealistic lead trial attorney Michael Kuzak on L.A. Law?",
+    "options": [
+      "Corbin Bernsen",
+      "Jimmy Smits",
+      "Blair Underwood",
+      "Harry Hamlin"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which former Partridge Family star played Deputy DA Grace Van Owen on L.A. Law?",
+    "options": [
+      "Jill Eikenberry",
+      "Patricia Wettig",
+      "Michele Greene",
+      "Susan Dey"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who played the slick, womanizing divorce attorney Arnie Becker on L.A. Law?",
+    "options": [
+      "Jimmy Smits",
+      "Alan Rachins",
+      "Corbin Bernsen",
+      "Harry Hamlin"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actor played the fiery, principled young litigator Victor Sifuentes on L.A. Law?",
+    "options": [
+      "Esai Morales",
+      "Blair Underwood",
+      "Jimmy Smits",
+      "Edward James Olmos"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which real-life married couple portrayed attorneys Ann Kelsey and Stuart Markowitz on L.A. Law?",
+    "options": [
+      "Joanna Kerns and Alan Thicke",
+      "Jill Eikenberry and Michael Tucker",
+      "Bonnie Bartlett and William Daniels",
+      "Susan Dey and Harry Hamlin"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What mysterious intimate intimacy technique became a national pop-culture craze after Stuart shared it with Ann?",
+    "options": [
+      "The Venus Butterfly",
+      "The Velvet Whisper",
+      "The California Squeeze",
+      "The Midnight Sonata"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who played the penny-pinching, fastidious managing partner Douglas Brackman Jr.?",
+    "options": [
+      "Richard Dysart",
+      "Michael Tucker",
+      "Larry Drake",
+      "Alan Rachins"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actor won two Primetime Emmy Awards playing the gentle, developmentally disabled clerk Benny Stulwicz?",
+    "options": [
+      "Larry Drake",
+      "Jimmy Smits",
+      "Blair Underwood",
+      "Richard Dysart"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which handsome actor joined the firm in season 2 as ambitious Ivy League associate Jonathan Rollins?",
+    "options": [
+      "Denzel Washington",
+      "Blair Underwood",
+      "Jimmy Smits",
+      "Courtney B. Vance"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which ruthless, manipulative female corporate partner was played by Diana Muldaur in seasons 4 and 5?",
+    "options": [
+      "Gwen Taylor",
+      "Rosalind Shays",
+      "Corrinne Hammond",
+      "Cara Jean Lott"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What shocking, surreal death befell villainous attorney Rosalind Shays in season 5 of L.A. Law?",
+    "options": [
+      "Her brakes were cut on Mulholland Drive",
+      "She was crushed by a falling marble statue in the courthouse",
+      "She stepped into an open elevator shaft and plunged to her death",
+      "She was poisoned by contaminated sushi during a merger"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "How many times did L.A. Law win the Primetime Emmy Award for Outstanding Drama Series (1987, 1989, 1990, 1991)?",
+    "options": [
+      "6 times",
+      "2 times",
+      "3 times",
+      "4 times"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who composed the upbeat, saxophone-laced theme song for L.A. Law featuring a car trunk slamming shut?",
+    "options": [
+      "Bill Conti",
+      "Dave Grusin",
+      "Jan Hammer",
+      "Mike Post"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What car trunk slammed shut in rhythm with the final chord of the L.A. Law opening title sequence?",
+    "options": [
+      "A Rolls-Royce Corniche",
+      "A customized Jaguar trunk bearing the personalized California plate 'LA LAW'",
+      "A Mercedes-Benz 560SL",
+      "A BMW 735i"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which young former Boston attorney joined L.A. Law as a writer and producer, later creating Ally McBeal and Boston Legal?",
+    "options": [
+      "David E. Kelley",
+      "Shawn Ryan",
+      "Aaron Sorkin",
+      "Dick Wolf"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What network broadcast L.A. Law on Thursday nights at 10:00 PM throughout its peak years?",
+    "options": [
+      "NBC",
+      "Fox",
+      "CBS",
+      "ABC"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actress played Abby Perkins, the timid associate who gradually grew into a formidable litigator?",
+    "options": [
+      "Jill Eikenberry",
+      "Susan Dey",
+      "Michele Greene",
+      "Amanda Donohoe"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which British actress played C.J. Lamb, who shared television's first prime-time lesbian kiss with Abby Perkins in 1991?",
+    "options": [
+      "Amanda Donohoe",
+      "Emma Samms",
+      "Jane Leeves",
+      "Stephanie Beacham"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What was the name of the receptionist who worked the front desk of the firm across all eight seasons?",
+    "options": [
+      "Gwen Taylor",
+      "Roxanne Melman",
+      "Debbie Meyers",
+      "Corinne Flavin"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actress portrayed Arnie Becker's devoted, long-suffering secretary Roxanne Melman?",
+    "options": [
+      "Susan Ruttan",
+      "Conchata Ferrell",
+      "Doris Roberts",
+      "Michele Greene"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "How many total seasons did L.A. Law run on NBC between 1986 and 1994?",
+    "options": [
+      "6 seasons",
+      "10 seasons",
+      "8 seasons",
+      "7 seasons"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who were the two female New York City police detectives who headlined the groundbreaking drama Cagney & Lacey?",
+    "options": [
+      "Gina Calabrese and Trudy Joplin",
+      "Laura Holt and Mildred Krebs",
+      "Christine Cagney and Mary Beth Lacey",
+      "Jane Tennison and Kate Longoria"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actress played the single, career-driven detective Christine Cagney for the vast majority of the series?",
+    "options": [
+      "Sharon Gless",
+      "Tyne Daly",
+      "Loretta Swit",
+      "Meg Foster"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actress played the working-class mother and married detective Mary Beth Lacey?",
+    "options": [
+      "Tyne Daly",
+      "Sharon Gless",
+      "Alfre Woodard",
+      "Barbara Bosson"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which M*A*S*H star originally played Christine Cagney in the 1981 made-for-television movie pilot?",
+    "options": [
+      "Dixie Carter",
+      "Meg Foster",
+      "Loretta Swit",
+      "Sharon Gless"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actress played Christine Cagney in the first six-episode season before CBS insisted on recasting her?",
+    "options": [
+      "Meg Foster",
+      "Loretta Swit",
+      "Sharon Gless",
+      "Lee Grant"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Why did CBS executives initially demand that Meg Foster be replaced as Christine Cagney after season 1?",
+    "options": [
+      "They felt she came across as too aggressive and non-traditional for mainstream viewers",
+      "She demanded a higher salary than Tyne Daly",
+      "She was arrested for protesting",
+      "She suffered a vocal cord injury"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What unprecedented Emmy dominance did Tyne Daly and Sharon Gless achieve between 1983 and 1988?",
+    "options": [
+      "They were the only two nominees in their category",
+      "They co-won the award as a tie three times",
+      "They swept both Lead and Supporting categories",
+      "They won the Primetime Emmy for Lead Actress in a Drama Series for 6 consecutive years"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "How many times did Tyne Daly win the Primetime Emmy Award for Outstanding Lead Actress in a Drama for Cagney & Lacey?",
+    "options": [
+      "3 times",
+      "2 times",
+      "4 times",
+      "5 times"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "How many times did Sharon Gless win the Primetime Emmy Award for Outstanding Lead Actress in a Drama for Cagney & Lacey?",
+    "options": [
+      "4 times",
+      "3 times",
+      "1 time",
+      "2 times"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "In what Manhattan police precinct was Cagney & Lacey set?",
+    "options": [
+      "20th Precinct",
+      "14th Precinct (Midtown South)",
+      "9th Precinct",
+      "5th Precinct"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who played Mary Beth Lacey's supportive, stay-at-home construction contractor husband Harvey Lacey?",
+    "options": [
+      "Al Waxman",
+      "John Karlen",
+      "Carl Weathers",
+      "Martin Kove"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who played Lieutenant Bert Samuels, the blustery but fair precinct commander on Cagney & Lacey?",
+    "options": [
+      "Martin Kove",
+      "Sidney Clute",
+      "Al Waxman",
+      "John Karlen"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actor, who later played Sensei John Kreese in The Karate Kid, portrayed Detective Victor Isbecki on Cagney & Lacey?",
+    "options": [
+      "Al Waxman",
+      "John Karlen",
+      "Martin Kove",
+      "Carl Weathers"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What major personal health issue did Christine Cagney battle in a landmark season 6 storyline?",
+    "options": [
+      "Prescription opioid addiction",
+      "Breast cancer",
+      "Depression and bipolar disorder",
+      "Severe alcoholism and substance abuse"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "In what room did Christine Cagney and Mary Beth Lacey frequently hold their most intimate, confidential conversations?",
+    "options": [
+      "The basement evidence locker",
+      "The rooftop fire escape",
+      "The women's restroom at the precinct",
+      "The squad car front seats"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who created Cagney & Lacey as one of the first feminist police dramas in American television history?",
+    "options": [
+      "Susan Harris and Paul Junger Witt",
+      "Barbara Avedon and Barbara Corday",
+      "Linda Bloodworth-Thomason",
+      "Steven Bochco and Terry Louise Fisher"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What television network broadcast Cagney & Lacey throughout its 1982 to 1988 run?",
+    "options": [
+      "Fox",
+      "CBS",
+      "ABC",
+      "NBC"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "How was Cagney & Lacey rescued from cancellation in 1983 after CBS initially dropped the series?",
+    "options": [
+      "An executive order from the FCC",
+      "A massive viewer letter-writing campaign spearheaded by feminist groups and fans",
+      "A major endorsement by President Ronald Reagan",
+      "A grant from the National Endowment for the Arts"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Who composed the energetic brass-and-strings theme song used for Cagney & Lacey from season 2 onward?",
+    "options": [
+      "Bill Conti",
+      "Lalo Schifrin",
+      "Mike Post",
+      "Dave Grusin"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which veteran actor portrayed Christine Cagney's father, former police officer Charlie Cagney?",
+    "options": [
+      "Dick O'Neill",
+      "Charles Durning",
+      "Denver Pyle",
+      "John McIntire"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "How many total seasons of Cagney & Lacey aired on CBS?",
+    "options": [
+      "6 seasons",
+      "8 seasons",
+      "7 seasons",
+      "5 seasons"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What prestigious honor did Cagney & Lacey win in 1985 and 1986 for Outstanding Drama Series?",
+    "options": [
+      "Directors Guild Grand Prix",
+      "Peabody Institutional Award",
+      "Primetime Emmy Award for Outstanding Drama Series",
+      "Golden Globe for Best Miniseries"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actress played veteran desk officer Detective Paul La Guardia on Cagney & Lacey?",
+    "options": [
+      "Al Waxman",
+      "Sidney Clute",
+      "Dick O'Neill",
+      "John Karlen"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "How was veteran actor Sidney Clute honored in every episode of Cagney & Lacey following his death in 1985?",
+    "options": [
+      "A dedication card appeared before every commercial break",
+      "His character was said to be on permanent undercover duty",
+      "His name and billing remained in the opening credits for the rest of the show's run",
+      "A bronze plaque was placed on the stationhouse set"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What was the title of the season 4 episode that directly tackled breast cancer examination and awareness?",
+    "options": [
+      "Lacey's Courage",
+      "The Pink Ribbon",
+      "A Matter of Life",
+      "Mary Beth's Dilemma / Breast Cancer diagnosis storyline"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What was Christine Cagney's career ambition that caused frequent tension with her peers?",
+    "options": [
+      "Earning a law degree to become District Attorney",
+      "Transferring to the FBI Behavioral Analysis Unit",
+      "Becoming the youngest female lieutenant and precinct commander",
+      "Retiring early to write true-crime novels"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which acclaimed television director directed the groundbreaking pilot episode of Hill Street Blues in 1980?",
+    "options": [
+      "Steven Bochco",
+      "Mark Tinker",
+      "Robert Butler",
+      "Gregory Hoblit"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actor portrayed the duplicitous resident Dr. Peter White, unmasked as a serial sexual predator on St. Elsewhere?",
+    "options": [
+      "David Morse",
+      "Terence Knox",
+      "Ed Begley Jr.",
+      "Mark Harmon"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What was the name of the eccentric dwarf litigator played by David Rappaport in multiple episodes of L.A. Law?",
+    "options": [
+      "Arthur Gold",
+      "Oliver Wright",
+      "Murray Stone",
+      "Hamilton Schuyler"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "Which actor played Detective Jonah Newman, who was tragically shot and killed on Cagney & Lacey?",
+    "options": [
+      "Robert Hegyes",
+      "Sidney Clute",
+      "Dan Shor",
+      "Stephen Macht"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "80s TV Shows",
+    "q": "What famous classical opera aria echoed in the background as Donald Westphall packed his office in the St. Elsewhere finale?",
+    "options": [
+      "La Donna e Mobile from Rigoletto",
+      "Casta Diva from Bellini's Norma",
+      "O Mio Babbino Caro from Gianni Schicchi",
+      "Nessun Dorma from Turandot"
+    ],
+    "answer": 1,
+    "d": 3
+  }
+]

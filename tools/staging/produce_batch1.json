@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Fruits & Veggies",
+    "q": "Botanically speaking, which of the following is classified as a true berry?",
+    "options": [
+      "Strawberry",
+      "Raspberry",
+      "Banana",
+      "Blackberry"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why is a strawberry not considered a true botanical berry?",
+    "options": [
+      "It is an aggregate accessory fruit derived from an enlarged receptacle",
+      "It contains multiple woody pits like a stone fruit",
+      "It develops from a single seed within a hard shell",
+      "It is classified as a modified subterranean tuber"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What are the tiny seed-like specks on the exterior surface of a strawberry botanically called?",
+    "options": [
+      "Achenes",
+      "Arils",
+      "Drupelets",
+      "Pips"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Raspberries and blackberries are botanically classified as aggregates of what?",
+    "options": [
+      "Achenes",
+      "Drupelets",
+      "Capsules",
+      "Samaras"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which common salad ingredient is botanically classified as a berry?",
+    "options": [
+      "Tomato",
+      "Carrot",
+      "Celery",
+      "Radish"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Watermelons, cantaloupes, and cucumbers are classified under which specialized type of berry?",
+    "options": [
+      "Hesperidium",
+      "Pepo",
+      "Pome",
+      "Syconium"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which fruit is a specialized berry with a leathery rind and aromatic oil glands called a hesperidium?",
+    "options": [
+      "Orange",
+      "Pomegranate",
+      "Apple",
+      "Avocado"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Botanically, an avocado is categorized as which type of fruit?",
+    "options": [
+      "Stone fruit or drupe",
+      "Accessory pome",
+      "Dehiscent legume",
+      "Single-seeded berry"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which of these kitchen vegetables is technically a botanical berry?",
+    "options": [
+      "Eggplant",
+      "Rhubarb",
+      "Asparagus",
+      "Broccoli"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Bell peppers and chili peppers belong to which botanical fruit classification?",
+    "options": [
+      "Berry",
+      "Drupe",
+      "Pepo",
+      "Pod"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which term describes fleshy fruits with a thin skin and a central stony pit enclosing the seed?",
+    "options": [
+      "Pome",
+      "Drupe",
+      "Legume",
+      "Pepo"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In a stone fruit such as a peach, what is the hardened shell of the pit botanically called?",
+    "options": [
+      "Mesocarp",
+      "Endocarp",
+      "Exocarp",
+      "Pericarp"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which edible tree nut is technically the seed of a drupe, rather than a true botanical nut?",
+    "options": [
+      "Acorn",
+      "Chestnut",
+      "Almond",
+      "Hazelnut"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Botanically, which of the following is classified as a drupe?",
+    "options": [
+      "Grape",
+      "Blueberry",
+      "Currant",
+      "Olive"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What type of fruit is a coconut botanically classified as?",
+    "options": [
+      "Fibrous drupe",
+      "True nut",
+      "Legume pod",
+      "Woody pome"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which tropical fruit with a large flattened stone pit is classified as a drupe?",
+    "options": [
+      "Papaya",
+      "Guava",
+      "Pineapple",
+      "Mango"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "A nectarine is genetically a smooth-skinned variant of which fruit?",
+    "options": [
+      "Plum",
+      "Apricot",
+      "Peach",
+      "Apple"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Cashews develop attached to the bottom of an accessory fruit known as what?",
+    "options": [
+      "Cashew pod",
+      "Cashew cone",
+      "Cashew melon",
+      "Cashew apple"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which of these fruits is a hybrid cross between an apricot and a plum?",
+    "options": [
+      "Pluot",
+      "Tangelo",
+      "Boysenberry",
+      "Kumquat"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Cherries, peaches, plums, and apricots all belong to which genus of flowering plants?",
+    "options": [
+      "Malus",
+      "Citrus",
+      "Prunus",
+      "Ribes"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which botanical fruit type develops from an inferior ovary where the edible flesh is derived mostly from the hypanthium?",
+    "options": [
+      "Drupe",
+      "Pome",
+      "Berry",
+      "Silique"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which of the following is a classic example of a pome fruit?",
+    "options": [
+      "Cherry",
+      "Pecan",
+      "Pear",
+      "Pomegranate"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Quince belongs to which botanical category of fruit?",
+    "options": [
+      "Drupe",
+      "Pome",
+      "Pepo",
+      "Aggregate fruit"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In an apple, what part of the flower expands to form the bulk of the crisp, edible flesh?",
+    "options": [
+      "Ovary wall endocarp",
+      "Embryo sac",
+      "Stigma",
+      "Hypanthium or floral tube"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The medlar (Mespilus germanica), an ancient European fruit eaten after bletting, is classified as a:",
+    "options": [
+      "Drupe",
+      "Pome",
+      "Legume",
+      "True nut"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which small orange fruit native to China is a pome closely related to apples and pears?",
+    "options": [
+      "Kumquat",
+      "Persimmon",
+      "Cape gooseberry",
+      "Loquat"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Apples belong to which broad botanical plant family?",
+    "options": [
+      "Solanaceae",
+      "Cucurbitaceae",
+      "Rosaceae",
+      "Brassicaceae"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What term describes the softening and decaying process required before medlars and persimmons become sweet and palatable?",
+    "options": [
+      "Scarification",
+      "Stratification",
+      "Bletting",
+      "Blanching"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Botanically, the core of an apple surrounding the seeds represents which layer?",
+    "options": [
+      "Exocarp",
+      "Epidermis",
+      "Mesocarp",
+      "Endocarp"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Pears are known for their slightly gritty texture, which is caused by the presence of what structures?",
+    "options": [
+      "Crystalline calcium oxalate",
+      "Sclereids or stone cells",
+      "Undeveloped ovules",
+      "Silica trichomes"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which plant family includes cucumbers, melons, squash, and pumpkins?",
+    "options": [
+      "Solanaceae",
+      "Cucurbitaceae",
+      "Asteraceae",
+      "Fabaceae"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "A pepo is distinguished from a typical berry primarily by which feature?",
+    "options": [
+      "A hard, thick outer rind or exocarp",
+      "A central woody stone",
+      "Seeds displayed on the exterior skin",
+      "A papery floral capsule"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which vegetable is botanically an immature pepo fruit harvested before its rind hardens?",
+    "options": [
+      "Zucchini",
+      "Turnip",
+      "Carrot",
+      "Beetroot"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What botanical structure allows climbing cucurbits like gourds and squashes to cling to supports?",
+    "options": [
+      "Aerial taproots",
+      "Thorns",
+      "Petioles",
+      "Tendrils"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which fruit is classified as a pepo with sweet, aromatic green or orange flesh?",
+    "options": [
+      "Papaya",
+      "Guava",
+      "Mango",
+      "Cantaloupe"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What dried vegetable fiber, often used as an exfoliating bath sponge, comes from the fibrous skeleton of a cucurbit fruit?",
+    "options": [
+      "Coir",
+      "Luffa",
+      "Jute",
+      "Kapok"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Winter squashes like butternut and acorn differ from summer squashes because they are harvested when:",
+    "options": [
+      "The plant is dormant in midwinter",
+      "The seeds are still microscopic",
+      "The rind is fully hardened and mature",
+      "The skin is thin and edible raw"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which cucurbit fruit is famous for having an intensely bitter flavor due to momordicines?",
+    "options": [
+      "Bitter melon",
+      "Spaghetti squash",
+      "Chayote",
+      "Honeydew"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Chayote, a pear-shaped cucurbit common in Latin American cuisine, is notable because each fruit contains:",
+    "options": [
+      "Hundreds of loose seeds",
+      "Only a single seed",
+      "No ovary walls",
+      "A woody pit"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Cucurbitacin compounds in pumpkins and squashes can occasionally cause them to taste excessively:",
+    "options": [
+      "Sour",
+      "Bitter",
+      "Salty",
+      "Spicy"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What is the botanical term for a fruit that develops from the coalescence of many individual flowers in an inflorescence?",
+    "options": [
+      "Aggregate fruit",
+      "Simple fruit",
+      "Multiple fruit",
+      "Accessory fruit"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which tropical fruit is a classic example of a multiple fruit formed from fused flower ovaries?",
+    "options": [
+      "Avocado",
+      "Pineapple",
+      "Kiwi",
+      "Banana"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Botanically, a fig is what specialized inverted floral structure?",
+    "options": [
+      "Syconium",
+      "Silique",
+      "Hesperidium",
+      "Samara"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The crunchy seeds inside a ripe fig are actually what botanical structures?",
+    "options": [
+      "Glandular hairs",
+      "Unfertilized pollen sacs",
+      "Individual achenes produced by tiny internal flowers",
+      "Fleshy arils"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which of the following is a multiple fruit, rather than an aggregate fruit?",
+    "options": [
+      "Blackberry",
+      "Raspberry",
+      "Strawberry",
+      "Mulberry"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Jackfruit and breadfruit belong to which family of plants, known for multiple fruits?",
+    "options": [
+      "Rutaceae",
+      "Solanaceae",
+      "Moraceae",
+      "Arecaceae"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The edible juicy red jewels inside a pomegranate are called what?",
+    "options": [
+      "Arils",
+      "Drupelets",
+      "Pomes",
+      "Achenes"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Botanically, the fruit of a pomegranate is categorized as a thick-skinned berry known as a:",
+    "options": [
+      "Hesperidium",
+      "Pepo",
+      "Legume",
+      "Balausta"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In a pineapple, what does the woody central core represent botanically?",
+    "options": [
+      "The central stem axis of the inflorescence",
+      "A coalesced mega-seed",
+      "The fibrous ovary wall",
+      "An elongated taproot"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which tree produces a large, bumpy green multiple fruit nicknamed the 'hedge apple' or 'monkey ball'?",
+    "options": [
+      "Osage orange",
+      "Pawpaw",
+      "Breadfruit",
+      "Persimmon"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Broccoli, cauliflower, kale, cabbage, and Brussels sprouts are all cultivated varieties of which single wild species?",
+    "options": [
+      "Brassica rapa",
+      "Brassica napus",
+      "Brassica oleracea",
+      "Brassica juncea"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What part of the plant is primarily harvested and consumed in broccoli?",
+    "options": [
+      "Underground root nodules",
+      "Modified leaf petioles",
+      "Swollen cotyledons",
+      "Immature unopened flower buds and thick stems"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In cauliflower, the white edible head (the 'curd') is botanically composed of:",
+    "options": [
+      "Mature dried seed capsules",
+      "Swollen leaf blade mesophyll",
+      "Hypertrophied, proliferated floral meristem tissue",
+      "Underground hypocotyl"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What part of the plant are Brussels sprouts botanically?",
+    "options": [
+      "Enlarged lateral or axillary buds",
+      "Swollen root tubers",
+      "Terminal flower inflorescences",
+      "Modified hypocotyls"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which Brassica oleracea variety is specifically selected for its swollen, bulbous stem above ground?",
+    "options": [
+      "Rutabaga",
+      "Turnip",
+      "Kohlrabi",
+      "Parsnip"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Romanesco broccoli is celebrated in mathematics and botany for displaying what visual geometric pattern?",
+    "options": [
+      "Bilateral tessellation",
+      "Concentric hexagonal tiling",
+      "Golden section hyperbolic nodes",
+      "Fractal self-similarity following Fibonacci spirals"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which Brassica oleracea cultivar was bred through artificial selection emphasizing large, tightly packed terminal buds?",
+    "options": [
+      "Kale",
+      "Broccoli",
+      "Cabbage",
+      "Kohlrabi"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Kale was bred from wild cabbage through selective cultivation favoring which plant part?",
+    "options": [
+      "Swollen roots",
+      "Massive flower buds",
+      "Enlarged leaves",
+      "Thickened stems"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Turnips and bok choy (pak choi) belong to which species of Brassica?",
+    "options": [
+      "Brassica rapa",
+      "Brassica oleracea",
+      "Brassica nigra",
+      "Brassica carinata"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Rutabaga (swede) originated as a natural allotetraploid hybrid between cabbage (Brassica oleracea) and which plant?",
+    "options": [
+      "Turnip (Brassica rapa)",
+      "Black mustard (Brassica nigra)",
+      "Radish (Raphanus sativus)",
+      "Horseradish (Armoracia rusticana)"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What sulfur-containing secondary metabolites give cruciferous vegetables like broccoli and cabbage their pungent aroma and bitter notes?",
+    "options": [
+      "Carotenoids",
+      "Betalains",
+      "Anthocyanins",
+      "Glucosinolates"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "When cruciferous plant tissues are crushed or chewed, glucosinolates are enzymatically converted by myrosinase into:",
+    "options": [
+      "Polyphenols",
+      "Tannins",
+      "Flavonoids",
+      "Isothiocyanates"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What diagram in plant genetics illustrates the genomic relationships and hybridization of six Brassica species?",
+    "options": [
+      "The Punnett Wheel",
+      "The Triangle of U",
+      "The Calvin Hexagon",
+      "The Krebs Octagon"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Collard greens are botanically classified under which cultivar group of Brassica oleracea?",
+    "options": [
+      "Capitata group",
+      "Botrytis group",
+      "Acephala group (meaning 'headless')",
+      "Gemmifera group"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Napa cabbage and Chinese cabbage are cultivars of which species?",
+    "options": [
+      "Brassica oleracea",
+      "Brassica rapa",
+      "Brassica napus",
+      "Brassica juncea"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which part of the plant is consumed when eating a carrot?",
+    "options": [
+      "Stolon",
+      "Rhizome",
+      "Corm",
+      "Taproot"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "A white potato is botanically classified as which specialized plant organ?",
+    "options": [
+      "Root tuber",
+      "Stem tuber",
+      "Bulb",
+      "Taproot"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In contrast to a white potato, a sweet potato is botanically classified as a:",
+    "options": [
+      "Storage root or root tuber",
+      "Stem tuber",
+      "Rhizome",
+      "Corm"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What are the 'eyes' of a common white potato botanically?",
+    "options": [
+      "Mycorrhizal fungi access ports",
+      "Axillary buds or nodes from which new shoots grow",
+      "Root caps for nutrient intake",
+      "Gas exchange stomata"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which culinary aromatic is botanically an underground creeping horizontal stem known as a rhizome?",
+    "options": [
+      "Turnip",
+      "Garlic",
+      "Ginger",
+      "Parsnip"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What botanical structure forms the edible layers of an onion bulb?",
+    "options": [
+      "Swollen primary taproot tissue",
+      "Compressed woody stems",
+      "Fleshy modified leaves or leaf bases",
+      "Fused pedicels"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Garlic cloves are botanically individual:",
+    "options": [
+      "Dried seeds",
+      "Underground berries",
+      "Root nodules",
+      "Bulblets or secondary storage buds"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The edible stalk of celery is botanically which plant part?",
+    "options": [
+      "Main stem axis",
+      "Taproot",
+      "Petiole (leaf stalk)",
+      "Floral peduncle"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Like celery, rhubarb stalks are eaten for which anatomical plant structure?",
+    "options": [
+      "Stolons",
+      "Petioles",
+      "Roots",
+      "True stems"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why are rhubarb leaf blades strictly avoided and considered toxic for human consumption?",
+    "options": [
+      "They produce lethal amounts of cyanide glycosides",
+      "They contain extreme amounts of solanine alkaloid",
+      "They are coated with concentrated capsaicin",
+      "They contain dangerously high concentrations of oxalic acid and oxalates"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Asparagus spears harvested in the spring are botanically:",
+    "options": [
+      "Flower petals",
+      "Young emergent stems or shoots",
+      "Taproots",
+      "Swollen leaf midribs"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What plant part is eaten when consuming a globe artichoke?",
+    "options": [
+      "Swollen underground corm",
+      "Fleshy petiole bundle",
+      "Mature seed pod",
+      "Immature composite flower bud including the fleshy receptacle and involucral bracts"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Capers used in Mediterranean cooking are botanically:",
+    "options": [
+      "Dried berries of an evergreen shrub",
+      "Fermented immature seeds",
+      "Pickled root nodules",
+      "Unopened flower buds of Capparis spinosa"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Taro and water chestnuts are edible examples of which swollen underground stem base?",
+    "options": [
+      "Taproot",
+      "Haustorium",
+      "Bulbil",
+      "Corm"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "A Jerusalem artichoke (sunchoke) is the edible tuber of a plant belonging to which family?",
+    "options": [
+      "Solanaceae (Nightshade family)",
+      "Apiaceae (Carrot family)",
+      "Liliaceae (Lily family)",
+      "Asteraceae (Sunflower family)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which botanical fruit type splits open along two seams at maturity and is characteristic of the Fabaceae family?",
+    "options": [
+      "Silique",
+      "Capsule",
+      "Legume or pod",
+      "Follicle"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What unique botanical phenomenon causes peanut pods to mature underground?",
+    "options": [
+      "Vivipary",
+      "Parthenocarpy",
+      "Geocarpy",
+      "Epigeal germination"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "After peanut flowers are pollinated, what elongated stalk pushes the developing pod into the soil?",
+    "options": [
+      "Stolon",
+      "Tendril",
+      "Rachis",
+      "Peg"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Potatoes, tomatoes, eggplants, and peppers all belong to which flowering plant family?",
+    "options": [
+      "Solanaceae",
+      "Brassicaceae",
+      "Cucurbitaceae",
+      "Rosaceae"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What toxic glycoalkaloid develops in potatoes when exposed to light, turning them green?",
+    "options": [
+      "Capsaicin",
+      "Solanine",
+      "Amygdalin",
+      "Myristicin"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The green color that appears on sun-exposed potatoes is due to harmless chlorophyll, but indicates the simultaneous synthesis of:",
+    "options": [
+      "Cyanogenic glucosides",
+      "Ricin",
+      "Aconitine",
+      "Solanine and chaconine"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Carrots, parsnips, celery, fennel, and parsley belong to which botanical family characterized by umbrella-like flower clusters?",
+    "options": [
+      "Asteraceae",
+      "Fabaceae",
+      "Apiaceae (Umbelliferae)",
+      "Amaranthaceae"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which member of the Apiaceae family produces an enlarged, bulb-like base of overlapping leaf sheaths with an anise flavor?",
+    "options": [
+      "Parsnip",
+      "Florence fennel",
+      "Celeriac",
+      "Dill"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Celeriac is a variety of celery specifically cultivated for its:",
+    "options": [
+      "Swollen hypocotyl and taproot",
+      "Crisp leafy petioles",
+      "Edible seeds",
+      "Aromatic flower buds"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Spinach, Swiss chard, and beetroot belong to which plant family?",
+    "options": [
+      "Brassicaceae",
+      "Solanaceae",
+      "Lamiaceae",
+      "Amaranthaceae"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What type of individual fruit is a single kernel of sweet corn botanically classified as?",
+    "options": [
+      "Achene",
+      "Caryopsis (grain)",
+      "Berry",
+      "Drupelet"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In an ear of corn, what botanical structures are the long silky strands?",
+    "options": [
+      "Male pollen filaments",
+      "Modified protective bract hairs",
+      "Elongated styles and stigmas of female flowers",
+      "Fibrous vascular bundles"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Okra pods belong to which botanical plant family, famous for hibiscus and cotton?",
+    "options": [
+      "Solanaceae",
+      "Malvaceae",
+      "Fabaceae",
+      "Cucurbitaceae"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The slimy, gelatinous texture produced when cooking okra is caused by high levels of:",
+    "options": [
+      "Mucilage",
+      "Pectin",
+      "Latex",
+      "Starch"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which vegetable consists of swollen, crisp subterranean leaf petiole bases and is often eaten in salads?",
+    "options": [
+      "Rutabaga",
+      "Endive",
+      "Daikon",
+      "Horseradish"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What part of the leek is primarily used in fine cuisine?",
+    "options": [
+      "The blanched, tender lower leaf sheath cylinder",
+      "The tough fibrous taproot",
+      "The flowering umbel",
+      "The woody seed capsule"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which fruit is known for containing actinidain, an enzyme that breaks down protein and curdles dairy?",
+    "options": [
+      "Apple",
+      "Kiwi",
+      "Orange",
+      "Grape"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Pineapples contain which proteolytic enzyme mixture widely used as a meat tenderizer?",
+    "options": [
+      "Papain",
+      "Ficin",
+      "Bromelain",
+      "Actinidain"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Papaya latex contains which commercial enzyme used in digestive aids and meat tenderizers?",
+    "options": [
+      "Papain",
+      "Bromelain",
+      "Ptyalin",
+      "Pepsin"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The scientific name for the common cultivated apple tree is:",
+    "options": [
+      "Malus domestica",
+      "Pyrus communis",
+      "Prunus persica",
+      "Cydonia oblonga"
+    ],
+    "answer": 0,
+    "d": 1
+  }
+]

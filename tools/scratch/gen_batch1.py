@@ -1,0 +1,631 @@
+import json
+
+# 100 questions for Batch 1 (Seasons 1-4 Classic Textual & Episode Lore)
+# Distribution: 25 answer 0, 25 answer 1, 25 answer 2, 25 answer 3
+# Difficulty: 30 d1, 40 d2, 30 d3
+
+raw_questions = [
+    # --- Group 0: Answer index 0 (25 questions) ---
+    {
+        "q": "What is the name of the dog the Simpsons adopt in the series premiere, 'Simpsons Roasting on an Open Fire'?",
+        "options": ["Santa's Little Helper", "Laddie", "Santos L. Halper", "Snuggles"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Bart the Genius', what fake word does Bart play in Scrabble, defining it as 'a fat, bald North American ape'?",
+        "options": ["Kwyjibo", "Cromulent", "Embiggen", "Kwimby"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Marge vs. the Monorail', what catchy name does Homer give to the family of opossums living in the monorail cockpit?",
+        "options": ["Bitey", "Snappy", "Scratchy", "Pokey"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Homer at the Bat', which Springfield power plant softball ringer is kicked off the team by Mr. Burns for refusing to trim his non-existent sideburns?",
+        "options": ["Don Mattingly", "Wade Boggs", "Ken Griffey Jr.", "Darryl Strawberry"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Last Exit to Springfield', what orthodontic treatment does Lisa need that leads Homer to fight for the union dental plan?",
+        "options": ["Braces", "Headgear", "A retainer", "Wisdom teeth extraction"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Mr. Plow', what is the commercial jingle phone number to call Homer's snow plow service?",
+        "options": ["KL5-3226", "KL5-4796", "555-PLOW", "KL5-0113"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'Lisa's Substitute', what note does Mr. Bergstrom leave for Lisa before departing on the train?",
+        "options": ["You are Lisa Simpson.", "Always follow your dreams.", "Never stop playing saxophone.", "Springfield will miss you."],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Flaming Moe's', what secret ingredient did Homer discover turns an ordinary mixed drink into a Flaming Homer?",
+        "options": ["Children's cough syrup", "Tabasco sauce", "Duff Beer foam", "Baking soda"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Kamp Krusty', who is left in charge of running the miserable camp on Krusty's behalf?",
+        "options": ["Mr. Black", "Sideshow Mel", "Corporal Punishment", "Miss Hoover"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'A Streetcar Named Marge', what role does Homer play in the community musical production of 'A Streetcar Named Desire'?",
+        "options": ["Pablo", "Stanley Kowalski", "Mitch", "Harold Mitchell"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'Bart the General', who helps Bart organize the neighborhood kids into an army against Nelson Muntz?",
+        "options": ["Grampa Simpson and Herman Hermann", "Chief Wiggum and Lou", "Principal Skinner and Otto", "Ned Flanders and Moe"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'One Fish, Two Fish, Blowfish, Blue Fish', what delicacy does Homer believe has lethally poisoned him?",
+        "options": ["Fugu", "Uni", "Wasabi", "Eel liver"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Homer Defined', what phrase is officially added to the dictionary after Homer accidentally prevents a nuclear meltdown?",
+        "options": ["To pull a Homer", "Homer's law", "The Simpson slip", "D'oh factor"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'Radio Bart', what novelty microphone brand does Homer buy for Bart's tenth birthday?",
+        "options": ["Superstar Celebrity Microphone", "Mr. Microphone 2000", "Sing-a-Long Wonder", "Karaoke Kid Mic"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'Like Father, Like Clown', what is Krusty the Clown's legal birth name?",
+        "options": ["Herschel Shmoikel Pinchas Yerucham Krustofsky", "Rory B. Bellows", "Chester J. Lampwick", "Arthur Fortune"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'The Telltale Head', what monument does Bart decapitate to impress the town bullies?",
+        "options": ["The statue of Jebediah Springfield", "The founder's obelisk", "The Mayor Quimby bust", "The pioneer soldier monument"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Lisa the Greek', how does Homer use Lisa's analytical gifts during football season?",
+        "options": ["To pick winning football games for sports betting", "To balance the household budget", "To calculate bowling league averages", "To win fantasy baseball drafts"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Separate Vocations', what career does the aptitude test suggest Lisa is best suited for?",
+        "options": ["Homemaker", "Architect", "Saxophonist", "School principal"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'I Love Lisa', what Valentine's Day card message does Lisa give to Ralph Wiggum out of pity?",
+        "options": ["I Ch-Ch-Choose You!", "Bee Mine!", "You Are A-Peeling!", "Let's Taco 'Bout Love!"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Whacking Day', what annual local Springfield holiday involves driving snakes into the center of town and beating them?",
+        "options": ["Whacking Day", "Snake Stomp", "Reptile Roundup", "Serpent Sunday"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Duffless', what classic experiment does Bart conduct on Lisa's pet hamster compared to Bart himself?",
+        "options": ["Testing who is smarter: a hamster or Bart Simpson", "Determining if beer stunts growth", "Measuring reaction times to lemon juice", "Testing who can navigate a maze faster"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'Homer the Heretic', who does Homer converse with in dreams after deciding to skip church on Sundays?",
+        "options": ["God", "Saint Peter", "Moses", "Abraham"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'Brother from the Same Planet', what organization provides Bart with a cool surrogate older brother named Tom?",
+        "options": ["The Bigger Brothers program", "The Mentor League", "Big Pals Association", "Father Figures USA"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'Selma's Choice', what spoiled theme park sandwich does Homer refuse to throw away until Marge forces him to?",
+        "options": ["A ten-foot hoagie from the company picnic", "A meatball sub from Luigi's", "A chili dog from Krusty Burger", "A turkey club from the Springfield Deli"],
+        "answer": 0,
+        "d": 3
+    },
+    {
+        "q": "In 'Lisa's First Word', what is Maggie's very first spoken word, voiced by Elizabeth Taylor in a cameo recording?",
+        "options": ["Daddy", "Bart", "Mama", "D'oh"],
+        "answer": 0,
+        "d": 1
+    },
+
+    # --- Group 1: Answer index 1 (25 questions) ---
+    {
+        "q": "In 'Krusty Gets Busted', who actually framed Krusty the Clown for robbing the Kwik-E-Mart?",
+        "options": ["Fat Tony", "Sideshow Bob", "Snake Jailbird", "Mr. Teeny"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Homer at the Bat', what symptom sidelines pitcher Roger Clemens from playing in the championship game?",
+        "options": ["Gigantism from nerve tonic", "Hypnotic trance thinking he is a chicken", "Radiation poisoning", "A bar fight with Wade Boggs"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Marge vs. the Monorail', who arrives in Springfield to sell the town a faulty monorail transit system?",
+        "options": ["Hank Scorpio", "Lyle Lanley", "Artie Ziff", "Lionel Hutz"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Mr. Plow', what rival snow plowing business does Barney Gumble start, sparking a feud with Homer?",
+        "options": ["The Snow King", "Plow King", "Blizzard Buster", "Mr. Snow"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Bart the Lover', under what romantic pen name does Bart write love letters to Mrs. Krabappel using hockey star Gordie Howe's photo?",
+        "options": ["Pierre L'Amour", "Woodrow", "Jacques Chevalier", "Romeo Henderson"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Homer's Triple Bypass', which eccentric, budget-rate physician performs Homer's open-heart surgery for $129.95?",
+        "options": ["Dr. Julius Hibbert", "Dr. Nick Riviera", "Dr. Marvin Monroe", "Dr. Wolfe"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Oh Brother, Where Art Thou?', who is revealed to be Homer's wealthy half-brother running Powell Motors in Detroit?",
+        "options": ["Chet Simpson", "Herbert Powell", "Frank Simpson", "Hugo Simpson"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Simpson and Delilah', what miracle hair growth formula does Homer charge to the nuclear plant's medical insurance policy?",
+        "options": ["H-Growth", "Dimoxinil", "Follicle-Max", "Bald-Be-Gone"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Two Cars in Every Garage and Three Eyes on Every Fish', what is the nickname of the three-eyed mutant fish caught near the plant?",
+        "options": ["Gilly", "Blinky", "Sparky", "Finny"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Dead Putting Society', Homer and Ned Flanders place a bet on whose son will win a miniature golf tournament at what local attraction?",
+        "options": ["Putt-Putt Palace", "Sir Putt-A-Lot's Merrie Olde Fun Centre", "Goofy Golf Land", "Castle Putt"],
+        "answer": 1,
+        "d": 3
+    },
+    {
+        "q": "In 'Bart the Daredevil', where does Homer accidentally crash in Bart's skateboard stunt after falling off the ambulance twice?",
+        "options": ["Lake Springfield", "Springfield Gorge", "The tire fire", "Widow's Peak ravine"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Three Men and a Comic Book', which coveted comic book do Bart, Milhouse, and Martin pool their money to purchase for $100?",
+        "options": ["Radioactive Man #100", "Radioactive Man #1", "Spider-Pig #1", "Fallout Boy #1"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Blood Feud', which family member has the rare double O-negative blood type needed to save Mr. Burns' life?",
+        "options": ["Homer", "Bart", "Lisa", "Maggie"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Stark Raving Dad', who does Homer meet in a mental institution who claims to be Michael Jackson?",
+        "options": ["John Smith", "Leon Kompowsky", "Frank Grimes", "George Bush"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'When Flanders Failed', what specialty retail store does Ned Flanders open at the Springfield Mall for southpaws?",
+        "options": ["Lefties Only", "The Leftorium", "Sinister Supplies", "Southpaw Central"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Bart the Murderer', which Springfield mob boss hires Bart as his favorite bartender at the Legitimate Businessman's Social Club?",
+        "options": ["Don Vittorio", "Fat Tony", "Frankie the Squealer", "Legs"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Colonel Homer', what is the name of the country-western singer whose career Homer manages at the Beer 'N' Brawl?",
+        "options": ["Mary Spuckler", "Lurleen Lumpkin", "Tammy Wynette", "Amber Simpson"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Black Widower', which aunt does Sideshow Bob marry as part of an elaborate scheme to blow her up for inheritance money?",
+        "options": ["Patty", "Selma", "Gladys", "Jacqueline"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'The Otto Show', which rock band's concert do Homer and Bart attend, where Otto is fired after crashing the bus?",
+        "options": ["Aerosmith", "Spinal Tap", "The Who", "Rolling Stones"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'New Kid on the Block', what all-you-can-eat seafood restaurant does Homer sue after they kick him out at closing time?",
+        "options": ["Captain Jack's Oyster Bar", "The Frying Dutchman", "Barnacle Bill's", "The Salty Sailor"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Krusty Gets Kancelled', what crude wooden dummy host briefly replaces Krusty as Springfield's top afternoon TV sensation?",
+        "options": ["Happy Little Elf", "Gabbo", "Bongo", "Worker and Parasite"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Marge in Chains', which judge presides over Marge's trial for accidentally shoplifting a bottle of Bourbon from the Kwik-E-Mart?",
+        "options": ["Judge Constance Harm", "Judge Roy Snyder", "Lionel Hutz", "Judge Vance"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'The Front', whose name do Bart and Lisa submit on their Itchy & Scratchy scripts after studio executives dismiss kids' submissions?",
+        "options": ["Homer Simpson", "Grampa Abraham Simpson", "Ned Flanders", "Patty Bouvier"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Lisa the Beauty Queen', what beauty title does Lisa inherit after Amber Dempsey is struck by lightning?",
+        "options": ["Miss Springfield", "Little Miss Springfield", "Junior Miss America", "Miss Duff Beer"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Brush with Greatness', which former Beatle responds to Marge's fan portrait sent twenty years earlier?",
+        "options": ["Paul McCartney", "Ringo Starr", "George Harrison", "John Lennon"],
+        "answer": 1,
+        "d": 1
+    },
+
+    # --- Group 2: Answer index 2 (25 questions) ---
+    {
+        "q": "In 'Marge vs. the Monorail', which celebrity guest star makes an unhelpful cameo at the monorail opening, claiming 'the cosmic ballet goes on'?",
+        "options": ["William Shatner", "Mark Hamill", "Leonard Nimoy", "George Takei"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'Homer at the Bat', which player hits the game-winning walk-off home run with the bases loaded after Homer is hit in the head?",
+        "options": ["Ken Griffey Jr.", "Darryl Strawberry", "Homer Simpson", "Jose Canseco"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'Last Exit to Springfield', what union leader disappeared under mysterious circumstances before Homer became union head?",
+        "options": ["Jimmy Hoffa", "Frankie the Fish", "Rex Banner", "Chester J. Lampwick"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "In 'Mr. Plow', what jacket emblem convinces Homer to become a snowplow driver?",
+        "options": ["A gold medal", "A snow leopard", "The Mr. Plow embroidery on satin", "A chrome shovel"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Moaning Lisa', which blues saxophonist mentors Lisa and introduces her to emotional music on a bridge?",
+        "options": ["Coltrane Davis", "Muddy Rivers", "Bleeding Gums Murphy", "Blind Willie Johnson"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'Life on the Fast Lane', what is the name of the charming French bowling instructor who tries to seduce Marge?",
+        "options": ["Pierre", "Jean-Luc", "Jacques", "Francois"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Bart Gets an \"F\"', what sudden weather event gives Bart an extra day to study for his history exam?",
+        "options": ["A thunderstorm", "A flash flood", "A massive blizzard (Snow Day)", "A hurricane"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'Dancin' Homer', what major-league baseball team hires Homer as their mascot after his success with the Springfield Isotopes?",
+        "options": ["Shelbyville Sharks", "Shelbyville Shelbyvillians", "Capital City Capitals", "Ogdenville Outlaws"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Homer vs. Lisa and the 8th Commandment', what illicit service does Homer have illegally installed in his home for $50?",
+        "options": ["Free long-distance phone lines", "High-speed water line", "Illegal cable television hookup", "Free tapping of power lines"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'Principal Charming', whom does Homer mistakenly set up on a blind date with Principal Skinner instead of Aunt Selma?",
+        "options": ["Mrs. Krabappel", "Jacqueline Bouvier", "Aunt Patty", "Luann Van Houten"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Bart's Dog Gets an \"F\"', what mischievous habit threatens to cause Santa's Little Helper to be given away unless he passes obedience school?",
+        "options": ["Biting the mailman", "Digging up the lawn", "Chewing up Homer's expensive items (including assassin sneakers)", "Barking all night"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Old Money', what does Grampa Simpson do with the $106,000 inherited from his deceased girlfriend Beatrice Simmons?",
+        "options": ["Buys a luxury sports car", "Donates it to the Springfield casino", "Refurbishes the Springfield Retirement Castle", "Gives it to Bart to buy comic books"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'The War of the Simpsons', what legendary monstrous catfish does Homer obsessively try to catch at Catfish Lake?",
+        "options": ["Big Mouth", "El Diablo", "General Sherman", "Old Stinker"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Mr. Lisa Goes to Washington', what corruption does Lisa witness in Washington D.C. that inspires her scathing contest essay?",
+        "options": ["A senator stealing campaign funds", "The President sleeping during a summit", "Congressman Bob Arnold accepting a bribe from a timber lobbyist", "Supreme Court justices fixing court cases"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Lisa's Pony', what second job does Homer take at night to afford the upkeep on Lisa's pony, Princess?",
+        "options": ["Security guard at the nuclear plant", "Short-order cook at Krusty Burger", "Night clerk at the Kwik-E-Mart", "Cab driver for Springfield Taxi"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'Saturdays of Thunder', what is the name of Bart's homemade soapbox derby racer constructed with Homer?",
+        "options": ["The Road Rocket", "Speedy Gonzales", "The Li'l Lightnin'", "The Springfield Streak"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "In 'Burns Verkaufen der Kraftwerk', which foreign businessmen buy the Springfield Nuclear Power Plant for $100 million?",
+        "options": ["Japanese executives", "Swiss bankers", "German investors", "Saudi princes"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Brother, Can You Spare Two Dimes?', what invention does Herb Powell create with Homer's $2,000 loan to rebuild his fortune?",
+        "options": ["The Homer Car", "Automatic shoe laces", "A baby-speech translator", "An electric can opener"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'Itchy & Scratchy: The Movie', what punishment does Homer enforce against Bart for neglecting to watch Maggie?",
+        "options": ["Grounding him for six months", "Confiscating his skateboard forever", "Forbidding him from ever seeing the Itchy & Scratchy movie", "Making him attend military school"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'Marge Gets a Job', what singer does Mr. Burns kidnap to sing a private romantic concert for Marge?",
+        "options": ["Barry White", "Frank Sinatra", "Tom Jones", "Tony Bennett"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Some Enchanted Evening', what is the alias of the notorious 'Babysitter Bandit' who ties up Bart and Lisa?",
+        "options": ["Lucille Botzcowski", "Ruth Powers", "Ms. Pennycandy", "Agnes Skinner"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'There's No Disgrace Like Home', what method does Dr. Marvin Monroe use in an attempt to rehabilitate the dysfunctional Simpson family?",
+        "options": ["Hypnotherapy", "Group singing", "Aversion shock therapy", "Rorschach inkblot tests"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Homer's Night Out', what gadget does Bart use to take an embarrassing photo of Homer dancing with belly dancer Princess Kashmir?",
+        "options": ["A high-tech camcorder", "A polaroid instant camera", "A spy miniature spy-camera from a novelty catalogue", "A disposable 35mm camera"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "In 'Itchy & Scratchy & Marge', what classic Renaissance statue arrives in Springfield that townspeople protest against nudity?",
+        "options": ["The Thinker", "Venus de Milo", "Michelangelo's David", "The Discus Thrower"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'Bart Gets Hit by a Car', what does Dr. Nick Riviera promise attorney Lionel Hutz to exaggerate Bart's personal injury claim?",
+        "options": ["A broken spine certificate", "Fake X-rays from another hospital", "A diagnosis of 'severe brain trauma' and 'diminished wit'", "Phony psychiatric evaluations"],
+        "answer": 2,
+        "d": 3
+    },
+
+    # --- Group 3: Answer index 3 (25 questions) ---
+    {
+        "q": "In 'Homer at the Bat', which legendary Boston Red Sox third baseman is knocked unconscious in a bar debate over Britain's greatest Prime Minister?",
+        "options": ["Ozzie Smith", "Steve Sax", "Ken Griffey Jr.", "Wade Boggs"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'Last Exit to Springfield', what rhythmic phrase does Homer repeat in his mind while agonizing over Lisa's orthodontic care?",
+        "options": ["Duff Beer / Free Pretzel", "Donut shop / Coffee break", "Save the union / Stop the plant", "Dental plan / Lisa needs braces"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'Marge vs. the Monorail', what stops the out-of-control monorail train from crashing into Springfield?",
+        "options": ["The auxiliary brakes kick in", "Barney catches it with his plow", "Chief Wiggum shoots the power cable", "An anchor made from the giant 'M' catches a giant doughnut"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'Mr. Plow', what iconic guest star appears with Homer in his late-night TV commercial, stating that they are 'in the snowplow business'?",
+        "options": ["Joe Namath", "Tony Bennett", "Leonard Nimoy", "Linda Ronstadt"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Kamp Krusty', what imitation food substance are the campers forced to eat every day by the counselors?",
+        "options": ["Soy slush", "Gray nutrient paste", "Soylent green", "Krustified imitation gruel"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'A Streetcar Named Marge', what baby daycare facility does Maggie attend that strictly forbids pacifiers?",
+        "options": ["Happy Little Tots", "Springfield Infant Academy", "Wee Care Daycare", "The Ayn Rand School for Tots"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'I Married Marge', where did Homer and Marge get married in 1980 after discovering Marge was pregnant with Bart?",
+        "options": ["The Springfield Chapel", "First Church of Springfield", "Marge's parents' living room", "The Shotgun Pete's 24-Hour Wedding Chapel"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'The Way We Was', how did Homer and Marge first meet in high school detention in 1974?",
+        "options": ["Homer slipped on a puddle in front of her", "They both skipped chemistry class", "Marge dropped her textbooks in the hallway", "Homer smoked in the boys' room and Marge burned a bra in a feminist rally"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Bart vs. Thanksgiving', what centerpiece made by Lisa does Bart throw into the fireplace, causing him to run away from home?",
+        "options": ["A papier-mache turkey", "A pumpkin carving of the family", "A macaroni portrait of George Washington", "A tribute to great women in American history"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Treehouse of Horror I', which classic Edgar Allan Poe poem is recited with Homer as the narrator and Bart as the raven?",
+        "options": ["Annabel Lee", "The Tell-Tale Heart", "The Cask of Amontillado", "The Raven"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'Treehouse of Horror II', what monkey paw wish does Homer make that immediately backfires by being dry?",
+        "options": ["A turkey club sandwich", "A million dollars", "World peace", "A turkey sandwich on rye"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "In 'Treehouse of Horror III', what malevolent switch on the Talking Krusty Doll does the shopkeeper realize was accidentally selected?",
+        "options": ["Broken / Working", "Angry / Calm", "Loud / Quiet", "Good / Evil"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'So It's Come to This: A Simpsons Clip Show', what beverage can does Bart shake in an industrial paint mixer as an April Fools' prank on Homer?",
+        "options": ["Red Tick Beer", "Mountain Dew", "Buzz Cola", "Duff Beer"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Flaming Moe's', which famous rock band serves as the regular house band once Moe's tavern becomes the hottest nightspot in town?",
+        "options": ["The Rolling Stones", "The Who", "Red Hot Chili Peppers", "Aerosmith"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'New Kid on the Block', what is the name of the older teenage girl next door with whom Bart falls helplessly in love?",
+        "options": ["Allison Taylor", "Jessica Lovejoy", "Darcy", "Laura Powers"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Homer the Heretic', who rushes into the burning Simpson house to pull an unconscious Homer to safety?",
+        "options": ["Chief Wiggum", "Barney Gumble", "Reverend Lovejoy", "Ned Flanders"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Selma's Choice', which animated mascot welcomes visitors to Duff Gardens with the song 'Duff Beer for me, Duff Beer for you'?",
+        "options": ["Duffman", "Blinky the Fish", "Capital City Goofball", "The Little Seven Duffs"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "In 'Whacking Day', which soul superstar helps Lisa save the town's snakes by playing 'Can't Get Enough of Your Love, Babe' to vibrate them safely into the house?",
+        "options": ["James Brown", "Marvin Gaye", "Stevie Wonder", "Barry White"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'The Call of the Simpsons', what cryptid creature does the tabloid media mistake a mud-covered Homer for in the woods?",
+        "options": ["The Jersey Devil", "Chupacabra", "Yeti", "Bigfoot"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'Krusty Gets Kancelled', which legendary late-night talk show host's ventriloquist puppet Gable Houth is rejected by Bart and Lisa before they recruit other stars?",
+        "options": ["David Letterman", "Jay Leno", "Conan O'Brien", "Johnny Carson"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "In 'Bart's Friend Falls in Love', what magic toy eight ball predicts that Bart and Milhouse will remain best friends forever?",
+        "options": ["Mystic Eight", "Fortune Orb", "Clairvoyant Cue", "Magic 8-Ball"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Stark Raving Dad', what song do Bart and Leon Kompowsky write and perform to celebrate Lisa's eighth birthday?",
+        "options": ["Lisa, It's Your Birthday", "Sweet Lisa", "The Blues for Lisa", "Happy Birthday Lisa"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'Homer's Odyssey', what new position at the Springfield Nuclear Power Plant is Homer awarded after protesting for public safety?",
+        "options": ["Chief Engineer", "Cooling Tower Operator", "Senior Executive VP", "Safety Inspector (Sector 7G)"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'Radio Bart', what famous British rock star helps organize the celebrity charity recording 'We're Sending Our Love Down the Well'?",
+        "options": ["Elton John", "David Bowie", "Paul McCartney", "Sting"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'Lisa's Substitute', what pseudonym did Hollywood star Dustin Hoffman use in the episode's closing credits for voicing Mr. Bergstrom?",
+        "options": ["John Jay Smith", "Albert Brooks", "Alan Smithee", "Sam Etic"],
+        "answer": 3,
+        "d": 2
+    }
+]
+
+# Ensure every item has "show": "The Simpsons"
+output = []
+for q in raw_questions:
+    output.append({
+        "show": "The Simpsons",
+        "q": q["q"],
+        "options": q["options"],
+        "answer": q["answer"],
+        "d": q["d"]
+    })
+
+with open("tools/staging/simpsons_batch1.json", "w", encoding="utf-8") as f:
+    json.dump(output, f, indent=1)
+
+print(f"Generated {len(output)} questions for batch 1.")

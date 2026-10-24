@@ -1,0 +1,630 @@
+import json
+
+# 100 questions for Batch 4 (Metatextual: Cast, Crew, Writers, Showrunners, Production, Guest Stars S1-10)
+# Distribution: 25 answer 0, 25 answer 1, 25 answer 2, 25 answer 3
+# Difficulty: 30 d1, 40 d2, 30 d3
+
+raw_questions = [
+    # --- Group 0: Answer index 0 (25 questions) ---
+    {
+        "q": "Which member of the core Simpsons voice cast voices Homer, Grampa, Barney, Krusty, and Groundskeeper Willie?",
+        "options": ["Dan Castellaneta", "Hank Azaria", "Harry Shearer", "Phil Hartman"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Which prolific writer wrote 59 episodes of The Simpsons and was famous for having his own booth from a demolished diner installed in his home?",
+        "options": ["John Swartzwelder", "George Meyer", "Jon Vitti", "David Mirkin"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "Which showrunners steered The Simpsons through Seasons 7 and 8, known for grounded, character-driven emotional stories?",
+        "options": ["Bill Oakley and Josh Weinstein", "Al Jean and Mike Reiss", "David Mirkin", "Mike Scully"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "Which Hollywood actor provided the voice of the suave supervillain Hank Scorpio in 'You Only Move Twice'?",
+        "options": ["Albert Brooks", "Gene Hackman", "Alec Baldwin", "Dustin Hoffman"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Which episode of The Simpsons won the Primetime Emmy Award for Outstanding Animated Program in 1990, becoming the show's first Emmy win?",
+        "options": ["Life on the Fast Lane", "Simpsons Roasting on an Open Fire", "Bart the General", "Moaning Lisa"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "What legendary composer wrote the iconic theme music for The Simpsons in just two days in 1989?",
+        "options": ["Danny Elfman", "Alf Clausen", "Hans Zimmer", "Randy Newman"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "What variety series first introduced the animated Simpson family shorts starting in April 1987?",
+        "options": ["The Tracey Ullman Show", "In Living Color", "Saturday Night Live", "The Carol Burnett Show"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Which actress originally auditioned for the role of Lisa Simpson before being cast as Bart Simpson?",
+        "options": ["Nancy Cartwright", "Yeardley Smith", "Julie Kavner", "Pamela Hayden"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Which regular Simpsons voice actress voices ONLY Lisa Simpson and no other regular recurring character on the series?",
+        "options": ["Yeardley Smith", "Nancy Cartwright", "Julie Kavner", "Marcia Wallace"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Which animation studio was responsible for producing the animation for the first three seasons of The Simpsons before Film Roman took over?",
+        "options": ["Klasky Csupo", "Filmation", "Hanna-Barbera", "Rough Draft Studios"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "Which country music icon provided the voice of the hallucinatory Space Coyote in 'El Viaje Misterioso de Nuestro Jomer'?",
+        "options": ["Johnny Cash", "Waylon Jennings", "Willie Nelson", "Kris Kristofferson"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "What condition did Paul and Linda McCartney demand from the showrunners before agreeing to guest star in 'Lisa the Vegetarian'?",
+        "options": ["Lisa had to remain a vegetarian for the entire run of the series", "The episode had to promote animal rights charities", "A Beatles song had to play over the credits", "Homer had to apologize to Lisa on camera"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Which writer created the small, ultra-rare comedy zine 'Army Man' and is widely regarded by colleagues as the comedic genius behind the show's golden age tone?",
+        "options": ["George Meyer", "John Swartzwelder", "David X. Cohen", "Ken Keeler"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "Which showrunner served as sole executive producer for Seasons 5 and 6, known for introducing a faster pace and surreal visual comedy?",
+        "options": ["David Mirkin", "Mike Scully", "Sam Simon", "James L. Brooks"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "Which recurring comedic actor voiced both washed-up actor Troy McClure and incompetent lawyer Lionel Hutz until his death in 1998?",
+        "options": ["Phil Hartman", "Jon Lovitz", "Jan Hooks", "Joe Mantegna"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Which Simpsons episode served as the milestone 200th episode of the series, broadcast during Season 9 in 1998?",
+        "options": ["Trash of the Titans", "The Principal and the Pauper", "The Joy of Sect", "Natural Born Kissers"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "Which episode of The Simpsons won the 1997 Primetime Emmy Award for Outstanding Animated Program, featuring guest star John Waters?",
+        "options": ["Homer's Phobia", "The Springfield Files", "You Only Move Twice", "Homer's Enemy"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "Which voice actor provided the voice of Springfield mob boss Fat Tony in his debut appearance and throughout the golden era?",
+        "options": ["Joe Mantegna", "Chazz Palminteri", "Robert De Niro", "Paul Sorvino"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Which animated short was the very first Simpsons cartoon ever broadcast on The Tracey Ullman Show on April 19, 1987?",
+        "options": ["Good Night", "Watching TV", "Bart Jumps", "The Pagans"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "What color was chosen for the Simpson family's skin by colorist Gyorgyi Peluce at Klasky Csupo to catch channel-surfers' attention?",
+        "options": ["Yellow", "Orange", "Peach", "Pale green"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Who directed the iconic 1990 music video for 'Do the Bartman' before going on to direct The Iron Giant and The Incredibles?",
+        "options": ["Brad Bird", "David Silverman", "Rich Moore", "Wes Archer"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "Which future late-night host pitched and wrote the classic Season 4 episode 'Marge vs. the Monorail'?",
+        "options": ["Conan O'Brien", "Jimmy Kimmel", "Stephen Colbert", "Jon Stewart"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Which actress won a Primetime Emmy Award in 1992 for Outstanding Voice-Over Performance for her role as teacher Edna Krabappel in 'Bart the Lover'?",
+        "options": ["Marcia Wallace", "Pamela Hayden", "Maggie Roswell", "Tress MacNeille"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "Which script supervisor and voice actress provided the gravelly voice of Lunchlady Doris until her passing in 1995?",
+        "options": ["Doris Grau", "Russi Taylor", "Jan Hooks", "June Foray"],
+        "answer": 0,
+        "d": 3
+    },
+    {
+        "q": "Which legendary comedy writer and showrunner duo ran Seasons 3 and 4 of the series, establishing many foundational Springfield townspeople?",
+        "options": ["Al Jean and Mike Reiss", "Bill Oakley and Josh Weinstein", "David Mirkin and Mike Scully", "Conan O'Brien and Greg Daniels"],
+        "answer": 0,
+        "d": 2
+    },
+
+    # --- Group 1: Answer index 1 (25 questions) ---
+    {
+        "q": "Which core voice cast member portrays Mr. Burns, Smithers, Ned Flanders, Principal Skinner, and Otto Mann?",
+        "options": ["Dan Castellaneta", "Harry Shearer", "Hank Azaria", "Kelsey Grammer"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "Under what pseudonym was Michael Jackson credited in the Season 3 premiere 'Stark Raving Dad'?",
+        "options": ["Sam Etic", "John Jay Smith", "Alan Smithee", "Wally Kogen"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "Why didn't Michael Jackson sing his own songs on 'Stark Raving Dad', leading singer Kipp Lennon to perform them instead?",
+        "options": ["He had laryngitis on recording day", "Contractual restrictions from his record label (Sony / Epic)", "He felt his voice was too high-pitched for animation", "He only agreed to do voice dialogue"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which co-creator and developer of The Simpsons was instrumental in designing the show's supporting cast and sensibility before departing in 1993?",
+        "options": ["James L. Brooks", "Sam Simon", "David Silverman", "Matt Groening"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Who composed the weekly orchestral score for The Simpsons starting in Season 2 and throughout the classic era using a full 35-piece live orchestra?",
+        "options": ["Danny Elfman", "Alf Clausen", "Michael Giacchino", "John Williams"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "Which voice actress provides the voices of Milhouse Van Houten, Jimbo Jones, and Rod Flanders?",
+        "options": ["Nancy Cartwright", "Pamela Hayden", "Russi Taylor", "Tress MacNeille"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which award-winning actor voices Bart's arch-nemesis Sideshow Bob (Dr. Robert Terwilliger) in recurring guest appearances?",
+        "options": ["David Hyde Pierce", "Kelsey Grammer", "John Mahoney", "Christopher Plummer"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "Which episode of The Simpsons served as the milestone 100th episode of the series in Season 5?",
+        "options": ["Bart Gets Famous", "Sweet Seymour Skinner's Baadasssss Song", "Lady Bouvier's Lover", "Secrets of a Successful Marriage"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In Season 2, what blockbuster NBC sitcom did Fox pit The Simpsons directly against by moving it to Thursday at 8:00 PM?",
+        "options": ["Cheers", "The Cosby Show", "Seinfeld", "Family Ties"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "Which Oscar-winning actor voiced Homer's half-brother Herb Powell in 'Oh Brother, Where Art Thou?' and 'Brother, Can You Spare Two Dimes?'?",
+        "options": ["Jack Nicholson", "Danny DeVito", "Joe Pesci", "Al Pacino"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "Which voice actress voiced Martin Prince, Sherri and Terri, and Uter Zorker during the golden era (and was also the official voice of Minnie Mouse)?",
+        "options": ["Pamela Hayden", "Russi Taylor", "Maggie Roswell", "Marcia Wallace"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which writer with a Harvard PhD in applied mathematics wrote 'The Principal and the Pauper' and 'Treehouse of Horror IX'?",
+        "options": ["David X. Cohen", "Ken Keeler", "Jeff Martin", "Dan Greaney"],
+        "answer": 1,
+        "d": 3
+    },
+    {
+        "q": "Which Simpsons writer co-created King of the Hill with Mike Judge and later developed the American adaptation of The Office?",
+        "options": ["Conan O'Brien", "Greg Daniels", "George Meyer", "John Swartzwelder"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which famous screen star voiced the character of Homer's mother Mona Simpson in her emotional first appearance in Season 7?",
+        "options": ["Meryl Streep", "Glenn Close", "Sigourney Weaver", "Susan Sarandon"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "Which voice actress voiced Maude Flanders, Helen Lovejoy, Luann Van Houten, and Miss Hoover throughout Seasons 1-10?",
+        "options": ["Tress MacNeille", "Maggie Roswell", "Pamela Hayden", "Russi Taylor"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which golden era writer coined the famous neologisms 'embiggen' and 'cromulent' during Season 7's 'Lisa the Iconoclast'?",
+        "options": ["David X. Cohen", "Dan Greaney", "John Swartzwelder", "Ken Keeler"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "What veteran legendary voice artist provided the sounds for Santa's Little Helper and Snowball II, as well as many animal noises in Hollywood?",
+        "options": ["Mel Blanc", "Frank Welker", "Jim Cummings", "Billy West"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which Oscar-winning actress provided the single spoken word 'Daddy' for Maggie Simpson in 'Lisa's First Word'?",
+        "options": ["Katharine Hepburn", "Elizabeth Taylor", "Audrey Hepburn", "Shirley MacLaine"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "What longtime executive producer and writer served as showrunner for Seasons 9 through 12, steering the late-90s era?",
+        "options": ["David Mirkin", "Mike Scully", "Al Jean", "Bill Oakley"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which iconic stand-up comedian won a Primetime Emmy Award in 1992 for voicing Krusty's estranged father, Rabbi Hyman Krustofsky?",
+        "options": ["Don Rickles", "Jackie Mason", "Rodney Dangerfield", "Mel Brooks"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which veteran Hollywood star voiced the hobo artist Chester J. Lampwick, the original creator of Itchy, in 'The Day the Violence Died'?",
+        "options": ["Gregory Peck", "Kirk Douglas", "Burt Lancaster", "Robert Mitchum"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which famous actress voiced Marge Simpson, as well as her raspy-voiced twin sisters Patty and Selma Bouvier?",
+        "options": ["Yeardley Smith", "Julie Kavner", "Nancy Cartwright", "Tress MacNeille"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "Which guest star played herself competing on Krusty's comeback special in 'Krusty Gets Kancelled' alongside Red Hot Chili Peppers?",
+        "options": ["Madonna", "Bette Midler", "Cher", "Barbra Streisand"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which director and animator was responsible for establishing the visual rules of Homer Simpson's physical acting and directed the pilot episode?",
+        "options": ["Brad Bird", "David Silverman", "Wes Archer", "Rich Moore"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which writer who joined the show in Season 8 wrote 'The City of New York vs. Homer Simpson' and 'The Cartridge Family'?",
+        "options": ["Dan Greaney", "Ian Maxtone-Graham", "Ken Keeler", "Matt Selman"],
+        "answer": 1,
+        "d": 3
+    },
+
+    # --- Group 2: Answer index 2 (25 questions) ---
+    {
+        "q": "Which core cast member voices Moe Szyslak, Chief Wiggum, Apu, Comic Book Guy, and Professor Frink?",
+        "options": ["Harry Shearer", "Dan Castellaneta", "Hank Azaria", "Phil Hartman"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "What pseudonym was Dustin Hoffman given in the credits of 'Lisa's Substitute' for voicing Mr. Bergstrom?",
+        "options": ["John Jay Smith", "Alan Smithee", "Sam Etic", "Wally Kogen"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "Which future Futurama co-creator was credited as 'David S. Cohen' on classic Simpsons episodes before changing his middle initial?",
+        "options": ["Matt Groening", "Ken Keeler", "David X. Cohen", "Patric Verrone"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "Which classic rock band was the first musical group to guest star as themselves in a Simpsons episode ('Flaming Moe's')?",
+        "options": ["Spinal Tap", "The Rolling Stones", "Aerosmith", "The Who"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "Which Simpsons episode won the Primetime Emmy Award for Outstanding Animated Program in 1991?",
+        "options": ["Bart Gets an 'F'", "Three Men and a Comic Book", "Homer vs. Lisa and the 8th Commandment", "Dead Putting Society"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "Which Emmy-winning episode from Season 6 is set entirely in the future year of 2010?",
+        "options": ["Bart to the Future", "Homer the Great", "Lisa's Wedding", "And Maggie Makes Three"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "Which acclaimed actress voiced Allison Taylor, Lisa's rival student and fellow saxophonist, in Season 6's 'Lisa's Rival'?",
+        "options": ["Christina Ricci", "Drew Barrymore", "Winona Ryder", "Natalie Portman"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "Which movie star voiced Mindy Simmons, Homer's nuclear plant crush, in Season 5's 'The Last Temptation of Homer'?",
+        "options": ["Kim Basinger", "Sharon Stone", "Michelle Pfeiffer", "Meg Ryan"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "Which Shakespearean actor voiced Number One, the supreme leader of the Stonecutters, in 'Homer the Great'?",
+        "options": ["Ian McKellen", "Kenneth Branagh", "Patrick Stewart", "Derek Jacobi"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "Which three-time Academy Award winner voiced Reverend Lovejoy's troublemaking daughter Jessica in 'Bart's Girlfriend'?",
+        "options": ["Glenn Close", "Jodie Foster", "Meryl Streep", "Diane Keaton"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "Which punk rock band performed a discordant, aggressive rendition of 'Happy Birthday' to Mr. Burns in Season 5's 'Rosebud'?",
+        "options": ["The Clash", "The Sex Pistols", "The Ramones", "Green Day"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "Which famous actor played the villainous Commandant at Rommelwood Military Academy in 'The Secret War of Lisa Simpson'?",
+        "options": ["R. Lee Ermey", "Donald Sutherland", "Willem Dafoe", "Christopher Walken"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "Which episode of The Simpsons won the Primetime Emmy Award for Outstanding Animated Program in 1998?",
+        "options": ["The Joy of Sect", "The Cartridge Family", "Trash of the Titans", "The City of New York vs. Homer Simpson"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In the Season 5 episode 'Homer Goes to College', who wrote the script featuring the dean and the three college nerds?",
+        "options": ["John Swartzwelder", "David Mirkin", "Conan O'Brien", "Greg Daniels"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "Which writer penned the classic episodes 'Mr. Plow', 'Cape Feare', and 'Lisa's Substitute'?",
+        "options": ["Conan O'Brien", "Jeff Martin", "Jon Vitti", "George Meyer"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "Which animation studio in South Korea produced the overseas ink-and-paint animation for dozens of golden era Simpsons episodes?",
+        "options": ["Studio Ghibli", "Toei Animation", "AKOM (and Rough Draft Korea)", "Madhouse"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "Which Hollywood actress voiced Stacy Lovell, the reclusive inventor of Malibu Stacy, in Season 5?",
+        "options": ["Lauren Bacall", "Faye Dunaway", "Kathleen Turner", "Jane Fonda"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "Which veteran character actor played town historian Hollis Hurlbut in Season 7's 'Lisa the Iconoclast'?",
+        "options": ["Kirk Douglas", "James Earl Jones", "Donald Sutherland", "Martin Sheen"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "Which Oscar-winning actor voiced Seymour Skinner's real-life military sergeant counterpart Armin Tamzarian's commander in 'The Principal and the Pauper'?",
+        "options": ["Robert Duvall", "Dennis Hopper", "Martin Sheen", "Harvey Keitel"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "What British rock legend appeared alongside George Harrison as the second former Beatle to appear on the show in 'Brush with Greatness'?",
+        "options": ["Paul McCartney", "John Lennon", "Ringo Starr", "Pete Best"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "Which musical artist performed the soulful duet 'Can't Get Enough of Your Love, Babe' to save the snakes in 'Whacking Day'?",
+        "options": ["Stevie Wonder", "Isaac Hayes", "Barry White", "Marvin Gaye"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "Which showrunner wrote the beloved episode 'Bart Sells His Soul' after purchasing a friend's soul on a piece of paper in high school?",
+        "options": ["Bill Oakley", "Josh Weinstein", "Greg Daniels", "David Mirkin"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "Which writer wrote both parts of the famous 1995 summer mystery cliffhanger 'Who Shot Mr. Burns?'?",
+        "options": ["John Swartzwelder", "David Mirkin", "Bill Oakley and Josh Weinstein", "Al Jean and Mike Reiss"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "What real-life voice-over actress provided the original voices of both Luann Van Houten and Maude Flanders across the show's classic 1990s golden era?",
+        "options": ["Pamela Hayden", "Tress MacNeille", "Maggie Roswell", "Russi Taylor"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "What executive producer is credited with originating the idea of the annual 'Treehouse of Horror' Halloween specials?",
+        "options": ["Matt Groening", "James L. Brooks", "Sam Simon", "Al Jean"],
+        "answer": 2,
+        "d": 3
+    },
+
+    # --- Group 3: Answer index 3 (25 questions) ---
+    {
+        "q": "Which Hollywood producer and director was executive producer and mentor who secured the Simpsons' creative freedom from network notes?",
+        "options": ["Steven Spielberg", "George Lucas", "Ron Howard", "James L. Brooks"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "Which voice actor voices both Itchy and Groundskeeper Willie, in addition to Homer Simpson?",
+        "options": ["Hank Azaria", "Harry Shearer", "Frank Welker", "Dan Castellaneta"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "Which real-life character actor voiced Lionel Hutz, Troy McClure, and con-man Lyle Lanley in 'Marge vs. the Monorail'?",
+        "options": ["Jon Lovitz", "Albert Brooks", "Charles Napier", "Phil Hartman"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "Which writer penned the iconic episode 'Homer at the Bat', coordinating guest appearances from nine Major League Baseball superstars?",
+        "options": ["Conan O'Brien", "Jon Vitti", "John Swartzwelder", "Jeff Martin"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "Which legendary sci-fi actor appeared in 'Marge vs. the Monorail' and returned to narrate 'The Springfield Files'?",
+        "options": ["William Shatner", "George Takei", "Patrick Stewart", "Leonard Nimoy"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In which season did Film Roman take over primary domestic animation production from Klasky Csupo?",
+        "options": ["Season 2", "Season 3", "Season 5", "Season 4"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "Which writer penned the critically acclaimed deconstructive masterpiece 'Homer's Enemy' in Season 8?",
+        "options": ["George Meyer", "David Mirkin", "Ken Keeler", "John Swartzwelder"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "What musical instrument does Dan Castellaneta base Homer's distinct voice changes on over the course of the first seasons?",
+        "options": ["Clarinet", "Trombone", "Tuba", "Walter Matthau impression shifting into a melodic cadence"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "Which writer who joined the staff in Season 9 later went on to become one of the longest-running showrunners in the show's post-classic history?",
+        "options": ["Mike Scully", "Ian Maxtone-Graham", "David Mirkin", "Matt Selman"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "Which former Beatle made a rooftop cameo in Season 5's 'Homer's Barbershop Quartet'?",
+        "options": ["John Lennon", "Paul McCartney", "Ringo Starr", "George Harrison"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "Which rock band guest starred in 'Krusty Gets Kancelled', performing 'Give It Away' in their underwear?",
+        "options": ["Nirvana", "Pearl Jam", "Soundgarden", "Red Hot Chili Peppers"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "Which guest star played himself in Season 5's 'Homer and Apu', eagerly training at the Kwik-E-Mart for a character study?",
+        "options": ["Robert De Niro", "Dustin Hoffman", "Harvey Keitel", "James Woods"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "Which comedy legend voiced Larry Burns, Mr. Burns' uncouth long-lost son who 'gets no respect'?",
+        "options": ["Don Rickles", "Bob Newhart", "Milton Berle", "Rodney Dangerfield"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "Which actor voiced Cecil Terwilliger in 'Brother from Another Series', creating a direct parody of his dynamic with Kelsey Grammer on Frasier?",
+        "options": ["John Mahoney", "Ted Danson", "Woody Harrelson", "David Hyde Pierce"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "Which writer created the anthology concept for Season 7's '22 Short Films About Springfield', inspired by Thirty Two Short Films About Glenn Gould?",
+        "options": ["David X. Cohen", "Ken Keeler", "John Swartzwelder", "Bill Oakley and Josh Weinstein"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "Which guest star voiced the real Seymour Skinner in the controversial Season 9 episode 'The Principal and the Pauper'?",
+        "options": ["Charlie Sheen", "Emilio Estevez", "Joe Estevez", "Martin Sheen"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "Which iconic sci-fi movie star guest starred as himself and portrayed Mark Hamill / Luke Skywalker in 'Mayored to the Mob'?",
+        "options": ["Harrison Ford", "Billy Dee Williams", "Ian McDiarmid", "Mark Hamill"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "Which renowned comedy superstar voiced Sanitation Commissioner Ray Patterson in the milestone 200th episode 'Trash of the Titans'?",
+        "options": ["Bill Murray", "Chevy Chase", "Dan Aykroyd", "Steve Martin"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "Which episode won the 1995 Primetime Emmy Award for Outstanding Animated Program, depicting Lisa's engagement to Hugh Parkfield?",
+        "options": ["Bart's Comet", "Homer Badman", "And Maggie Makes Three", "Lisa's Wedding"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "Which writer-producer wrote 'Homer Badman', satirizing tabloid sensationalism and TV news magazine programs?",
+        "options": ["George Meyer", "Conan O'Brien", "David Mirkin", "Greg Daniels"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "Which composer wrote the song 'We Do (The Stonecutters' Song)' in 'Homer the Great', which earned an Emmy nomination in 1995?",
+        "options": ["Danny Elfman", "Jeff Martin", "David Mirkin", "Alf Clausen"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "Which actress voiced the eccentric Southern country singer Lurleen Lumpkin in Season 3's 'Colonel Homer'?",
+        "options": ["Dolly Parton", "Reba McEntire", "Emmylou Harris", "Beverly D'Angelo"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "What animators' gag is built into the design of Homer Simpson's side hair and ear?",
+        "options": ["They spell 'USA'", "They form a question mark", "They form the letters 'FOX'", "They form the initials 'M' and 'G' for Matt Groening"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "Which guest star voiced the suave French bowling instructor Jacques in Season 1's 'Life on the Fast Lane'?",
+        "options": ["Dustin Hoffman", "Jon Lovitz", "Phil Hartman", "Albert Brooks"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "Which long-serving voice actress originally voiced both Agnes Skinner and Dolph Starbeam before taking over many additional townswomen?",
+        "options": ["Pamela Hayden", "Maggie Roswell", "Russi Taylor", "Tress MacNeille"],
+        "answer": 3,
+        "d": 2
+    }
+]
+
+output = []
+for q in raw_questions:
+    output.append({
+        "show": "The Simpsons",
+        "q": q["q"],
+        "options": q["options"],
+        "answer": q["answer"],
+        "d": q["d"]
+    })
+
+with open("tools/staging/simpsons_batch4.json", "w", encoding="utf-8") as f:
+    json.dump(output, f, indent=1)
+
+print(f"Generated {len(output)} questions for batch 4.")

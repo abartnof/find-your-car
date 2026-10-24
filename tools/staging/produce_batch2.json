@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which gaseous plant hormone is primarily responsible for triggering the ripening process in climacteric fruits?",
+    "options": [
+      "Auxin",
+      "Ethylene",
+      "Gibberellin",
+      "Abscisic acid"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What simple chemical formula represents the fruit-ripening hormone ethylene?",
+    "options": [
+      "C2H4",
+      "CH4",
+      "CO2",
+      "C2H6O"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why does placing an unripe avocado inside a paper bag with a ripe banana accelerate its softening?",
+    "options": [
+      "The banana absorbs ambient moisture from the avocado skin",
+      "The banana emits high levels of carbon monoxide",
+      "The banana emits ethylene gas which is trapped inside the bag",
+      "The paper bag generates frictional thermal heat"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which category of fruits undergoes a sharp rise in respiration and ethylene production during ripening?",
+    "options": [
+      "Non-climacteric fruits",
+      "Climacteric fruits",
+      "Apomictic fruits",
+      "Parthenocarpic fruits"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which of the following is a non-climacteric fruit that does NOT continue to ripen or become sweeter after being harvested?",
+    "options": [
+      "Banana",
+      "Apple",
+      "Strawberry",
+      "Tomato"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which of these fruits is climacteric and can be harvested mature-green to ripen off the vine?",
+    "options": [
+      "Grape",
+      "Tomato",
+      "Watermelon",
+      "Lemon"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why are citrus fruits like oranges and lemons classified as non-climacteric?",
+    "options": [
+      "They do not experience a post-harvest respiration burst or accumulate sugars after picking",
+      "They produce excessive ethylene that destroys their peel",
+      "Their seeds are destroyed if picked early",
+      "They only ripen underground"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which compound is commercially applied in apple storage facilities under the trade name SmartFresh to block ethylene receptors and delay softening?",
+    "options": [
+      "Calcium carbide",
+      "Indole-3-acetic acid",
+      "1-Methylcyclopropene (1-MCP)",
+      "Sodium benzoate"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What agricultural practice uses low oxygen, elevated carbon dioxide, and precise chilling to store apples for up to a year?",
+    "options": [
+      "Vacuum desiccation",
+      "Gamma radiation preservation",
+      "Controlled atmosphere (CA) storage",
+      "Osmotic flash curing"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What enzyme breaks down pectin in the middle lamella of plant cell walls, causing fruits to soften as they ripen?",
+    "options": [
+      "Amylase",
+      "Lipase",
+      "Polygalacturonase",
+      "Pepsin"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "During the ripening of bananas, amylase enzymes convert insoluble starch primarily into what sweet soluble sugars?",
+    "options": [
+      "Glucose, fructose, and sucrose",
+      "Lactose and maltose",
+      "Cellulose and lignin",
+      "Galactose and glycogen"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which fruit continues to accumulate oil in its mesocarp rather than high concentrations of sugar as it matures?",
+    "options": [
+      "Peach",
+      "Plum",
+      "Avocado",
+      "Pineapple"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why won't an avocado ripen while it remains attached to the tree?",
+    "options": [
+      "Sunlight neutralizes the sugars in the peel",
+      "The roots draw out all internal gases",
+      "The tree requires frost before triggering fruit maturity",
+      "The tree transmits an inhibitor through the stem that suppresses ethylene sensitivity"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which gas was historically used by farmers to artificially trigger ripening before ethylene was scientifically identified?",
+    "options": [
+      "Pure nitrogen",
+      "Kerosene lamp fumes (containing trace ethylene)",
+      "Argon gas",
+      "Sulfur hexafluoride"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which of the following fruits is climacteric?",
+    "options": [
+      "Kiwi",
+      "Grapefruit",
+      "Pineapple",
+      "Blackberry"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What enzyme is responsible for the rapid browning of sliced apples, bananas, and potatoes exposed to air?",
+    "options": [
+      "Polyphenol oxidase (PPO)",
+      "Amylase",
+      "Cellulase",
+      "Nitrogenase"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why does sprinkling lemon juice on freshly cut apple slices prevent them from turning brown?",
+    "options": [
+      "The sugar in lemon juice coats the surface with an airtight glaze",
+      "Lemon juice chemically bleaches all plant pigments",
+      "Lemon juice instantly evaporates surface moisture",
+      "The citric acid lowers the pH and ascorbic acid acts as an antioxidant, inhibiting polyphenol oxidase"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which red carotenoid pigment gives ripe tomatoes, watermelons, and pink grapefruits their distinctive color?",
+    "options": [
+      "Anthocyanin",
+      "Lutein",
+      "Lycopene",
+      "Chlorophyll"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Cooking tomatoes in olive oil increases the dietary absorption of lycopene because lycopene is:",
+    "options": [
+      "Water-soluble",
+      "Destroyed by cold temperatures",
+      "Fat-soluble (lipophilic)",
+      "A heavy metal complex"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which provitamin A carotenoid pigment gives carrots, sweet potatoes, and butternut squash their vibrant orange color?",
+    "options": [
+      "Beta-carotene",
+      "Betalain",
+      "Chlorophyll b",
+      "Zeaxanthin"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Water-soluble flavonoid pigments responsible for the red, purple, and blue hues in blueberries, blackberries, and red cabbage are called:",
+    "options": [
+      "Carotenoids",
+      "Anthocyanins",
+      "Betalains",
+      "Chlorophylls"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "How does red cabbage juice behave when mixed with an acidic solution like vinegar?",
+    "options": [
+      "It turns deep blue or green",
+      "It turns completely clear",
+      "It turns murky brown",
+      "It turns bright pink or red"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What unique class of nitrogen-containing pigments gives red beets and Swiss chard their deep crimson color?",
+    "options": [
+      "Anthocyanins",
+      "Carotenes",
+      "Xanthophylls",
+      "Betalains"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What harmless condition causes a person's urine to turn pink or red after eating a large serving of beets?",
+    "options": [
+      "Carotenodermia",
+      "Beeturia",
+      "Solanism",
+      "Hypercalcemia"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Excessive consumption of carrots and pumpkins can cause a harmless yellow-orange tint on the skin known as:",
+    "options": [
+      "Carotenodermia",
+      "Jaundice",
+      "Argyria",
+      "Cyanosis"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What green photosynthetic pigment breaks down during ripening, allowing underlying yellow, orange, and red pigments to show?",
+    "options": [
+      "Hemoglobin",
+      "Chlorophyll",
+      "Melanin",
+      "Flavone"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The yellow pigment that gives sweet corn and yellow bell peppers their sunny color belongs primarily to which xanthophyll class?",
+    "options": [
+      "Betanin",
+      "Porphyrin",
+      "Anthocyanin",
+      "Lutein and zeaxanthin"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Genetically modified 'Arctic Apples' resist browning when cut because scientists used RNA interference to suppress which enzyme?",
+    "options": [
+      "Polyphenol oxidase",
+      "Pectinase",
+      "Sucrose synthase",
+      "Catalase"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why does blanching vegetables in boiling water before freezing preserve their bright color and texture?",
+    "options": [
+      "The heat denatures enzymes that cause degradation and browning",
+      "It dissolves outer cuticle waxes entirely",
+      "It saturates cells with nitrogen gas",
+      "It caramelizes surface starches into protective enamel"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What compound in blueberries and purple sweet potatoes is widely studied for its potent antioxidant flavonoid activity?",
+    "options": [
+      "Oxalic acid",
+      "Capsaicin",
+      "Solanine",
+      "Anthocyanin"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What chemical compound is released when cutting an onion that reacts with moisture in the eyes to produce tears?",
+    "options": [
+      "Allyl isothiocyanate",
+      "Capsaicin",
+      "Acetic acid",
+      "Syn-propanethial-S-oxide (lachrymatory factor)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which enzyme converts sulfoxides into the lachrymatory factor that makes people cry when slicing onions?",
+    "options": [
+      "Alliinase",
+      "Myrosinase",
+      "Lipoxygenase",
+      "Lachrymatory factor synthase (LFS)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why does chilling an onion in the refrigerator before cutting reduce tear production?",
+    "options": [
+      "Freezing temperature converts sulfur into solid inert crystals",
+      "Cold air neutralizes all cellular water",
+      "Lower temperature slows down enzymatic reaction rates and reduces vapor volatility",
+      "The cold destroys the onion's allicin permanently"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In intact garlic cloves, the amino acid alliin is kept separate from which enzyme until the cloves are crushed or chopped?",
+    "options": [
+      "Amylase",
+      "Alliinase",
+      "Bromelain",
+      "Papain"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What potent antimicrobial organosulfur compound is formed when alliin is catalyzed by alliinase in crushed garlic?",
+    "options": [
+      "Curcumin",
+      "Resveratrol",
+      "Piperine",
+      "Allicin"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What pungent chemical gives freshly grated horseradish and wasabi their sharp, nasal-clearing bite?",
+    "options": [
+      "Allyl isothiocyanate",
+      "Capsaicin",
+      "Menthol",
+      "Cinnamaldehyde"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why does the sharp kick of wasabi strike the nasal passages immediately, unlike the burning heat of chili peppers on the tongue?",
+    "options": [
+      "Wasabi contains acidic vapors that dissolve nasal mucus instantly",
+      "Wasabi binds exclusively to olfactory smell nerves rather than taste buds",
+      "Isothiocyanates are highly volatile vapors that stimulate TRPA1 receptors in the nasal cavity",
+      "Wasabi produces microscopic sparks upon oxidation"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which botanical plant family is famous for producing sulfurous glucosinolates that convert to pungent isothiocyanates?",
+    "options": [
+      "Brassicaceae (Cruciferae)",
+      "Rosaceae",
+      "Cucurbitaceae",
+      "Asteraceae"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why does cooked garlic taste sweet and nutty rather than sharp and pungent?",
+    "options": [
+      "Heat denatures alliinase before allicin can form, and caramelizes natural sugars",
+      "Cooking replaces sulfur atoms with carbon dioxide",
+      "Cooking converts allicin directly into capsanthin",
+      "Heat causes garlic cloves to ferment into alcohol"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What organosulfur metabolite excreted in urine after eating asparagus causes its distinct sulfurous odor?",
+    "options": [
+      "Uric acid stones",
+      "Bilirubin crystals",
+      "Asparagusic acid metabolites (such as methanethiol and dimethyl sulfide)",
+      "Hippuric acid"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why can only a portion of the human population smell the characteristic odor in urine after eating asparagus?",
+    "options": [
+      "Only blood type O individuals metabolize asparagus into sulfur",
+      "Age completely eliminates the digestive enzymes required",
+      "Only people with diabetes produce the odor",
+      "A genetic polymorphism in olfactory receptor genes determines the ability to detect it"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which compound is primarily responsible for the distinctive earthy aroma of garden soil and freshly dug beets?",
+    "options": [
+      "Limonene",
+      "Eugenol",
+      "Vanillin",
+      "Geosmin"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What volatile compound gives freshly crushed cucumber its classic cooling green aroma?",
+    "options": [
+      "Methyl salicylate",
+      "(E,Z)-3,6-nonadien-1-ol (cucumber aldehyde)",
+      "Benzaldehyde",
+      "Ethyl butyrate"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What causes the bitter taste in lettuce that has 'bolted' in warm weather?",
+    "options": [
+      "High concentrations of starch",
+      "Conversion of glucose into oxalic acid",
+      "Infestation by symbiotic rhizobia",
+      "Accumulation of sesquiterpene lactones in the milky latex"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What term describes a leafy vegetable prematurely producing a flowering stem and going to seed due to heat or day length?",
+    "options": [
+      "Bletting",
+      "Etiolation",
+      "Tillering",
+      "Bolting"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What insect is required to pollinate Smyrna figs in the wild through a specialized obligate mutualism?",
+    "options": [
+      "Honeybee",
+      "Fig wasp (Blastophaga psenes)",
+      "Bumblebee",
+      "Hoverfly"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What enzyme inside a ripening fig digests the body of the tiny pollinating fig wasp so no insect remains?",
+    "options": [
+      "Ficin",
+      "Papain",
+      "Pepsin",
+      "Amylase"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "How must vanilla orchid flowers be pollinated on commercial plantations outside of their native Mexico?",
+    "options": [
+      "Using motorized acoustic leaf blowers",
+      "By releasing swarms of imported European honeybees",
+      "By dusting pollen through aircraft sprinklers",
+      "By hand using a small bamboo splinter or needle"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Who was the 12-year-old enslaved boy on the island of Réunion who revolutionized vanilla production in 1841 by inventing practical hand-pollination?",
+    "options": [
+      "Toussaint Louverture",
+      "Henri Christophe",
+      "Edmond Albius",
+      "Aimé Césaire"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which native Mexican bee is the primary natural pollinator of the vanilla orchid?",
+    "options": [
+      "Africanized killer bee",
+      "Leafcutter bee",
+      "Melipona bee",
+      "Carpenter bee"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What term describes plant species like asparagus and kiwifruit where individual plants are strictly male or female?",
+    "options": [
+      "Monoecious",
+      "Dioecious",
+      "Hermaphroditic",
+      "Parthenocarpic"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why do commercial asparagus growers strongly prefer planting all-male hybrids over female crowns?",
+    "options": [
+      "Female spears are mildly toxic to humans",
+      "Male plants produce higher yields of thicker spears because they expend no energy producing berries",
+      "Male plants resist all fungal rust diseases",
+      "Female plants only sprout spears in late autumn"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What botanical term describes a plant that has separate male and female flowers on the same individual plant, like corn and squash?",
+    "options": [
+      "Dioecious",
+      "Gynodioecious",
+      "Synoecious",
+      "Monoecious"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In cucurbits like pumpkins and zucchini, how can a home gardener distinguish a female flower from a male flower?",
+    "options": [
+      "The female flower is bright blue while the male is yellow",
+      "The female flower has a miniature swollen fruit ovary at the base of its petals",
+      "The female flower only opens at midnight",
+      "The male flower has three layers of petals instead of one"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What type of pollination is required by tomatoes and blueberries, where bumblebees rapidly vibrate their flight muscles to shake pollen loose?",
+    "options": [
+      "Anemophily (wind pollination)",
+      "Hydrophily (water pollination)",
+      "Ornithophily (bird pollination)",
+      "Buzz pollination (sonication)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why are standard European honeybees ineffective at buzz-pollinating tomato flowers?",
+    "options": [
+      "Tomato pollen is fatal to European honeybees",
+      "Honeybees cannot see yellow tomato flowers",
+      "Honeybees cannot vibrate their flight muscles at the specific resonant frequency required to release the pollen",
+      "Tomato leaves produce a sticky glue that traps honeybees"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Sweet corn is pollinated primarily by which mechanism?",
+    "options": [
+      "Wind pollination (anemophily)",
+      "Insect pollination (entomophily)",
+      "Bird pollination",
+      "Self-pollination inside closed buds"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Wild ancestral bananas and durians in Southeast Asia rely heavily on which nocturnal animals for pollination?",
+    "options": [
+      "Moths",
+      "Nightjars",
+      "Bats (nectarivorous fruit bats)",
+      "Tree frogs"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What is parthenocarpy in commercial fruit crops?",
+    "options": [
+      "The self-pruning of unpollinated flowers",
+      "The production of fruit without fertilization, resulting in seedless fruit",
+      "The absorption of nitrogen directly through leaves",
+      "The shedding of bark during winter"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What causes navel oranges to form the small secondary 'navel' at the fruit's apex?",
+    "options": [
+      "A genetic mutation causing a secondary, undeveloped twin fruit to grow within the primary fruit",
+      "A puncture scar left by parasitic citrus wasps",
+      "Incomplete closure of the stem calyx during freeze",
+      "A grafting scar at the blossom end"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why are commercially cultivated Cavendish bananas seedless and sterile?",
+    "options": [
+      "They are triploid (3n), having three sets of chromosomes which prevents normal meiosis",
+      "They are treated with gamma radiation after harvest",
+      "They are harvested before seeds can form",
+      "They are grown in sterile hydroponic solutions without soil microbes"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "How are seedless watermelons commercially created?",
+    "options": [
+      "By genetically splicing tomato genes into melon seedlings",
+      "By treating pollinated flowers with concentrated chlorine bleach",
+      "By removing immature seeds by hand with microneedles",
+      "By crossing a tetraploid (4n) female line with a diploid (2n) male line to produce sterile triploid (3n) seeds"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What chemical is commonly applied to watermelon seedlings to double their chromosome number from diploid (2n) to tetraploid (4n)?",
+    "options": [
+      "Penicillin",
+      "Colchicine",
+      "Ethylene glycol",
+      "Gibberellic acid"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The modern commercial garden strawberry (Fragaria × ananassa) possesses how many sets of chromosomes?",
+    "options": [
+      "Eight (octoploid, 8n)",
+      "Two (diploid, 2n)",
+      "Three (triploid, 3n)",
+      "Four (tetraploid, 4n)"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The commercial garden strawberry (Fragaria × ananassa) was created in 18th-century Europe by accidental hybridization between species from Virginia and which country?",
+    "options": [
+      "Japan",
+      "Madagascar",
+      "South Africa",
+      "Chile"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why must commercial apple varieties be propagated by grafting rather than grown from seed?",
+    "options": [
+      "Apple seeds never germinate in temperate soils",
+      "Apples are extreme heterozygotes; seeds produce trees with fruit drastically different from the parent",
+      "Seed-grown apples produce lethal levels of cyanide in their flesh",
+      "Seed-grown apple trees take over 100 years to bear fruit"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In fruit tree grafting, what is the lower rooted portion called that controls tree vigor and disease resistance?",
+    "options": [
+      "Scion",
+      "Interstock",
+      "Cambium",
+      "Rootstock"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In fruit tree grafting, what is the upper branch cutting called that determines the specific fruit cultivar harvested?",
+    "options": [
+      "Rootstock",
+      "Bulbil",
+      "Stolon",
+      "Scion"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What British research station developed the famous 'Malling' series of dwarfing rootstocks (like M9) for apple trees?",
+    "options": [
+      "Kew Royal Botanic Gardens",
+      "Rothamsted Experimental Station",
+      "East Malling Research Station",
+      "John Innes Centre"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What physiological requirement must temperate fruit trees (like apples and peaches) satisfy in winter before they can break dormancy and flower in spring?",
+    "options": [
+      "Thermal degree days above 90°F",
+      "Photoperiod darkness exceeding 18 hours daily",
+      "Chill hours (cumulative hours between 32°F and 45°F / 0°C and 7.2°C)",
+      "Sub-zero freezing soil days"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What happens if a high-chill peach variety is planted in a tropical, frost-free climate with insufficient winter chill hours?",
+    "options": [
+      "The tree immediately grows into a giant evergreen bush that fruits continuously",
+      "The tree dies from extreme root rot within two weeks",
+      "The tree exhibits erratic, delayed foliation and fails to produce normal flowers or fruit",
+      "The tree produces seedless citrus-like fruits"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What is the phenomenon where a single branch on an established fruit tree spontaneously mutates to produce fruit with distinct traits?",
+    "options": [
+      "Chimera blight",
+      "Epigenetic wilt",
+      "Somatic lysis",
+      "Sport (or bud sport)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Both the Pink Lady and Gala apples trace their lineage back as offspring of which famous American apple cultivar?",
+    "options": [
+      "Red Delicious",
+      "Golden Delicious",
+      "McIntosh",
+      "Granny Smith"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The tangelo is a citrus hybrid produced by crossing a tangerine (mandarin) with which other citrus fruit?",
+    "options": [
+      "Kumquat",
+      "Key lime",
+      "Pomelo or grapefruit",
+      "Meyer lemon"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "A Meyer lemon is a natural hybrid between a true lemon and which other citrus?",
+    "options": [
+      "Grapefruit",
+      "Mandarin or sweet orange",
+      "Citron",
+      "Lime"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Pineapples and vanilla orchids use which specialized type of photosynthesis that opens stomata at night to minimize water loss?",
+    "options": [
+      "Crassulacean Acid Metabolism (CAM)",
+      "C3 photosynthesis",
+      "C4 photosynthesis",
+      "Chemosynthesis"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Sweet corn and sugarcane utilize which efficient photosynthetic pathway adapted to high temperatures and intense sunlight?",
+    "options": [
+      "C3 pathway",
+      "CAM pathway",
+      "Glycolytic pathway",
+      "C4 pathway"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Most common vegetables like lettuce, spinach, tomatoes, and potatoes utilize which photosynthetic pathway?",
+    "options": [
+      "C4 pathway",
+      "C3 pathway",
+      "CAM pathway",
+      "Bacterial rhodopsin pathway"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What physiological disorder in tomatoes and bell peppers causes a sunken, black leathery patch on the blossom end of the fruit?",
+    "options": [
+      "Early blight",
+      "Fusarium wilt",
+      "Blossom end rot",
+      "Anthracnose"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Blossom end rot in tomatoes is caused by a localized deficiency of which essential plant nutrient during fruit expansion?",
+    "options": [
+      "Nitrogen",
+      "Calcium",
+      "Iron",
+      "Potassium"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why does inconsistent watering trigger blossom end rot even when soil calcium is plentiful?",
+    "options": [
+      "Calcium moves exclusively through the plant via transpiration in the xylem; water stress halts calcium uptake",
+      "Excess water leaches calcium into the atmosphere",
+      "Drying soil transforms calcium into gaseous neon",
+      "Water stress causes roots to absorb nitrogen instead of calcium"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What physiological condition causes tomato skins to suddenly crack or split concentrically near the stem?",
+    "options": [
+      "Severe potassium toxicity in the sap",
+      "Rapid uptake of water (such as heavy rain after a dry spell) expanding the fruit pulp faster than the skin can stretch",
+      "Fungal spores puncturing the cuticle",
+      "Frost damage to chloroplasts"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What physiological disorder in heads of lettuce or cabbage manifests as brown, dying leaf margins caused by localized calcium deficiency?",
+    "options": [
+      "Tipburn",
+      "Bitter rot",
+      "Black leg",
+      "Scab"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What beneficial soil microorganisms form mutualistic associations with the roots of most fruit trees, expanding water and phosphorus absorption?",
+    "options": [
+      "Cyanobacteria",
+      "Mycorrhizal fungi",
+      "Nematodes",
+      "Slime molds"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Legumes like peas and beans can fix atmospheric nitrogen into the soil because of symbiotic bacteria residing in their root nodules called:",
+    "options": [
+      "Spirilla",
+      "Streptomyces",
+      "Rhizobia",
+      "Bacillus"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What enzyme inside nitrogen-fixing rhizobia breaks the strong triple bond of atmospheric nitrogen gas (N2)?",
+    "options": [
+      "Urease",
+      "Nitrogenase",
+      "Rubisco",
+      "Amylase"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why is the interior of an active, healthy nitrogen-fixing legume root nodule pink or reddish?",
+    "options": [
+      "It contains leghemoglobin, which binds oxygen to protect oxygen-sensitive nitrogenase",
+      "It accumulates high concentrations of anthocyanin pigments",
+      "The plant stores oxidized iron rust in its cortex",
+      "It produces lycopene to ward off underground pests"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What primary mineral nutrient is represented by the 'K' in standard N-P-K commercial fertilizer bags?",
+    "options": [
+      "Potassium (from Kalium)",
+      "Phosphorus",
+      "Krypton",
+      "Calcium"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which mineral nutrient deficiency in leafy greens causes interveinal chlorosis (yellowing between leaf veins) while veins remain green?",
+    "options": [
+      "Magnesium (or Iron)",
+      "Sodium",
+      "Chlorine",
+      "Silicon"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Magnesium is an essential atom positioned at the precise molecular center of which vital plant pigment?",
+    "options": [
+      "Chlorophyll",
+      "Beta-carotene",
+      "Lycopene",
+      "Anthocyanin"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What Swedish botanist formalized binomial nomenclature and classified hundreds of fruits and vegetables in 'Species Plantarum' (1753)?",
+    "options": [
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Jean-Baptiste Lamarck",
+      "Carl Linnaeus"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Gregor Mendel discovered the foundational laws of genetic inheritance in the 1860s through experiments on which plant?",
+    "options": [
+      "Sweet corn (Zea mays)",
+      "Garden pea (Pisum sativum)",
+      "Common bean (Phaseolus vulgaris)",
+      "Tomato (Solanum lycopersicum)"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why was the garden pea an ideal model organism for Mendel's genetic experiments?",
+    "options": [
+      "It has no cell walls, making DNA extraction simple",
+      "It reproduces exclusively through asexual stolons",
+      "It has distinct binary traits, short generation time, and can easily self-pollinate or be cross-pollinated",
+      "It produces thousands of seeds within 24 hours of planting"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What crystalline organic acid is responsible for the crisp, tart flavor of green apples?",
+    "options": [
+      "Citric acid",
+      "Tartaric acid",
+      "Malic acid",
+      "Acetic acid"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which organic acid provides the primary sharp, sour taste in lemons, limes, and oranges?",
+    "options": [
+      "Malic acid",
+      "Tartaric acid",
+      "Lactic acid",
+      "Citric acid"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which organic acid is the dominant acid found in wine grapes, giving wine much of its tart acidity?",
+    "options": [
+      "Citric acid",
+      "Malic acid",
+      "Tartaric acid",
+      "Oxalic acid"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Potassium bitartrate, a cooking byproduct that crystallizes in wine barrels, is commonly sold in grocery spice aisles as:",
+    "options": [
+      "Cream of tartar",
+      "Baking powder",
+      "Citric salt",
+      "Pickling lime"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What term describes the degree of dissolved sugar solids in fruit juice, measured using a refractometer?",
+    "options": [
+      "Scoville units",
+      "Baumé scale",
+      "Degrees Brix (°Bx)",
+      "MacMichael degrees"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "How does a refractometer determine the sugar content (Brix) of a single drop of fruit juice?",
+    "options": [
+      "By measuring electrical conductivity across electrodes",
+      "By measuring the bending (refraction) of light passing through the liquid",
+      "By combusting trace sugar and recording heat release",
+      "By counting dissolved carbon atoms with laser fluorescence"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which tree fruit contains the cyanogenic glycoside amygdalin in its seeds, which can release toxic hydrogen cyanide when digested?",
+    "options": [
+      "Fig",
+      "Pomegranate",
+      "Banana",
+      "Apricot (and bitter almond)"
+    ],
+    "answer": 3,
+    "d": 2
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "SNL",
+    "q": "Who was the very first cast member officially hired by Lorne Michaels in 1975 for the inaugural season of Saturday Night Live?",
+    "options": [
+      "Gilda Radner",
+      "Chevy Chase",
+      "John Belushi",
+      "Dan Aykroyd"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Chevy Chase was originally hired for Saturday Night Live in 1975 in what capacity before Lorne Michaels placed him on camera?",
+    "options": [
+      "As a costume designer",
+      "As an associate producer",
+      "As a writer only",
+      "As a talent scout"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which future box-office comedy superstar auditioned for SNL in 1980 and 1985, but was rejected by producers both times?",
+    "options": [
+      "Robin Williams",
+      "Eddie Murphy",
+      "Jim Carrey",
+      "Martin Short"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which future star of 'The Office' auditioned for SNL in 1995 alongside his wife Nancy Walls, but was passed over in favor of Will Ferrell?",
+    "options": [
+      "Rainn Wilson",
+      "Steve Carell",
+      "Ed Helms",
+      "John Krasinski"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which comedian and future late-night host auditioned for SNL in 1992, was rejected, but later voiced Ace in 'The Ambiguously Gay Duo'?",
+    "options": [
+      "Jon Stewart",
+      "Jimmy Kimmel",
+      "Craig Ferguson",
+      "Stephen Colbert"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which multi-hyphenate artist auditioned twice for SNL, including for the role of Barack Obama in 2008, before starring on 'Community' and winning Grammys?",
+    "options": [
+      "Jordan Peele",
+      "Keegan-Michael Key",
+      "Donald Glover",
+      "Hannibal Buress"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which future 'Friends' star auditioned for SNL in 1990, but lost the spot to Julia Sweeney?",
+    "options": [
+      "Courteney Cox",
+      "Jennifer Aniston",
+      "Lisa Kudrow",
+      "David Schwimmer"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which star of 'The Office' and 'The Mindy Project' was offered an SNL writing job in 2006, but had to turn it down due to her sitcom contract?",
+    "options": [
+      "Ellie Kemper",
+      "Mindy Kaling",
+      "Rashida Jones",
+      "Angela Kinsey"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which stand-up comic and podcast pioneer wrote a famous chapter about his disastrous 1995 meeting with Lorne Michaels over a bowl of Jolly Ranchers?",
+    "options": [
+      "Joe Rogan",
+      "Bill Burr",
+      "Bert Kreischer",
+      "Marc Maron"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which future superstar stand-up auditioned in the early 2000s doing an impression of NBA coach Avery Johnson that mystified the casting room?",
+    "options": [
+      "Dave Chappelle",
+      "Chris Tucker",
+      "Kevin Hart",
+      "Katt Williams"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which actress interned in the SNL design department, auditioned with absurd characters in 2008, and was immediately recommended for 'Parks and Recreation'?",
+    "options": [
+      "Amy Poehler",
+      "Rashida Jones",
+      "Chelsea Peretti",
+      "Aubrey Plaza"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which comedic actress auditioned in 1995 alongside Will Ferrell and Cheri Oteri, performing impressions before breaking out in 'American Pie' and 'The White Lotus'?",
+    "options": [
+      "Jane Lynch",
+      "Megan Mullally",
+      "Catherine O'Hara",
+      "Jennifer Coolidge"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "During his miserable season as an SNL writer in 1984-1985, which comedy legend angrily quit on Friday night and returned on Monday acting like it never happened?",
+    "options": [
+      "Jerry Seinfeld",
+      "Garry Shandling",
+      "Larry David",
+      "Mel Brooks"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which classic episode of 'Seinfeld' was directly based on Larry David quitting SNL and returning to work the following Monday?",
+    "options": [
+      "The Contest",
+      "The Parking Garage",
+      "The Revenge (where George Costanza quits his job at Rick Barr Properties)",
+      "The Opposite"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "How many of Larry David's sketches actually made it to air during his entire full season as an SNL writer in 1984-1985?",
+    "options": [
+      "Zero sketches",
+      "Only one sketch (which aired at 12:55 AM)",
+      "Five sketches",
+      "Twelve sketches"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which original cast member initially refused to audition because he hated television and considered it a commercial wasteland?",
+    "options": [
+      "Dan Aykroyd",
+      "Chevy Chase",
+      "Garrett Morris",
+      "John Belushi"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Why was Bill Murray not among the original cast members who debuted on October 11, 1975?",
+    "options": [
+      "He failed the NBC medical physical exam",
+      "He had committed to ABC's 'Saturday Night Live with Howard Cosell'",
+      "He was filming a movie in Canada",
+      "Lorne Michaels disliked his audition tape"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which future 'Seinfeld' star met Larry David while they were both struggling cast members/writers on SNL between 1982 and 1985?",
+    "options": [
+      "Michael Richards",
+      "Jason Alexander",
+      "Wayne Knight",
+      "Julia Louis-Dreyfus"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "How old was Julia Louis-Dreyfus when she joined the cast of Saturday Night Live in 1982?",
+    "options": [
+      "18 years old",
+      "25 years old",
+      "21 years old",
+      "28 years old"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What legendary comedy troupe in Chicago served as the primary talent feeder for SNL, supplying John Belushi, Bill Murray, Chris Farley, and Tina Fey?",
+    "options": [
+      "The Groundlings",
+      "The Second City",
+      "Upright Citizens Brigade",
+      "Steppenwolf Theatre"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "What Los Angeles improv school and theater supplied SNL with Phil Hartman, Jon Lovitz, Will Ferrell, Kristen Wiig, and Maya Rudolph?",
+    "options": [
+      "The Second City",
+      "ImprovOlympic",
+      "The Groundlings",
+      "UCB Theatre"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "What New York-based improv comedy theater co-founded by Amy Poehler became a major talent incubator for 2000s and 2010s SNL cast and writers?",
+    "options": [
+      "The PIT (People's Improv Theater)",
+      "Magnet Theater",
+      "Annoyance Theatre",
+      "Upright Citizens Brigade (UCB)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which television star discovered Bill Hader performing at a tiny Los Angeles comedy club and personally recommended him to Lorne Michaels?",
+    "options": [
+      "Sean Hayes",
+      "Cheri Oteri",
+      "Megan Mullally",
+      "Debra Messing"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "What celebrity impression did Bill Hader perform during his 2005 audition that instantly captivated Lorne Michaels?",
+    "options": [
+      "Christopher Walken and Jack Nicholson",
+      "Arnold Schwarzenegger and Clint Eastwood",
+      "An Italian man on a talk show and Al Pacino",
+      "Woody Allen and Robert De Niro"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What bizarre prop did Will Ferrell bring to his 1995 audition that he used to play a frantic businessman obsessed with cat toys?",
+    "options": [
+      "A bowling ball wrapped in foil",
+      "A live turtle in a shoebox",
+      "A briefcase filled with fake money and small cat toys",
+      "A giant wooden mallet"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What character did Kristen Wiig perform at her 2005 audition that was put on the air almost verbatim in her very first episode?",
+    "options": [
+      "The Target Lady",
+      "Aunt Linda",
+      "Dooneese",
+      "Penelope"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Why was Lorne Michaels initially hesitant to audition Kenan Thompson in 2003?",
+    "options": [
+      "Kenan had never performed live sketch comedy",
+      "Kenan had already starred on Nickelodeon's 'All That' and Lorne preferred fresh discoveries",
+      "Kenan was under exclusive contract with Disney",
+      "Kenan was living in London at the time"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which stand-up comic and 'Between Two Ferns' host spent two weeks as an SNL guest writer in 1999 before leaving the show?",
+    "options": [
+      "Demetri Martin",
+      "Todd Barry",
+      "Zach Galifianakis",
+      "Nick Swardson"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What absurd sketch idea did Zach Galifianakis pitch to host Britney Spears during his brief 1999 writing stint?",
+    "options": [
+      "Britney shopping for vintage military tanks",
+      "A duet with a singing toaster",
+      "A dance battle against a librarian",
+      "An interview where his belly button eats a submarine sandwich"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which future 'Arrested Development' and 'Mr. Show' star auditioned for SNL in 1990 and was turned down?",
+    "options": [
+      "Will Arnett",
+      "David Cross",
+      "Tony Hale",
+      "Jason Bateman"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which future 'Modern Family' star auditioned for SNL in the 1990s, doing impressions of Christopher Walken and various anchors?",
+    "options": [
+      "Ed O'Neill",
+      "Jesse Tyler Ferguson",
+      "Ty Burrell",
+      "Eric Stonestreet"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which comedy star was hired as an SNL writer in 2008 and wrote famous sketches like 'What Up with That?' and 'Diner Lobster' before becoming a Five-Timers host?",
+    "options": [
+      "John Mulaney",
+      "Simon Rich",
+      "Mike O'Brien",
+      "Jorma Taccone"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which acclaimed writer published best-selling comedic short story collections like 'Ant Farm' and 'Sell Out' while on the SNL writing staff?",
+    "options": [
+      "John Mulaney",
+      "Streeter Seidell",
+      "Simon Rich",
+      "Colin Jost"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "How old was Simon Rich when he was hired as an SNL writer in 2007, making him one of the youngest writers in the show's history?",
+    "options": [
+      "23 years old",
+      "19 years old",
+      "21 years old",
+      "26 years old"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which future stand-up superstar and 'Broad City' executive producer was a staff writer on SNL from 2009 to 2010?",
+    "options": [
+      "Hannibal Buress",
+      "John Mulaney",
+      "Michael Che",
+      "Pete Davidson"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which beloved digital short creator was an SNL writer from 2007 to 2015 and starred in '7 Minutes in Heaven' webisodes from a closet?",
+    "options": [
+      "Mike O'Brien",
+      "John Higgins",
+      "Martin Herlihy",
+      "Tim Robinson"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which creator of Netflix's 'I Think You Should Leave' was an SNL cast member for Season 38 (2012-2013) and then moved to the writing staff?",
+    "options": [
+      "Tim Robinson",
+      "Sam Richardson",
+      "Kyle Mooney",
+      "Beck Bennett"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "What was the name of the viral sketch written by Tim Robinson and Zach Kanin about a baby who is an absolute jerk?",
+    "options": [
+      "Baby Boss / Baby Crying",
+      "Infant Terror",
+      "Bratty Toddler",
+      "Diaper Dave"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which iconic Second City performer was hired to join SNL in 1981, but quit before her first episode aired because of backstage chaos under Jean Doumanian?",
+    "options": [
+      "Andrea Martin",
+      "Gail Matthius",
+      "Robin Duke",
+      "Catherine O'Hara"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who replaced Catherine O'Hara on the cast after O'Hara walked away before Season 6 began airing?",
+    "options": [
+      "Robin Duke",
+      "Mary Gross",
+      "Julia Louis-Dreyfus",
+      "Denny Dillon"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which 'Key & Peele' star auditioned for SNL in 2008 to portray Barack Obama, narrowly losing out to Fred Armisen?",
+    "options": [
+      "Jordan Peele",
+      "Keegan-Michael Key",
+      "Jay Pharoah",
+      "Dean Edwards"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which famous actor and director was cast in Season 11 (1985-1986) along with Robert Downey Jr., but was let go after one season?",
+    "options": [
+      "Judd Nelson",
+      "Emilio Estevez",
+      "Rob Lowe",
+      "Anthony Michael Hall"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which Academy Award-nominated actor and brother of Randy Quaid was an SNL cast member during the 1985-1986 season?",
+    "options": [
+      "Dennis Quaid",
+      "Randy Quaid",
+      "Beau Bridges",
+      "Jeff Daniels"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What ranking did Rolling Stone notoriously give to Robert Downey Jr. in its 2015 retrospective ranking of all 145 SNL cast members?",
+    "options": [
+      "Number 100",
+      "Dead last (Number 145)",
+      "Number 120",
+      "Number 135"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which performer did Rolling Stone rank as the Number 1 greatest SNL cast member of all time in that 2015 list?",
+    "options": [
+      "Eddie Murphy",
+      "Phil Hartman",
+      "Will Ferrell",
+      "John Belushi"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which performer was ranked Number 2 on Rolling Stone's 2015 list, celebrated for saving the show during the early 1980s?",
+    "options": [
+      "Dana Carvey",
+      "Eddie Murphy",
+      "Bill Murray",
+      "Tina Fey"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which stand-up comedian auditioned for SNL by performing an impression of Christopher Walken giving a speech to kids, which landed him on the show in 2005?",
+    "options": [
+      "Jason Sudeikis",
+      "Bill Hader",
+      "Andy Samberg",
+      "Fred Armisen"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Jason Sudeikis was originally hired on SNL in 2003 in what position before joining the cast in 2005?",
+    "options": [
+      "Staff writer",
+      "Production assistant",
+      "Talent scout",
+      "Cue-card grip"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which comedy star was hired as a featured player in 2012, spent only one season on camera, and became a massive sitcom star on 'Fresh Off the Boat'?",
+    "options": [
+      "Kumail Nanjiani",
+      "Ronny Chieng",
+      "Jimmy O. Yang",
+      "Randall Park (auditioned) / Tim Robinson"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which actress auditioned in 2000, was hired in 2001, and became famous for her impressions of Donatella Versace, Whitney Houston, and Maya Angelou?",
+    "options": [
+      "Ana Gasteyer",
+      "Cheri Oteri",
+      "Rachel Dratch",
+      "Maya Rudolph"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who is Maya Rudolph's famous singer mother, known for the multi-octave 1975 hit 'Lovin' You'?",
+    "options": [
+      "Minnie Riperton",
+      "Chaka Khan",
+      "Donna Summer",
+      "Roberta Flack"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which Second City Chicago duo known for their two-woman stage show were hired together by Lorne Michaels in 1999?",
+    "options": [
+      "Amy Poehler and Tina Fey",
+      "Tina Fey and Rachel Dratch",
+      "Kristen Wiig and Maya Rudolph",
+      "Aidy Bryant and Cecily Strong"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What was the title of Tina Fey and Rachel Dratch's hit two-woman comedy revue at Chicago's Second City that caught Lorne's attention?",
+    "options": [
+      "Two Women Talking",
+      "Windy City Ladies",
+      "Fey & Dratch Live",
+      "Dratch & Fey"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which cast member was hired after submitting a homemade VHS audition tape featuring impressions of Prince and an elderly blind man?",
+    "options": [
+      "Bill Hader",
+      "Andy Samberg",
+      "Fred Armisen",
+      "Horatio Sanz"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Before entering comedy and joining SNL, what was Fred Armisen's primary career in the late 1980s and 1990s?",
+    "options": [
+      "A graphic designer for album covers",
+      "A classical ballet dancer",
+      "A professional skateboarder",
+      "A professional rock drummer (for Trenchmouth and Blue Man Group)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which current cast member was hired in 2019 as a writer, promoted to cast, and became the first Chinese-American cast member in SNL history?",
+    "options": [
+      "Devon Walker",
+      "Bowen Yang",
+      "Andrew Dismukes",
+      "Marcello Hernandez"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "What viral social media videos helped Bowen Yang gain national attention before being hired at SNL?",
+    "options": [
+      "Pranking strangers on the NYC subway on TikTok",
+      "Cooking gourmet meals while reviewing Broadway shows",
+      "Impersonating Disney princesses singing rap songs",
+      "Lip-syncing dramatic pop-culture movie and TV dialogue on Twitter"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which stand-up comic joined SNL as a writer in 2017 before being promoted to featured player in 2020?",
+    "options": [
+      "Michael Longfellow",
+      "James Austin Johnson",
+      "Andrew Dismukes",
+      "Punkie Johnson"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which cast member was the first openly non-binary performer hired in the cast of Saturday Night Live in 2022?",
+    "options": [
+      "Molly Kearney",
+      "Punkie Johnson",
+      "Sarah Sherman",
+      "Chloe Troast"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which stand-up comedian was announced as a new cast member in September 2019, but was fired just four days later after past racist podcast clips surfaced?",
+    "options": [
+      "Matt McCusker",
+      "Mark Normand",
+      "Shane Gillis",
+      "Theo Von"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "In February 2024, what major milestone did Shane Gillis achieve after having been fired before his first season in 2019?",
+    "options": [
+      "He returned to Studio 8H to host the show",
+      "He was re-hired as head writer",
+      "He won a Primetime Emmy for writing",
+      "He performed as musical guest"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "What was Shane Gillis' self-deprecating opening line in his February 2024 monologue?",
+    "options": [
+      "Well, that took long enough!",
+      "Look who's back in the building!",
+      "Did you miss me?",
+      "Yeah, I probably shouldn't be up here, honestly"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which ground-breaking female cast member joined SNL in 1985 as the show's first Black female repertory player?",
+    "options": [
+      "Danitra Vance",
+      "Yvonne Hudson",
+      "Ellen Cleghorne",
+      "Sasheer Zamata"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which Black actress was a featured player on SNL in Season 6 (1980-1981) and became the first Black woman credited in the cast?",
+    "options": [
+      "Danitra Vance",
+      "Ellen Cleghorne",
+      "Yvonne Hudson",
+      "Sasheer Zamata"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which stand-up comic joined the cast in 1991, becoming the first Black woman to spend more than one season as a repertory player?",
+    "options": [
+      "Ellen Cleghorne",
+      "Danitra Vance",
+      "Leslie Jones",
+      "Maya Rudolph"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which comedian joined SNL as a writer in early 2014, was promoted to cast in October 2014 at age 47, and earned two Emmy nominations?",
+    "options": [
+      "Wanda Sykes",
+      "Tiffany Haddish",
+      "Leslie Jones",
+      "Sherri Shepherd"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who was the oldest rookie cast member ever hired in Saturday Night Live history at age 47?",
+    "options": [
+      "Michael McKean",
+      "Leslie Jones",
+      "George Coe",
+      "Darrell Hammond"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which veteran comedy actor joined the SNL cast in 1994 at age 46 after already starring in 'Laverne & Shirley' and 'This Is Spinal Tap'?",
+    "options": [
+      "Christopher Guest",
+      "Michael McKean",
+      "Harry Shearer",
+      "Martin Short"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who is the only person to have been an SNL musical guest, a host, and a repertory cast member across his career?",
+    "options": [
+      "Michael McKean",
+      "Bill Murray",
+      "Paul Simon",
+      "Dan Aykroyd"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which original 'Spinal Tap' bassist joined SNL twice as a cast member (1979-1980 and 1984-1985) and quit both times due to creative frustration?",
+    "options": [
+      "Christopher Guest",
+      "Michael McKean",
+      "Rob Reiner",
+      "Harry Shearer"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which legendary improv comic and director of 'Waiting for Guffman' joined the SNL cast for the star-studded 1984-1985 season?",
+    "options": [
+      "Eugene Levy",
+      "John Candy",
+      "Rick Moranis",
+      "Christopher Guest"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which famous SCTV stars were invited to join SNL in 1984 by Dick Ebersol for a single one-year 'all-star' season?",
+    "options": [
+      "Martin Short, Billy Crystal, and Christopher Guest",
+      "John Candy, Eugene Levy, and Catherine O'Hara",
+      "Rick Moranis, Dave Thomas, and Joe Flaherty",
+      "Andrea Martin, Harold Ramis, and Robin Duke"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Why was Billy Crystal's original appearance in SNL's very first episode on October 11, 1975 abruptly cancelled hours before airtime?",
+    "options": [
+      "His stand-up monologue was cut down to two minutes due to time constraints, so his manager pulled him",
+      "He came down with acute laryngitis backstage",
+      "He had an argument with host George Carlin",
+      "Lorne Michaels fired him during dress rehearsal"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "In what season did Billy Crystal finally join SNL as a full-time cast member, nine years after being cut from the premiere?",
+    "options": [
+      "Season 8 (1982-1983)",
+      "Season 11 (1985-1986)",
+      "Season 12 (1986-1987)",
+      "Season 10 (1984-1985)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which Groundlings alumna auditioned in 1995 with the character of an overly enthusiastic middle-school teacher and was hired immediately?",
+    "options": [
+      "Molly Shannon",
+      "Cheri Oteri",
+      "Ana Gasteyer",
+      "Rachel Dratch"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which future 'Silicon Valley' and 'Portlandia' star auditioned for SNL in 2009 and later appeared as a writer and guest performer?",
+    "options": [
+      "Thomas Middleditch",
+      "Martin Starr",
+      "Kumail Nanjiani (auditioned) / Carrie Brownstein",
+      "Zach Woods"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which future 'Unbreakable Kimmy Schmidt' star auditioned for SNL in 2008 and was cast in 'The Office' shortly thereafter?",
+    "options": [
+      "Jane Krakowski",
+      "Tituss Burgess",
+      "Carol Kane",
+      "Ellie Kemper"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which comedian and impressionist was hired in 2010 and was famous for uncanny impressions of Denzel Washington, Will Smith, and Barack Obama?",
+    "options": [
+      "Dean Edwards",
+      "Jay Pharoah",
+      "Finesse Mitchell",
+      "Chris Redd"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which cast member was hired in 2010 and became famous for her impressions of Miley Cyrus, Hillary Clinton, and the 'Secret Word' contestant?",
+    "options": [
+      "Nasim Pedrad",
+      "Abby Elliott",
+      "Heidi Gardner",
+      "Vanessa Bayer"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who was the first Iranian-American cast member in Saturday Night Live history, joining the show in 2009?",
+    "options": [
+      "Vanessa Bayer",
+      "Noël Wells",
+      "Nasim Pedrad",
+      "Melissa Villaseñor"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who was the first Latina cast member in Saturday Night Live history, hired in 2016?",
+    "options": [
+      "Ego Nwodim",
+      "Melissa Villaseñor",
+      "Sasheer Zamata",
+      "Chloe Fineman"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which cast member who joined in 2008 is the daughter of former SNL cast member Chris Elliott?",
+    "options": [
+      "Casey Wilson",
+      "Abby Elliott",
+      "Michaela Watkins",
+      "Jenny Slate"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Who was Abby Elliott's grandfather, making her part of the first three-generation family to perform on SNL?",
+    "options": [
+      "Bob Elliott (of comedy duo Bob and Ray)",
+      "Jack Paar",
+      "Carl Reiner",
+      "Mel Brooks"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which cast member was fired after just one season (2008-2009) despite creating popular characters like Angie Tempura on 'Bitch Plez'?",
+    "options": [
+      "Michaela Watkins",
+      "Casey Wilson",
+      "Abby Elliott",
+      "Jenny Slate"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What reason did Lorne Michaels famously give Michaela Watkins when letting her go after Season 34?",
+    "options": [
+      "He said she missed too many table reads",
+      "He told her the network mandated budget cuts",
+      "He told her she deserved to have her own television show rather than being stuck on SNL",
+      "He said she broke character too frequently"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which future 'Happy Endings' star was a cast member for two seasons from 2008 to 2009 before being let go?",
+    "options": [
+      "Elisha Cuthbert",
+      "Eliza Coupe",
+      "Michaela Watkins",
+      "Casey Wilson"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which cast member was hired in 2012, left after one season, and went on to create and star in Netflix's 'Master of None' and direct 'Mr. Roosevelt'?",
+    "options": [
+      "Sasheer Zamata",
+      "Noël Wells",
+      "Brooks Wheelan",
+      "John Milhiser"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which stand-up comic joined in Season 39 (2013-2014) and later turned his single-season firing into a hit stand-up comedy special?",
+    "options": [
+      "John Milhiser",
+      "Brooks Wheelan",
+      "Mike O'Brien",
+      "Luke Null"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which musical comedian was hired for Season 43 (2017-2018) with a guitar in his audition, only to be let go after one season?",
+    "options": [
+      "Paul Brittain",
+      "Luke Null",
+      "Jon Rudnitsky",
+      "Alex Moffat"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which stand-up comedian and impressionist joined the cast in 2015, famously performing an elaborate 'Dirty Dancing' routine on Weekend Update?",
+    "options": [
+      "Pete Davidson",
+      "Jon Rudnitsky",
+      "Chris Redd",
+      "Brooks Wheelan"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which Groundlings alumnus joined in 2010 and played eccentric characters like 'Lord Cecil Wyndemere' and 'Sex' ed teacher Greg Stink?",
+    "options": [
+      "Paul Brittain",
+      "Taran Killam",
+      "Bobby Moynihan",
+      "Tim Robinson"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which prolific cast member joined in 2010, performed for six seasons, and played characters like Jebidiah Atkinson and movie villains?",
+    "options": [
+      "Jay Pharoah",
+      "Alex Moffat",
+      "Beck Bennett",
+      "Taran Killam"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which popular cast member was hired in 2008 and spent nine seasons playing iconic characters like Drunk Uncle and Jacob the Bar Mitzvah Boy?",
+    "options": [
+      "Bobby Moynihan",
+      "Horatio Sanz",
+      "Andy Samberg",
+      "Bill Hader"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which cast member was hired in 1998 and spent eight seasons on SNL, famous for playing Aaron Neville and constantly cracking up on air with Jimmy Fallon?",
+    "options": [
+      "Chris Kattan",
+      "Horatio Sanz",
+      "Tracy Morgan",
+      "Finesse Mitchell"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Which stand-up comedian was hired in 2017 and won an Emmy in 2018 for co-writing the musical parody 'Come Back Barack'?",
+    "options": [
+      "Jay Pharoah",
+      "Chris Redd",
+      "Pete Davidson",
+      "Kenan Thompson"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which member of Please Don't Destroy is the son of legendary longtime SNL head writer and producer Steve Higgins?",
+    "options": [
+      "Martin Herlihy",
+      "Ben Marshall",
+      "John Higgins",
+      "Streeter Seidell"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "Which member of Please Don't Destroy is the son of former SNL head writer and Weekend Update writer Tim Herlihy?",
+    "options": [
+      "John Higgins",
+      "Ben Marshall",
+      "Dave McCary",
+      "Martin Herlihy"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "SNL",
+    "q": "What college comedy troupe at NYU did the three members of Please Don't Destroy form before joining SNL?",
+    "options": [
+      "Dangerbox",
+      "The Upright Citizens",
+      "Hammerkatz",
+      "The Lampooners"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "SNL",
+    "q": "Which current cast member joined in Season 47 (2021) and was previously an acclaimed impressionist on YouTube doing Trump and podcast hosts?",
+    "options": [
+      "Andrew Dismukes",
+      "James Austin Johnson",
+      "Michael Longfellow",
+      "Devon Walker"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "SNL",
+    "q": "Who was the first openly gay male cast member in Saturday Night Live history, joining in 1985?",
+    "options": [
+      "Terry Sweeney",
+      "John Milhiser",
+      "Bowen Yang",
+      "Danitra Vance"
+    ],
+    "answer": 0,
+    "d": 2
+  }
+]

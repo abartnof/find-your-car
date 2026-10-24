@@ -1,0 +1,630 @@
+import json
+
+# 100 questions for Batch 5 (Extratextual: Pop culture impact, George Bush feud, Bart T-shirts, Portland origins, Michael Jackson, Dictionaries, Video Games S1-10)
+# Distribution: 25 answer 0, 25 answer 1, 25 answer 2, 25 answer 3
+# Difficulty: 30 d1, 40 d2, 30 d3
+
+raw_questions = [
+    # --- Group 0: Answer index 0 (25 questions) ---
+    {
+        "q": "Which pop superstar secretly co-wrote and produced Bart Simpson's 1990 hit single 'Do the Bartman'?",
+        "options": ["Michael Jackson", "Prince", "Stevie Wonder", "George Michael"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "What anagram of the word 'brat' did Matt Groening choose for the Simpson son to avoid naming the character after himself?",
+        "options": ["Bart", "Tarb", "Brat", "Trab"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In what Pacific Northwest city did Matt Groening grow up, taking names for characters like Flanders, Lovejoy, and Quimby from local streets?",
+        "options": ["Portland, Oregon", "Seattle, Washington", "Eugene, Oregon", "Spokane, Washington"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "What candy bar featured Bart Simpson in a long-running, famous advertising campaign with the slogan 'Nobody better lay a finger on my Butterfinger'?",
+        "options": ["Butterfinger", "Baby Ruth", "Snickers", "Milky Way"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "What 1990 platinum-selling musical album featured the Simpson cast performing original blues and hip-hop songs, including 'Do the Bartman'?",
+        "options": ["The Simpsons Sing the Blues", "The Yellow Album", "Songs in the Key of Springfield", "Go Simpsonic with The Simpsons"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Which US President declared in a 1992 campaign speech that American families should be 'more like the Waltons and a lot less like the Simpsons'?",
+        "options": ["George H.W. Bush", "Ronald Reagan", "Bill Clinton", "Jimmy Carter"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Which First Lady called The Simpsons 'the dumbest thing I've ever seen' in a 1990 magazine interview, prompting an apology letter after Marge wrote back?",
+        "options": ["Barbara Bush", "Nancy Reagan", "Hillary Clinton", "Rosalynn Carter"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 1998, which prestigious magazine named Bart Simpson one of the 100 most influential people of the 20th century—the only fictional character on the list?",
+        "options": ["Time", "Newsweek", "Rolling Stone", "The New Yorker"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "What word coined by Dan Greaney in 'Lisa the Iconoclast' ('A noble spirit embiggens the smallest man') was officially added to Merriam-Webster in 2018?",
+        "options": ["Embiggen", "Cromulent", "Kwyjibo", "Craptacular"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 1997, Pepsi and Fox constructed an exact real-life replica of 742 Evergreen Terrace as a sweepstakes giveaway in which state?",
+        "options": ["Nevada (Henderson)", "California (Burbank)", "Florida (Orlando)", "Oregon (Portland)"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In the 1991 Konami four-player arcade game, what weapon does Marge wield to fight henchmen?",
+        "options": ["A vacuum cleaner", "A rolling pin", "A bowling ball", "Her handbag"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "Which comic book publisher did Matt Groening co-found in 1993 to publish original Simpsons and Futurama comics?",
+        "options": ["Bongo Comics Group", "Dark Horse Comics", "Image Comics", "IDW Publishing"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "What is the name of Matt Groening's real-life father, who was also an athlete and filmmaker and the namesake for Homer Simpson?",
+        "options": ["Homer Groening", "Mark Groening", "Arthur Groening", "Abraham Groening"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "What 1999 computer virus author used 'Kwyjibo'—a word from the 1990 Simpsons episode 'Bart the Genius'—as a password and embedded phrase?",
+        "options": ["The Melissa virus", "The ILOVEYOU virus", "The Chernobyl virus", "The Morris worm"],
+        "answer": 0,
+        "d": 3
+    },
+    {
+        "q": "What was the highest-rated single episode of The Simpsons in series history, watched by 33.6 million viewers in October 1990?",
+        "options": ["Bart Gets an 'F'", "Simpsons Roasting on an Open Fire", "Bart the Daredevil", "Homer at the Bat"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "Which classic comic strip did Matt Groening create in 1977 that led producer James L. Brooks to recruit him for television animation?",
+        "options": ["Life in Hell", "Doonesbury", "Bloom County", "The Far Side"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "What famous street in Portland, Oregon inspired the name of Homer's holier-than-thou neighbor Ned Flanders?",
+        "options": ["NW Flanders Street", "Lovejoy Street", "Quimby Street", "Kearney Street"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "What slogan on Bart Simpson T-shirts in 1990 led principals across the country to ban them from schools for promoting bad attitudes?",
+        "options": ["Underachiever and proud of it, man!", "Born to be bad!", "School is a waste of time!", "Teachers beware!"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In the 1991 NES video game 'The Simpsons: Bart vs. the Space Mutants', what must Bart do to defeat aliens disguised as humans?",
+        "options": ["Spray-paint purple objects and wear X-ray glasses", "Shoot them with a slingshot", "Collect nuclear fuel rods", "Jump on their spaceships"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "What 1990 single by DJ Jazzy Jeff & The Fresh Prince featured a music video style that directly inspired Bart's rap song 'Deep, Deep Trouble'?",
+        "options": ["Parents Just Don't Understand", "Summertime", "Girls Ain't Nothing But Trouble", "The Fresh Prince Theme"],
+        "answer": 0,
+        "d": 3
+    },
+    {
+        "q": "Following Phil Hartman's tragic death in May 1998, what did the producers of The Simpsons decide to do with his recurring characters?",
+        "options": ["Permanently retire Lionel Hutz and Troy McClure out of respect", "Recast them with Dan Castellaneta", "Have the characters killed off in a storyline", "Replace them with CGI versions"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "Which 1992 home console game featured Bart falling asleep while studying and navigating surreal worlds as 'Bartman' and 'Bartzilla'?",
+        "options": ["The Simpsons: Bart's Nightmare", "Bart vs. the World", "The Itchy & Scratchy Game", "Krusty's Fun House"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "What real-life street in Portland, Oregon provided the surname for the character of Chief Clancy Wiggum (which was also Matt Groening's mother's maiden name)?",
+        "options": ["Wiggum", "Terwilliger", "Burnside", "Couch"],
+        "answer": 0,
+        "d": 3
+    },
+    {
+        "q": "Which major television network originally aired The Simpsons and used its massive success to establish itself as America's fourth major broadcast network?",
+        "options": ["Fox", "The WB", "UPN", "CBS"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "What slang interjection popularized by Bart Simpson, meaning 'my fault' or dismissing an error, originated among writers and entered common parlance?",
+        "options": ["My bad", "Not my circus", "Whatever, man", "Chill out"],
+        "answer": 0,
+        "d": 3
+    },
+
+    # --- Group 1: Answer index 1 (25 questions) ---
+    {
+        "q": "How did Dan Castellaneta originate Homer's signature vocal exclamation 'D'oh!'?",
+        "options": ["It was written phonetically in Groening's original script", "He mimicked Scottish actor James Finlayson's 'annoyed grunt' from Laurel and Hardy films", "It was an accidental vocal slip during a line read", "He based it on his father's reaction when dropping tools"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In scripts for The Simpsons, how was Homer's catchphrase 'D'oh!' officially written from the very beginning?",
+        "options": ["D'oh!", "Annoyed grunt", "Groan", "Argh!"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "What street in Portland, Oregon was the direct inspiration for the name of Springfield's philandering mayor, Diamond Joe Quimby?",
+        "options": ["Lovejoy Street", "NW Quimby Street", "Terwilliger Boulevard", "Burnside Street"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "What was the very first piece of Simpsons merchandise ever produced and sold to the public in late 1989?",
+        "options": ["A Bart Simpson plush doll", "A T-shirt featuring Bart saying 'Eat My Shorts'", "A Bart Simpson wristwatch", "A Homer Simpson coffee mug"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 1990, the underground cultural phenomenon of unauthorized Bart Simpson merchandise featuring Bart depicted as various cultural figures was known as what?",
+        "options": ["Bart Fever", "Bootleg Bart", "Rasta Bart", "Underground Bart"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "When George H.W. Bush gave his 1992 speech attacking the Simpsons, what rebuttal did Bart deliver during the very next broadcast's opening?",
+        "options": ["Read my lips: eat my shorts!", "Hey, we're just like the Waltons. We're praying for an end to the Depression, too.", "At least our dad doesn't barf on foreign prime ministers!", "No new taxes means no new toys!"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "What word coined in 'Lisa the Iconoclast' ('A perfectly cromulent word') was added to the Oxford English Dictionary in 2013?",
+        "options": ["Embiggen", "Cromulent", "Kwyjibo", "Craptacular"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In the 1991 Konami arcade game, which family member was kidnapped by Waylon Smithers after accidentally swallowing a stolen diamond?",
+        "options": ["Bart Simpson", "Maggie Simpson", "Lisa Simpson", "Santa's Little Helper"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "What was the title of the 1997 interactive PC CD-ROM adventure game that allowed players to explore a fully 3D digital recreation of Springfield?",
+        "options": ["Escape from Springfield", "Virtual Springfield", "The Simpsons: Springfield Unleashed", "Homer's Digital Tour"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which major record label released 'The Simpsons Sing the Blues' album in December 1990?",
+        "options": ["Columbia Records", "Geffen Records", "Warner Bros. Records", "Epic Records"],
+        "answer": 1,
+        "d": 3
+    },
+    {
+        "q": "What major city's street provided the surname for Reverend Timothy Lovejoy?",
+        "options": ["Seattle (Lovejoy Ave)", "Portland (NW Lovejoy Street)", "San Francisco (Lovejoy St)", "Chicago (Lovejoy Ave)"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "What famous street in Portland, Oregon inspired the name of Bart's arch-nemesis Sideshow Bob (Dr. Robert Terwilliger)?",
+        "options": ["Burnside Street", "Terwilliger Boulevard", "Kearney Street", "Couch Street"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "What name did Matt Groening give to Marge Simpson, based on the real-life name of his mother?",
+        "options": ["Mary", "Margaret (Marge)", "Marilyn", "Martha"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 1990, an elementary school in which state made national headlines as the first to ban Bart Simpson 'Underachiever' T-shirts?",
+        "options": ["Texas", "Ohio (Cambridge Elementary)", "California", "New York"],
+        "answer": 1,
+        "d": 3
+    },
+    {
+        "q": "Which real-life rock festival was satirized in Season 7's 'Homerpalooza', which was touring North America at the height of '90s alt-rock?",
+        "options": ["Woodstock '94", "Lollapalooza", "Lilith Fair", "Warped Tour"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 1997, who won the sweepstakes contest for the life-sized replica of the Simpsons house in Henderson, Nevada?",
+        "options": ["A college student from Oregon", "Barbara Howard, a retired factory worker from Kentucky", "A computer programmer from California", "A Simpsons animator"],
+        "answer": 1,
+        "d": 3
+    },
+    {
+        "q": "What was the very first video game ever released based on The Simpsons, launched in 1991 for home computers and the NES?",
+        "options": ["The Simpsons: Bart's Nightmare", "The Simpsons: Bart vs. the Space Mutants", "The Simpsons Arcade Game", "Krusty's Fun House"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "What popular 1990s snack food made by Keebler featured cookies shaped like Bart, Homer, and the family?",
+        "options": ["Simpsons Graham Bites", "Simpsons Chocolate Chip Cookies", "Simpsons Fudge D'ohs", "Butterfinger Cookies"],
+        "answer": 1,
+        "d": 3
+    },
+    {
+        "q": "Which major American fast-food chain partnered with The Simpsons for their earliest promotional toy tie-ins during Seasons 1 and 2?",
+        "options": ["McDonald's", "Burger King", "Wendy's", "Hardee's"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "What popular exclamation meaning 'to steal or snatch quickly', coined and used constantly in Simpsons writers' rooms, became standard English slang?",
+        "options": ["Snarf", "Yoink", "Swipe", "Gank"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "What real-life boulevard in Portland provided the name for school bully Kearney Zzyzwicz?",
+        "options": ["Burnside Street", "NW Kearney Street", "Flanders Street", "Vaughn Street"],
+        "answer": 1,
+        "d": 3
+    },
+    {
+        "q": "In 1990, what UK music chart milestone was achieved by 'Do the Bartman'?",
+        "options": ["It debuted at #5", "It reached #1 and stayed for three consecutive weeks without an official physical US single release", "It was banned by the BBC", "It was the lowest-selling novelty track"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "Which famous Portland park and business district inspired the full name of Charles Montgomery Burns?",
+        "options": ["Forest Park", "Montgomery Park (and Burnside Street)", "Washington Park", "Pioneer Courthouse Square"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "What was the primary reason Fox was willing to give Matt Groening, James L. Brooks, and Sam Simon unprecedented creative control over the series in 1989?",
+        "options": ["Fox had unlimited budget surpluses", "Fox was a struggling startup network desperate for original hit programming", "Rupert Murdoch was a passionate animation collector", "The FCC mandated independent cartoon production"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 1993, what superhero alter ego did Bart assume in Bongo Comics' inaugural comic book issue?",
+        "options": ["Radioactive Boy", "Bartman", "El Barto", "The Yellow Avenger"],
+        "answer": 1,
+        "d": 1
+    },
+
+    # --- Group 2: Answer index 2 (25 questions) ---
+    {
+        "q": "What famous phrase uttered by Bart Simpson appeared on millions of bootleg T-shirts across the United States in 1990?",
+        "options": ["Cowabunga dude!", "Who cares, man?", "Eat My Shorts", "Don't look at me!"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "Which real-life sisters of Matt Groening were the inspirations for Homer and Marge's daughters?",
+        "options": ["Patty and Selma", "Sarah and Jacqueline", "Lisa and Maggie", "Sherri and Terri"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 1990, which prominent entertainment publication awarded The Simpsons an 'A' grade in its debut year and named it the best television series of 1990?",
+        "options": ["Rolling Stone", "People", "Entertainment Weekly", "TV Guide"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "What dictionary added 'D'oh!' to its prestigious lexicon in 2001, defining it as an expression of frustration upon realizing things have turned out badly?",
+        "options": ["Merriam-Webster Collegiate Dictionary", "American Heritage Dictionary", "The Oxford English Dictionary", "Collins English Dictionary"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "What 1992 platformer video game for Super Nintendo and Sega Genesis starred Krusty guiding mice into traps to clean his fun house?",
+        "options": ["Krusty's Fun Run", "Bart's Mouse Trap", "Krusty's Super Fun House", "Clown Town Mayhem"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 1991, what famous sports event did the Simpsons promote in an iconic Super Bowl XXVI commercial?",
+        "options": ["The World Series", "The Daytona 500", "Super Bowl XXVI (with Homer picking the Redskins)", "The Stanley Cup Finals"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "What iconic phrase does Marge deliver in her real-life letter to Barbara Bush that touched the First Lady?",
+        "options": ["Don't judge us from your mansion", "Eat my shorts, First Lady", "I always try to teach my children to give everybody the benefit of the doubt and not speak ill of them", "We may be yellow, but we are real Americans"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "What popular 1990s word expressing apathy or indifference ('M-E-H') was popularized globally by The Simpsons starting in Season 6?",
+        "options": ["Whatever", "Bleh", "Meh", "Duh"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 1990, which prominent American religious leader commended the Simpsons for depicting a family that prayed together at meals and attended church every Sunday?",
+        "options": ["Jerry Falwell", "Pat Robertson", "Billy Graham", "Oral Roberts"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "Which video game manufacturer produced the legendary 1991 four-player Simpsons arcade cabinet that became an arcade sensation worldwide?",
+        "options": ["Capcom", "Sega", "Konami", "Midway"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "What was the title of the second studio album released by The Simpsons in 1998, featuring songs recorded during the golden era?",
+        "options": ["Songs in the Key of Springfield", "The Blue Album", "The Yellow Album", "Go Simpsonic"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "Which major magazine featured Bart Simpson on its cover with the headline 'Is Bart Simpson Ruining America?' in 1990?",
+        "options": ["Rolling Stone", "Time", "People", "TV Guide"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "What real-life Portland school did Matt Groening attend, whose mascot and architecture influenced Springfield Elementary?",
+        "options": ["West Springfield High", "Rose City Elementary", "Lincoln High School (and Ainsworth Elementary)", "Portland Community Prep"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "In 1992, what did Fox broadcast on Thursday nights directly against NBC's The Cosby Show to promote the new season?",
+        "options": ["A live-action Simpsons special", "A marathon of Tracey Ullman shorts", "New episodes of The Simpsons paired with The Simpsons Sing the Blues videos", "A debate between Homer Simpson and Bill Cosby"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "What was the name of the 1993 music video single from 'The Yellow Album' featuring Homer singing about his love for food and family?",
+        "options": ["Deep, Deep Trouble", "Do the Bartman", "Sisters Are Doin' It for Themselves", "God Bless the Child"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "What famous line did Bart Simpson utter in response to being scolded, which became one of the biggest catchphrases of the early 1990s?",
+        "options": ["Whatever floats your boat!", "That's not my problem!", "Don't have a cow, man!", "Forget you, pal!"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "What was the primary critique conservative critics initially leveled at Bart Simpson during the 1990-1991 school year?",
+        "options": ["He was too politically outspoken", "He promoted dangerous skateboard stunts", "He was a disrespectful, anti-authority role model for American children", "He promoted skipping church on Sundays"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "Which company manufactured the official 'World of Springfield' interactive electronic action figures starting at the end of the 1990s?",
+        "options": ["Kenner", "Hasbro", "Playmates Toys", "Mattel"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "What major award did The Simpsons win in 1996 from the Peabody Board for distinguished achievement and public service in broadcasting?",
+        "options": ["Golden Globe Award", "Oscar Citation", "The George Foster Peabody Award", "Television Critics Association Medal"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "What 1990 UK single release by Bart Simpson reached #1 despite not being available as a commercial physical CD single in the United States?",
+        "options": ["Deep, Deep Trouble", "God Bless the Child", "Do the Bartman", "Born Under a Bad Sign"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "What name did Matt Groening give to Bart's mother's sisters, Patty and Selma, inspired by real life?",
+        "options": ["His great-aunts", "His high school teachers", "One was his real sister Patty, and Selma was named after his aunt", "His mother's sisters from Portland"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "In 1990, what department store chain agreed to pull controversial Bart Simpson T-shirts from its shelves following parent complaints?",
+        "options": ["Sears", "Montgomery Ward", "JCPenney", "Macy's"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "What 1991 Simpsons home video compilation was among the earliest official VHS releases, compiling Bart-centric classic episodes?",
+        "options": ["The Simpsons: Greatest Hits", "Springfield Stories", "The Best of The Simpsons", "Simpsons Classics"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "In the 1991 arcade game, what weapon does Bart Simpson use to hit enemies?",
+        "options": ["A slingshot", "A baseball bat", "His skateboard", "A can of spray paint"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "What was the name of the real-life 1990 board game based on the show produced by Milton Bradley?",
+        "options": ["Springfield Monopoly", "Simpsons Trivia Challenge", "The Simpsons Mystery of the Stolen Donut", "The Simpsons Board Game"],
+        "answer": 2,
+        "d": 3
+    },
+
+    # --- Group 3: Answer index 3 (25 questions) ---
+    {
+        "q": "What real-life family member was Homer Simpson's middle name 'Jay' named after by Matt Groening?",
+        "options": ["His grandfather Jay Groening", "His brother Jay", "Producer James L. Brooks", "An homage to cartoon characters like Bullwinkle J. Moose and Rocket J. Squirrel"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "What real-life address served as the physical prototype for 742 Evergreen Terrace in Matt Groening's childhood memory?",
+        "options": ["742 Evergreen Terrace, Springfield, OR", "123 Main Street, Portland, OR", "456 Maple Drive, Seattle, WA", "The Groening family home on SW Evergreen Terrace in Portland, Oregon"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "What was the slogan on the infamous 1990 bootleg Bart T-shirt that depicted Bart as Nelson Mandela celebrating the end of apartheid?",
+        "options": ["Free Bart!", "Bart Mandela!", "Eat My Shorts, Apartheid!", "A Black Thing, You Wouldn't Understand"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "What fast-paced 1991 Game Boy video game featured Bart skateboarding through five movie sets to recover his sister's film reels?",
+        "options": ["Bartman Meets Radioactive Man", "Bart vs. the Juggernauts", "Krusty's Fun House", "The Simpsons: Bart vs. the World"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "What prestigious recognition did TV Guide bestow upon The Simpsons in 1998 on its list of the greatest television shows of all time?",
+        "options": ["Ranked #25", "Ranked #10", "Ranked #5", "Ranked the #1 Greatest TV Show of the 1990s"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "What iconic phrase did Bart Simpson popularize in 1990 expressing surprise or mischief that entered pop culture dictionaries globally?",
+        "options": ["Holy moly!", "No way!", "D'oh!", "Ay caramba!"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 1990, who was the Secretary of Education who publicly criticized The Simpsons while addressing a group of drug-prevention workers?",
+        "options": ["Lamar Alexander", "Richard Riley", "Terrel Bell", "William Bennett"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "What was the title of the 1991 hip-hop song performed by Bart Simpson and DJ Jazzy Jeff that reached #10 on the UK charts?",
+        "options": ["Do the Bartman", "Sibling Rivalry", "Look at All the Idiots", "Deep, Deep Trouble"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "Which major television milestone occurred on February 9, 1997, when 'The Itchy & Scratchy & Poochie Show' aired?",
+        "options": ["The 100th episode", "The 150th episode", "The first episode in stereo", "The Simpsons surpassed The Flintstones as the longest-running prime-time animated series in US history (Episode 167)"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "What was the name of the official soundtrack album released by Rhino Records in 1997 compiling 53 musical numbers from Seasons 1 through 8?",
+        "options": ["The Simpsons Sing the Blues", "The Yellow Album", "Go Simpsonic with The Simpsons", "Songs in the Key of Springfield"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "What was the name of the 1993 one-shot comic book published at San Diego Comic-Con that launched Bongo Comics?",
+        "options": ["Simpsons Comics #1", "Bartman #1", "Itchy & Scratchy Comics #1", "Simpsons Comics and Stories #1"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "What did the winner of the 1997 life-size replica Simpsons house sweepstakes in Nevada ultimately decide to do with the house?",
+        "options": ["Lived in it permanently", "Turned it into a paid tourist museum", "Donated it to a children's charity", "Opted for a $75,000 cash payout instead of moving into the house"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "Which real-life American poet recited 'The Raven' alongside James Earl Jones in Season 2's 'Treehouse of Horror I'?",
+        "options": ["Robert Frost", "Maya Angelou", "Allen Ginsberg", "Edgar Allan Poe was credited as co-writer in the end titles"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "In what year did The Simpsons receive its star on the Hollywood Walk of Fame (located at 7021 Hollywood Blvd)?",
+        "options": ["1990", "1995", "1998", "2000 (awarded January 14, 2000 to conclude the 10th anniversary)"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "What was the name of the 1992 arcade pinball machine manufactured by Data East that became a top-selling pinball game of the 1990s?",
+        "options": ["The Simpsons: D'oh!", "Springfield Pinball Mania", "Bart Simpson's High Score", "The Simpsons (Data East Pinball)"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "Which major fast-food chain launched the wildly popular 'Simpsons Bendable Figures' promotion in 1990, the first national fast-food toy tie-in for the franchise?",
+        "options": ["McDonald's", "Wendy's", "Hardee's", "Burger King"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "What was the title of the 1991 book compiled by Matt Groening sharing Bart Simpson's sarcastic wisdom, which spent weeks on the New York Times bestseller list?",
+        "options": ["The Simpsons Handbook", "Bart's Guide to Life", "How to Be a Brat", "The Simpsons Fun Book"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "What was the name of the 1993 NES and Sega Genesis platform game where Bart dresses as a caped vigilante to stop aliens?",
+        "options": ["Bart vs. the World", "Bart's Nightmare", "Escape from Camp Deadly", "Bartman Meets Radioactive Man"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "Which major soft drink company ran the 'Spot the Simpson' sweepstakes promotion during the broadcast of Season 2?",
+        "options": ["Coca-Cola", "Pepsi", "Dr Pepper", "Butterfinger and Nestlé Crunch"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "What classic phrase did Matt Groening say in interviews about why he named Springfield as the setting for the family?",
+        "options": ["It was the capital of Illinois", "It sounded funny in German", "It was named after Springfield, Massachusetts", "Because Springfield is one of the most common city names in the US, allowing any American to feel it was their own town"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "What 1999 arcade bowling game by Konami allowed players to control Homer, Bart, and other Springfieldians on 3D bowling lanes?",
+        "options": ["Springfield Strikes", "Pin Pals Arcade", "Homer's Perfect Game", "The Simpsons Bowling"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 1990, what major American magazine put the Simpson family on its cover with the cover line 'TV's Swellest New Family'?",
+        "options": ["Newsweek", "Time", "Rolling Stone", "Entertainment Weekly"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "What was the name of the official fan club magazine published by Fox in the early 1990s for Simpsons enthusiasts?",
+        "options": ["Springfield News", "The Itchy & Scratchy Fan Club", "Bongo Beat", "Simpsons Illustrated"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "What classic sitcom star publicly complained in 1990 that The Simpsons was eating into their Thursday night ratings supremacy?",
+        "options": ["Ted Danson", "Michael J. Fox", "Roseanne Barr", "Bill Cosby"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "What was the name of the 1998 Simpsons episode compilation album containing classic orchestral cues by Alf Clausen and songs like 'See My Vest' and 'We Do'?",
+        "options": ["The Yellow Album", "The Simpsons Sing the Blues", "The Simpsons Hit Parader", "Songs in the Key of Springfield"],
+        "answer": 3,
+        "d": 1
+    }
+]
+
+output = []
+for q in raw_questions:
+    output.append({
+        "show": "The Simpsons",
+        "q": q["q"],
+        "options": q["options"],
+        "answer": q["answer"],
+        "d": q["d"]
+    })
+
+with open("tools/staging/simpsons_batch5.json", "w", encoding="utf-8") as f:
+    json.dump(output, f, indent=1)
+
+print(f"Generated {len(output)} questions for batch 5.")

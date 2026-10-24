@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Ingredients",
+    "q": "Which leafy green is the mandatory crisp lettuce base of a classic Caesar salad?",
+    "options": [
+      "Romaine lettuce",
+      "Iceberg lettuce",
+      "Arugula",
+      "Butterhead lettuce"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cheese is traditionally grated over a classic Caesar salad?",
+    "options": [
+      "Parmesan",
+      "Cheddar",
+      "Feta",
+      "Gouda"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which small, salty cured fish is traditionally blended into authentic Caesar salad dressing?",
+    "options": [
+      "Sardines",
+      "Mackerel",
+      "Trout",
+      "Anchovies"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which three fresh ingredients are layered in a traditional Italian Caprese salad alongside olive oil and salt?",
+    "options": [
+      "Tomatoes, goat cheese, and oregano",
+      "Ripe tomatoes, fresh mozzarella, and basil",
+      "Cucumbers, feta, and dill",
+      "Tomatoes, burrata, and parsley"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which crunchy nut is a signature ingredient in a classic Waldorf salad?",
+    "options": [
+      "Pistachios",
+      "Almonds",
+      "Walnuts",
+      "Cashews"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which crisp fruit is diced along with celery and walnuts in a traditional Waldorf salad?",
+    "options": [
+      "Apples",
+      "Pears",
+      "Peaches",
+      "Melons"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dressing traditionally coats the apples, celery, and walnuts in a Waldorf salad?",
+    "options": [
+      "Mayonnaise",
+      "Vinaigrette",
+      "Ranch dressing",
+      "Italian dressing"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which root vegetable gives traditional Eastern European Borscht its vibrant deep ruby-red color?",
+    "options": [
+      "Red cabbage",
+      "Beets",
+      "Radishes",
+      "Red carrots"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which creamy dairy product is traditionally dolloped on top of a hot bowl of Borscht?",
+    "options": [
+      "Cream cheese",
+      "Heavy cream",
+      "Cottage cheese",
+      "Sour cream"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which type of clam broth base distinguishes New England clam chowder from Manhattan clam chowder?",
+    "options": [
+      "Tomato broth",
+      "Heavy cream or milk",
+      "Beef stock",
+      "Soy sauce broth"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What base gives Manhattan clam chowder its characteristic red color and acidic tang?",
+    "options": [
+      "Beets",
+      "Tomatoes",
+      "Red bell peppers",
+      "Paprika paste"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What kind of caramelized allium is the central star of classic French onion soup?",
+    "options": [
+      "Garlic cloves",
+      "Leeks",
+      "Yellow onions",
+      "Scallions"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which melted cheese is broiled on a slice of bread atop traditional French onion soup?",
+    "options": [
+      "Brie",
+      "Gruyère",
+      "Cheddar",
+      "Feta"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which herb is the dominant green foundation of traditional Levantine Tabbouleh salad?",
+    "options": [
+      "Cilantro",
+      "Flat-leaf parsley",
+      "Basil",
+      "Oregano"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cracked wheat grain is soaked and mixed with parsley, mint, and tomatoes in classic Tabbouleh?",
+    "options": [
+      "Couscous",
+      "Bulgur",
+      "Quinoa",
+      "Barley"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which brined curd cheese is the hallmark topping of a traditional Greek salad (Horiatiki)?",
+    "options": [
+      "Feta",
+      "Gouda",
+      "Parmesan",
+      "Swiss"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cured meat is traditionally cubed and included in a classic American Cobb salad?",
+    "options": [
+      "Crispy bacon",
+      "Prosciutto",
+      "Pastrami",
+      "Bologna"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which crumbly, pungent cheese is typically arranged in the rows of a classic Cobb salad?",
+    "options": [
+      "Cheddar cheese",
+      "Brie cheese",
+      "Mozzarella cheese",
+      "Roquefort or blue cheese"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which green, creamy fruit is diced into rows in a classic Cobb salad?",
+    "options": [
+      "Avocado",
+      "Kiwi",
+      "Cucumber",
+      "Green apple"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cold Spanish soup from Andalusia is made by blending ripe raw tomatoes, cucumbers, bell peppers, garlic, and stale bread with olive oil and vinegar?",
+    "options": [
+      "Salmorejo",
+      "Gazpacho",
+      "Ajo Blanco",
+      "Bouillabaisse"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which poultry meat is traditionally simmered in red Burgundy wine, mushrooms, and lardons to make Coq au Vin?",
+    "options": [
+      "Duck",
+      "Turkey",
+      "Pork",
+      "Chicken"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which red wine is the traditional braising liquid for authentic French Beef Bourguignon?",
+    "options": [
+      "Bordeaux Cabernet",
+      "Burgundy Pinot Noir",
+      "Chianti",
+      "Rioja"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which hearty green vegetable is shredded as the primary base for traditional coleslaw?",
+    "options": [
+      "Cabbage",
+      "Kale",
+      "Spinach",
+      "Swiss chard"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which protein cooked in duck fat or pork fat, along with white beans and sausages, is the anchor of French Cassoulet?",
+    "options": [
+      "Duck confit",
+      "Ground beef",
+      "Salmon fillets",
+      "Rabbit kidneys"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which type of bean forms the hearty legume base of French Cassoulet?",
+    "options": [
+      "Black beans",
+      "Kidney beans",
+      "Chickpeas",
+      "White beans (Tarbes or cannellini)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which vegetable broth loaded with diced tomatoes, zucchini, pasta or rice, and seasonal greens is the quintessential Italian vegetable soup?",
+    "options": [
+      "Ribollita",
+      "Stracciatella",
+      "Minestrone",
+      "Pasta e Fagioli"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dumplings made from matzo meal, beaten eggs, and chicken fat (schmaltz) are served in classic Jewish chicken soup?",
+    "options": [
+      "Kreplach",
+      "Pierogi",
+      "Gnocchi",
+      "Matzo balls"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy and sour Thai soup is famously flavored with lemongrass, kaffir lime leaves, galangal, chili peppers, and shrimp?",
+    "options": [
+      "Tom Kha Gai",
+      "Massaman",
+      "Gaeng Som",
+      "Tom Yum Goong"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which rich liquid extracted from grated mature coconut meat provides the creamy base for Thai Tom Kha Gai soup?",
+    "options": [
+      "Heavy cream",
+      "Almond milk",
+      "Coconut milk",
+      "Evaporated milk"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cured black olive from the French Riviera is an essential garnishing ingredient in Salade Niçoise?",
+    "options": [
+      "Kalamata olives",
+      "Castelvetrano olives",
+      "Manzanilla olives",
+      "Niçoise olives"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cold, silky leek and potato soup, traditionally thickened with cream, was popularized by chef Louis Diat at the Ritz-Carlton in New York?",
+    "options": [
+      "Velouté de poireaux",
+      "Bisque de homard",
+      "Potage Parmentier",
+      "Vichyssoise"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which thick Andalusian cold tomato soup from Córdoba differs from gazpacho by containing more stale bread, olive oil, and no cucumbers or bell peppers?",
+    "options": [
+      "Salmorejo",
+      "Ajo Blanco",
+      "Porra Antequerana",
+      "Gazpachuelo"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cold Andalusian soup, often called 'white gazpacho', is made from blended blanched almonds, garlic, stale bread, olive oil, and vinegar, garnished with green grapes?",
+    "options": [
+      "Salmorejo",
+      "Ajo Blanco",
+      "Menestra",
+      "Sopa de ajo"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fragrant rhizome, closely related to ginger but with a sharper, citrusy, and pine-like bite, is vital to authentic Tom Yum and Tom Kha soups?",
+    "options": [
+      "Galangal",
+      "Turmeric",
+      "Horseradish",
+      "Wasabi"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which citrus tree leaf with a double-lobed shape gives Southeast Asian broths their distinct floral-citrus aroma?",
+    "options": [
+      "Lemon verbena leaf",
+      "Curry leaf",
+      "Kaffir lime leaf (makrut lime)",
+      "Bay leaf"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Tuscan bread salad features chunks of stale crusty bread soaked in vinegar and juices from ripe tomatoes, cucumbers, red onion, and basil?",
+    "options": [
+      "Fattoush",
+      "Caponata",
+      "Ribollita",
+      "Panzanella"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which crispy fried pieces of flatbread are tossed into Levantine Fattoush salad for crunch?",
+    "options": [
+      "Lavash croutons",
+      "Pita bread chips",
+      "Tortilla strips",
+      "Baguette toasts"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which tangy, dark red ground spice derived from dried sumac berries gives Fattoush salad its sour lemony flavor?",
+    "options": [
+      "Paprika",
+      "Za'atar",
+      "Mahlab",
+      "Sumac"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which famous seafood stew from Marseille, France, is traditionally cooked with rockfish, fennel, saffron, garlic, and served with rouille?",
+    "options": [
+      "Bourride",
+      "Cioppino",
+      "Bouillabaisse",
+      "Cotriade"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spice, harvested from the stigmas of Crocus sativus, gives Bouillabaisse broth its vibrant golden color and pungent aroma?",
+    "options": [
+      "Turmeric",
+      "Annatto",
+      "Safflower",
+      "Saffron"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which garlic and saffron mayonnaise-based sauce is spread on toasts and floated in authentic Bouillabaisse?",
+    "options": [
+      "Aioli",
+      "Rouille",
+      "Remoulade",
+      "Romesco"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which San Francisco fisherman's seafood stew created by Italian immigrants combines Dungeness crab, clams, shrimp, and fish in a tomato-wine broth?",
+    "options": [
+      "Bouillabaisse",
+      "Cioppino",
+      "Cacciucco",
+      "Caldeirada"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which hearty Tuscan stewed soup, meaning 'reboiled', is made with leftover crusty bread, cannellini beans, and black Tuscan kale (cavolo nero)?",
+    "options": [
+      "Acquacotta",
+      "Pasta e fagioli",
+      "Ribollita",
+      "Zuppa toscana"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Hungarian meat stew is richly flavored with large quantities of sweet and spicy Hungarian paprika, onions, and beef shank?",
+    "options": [
+      "Pörkölt",
+      "Paprikash",
+      "Goulash (Gulyás)",
+      "Bigos"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What variety of sour pickled fermented cabbage is the key foundational ingredient of Polish hunter's stew (Bigos)?",
+    "options": [
+      "Kimchi",
+      "Pickled red cabbage",
+      "Fermented mustard greens",
+      "Sauerkraut"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Belgian beef stew is slow-cooked with caramelized onions, aromatics, and dark Abbey or Trappist ale, often sweetened with gingerbread and mustard?",
+    "options": [
+      "Boeuf Bourguignon",
+      "Waterzooi",
+      "Carbonnade Flamande",
+      "Sauerbraten"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which national dish of Brazil is a slow-simmered stew of black beans, various cuts of salted pork, beef, and smoked sausages, served with farofa?",
+    "options": [
+      "Moqueca",
+      "Vatapá",
+      "Bobó de camarão",
+      "Feijoada"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What toasted manioc (cassava) flour mixture is traditionally sprinkled over Brazilian Feijoada for texture?",
+    "options": [
+      "Polenta",
+      "Farofa",
+      "Fufu",
+      "Couscous"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Portuguese soup features finely shredded collard greens or kale swimming in a potato broth seasoned with sliced chouriço sausage?",
+    "options": [
+      "Sopa da pedra",
+      "Caldo Verde",
+      "Caldeirada",
+      "Açorda"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which protein is traditionally sliced into Portuguese Caldo Verde soup right before serving?",
+    "options": [
+      "Prosciutto",
+      "Salt cod (bacalhau)",
+      "Pork belly",
+      "Chouriço sausage"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Mexican soup is made from nixtamalized corn kernels (hominy) simmered with pork or chicken in a red, green, or white chili broth?",
+    "options": [
+      "Menudo",
+      "Pozole",
+      "Birria",
+      "Sopa de tortilla"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What treated corn ingredient, soaked in an alkaline slaked-lime solution, gives Mexican Pozole its chewy puffed texture and distinctive flavor?",
+    "options": [
+      "Hominy",
+      "Polenta grits",
+      "Sweet corn kernels",
+      "Masa harina paste"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Mexican restorative stew features beef tripe simmered in a red chili broth with lime, onions, oregano, and cilantro?",
+    "options": [
+      "Pozole",
+      "Carne en su jugo",
+      "Caldo tlalpeño",
+      "Menudo"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which aromatic dried herb is crushed between palms as a traditional table seasoning for Mexican Pozole and Menudo?",
+    "options": [
+      "Mexican oregano",
+      "Rosemary",
+      "Tarragon",
+      "Sage"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which thick soup made from crustaceans (like lobster, shrimp, or crab) relies on roasting the pulverized shells to extract depth, thickened with rice or cream?",
+    "options": [
+      "Chowder",
+      "Velouté",
+      "Bisque",
+      "Consommé"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What perfectly clear, amber-hued French soup is clarified using a raft of egg whites, ground lean meat, and mirepoix?",
+    "options": [
+      "Consommé",
+      "Bouillon",
+      "Court-bouillon",
+      "Brodo"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy shredded green papaya salad from Northeastern Thailand (Isan) is pounded in a mortar with chilies, garlic, lime, fish sauce, and peanuts?",
+    "options": [
+      "Larb",
+      "Yam Wun Sen",
+      "Nam Tok",
+      "Som Tum"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What crunchy, unripened fruit is shredded as the primary vessel for flavors in traditional Thai Som Tum?",
+    "options": [
+      "Green papaya",
+      "Green mango",
+      "Green apple",
+      "Chayote squash"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Lao and Northern Thai minced meat salad is seasoned with fresh herbs, lime juice, fish sauce, chilies, and toasted ground sticky rice (khao khua)?",
+    "options": [
+      "Larb (Laab)",
+      "Som Tum",
+      "Pad Krapow",
+      "Massaman"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What roasted ingredient provides the distinctive nutty aroma and crunch in authentic Thai Larb?",
+    "options": [
+      "Crushed toasted peanuts",
+      "Sesame seeds",
+      "Toasted sticky rice powder (khao khua)",
+      "Fried shallots"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which famous Scottish soup is prepared with chicken, leeks, and traditionally simmered with dried prunes?",
+    "options": [
+      "Cock-a-leekie",
+      "Cullen skink",
+      "Scotch broth",
+      "Partan bree"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which thick Scottish soup is made of smoked haddock, potatoes, onions, and milk or cream?",
+    "options": [
+      "Cullen skink",
+      "Cock-a-leekie",
+      "Scotch broth",
+      "Stovies"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Anglo-Indian spiced soup, whose name translates from Tamil as 'pepper water', includes curry powder, lentils, apples, and chicken?",
+    "options": [
+      "Rasam",
+      "Mulligatawny",
+      "Sambar",
+      "Dal makhani"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which South Indian hot, sour, and spiced broth relies heavily on tamarind water, tomatoes, black pepper, and curry leaves?",
+    "options": [
+      "Sambar",
+      "Avial",
+      "Kootu",
+      "Rasam"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sour, tangy paste extracted from the pods of a tropical legume tree is the essential souring agent in Indian Rasam and Thai Pad Thai?",
+    "options": [
+      "Amchur (mango powder)",
+      "Kokum",
+      "Tamarind paste",
+      "Pomegranate molasses"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Russian salad, invented in Moscow by Belgian chef Lucien Olivier, features boiled diced potatoes, carrots, peas, pickles, and hard-boiled eggs in mayonnaise?",
+    "options": [
+      "Shuba (Herring under a fur coat)",
+      "Olivier salad (Russian salad)",
+      "Vinegret",
+      "Mimosa salad"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which layered Russian festive salad, nicknamed 'Herring under a fur coat', features salted herring covered by layers of grated beets, carrots, potatoes, and mayonnaise?",
+    "options": [
+      "Olivier salad",
+      "Vinegret",
+      "Dressed Herring (Shuba)",
+      "Kholodets"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Russian beet salad dressed in sunflower oil features diced boiled beets, potatoes, sauerkraut, brined pickles, and peas?",
+    "options": [
+      "Olivier salad",
+      "Borscht",
+      "Solianka",
+      "Vinegret"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sour, salty, and spicy Russian soup features brined cucumbers, capers, olives, mushrooms, and assorted meats or fish?",
+    "options": [
+      "Rassolnik",
+      "Ukha",
+      "Shchi",
+      "Solyanka"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Russian soup made with pork or beef broth is defined primarily by brined pickled cucumbers and pearl barley?",
+    "options": [
+      "Solyanka",
+      "Rassolnik",
+      "Shchi",
+      "Ukha"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which clear Russian fish soup is traditionally simmered with freshwater fish such as sterlet, ruffe, or pike, flavored simply with parsley, leek, and bay leaves?",
+    "options": [
+      "Solyanka",
+      "Botvinya",
+      "Ukha",
+      "Okroshka"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cold Russian summer soup consists of raw diced vegetables and cooked meats poured over fermented bread kvass?",
+    "options": [
+      "Botvinya",
+      "Svekolnik",
+      "Okroshka",
+      "Tyurya"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Livorno-style Tuscan seafood stew is famously cooked with five different types of fish and shellfish to represent the five letters in its name?",
+    "options": [
+      "Brodetto",
+      "Buridda",
+      "Cacciucco",
+      "Cioppino"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dense, collagen-rich Japanese ramen broth is created by boiling pork marrow bones and trotters at a rolling boil for over 12 hours until emulsified?",
+    "options": [
+      "Tori paitan broth",
+      "Chintan broth",
+      "Tonkotsu broth",
+      "Gyukotsu broth"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "What fermented soybean paste, dissolved at the very end of cooking to preserve probiotics, forms the seasoning tare for Sapporo-style ramen?",
+    "options": [
+      "Gochujang",
+      "Doubanjiang",
+      "Tianmianjiang",
+      "Miso"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dried, smoked, and fermented skipjack tuna flakes provide the smoky umami base of Japanese dashi broth alongside kombu kelp?",
+    "options": [
+      "Katsuobushi (bonito flakes)",
+      "Niboshi (dried sardines)",
+      "Shiitake powder",
+      "Nori strips"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which broad, thick species of dried kelp harvested off Hokkaido is soaked in cold water to form the glutamic acid base of Japanese dashi?",
+    "options": [
+      "Wakame",
+      "Kombu",
+      "Hijiki",
+      "Arame"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which whole dried baby sardines or anchovies are simmered to create a robust, punchy dashi stock common in rustic Japanese home cooking and udon broth?",
+    "options": [
+      "Niboshi (Iriko)",
+      "Katsuobushi",
+      "Sababushi",
+      "Mentaiko"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Japanese protein-packed hot pot stew is consumed in massive quantities by professional sumo wrestlers to build bulk?",
+    "options": [
+      "Yosenabe",
+      "Sukiyaki",
+      "Chanko Nabe",
+      "Shabu-shabu"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which hot pot dish involves thinly sliced beef simmered at the table in a sweet and savory sauce made of soy sauce, sugar, and mirin?",
+    "options": [
+      "Shabu-shabu",
+      "Sukiyaki",
+      "Chanko Nabe",
+      "Oden"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese winter stew features daikon radish, boiled eggs, konjac cakes, and fish cakes simmered in a light soy-dashi broth?",
+    "options": [
+      "Nikujaga",
+      "Sukiyaki",
+      "Oden",
+      "Motsunabe"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which gelatinous gray block made from the corm of the elephant yam (konnyaku) is simmered in Japanese oden stews?",
+    "options": [
+      "Konjac (Konnyaku)",
+      "Yuba (tofu skin)",
+      "Aburaage",
+      "Chikuwa"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Vietnamese beef noodle soup broth (Pho Bo) is perfumed primarily with which charred spice blend containing star anise, cloves, cinnamon, and cardamon?",
+    "options": [
+      "Curry masala",
+      "Five spice and cumin",
+      "Pho spice aromatics",
+      "Galangal and lemongrass"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which large pod from the ginger family, known as 'thao qua' in Vietnam, imparts a deep smoky camphor note to authentic northern Pho Bo broth?",
+    "options": [
+      "Green cardamom",
+      "Black cardamom",
+      "Star anise",
+      "Coriander pod"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy, lemongrass-forward central Vietnamese noodle soup features beef shank, pork trotters, and congealed pig's blood cubes?",
+    "options": [
+      "Bún bò Huế",
+      "Bún riêu",
+      "Hủ tiếu Nam Vang",
+      "Mi Quang"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Vietnamese noodle soup features a distinctive tomato-based crab broth topped with fluffy patties of freshwater crab paste and eggs?",
+    "options": [
+      "Bún chả",
+      "Bún riêu cua",
+      "Bún bò Huế",
+      "Canh chua"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sour and sweet Mekong Delta fish soup features catfish simmered with tamarind, pineapple, tomatoes, okra, and spongy elephant ear stems (bac ha)?",
+    "options": [
+      "Canh chua",
+      "Bún mắm",
+      "Kho tộ",
+      "Cháo cá"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French fish stew from Brittany is made by layering potatoes, onions, and various firm fish cooked in butter and cider without saffron?",
+    "options": [
+      "Bouillabaisse",
+      "Bourride",
+      "Cotriade",
+      "Pôchouse"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional freshwater fish stew from Burgundy is prepared with pike, perch, and eel simmered in Aligoté dry white wine?",
+    "options": [
+      "Cotriade",
+      "Bourride",
+      "Matelote",
+      "Pôchouse"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French stew features freshwater eels or fish simmered in rich red wine and aromatics, thickened with butter and flour?",
+    "options": [
+      "Pôchouse",
+      "Matelote",
+      "Waterzooi",
+      "Blanquette"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Flemish stew originated in Ghent as a freshwater fish or chicken soup thickened with egg yolks, cream, and vegetable julienne in rich broth?",
+    "options": [
+      "Carbonnade",
+      "Stoemp",
+      "Waterzooi",
+      "Hochepot"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic French braised veal dish is cooked in a light stock without browning the meat, finished with a velvety velouté enriched with cream and egg yolk?",
+    "options": [
+      "Boeuf Bourguignon",
+      "Osso Buco",
+      "Blanquette de veau",
+      "Fricassée de volaille"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional slow-cooked Moroccan stew, cooked in a conical earthenware vessel, relies on preserved lemons and cured green olives for its signature acidity?",
+    "options": [
+      "Couscous tfaya",
+      "Harira",
+      "Pastilla",
+      "Tagine with preserved lemons and olives"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which hearty Moroccan soup served during Ramadan to break the fast is made with lamb, tomatoes, chickpeas, lentils, cilantro, celery, and vermicelli?",
+    "options": [
+      "Chorba frik",
+      "Harira",
+      "Lablabi",
+      "Bissara"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Tunisian breakfast soup consists of a rich cumin-spiced chickpea broth poured over stale crusty bread, topped with a soft-poached egg, tuna, and harissa?",
+    "options": [
+      "Lablabi",
+      "Harira",
+      "Shakshuka",
+      "Bissara"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which North African thick, creamy fava bean soup seasoned with cumin, garlic, and drizzled with olive oil is a winter street food staple in Morocco?",
+    "options": [
+      "Lablabi",
+      "Chorba",
+      "Harira",
+      "Bissara"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Georgian meat soup is famous for its sour plum paste (tkemali), fatty beef, rice, walnut paste, and a liberal amount of fresh cilantro?",
+    "options": [
+      "Kharcho",
+      "Chakapuli",
+      "Khash",
+      "Chikhirtma"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Georgian spring stew features lamb chops braised with sour unripe green mirabelle plums, tarragon leaves, and dry white wine?",
+    "options": [
+      "Kharcho",
+      "Chanakhi",
+      "Satsivi",
+      "Chakapuli"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which ancient Caucasian restorative hangover soup is made simply by boiling cleaned cow hooves and stomach for many hours, served unseasoned with raw garlic and salt on the side?",
+    "options": [
+      "Kharcho",
+      "Bozbash",
+      "Khash",
+      "Khashlama"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Iranian herb stew, widely regarded as the national dish of Iran, is defined by slow-simmered sautéed fresh herbs, kidney beans, lamb, and dried Persian limes (limoo amani)?",
+    "options": [
+      "Fesenjan",
+      "Gheimeh",
+      "Ghormeh Sabzi",
+      "Ash Reshteh"
+    ],
+    "answer": 2,
+    "d": 3
+  }
+]

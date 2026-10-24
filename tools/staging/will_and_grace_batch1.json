@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Will & Grace",
+    "q": "What is Will Truman's profession throughout most of Will & Grace?",
+    "options": [
+      "Corporate lawyer",
+      "Architect",
+      "Accountant",
+      "Real estate agent"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Where did Will Truman and Grace Adler first meet as undergraduate students?",
+    "options": [
+      "New York University",
+      "Columbia University",
+      "Yale University",
+      "Harvard University"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "In which New York City apartment building do Will and Grace reside for most of the series?",
+    "options": [
+      "740 Park Avenue",
+      "15 Central Park West",
+      "940 Park Avenue",
+      "1040 Fifth Avenue"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the number of Will Truman's apartment where Grace frequently lives?",
+    "options": [
+      "Apartment 4B",
+      "Apartment 12A",
+      "Apartment 7F",
+      "Apartment 9C"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the number of Jack McFarland's apartment across the hall from Will?",
+    "options": [
+      "Apartment 9E",
+      "Apartment 9A",
+      "Apartment 9B",
+      "Apartment 9D"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is Will Truman's middle name?",
+    "options": [
+      "Alexander",
+      "None (his legal first name is William)",
+      "Edward",
+      "Charles"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is Grace Adler's middle name?",
+    "options": [
+      "Marie",
+      "Anne",
+      "Elizabeth",
+      "Louise"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Grace Adler's interior design company?",
+    "options": [
+      "Adler & Associates",
+      "Manhattan Interiors",
+      "Adler Design Group",
+      "Grace Adler Designs"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is Karen Walker's job title at Grace Adler Designs?",
+    "options": [
+      "Assistant",
+      "Managing Partner",
+      "Senior Designer",
+      "Receptionist"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Why does Karen Walker continue working as Grace's assistant despite being extraordinarily wealthy?",
+    "options": [
+      "She needs health insurance",
+      "To get away from Stan and have social interaction",
+      "She owns a 50% stake in the business",
+      "Her father forced her to keep a job"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is Karen Walker's maiden name?",
+    "options": [
+      "Finster",
+      "Harriman",
+      "Delaney",
+      "Van Horne"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Karen Walker's wealthy, obese husband seen mostly in obscured angles?",
+    "options": [
+      "Arthur Walker",
+      "Sterling Walker",
+      "Lyle Walker",
+      "Stanley Walker"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What are the names of Stan Walker's two children from a previous relationship?",
+    "options": [
+      "Mason and Olivia",
+      "Justin and Chloe",
+      "Spencer and Ashley",
+      "Trevor and Brittany"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What was Karen Walker's signature beverage of choice throughout the series?",
+    "options": [
+      "Cosmopolitan",
+      "Vodka martini",
+      "Gin and tonic",
+      "White wine spritzer"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Karen's loyal maid and confidante whom she treats with combative affection?",
+    "options": [
+      "Consuela Lopez",
+      "Maria Santos",
+      "Rosario Salazar",
+      "Lupe Fuentes"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What country is Rosario Salazar originally from?",
+    "options": [
+      "Guatemala",
+      "Nicaragua",
+      "Honduras",
+      "El Salvador"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Before coming to the United States and working for Karen, what was Rosario's profession in El Salvador?",
+    "options": [
+      "Clinical psychologist",
+      "Lawyer",
+      "College professor",
+      "Nurse"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Why did Jack McFarland marry Rosario Salazar at the end of Season 1?",
+    "options": [
+      "To spite Karen",
+      "To get her a green card to avoid deportation",
+      "To claim an inheritance",
+      "To win a bet with Will"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Which diminutive Southern socialite is Karen Walker's arch-rival and frenemy?",
+    "options": [
+      "Beau Bridges",
+      "Buckley Sterling",
+      "Beverley Leslie",
+      "Barton Fink"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is Beverley Leslie's famous recurring catchphrase whenever he encounters Karen?",
+    "options": [
+      "\"Bless your heart!\"",
+      "\"Look what the cat dragged in!\"",
+      "\"How delightful!\"",
+      "\"Well, well, well...\""
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is Jack McFarland's full birth name?",
+    "options": [
+      "John Phillip Fisher McFarland",
+      "Jack Alexander McFarland",
+      "John Thomas McFarland",
+      "Jonathan David McFarland"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Jack McFarland's famous one-man cabaret show in early seasons?",
+    "options": [
+      "\"All About Jack!\"",
+      "\"Just Jack!\"",
+      "\"Jack's World!\"",
+      "\"Viva Jack!\""
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What hand gesture accompanies Jack's exclamation of \"Just Jack!\"?",
+    "options": [
+      "Snapping both fingers simultaneously",
+      "Waving jazz hands above his head",
+      "Framing his face with both hands like jazz hands",
+      "Pointing finger guns forward"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What type of dog did Jack adopt and name Klaus Von Puppy?",
+    "options": [
+      "Poodle",
+      "Chihuahua",
+      "Golden Retriever",
+      "Whippet / Greyhound mix"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What retail clothing store does Jack work at during the second season?",
+    "options": [
+      "Banana Republic",
+      "Gap",
+      "Barneys New York",
+      "J.Crew"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What luxury department store does Jack work at as a window dresser and sales associate in later seasons?",
+    "options": [
+      "Saks Fifth Avenue",
+      "Barneys New York",
+      "Bergdorf Goodman",
+      "Bloomingdale's"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Jack's theater acting method/class that he teaches in Season 6?",
+    "options": [
+      "The Jack Experience",
+      "The Actor's Instrument",
+      "The McFarland Method",
+      "The Broadway Way"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of the gay television network where Jack works as an executive in Season 7?",
+    "options": [
+      "Pride Network",
+      "Queer Vision",
+      "Rainbow Cable",
+      "Out TV"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What talk show does Jack host on Out TV?",
+    "options": [
+      "\"Jack Talk\"",
+      "\"Chat with Jack\"",
+      "\"Morning McFarland\"",
+      "\"The Jack Beat\""
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What was the name of the beloved parrot Karen bought that repeated her insults?",
+    "options": [
+      "Polly",
+      "Guapo",
+      "Chico",
+      "Pepe"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What snack food is Grace Adler famously obsessed with and frequently hides around the apartment?",
+    "options": [
+      "Cheetos",
+      "Doritos",
+      "Funyuns",
+      "Pringles"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What pastry does Grace Adler obsessively eat when stressed or celebrating?",
+    "options": [
+      "Cinnamon rolls",
+      "Chocolate croissants",
+      "Apple fritters",
+      "Krispy Kreme doughnuts"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What neurosis does Will Truman exhibit regarding his stationery and office supplies?",
+    "options": [
+      "Obsessive organization and color-coding with red pens",
+      "Hoarding vintage fountain pens",
+      "Refusing to use yellow sticky notes",
+      "Only writing on legal parchment"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What sport did Will Truman excel at as a figure skater during his youth?",
+    "options": [
+      "Roller derby",
+      "Ice skating",
+      "Gymnastics",
+      "Diving"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What musical instrument did Grace Adler play in her high school band?",
+    "options": [
+      "Clarinet",
+      "Violin",
+      "Flute",
+      "Oboe"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "In college, before Will came out as gay, what was his relationship with Grace?",
+    "options": [
+      "They were platonic roommates only",
+      "They competed for class valedictorian",
+      "Grace was his tutor",
+      "They dated and got engaged to be married"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "On what holiday in college did Will finally break off his romantic engagement with Grace and realize he was gay?",
+    "options": [
+      "Thanksgiving",
+      "Valentine's Day",
+      "New Year's Eve",
+      "Christmas Eve"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Who was Will's freshman college roommate who encouraged him to come to terms with his sexuality?",
+    "options": [
+      "Danny",
+      "Jack McFarland",
+      "Rob",
+      "Leo"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is Grace Adler's hometown in upstate New York?",
+    "options": [
+      "Albany",
+      "Rochester",
+      "Schenectady",
+      "Binghamton"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What college did Grace attend where she met Will?",
+    "options": [
+      "Cornell University",
+      "Barnard College",
+      "Vassar College",
+      "Columbia University"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Will Truman's mother, played by Blythe Danner?",
+    "options": [
+      "Marilyn Truman",
+      "Eleanor Truman",
+      "Martha Truman",
+      "Vivian Truman"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Will Truman's father, played by Sydney Pollack?",
+    "options": [
+      "Arthur Truman",
+      "George Truman",
+      "Harold Truman",
+      "Richard Truman"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Will's brother who had a one-night stand with Grace, causing major friction?",
+    "options": [
+      "Paul Truman",
+      "David Truman",
+      "Sam Truman",
+      "Mark Truman"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Which actor portrayed Will's brother Sam in Season 1?",
+    "options": [
+      "Jon Tenney",
+      "Dylan McDermott",
+      "Dermot Mulroney",
+      "John Slattery"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Will's other brother, who is married with children?",
+    "options": [
+      "Paul Truman",
+      "Peter Truman",
+      "Philip Truman",
+      "Patrick Truman"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Who played Grace Adler's eccentric, showtune-loving mother Bobbi Adler?",
+    "options": [
+      "Shirley MacLaine",
+      "Debbie Reynolds",
+      "Carol Burnett",
+      "Liza Minnelli"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What musical instrument or prop does Bobbi Adler often use to make a dramatic entrance?",
+    "options": [
+      "A tambourine",
+      "A feather boa",
+      "Singing showtunes and wearing elaborate hats",
+      "A baton"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Who played Grace's father Martin Adler in the original series episode 'Cheaters'?",
+    "options": [
+      "Robert Klein",
+      "Jerry Stiller",
+      "Carl Reiner",
+      "Alan Arkin"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Grace's older sister who is erratic and portrayed by Geena Davis in Season 6?",
+    "options": [
+      "Janet Adler",
+      "Joyce Adler",
+      "Judy Adler",
+      "Joanie Adler"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Grace's other sister who struggles with her weight, played by Sara Rue?",
+    "options": [
+      "Janet Adler",
+      "Joyce Adler",
+      "Jessica Adler",
+      "Jill Adler"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of the biological son Jack McFarland discovers he fathered via sperm donation?",
+    "options": [
+      "Caleb",
+      "Ethan",
+      "Elliott",
+      "Lucas"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Which actor portrayed Jack's son Elliott as a teenager?",
+    "options": [
+      "Josh Hutcherson",
+      "Frankie Muniz",
+      "Logan Lerman",
+      "Michael Angarano"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What was the name of Elliott's mother, a nurse who had used Jack's anonymous sperm donation?",
+    "options": [
+      "Bonnie",
+      "Brenda",
+      "Barbara",
+      "Beatrice"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Which actress played Elliott's lesbian mother Bonnie?",
+    "options": [
+      "Jane Lynch",
+      "Rosie O'Donnell",
+      "Sandra Bernhard",
+      "Kathy Griffin"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Jack's biological father, whom he tracked down only to discover he had passed away?",
+    "options": [
+      "Frank McFarland",
+      "Walter White",
+      "Joe Black",
+      "Charles Miller"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Jack's stylish mother, played by Christine Ebersole?",
+    "options": [
+      "Constance McFarland",
+      "Evelyn McFarland",
+      "Beatrice McFarland",
+      "Judith McFarland"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What pet pig did Jack adopt in Season 4?",
+    "options": [
+      "Baby Glenn",
+      "Porky",
+      "Hamlet",
+      "Truffles"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What was the name of the theater camp Jack McFarland attended as a boy?",
+    "options": [
+      "Camp Broadway",
+      "Camp Ovation",
+      "Starlight Academy",
+      "Applause Haven"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What physical dance move does Jack frequently perform when excited, throwing his arms side to side?",
+    "options": [
+      "The Jazz Flick",
+      "The Twirl",
+      "The Jack Shuffle",
+      "The Kickstep"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "In which season did Jack first discover he had a biological son named Elliott?",
+    "options": [
+      "Season 1",
+      "Season 2",
+      "Season 5",
+      "Season 3"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Karen Walker's regular bartender who serves her at high-end spots?",
+    "options": [
+      "Smitty",
+      "Mac",
+      "Tommy",
+      "Barney"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What tragedy-laden stories does Smitty usually tell Karen, which she finds hilarious?",
+    "options": [
+      "Stories about his failing marriage",
+      "Tales of personal misfortune, jail time, and loss",
+      "Jokes about celebrities",
+      "Complaints about his low wages"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Karen's beloved sister who was trapped in an asylum?",
+    "options": [
+      "Victoria",
+      "Valerie",
+      "Virginia",
+      "Veronica"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is Karen Walker's preferred method of waking up in the morning?",
+    "options": [
+      "An espresso machine",
+      "A cold shower",
+      "A personal trainer",
+      "A cocktail and a cocktail shaker shaken by Rosario"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What name does Karen playfully call Grace, referring to her ginger curls and height?",
+    "options": [
+      "\"Toots\" or \"Honey\"",
+      "\"Red\" or \"Freckles\"",
+      "\"Carrot\" or \"Stretch\"",
+      "\"Ginger\" or \"Legs\""
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What nickname does Karen constantly use when addressing Will Truman?",
+    "options": [
+      "\"Billy\"",
+      "\"Willie\"",
+      "\"Trumy\"",
+      "\"Lawyer boy\""
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "How does Karen regularly refer to Jack McFarland?",
+    "options": [
+      "\"Sparky\"",
+      "\"Jackie Boy\"",
+      "\"Jackie\"",
+      "\"Action Jack\""
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Karen Walker's favorite jewelry store where she has unlimited credit?",
+    "options": [
+      "Tiffany & Co.",
+      "Harry Winston",
+      "Van Cleef & Arpels",
+      "Cartier"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What private helicopter service does Karen frequently use to bypass Manhattan traffic?",
+    "options": [
+      "Walker Aviation",
+      "Manhattan Air",
+      "Skyline VIP",
+      "Hamptons Copter"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What kind of pills does Karen Walker notoriously consume throughout the day?",
+    "options": [
+      "Only aspirin",
+      "Uppers and downers in a mix she calls candy",
+      "Only homeopathic herbs",
+      "Only chewable vitamins"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What law school did Will Truman graduate from?",
+    "options": [
+      "Harvard Law School",
+      "NYU School of Law",
+      "Columbia Law School",
+      "Yale Law School"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What was the name of the prestigious law firm where Will was a senior partner early in the show?",
+    "options": [
+      "Sterling & Cooper",
+      "Crane, Poole & Schmidt",
+      "Lockhart & Gardner",
+      "Doucette & Stein"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Who was Will's wealthy, eccentric senior partner played by Sydney Pollack's contemporary, Gregory Hines?",
+    "options": [
+      "Ben Doucette",
+      "Mr. Stein",
+      "Mr. Higgins",
+      "Arthur Doucette"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Who played Will's eccentric, reclusive boss Mr. Stein who returned to the firm after years in an institution?",
+    "options": [
+      "Carl Reiner",
+      "Gene Wilder",
+      "Mel Brooks",
+      "Alan Alda"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the title of the two-part episode featuring Gene Wilder as Mr. Stein?",
+    "options": [
+      "\"The Lawyer Awakens\"",
+      "\"Legal Eagles\"",
+      "\"Boardroom Bunny\"",
+      "\"Wilder Days\""
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "After leaving Doucette & Stein, what business entity did Will form with Karen's financial backing?",
+    "options": [
+      "A non-profit legal clinic",
+      "A sports agency",
+      "A catering firm",
+      "A private solo practice"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What luxury retail chain hired Will Truman as head of their legal department in Season 7?",
+    "options": [
+      "Barneys New York",
+      "Bergdorf Goodman",
+      "Bloomingdale's",
+      "Saks Fifth Avenue"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What was Will Truman's childhood nickname that embarrassed him?",
+    "options": [
+      "\"Chubby\"",
+      "\"Piglet\"",
+      "\"Little Truman\"",
+      "\"Smiley\""
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What sport did Will play in high school that surprises people because of his neurotic nature?",
+    "options": [
+      "Basketball",
+      "Wrestling",
+      "Ice hockey",
+      "Lacrosse"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What musical artist is Will Truman secretly obsessed with despite pretending to be sophisticated?",
+    "options": [
+      "Celine Dion",
+      "Michael Bolton",
+      "Kenny G",
+      "Barry Manilow"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "In what building is Grace Adler Designs located in the original series?",
+    "options": [
+      "The Puck Building",
+      "The Flatiron Building",
+      "The Chrysler Building",
+      "The Woolworth Building"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is Grace Adler's primary phobia that sends her screaming?",
+    "options": [
+      "Heights",
+      "Bugs and insects",
+      "Germs",
+      "Enclosed spaces"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What food item did Grace famously try to retrieve from the garbage can in her kitchen?",
+    "options": [
+      "A gourmet pizza",
+      "A chocolate cake",
+      "A whole roasted chicken / ribs",
+      "A blueberry pie"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is Grace's favorite Broadway musical of all time, which she constantly references?",
+    "options": [
+      "\"Annie\"",
+      "\"Wicked\"",
+      "\"Chicago\"",
+      "\"The Music Man\""
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Which celebrity's bathroom did Grace Adler famously get the job to redesign in Season 2?",
+    "options": [
+      "Rudy Giuliani's mayoral mansion",
+      "Donald Trump's penthouse",
+      "Joan Rivers' apartment",
+      "Martha Stewart's studio"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What did Grace accidentally inject into her lips before a major date?",
+    "options": [
+      "Botox",
+      "A collagen bee-venom concoction",
+      "Saline",
+      "Cooking oil"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What item of clothing did Grace wear in the episode 'Das Boob' that inflated with water?",
+    "options": [
+      "A blow-up jacket",
+      "Inflatable shoulder pads",
+      "A water-filled bra",
+      "Padded bike shorts"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "In 'Das Boob', what happens to Grace's water bra at the art gallery opening?",
+    "options": [
+      "It freezes solid in the cold air",
+      "It explodes with a loud pop",
+      "It leaks slowly down her shoes",
+      "It gets punctured and squirts water across the room"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What high-end wedding dress boutique did Grace and Karen visit while pretending to be brides?",
+    "options": [
+      "Vera Wang",
+      "Kleinfeld",
+      "Prada",
+      "Carolina Herrera"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of Grace Adler's first serious fianc\u00e9 seen in the Pilot episode?",
+    "options": [
+      "Leo",
+      "Danny",
+      "Nathan",
+      "Mark"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What board game or party game do Will and Grace play with friends Rob and Ellen?",
+    "options": [
+      "Monopoly",
+      "Trivial Pursuit",
+      "\"Pyramid\" / Celebrity Charades",
+      "Scrabble"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Who are the happily married, competitive friends who regularly play game nights with Will and Grace?",
+    "options": [
+      "Joe and Larry",
+      "Bob and Carol",
+      "Kevin and Donna",
+      "Rob and Ellen"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What was the name of the gay couple who were close friends with Will and Grace and adopted a baby?",
+    "options": [
+      "Joe and Larry",
+      "David and Mark",
+      "Brian and Peter",
+      "Kevin and Scott"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of the baby girl adopted by Joe and Larry in Season 3?",
+    "options": [
+      "Emma",
+      "Hannah",
+      "Lily",
+      "Sophia"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What does Karen Walker call Grace's breasts in several episodes?",
+    "options": [
+      "\"The twins\"",
+      "\"The headlights\"",
+      "\"The girls\" or \"flapjacks\"",
+      "\"The cushions\""
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Which character famously screams 'Oh, honey...' as a condescending intro to an insult?",
+    "options": [
+      "Grace Adler",
+      "Jack McFarland",
+      "Bobbi Adler",
+      "Karen Walker"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is Will's favorite cocktail to prepare for himself at the bar cart?",
+    "options": [
+      "A clean gin martini with an olive",
+      "A Manhattan",
+      "An Old Fashioned",
+      "A Scotch on the rocks"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What color was the sweater that Will and Grace bickered over owning and sharing?",
+    "options": [
+      "A red merino turtleneck",
+      "A yellow cashmere sweater",
+      "A blue cardigan",
+      "A green cable-knit"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Will & Grace",
+    "q": "What is the name of the annoying upstairs neighbor who constantly taps dance steps and causes noise?",
+    "options": [
+      "Mrs. Timmons",
+      "Miss Crandall",
+      "Val Bassett",
+      "Mrs. Freeman"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Will & Grace",
+    "q": "Which actress portrayed the unhinged upstairs neighbor Val Bassett?",
+    "options": [
+      "Cheri Oteri",
+      "Ana Gasteyer",
+      "Amy Poehler",
+      "Molly Shannon"
+    ],
+    "answer": 3,
+    "d": 3
+  }
+]

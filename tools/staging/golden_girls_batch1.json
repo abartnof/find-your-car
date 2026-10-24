@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "The Golden Girls",
+    "q": "What dessert do the four women most frequently eat late at night in the kitchen while discussing their problems?",
+    "options": [
+      "Cheesecake",
+      "Key lime pie",
+      "Tiramisu",
+      "Apple strudel"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the street address of Blanche Devereaux's Miami home where the women live?",
+    "options": [
+      "742 Evergreen Terrace",
+      "6151 Richmond Street",
+      "124 Conch Street",
+      "4321 Palm Boulevard"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What iconic phrase does Sophia Petrillo habitually use to begin her nostalgic anecdotes?",
+    "options": [
+      "Listen closely, children...",
+      "Back in the old country...",
+      "Picture it: Sicily...",
+      "Remember Brooklyn in the thirties..."
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of the Minnesota hometown where Rose Nylund grew up?",
+    "options": [
+      "Lake Wobegon",
+      "Duluth Falls",
+      "Little Norway",
+      "St. Olaf"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Dorothy Zbornak works primarily in which profession throughout the series?",
+    "options": [
+      "Substitute teacher",
+      "Museum curator",
+      "Travel agent",
+      "Real estate broker"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What retirement home did Sophia live in before it burned down, forcing her to move in with Dorothy?",
+    "options": [
+      "Whispering Palms",
+      "Shady Pines",
+      "Sunny Acres",
+      "Golden Meadows"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What warning does Dorothy frequently utter to her mother whenever Sophia misbehaves or insults someone?",
+    "options": [
+      "Back to Brooklyn, Ma!",
+      "Quiet down, Sophia!",
+      "Shady Pines, Ma!",
+      "To your room, Ma!"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What accessory does Sophia Petrillo carry with her everywhere, even inside the house?",
+    "options": [
+      "A silver locket",
+      "A leather satchel",
+      "A beaded clutch",
+      "A woven wicker purse"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Dorothy's ex-husband who left her after 38 years of marriage?",
+    "options": [
+      "Stan Zbornak",
+      "Artie Levine",
+      "Murray Guttman",
+      "Dennis Douglas"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the profession of Chrissy, the young woman Stan left Dorothy for?",
+    "options": [
+      "Tennis instructor",
+      "Flight attendant",
+      "Dental hygienist",
+      "Cocktail waitress"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What pet name does Stan repeatedly and annoying call Dorothy whenever he visits?",
+    "options": [
+      "Sweetheart",
+      "Doll",
+      "Babe",
+      "Honeybun"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What novelty invention does Stan create that runs on a common vegetable?",
+    "options": [
+      "A carrot flashlight",
+      "A turnip radio",
+      "An onion battery",
+      "A potato clock"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is Blanche Devereaux's middle name?",
+    "options": [
+      "Elizabeth",
+      "Ann",
+      "Marie",
+      "Lee"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What distinctive wallpaper design covers Blanche's bedroom walls throughout the series?",
+    "options": [
+      "Pink flamingos",
+      "Tropical banana palm leaves",
+      "Southern magnolia blossoms",
+      "Blue damask silk"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How did Rose's late husband, Charlie Nylund, pass away?",
+    "options": [
+      "In a tractor accident on their farm",
+      "During a blizzard in St. Olaf",
+      "He had a heart attack while making love to Rose",
+      "From food poisoning at a lutefisk dinner"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How did Blanche's late husband, George Devereaux, die according to the series backstory?",
+    "options": [
+      "From a plane crash",
+      "Of a heart attack on a golf course",
+      "During an overseas sailing trip",
+      "In a car accident"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What medical event caused Sophia to lose her filter and speak whatever unfiltered thought comes to mind?",
+    "options": [
+      "A stroke",
+      "A concussion",
+      "A mild heart attack",
+      "A fainting spell at church"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Where did Blanche first place the notice advertising for roommates for her house?",
+    "options": [
+      "The classifieds in the Miami Herald",
+      "A bulletin board at a local supermarket",
+      "A community board at the library",
+      "A flyer at the senior center"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What fish is central to dozens of Rose Nylund's St. Olaf stories, folk traditions, and recipes?",
+    "options": [
+      "Cod",
+      "Trout",
+      "Herring",
+      "Haddock"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's beloved father, whom she affectionately calls 'Big Daddy'?",
+    "options": [
+      "Beauregard Devereaux",
+      "Jackson Hollingsworth",
+      "Calhoun Montgomery",
+      "Curtis Hollingsworth"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the Georgia estate where Blanche grew up as a southern belle?",
+    "options": [
+      "Twin Oaks",
+      "Tara",
+      "Twelve Oaks",
+      "Belle Rive"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What physical feature of Stan Zbornak was a frequent target of Dorothy and Sophia's jokes?",
+    "options": [
+      "His fake glass eye",
+      "His baldness and terrible toupees",
+      "His oversized mustache",
+      "His elevator shoes"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is Sophia Petrillo's maiden name?",
+    "options": [
+      "Castorini",
+      "Grisanti",
+      "Spirelli",
+      "Barone"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Sophia's late husband and Dorothy's father?",
+    "options": [
+      "Giuseppe",
+      "Vito",
+      "Antonio",
+      "Salvadore"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why did Dorothy marry Stan Zbornak when they were teenagers?",
+    "options": [
+      "Dorothy got pregnant after high school prom",
+      "Stan won a bet with her father",
+      "They eloped to escape Brooklyn",
+      "To combine their families' bakery businesses"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What subject does Dorothy most frequently mention teaching as a substitute high school teacher?",
+    "options": [
+      "Chemistry and Biology",
+      "English and American History",
+      "French and Spanish",
+      "Home Economics and Art"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What college professor becomes Rose's steady, long-term romantic partner in later seasons?",
+    "options": [
+      "Arnie Peterson",
+      "Jonathan Newman",
+      "Miles Webber",
+      "Lucas Hollingsworth"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What surprise true identity does Miles Webber reveal after being tracked down by a mobster?",
+    "options": [
+      "Arthur Miller, a retired CIA operative",
+      "Vincent Falcone, an undercover FBI agent",
+      "Charles Lindstrom, Rose's distant cousin",
+      "Nicholas Carbone, who entered witness protection"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the alias of the mob hitman from whom Miles Webber is hiding in the federal witness protection program?",
+    "options": [
+      "The Cheese Man",
+      "The Butcher",
+      "The Claw",
+      "The Ice Pick"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Dorothy's musician son who frequently needs money and couch space?",
+    "options": [
+      "David",
+      "Michael",
+      "Tommy",
+      "Anthony"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What instrument does Dorothy's slacker son Michael play?",
+    "options": [
+      "Saxophone",
+      "Bass guitar",
+      "Drums",
+      "Trumpet"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Dorothy's daughter whose wedding takes place early in the series?",
+    "options": [
+      "Rebecca",
+      "Janet",
+      "Maria",
+      "Kate"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What profession does Kate's fiancé Dennis practice when they marry in Season 1?",
+    "options": [
+      "Podiatrist",
+      "Accountant",
+      "Chiropractor",
+      "Architect"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Sophia's son who was a cross-dresser and lived in Newark?",
+    "options": [
+      "Gino",
+      "Phil",
+      "Dominic",
+      "Frankie"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How does Sophia's unseen son Phil die in the emotional Season 6 episode 'Ebbtide's Revenge'?",
+    "options": [
+      "A stroke",
+      "A car accident",
+      "A sudden heart attack",
+      "Pneumonia"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was Phil Petrillo's wife's name who clashed with Sophia at his funeral?",
+    "options": [
+      "Carmela",
+      "Lucia",
+      "Theresa",
+      "Angela"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Sophia's sister who moved from Sicily and frequently bickered with her?",
+    "options": [
+      "Angela",
+      "Concetta",
+      "Rosalia",
+      "Gina"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Sophia's brother who was a Catholic priest before leaving the priesthood?",
+    "options": [
+      "Giovanni",
+      "Angelo",
+      "Marco",
+      "Pietro"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What Scandinavian exclamation does Rose frequently utter when startled, exasperated, or amazed?",
+    "options": [
+      "Mamma mia!",
+      "Holy yutz!",
+      "Uff-da!",
+      "Gee whiz!"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What job did Rose hold in the early seasons before working at a local television station?",
+    "options": [
+      "Dental assistant",
+      "Elementary school nurse",
+      "Public library clerk",
+      "Grief counselor at a counseling center"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of the eccentric TV consumer reporter Rose works for at the Miami news station?",
+    "options": [
+      "Enrique Mas",
+      "Hector Alvarez",
+      "Ricardo Gomez",
+      "Carlos Ramos"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's daughter who arrives in Miami visibly overweight, shocking Blanche?",
+    "options": [
+      "Janet",
+      "Rebecca",
+      "Virginia",
+      "Charmaine"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Rebecca's baby daughter born via artificial insemination?",
+    "options": [
+      "Scarlett",
+      "Savannah",
+      "Aurora",
+      "Belle"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's gay brother who visits Miami to come out to her?",
+    "options": [
+      "Tad",
+      "Buford",
+      "Sterling",
+      "Clayton"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Clayton's fiancé whom he plans to marry in Season 6?",
+    "options": [
+      "Doug",
+      "Gary",
+      "Brian",
+      "Keith"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's sister who comes to Miami needing a kidney transplant?",
+    "options": [
+      "Charmaine",
+      "Virginia",
+      "Magnolia",
+      "Emmaline"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's rivalrous sister who writes an erotic romance novel based on Blanche's life?",
+    "options": [
+      "Virginia",
+      "Lucinda",
+      "Charmaine",
+      "Clementine"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the title of the steamy romance novel Charmaine publishes about Blanche's love life?",
+    "options": [
+      "Southern Heat",
+      "Georgia Nights",
+      "The Scent of Magnolias",
+      "Vixen: Story of a Woman"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In St. Olaf folklore, what legendary leader was known as 'Olaf the Berserk'?",
+    "options": [
+      "A Viking chieftain with a terrible sense of direction",
+      "A baker who invented the square pretzel",
+      "A blacksmith who fought with giant spoons",
+      "A farmer who married a snow yeti"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What St. Olaf competition involves tossing a heavy fish across a field for distance and accuracy?",
+    "options": [
+      "The Flounder Fling",
+      "The Great Herring Toss",
+      "The Salmon Slam",
+      "The Cod Catapult"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What animal does Rose claim could tell fortunes in St. Olaf?",
+    "options": [
+      "A rooster named Thor",
+      "A cow named Greta",
+      "A pig named Elmer",
+      "A goat named Sven"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Rose's beloved childhood teddy bear that was held hostage by a Girl Scout?",
+    "options": [
+      "Barnaby",
+      "Olaf",
+      "Teddy Ruxpin",
+      "Fernando"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of the ruthless Sunshine Cadet scout who refuses to return Rose's teddy bear Fernando?",
+    "options": [
+      "Daisy",
+      "Amber",
+      "Chloe",
+      "Megan"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How does Dorothy get Rose's teddy bear back from Daisy the Sunshine Cadet?",
+    "options": [
+      "She pays the 50-dollar ransom demand",
+      "She snatches it out of Daisy's hands and kicks her out of the house",
+      "She calls Daisy's mother and troop leader",
+      "She trades it for an autographed encyclopedia"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What Miami museum does Blanche work at as an assistant or administrator during the show?",
+    "options": [
+      "The Florida Natural History Museum",
+      "The Coral Gables Cultural Center",
+      "The Miami Museum of Art",
+      "The Biscayne Historical Society"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Sophia's elderly fiancé who married her in a Season 4 two-part premiere?",
+    "options": [
+      "Murray Guttman",
+      "Rocco",
+      "Alvin",
+      "Max Weinstock"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What joint business venture did Sophia and her new husband Max open on the boardwalk?",
+    "options": [
+      "A pizza knish stand",
+      "A gelato cart",
+      "A pastrami and cannoli trailer",
+      "An espresso kiosk"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What business did Dorothy's father Sal and Max Weinstock originally run together decades earlier?",
+    "options": [
+      "A dry-cleaning service in Queens",
+      "A novelty and catering company that burned down",
+      "A bowling alley in Brooklyn",
+      "A tailor shop in Little Italy"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the dog Rose briefly adopted that belonged to a deceased neighbor?",
+    "options": [
+      "Rusty",
+      "Buster",
+      "Pepe",
+      "Bruno"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What musical production do the four women stage in order to save a local park or community center?",
+    "options": [
+      "South Pacific revue",
+      "The Wizard of Oz",
+      "Fiddler on the Roof",
+      "The Henny Penny musical"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which character dresses up as Henny Penny in the school play?",
+    "options": [
+      "Dorothy",
+      "Rose",
+      "Blanche",
+      "Sophia"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which bird does Rose portray in the Henny Penny play?",
+    "options": [
+      "Foxy Loxy",
+      "Goosey Loosey",
+      "Turkey Lurkey",
+      "Ducky Lucky"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which bird does Blanche portray in the Henny Penny musical?",
+    "options": [
+      "Goosey Loosey",
+      "Chicken Little",
+      "Foxy Loxy",
+      "Turkey Lurkey"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What color hair does Dorothy's sister Gloria have, who arrives in town with financial problems?",
+    "options": [
+      "Red",
+      "Jet black",
+      "Brunette",
+      "Blonde"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What shocking romantic betrayal does Gloria commit against Dorothy in Season 7?",
+    "options": [
+      "She sleeps with Dorothy's ex-husband Stan",
+      "She steals Dorothy's fiancé Lucas",
+      "She sells Dorothy's wedding ring",
+      "She dates Dorothy's high school sweetheart"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of the hotel where the girls are mistaken for prostitutes while waiting to attend a Burt Reynolds taping?",
+    "options": [
+      "The Biltmore Miami",
+      "The Falcon Nest Hotel",
+      "The Fontainebleau",
+      "The Biscayne Bay Towers"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What famous actor tells the girls 'Which one's the slut?' after Sophia meets him at the hotel?",
+    "options": [
+      "Tom Selleck",
+      "Clint Eastwood",
+      "Burt Reynolds",
+      "Robert Redford"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What game show do Dorothy, Blanche, and Rose appear on together where they win absolutely nothing?",
+    "options": [
+      "Jeopardy!",
+      "Wheel of Fortune",
+      "The Price is Right",
+      "Grab That Dough"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What contestant teammate do the girls get stuck with on 'Grab That Dough' who ruins their chances?",
+    "options": [
+      "An eccentric elderly man named Guy",
+      "A competitive teenager named Kevin",
+      "A sleepy tourist named Harold",
+      "A nervous cab driver named Sal"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What prize do the women choose at the end of 'Grab That Dough' instead of taking the cash?",
+    "options": [
+      "A lifetime supply of soup",
+      "The mystery envelope containing a skillet",
+      "A set of patio luggage",
+      "A trip to Milwaukee"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What illness does Dorothy struggle to get diagnosed in the acclaimed two-part episode 'Sick and Tired'?",
+    "options": [
+      "Fibromyalgia",
+      "Lyme disease",
+      "Chronic Fatigue Syndrome",
+      "Mononucleosis"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What doctor finally takes Dorothy seriously and validates her Chronic Fatigue Syndrome diagnosis?",
+    "options": [
+      "Dr. Newman",
+      "Dr. Harris",
+      "Dr. McDermott",
+      "Dr. Chang"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What dismissive medical practitioner does Dorothy confront at a restaurant after getting properly diagnosed?",
+    "options": [
+      "Dr. Budd",
+      "Dr. Stevens",
+      "Dr. Miller",
+      "Dr. Warren"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What contest does Rose enter where she is mistakenly named St. Olaf's 'Woman of the Year'?",
+    "options": [
+      "Butter Queen of Minnesota",
+      "St. Olaf Woman of the Year",
+      "Lutefisk Princess of Crow Wing County",
+      "Miss Dairy Days"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What St. Olaf award did Rose actually win when she was a young girl?",
+    "options": [
+      "Best Milker at 4-H",
+      "Fastest Herring Scaler",
+      "Little Miss St. Olaf runner-up",
+      "Junior Yodeler"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's childhood nanny who comes to visit her in Miami?",
+    "options": [
+      "Mammy Lou",
+      "Delilah Jackson",
+      "Bernice Washington",
+      "Viola Watkins"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What shocking truth about Big Daddy does Viola Watkins reveal to Blanche?",
+    "options": [
+      "Big Daddy had a long-term secret affair with Viola",
+      "Big Daddy was deeply in debt and lost Twin Oaks",
+      "Big Daddy wasn't Blanche's biological father",
+      "Big Daddy was secretly married to another woman"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the wealthy older gentleman Blanche dated who turned out to have a secret heart condition?",
+    "options": [
+      "Arthur",
+      "Harry",
+      "Richard",
+      "Edward"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Sophia's friend who decides to end her own life due to terminal illness, sparking an ethical debate?",
+    "options": [
+      "Clara",
+      "Evelyn",
+      "Martha",
+      "Gladys"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What dance contest do Blanche and Rose enter together where Blanche becomes obsessively competitive?",
+    "options": [
+      "A salsa competition",
+      "A ballroom tango tournament",
+      "A tap dancing showcase",
+      "A charity dance marathon"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What St. Olaf holiday celebrates a legendary hero who drove all the flies out of town?",
+    "options": [
+      "St. Sigmund's Day",
+      "St. Olaf Founder's Day",
+      "The Feast of King Sven",
+      "Herring Jubilee"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Rose's biological father, whom she meets in Season 4?",
+    "options": [
+      "Sven Lindstrom, a dairy farmer",
+      "Brother Martin, a monk",
+      "Lars Peterson, a sailor",
+      "Olaf Gunder, a carpenter"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What famous television personality does Rose convince herself is her biological father in 'You Gotta Have Hope'?",
+    "options": [
+      "Johnny Carson",
+      "Milton Berle",
+      "Bob Hope",
+      "George Burns"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the gay cook who appeared in the pilot episode but was subsequently dropped from the series?",
+    "options": [
+      "Enzo",
+      "Mateo",
+      "Julio",
+      "Coco"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why was the character of Coco the cook dropped after the pilot episode?",
+    "options": [
+      "Sophia was promoted to a main character and took over the cooking role",
+      "The actor was cast in another series",
+      "Test audiences complained about the kitchen size",
+      "The network banned male roommate characters"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What Italian dish does Sophia claim can cure practically any ailment or broken heart?",
+    "options": [
+      "Spaghetti carbonara",
+      "Her homemade marinara sauce with meatballs",
+      "Baked ziti with ricotta",
+      "Veal marsala"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the pilot episode, Blanche plans to marry an affluent suitor named Harry, but what crime is he arrested for?",
+    "options": [
+      "Embezzlement",
+      "Art forgery",
+      "Bigamy",
+      "Jewel theft"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of the high school where Dorothy frequently substitute-teaches and encounters troubled students?",
+    "options": [
+      "Biscayne Bay High",
+      "Miami Central High",
+      "Sunshine State Academy",
+      "Southside High"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What musical instrument does Dorothy play whenever she wants to express deep melancholy or irritation?",
+    "options": [
+      "Piano",
+      "Accordion",
+      "Violin",
+      "Flute"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What musical instrument does Rose play, including leading a band of local seniors?",
+    "options": [
+      "The clarinet",
+      "The tuba",
+      "The banjo",
+      "The tambourine"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the high school student Dorothy helps to stay in school despite him wanting to drop out to play baseball?",
+    "options": [
+      "Tony Rodriguez",
+      "Carlos Mendoza",
+      "Mario Lopez played him as Michael Gonzalez",
+      "Ramon Sanchez"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What future teen star played Dorothy's undocumented student Mario Sanchez in Season 2?",
+    "options": [
+      "Mark-Paul Gosselaar",
+      "Ricky Martin",
+      "Wilmer Valderrama",
+      "Mario Lopez"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What happens to the house roof in Season 3, forcing the girls to raise thousands of dollars?",
+    "options": [
+      "It collapses and needs total replacement",
+      "It is destroyed by a hurricane",
+      "Termites eat through the rafters",
+      "A fallen palm tree crushes it"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What fundraiser performance do the girls put on to pay for their leaky roof?",
+    "options": [
+      "A fashion show at the mall",
+      "A vaudeville talent show",
+      "A bake sale and car wash",
+      "A telethon on local cable"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What song do Blanche, Dorothy, and Rose perform in top hats and tails during their talent show act?",
+    "options": [
+      "Give My Regards to Broadway",
+      "New York, New York",
+      "Miami, You've Got Style",
+      "There's No Business Like Show Business"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's grandson who visits and exhibits rebellious, spoiled behavior?",
+    "options": [
+      "Travis",
+      "Hunter",
+      "Cody",
+      "David"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which daughter of Blanche is David's mother?",
+    "options": [
+      "Janet",
+      "Rebecca",
+      "Charmaine",
+      "Virginia"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What St. Olaf dish does Rose make that smells so putrid the other women refuse to let it in the kitchen?",
+    "options": [
+      "Boiled rutabaga pudding",
+      "Lefse with fermented herring and goat cheese",
+      "Pickled pig snouts",
+      "Smoked cod gelatin"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What kind of car did Stan drive that Dorothy frequently ridiculed?",
+    "options": [
+      "A rusty station wagon with wood paneling",
+      "An oversized Cadillac with broken AC",
+      "A cheap imported convertible that constantly broke down",
+      "A yellow compact hatchback"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the outdoor patio called where the Golden Girls frequently have breakfast and morning coffee?",
+    "options": [
+      "The veranda",
+      "The sunroom",
+      "The courtyard",
+      "The lanai"
+    ],
+    "answer": 3,
+    "d": 1
+  }
+]

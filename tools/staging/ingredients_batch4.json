@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Ingredients",
+    "q": "Which ingredient is famously and strictly forbidden on an authentic Chicago-style hot dog?",
+    "options": [
+      "Yellow mustard",
+      "Tomato ketchup",
+      "Celery salt",
+      "Sport peppers"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which type of bun is the mandatory bakery standard for an authentic Chicago-style hot dog?",
+    "options": [
+      "Brioche bun",
+      "Poppy seed bun",
+      "Sesame seed bun",
+      "Potato roll"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What seasoned salt blend is dusted over the top of a fully loaded Chicago hot dog as the final touch?",
+    "options": [
+      "Celery salt",
+      "Garlic salt",
+      "Onion salt",
+      "Old Bay seasoning"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which processed cheese sauce is a classic topping ordered on a Philadelphia cheesesteak ('whiz wit')?",
+    "options": [
+      "Velveeta dip",
+      "Nacho cheese",
+      "Cheez Whiz",
+      "Queso blanco"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cut of thinly sliced beef is the gold standard meat used in a classic Philly cheesesteak?",
+    "options": [
+      "Beef brisket",
+      "Ribeye",
+      "Chuck roast",
+      "Flank steak"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cured beef meat is the traditional star filling of a classic Reuben sandwich?",
+    "options": [
+      "Roast beef",
+      "Bologna",
+      "Prosciutto",
+      "Corned beef"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fermented cabbage condiment is layered into a grilled Reuben sandwich?",
+    "options": [
+      "Sauerkraut",
+      "Coleslaw",
+      "Kimchi",
+      "Chow chow"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which type of bread is the mandatory traditional vehicle for a classic Reuben sandwich?",
+    "options": [
+      "Sourdough",
+      "White bread",
+      "Rye bread",
+      "Ciabatta"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cheese is melted inside a classic grilled Reuben sandwich?",
+    "options": [
+      "Swiss cheese",
+      "Cheddar cheese",
+      "American cheese",
+      "Provolone"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which two sauces are commonly spread on a classic Reuben sandwich?",
+    "options": [
+      "Mayonnaise or Ranch",
+      "Dijon mustard or Aioli",
+      "Russian or Thousand Island dressing",
+      "Tartar or Remoulade"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What three fresh ingredients comprise the letters of the beloved American 'BLT' sandwich?",
+    "options": [
+      "Beef, leek, and tarragon",
+      "Bacon, lettuce, and tomato",
+      "Brie, lettuce, and truffle",
+      "Basil, lamb, and tomato"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which seafood meat is tossed in light mayonnaise and served in a buttered split-top bun in Maine?",
+    "options": [
+      "Fried clams",
+      "Smoked trout",
+      "Crab meat",
+      "Chilled lobster meat"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "In contrast to Maine lobster rolls, how is lobster meat served in a traditional Connecticut-style lobster roll?",
+    "options": [
+      "Chilled with mayonnaise",
+      "Deep-fried with tartar sauce",
+      "Warm with melted butter",
+      "Blackened with remoulade"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which three vegetables make up the foundational 'holy trinity' of Cajun and Louisiana Creole cooking?",
+    "options": [
+      "Onions, carrots, and celery",
+      "Garlic, onions, and tomatoes",
+      "Onions, celery, and green bell peppers",
+      "Poblano peppers, onions, and corn"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which smoked pork sausage originating in France is an essential ingredient in Louisiana gumbo and jambalaya?",
+    "options": [
+      "Bratwurst",
+      "Kielbasa",
+      "Chorizo español",
+      "Andouille sausage"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What Southern staple made from ground dried sassafras leaves is stirred into gumbo as a traditional thickener and aromatic?",
+    "options": [
+      "Arrowroot powder",
+      "Gumbo herb",
+      "Filé powder",
+      "Chicory root"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What green mucilaginous pod vegetable is frequently used in Creole cooking to thicken gumbos?",
+    "options": [
+      "Zucchini",
+      "Green bean",
+      "Chayote",
+      "Okra"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What grain is cooked directly inside the seasoned meat and seafood broth of a Louisiana Jambalaya?",
+    "options": [
+      "Cornmeal grits",
+      "Long-grain rice",
+      "Couscous",
+      "Pearl barley"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Maryland seasoning blend containing celery salt, red and black pepper, and paprika is famous for steamed blue crabs?",
+    "options": [
+      "Tony Chachere's",
+      "Slap Ya Mama",
+      "Cavender's",
+      "Old Bay Seasoning"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sweet and savory spread made of grated cheddar, sweet pickled red peppers, and mayonnaise is dubbed the 'Pâté of the South'?",
+    "options": [
+      "Beer cheese",
+      "Queso fundido",
+      "Pimento cheese",
+      "Pub cheese"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which two ingredients form the simple two-ingredient sauce tossed with fried chicken wings to make original Buffalo wings?",
+    "options": [
+      "Ketchup and brown sugar",
+      "Frank's RedHot sauce and melted butter",
+      "Sriracha and honey",
+      "Tabasco and blue cheese"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dipping sauce and vegetable combination is the mandatory traditional accompaniment to authentic Buffalo wings?",
+    "options": [
+      "Blue cheese dressing and celery sticks",
+      "Ranch dressing and carrot sticks",
+      "Honey mustard and pickles",
+      "Barbecue sauce and coleslaw"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which warm dip consisting of shredded cooked chicken, cream cheese, hot wing sauce, and melted cheddar is a game-day staple?",
+    "options": [
+      "Spinach artichoke dip",
+      "Buffalo chicken dip",
+      "Seven-layer dip",
+      "Queso dip"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which pork cut is slow-smoked over hickory or oak and shredded to make Carolina pulled pork barbecue?",
+    "options": [
+      "Pork shoulder (pork butt)",
+      "Pork tenderloin",
+      "Pork belly",
+      "Pork chops"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which key condiment base distinguishes Eastern North Carolina barbecue sauce from western styles?",
+    "options": [
+      "Tomato paste and molasses",
+      "Cider vinegar with crushed red pepper",
+      "Yellow mustard and honey",
+      "Mayonnaise and horseradish"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which condiment forms the bright yellow base of South Carolina-style 'Carolina Gold' barbecue sauce?",
+    "options": [
+      "Mayonnaise",
+      "Apple cider",
+      "Yellow mustard",
+      "Brown sugar molasses"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dairy condiment forms the creamy white base of Northern Alabama-style barbecue sauce popularized by Big Bob Gibson?",
+    "options": [
+      "Mayonnaise",
+      "Sour cream",
+      "Buttermilk",
+      "Yogurt"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sweet bread roll made with pineapple juice and potato flour originated in Hawaii and is popular across the US for sliders?",
+    "options": [
+      "Hawaiian sweet rolls (King's Hawaiian)",
+      "Parker House rolls",
+      "Brioche buns",
+      "Amoroso rolls"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What type of pickled peppers are essential to the assembly of an authentic Chicago-style hot dog?",
+    "options": [
+      "Jalapeño slices",
+      "Sport peppers",
+      "Pepperoncini",
+      "Banana peppers"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What vibrant relish with an artificial bright blue-green hue is a famous signature of the Chicago hot dog?",
+    "options": [
+      "Neon green sweet pickle relish",
+      "Dill pickle relish",
+      "Chow chow relish",
+      "Piccalilli relish"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which pickled vegetable mixture, containing cauliflower, carrots, celery, and serrano chilies in oil, tops Chicago Italian beef sandwiches?",
+    "options": [
+      "Chow chow",
+      "Chicago-style Giardiniera",
+      "Kimchi",
+      "Sauerkraut"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What term describes the ordering style for an Italian beef sandwich submerged entirely into hot roast beef roasting juices (gravy)?",
+    "options": [
+      "Wet",
+      "Soaked",
+      "Dipped (or Juicy)",
+      "Drowned"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which round, sesame-seeded Sicilian loaf is the mandatory vehicle for the New Orleans Muffuletta sandwich?",
+    "options": [
+      "Muffuletta bread",
+      "Brioche bun",
+      "Baguette",
+      "Focaccia"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which tangy, garlicky chopped condiment spread is the definitive layer inside a New Orleans Muffuletta sandwich?",
+    "options": [
+      "Giardiniera",
+      "Tapenade",
+      "Chow chow",
+      "Marinated green and black olive salad"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which three Italian cured meats are traditionally layered into a classic New Orleans Muffuletta?",
+    "options": [
+      "Prosciutto, pancetta, and pepperoni",
+      "Capicola, bresaola, and speck",
+      "Bologna, pastrami, and roast beef",
+      "Genoa salami, ham, and mortadella"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which airy, crispy-crusted French bread produced in New Orleans by bakeries like Leidenheimer is essential for a Po' Boy?",
+    "options": [
+      "Parisian baguette",
+      "Sourdough batard",
+      "New Orleans French bread",
+      "Ciabatta loaf"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What does ordering a New Orleans Po' Boy sandwich 'dressed' mean it will be topped with?",
+    "options": [
+      "Mayonnaise, shredded lettuce, sliced tomatoes, and pickles",
+      "Mustard, sauerkraut, and Swiss cheese",
+      "Olive salad, provolone, and hot peppers",
+      "Barbecue sauce, coleslaw, and onions"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What flavorful liquid meat trimmings and gravy are used to make a classic New Orleans roast beef Po' Boy?",
+    "options": [
+      "Au jus broth",
+      "Debris (gravy with braised roast beef shreds)",
+      "Pot roast jus",
+      "Béchamel sauce"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which open-faced hot sandwich created at the Brown Hotel in Louisville consists of sliced turkey and bacon smothered in Mornay sauce and broiled?",
+    "options": [
+      "Horseshoe sandwich",
+      "Welsh rarebit",
+      "Monte Cristo",
+      "Hot Brown"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Springfield, Illinois open-faced specialty features toasted thick bread, hamburger or meat patty, a pile of French fries, and melted cheese sauce?",
+    "options": [
+      "Hot Brown",
+      "Gerber sandwich",
+      "Slavic burger",
+      "Horseshoe sandwich"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic American triple-decker sandwich, often held together with frilled toothpicks, layers turkey, bacon, lettuce, tomato, and mayonnaise?",
+    "options": [
+      "Club sandwich",
+      "Dagwood sandwich",
+      "Patty melt",
+      "Monte Cristo"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sandwich made with sliced ham, turkey, and Swiss cheese is dipped entirely in beaten egg batter and deep-fried, then dusted with powdered sugar?",
+    "options": [
+      "Croque Monsieur",
+      "Monte Cristo sandwich",
+      "Reuben",
+      "Patty melt"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fruit jam is traditionally served as a sweet dipping accompaniment to a deep-fried Monte Cristo sandwich?",
+    "options": [
+      "Orange marmalade",
+      "Grape jelly",
+      "Apple butter",
+      "Red currant or raspberry jam"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sandwich created in Los Angeles (at Philippe the Original or Cole's) consists of roast beef on a French roll served with a bowl of pan jus for dipping?",
+    "options": [
+      "Italian Beef",
+      "French Dip",
+      "Cheesesteak",
+      "Pastrami on Rye"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which American diner hybrid sandwich combines a ground beef burger patty, melted Swiss cheese, and caramelized onions on toasted rye bread?",
+    "options": [
+      "Patty melt",
+      "Reuben sandwich",
+      "Frisco melt",
+      "Chopped cheese"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which New York City bodega specialty features ground beef and onions chopped on the griddle with melted American cheese in a hero roll?",
+    "options": [
+      "Chopped Cheese",
+      "Patty melt",
+      "Cheesesteak",
+      "Sloppy Joe"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sweet and tangy ground beef mixture simmered with onions, peppers, tomato sauce, Worcestershire, and brown sugar is served on a hamburger bun?",
+    "options": [
+      "Sloppy Joe",
+      "Manwich",
+      "Loose meat sandwich",
+      "Tavern sandwich"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Midwestern sandwich, famous at Maid-Rite restaurants in Iowa, features unseasoned ground beef cooked loose without tomato binders on a steamed bun?",
+    "options": [
+      "Sloppy Joe",
+      "Chopped cheese",
+      "Runza",
+      "Loose meat sandwich (Tavern sandwich)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Nebraska yeast dough pocket stuffed with ground beef, shredded cabbage, onions, and black pepper was brought by Volga German immigrants?",
+    "options": [
+      "Runza (Bierock)",
+      "Pasty",
+      "Kolache",
+      "Kreplach"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Cornish meat and vegetable hand pie with a crimped crust became a staple lunch for iron and copper miners in Michigan's Upper Peninsula?",
+    "options": [
+      "Pasty",
+      "Runza",
+      "Empanada",
+      "Pot pie"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic filling is crimped inside a traditional Upper Peninsula Michigan Cornish pasty?",
+    "options": [
+      "Chicken, carrots, peas, and gravy",
+      "Beef, sliced potatoes, rutabaga, and onions",
+      "Pork, apples, cabbage, and cheddar",
+      "Ground lamb, sweet potato, and corn"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spice blend gives Nashville hot chicken its tongue-scorching heat, brushed on as a paste of rendered chicken fat, brown sugar, and chili spices?",
+    "options": [
+      "Cayenne pepper paste",
+      "Ghost pepper extract",
+      "Habanero puree",
+      "Paprika and black pepper only"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which two humble items are the mandatory serving base and garnish for authentic Nashville hot chicken?",
+    "options": [
+      "Brioche bun and coleslaw",
+      "Cornbread muffin and honey",
+      "Plain white sandwich bread and dill pickle slices",
+      "Waffles and maple syrup"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Southern breakfast dish features rich white stone-ground hominy porridge topped with pan-seared shrimp, bacon drippings, and scallions?",
+    "options": [
+      "Grits and grillades",
+      "Crawfish étouffée",
+      "Lowcountry boil",
+      "Shrimp and grits"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What Southern dish features tender medallions of beef or pork braised in a rich Creole tomato-based roux, served over creamy grits?",
+    "options": [
+      "Shrimp and grits",
+      "Country fried steak",
+      "Beef debris",
+      "Grillades and grits"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Southern New Year's Day lucky dish consists of black-eyed peas cooked with pork (fatback or ham hock), served over rice with greens?",
+    "options": [
+      "Hoppin' John",
+      "Red beans and rice",
+      "Brunswick stew",
+      "Frogmore stew"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which New Orleans Monday tradition consists of slow-simmered kidney beans cooked with the holy trinity, smoked ham hocks, and served over steamed rice?",
+    "options": [
+      "Hoppin' John",
+      "Red beans and rice",
+      "Jambalaya",
+      "Crawfish Monica"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What thick, spicy seafood stew made with crawfish tails smothered in a rich butter-and-flour roux and the holy trinity is called:",
+    "options": [
+      "Crawfish bisque",
+      "Gumbo ya-ya",
+      "Crawfish Étouffée",
+      "Jambalaya"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What type of roux provides the base for a crawfish étouffée, differing from the dark chocolate-brown roux of seafood gumbo?",
+    "options": [
+      "Black roux",
+      "Blond or peanut butter-colored roux",
+      "Raw white roux",
+      "No roux (cornstarch only)"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Texas chili dish, officially the state dish of Texas, strictly forbids the inclusion of which two ingredients?",
+    "options": [
+      "Beans and tomato chunks",
+      "Onions and garlic",
+      "Beef and cumin",
+      "Chili peppers and beef stock"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fragrant spice gives Texas 'bowl of red' chili its signature earthy aromatic depth?",
+    "options": [
+      "Cinnamon",
+      "Cardamom",
+      "Ground cumin (comino)",
+      "Nutmeg"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which unique Mediterranean spices give Cincinnati-style chili its recognizable Greek-influenced flavor profile?",
+    "options": [
+      "Cinnamon, allspice, and cloves",
+      "Curry powder, turmeric, and ginger",
+      "Saffron, rosemary, and fennel",
+      "Star anise, Szechuan pepper, and lemongrass"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What does a '5-way' order of Cincinnati chili at Skyline Chili include?",
+    "options": [
+      "Hot dog, chili, mustard, onions, and cheese",
+      "Fries, chili, bacon, jalapeños, and sour cream",
+      "Spaghetti, chili, sour cream, guacamole, and salsa",
+      "Spaghetti, chili, kidney beans, chopped onions, and shredded cheddar cheese"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Hawaiian comfort food dish consists of a bed of white rice topped with a hamburger patty, fried sunny-side-up egg, and brown gravy?",
+    "options": [
+      "Poke bowl",
+      "Spam Musubi",
+      "Loco Moco",
+      "Kalua Pork plate"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which canned spiced pork product is glazed in teriyaki sauce, placed atop a block of sushi rice, and wrapped in nori in Hawaii?",
+    "options": [
+      "Vienna sausage",
+      "Corned beef hash",
+      "Canned ham",
+      "Spam"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Hawaiian traditional main dish is made by roasting a whole pig in an underground imu pit lined with banana and ti leaves?",
+    "options": [
+      "Laulau",
+      "Pipikaula",
+      "Kalua pig (Kalua pork)",
+      "Char siu pork"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Hawaiian dish features pork and salted butterfish wrapped tightly in taro leaves and ti leaves, then steamed until tender?",
+    "options": [
+      "Kalua pig",
+      "Laulau",
+      "Poi",
+      "Lomi salmon"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Hawaiian side dish consists of diced salted raw salmon massaged and tossed with fresh tomatoes, sweet Maui onions, and crushed ice?",
+    "options": [
+      "Ahi poke",
+      "Pipikaula",
+      "Lomi-lomi salmon",
+      "Tako poke"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What ancient Hawaiian staple starch paste is made by steaming and mashing the underground corm of the taro plant with water?",
+    "options": [
+      "Ulu mash",
+      "Kulolo",
+      "Haupia",
+      "Poi"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Hawaiian sweet dessert pudding is made by simmering rich coconut milk with sugar and cornstarch or pia arrowroot until set?",
+    "options": [
+      "Kulolo",
+      "Haupia",
+      "K butter mochi",
+      "Pao doce"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Virginia and North Carolina stew, historically made with squirrel or rabbit, combines lima beans, sweet corn, tomatoes, and shredded poultry or pork?",
+    "options": [
+      "Brunswick stew",
+      "Kentucky burgoo",
+      "Mulligan stew",
+      "Campfire chili"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy communal Kentucky hunter's stew is slow-cooked in outdoor iron kettles with three or more meats, cabbage, potatoes, corn, and lima beans?",
+    "options": [
+      "Brunswick stew",
+      "Booya",
+      "Kentucky Burgoo",
+      "Frogmore stew"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Upper Midwestern community stew (popular in Minnesota and Wisconsin) is cooked outdoors in giant cauldrons using beef, chicken, pork, and rutabagas for church fundraisers?",
+    "options": [
+      "Burgoo",
+      "Brunswick stew",
+      "Booya",
+      "Goulash"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Pennsylvania Dutch breakfast loaf is made by boiling pork scrap trimmings with cornmeal, buckwheat flour, and spices, then sliced and fried crisp in butter?",
+    "options": [
+      "Livermush",
+      "Scrapple (Pannhaas)",
+      "Goetta",
+      "Head cheese"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Cincinnati breakfast meat loaf of German origin combines ground pork and beef with pinhead steel-cut oats, bay leaves, and rosemary, fried crisp?",
+    "options": [
+      "Scrapple",
+      "Goetta",
+      "Livermush",
+      "Kishke"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which North Carolina pork loaf product features pork liver, pork head parts, cornmeal, and sage, traditionally pan-fried with grits and eggs?",
+    "options": [
+      "Scrapple",
+      "Goetta",
+      "Livermush",
+      "Souse meat"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Rhode Island clam chowder variation differs from New England and Manhattan chowders by featuring which type of broth?",
+    "options": [
+      "Thickened tomato puree",
+      "Heavy saffron cream",
+      "Beer-cheddar broth",
+      "Clear, unthickened clam broth"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Rhode Island deep-fried clam fritter made with chopped quahog clams, flour, eggs, and milk is traditionally served with tartar sauce at seaside shacks?",
+    "options": [
+      "Clam cake",
+      "Crab cake",
+      "Hushpuppy",
+      "Conch fritter"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which large hard-shell Atlantic clam (Mercenaria mercenaria) native to the eastern seaboard of North America is prized for stuffed clams ('stuffies')?",
+    "options": [
+      "Geoduck",
+      "Razor clam",
+      "Soft-shell steamer clam",
+      "Quahog clam"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "What Rhode Island baked appetizer consists of a minced quahog clam meat mixture with breadcrumbs, spicy Portuguese linguiça or chouriço, garlic, and butter baked in the clam shell?",
+    "options": [
+      "Clams Casino",
+      "Oysters Rockefeller",
+      "Stuffies (Stuffed quahogs)",
+      "Clams Oreganata"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which baked clam dish created at the Little Casino in Narragansett Pier, Rhode Island, is topped with bacon, breadcrumbs, minced bell peppers, and shallots?",
+    "options": [
+      "Oysters Rockefeller",
+      "Stuffies",
+      "Clams Posillipo",
+      "Clams Casino"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which iconic New Orleans baked oyster dish created at Antoine's Restaurant features oysters on the half shell topped with an intensely green, rich herb-and-butter sauce?",
+    "options": [
+      "Oysters Bienville",
+      "Oysters Kirkpatrick",
+      "Oysters Rockefeller",
+      "Oysters En Brochette"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic New Orleans baked oyster dish created at Arnaud's features oysters baked with shrimp, minced mushrooms, shallots, white wine, and breadcrumbs?",
+    "options": [
+      "Oysters Bienville",
+      "Oysters Rockefeller",
+      "Oysters Casino",
+      "Oysters Mosca"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which decadent New Orleans oyster casserole invented at Mosca's Restaurant bakes plump shucked oysters with breadcrumbs, copious garlic, olive oil, and rosemary?",
+    "options": [
+      "Oysters Mosca",
+      "Oysters Bienville",
+      "Oysters Rockefeller",
+      "Oysters Vanderbilt"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which historic New Orleans dish created at Brennan's features poached eggs and Canadian bacon on toasted English muffins topped with hollandaise and a rich creamed spinach bed?",
+    "options": [
+      "Eggs Benedict",
+      "Eggs Hussarde",
+      "Eggs Sardou",
+      "Eggs Neptune"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which New Orleans egg specialty served at Brennan's layers poached eggs atop rusks of Holland rusks, Marchand de Vin red wine sauce, and rich hollandaise?",
+    "options": [
+      "Eggs Sardou",
+      "Eggs Hussarde",
+      "Eggs Benedict",
+      "Eggs Florentine"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional New Orleans pan-roasted dish features whole peeled shrimp simmered in a cast-iron skillet with Worcestershire sauce, lemon juice, garlic, black pepper, and massive sticks of cold butter?",
+    "options": [
+      "Shrimp Creole",
+      "Shrimp Remoulade",
+      "New Orleans BBQ Shrimp",
+      "Crawfish Monica"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy and sweet pasta dish created for the New Orleans Jazz & Heritage Festival tossed rotini pasta with crawfish tails, heavy cream, garlic, and Creole spices?",
+    "options": [
+      "Crawfish Fettuccine",
+      "Crawfish Monica",
+      "Pasta Jambalaya",
+      "Pastalaya"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Charleston, South Carolina specialty soup created by Mayor Rhett's chef William Deas is enriched with orange crab roe, blue crab meat, cream, and dry sherry?",
+    "options": [
+      "Crab bisque",
+      "She-crab soup",
+      "Chesapeake chowder",
+      "Charleston gumbo"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "What specific culinary ingredient gives authentic She-crab soup its subtle orange hue and richer seafood essence?",
+    "options": [
+      "Saffron threads",
+      "Tomato paste",
+      "Lobster tomalley",
+      "Female blue crab roe"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which coastal Georgia and South Carolina Gullah Geechee rice dish is cooked with fresh red tomatoes, bacon fat, onions, and long-grain rice?",
+    "options": [
+      "Jambalaya",
+      "Dirty rice",
+      "Hoppin' John",
+      "Charleston red rice"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Louisiana side dish, also known as 'rice dressing', gets its dirty speckled appearance from minced chicken livers, gizzards, and ground pork cooked with the holy trinity?",
+    "options": [
+      "Cajun jambalaya",
+      "Charleston red rice",
+      "Calas rice",
+      "Dirty rice"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which crisp yeast-leavened deep-fried sweet rice fritter dusted with confectioners' sugar was historically sold by African American street vendors in New Orleans?",
+    "options": [
+      "Beignets",
+      "Calas",
+      "Hushpuppies",
+      "Funnel cakes"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which deep-fried round cornmeal dumpling seasoned with minced onions and buttermilk is the mandatory partner to Southern fried catfish?",
+    "options": [
+      "Corn fritter",
+      "Johnnycake",
+      "Hushpuppy",
+      "Spoonbread"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which historic flatbread made from a simple batter of stone-ground Rhode Island white cap flint cornmeal, boiling water, and salt is griddled on cast iron?",
+    "options": [
+      "Hushpuppy",
+      "Cornbread",
+      "Johnnycake (Jonny cake)",
+      "Spoonbread"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which delicate, soufflé-like cornmeal pudding baked in a casserole dish with butter, milk, and whipped egg whites is a Virginian Thanksgiving tradition?",
+    "options": [
+      "Johnnycake",
+      "Corn pone",
+      "Hasty pudding",
+      "Spoonbread"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional North Carolina side dish is made by simmering dried corn kernels that have been soaked in wood ash lye to remove hulls and germs?",
+    "options": [
+      "Hominy",
+      "Grits",
+      "Cornmeal mush",
+      "Polenta"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Pennsylvania Dutch sweet molasses crumb pie features a gooey wet-bottom filling of dark molasses topped with cinnamon-sugar flour crumbs?",
+    "options": [
+      "Chess pie",
+      "Sugar cream pie",
+      "Whoopie pie",
+      "Shoofly pie"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Southern custard pie made without fruit features a filling of butter, sugar, eggs, and a small splash of vinegar and cornmeal to balance the sweetness?",
+    "options": [
+      "Shoofly pie",
+      "Sugar cream pie",
+      "Buttermilk pie",
+      "Chess pie"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which official state pie of Indiana, also known as 'Hoosier pie', is filled with a cooked custard of heavy cream, brown sugar, vanilla, and flour, dusted with nutmeg?",
+    "options": [
+      "Chess pie",
+      "Sugar cream pie",
+      "Shoofly pie",
+      "Buttermilk pie"
+    ],
+    "answer": 1,
+    "d": 3
+  }
+]

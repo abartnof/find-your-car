@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Friends",
+    "q": "Which creative duo co-created Friends after developing the original concept in late 1993?",
+    "options": [
+      "Chuck Lorre and Bill Prady",
+      "David Crane and Marta Kauffman",
+      "Larry David and Jerry Seinfeld",
+      "Steven Levitan and Christopher Lloyd"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What university did co-creators David Crane and Marta Kauffman attend together as undergraduate students in the 1970s?",
+    "options": [
+      "New York University",
+      "Columbia University",
+      "Harvard University",
+      "Brandeis University"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What acclaimed adult cable comedy on HBO did David Crane and Marta Kauffman co-create prior to Friends?",
+    "options": [
+      "'The Larry Sanders Show'",
+      "'Tales from the Crypt'",
+      "'Dream On'",
+      "'1st & Ten'"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Who was the third key executive producer and primary director who partnered with Crane and Kauffman?",
+    "options": [
+      "James Burrows",
+      "Warren Littlefield",
+      "David Nevins",
+      "Kevin S. Bright"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What was the production company name formed by the three executive producers that produced Friends?",
+    "options": [
+      "Crane-Kauffman Television",
+      "Bright Light Entertainment",
+      "Bright/Kauffman/Crane Productions",
+      "Manhattan Friends TV"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What was the original working title used by Crane and Kauffman on their initial seven-page pitch treatment in December 1993?",
+    "options": [
+      "'Across the Hall'",
+      "'Six of One'",
+      "'Insomnia Cafe'",
+      "'Friends Like Us'"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which of the following was also an early proposed working title before the network finalized 'Friends'?",
+    "options": [
+      "'Six of One'",
+      "'Manhattan Brew'",
+      "'The West Village Six'",
+      "'Coffee and Companions'"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What legendary television director helmed the Pilot episode and fifteen foundational episodes in the early seasons?",
+    "options": [
+      "Michael Lembeck",
+      "Kevin S. Bright",
+      "James Burrows",
+      "Gail Mancuso"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Where did director James Burrows take the six cast members in summer 1994, telling them it was their last shot at anonymity?",
+    "options": [
+      "Cabo San Lucas, Mexico",
+      "New York City",
+      "Miami Beach, Florida",
+      "Las Vegas, Nevada"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What American pop-rock duo recorded and performed the iconic theme song 'I'll Be There for You'?",
+    "options": [
+      "The Rembrandts",
+      "Toad the Wet Sprocket",
+      "The Goo Goo Dolls",
+      "Gin Blossoms"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Who were the two core members of The Rembrandts who sang 'I'll Be There for You'?",
+    "options": [
+      "Glen Phillips and Todd Nichols",
+      "Danny Wilde and Phil Solem",
+      "John Rzeznik and Robby Takac",
+      "Robin Wilson and Jesse Valenzuela"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which celebrated songwriter co-wrote the lyrics to 'I'll Be There for You' along with Crane, Kauffman, and The Rembrandts?",
+    "options": [
+      "Diane Warren",
+      "Allee Willis",
+      "Carole King",
+      "Cynthia Weil"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Who composed the original musical theme for 'I'll Be There for You' and served as the show's music composer?",
+    "options": [
+      "Mark Snow",
+      "Mike Post",
+      "Michael Skloff",
+      "Snuffy Walden"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "How many rapid rhythmic hand claps occur during the introductory chorus of 'I'll Be There for You'?",
+    "options": [
+      "Three claps",
+      "Five claps",
+      "Six claps",
+      "Four claps"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Who actually performed the four rhythmic hand claps during the recording of the theme song?",
+    "options": [
+      "The six main actors in the studio",
+      "The producers and composers (Crane, Kauffman, Bright, and Skloff)",
+      "Professional percussionists from the LA Philharmonic",
+      "A machine drum synthesizer loop"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Where did 'I'll Be There for You' peak on the Billboard Hot 100 Airplay chart in 1995?",
+    "options": [
+      "Number 1 (for eight consecutive weeks)",
+      "Number 5",
+      "Number 12",
+      "Number 2"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Where was the famous opening title sequence featuring the water fountain and umbrella sofa actually filmed?",
+    "options": [
+      "The Warner Bros. Ranch backlot in Burbank, California",
+      "Central Park in New York City",
+      "Prospect Park in Brooklyn",
+      "Gramercy Park in Manhattan"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "At what time of day was the opening fountain title sequence filmed in chilly water?",
+    "options": [
+      "Around 4:00 AM",
+      "Noon under bright sun",
+      "At sunset around 7:00 PM",
+      "At 10:00 AM after breakfast"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "In what year did Friends win the Primetime Emmy Award for Outstanding Comedy Series?",
+    "options": [
+      "1996 (for Season 2)",
+      "1999 (for Season 5)",
+      "2002 (for Season 8)",
+      "2004 (for Season 10)"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which cast member was the first to win a Primetime Emmy Award for acting on the show, winning in 1998?",
+    "options": [
+      "Lisa Kudrow",
+      "Jennifer Aniston",
+      "David Schwimmer",
+      "Matthew Perry"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "In which category did Lisa Kudrow win her Primetime Emmy Award in 1998?",
+    "options": [
+      "Outstanding Supporting Actress in a Comedy Series",
+      "Outstanding Lead Actress in a Comedy Series",
+      "Outstanding Guest Actress in a Comedy Series",
+      "Outstanding Original Music and Lyrics"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which cast member won the Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series in 2002?",
+    "options": [
+      "Courteney Cox",
+      "Jennifer Aniston",
+      "Lisa Kudrow",
+      "Marlo Thomas"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which of the six main cast members was famously NEVER nominated for an acting Primetime Emmy Award for Friends?",
+    "options": [
+      "Matthew Perry",
+      "Matt LeBlanc",
+      "Courteney Cox",
+      "David Schwimmer"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "How many Primetime Emmy Award nominations for Outstanding Lead Actor in a Comedy Series did Matt LeBlanc receive?",
+    "options": [
+      "One nomination",
+      "Five nominations",
+      "Zero nominations",
+      "Three nominations (2002, 2003, 2004)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "In what year was Matthew Perry nominated for a Primetime Emmy Award for Outstanding Lead Actor for playing Chandler?",
+    "options": [
+      "1996",
+      "1999",
+      "2002",
+      "2004"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which actor earned a Primetime Emmy nomination in 1995 for Outstanding Supporting Actor in a Comedy Series?",
+    "options": [
+      "Matthew Perry",
+      "Matt LeBlanc",
+      "David Schwimmer",
+      "Hank Azaria"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which Hollywood guest star won an Emmy for Outstanding Guest Actor in a Comedy Series in 2000 for playing Paul Stevens?",
+    "options": [
+      "Bruce Willis",
+      "Brad Pitt",
+      "Gary Oldman",
+      "Danny DeVito"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which guest star won an Emmy Award for Outstanding Guest Actress in a Comedy Series in 2003 for playing Amy Green?",
+    "options": [
+      "Reese Witherspoon",
+      "Christina Applegate",
+      "Brooke Shields",
+      "Susan Sarandon"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which director won the Primetime Emmy Award for Outstanding Directing for a Comedy Series for 'The One After the Superbowl'?",
+    "options": [
+      "James Burrows",
+      "Kevin S. Bright",
+      "David Schwimmer",
+      "Michael Lembeck"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "How many episodes of Friends did cast member David Schwimmer personally direct during the series?",
+    "options": [
+      "10 episodes",
+      "4 episodes",
+      "16 episodes",
+      "22 episodes"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which director directed the highest number of Friends episodes across the entire series (55 episodes)?",
+    "options": [
+      "Kevin S. Bright",
+      "James Burrows",
+      "Gary Halvorson",
+      "Michael Lembeck"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "How many total episodes did executive producer Kevin S. Bright personally direct?",
+    "options": [
+      "25 episodes",
+      "38 episodes",
+      "72 episodes",
+      "54 episodes"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Who directed the emotional series finale 'The Last One' (Parts 1 & 2)?",
+    "options": [
+      "James Burrows",
+      "David Schwimmer",
+      "Gary Halvorson",
+      "Kevin S. Bright"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What Screen Actors Guild (SAG) Award did the entire ensemble cast win together in 1996?",
+    "options": [
+      "SAG Lifetime Achievement Award",
+      "Favorite Cast of the Decade Award",
+      "Best Comedy Writing Ensemble",
+      "Outstanding Performance by an Ensemble in a Comedy Series"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which cast member won a Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Comedy Series in 2000?",
+    "options": [
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Lisa Kudrow",
+      "Teri Garr"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which cast member won the Golden Globe Award for Best Actress in a Television Series – Musical or Comedy in 2003?",
+    "options": [
+      "Jennifer Aniston",
+      "Lisa Kudrow",
+      "Courteney Cox",
+      "Christina Applegate"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "How many times was Friends nominated for the Golden Globe for Best Television Series – Musical or Comedy?",
+    "options": [
+      "6 times",
+      "2 times",
+      "10 times",
+      "Zero times"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which prolific female television director helmed 14 episodes of Friends including 'The One with Ross's Sandwich'?",
+    "options": [
+      "Gail Mancuso",
+      "Pamela Fryman",
+      "Bethany Rooney",
+      "Mary Lou Belli"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What award show presented Friends with the award for Favorite TV Comedy Series for five consecutive years from 2000 to 2004?",
+    "options": [
+      "The TCA Awards",
+      "The People's Choice Awards",
+      "The Critics' Choice Television Awards",
+      "The TV Guide Awards"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Who was the president of NBC Entertainment who championed and greenlit Friends in early 1994?",
+    "options": [
+      "Warren Littlefield",
+      "Brandon Tartikoff",
+      "Jeff Zucker",
+      "Les Moonves"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What Warner Bros. executive was instrumental in the production and syndication distribution of Friends?",
+    "options": [
+      "Barry Meyer",
+      "Peter Roth",
+      "Bob Daly",
+      "Terry Semel"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "Which writer wrote the legendary bottle episode 'The One Where No One's Ready'?",
+    "options": [
+      "Ira Ungerleider",
+      "David Crane",
+      "Marta Kauffman",
+      "Scott Silveri"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "Which writing duo penned the iconic Season 4 apartment trivia showdown 'The One with the Embryos'?",
+    "options": [
+      "David Crane and Marta Kauffman",
+      "Jill Condon and Amy Toomin",
+      "Scott Silveri and Shana Goldberg-Meehan",
+      "Ted Cohen and Andrew Reich"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "Which longtime Friends writers became executive producers and co-showrunners in the later seasons?",
+    "options": [
+      "Scott Silveri and Shana Goldberg-Meehan",
+      "Ted Cohen and Andrew Reich",
+      "Adam Chase and Ira Ungerleider",
+      "Greg Malins and Wil Calhoun"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Who wrote the iconic Season 5 episode 'The One Where Everybody Finds Out'?",
+    "options": [
+      "Marta Kauffman",
+      "Greg Malins",
+      "Alexa Junge",
+      "Scott Silveri"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which writer penned the emotional Season 2 episode 'The One with the Prom Video'?",
+    "options": [
+      "David Crane",
+      "Alexa Junge",
+      "Jeff Astrof",
+      "Michael Borkow"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which writer created the famous running joke of Ross screaming 'We were on a break!' in Season 3?",
+    "options": [
+      "Adam Chase",
+      "Scott Silveri",
+      "David Crane and Marta Kauffman",
+      "Jeff Greenstein"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What television studio head at Warner Bros. Television initially negotiated the network deal with NBC?",
+    "options": [
+      "Peter Roth",
+      "Garth Ancier",
+      "Ted Harbert",
+      "Leslie Moonves (then president of Warner Bros. Television)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "What was the initial episode order NBC gave to Friends when picked up in May 1994?",
+    "options": [
+      "6 episodes",
+      "12 episodes plus the pilot",
+      "22 episodes",
+      "Full 24-episode order"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which episode of Friends was the first one directed by David Schwimmer?",
+    "options": [
+      "\"The One on the Last Night\" (Season 6, Episode 6)",
+      "\"The One with the Red Sweater\"",
+      "\"The One with Rachel's Phone Number\"",
+      "\"The One with the Truth About London\""
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "What episode directed by David Schwimmer features Ross attempting to retrieve his red sweater in Season 8?",
+    "options": [
+      "\"The One After 'I Do'\"",
+      "\"The One Where Rachel Tells...\"",
+      "\"The One with the Videotape\"",
+      "\"The One with the Red Sweater\""
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which of these episodes was directed by David Schwimmer?",
+    "options": [
+      "\"The One with the Prom Video\"",
+      "\"The One Where No One's Ready\"",
+      "\"The One with the Embryos\"",
+      "\"The One with the Truth About London\""
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "How many total Primetime Emmy nominations did Friends receive for Outstanding Comedy Series?",
+    "options": [
+      "10 nominations (every season)",
+      "3 nominations",
+      "6 nominations",
+      "8 nominations"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which HBO critical juggernaut defeated Friends for Outstanding Comedy Series at the 2001 Emmys?",
+    "options": [
+      "'Curb Your Enthusiasm'",
+      "'The Sopranos'",
+      "'Sex and the City'",
+      "'The Larry Sanders Show'"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which NBC comedy rival defeated Friends for Outstanding Comedy Series multiple times in the late 1990s?",
+    "options": [
+      "'Seinfeld'",
+      "'Will & Grace'",
+      "'Frasier'",
+      "'3rd Rock from the Sun'"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "How many consecutive Emmy wins for Outstanding Comedy Series did 'Frasier' win while competing with Friends?",
+    "options": [
+      "Three consecutive wins",
+      "Seven consecutive wins",
+      "Five consecutive wins (1994–1998)",
+      "Two consecutive wins"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Which fellow NBC Thursday night sitcom won Outstanding Comedy Series in 2000 over Friends?",
+    "options": [
+      "'Just Shoot Me!'",
+      "'Will & Grace'",
+      "'Scrubs'",
+      "'NewsRadio'"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What song by U2 was originally featured in the UK and European broadcast of Ross and Rachel's Season 2 prom video episode?",
+    "options": [
+      "\"One\"",
+      "\"Beautiful Day\"",
+      "\"I Still Haven't Found What I'm Looking For\"",
+      "\"With or Without You\""
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What Chris Isaak song plays when Ross and Rachel share their planetarium date in Season 2?",
+    "options": [
+      "\"Somebody's Crying\"",
+      "\"Baby Did a Bad Bad Thing\"",
+      "\"Blue Hotel\"",
+      "\"Wicked Game\""
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What Eric Clapton ballad plays during Chandler and Monica's engagement scene in Season 6?",
+    "options": [
+      "\"Tears in Heaven\"",
+      "\"Layla\"",
+      "\"Wonderful Tonight\"",
+      "\"Change the World\""
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What Cyndi Lauper acoustic track plays at the conclusion of Monica and Chandler's wedding reception in Season 7?",
+    "options": [
+      "\"True Colors\"",
+      "\"Girls Just Want to Have Fun\"",
+      "\"All Through the Night\"",
+      "\"Time After Time\""
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What British artist's song 'Trouble' plays over the somber montage at the end of the Season 7 premiere?",
+    "options": [
+      "Radiohead",
+      "Oasis",
+      "The Verve",
+      "Coldplay"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What rock band's song 'Semi-Charmed Life' is featured in the party background in Season 4?",
+    "options": [
+      "Smash Mouth",
+      "Third Eye Blind",
+      "Sugar Ray",
+      "Matchbox 20"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "What Hootie & the Blowfish song is the subject of group concert tickets in Season 2?",
+    "options": [
+      "\"Only Wanna Be with You\"",
+      "\"Time\"",
+      "\"Let Her Cry\"",
+      "\"Hold My Hand\""
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What Lionel Richie and Diana Ross duet do Ross and Phoebe sing while grieving in their apartments?",
+    "options": [
+      "\"Truly\"",
+      "\"Endless Love\"",
+      "\"Say You, Say Me\"",
+      "\"Hello\""
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What Sir Mix-a-Lot rap song do Ross and Rachel sing to make baby Emma laugh for the first time?",
+    "options": [
+      "\"Posse on Broadway\"",
+      "\"Jump On It\"",
+      "\"Baby Got Back\"",
+      "\"U Can't Touch This\""
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Who directed the two-part London episodes 'The One with Ross's Wedding' in Season 4?",
+    "options": [
+      "James Burrows",
+      "Michael Lembeck",
+      "Kevin S. Bright",
+      "Gail Mancuso"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Who directed the memorable Season 3 Thanksgiving football episode 'The One with the Football'?",
+    "options": [
+      "Kevin S. Bright",
+      "James Burrows",
+      "Michael Lembeck",
+      "Peter Bonerz"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Who directed 'The One with the Blackout' in Season 1?",
+    "options": [
+      "Michael Lembeck",
+      "Paul Lazarus",
+      "Peter Bonerz",
+      "James Burrows"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "How many total Emmy nominations did director James Burrows receive specifically for directing episodes of Friends?",
+    "options": [
+      "One nomination",
+      "Four nominations",
+      "Eight nominations",
+      "Ten nominations"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "In which category was Brad Pitt nominated for an Emmy Award for his guest appearance in Season 8?",
+    "options": [
+      "Outstanding Supporting Actor in a Comedy Series",
+      "Outstanding Lead Actor in a Comedy Series",
+      "Outstanding Guest Actor in a Comedy Series",
+      "Outstanding Variety Performance"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Which legendary comedic actor was nominated for an Emmy for guest starring as Dr. Richard Burke?",
+    "options": [
+      "Tom Selleck",
+      "Elliott Gould",
+      "Hank Azaria",
+      "Gary Oldman"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "How many Emmy nominations for Outstanding Guest Actor did Hank Azaria receive for portraying David the Scientist Guy?",
+    "options": [
+      "One nomination",
+      "Two nominations",
+      "Three nominations",
+      "Zero nominations"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "What British television comedy award did Friends win in 1999 for Best International Comedy Show?",
+    "options": [
+      "BAFTA TV Award",
+      "British Comedy Award",
+      "Royal Television Society Award",
+      "National Television Award"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "How many Writers Guild of America (WGA) Award nominations did the writing staff of Friends receive?",
+    "options": [
+      "3 nominations",
+      "10 nominations",
+      "15 nominations",
+      "Zero nominations"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "What prestigious recognition did the series receive from the American Film Institute (AFI) in 2002?",
+    "options": [
+      "AFI Lifetime Achievement Award",
+      "AFI Heritage Award",
+      "AFI Top 10 International Series",
+      "AFI TV Program of the Year"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Who wrote the series finale 'The Last One'?",
+    "options": [
+      "Scott Silveri and Shana Goldberg-Meehan",
+      "Marta Kauffman and David Crane",
+      "Ted Cohen and Andrew Reich",
+      "Kevin S. Bright"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Who composed the whimsical transitional guitar and acoustic musical stingers between scenes?",
+    "options": [
+      "Michael Skloff",
+      "The Rembrandts",
+      "Danny Elfman",
+      "David Schwartz"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What famous sound effect was created using a real human mouth to accompany scene cuts throughout the series?",
+    "options": [
+      "Snapping fingers",
+      "Scat vocal riffs and acoustic guitar strumming by Michael Skloff",
+      "A muted brass trumpet",
+      "A slide whistle"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "Which editor won an American Cinema Editors (ACE Eddie) Award for editing 'The One with the Prom Video'?",
+    "options": [
+      "David Helfand",
+      "Stephen Prime",
+      "Janet Ashikaga",
+      "Andy Zall"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "How many multi-camera setups were typically utilized to film an episode of Friends in front of the studio audience?",
+    "options": [
+      "Two cameras",
+      "Three cameras",
+      "Six cameras",
+      "Four cameras"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What production role did Lisa Kudrow's real-life husband Michel Stern work in?",
+    "options": [
+      "Advertising executive",
+      "Television producer",
+      "Cinematographer",
+      "Talent manager"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "What costume designer was responsible for creating the iconic fashion wardrobes for Rachel, Monica, and Phoebe?",
+    "options": [
+      "Patricia Field",
+      "Mandi Line",
+      "Debra McGuire",
+      "Janie Bryant"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What set decorator was responsible for furnishing Monica's apartment and the Central Perk coffeehouse sets?",
+    "options": [
+      "Greg Grande",
+      "John Shaffner",
+      "Joe Stewart",
+      "Thomas E. Azzari"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Who was the primary production designer who conceived the layout of Monica's apartment and Central Perk?",
+    "options": [
+      "Greg Grande",
+      "Roy Christopher",
+      "Steve Olson",
+      "John Shaffner"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What distinct design rule did production designer John Shaffner break by painting Monica's apartment walls lilac purple?",
+    "options": [
+      "Producers initially opposed purple walls, but Shaffner argued it would make the show instantly identifiable when flipping channels",
+      "Lilac was considered bad luck in theatrical tradition",
+      "Purple absorbed too much studio lighting and required higher power",
+      "The network mandated all comedy sets must be beige or cream"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Where did set decorator Greg Grande originally find the famous burnt orange Central Perk velvet sofa?",
+    "options": [
+      "At a flea market on Melrose Avenue",
+      "In an antique thrift shop in Greenwich Village",
+      "It was custom-built by an upholstery artisan in Burbank",
+      "Stored in the basement of the Warner Bros. prop department"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What famous prop on Monica's purple door was originally a mirror that had its glass accidentally broken by a crew member?",
+    "options": [
+      "The brass door knocker",
+      "The yellow peephole picture frame",
+      "The chain latch",
+      "The numbered apartment plaque"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "Why was the frame kept on the door after its mirror glass was shattered?",
+    "options": [
+      "The prop master forgot to order a replacement before taping",
+      "Director James Burrows demanded it stay as a joke",
+      "Set decorator Greg Grande hung the empty frame around the peephole and loved how it looked",
+      "Jennifer Aniston requested it remain as a good luck charm"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "How long did a typical Friday night live studio audience taping of a Friends episode last?",
+    "options": [
+      "Around 22 minutes",
+      "Around 2 hours",
+      "Around 8 to 10 hours",
+      "Around 5 to 6 hours"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What live comedy warm-up comedian entertained the studio audience between scene takes for many seasons?",
+    "options": [
+      "Mark Cohen",
+      "Brian Posehn",
+      "Bill Burr",
+      "Wayne Brady"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "What food was traditionally ordered and distributed to feed the studio audience during the long taping nights?",
+    "options": [
+      "In-N-Out burgers",
+      "Chinese takeout noodles",
+      "Gourmet submarine sandwiches",
+      "Dozens of fresh delivery pizzas"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "Why were cliffhanger season finale endings (such as Ross saying Rachel's name) filmed without a studio audience?",
+    "options": [
+      "Because the sound stage was too small to fit the London set",
+      "To maintain absolute plot secrecy and avoid leaks to the tabloids",
+      "The cast was too nervous to perform the emotional beats in front of people",
+      "Network regulations prohibited live audiences after midnight"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What French title was given to Friends during its broadcast in France and French-speaking territories?",
+    "options": [
+      "Les Amis",
+      "Copains de Manhattan",
+      "Friends (retaining the English title)",
+      "La Bande"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What German title was given to Friends when broadcast in Germany and Austria?",
+    "options": [
+      "Sechs in Manhattan",
+      "Friends (subtitled 'Freunde')",
+      "Die Kumpel",
+      "New Yorker Nächte"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "Which major television trade publication chronicled the weekly production and ratings data of Friends throughout the 1990s?",
+    "options": [
+      "Variety and The Hollywood Reporter",
+      "Billboard and Rolling Stone",
+      "Time and Newsweek",
+      "Forbes and Fortune"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Friends",
+    "q": "What was the official name of the soundstage at Warner Bros. Studios where Friends was filmed from Season 2 through Season 10?",
+    "options": [
+      "Stage 12",
+      "Stage 18",
+      "Stage 24",
+      "Stage 29"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What ceremonial honor was bestowed upon Stage 24 by Warner Bros. immediately following the series finale wrap in 2004?",
+    "options": [
+      "A bronze statue of the six actors was erected at the door",
+      "It was officially renamed 'The Friends Stage'",
+      "The stage was permanently retired from television production",
+      "A replica Central Perk was opened to the public inside"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Friends",
+    "q": "What was the only soundstage on the Warner Bros. lot previously renamed in honor of a single television production?",
+    "options": [
+      "Stage 11 was renamed 'The ER Stage' years later",
+      "Stage 25 was renamed 'The Big Bang Theory Stage' years later",
+      "Stage 14 was renamed 'The West Wing Stage'",
+      "Stage 5 was renamed 'The Gilmore Girls Stage'"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Friends",
+    "q": "On what soundstage at Warner Bros. was Season 1 of Friends filmed before moving to Stage 24?",
+    "options": [
+      "Stage 24",
+      "Stage 5",
+      "Stage 12",
+      "Stage 16"
+    ],
+    "answer": 1,
+    "d": 3
+  }
+]

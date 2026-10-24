@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Cheers",
+    "q": "What was Sam Malone's jersey number when pitching for the Boston Red Sox?",
+    "options": [
+      "16",
+      "24",
+      "7",
+      "33"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What nickname did Sam Malone earn during his Major League Baseball pitching career?",
+    "options": [
+      "\"Slaphappy\" Sam",
+      "\"Mayday\" Malone",
+      "\"Fastball\" Malone",
+      "\"The Boston Flamethrower\""
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did Sam Malone retire from professional baseball before opening Cheers?",
+    "options": [
+      "He suffered a career-ending torn rotator cuff",
+      "He was banned for gambling on games",
+      "He struggled with severe alcoholism",
+      "He lost passion for the sport after winning the pennant"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What classic sports car is Sam Malone's prized personal possession?",
+    "options": [
+      "1965 Ford Mustang Fastback",
+      "1969 Chevrolet Camaro SS",
+      "1970 Dodge Challenger",
+      "1967 Chevrolet Corvette Stingray"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What non-alcoholic beverage does Sam Malone typically drink while tending bar?",
+    "options": [
+      "Club soda with lime",
+      "Diet cola",
+      "Tomato juice",
+      "Ginger ale"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of Sam Malone's short-lived, self-absorbed agent who represented him during his baseball days?",
+    "options": [
+      "Rick Walker",
+      "Dave Richards",
+      "Brad Douglas",
+      "Phil Cooper"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 1, what does Sam Malone discover in his office safe that had been left behind by a former customer?",
+    "options": [
+      "A stash of Confederate currency",
+      "An unsigned Babe Ruth baseball",
+      "A lucky bottle cap from his first major league win",
+      "A stolen diamond ring"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What good luck charm does Sam Malone temporarily lose, causing him to believe he has lost his mojo with women?",
+    "options": [
+      "His Red Sox championship ring",
+      "His silver belt buckle",
+      "His vintage dice keychain",
+      "His lucky bottle cap"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Who buys Cheers from Sam at the end of Season 5 when Sam sails around the world?",
+    "options": [
+      "The Lillian Corporation",
+      "Gary from Olde Towne Tavern",
+      "Melville's Restaurant Group",
+      "The Boston Athletic Club"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "For how much money does Sam Malone buy Cheers back from the Lillian Corporation in Season 6?",
+    "options": [
+      "One dollar",
+      "85 cents",
+      "10,000 dollars",
+      "500 dollars"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Sam Malone's specific pitching role on the Boston Red Sox?",
+    "options": [
+      "Starting pitcher",
+      "Middle reliever",
+      "Relief pitcher / closer",
+      "Knuckleball specialist"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of the boat Sam purchased to sail around the world between Seasons 5 and 6?",
+    "options": [
+      "The Flying Diane",
+      "The Boston Lady",
+      "The Mayday Mariner",
+      "The Trudy"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What happened to Sam's sailboat 'The Trudy' during his voyage between Seasons 5 and 6?",
+    "options": [
+      "It sank in the Caribbean",
+      "It was confiscated by the Coast Guard",
+      "He sold it in Bermuda to pay bar debts",
+      "It was stolen in Miami"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which rival pitcher and former teammate of Sam's wrote a tell-all autobiography mentioning Sam's exploits?",
+    "options": [
+      "Dutch Kincaid",
+      "Rick Walker",
+      "Lefty Hernandez",
+      "Buzz Anderson"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In the episode 'Showdown: Part 2', what do Sam and Diane do right before their famous first passionate kiss?",
+    "options": [
+      "Recite a romantic Shakespearean sonnet",
+      "Spill a pitcher of beer across the mahogany bar",
+      "Engage in a screaming match threatening physical violence",
+      "Apologize tearfully in Sam's back office"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What physical feature is Sam Malone famously insecure about as he begins aging?",
+    "options": [
+      "His emerging beer belly",
+      "His crow's feet wrinkles",
+      "His aching pitching elbow",
+      "His thinning hair / hairline"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 3, what job does Sam take at a local Boston television station?",
+    "options": [
+      "Weekend sports anchor",
+      "Morning talk show co-host",
+      "Commercial pitchman for a car dealership",
+      "Color commentator for Red Sox broadcasts"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What made Sam Malone notoriously terrible during his audition as a television sports anchor?",
+    "options": [
+      "He insulted the Boston Celtics mascot live on air",
+      "He could not read the Teleprompter naturally and froze on camera",
+      "He repeatedly pronounced athlete names wrong",
+      "He started drinking soda on camera during commercials"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What sport does Sam play against rival bar owner Gary in an attempt to win back the Cheers sign?",
+    "options": [
+      "Softball",
+      "Basketball",
+      "Bowling",
+      "Darts"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the final line spoken by Sam Malone in the series finale 'One for the Road'?",
+    "options": [
+      "\"Goodnight, everybody.\"",
+      "\"See you tomorrow, Norm.\"",
+      "\"Have a good night, Boston.\"",
+      "\"Sorry, we're closed.\""
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In the pilot episode, what is Diane Chambers' initial profession or status when she enters Cheers?",
+    "options": [
+      "A literature student and teaching assistant engaged to her professor",
+      "A cocktail waitress seeking a new shift",
+      "A Boston globe journalist researching local pubs",
+      "A lawyer celebrating passing the Massachusetts bar exam"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of the snooty literature professor who abandoned Diane at Cheers in the pilot episode?",
+    "options": [
+      "Simon Finch-Royce",
+      "Sumner Sloane",
+      "Derek Underwood",
+      "Elliott Randolph"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Where were Sumner Sloane and Diane Chambers supposedly traveling before he abandoned her in the pilot?",
+    "options": [
+      "Paris",
+      "Florence",
+      "Barbados",
+      "Bermuda"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did Sumner Sloane leave Diane waiting at Cheers in the pilot episode?",
+    "options": [
+      "To confirm his flight tickets at Logan Airport",
+      "To grade his undergraduate midterm papers",
+      "To cash an academic fellowship check",
+      "To retrieve his grandmother's wedding ring from his ex-wife"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What breed of dog did Diane Chambers own, named Elizabeth Barrett Browning?",
+    "options": [
+      "Poodle",
+      "Golden Retriever",
+      "Cocker Spaniel",
+      "Yorkshire Terrier"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which 19th-century English Romantic poet does Diane Chambers frequently quote to annoy Carla and Sam?",
+    "options": [
+      "Lord Byron",
+      "John Keats",
+      "Percy Bysshe Shelley",
+      "William Wordsworth"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What type of facility did Diane Chambers check into between Seasons 2 and 3 following her breakup with Sam?",
+    "options": [
+      "A French culinary academy in Paris",
+      "A monastery retreat in Vermont",
+      "A psychiatric sanatorium / mental health clinic",
+      "An exclusive writing colony in Maine"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Whom did Diane Chambers meet and begin dating while staying at the psychiatric sanatorium?",
+    "options": [
+      "Dr. Simon Finch-Royce",
+      "Dr. Robert Caplan",
+      "Dr. Clinton Sternin",
+      "Dr. Frasier Crane"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 3, where does Frasier propose to Diane, only to be abandoned at the altar later in Europe?",
+    "options": [
+      "Italy",
+      "France",
+      "England",
+      "Switzerland"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the title of the epic novel Diane Chambers spent years attempting to write?",
+    "options": [
+      "The Crimson Beacon",
+      "A novel based on the lives and patrons of Cheers",
+      "The Ivy Leaves of Boston",
+      "Echoes of New England"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What high-culture art form did Diane Chambers obsessively practice, even auditioning for a local Boston company?",
+    "options": [
+      "Opera singing",
+      "Modern dance",
+      "Ballet",
+      "Classical cello"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What wealthy, eccentric intellectual did Diane date in Season 2 who challenged Sam to a high-stakes intellectual duel?",
+    "options": [
+      "Sumner Sloane",
+      "Dr. Simon Finch-Royce",
+      "Ludlow Fowler",
+      "Derek Drake"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What allergic reaction did Diane Chambers famously suffer from whenever she was around cats?",
+    "options": [
+      "Uncontrollable sneezing and watery eyes",
+      "Hives across her face",
+      "Severe asthma attacks",
+      "Temporary loss of speech"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 5 finale 'I Do, Adieu', why does Diane ultimately leave Boston and Sam Malone?",
+    "options": [
+      "To marry Frasier Crane in Seattle",
+      "To finish her manuscript in Los Angeles after getting a book deal",
+      "To take an endowed professorship at Oxford",
+      "To open her own French cafe in Montreal"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What gift does Sam Malone present to Diane in 'I Do, Adieu' that convinces her she must pursue her writing career?",
+    "options": [
+      "A first edition of John Keats poetry",
+      "A personalized fountain pen",
+      "A typewriter",
+      "A round-trip ticket to Los Angeles"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "When Diane returns in the series finale 'One for the Road', what Hollywood award is she celebrating having won?",
+    "options": [
+      "An Emmy Award",
+      "A Golden Globe Award",
+      "A Writers Guild of America Award",
+      "A CableACE Award"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In 'One for the Road', what fictional movie project does Diane claim she wrote that turned into an embarrassing TV movie?",
+    "options": [
+      "A dramatic script that was butchered into a cheesy telefilm",
+      "A high-concept romantic comedy with Tom Cruise",
+      "A Broadway musical adaptation of Hamlet",
+      "A historical biopic about Abigail Adams"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 1, what does Diane do when a customer pinches her rear while she is serving drinks?",
+    "options": [
+      "Pours a draft beer over his head",
+      "Slaps him across the face and demands an apology",
+      "Quietly informs Sam to throw him out",
+      "Ignores it to keep her tips high"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which painter did Diane Chambers hire to paint a portrait of her and Sam, leading to endless arguments?",
+    "options": [
+      "Henri Rousseau",
+      "Julian Martinez",
+      "Phillip Semenko",
+      "Claude Bennett"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Diane Chambers' mother's name, who visited the bar threatening to disinherit Diane unless she married?",
+    "options": [
+      "Eleanor Chambers",
+      "Victoria Chambers",
+      "Cordelia Chambers",
+      "Spencer Chambers"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Ernie Pantusso's primary role on the Boston Red Sox coaching staff under which he managed Sam Malone?",
+    "options": [
+      "Pitching coach",
+      "Hitting coach",
+      "Bench coach",
+      "Bullpen catcher"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Ernie Pantusso's universal nickname among all friends and patrons of Cheers?",
+    "options": [
+      "Skip",
+      "Coach",
+      "Pants",
+      "Cap"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of Coach's beloved, plain-looking daughter who visited the bar in Season 1?",
+    "options": [
+      "Maria Pantusso",
+      "Gina Pantusso",
+      "Lisa Pantusso",
+      "Angela Pantusso"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 1 episode 'Coach's Daughter', why was Coach initially devastated about Lisa's fiancé Roy?",
+    "options": [
+      "Roy was a passionate New York Yankees fan",
+      "Roy refused to get married in the Catholic Church",
+      "Roy wanted to move Lisa to Alaska permanently",
+      "Roy was an arrogant jerk who treated Lisa poorly and openly demeaned her"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Coach Ernie Pantusso's late wife's name, whom he frequently spoke of with deep love?",
+    "options": [
+      "Angela",
+      "Rose",
+      "Grace",
+      "Lucille"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What peculiar habit did Coach exhibit when answering the Cheers bar telephone?",
+    "options": [
+      "Whispering in fear of wiretaps",
+      "Shouting 'Cheers!' into the receiver or calling out the wrong person's name",
+      "Always hanging up after two seconds",
+      "Singing the opening bar of a fight song"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 1, what second job did Coach take that involved coaching an all-girls Little League team?",
+    "options": [
+      "Refereeing middle school basketball games",
+      "Umpiring high school softball",
+      "Managing a youth baseball team called the Red Sox",
+      "Directing youth bowling leagues"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 2 episode 'Fortune and Men's Weights', what con game is Coach tricked into by a shady grifter?",
+    "options": [
+      "A counterfeit rare coin swap",
+      "A phony real estate deed in Maine",
+      "A rigged underground poker match",
+      "Investing in a fraudulent scales-and-vending-machine venture"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Coach's response whenever Sam or Diane asked him a complex philosophical question?",
+    "options": [
+      "A hilariously literal or completely backward misunderstanding of the premise",
+      "Quoting Latin proverbs learned in parochial school",
+      "Pretending to have severe sudden hearing loss",
+      "Changing the subject to Red Sox batting averages"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 2, Coach attempts to earn his high school diploma by taking what evening class?",
+    "options": [
+      "World History",
+      "Geography",
+      "Basic Algebra",
+      "American Government"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Who was the strict evening school teacher who helped Coach study for his high school geography exam?",
+    "options": [
+      "Mr. Higgins",
+      "Professor Sumner Sloane",
+      "George Gaines",
+      "Mr. Hedenberg"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What mnemonic device did Coach Ernie Pantusso memorize to pass his geography exam about Albania?",
+    "options": [
+      "Tirana is the capital near the sea...",
+      "The Balkan peaks are snowy and grand...",
+      "Across from Italy lies the land...",
+      "Albania, Albania, you border on the Adriatic..."
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which grifter and street magician repeatedly tried to swindle Coach, only to be outwitted or beaten by the bar?",
+    "options": [
+      "Harry the Hat (Harry Gittes)",
+      "Slick Willy",
+      "Boston Benny",
+      "Fast Eddie"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What classic bar con does Harry the Hat pull on Coach involving a dollar bill under a glass of water?",
+    "options": [
+      "Guessing the serial number of the bill",
+      "Taking the dollar without touching the inverted glass of water",
+      "Balancing a quarter on the rim of the glass",
+      "Turning a dollar bill into a ten-dollar bill"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 3, what romantic interest does Coach pursue who happens to be an older woman named Katherine?",
+    "options": [
+      "A regular customer at Melville's",
+      "Carla's mother Mama Lozupone",
+      "A woman he met at an adult night school class",
+      "Norm's aunt Margaret"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Coach's standard reaction whenever someone ordered an exotic or complicated cocktail at Cheers?",
+    "options": [
+      "Consulting a massive leather-bound bartending manual",
+      "Calling Sam out from the back office in a panic",
+      "Pretending the bar was out of the liquor",
+      "Confused blinking followed by offering them a beer or pretzel"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Why was Nicholas Colasanto's character Coach written off the show between Seasons 3 and 4?",
+    "options": [
+      "Nicholas Colasanto tragically passed away from heart disease in 1985",
+      "He retired to live in Florida full-time",
+      "He took a role on another television sitcom",
+      "The character was written out to reduce the cast size"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How was Coach's absence initially explained in early Season 4 dialogue before acknowledging his passing?",
+    "options": [
+      "He was managing a baseball winter league in Florida",
+      "He was traveling to visit relatives and friends",
+      "He was hospitalized for minor knee surgery",
+      "He was scouting pitching prospects in Ohio"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 3 episode 'Cheerio, Cheers', what does Coach do when an English gentleman challenges him to a drinking game?",
+    "options": [
+      "Passes out after the second glass of sherry",
+      "Substitutes apple juice for dark ale",
+      "Drinks him under the table with polite modesty",
+      "Spills his drinks into an empty vase"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What framed portrait in the bar was touched by the cast at the end of episodes in memory of Nicholas Colasanto?",
+    "options": [
+      "A photograph of Babe Ruth",
+      "A vintage black-and-white print of Fenway Park",
+      "A painting of an American bald eagle",
+      "A photograph of Apache leader Geronimo"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Woody Boyd's hometown in Indiana before moving to Boston?",
+    "options": [
+      "Hanover",
+      "Muncie",
+      "Terre Haute",
+      "Kokomo"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How did Woody Boyd first connect with Ernie 'Coach' Pantusso before arriving at Cheers?",
+    "options": [
+      "Woody played junior college baseball against Coach's team",
+      "They were long-time pen pals who exchanged pens through the mail",
+      "They were third cousins twice removed",
+      "Coach had scouted Woody's high school baseball team"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did Woody Boyd travel to Cheers in the Season 4 premiere 'Birth, Death, Love and Rice'?",
+    "options": [
+      "To audition for Sam's open assistant bartender position",
+      "To attend Harvard University on an agricultural scholarship",
+      "To meet Coach in person, unaware that Coach had passed away",
+      "To escape a vengeful farming family in Indiana"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is Woody Boyd's full legal birth name?",
+    "options": [
+      "Woodrow Wilson Boyd",
+      "Woodrow Allen Boyd",
+      "Huckleberry Thomas Boyd",
+      "Huckleberry Edward Boyd"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of Woody Boyd's high school sweetheart from Hanover who visited him in Boston?",
+    "options": [
+      "Beth Marshall",
+      "Kelly Gaines",
+      "Daisy Sue Jenkins",
+      "Mary Lou Miller"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the peculiar shared habit Woody Boyd and his Indiana girlfriend Beth had when eating together?",
+    "options": [
+      "They chewed exactly twenty times per bite in silence",
+      "They both ate massive, gluttonous quantities of food in rapid succession",
+      "They only ate fried pork rinds dipping them in milk",
+      "They refused to speak while food was on the table"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of the wealthy Boston heiress Woody Boyd fell in love with and married?",
+    "options": [
+      "Victoria Drake",
+      "Elizabeth Stone",
+      "Kelly Gaines",
+      "Penelope Wentworth"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of Kelly Gaines' wealthy, snobbish father who looked down upon Woody?",
+    "options": [
+      "Arthur Gaines",
+      "Preston Gaines",
+      "Randolph Gaines",
+      "Walter Gaines"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 8, Kelly Gaines leaves for a year of study abroad in which European country?",
+    "options": [
+      "France",
+      "England",
+      "Switzerland",
+      "Italy"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What song does Woody Boyd perform at Kelly Gaines' high-society birthday party that becomes a surprise crowd hit?",
+    "options": [
+      "\"The Hanover Corn Song\"",
+      "\"Kelly, Kelly, Kelly, Kelly...\"",
+      "\"Indiana Sweetheart\"",
+      "\"My Girl From Boston\""
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 11, what surprising public office does Woody Boyd successfully run for and win?",
+    "options": [
+      "Massachusetts State Senate",
+      "Cambridge Mayor",
+      "Boston City Council",
+      "Suffolk County Commissioner"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What political strategy does Woody's rival use that accidentally backfires and wins Woody the election?",
+    "options": [
+      "Accusing Woody of financial corruption in Indiana",
+      "Challenging Woody to an intellectual televised debate",
+      "Exposing Woody's secret criminal past",
+      "Highlighting Woody's complete lack of knowledge, making him look disarmingly honest"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What odd Hanover tradition did Woody insist upon when preparing for his wedding with Kelly?",
+    "options": [
+      "Ice carvings of farm animals and traditional pig-related folk customs",
+      "A midnight corn-husking relay race for the groomsmen",
+      "A mandatory square dance in boots before the altar",
+      "Wrestling the bride's father in a mud pit"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "During Woody and Kelly's chaotic wedding ceremony in Season 10, what happened to the officiating minister?",
+    "options": [
+      "He got locked in the church cellar by Carla",
+      "He collapsed and died right before the vows",
+      "He was struck by lightning on the church steps",
+      "He passed out from drinking sacramental wine"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Who ended up performing Woody and Kelly's emergency marriage ceremony in the kitchen after the minister's collapse?",
+    "options": [
+      "Sam Malone using his ship captain's license",
+      "Dr. Frasier Crane via mail ordination",
+      "A visiting foreign priest / German minister",
+      "Cliff Clavin as a justice of the peace"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What theater role did Woody Boyd play in a local Boston avant-garde production of 'Hair'?",
+    "options": [
+      "Berger",
+      "Woof",
+      "Hud",
+      "Claude (in which he was required to perform nude)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What odd snack food did Woody Boyd frequently invent or crave from his childhood in Hanover?",
+    "options": [
+      "Veg-a-Loo / deep-fried corn concoctions and bizarre casseroles",
+      "Peanut butter and sardine toast",
+      "Pickled hog ears in hot sauce",
+      "Raw turnip sandwiches on sourdough"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What pet pig did Woody Boyd fondly reminisce about from his family farm in Hanover?",
+    "options": [
+      "Barnaby",
+      "Arnold",
+      "Wilbur",
+      "Pinky"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 6, what commercial did Woody Boyd film that aired on Boston local television?",
+    "options": [
+      "A commercial for a used pickup truck dealership",
+      "A public service announcement for fire safety",
+      "A commercial for 'Veg-a-Lax' laxative",
+      "An advertisement for Boston baked beans"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Why was Woody horrified by the Veg-a-Lax commercial after it aired on television?",
+    "options": [
+      "His face was replaced by a cartoon illustration of a prune",
+      "The company went bankrupt without paying him his acting fee",
+      "The advertisement aired during his family's church service in Hanover",
+      "His lines were edited to make it sound like he personally suffered from chronic constipation"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of the upscale seafood restaurant located directly above Cheers?",
+    "options": [
+      "Melville's Fine Sea Food",
+      "Captain's Galley",
+      "The Boston Chowder House",
+      "Harbor View Grill"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of the haughty, condescending owner of Melville's restaurant introduced in Season 9?",
+    "options": [
+      "Sumner Sloane",
+      "John Allen Hill",
+      "Derek Drake",
+      "Sterling Hall"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What financial dispute frequently erupts between John Allen Hill and Sam Malone regarding the building lease?",
+    "options": [
+      "Shared heating oil and utility meter readings",
+      "Fire escape maintenance fees",
+      "Lease rights over the shared bathrooms and alleyway parking spots",
+      "The roof antenna installation fees"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What romantic relationship involving John Allen Hill horrified Carla Tortelli in Season 10?",
+    "options": [
+      "Hill proposed marriage to Carla's daughter Serafina",
+      "Hill had a brief passionate affair with Carla herself",
+      "Hill secretly eloped with Carla's sister Annette",
+      "John Allen Hill started dating Carla's mother Mama Lozupone"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of Cheers' primary rival drinking establishment located across town in Boston?",
+    "options": [
+      "Gary's Olde Towne Tavern",
+      "McGinty's Ale House",
+      "The Boston Boathouse",
+      "O'Malley's Irish Pub"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the recurring series of multi-season prank wars between Cheers and Gary's Olde Towne Tavern called?",
+    "options": [
+      "The Tavern Feud",
+      "Bar Wars",
+      "Boston Pub Brawl",
+      "The Keg Clash"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In one of the most famous Bar Wars pranks, what animal did the Cheers gang place inside Gary's Olde Towne Tavern?",
+    "options": [
+      "A circus bear",
+      "A swarm of pigeons",
+      "A live sheep (or farm animal)",
+      "A baby alligator"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How did Gary retaliate against Cheers after the bar gang stole his prized bowling trophy?",
+    "options": [
+      "He poured blue dye into the Cheers draft beer kegs",
+      "He had the building condemned by fake city inspectors",
+      "He sent a marching band to play in the bar at 3 AM",
+      "He had the entire Cheers interior completely stripped down to bare walls overnight"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In 'Bar Wars V', what morbid prank does Gary appear to play on Cheers regarding his own life?",
+    "options": [
+      "Faking his own death and funeral to trick Cheers into public humiliation",
+      "Faking a catastrophic fire at his own tavern",
+      "Pretending he had lost his bar in a high-stakes poker game",
+      "Staging a fake kidnapping by the Boston mob"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What prank did the Cheers gang pull on Gary by posing as construction workers outside his tavern?",
+    "options": [
+      "Digging a massive trench through his beer delivery chute",
+      "Bricking up the front entrance of Gary's Olde Towne Tavern",
+      "Paving over his private parking lot with grass sod",
+      "Painting his brick facade bright neon pink"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What sporting event do Cheers and Gary's Olde Towne Tavern compete in during the Season 4 episode 'From Beer to Eternity'?",
+    "options": [
+      "A softball championship",
+      "A tug-of-war at Boston Common",
+      "A bowling tournament",
+      "A championship dart tournament"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In 'From Beer to Eternity', who turns out to be Cheers' secret weapon bowler despite her hatred of bowling?",
+    "options": [
+      "Carla Tortelli",
+      "Norm Peterson",
+      "Cliff Clavin",
+      "Diane Chambers"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 10, how does John Allen Hill acquire legal ownership of the Cheers back room and pool room?",
+    "options": [
+      "He purchases the building property parcel that boundaries the back room",
+      "He wins the back room in a game of craps with Sam",
+      "He claims eminent domain through the Boston city council",
+      "He discovers an 18th-century land grant in his name"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What does Sam Malone do to John Allen Hill's expensive Mercedes sedan in retaliation for rent hikes?",
+    "options": [
+      "Fills the sunroof with clam chowder",
+      "Carves up the parking lines or blocks it with trash bins",
+      "Slashes all four tires with a bottle opener",
+      "Has it towed to an impound lot in Providence"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which actor portrayed the pompous restaurant proprietor John Allen Hill across multiple seasons?",
+    "options": [
+      "Max Wright",
+      "Richard Venture",
+      "Keene Curtis",
+      "George Gaynes"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In the final installment of Bar Wars in Season 11, what does Harry the Hat reveal about the entire prank conflict?",
+    "options": [
+      "Gary had sold his tavern to a chain corporation two years earlier",
+      "Gary was actually Sam's long-lost second cousin",
+      "The Boston police department had been Gary's co-conspirators",
+      "Harry orchestrated the war himself to con money out of both bars"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What did the Cheers gang send to Gary disguised as a birthday present, which detonated in a cloud of glitter and flour?",
+    "options": [
+      "A booby-trapped fake champagne crate",
+      "A spring-loaded cigar humidor",
+      "A hollowed-out vintage jukebox",
+      "A helium-inflated balloon bomb"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In 'Bar Wars II', what did Gary steal from Cheers that served as the bar's beloved symbol of Boston pride?",
+    "options": [
+      "The authentic brass bar rail",
+      "Sam's prized portrait or the bar's wooden Indian statue",
+      "The brass bell behind the counter",
+      "The neon beer sign in the front window"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of the snooty French chef at Melville's who frequently complained about Cheers' grease fumes?",
+    "options": [
+      "Chef Pierre",
+      "Chef Marcel",
+      "Chef Henri",
+      "Chef Jacques"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What type of food did Melville's specialize in that caused seafood aromas to seep down into the Cheers barroom?",
+    "options": [
+      "Spicy Creole seafood boils",
+      "Fried calamari and oily sardines",
+      "Steamed crabs and clam chowder exclusively",
+      "Lobster, oysters, and fresh New England fish"
+    ],
+    "answer": 3,
+    "d": 2
+  }
+]

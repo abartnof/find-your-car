@@ -354,7 +354,8 @@ const TOPIC_CLUSTERS = {
   'Frasier': 'TV Sitcoms & Comedies',
   'Will & Grace': 'TV Sitcoms & Comedies',
   '90s Sitcoms': 'TV Sitcoms & Comedies',
-  'Comedy Classics': 'TV Sitcoms & Comedies',
+  '80s TV Shows': 'TV Sitcoms & Comedies',
+  'The Golden Girls': 'TV Sitcoms & Comedies',
   'Streaming TV Shows': 'TV Sitcoms & Comedies',
   'Cheers': 'TV Sitcoms & Comedies',
   'Seinfeld': 'TV Sitcoms & Comedies',
@@ -384,6 +385,7 @@ const TOPIC_CLUSTERS = {
   'The Simpsons': 'Animation & Cartoons',
 
   // Stand-Up, Podcasts & Comedy Shows
+  'SNL': 'Stand-Up, Podcasts & Comedy Shows',
   "Don't Tell Comedy": 'Stand-Up, Podcasts & Comedy Shows',
   'Stand-Up Comedy': 'Stand-Up, Podcasts & Comedy Shows',
   'Late Night TV': 'Stand-Up, Podcasts & Comedy Shows',
@@ -410,9 +412,11 @@ const TOPIC_CLUSTERS = {
   'A. Zimmerman, Reporter-at-Large!': 'History, People & Places',
   'Anglophone Slang': 'History, People & Places',
   'Fruits & Veggies': 'History, People & Places',
+  'Ingredients': 'History, People & Places',
 
   // Music
   'Ben Folds': 'Music',
+  'Billboard Hits': 'Music',
 };
 
 const CLUSTER_ORDER = [
@@ -563,7 +567,7 @@ function renderMenu(keepScroll = false) {
         <div class="chips">${c.topics.map((g) => {
           const wins = topicWins.get(g.label);
           const badge = wins > 0 ? `<span class="badge" aria-label="${wins} wins">${wins}</span>` : '';
-          return `<button class="fchip ${S.groups.has(g.label) ? 'sel' : ''}" data-g="${ESC(g.label)}">${ESC(g.label)}${badge}</button>`;
+          return `<button class="fchip ${S.groups.has(g.label) ? 'sel' : ''}" data-g="${ESC(g.label)}">${ESC(g.label)} <span class="chip-count">(${g.count.toLocaleString()})</span>${badge}</button>`;
         }).join('')}</div>
       </div>`).join('')}
     ${music.tracks.length ? `<div class="label">MUSIC</div>
@@ -574,9 +578,16 @@ function renderMenu(keepScroll = false) {
 
   // Dynamically size sheet so exactly 1.5 topic rows peek out above the Start button on initial view
   const allChips = Array.from(sheet.querySelectorAll('.chips .fchip'));
-  const rowTops = [...new Set(allChips.map((c) => c.offsetTop))].sort((a, b) => a - b);
+  const rowTops = [];
+  for (const c of allChips) {
+    const top = c.offsetTop;
+    if (!rowTops.some((t) => Math.abs(t - top) < 4)) {
+      rowTops.push(top);
+    }
+  }
+  rowTops.sort((a, b) => a - b);
   if (rowTops.length >= 2) {
-    const row2Chip = allChips.find((c) => c.offsetTop === rowTops[1]);
+    const row2Chip = allChips.find((c) => Math.abs(c.offsetTop - rowTops[1]) < 4);
     const row2H = row2Chip ? row2Chip.offsetHeight : 32;
     const sticky = sheet.querySelector('.sticky');
     const stickyH = sticky ? sticky.offsetHeight : 76;

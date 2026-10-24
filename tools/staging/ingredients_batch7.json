@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Ingredients",
+    "q": "Which fruit is the mandatory citrus juice used to 'cook' raw fresh fish in authentic Peruvian Ceviche?",
+    "options": [
+      "Orange juice",
+      "Lime juice",
+      "Grapefruit juice",
+      "Pineapple juice"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which thin raw allium is sliced into fine julienne strips and tossed with fresh fish in Peruvian Ceviche?",
+    "options": [
+      "Yellow onion",
+      "Shallot",
+      "Red onion",
+      "Leek"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sweet root vegetable is boiled and served alongside fresh Peruvian ceviche to balance the acid and heat?",
+    "options": [
+      "Carrot",
+      "Cassava",
+      "Sweet potato (Camote)",
+      "Beet"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What cooking fat is traditionally used to slow-simmer pork until succulent and golden-crisp in Mexican Carnitas?",
+    "options": [
+      "Vegetable oil",
+      "Olive oil",
+      "Rendered pork lard (Manteca)",
+      "Butter"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fruit juice and sliced fruit is classically mounted atop a spit-roasted trompo for Mexican Tacos al Pastor?",
+    "options": [
+      "Mango",
+      "Papaya",
+      "Pineapple",
+      "Orange"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What brick-red seed paste from the annatto tree provides the vibrant red color and earthy spice for Tacos al Pastor and Cochinita Pibil?",
+    "options": [
+      "Paprika paste",
+      "Chili paste",
+      "Tomato paste",
+      "Achiote paste"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which large, mild green chili pepper is roasted, peeled, and stuffed to make Mexican Chiles Rellenos?",
+    "options": [
+      "Jalapeño chili",
+      "Poblano chili",
+      "Habanero chili",
+      "Serrano chili"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dough made of nixtamalized corn flour (masa) and lard is wrapped in corn husks and steamed to make Mexican Tamales?",
+    "options": [
+      "Masa",
+      "Polenta",
+      "Cornstarch dough",
+      "Semolina"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What protective wrapping is most commonly used to steam traditional Mexican street tamales?",
+    "options": [
+      "Parchment paper",
+      "Aluminum foil",
+      "Cabbage leaves",
+      "Dried corn husks"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which smoky dried and canned chili pepper in adobo sauce gives Mexican Tinga de Pollo its signature chipotle heat?",
+    "options": [
+      "Chipotle chilies in adobo",
+      "Ancho chilies",
+      "Guajillo chilies",
+      "Poblano chilies"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fiery chili pepper, rated up to 350,000 Scoville units, provides the signature heat in authentic Jamaican Jerk seasoning?",
+    "options": [
+      "Jalapeño pepper",
+      "Poblano pepper",
+      "Bell pepper",
+      "Scotch bonnet pepper"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fragrant whole berry spice, also known as pimento, is the indispensable backbone of Jamaican Jerk seasoning?",
+    "options": [
+      "Black peppercorns",
+      "Allspice berries",
+      "Juniper berries",
+      "Coriander seeds"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which national fruit of Jamaica, when boiled, resembles scrambled eggs and is cooked with salted codfish in Jamaica's national dish?",
+    "options": [
+      "Breadfruit",
+      "Ackee",
+      "Soursop",
+      "Plantain"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which preserved seafood meat is sautéed with boiled ackee fruit to create the national dish of Jamaica?",
+    "options": [
+      "Canned tuna",
+      "Smoked salmon",
+      "Dried shrimp",
+      "Salted codfish (Saltfish)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Cuban shredded flank steak dish, whose name translates poetically to 'old clothes', is simmered in a rich tomato-pepper sofrito?",
+    "options": [
+      "Ropa Vieja",
+      "Vaca Frita",
+      "Picadillo",
+      "Boliche"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which beef cut is braised until tender and shredded into ribbons to prepare classic Cuban Ropa Vieja?",
+    "options": [
+      "Beef tenderloin",
+      "Ribeye steak",
+      "Ground chuck",
+      "Flank steak"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which savory Cuban ground beef comfort dish is flavored with tomatoes, raisins, green olives, and capers?",
+    "options": [
+      "Picadillo",
+      "Ropa Vieja",
+      "Vaca Frita",
+      "Tasajo"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which green, unripe fruit is fried and mashed in a wooden pilón with garlic, broth, and crispy pork cracklings to make Puerto Rican Mofongo?",
+    "options": [
+      "Green bananas",
+      "Breadfruit",
+      "Green plantains",
+      "Cassava roots"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which crunchy fried pork skin cracklings are pounded directly into the plantains in Puerto Rican Mofongo?",
+    "options": [
+      "Bacon lardons",
+      "Prosciutto bits",
+      "Chicharrón",
+      "Pork rillettes"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which small, starchy legume is cooked with long-grain rice and sofrito to make Puerto Rican Arroz con Gandules?",
+    "options": [
+      "Pigeon peas (Gandules)",
+      "Black beans",
+      "Chickpeas",
+      "Lentils"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Dominican breakfast dish consists of mashed boiled green plantains topped with butter and pickled red onions?",
+    "options": [
+      "Mofongo",
+      "Tostones",
+      "Fufú",
+      "Mangú"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dense, double-fried crispy green plantain slices, smashed flat with a tostonera, are served with garlic mojo across the Caribbean?",
+    "options": [
+      "Maduros",
+      "Mangú",
+      "Mofongo",
+      "Tostones (Patacones)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sweet, ripe plantain slices are pan-fried until caramelized and deeply browned with golden-brown edges?",
+    "options": [
+      "Tostones",
+      "Mangú",
+      "Chifles",
+      "Maduros"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Brazilian baked cheese rolls made from tapioca starch and cheese have a crisp crust and chewy, elastic interior?",
+    "options": [
+      "Coxinha",
+      "Empada",
+      "Pão de Queijo",
+      "Pastel"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What root starch gives Brazilian Pão de Queijo cheese breads their unique elastic, chewy chewiness?",
+    "options": [
+      "Cornstarch",
+      "Tapioca starch (Manioc starch)",
+      "Potato starch",
+      "Wheat flour"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which teardrop-shaped Brazilian street food consists of seasoned shredded chicken encased in dough, battered and deep-fried?",
+    "options": [
+      "Pastel",
+      "Kibe",
+      "Acarajé",
+      "Coxinha"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which red oil, extracted from the fruit of the African oil palm, gives Bahian Brazilian cooking its bright orange color and earthy flavor?",
+    "options": [
+      "Achiote oil",
+      "Dendê oil (Red palm oil)",
+      "Sesame oil",
+      "Avocado oil"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which celebrated West African rice dish simmers long-grain rice in a reduced, concentrated stew of roasted red bell peppers, scotch bonnets, and tomatoes?",
+    "options": [
+      "Jollof Rice",
+      "Waakye",
+      "Thieboudienne",
+      "Fried rice"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spongy, sour sourdough fermented flatbread serves as the edible platter and utensil for Ethiopian cuisine?",
+    "options": [
+      "Injera",
+      "Naan",
+      "Roti",
+      "Lavash"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which tiny, ancient gluten-free grain is fermented with water over several days to create the batter for authentic Ethiopian Injera?",
+    "options": [
+      "Sorghum",
+      "Millet",
+      "Buckwheat",
+      "Teff grain"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What is the potent, acidic, citrus-and-chili marinade drained from Peruvian ceviche, celebrated as a restorative hangover cure, called?",
+    "options": [
+      "Chicha Morada",
+      "Leche de Tigre (Tiger's Milk)",
+      "Salsa Criolla",
+      "Aguachile"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Peruvian stir-fry dish created by Chinese immigrants (Chifa) combines beef tenderloin, red onions, and tomatoes sautéed with soy sauce and served with French fries and rice?",
+    "options": [
+      "Ají de Gallina",
+      "Seco de Res",
+      "Arroz Chaufa",
+      "Lomo Saltado"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which vibrant yellow Peruvian chili pepper paste provides the mild fruity heat and color for Lomo Saltado, Papa a la Huancaína, and Causa?",
+    "options": [
+      "Ají Panca",
+      "Ají Amarillo",
+      "Ají Limo",
+      "Rocoto"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which shredded chicken dish in Peru features a rich, creamy yellow sauce made with ají amarillo, evaporated milk, walnuts, and white bread soaked in milk?",
+    "options": [
+      "Lomo Saltado",
+      "Ají de Gallina",
+      "Causa Limeña",
+      "Seco de Pollo"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which chilled Peruvian terrine layers smooth mashed yellow potatoes seasoned with lime juice and ají amarillo with shredded chicken or tuna salad and avocado?",
+    "options": [
+      "Causa Rellena (Causa Limeña)",
+      "Papa Rellena",
+      "Papa a la Huancaína",
+      "Pastel de Papa"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which popular Peruvian street food appetizer consists of skewered, grilled beef hearts marinated in ají panca paste, vinegar, garlic, and cumin?",
+    "options": [
+      "Churrasco",
+      "Pinchos",
+      "Corazón asado",
+      "Anticuchos"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dark red, mildly spicy Peruvian chili pepper paste with a sweet, smoky, berry-like aroma is used to marinate beef heart Anticuchos?",
+    "options": [
+      "Ají Amarillo",
+      "Ají Panca",
+      "Ají Limo",
+      "Rocoto"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Peruvian cold potato appetizer smothers boiled yellow potato slices in a velvety cheese sauce made from ají amarillo, evaporated milk, queso fresco, and saltine crackers?",
+    "options": [
+      "Causa Limeña",
+      "Papa a la Huancaína",
+      "Papa Rellena",
+      "Ocopa"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Arequipa potato dish resembles Papa a la Huancaína but features a green sauce made with the aromatic herb huacatay, peanuts, and queso fresco?",
+    "options": [
+      "Papa a la Huancaína",
+      "Ocopa Arequipeña",
+      "Causa Limeña",
+      "Solterito"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Peruvian black mint herb (Tagetes minuta) imparts a unique herbal, citrusy, and minty flavor to Ocopa sauce and Pachamanca?",
+    "options": [
+      "Paico",
+      "Huacatay",
+      "Muña",
+      "Culantro"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Mexican dish from Puebla, created to celebrate Mexican independence, consists of poblano chilies stuffed with picadillo, walnut sauce (nogada), and pomegranate seeds?",
+    "options": [
+      "Chiles Rellenos",
+      "Manchamanteles",
+      "Chiles en Nogada",
+      "Mole Poblano"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which nut is soaked in milk, peeled, and blended with Mexican crema and goat cheese to make the velvety nogada sauce for Chiles en Nogada?",
+    "options": [
+      "Pecans",
+      "Almonds",
+      "Castilla walnuts",
+      "Pine nuts"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which ruby-red fruit seeds are sprinkled over Mexican Chiles en Nogada along with fresh green parsley to represent the Mexican tricolor flag?",
+    "options": [
+      "Pomegranate seeds (Arils)",
+      "Cranberries",
+      "Red currants",
+      "Raspberries"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Jalisco stewed meat dish, cooked with dried guajillo and ancho chilies, cinnamon, and cumin, is served with its flavorful spiced braising broth (consomé)?",
+    "options": [
+      "Barbacoa",
+      "Carnitas",
+      "Birria",
+      "Pozole"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which animal meat is the traditional historic protein used for authentic Mexican Birria in Jalisco before beef became common?",
+    "options": [
+      "Duck",
+      "Goat meat (Chivo)",
+      "Pork belly",
+      "Turkey"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Mexican dish of fried corn tortilla quarters simmered in green or red salsa until softened is topped with crema, queso fresco, sliced onion, and eggs?",
+    "options": [
+      "Enchiladas",
+      "Totopos",
+      "Chilaquiles",
+      "Flautas"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Mexican culinary technique involves soaking and cooking dried field corn in an alkaline solution of water and food-grade slaked lime (calcium hydroxide)?",
+    "options": [
+      "Parboiling",
+      "Fermentation",
+      "Malting",
+      "Nixtamalization"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional alkaline compound (calcium hydroxide) is dissolved in water to nixtamalize field corn for tortillas?",
+    "options": [
+      "Slaked lime (Cal)",
+      "Baking soda",
+      "Potassium carbonate",
+      "Wood ash only"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Yucatecan slow-roasted pork dish is marinated in bitter Seville orange juice and achiote paste, wrapped in banana leaves, and cooked in an underground pit oven?",
+    "options": [
+      "Cochinita Pibil",
+      "Poc Chuc",
+      "Carnitas",
+      "Tinga de cerdo"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which citrus juice provides the crucial acidic marinade for Yucatecan Cochinita Pibil?",
+    "options": [
+      "Sweet Valencia orange",
+      "Key lime juice",
+      "Bitter Seville orange (Naranja agria)",
+      "Grapefruit juice"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which broad tropical leaves are wrapped around Cochinita Pibil and Oaxacan tamales before steaming or pit roasting?",
+    "options": [
+      "Banana leaves",
+      "Ti leaves",
+      "Corn husks",
+      "Avocado leaves"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Mexican herb with serrated leaves, used to season black beans and quesadillas, has an unmistakable pungent aroma reminiscent of petroleum and citrus?",
+    "options": [
+      "Cilantro",
+      "Epazote",
+      "Culantro",
+      "Papalo"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fresh, broad-leafed Mexican herb, commonly eaten raw in tacos in Puebla, is known for its intense floral, rue-like aromatic profile?",
+    "options": [
+      "Epazote",
+      "Hoja santa",
+      "Pipicha",
+      "Pápalo (Pápaloquelite)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Bahian seafood stew from northeastern Brazil simmers white fish and shrimp in a broth of coconut milk, dendê red palm oil, tomatoes, onions, and cilantro?",
+    "options": [
+      "Moqueca Capixaba",
+      "Bobó de Camarão",
+      "Vatapá",
+      "Moqueca Baiana"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "How does Moqueca Capixaba from the state of Espírito Santo differ fundamentally from Bahian Moqueca?",
+    "options": [
+      "It uses beef instead of seafood",
+      "It uses heavy cow cream and potatoes",
+      "It uses olive oil and urucum (annatto) without coconut milk or dendê oil",
+      "It is cooked dry without broth"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Bahian dish features black-eyed pea dough peeled, whipped, and deep-fried in bubbling red dendê palm oil, then split open and filled with vatapá and dried shrimp?",
+    "options": [
+      "Abará",
+      "Coxinha",
+      "Acarajé",
+      "Pastel de feijão"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which steamed version of Acarajé wraps the seasoned black-eyed pea paste in banana leaves and steams it rather than frying in dendê oil?",
+    "options": [
+      "Acarajé",
+      "Pamonha",
+      "Abará",
+      "Maniçoba"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which rich Bahian paste made by blending breadcrumbs, dried shrimp, ground cashews, peanuts, coconut milk, and dendê oil is spooned into acarajé?",
+    "options": [
+      "Vatapá",
+      "Caruru",
+      "Bobó",
+      "Farofa"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Bahian dish simmers sliced okra with dried shrimp, ground peanuts, cashews, palm oil, and dende oil?",
+    "options": [
+      "Vatapá",
+      "Caruru",
+      "Moqueca",
+      "Bobó de camarão"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which creamy Brazilian chowder features large shrimp cooked in a velvety puree of manioc (cassava), coconut milk, and dendê palm oil?",
+    "options": [
+      "Bobó de Camarão",
+      "Moqueca Baiana",
+      "Vatapá",
+      "Tacacá"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which street food from Trinidad and Tobago consists of two small turmeric-spiced fried flatbreads (bara) filled with curried chickpeas (channa) and mango kuchela?",
+    "options": [
+      "Doubles",
+      "Roti canai",
+      "Bake and Shark",
+      "Pholourie"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Trinidadian seaside beach snack consists of deep-fried shark meat seasoned with green seasoning stuffed into a fried yeast bread bake with condiments?",
+    "options": [
+      "Bake and Shark",
+      "Doubles",
+      "Pelau",
+      "Callaloo"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which one-pot Trinidadian rice dish caramelizes chicken in burnt brown sugar before simmering with pigeon peas, rice, pumpkin, and coconut milk?",
+    "options": [
+      "Jollof rice",
+      "Pelau",
+      "Cook-up rice",
+      "Arroz con pollo"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Caribbean green soup or stew, considered the national dish of Dominica and Trinidad, is made by simmering dasheen (taro) bush leaves with okra and coconut milk?",
+    "options": [
+      "Pepperpot",
+      "Callaloo",
+      "Oil Down",
+      "Souse"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which national dish of Grenada is a one-pot stew of salted meat, breadfruit, callaloo leaves, and dumplings simmered down in coconut milk until oil remains?",
+    "options": [
+      "Oil Down",
+      "Callaloo",
+      "Pepperpot",
+      "Cou-cou"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Guyanese Amerindian holiday meat stew is slow-cooked in a dark sauce derived from boiled bitter cassava juice called cassareep?",
+    "options": [
+      "Oil Down",
+      "Cook-up Rice",
+      "Metemgee",
+      "Guyanese Pepperpot"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What thick, black, molasses-like syrup made by boiling down the juice of bitter cassava roots is the preservative base for Guyanese Pepperpot?",
+    "options": [
+      "Molasses",
+      "Cassareep",
+      "Tamarind syrup",
+      "Pekmez"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which national dish of Barbados pairs flying fish poached in aromatic broth with a porridge of yellow cornmeal and chopped okra called:",
+    "options": [
+      "Fungi and Fish",
+      "Polenta and Saltfish",
+      "Callaloo and Bakes",
+      "Cou-cou and Flying Fish"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which complex Ethiopian spice blend featuring chili peppers, ginger, garlic, korarima, rue, and fenugreek is the foundation of red wot stews?",
+    "options": [
+      "Mitmita",
+      "Berbere",
+      "Ras el hanout",
+      "Dukkah"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fiery Ethiopian spice powder made primarily of African bird's eye chilies, cardamom, cloves, and salt is served as a dipping condiment for raw beef (kitfo)?",
+    "options": [
+      "Berbere",
+      "Mitmita",
+      "Makalesha",
+      "Awaze"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spiced clarified butter infused with ginger, garlic, fenugreek, korarima, and nigella seeds is the essential fat in Ethiopian cooking?",
+    "options": [
+      "Ghee",
+      "Samneh",
+      "Niter Kibbeh",
+      "Smen"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which celebratory Ethiopian national dish features chicken pieces and whole hard-boiled eggs simmered in a dense, caramelized onion and berbere sauce?",
+    "options": [
+      "Sega Wat",
+      "Tibs",
+      "Shiro Wat",
+      "Doro Wat"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Ethiopian dish consists of raw minced lean beef seasoned with warm niter kibbeh and fiery mitmita spice powder, served with ayib cheese?",
+    "options": [
+      "Kitfo",
+      "Gored Gored",
+      "Doro Wat",
+      "Tibs"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Ethiopian vegetarian stew is made of slow-simmered powdered dried chickpeas or broad beans cooked with minced onions, garlic, and berbere?",
+    "options": [
+      "Misir Wat",
+      "Kik Alicha",
+      "Shiro Wat",
+      "Gomen Wat"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which mild Ethiopian vegetarian stew features split red lentils simmered gently with berbere, garlic, and ginger until tender and creamy?",
+    "options": [
+      "Shiro Wat",
+      "Kik Alicha",
+      "Atakilt Wat",
+      "Misir Wat"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which West African soup is thickened with the protein-rich ground white seeds of wild melon or gourd plants, cooked with leafy greens and palm oil?",
+    "options": [
+      "Ogbono Soup",
+      "Egusi Soup",
+      "Banga Soup",
+      "Afang Soup"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Nigerian soup gets its unique mucilaginous, drawing (slippery) texture from ground wild mango seeds (bush mango seeds)?",
+    "options": [
+      "Ogbono Soup",
+      "Egusi Soup",
+      "Efo Riro",
+      "Banga Soup"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which rich Delta Nigerian soup is made from the fresh oily extract of oil palm nuts, simmered with dried seafood, smoked catfish, and aromatic oburunbebe stick?",
+    "options": [
+      "Banga Soup (Ofe Akwu)",
+      "Ogbono Soup",
+      "Egusi Soup",
+      "Bitterleaf Soup"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Nigerian rich vegetable stew from Yorubaland features shredded shoko or tete greens, palm oil, locust beans (iru), bell pepper puree, and assorted meats?",
+    "options": [
+      "Efo Riro",
+      "Afang Soup",
+      "Edikang Ikong",
+      "Okra Soup"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fermented African locust bean condiment (Parkia biglobosa), known as Iru or Dawadawa, provides a deep pungent umami funk to West African soups?",
+    "options": [
+      "Ogiri",
+      "Crayfish powder",
+      "Iru (Dawadawa)",
+      "Potash"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional fermented condiment used in Igbo soups like Ofe Onugbu is made by fermenting melon seeds or castor oil seeds?",
+    "options": [
+      "Iru",
+      "Dawadawa",
+      "Ogiri",
+      "Uda"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Nigerian grilled beef skewer street food is dusted generously in Yaji spice blend containing ground defatted roasted peanuts, ginger, garlic, and chili?",
+    "options": [
+      "Kilishi",
+      "Asun",
+      "Suya",
+      "Tsire"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which paper-thin, sun-dried jerky-like meat snack from Northern Nigeria is dipped in peanut paste, seasoned with spices, and dried on rush mats?",
+    "options": [
+      "Suya",
+      "Biltong",
+      "Droëwors",
+      "Kilishi"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which South African cured, air-dried meat delicacy is marinated in vinegar, toasted coriander seeds, black pepper, and coarse salt before hanging?",
+    "options": [
+      "Biltong",
+      "Droëwors",
+      "Kilishi",
+      "Pastirma"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional South African dried sausage is made from spiced minced beef and mutton seasoned with toasted coriander seeds?",
+    "options": [
+      "Boerewors",
+      "Droëwors",
+      "Biltong",
+      "Braaiwors"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spiral-coiled South African fresh sausage made of coarsely minced beef and pork is spiced with toasted coriander seeds, nutmeg, cloves, and vinegar for the braai?",
+    "options": [
+      "Droëwors",
+      "Bratwurst",
+      "Kielbasa",
+      "Boerewors"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which baked South African Cape Malay comfort dish consists of spiced minced meat topped with an egg-and-milk savory custard and bay leaves?",
+    "options": [
+      "Potjiekos",
+      "Sosaties",
+      "Bobotie",
+      "Bunny Chow"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Durban street food dish consists of a hollowed-out loaf of white sandwich bread filled to the brim with rich, spicy mutton or chicken curry?",
+    "options": [
+      "Gatsby",
+      "Bobotie",
+      "Bunny Chow",
+      "Vetkoek"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Cape Town giant submarine sandwich is layered with sliced meats, polony or steak, lettuce, piri-piri sauce, and a massive portion of hot French fries (slap chips)?",
+    "options": [
+      "Bunny Chow",
+      "Gatsby sandwich",
+      "Kota",
+      "Vetkoek"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which South African deep-fried yeast dough bread pocket, meaning 'fat cake', is typically stuffed with savory curried ground beef mince?",
+    "options": [
+      "Koeksister",
+      "Gatsby",
+      "Vetkoek",
+      "Potbrood"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Cape Malay deep-fried braided pastry is soaked in ice-cold ginger-and-cinnamon sugar syrup immediately after frying to achieve a syrupy, crisp shell?",
+    "options": [
+      "Koeksister",
+      "Vetkoek",
+      "Malva pudding",
+      "Melktert"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic South African baked dessert tart consists of a sweet pastry crust filled with a creamy cooked milk, egg, and flour custard, dusted generously with cinnamon?",
+    "options": [
+      "Melktert (Milk Tart)",
+      "Malva pudding",
+      "Koeksister",
+      "Hertzoggie"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spongy, caramelized South African baked pudding contains apricot jam and a touch of vinegar, drenched in a warm sweet cream sauce while hot?",
+    "options": [
+      "Melktert",
+      "Sticky toffee pudding",
+      "Malva Pudding",
+      "Queen of Puddings"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which national dish of Senegal, widely regarded as the ancestor of Jollof rice, features fresh fish stuffed with herb paste, cooked with broken rice and vegetables in tomato broth?",
+    "options": [
+      "Yassa Poulet",
+      "Maafe",
+      "Soupou Kandja",
+      "Thieboudienne (Ceebu Jën)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Senegalese chicken dish is marinated in a massive quantity of caramelized onions, Dijon mustard, garlic, and fresh lemon juice before braising?",
+    "options": [
+      "Yassa Poulet",
+      "Thieboudienne",
+      "Maafe",
+      "Dibi"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which West and Central African stew features meat simmered in a rich, creamy sauce made from roasted ground peanut (groundnut) paste and tomato paste?",
+    "options": [
+      "Yassa",
+      "Thieboudienne",
+      "Ndole",
+      "Maafe (Groundnut Stew)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which national dish of Cameroon consists of stewed bitterleaf greens simmered with ground blanched peanuts, crayfish, beef, and shrimp?",
+    "options": [
+      "Maafe",
+      "Koki",
+      "Ndolé",
+      "Saka Saka"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Central African stew is prepared by pounding and cooking tender cassava leaves with palm oil, garlic, and smoked fish or peanut butter?",
+    "options": [
+      "Ndolé",
+      "Saka Saka (Pondu)",
+      "Matoke",
+      "Maboké"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which national dish of Uganda consists of green cooking bananas steamed in banana leaves and mashed into a smooth, golden mound?",
+    "options": [
+      "Ugali",
+      "Saka Saka",
+      "Sukuma Wiki",
+      "Matoke"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which East African staple vegetable dish, whose Swahili name translates to 'stretch the week', consists of braised collard greens sautéed with onions and tomatoes?",
+    "options": [
+      "Ugali",
+      "Matoke",
+      "Kachumbari",
+      "Sukuma Wiki"
+    ],
+    "answer": 3,
+    "d": 3
+  }
+]

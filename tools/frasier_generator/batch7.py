@@ -1,0 +1,623 @@
+# Batch 7: Metatextual: Emmy Awards, Records, Production, Writers, & Soundstage Lore (100 questions)
+
+RAW_QUESTIONS = [
+    # 1-10
+    {
+        "q": "How many total Primetime Emmy Awards did 'Frasier' win across its 11-season run, setting a long-standing record for scripted series?",
+        "correct": "37 Emmy Awards",
+        "wrong": ["24 Emmy Awards", "42 Emmy Awards", "30 Emmy Awards"],
+        "d": 1
+    },
+    {
+        "q": "What record did 'Frasier' set for the Primetime Emmy Award for Outstanding Comedy Series between 1994 and 1998?",
+        "correct": "Winning 5 consecutive Outstanding Comedy Series Emmys",
+        "wrong": ["Winning 7 consecutive Outstanding Comedy Series Emmys", "Winning the award with every single episode nominated", "Being the only comedy series ever nominated in its first year"],
+        "d": 1
+    },
+    {
+        "q": "Which later comedy series tied 'Frasier's historic record of five consecutive Outstanding Comedy Series Emmy wins?",
+        "correct": "Modern Family",
+        "wrong": ["30 Rock", "The Big Bang Theory", "Veep"],
+        "d": 1
+    },
+    {
+        "q": "Which drama series eventually broke 'Frasier's overall record of 37 Emmys to become the most-awarded scripted television series in history?",
+        "correct": "Game of Thrones (with 59 Emmys)",
+        "wrong": ["The Sopranos", "Breaking Bad", "The West Wing"],
+        "d": 1
+    },
+    {
+        "q": "Which soundstage at Paramount Studios in Hollywood served as the filming location for 'Frasier' for all 11 seasons?",
+        "correct": "Stage 25",
+        "wrong": ["Stage 12", "Stage 18", "Stage 31"],
+        "d": 2
+    },
+    {
+        "q": "What legendary comedy had previously filmed on Paramount Stage 25 for 11 years immediately before 'Frasier' moved in?",
+        "correct": "Cheers",
+        "wrong": ["Taxi", "The Mary Tyler Moore Show", "M*A*S*H"],
+        "d": 1
+    },
+    {
+        "q": "On which evening of the week did 'Frasier' film its weekly episodes before a live studio audience?",
+        "correct": "Tuesday evenings",
+        "wrong": ["Friday evenings", "Sunday afternoons", "Thursday evenings"],
+        "d": 2
+    },
+    {
+        "q": "Approximately how much did the production spend to design and furnish Frasier Crane's luxury high-rise apartment set in 1993?",
+        "correct": "Around $500,000",
+        "wrong": ["Around $50,000", "Over $2 million", "Around $150,000"],
+        "d": 2
+    },
+    {
+        "q": "What famous designer chair displayed in Frasier's living room was originally designed by Marcel Breuer in 1925?",
+        "correct": "The Wassily Chair",
+        "wrong": ["The Barcelona Chair", "The Eames Lounge Chair", "The LC2 Armchair"],
+        "d": 2
+    },
+    {
+        "q": "What real-life Seattle coffeehouse in Pioneer Square served as the primary visual inspiration for Cafe Nervosa's warm brick and wood decor?",
+        "correct": "Torrefazione Italia",
+        "wrong": ["Starbucks on Pike Place", "Seattle's Best Coffee", "Tully's Coffee"],
+        "d": 2
+    },
+
+    # 11-20
+    {
+        "q": "In which four years did Kelsey Grammer win the Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series for 'Frasier'?",
+        "correct": "1994, 1995, 1998, and 2004",
+        "wrong": ["1993, 1995, 1997, and 2001", "1994, 1996, 1999, and 2003", "1995, 1997, 2000, and 2004"],
+        "d": 2
+    },
+    {
+        "q": "In which four years did David Hyde Pierce win the Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series?",
+        "correct": "1995, 1998, 1999, and 2004",
+        "wrong": ["1994, 1996, 1998, and 2002", "1995, 1997, 2000, and 2003", "1996, 1998, 2001, and 2004"],
+        "d": 2
+    },
+    {
+        "q": "How many Primetime Emmy nominations did John Mahoney receive for his beloved portrayal of Martin Crane?",
+        "correct": "Two nominations (in 1999 and 2003)",
+        "wrong": ["Zero nominations", "Five nominations", "Eight nominations"],
+        "d": 2
+    },
+    {
+        "q": "In which year did Jane Leeves receive a Primetime Emmy nomination for Outstanding Supporting Actress in a Comedy Series as Daphne Moon?",
+        "correct": "1998",
+        "wrong": ["1994", "1996", "2002"],
+        "d": 3
+    },
+    {
+        "q": "Which core member of the main cast of 'Frasier' was famously never nominated for an Emmy Award, despite playing an indispensable fan-favorite role?",
+        "correct": "Peri Gilpin (Roz Doyle)",
+        "wrong": ["David Hyde Pierce (Niles Crane)", "John Mahoney (Martin Crane)", "Jane Leeves (Daphne Moon)"],
+        "d": 1
+    },
+    {
+        "q": "Which guest actress won back-to-back Primetime Emmy Awards in 2000 and 2001 for her recurring role as Lana Gardner / Lorna Lynley?",
+        "correct": "Jean Smart",
+        "wrong": ["Christine Baranski", "Piper Laurie", "Marsha Mason"],
+        "d": 1
+    },
+    {
+        "q": "Which distinguished British actor won a Primetime Emmy Award for Outstanding Guest Actor in 2001 for playing Jackson Hedley in 'The Show Must Go Off'?",
+        "correct": "Derek Jacobi",
+        "wrong": ["Patrick Stewart", "Brian Cox", "Victor Garber"],
+        "d": 1
+    },
+    {
+        "q": "Which actor won the Primetime Emmy Award for Outstanding Guest Actor in 2002 for playing Daphne's obnoxious brother Simon Moon in 'Mother Load'?",
+        "correct": "Anthony LaPaglia",
+        "wrong": ["Brian Cox", "Richard E. Grant", "Michael Keaton"],
+        "d": 1
+    },
+    {
+        "q": "Which actress won a Primetime Emmy Award for Outstanding Guest Actress in 2004 for her portrayal of Charlotte Connor in Season 11?",
+        "correct": "Laura Linney",
+        "wrong": ["Felicity Huffman", "Wendie Malick", "Patricia Clarkson"],
+        "d": 1
+    },
+    {
+        "q": "Which legendary director won three Primetime Emmy Awards for Outstanding Directing for a Comedy Series specifically for directing 'Frasier'?",
+        "correct": "James Burrows (1994), David Lee (1995, 1997)",
+        "wrong": ["Pamela Fryman", "Kelsey Grammer", "Sheldon Epps"],
+        "d": 3
+    },
+
+    # 21-30
+    {
+        "q": "What prestigious television award did 'Frasier' win in 1994, 1995, and 1996 from the Television Critics Association for Program of the Year or Outstanding Comedy?",
+        "correct": "The TCA Award for Outstanding Achievement in Comedy",
+        "wrong": ["The Peabody Award", "The Golden Laurel", "The Critics' Choice Television Award"],
+        "d": 2
+    },
+    {
+        "q": "How many Golden Globe Awards did 'Frasier' win during its run, including Best Television Series – Musical or Comedy?",
+        "correct": "3 Golden Globes (Series in 1995; Kelsey Grammer in 1996 and 2001)",
+        "wrong": ["Zero Golden Globes", "10 Golden Globes", "15 Golden Globes"],
+        "d": 2
+    },
+    {
+        "q": "How many Screen Actors Guild (SAG) Awards did the ensemble cast of 'Frasier' win for Outstanding Performance by an Ensemble in a Comedy Series?",
+        "correct": "One SAG Ensemble Award (in 2000)",
+        "wrong": ["Five SAG Awards", "Zero SAG Awards", "Eight SAG Awards"],
+        "d": 3
+    },
+    {
+        "q": "Which showrunners returned to run 'Frasier' in its final season (Season 11) to guide the show back to its golden-era comedic heights?",
+        "correct": "Christopher Lloyd and Joe Keenan",
+        "wrong": ["David Angell and Peter Casey", "Dan O'Shannon and Mark Reisman", "Anne Flett-Giordano and Chuck Ranberg"],
+        "d": 2
+    },
+    {
+        "q": "Who served as executive producers and showrunners during Seasons 8 through 10?",
+        "correct": "Dan O'Shannon and Mark Reisman",
+        "wrong": ["Christopher Lloyd and Joe Keenan", "James Burrows and David Lee", "David Angell and Peter Casey"],
+        "d": 3
+    },
+    {
+        "q": "In which season did 'Frasier' celebrate its 100th episode milestone?",
+        "correct": "Season 5 (with 'The 1000th Show' honoring his radio milestones)",
+        "wrong": ["Season 4", "Season 6", "Season 7"],
+        "d": 2
+    },
+    {
+        "q": "In which season did 'Frasier' celebrate its 200th episode milestone?",
+        "correct": "Season 9 (with 'The Two Hundredth')",
+        "wrong": ["Season 8", "Season 10", "Season 11"],
+        "d": 2
+    },
+    {
+        "q": "How many times was 'Frasier' nominated for the Primetime Emmy Award for Outstanding Comedy Series in total?",
+        "correct": "8 times (every year from 1994 to 2001)",
+        "wrong": ["All 11 years", "5 times", "10 times"],
+        "d": 2
+    },
+    {
+        "q": "What network aired the original broadcast of 'Frasier' in the United States from 1993 to 2004?",
+        "correct": "NBC",
+        "wrong": ["CBS", "ABC", "FOX"],
+        "d": 1
+    },
+    {
+        "q": "What British television network held the original UK broadcasting rights for 'Frasier', airing it on Friday nights to massive ratings?",
+        "correct": "Channel 4",
+        "wrong": ["BBC One", "ITV", "BBC Two"],
+        "d": 2
+    },
+
+    # 31-40
+    {
+        "q": "In what year did 'Frasier' enter national off-network syndication, becoming a lucrative powerhouse for Paramount?",
+        "correct": "1997",
+        "wrong": ["1995", "1999", "2001"],
+        "d": 2
+    },
+    {
+        "q": "What camera technique was used to shoot 'Frasier', typical of classic American multi-camera sitcoms?",
+        "correct": "Four film cameras shooting simultaneously on 35mm film before a live studio audience",
+        "wrong": ["Single-camera digital video without an audience", "Two videotape cameras on rolling dollies", "Three 16mm cameras with canned laugh tracks"],
+        "d": 2
+    },
+    {
+        "q": "Who provided the warm, booming voice of the live-audience warm-up comedian and announcer on 'Frasier' tape nights?",
+        "correct": "A dedicated studio warm-up comedian who primed the 200 audience members",
+        "wrong": ["Kelsey Grammer himself before putting on his costume", "David Hyde Pierce in character as Niles", "John Mahoney telling police jokes"],
+        "d": 2
+    },
+    {
+        "q": "What was the name of the sound engineer who won multiple Primetime Emmy Awards for Sound Mixing on 'Frasier'?",
+        "correct": "Dana Mark McClure and Thomas J. Huth",
+        "wrong": ["Gary Bourgeois", "Robert L. Harman", "Michael Minkler"],
+        "d": 3
+    },
+    {
+        "q": "Which art director and production designer designed the iconic Elliot Bay Towers apartment set for 'Frasier'?",
+        "correct": "Roy Christopher",
+        "wrong": ["John Shaffner", "Bernard Vyzis", "Charles Lisanby"],
+        "d": 3
+    },
+    {
+        "q": "What iconic African sculpture stood prominent on a pedestal near the balcony door in Frasier's living room?",
+        "correct": "An African fertility statue / fertility figure",
+        "wrong": ["A Benin bronze warrior mask", "A carved Yoruba ceremonial throne", "A Kenyan soapstone elephant"],
+        "d": 1
+    },
+    {
+        "q": "What make and style of piano was placed near the window in Frasier's apartment, which both brothers played?",
+        "correct": "A Steinway & Sons concert grand piano in black ebony finish",
+        "wrong": ["A Yamaha baby grand piano in polished white", "A Baldwin upright parlour piano", "A Bosendorfer imperial concert grand"],
+        "d": 1
+    },
+    {
+        "q": "What was the fictional view from Frasier's 19th-floor balcony that is actually impossible in real-world Seattle geography?",
+        "correct": "The Space Needle perfectly framed in front of downtown skyscrapers (they are actually in opposite directions)",
+        "wrong": ["Mount Rainier visible behind the Seattle Great Wheel", "The Kingdome floating on Lake Washington", "Puget Sound bordering the east side of the city"],
+        "d": 2
+    },
+    {
+        "q": "What kind of photograph or backdrop was used outside the living room set windows to depict the Seattle skyline?",
+        "correct": "A massive, curved photographic translight backing with fiber-optic twinkling city lights",
+        "wrong": ["A green-screen digital projection refreshed each episode", "A hand-painted matte painting on canvas", "Live closed-circuit footage piped in from Seattle"],
+        "d": 2
+    },
+    {
+        "q": "How many Emmy nominations did 'Frasier' receive in total across its 11-year run?",
+        "correct": "108 Primetime Emmy nominations",
+        "wrong": ["54 nominations", "75 nominations", "150 nominations"],
+        "d": 2
+    },
+
+    # 41-50
+    {
+        "q": "What was the average weekly viewership for 'Frasier' during its peak Nielsen ratings seasons (Seasons 5 and 6)?",
+        "correct": "Over 20 million viewers per week",
+        "wrong": ["Around 8 million viewers", "Over 45 million viewers", "Around 12 million viewers"],
+        "d": 2
+    },
+    {
+        "q": "Which episode of 'Frasier' won the Primetime Emmy Award for Outstanding Writing for a Comedy Series in 1994 (Season 1)?",
+        "correct": "The Good Son (written by David Angell, Peter Casey, and David Lee)",
+        "wrong": ["My Coffee with Niles", "Dinner at Eight", "Author, Author"],
+        "d": 2
+    },
+    {
+        "q": "Which episode of 'Frasier' won the Primetime Emmy Award for Outstanding Writing for a Comedy Series in 1995 (Season 2)?",
+        "correct": "An Affair to Forget (written by Chuck Ranberg and Anne Flett-Giordano)",
+        "wrong": ["The Matchmaker", "The Innkeepers", "Flour Child"],
+        "d": 2
+    },
+    {
+        "q": "Which episode of 'Frasier' won the Primetime Emmy Award for Outstanding Writing for a Comedy Series in 1998 (Season 5)?",
+        "correct": "The Ski Lodge (nominated; Restaurant Beat won writing, or 'The Ski Lodge' was the celebrated submission)",
+        "wrong": ["Voyage of the Damned", "Room Service", "Halloween"],
+        "d": 3
+    },
+    {
+        "q": "Which episode won the Emmy for Outstanding Writing for a Comedy Series in 1999 (Season 6)?",
+        "correct": "Merry Christmas, Mrs. Moskowitz (written by Jay Kogen)",
+        "wrong": ["Three Valentines", "Dial M for Martin", "The Seal Who Came to Dinner"],
+        "d": 2
+    },
+    {
+        "q": "Which casting director won Primetime Emmy Awards for assembling the unforgettable cast of 'Frasier'?",
+        "correct": "Sheila Guthrie and Jeff Greenberg",
+        "wrong": ["Allison Jones", "Lynn Kressel", "Meg Liberman"],
+        "d": 3
+    },
+    {
+        "q": "Which costume designer was responsible for Frasier Crane's bespoke suits and Niles's impeccably tailored double-breasted wardrobe?",
+        "correct": "Melina Root",
+        "wrong": ["Patricia Field", "Janie Bryant", "Edith Head"],
+        "d": 3
+    },
+    {
+        "q": "What brand of bespoke menswear did David Hyde Pierce frequently wear on the show to convey Niles's old-money pretensions?",
+        "correct": "Hugo Boss and bespoke Armani double-breasted suits",
+        "wrong": ["Brooks Brothers sack suits", "Ralph Lauren denim collections", "Calvin Klein sportswear"],
+        "d": 3
+    },
+    {
+        "q": "What famous prop from 'Frasier' was placed into the permanent entertainment collection of the Smithsonian National Museum of American History?",
+        "correct": "Martin Crane's duct-taped green-and-brown plaid recliner",
+        "wrong": ["Frasier's radio microphone", "The African fertility statue", "Niles's silver pocket watch"],
+        "d": 1
+    },
+    {
+        "q": "What television rating did 'Frasier' typically carry on NBC during the late 1990s and early 2000s?",
+        "correct": "TV-PG (for mild comedic innuendo and sexual humor)",
+        "wrong": ["TV-G", "TV-14 (for intense language)", "TV-MA"],
+        "d": 1
+    },
+
+    # 51-60
+    {
+        "q": "How did the writers of 'Frasier' handle physical comedy, separating their show from other high-concept 1990s sitcoms?",
+        "correct": "They combined high-brow, literate verbal wit with classical French bedroom farce and silent Chaplin-esque physical slapstick",
+        "wrong": ["They relied heavily on cartoon sound effects and speed ramps", "They used improvisational stand-up routines during takes", "They avoided all physical comedy to maintain dramatic realism"],
+        "d": 1
+    },
+    {
+        "q": "What classic 17th-century French playwright's farces were frequently cited by writer Joe Keenan as a major structural influence on 'Frasier'?",
+        "correct": "Molière",
+        "wrong": ["Jean Racine", "Pierre Corneille", "Voltaire"],
+        "d": 2
+    },
+    {
+        "q": "What 19th-century French farceur famous for 'A Flea in Her Ear' was another central influence on the show's intricate door-slamming mechanics?",
+        "correct": "Georges Feydeau",
+        "wrong": ["Victor Hugo", "Alexandre Dumas", "Émile Zola"],
+        "d": 2
+    },
+    {
+        "q": "What was unique about the writing credits in 'Frasier' compared to many other sitcom writing rooms of the era?",
+        "correct": "Scripts were strictly authored by designated writing partnerships before being polished around the writers' table",
+        "wrong": ["Every script was written by an open contest among college students", "Kelsey Grammer had sole veto power over every word in the script", "No outlines were used; episodes were written from start to finish in one day"],
+        "d": 2
+    },
+    {
+        "q": "How long did it typically take to film a single episode of 'Frasier' on Tuesday shoot nights before the live audience?",
+        "correct": "Approximately 3 to 4 hours",
+        "wrong": ["Over 12 hours", "Only 45 minutes", "Two full days"],
+        "d": 2
+    },
+    {
+        "q": "What was the ritual during curtain calls at the conclusion of a 'Frasier' taping on Stage 25?",
+        "correct": "The cast was individually introduced, with Eddie the dog brought out to thunderous applause",
+        "wrong": ["The audience was invited onto the set to drink sherry", "Kelsey Grammer sang three Broadway show tunes", "The cast signed autographs for every audience member in the foyer"],
+        "d": 2
+    },
+    {
+        "q": "In Season 1, how did the producers respond when test audiences initially found Frasier Crane slightly too pompous and abrasive?",
+        "correct": "They emphasized Martin and Niles puncturing his ego, and highlighted Frasier's deep capacity for self-deflation and vulnerability",
+        "wrong": ["They gave him a girlfriend who made him act like a blue-collar mechanic", "They toned down his vocabulary and made him use modern street slang", "They reduced his screen time and focused on Bulldog Briscoe"],
+        "d": 2
+    },
+    {
+        "q": "What did the creators insist upon regarding the radio call-in scenes to keep them engaging on a visual medium?",
+        "correct": "Keeping them punchy, under two minutes, and focused on Frasier's expressive facial reactions and booth banter with Roz",
+        "wrong": ["Showing live split-screen video feeds of the callers in their homes", "Having Frasier stand up and pace across the studio while on air", "Using animation overlay graphics on the callers' voices"],
+        "d": 2
+    },
+    {
+        "q": "What was the name of the sound effects specialist who performed live Foley work during the broadcast recording of 'Ham Radio'?",
+        "correct": "The character of the Foley artist in 'Ham Radio' was Wing, but in real life sound effects were handled by studio Foley editors",
+        "wrong": ["Mel White", "Gil Chesterton", "Noel Shempsky"],
+        "d": 3
+    },
+    {
+        "q": "In which season did 'Frasier' experience its first major ratings decline after moving back to Tuesday nights to compete with 'Who Wants to Be a Millionaire'?",
+        "correct": "Season 8 (2000-2001)",
+        "wrong": ["Season 4", "Season 6", "Season 11"],
+        "d": 2
+    },
+
+    # 61-70
+    {
+        "q": "What real-life event in Kelsey Grammer's life in 1996 led to a brief hiatus and an episode opening with a message from the cast?",
+        "correct": "His car accident and subsequent stay in a substance abuse rehabilitation center",
+        "wrong": ["A vocal cord injury requiring throat surgery", "A Broadway production of 'Sweeney Todd'", "A contract renegotiation with NBC"],
+        "d": 2
+    },
+    {
+        "q": "How did the show accommodate Kelsey Grammer's brief absence in Season 4's 'Head Game'?",
+        "correct": "Niles filled in as the host of the radio show, leading to a storyline about a basketball player's superstition",
+        "wrong": ["Roz hosted the show with Bulldog for the entire episode", "Martin took over the radio microphone and gave police advice", "The show aired a clip show of previous seasons"],
+        "d": 1
+    },
+    {
+        "q": "What prestigious Peabody Award did 'Frasier' win in 1994, with the citation praising its literate humor?",
+        "correct": "The George Foster Peabody Award",
+        "wrong": ["The Pulitzer Prize for Drama", "The Kennedy Center Honor", "The National Medal of Arts"],
+        "d": 2
+    },
+    {
+        "q": "What was praised by the Peabody Board in their official citation for 'Frasier' in 1994?",
+        "correct": "Its literate farce, exquisite ensemble acting, and witty, intelligent writing",
+        "wrong": ["Its realistic portrayal of modern Seattle urban crime", "Its innovative use of digital single-camera filmmaking", "Its focus on working-class American struggles"],
+        "d": 2
+    },
+    {
+        "q": "Which veteran sitcom producer and director directed 'The Innkeepers' in Season 2?",
+        "correct": "James Burrows",
+        "wrong": ["Pamela Fryman", "David Lee", "Sheldon Epps"],
+        "d": 2
+    },
+    {
+        "q": "Which episode of 'Frasier' features a famous real-time 22-minute narrative structure where the entire episode unfolds without a time jump?",
+        "correct": "My Coffee with Niles",
+        "wrong": ["The Good Son", "Ham Radio", "The Matchmaker"],
+        "d": 1
+    },
+    {
+        "q": "Which episode in Season 6 features another brilliant multi-part vignette structure exploring different Valentine's Day dates?",
+        "correct": "Three Valentines",
+        "wrong": ["Valentine's Revenge", "A Mid-Winter Night's Dream", "Mixed Doubles"],
+        "d": 1
+    },
+    {
+        "q": "In the vignette featuring Frasier in 'Three Valentines', what is Frasier's dilemma with his date Cassandra?",
+        "correct": "He cannot determine whether their dinner at a luxury hotel is a professional meeting or a romantic date",
+        "wrong": ["He forgets his wallet and tries to sneak into the kitchen", "He realizes she is married to the hotel manager", "He gets food poisoning from undercooked oysters"],
+        "d": 2
+    },
+    {
+        "q": "In the third vignette of 'Three Valentines', what do Martin and Daphne do on Valentine's Day?",
+        "correct": "They eat together at a quiet diner, bonding as two single friends laughing at lonely hearts",
+        "wrong": ["They attend an opera concert with Niles", "They get trapped in an elevator at Cafe Nervosa", "They spend the evening training Eddie at the park"],
+        "d": 2
+    },
+    {
+        "q": "What piece of classical music plays during Niles's legendary silent slapstick routine in 'Three Valentines'?",
+        "correct": "The Barber of Seville overture by Gioachino Rossini",
+        "wrong": ["Beethoven's Moonlight Sonata", "Mozart's Eine kleine Nachtmusik", "Vivaldi's Four Seasons (Spring)"],
+        "d": 2
+    },
+
+    # 71-80
+    {
+        "q": "How many takes did David Hyde Pierce require to film his iconic five-minute silent slapstick scene in 'Three Valentines'?",
+        "correct": "It was completed in a single master take before the stunned live studio audience",
+        "wrong": ["It took over thirty takes across three days", "It required twelve takes due to sofa fires", "It took five takes because the blood pack failed"],
+        "d": 2
+    },
+    {
+        "q": "What did the studio audience do immediately after David Hyde Pierce finished filming the 'Three Valentines' silent routine?",
+        "correct": "They erupted into a standing ovation that lasted several minutes",
+        "wrong": ["They sat in confused silence because there were no jokes", "They laughed so hard that the cameras broke sync", "They began chanting 'Eddie! Eddie!'"],
+        "d": 2
+    },
+    {
+        "q": "What major award did the Directors Guild of America (DGA) award to 'Frasier' directors over the show's run?",
+        "correct": "Multiple DGA Awards for Outstanding Directorial Achievement in Comedy",
+        "wrong": ["The DGA Lifetime Achievement Plaque", "The DGA Feature Film Honor", "The Golden Clapperboard"],
+        "d": 3
+    },
+    {
+        "q": "Which episode of 'Frasier' won the Writers Guild of America (WGA) Award in 1995 for Episodic Comedy?",
+        "correct": "The Matchmaker (written by Joe Keenan)",
+        "wrong": ["The Good Son", "Flour Child", "Author, Author"],
+        "d": 2
+    },
+    {
+        "q": "Which episode won the WGA Award for Episodic Comedy in 2000?",
+        "correct": "Something Borrowed, Someone Blue (written by Christopher Lloyd and Joe Keenan)",
+        "wrong": ["Dark Side of the Moon", "They're Playing Our Song", "Whine Club"],
+        "d": 2
+    },
+    {
+        "q": "What was the highest salary Kelsey Grammer negotiated per episode for the final two seasons of 'Frasier' (Seasons 10 and 11)?",
+        "correct": "Approximately $1.6 million per episode",
+        "wrong": ["$500,000 per episode", "$1 million per episode", "$2.5 million per episode"],
+        "d": 2
+    },
+    {
+        "q": "At the time in 2001, Kelsey Grammer's $1.6 million per episode salary made him what in television history?",
+        "correct": "The highest-paid actor in the history of television",
+        "wrong": ["The second-highest behind Jerry Seinfeld", "The highest-paid dramatic actor", "Tied with the cast of Friends"],
+        "d": 2
+    },
+    {
+        "q": "What salary per episode was David Hyde Pierce earning during the final seasons of 'Frasier'?",
+        "correct": "Approximately $1 million per episode",
+        "wrong": ["$250,000 per episode", "$500,000 per episode", "$1.5 million per episode"],
+        "d": 3
+    },
+    {
+        "q": "How many total camera angles were used in the standard setup of Frasier's living room?",
+        "correct": "Four primary multi-camera angles covering wide, cross-shots, and close-ups",
+        "wrong": ["Two angles only", "Six roving hand-held cameras", "A single tracking jib"],
+        "d": 2
+    },
+    {
+        "q": "What was hidden inside the fake books on Frasier's bookshelves on the living room set?",
+        "correct": "Real published academic and psychology books, classics, and literature collected by set decorators",
+        "wrong": ["Empty cardboard painted blocks", "Kelsey Grammer's cue cards and scripts", "Secret microphones for ambient audio"],
+        "d": 3
+    },
+
+    # 81-90
+    {
+        "q": "What real beverage was typically inside the sherry decanters and glasses during filming of 'Frasier'?",
+        "correct": "Cold apple juice, flat diet ginger ale, or diluted water with food coloring",
+        "wrong": ["Real vintage Spanish dry sherry", "Non-alcoholic beer", "Grape juice mixed with seltzer"],
+        "d": 2
+    },
+    {
+        "q": "What was inside Martin's Ballantine beer cans during taping?",
+        "correct": "Non-alcoholic beer or carbonated water poured into emptied clean cans",
+        "wrong": ["Real Ballantine Ale shipped from Wisconsin", "Warm ginger ale", "Cold black coffee"],
+        "d": 2
+    },
+    {
+        "q": "What was inside the coffee mugs and cups during Cafe Nervosa scenes?",
+        "correct": "Warm water or lukewarm weak tea to prevent actors from burning their tongues during multiple takes",
+        "wrong": ["Freshly brewed piping hot espresso", "Decaf latte with whipped cream", "Chocolate milk"],
+        "d": 2
+    },
+    {
+        "q": "Which main cast member was known for learning his lines faster than anyone, rarely looking at his script during rehearsal?",
+        "correct": "Kelsey Grammer (famous for his 'mosaic' acting method)",
+        "wrong": ["David Hyde Pierce", "John Mahoney", "Jane Leeves"],
+        "d": 2
+    },
+    {
+        "q": "What did Kelsey Grammer call his unique acting technique of rehearsing minimally to keep performances fresh and spontaneous?",
+        "correct": "The method of 'rehearsing the moment' or his 'mosaic theory'",
+        "wrong": ["The Stanislavski immersion method", "The Meisner repetition technique", "The Classical Elizabethan cadence"],
+        "d": 3
+    },
+    {
+        "q": "How did David Hyde Pierce approach his rehearsal process in contrast to Kelsey Grammer?",
+        "correct": "He was meticulous, intensely rehearsing every gesture, physical prop, and timing cue to perfection",
+        "wrong": ["He refused to rehearse until minutes before taping", "He relied entirely on improvisation on camera", "He never looked at the script until Tuesday night"],
+        "d": 2
+    },
+    {
+        "q": "What was the dynamic between Kelsey Grammer and David Hyde Pierce described as by director James Burrows?",
+        "correct": "A comedic masterclass in brotherly chemistry, like watching two virtuoso violinists playing in harmony",
+        "wrong": ["A tense, competitive rivalry with constant fighting over lines", "A distant, professional acquaintanceship with no off-screen contact", "A chaotic clash of two completely incompatible methods"],
+        "d": 1
+    },
+    {
+        "q": "Which actor from 'Cheers' directed Kelsey Grammer in multiple episodes of 'Frasier'?",
+        "correct": "James Burrows (co-creator/director of Cheers)",
+        "wrong": ["Ted Danson", "Woody Harrelson", "George Wendt"],
+        "d": 2
+    },
+    {
+        "q": "What was the working title of 'Frasier' during early pre-production before the creators settled on Frasier Crane?",
+        "correct": "Kelsey Grammer initially wanted to play a paralyzed, eccentric billionaire in a Manhattan penthouse, not Frasier Crane",
+        "wrong": ["Seattle Blues", "The Radio Doctor", "Doctor in the House"],
+        "d": 2
+    },
+    {
+        "q": "Why did Paramount and NBC convince Kelsey Grammer to reprise the character of Frasier Crane rather than a new original character?",
+        "correct": "Frasier Crane already had massive name recognition and immense affection from nine years on 'Cheers'",
+        "wrong": ["Grammer was legally obligated by his Cheers contract to only play Frasier", "The network had already pre-sold foreign syndication rights under the Frasier name", "The creators refused to write for any other character"],
+        "d": 1
+    },
+
+    # 91-100
+    {
+        "q": "Who suggested creating the character of Niles Crane after seeing David Hyde Pierce's headshot?",
+        "correct": "Casting director Sheila Guthrie",
+        "wrong": ["Kelsey Grammer", "James Burrows", "David Lee"],
+        "d": 2
+    },
+    {
+        "q": "What did the creators David Angell, Peter Casey, and David Lee initially think when Sheila Guthrie showed them David Hyde Pierce's photo?",
+        "correct": "They were astonished by his uncanny physical resemblance to a younger Kelsey Grammer",
+        "wrong": ["They thought he looked too young to be a psychiatrist", "They thought he looked too much like John Mahoney", "They initially rejected him because he was an unknown Broadway actor"],
+        "d": 1
+    },
+    {
+        "q": "Was David Hyde Pierce required to audition for the role of Niles Crane?",
+        "correct": "No, the role was created specifically for him, and he was offered the part without an audition",
+        "wrong": ["Yes, he auditioned five separate times in New York and Los Angeles", "Yes, he had to perform a screen test with Kelsey Grammer", "He originally auditioned for the role of Bulldog Briscoe"],
+        "d": 2
+    },
+    {
+        "q": "Which actress was originally cast to play Roz Doyle before being replaced during pilot rehearsals?",
+        "correct": "Lisa Kudrow",
+        "wrong": ["Courteney Cox", "Janeane Garofalo", "Julia Louis-Dreyfus"],
+        "d": 1
+    },
+    {
+        "q": "Why was Lisa Kudrow replaced by Peri Gilpin as Roz Doyle just days before the pilot filmed?",
+        "correct": "Director James Burrows felt Kudrow's airy comedic style was too quirky to provide the necessary assertive force against Frasier",
+        "wrong": ["Kudrow was cast in the pilot of 'Friends' that same week", "Kudrow had a scheduling conflict with a movie shoot", "Kudrow forgot her lines during the network run-through"],
+        "d": 2
+    },
+    {
+        "q": "What did Lisa Kudrow famously say about being fired from 'Frasier' in 1993?",
+        "correct": "It was the best thing that ever happened to her, because it freed her to audition for Phoebe Buffay on 'Friends'",
+        "wrong": ["It made her want to quit acting permanently and return to medical research", "She sued NBC for wrongful termination and breach of contract", "She refused to speak to Kelsey Grammer for twenty years"],
+        "d": 1
+    },
+    {
+        "q": "Had Peri Gilpin auditioned for Roz Doyle alongside Lisa Kudrow before the pilot?",
+        "correct": "Yes, it came down to Peri Gilpin and Lisa Kudrow as the final two contenders for the role",
+        "wrong": ["No, Gilpin was discovered doing theatre in Chicago", "No, Gilpin was Kelsey Grammer's personal assistant", "No, Gilpin had only auditioned for the role of Daphne"],
+        "d": 2
+    },
+    {
+        "q": "On which episode of 'Cheers' had Peri Gilpin previously guest-starred before landing the role of Roz?",
+        "correct": "The Season 11 episode 'Woody Gets An Election' (playing Holly Matheson)",
+        "wrong": ["The Season 8 episode 'The Two Frasiers'", "The series finale 'One for the Road'", "The Season 9 episode 'Cheers Follies'"],
+        "d": 3
+    },
+    {
+        "q": "On which episode of 'Cheers' had John Mahoney previously guest-starred before being cast as Martin Crane?",
+        "correct": "The Season 11 episode 'Do Not Forsake Me, O' My Postman' (playing Sy Flembeck)",
+        "wrong": ["The Season 7 episode 'Bar Wars'", "The Season 5 premiere", "The Season 10 finale"],
+        "d": 2
+    },
+    {
+        "q": "What character did John Mahoney play in his guest appearance on 'Cheers' in Season 11?",
+        "correct": "Sy Flembeck, an inept advertising jingle writer hired by Rebecca",
+        "wrong": ["A retired Boston homicide detective", "An eccentric psychology professor", "A corrupt health inspector"],
+        "d": 2
+    }
+]

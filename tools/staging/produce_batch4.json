@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which European nation is the world's largest producer of olive oil, accounting for roughly 40% to 50% of global supply?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Greece",
+      "Portugal"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which Spanish province in Andalusia produces more olive oil than the entire country of Italy combined?",
+    "options": [
+      "Seville",
+      "Granada",
+      "Córdoba",
+      "Jaén"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which country is by far the world's largest producer of fresh apples, producing roughly half of the global harvest?",
+    "options": [
+      "United States",
+      "Poland",
+      "China",
+      "Turkey"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which U.S. state produces over 70% of all commercially grown fresh-market apples in the United States?",
+    "options": [
+      "New York",
+      "Washington",
+      "Michigan",
+      "Pennsylvania"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which country produces over 40% of the world's total supply of mangoes?",
+    "options": [
+      "Mexico",
+      "India",
+      "Thailand",
+      "Brazil"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which prized Indian mango cultivar, often dubbed the 'King of Mangoes', is renowned for its saffron sweetness and thin skin?",
+    "options": [
+      "Kesar",
+      "Alphonso (Hapus)",
+      "Ataulfo",
+      "Kent"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which South American nation is the world's leading exporter of fresh bananas?",
+    "options": [
+      "Colombia",
+      "Costa Rica",
+      "Ecuador",
+      "Brazil"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which African island nation produces approximately 80% of the world's commercial Bourbon vanilla?",
+    "options": [
+      "Mauritius",
+      "Seychelles",
+      "Comoros",
+      "Madagascar"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which country produces over 70% of the world's commercial garlic supply?",
+    "options": [
+      "Spain",
+      "China",
+      "South Korea",
+      "Egypt"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which country is the leading producer of both potatoes and fresh tomatoes worldwide?",
+    "options": [
+      "Russia",
+      "China",
+      "India",
+      "United States"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which U.S. state produces more than 90% of the country's processed tomatoes used in tomato paste, ketchup, and canned sauces?",
+    "options": [
+      "Florida",
+      "Ohio",
+      "California (Central Valley)",
+      "New Jersey"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which state's Central Valley grows roughly 80% of the world's commercial almond crop?",
+    "options": [
+      "Texas",
+      "California",
+      "Arizona",
+      "Georgia"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What California coastal town bills itself as the 'Artichoke Center of the World' and named Marilyn Monroe its first Artichoke Queen in 1948?",
+    "options": [
+      "Half Moon Bay",
+      "Castroville",
+      "Gilroy",
+      "Watsonville"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What California city hosts an annual summer festival celebrating its reputation as the 'Garlic Capital of the World'?",
+    "options": [
+      "Modesto",
+      "Fresno",
+      "Bakersfield",
+      "Gilroy"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which West African nation is the world's largest producer and exporter of cocoa beans?",
+    "options": [
+      "Ivory Coast (Côte d'Ivoire)",
+      "Ghana",
+      "Nigeria",
+      "Cameroon"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which South American country is the world's largest producer of coffee beans?",
+    "options": [
+      "Brazil",
+      "Colombia",
+      "Vietnam",
+      "Ethiopia"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which Canadian province produces more than 70% of the global supply of pure maple syrup?",
+    "options": [
+      "Ontario",
+      "New Brunswick",
+      "Nova Scotia",
+      "Quebec"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which native North American tree species is primarily tapped for its high-sugar sap to produce commercial maple syrup?",
+    "options": [
+      "Red maple (Acer rubrum)",
+      "Silver maple (Acer saccharinum)",
+      "Sugar maple (Acer saccharum)",
+      "Box elder (Acer negundo)"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "How many gallons of raw maple sap are typically boiled down to produce a single gallon of finished maple syrup?",
+    "options": [
+      "Approximately 5 gallons",
+      "Approximately 12 gallons",
+      "Approximately 100 gallons",
+      "Approximately 40 gallons"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which sweet onion variety is legally protected and must be grown in specific low-sulfur soils across 20 counties in Georgia?",
+    "options": [
+      "Vidalia onion",
+      "Walla Walla sweet onion",
+      "Maui onion",
+      "Texas 1015 onion"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which spice is the most expensive culinary spice in the world by weight?",
+    "options": [
+      "Saffron",
+      "Vanilla",
+      "Cardamom",
+      "True cinnamon"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Saffron consists of the hand-harvested dried stigmas of which purple-flowering autumn plant?",
+    "options": [
+      "Colchicum autumnale",
+      "Iris germanica",
+      "Crocus sativus",
+      "Lilium candidum"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Roughly how many Crocus sativus flowers must be harvested by hand to yield a single pound of dried saffron threads?",
+    "options": [
+      "Around 500 flowers",
+      "Around 5,000 flowers",
+      "Around 1,000,000 flowers",
+      "Around 75,000 flowers"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which chemical compound is primarily responsible for the brilliant golden-yellow color saffron imparts to rice dishes?",
+    "options": [
+      "Safranal",
+      "Curcumin",
+      "Crocin",
+      "Picrocrocin"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The vanilla bean is botanically the cured seed capsule of an epiphytic climbing vine belonging to which plant family?",
+    "options": [
+      "Orchidaceae (Orchid family)",
+      "Fabaceae (Legume family)",
+      "Solanaceae (Nightshade family)",
+      "Piperaceae (Pepper family)"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What is the primary organic aromatic aldehyde that gives cured vanilla beans their characteristic warm flavor?",
+    "options": [
+      "Cinnamaldehyde",
+      "Vanillin",
+      "Eugenol",
+      "Thymol"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Black, green, and white peppercorns all originate from which climbing vine species?",
+    "options": [
+      "Capsicum annuum",
+      "Schinus molle",
+      "Piper nigrum",
+      "Zanthoxylum piperitum"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "How is white pepper produced from the Piper nigrum plant?",
+    "options": [
+      "Unripe berries are bleached in sulfur dioxide vapor",
+      "Berries are harvested from an albino variety",
+      "Fully ripe red berries are soaked in water to ferment and scrub off the outer dark fruit skin",
+      "Berries are dried under intense ultraviolet lamps"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What crystalline alkaloid gives black pepper its characteristic pungent, biting heat?",
+    "options": [
+      "Capsaicin",
+      "Sinigrin",
+      "Menthol",
+      "Piperine"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Pink peppercorns are not true peppercorns, but rather the dried berries of which tree, carrying allergy risks for people with cashew allergies?",
+    "options": [
+      "Brazilian pepper tree (Schinus terebinthifolia)",
+      "Tasmanian mountain pepper",
+      "Sichuan prickly ash",
+      "Jamaican pimenta tree"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What tingling, buzzing, and numbing sensation is produced on the lips and tongue by Sichuan peppercorns?",
+    "options": [
+      "Burning inflammation caused by capsaicin",
+      "Sour puckering caused by acetic acid",
+      "Paresthesia caused by hydroxy-alpha-sanshool",
+      "Cold numbness caused by synthetic menthol"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which plant family do Sichuan peppercorns botanically belong to, sharing close ties to lemons and oranges?",
+    "options": [
+      "Piperaceae",
+      "Solanaceae",
+      "Myrtaceae",
+      "Rutaceae (Citrus family)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "True cinnamon ('Ceylon cinnamon') is harvested from the paper-thin inner bark of which botanical species?",
+    "options": [
+      "Cinnamomum cassia",
+      "Cinnamomum loureiroi",
+      "Cinnamomum burmannii",
+      "Cinnamomum verum"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Common cassia cinnamon contains significantly higher levels of which natural organic compound that can cause liver damage in high doses?",
+    "options": [
+      "Coumarin",
+      "Safrole",
+      "Oxalic acid",
+      "Myristicin"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Cloves are botanically what part of the tropical evergreen tree Syzygium aromaticum?",
+    "options": [
+      "Unopened, dried flower buds",
+      "Dried berry stones",
+      "Flakes of aromatic bark",
+      "Swollen subterranean corms"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which aromatic phenol gives cloves their distinct warm aroma and is widely used in dental medicine as a mild local anesthetic?",
+    "options": [
+      "Eugenol",
+      "Thymol",
+      "Carvacrol",
+      "Borneol"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Nutmeg and mace both come from the fruit of the Myristica fragrans tree. What part of the fruit is mace?",
+    "options": [
+      "The ground inner kernel of the seed",
+      "The bright red, lacy aril (netting) that encases the hard seed",
+      "The dried outer fibrous husk",
+      "The dried flower petals"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What natural psychoactive and anticholinergic compound present in nutmeg can cause hallucinations and illness if consumed in large quantities?",
+    "options": [
+      "Myristicin",
+      "Theobromine",
+      "Scopolamine",
+      "Psilocybin"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What spice, made from the dried unripe berries of Pimenta dioica, was named because its flavor resembles cinnamon, nutmeg, and clove combined?",
+    "options": [
+      "Five-spice",
+      "Garam masala",
+      "Allspice",
+      "Ras el hanout"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which star-shaped spice pericarp contains anethole and is a primary natural botanical source of shikimic acid, used to manufacture the antiviral drug Tamiflu?",
+    "options": [
+      "Green cardamom",
+      "Black cumin",
+      "Juniper berry",
+      "Star anise (Illicium verum)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Cardamom belongs to which botanical plant family, known for aromatic rhizomes like ginger and turmeric?",
+    "options": [
+      "Orchidaceae",
+      "Zingiberaceae",
+      "Apiaceae",
+      "Lauraceae"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What bright yellow polyphenolic pigment in turmeric rhizomes is celebrated for its culinary color and anti-inflammatory properties?",
+    "options": [
+      "Lutein",
+      "Crocin",
+      "Capsanthin",
+      "Curcumin"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "True Japanese wasabi (Eutrema japonicum) is traditionally grated on a textured wooden paddle covered in what material?",
+    "options": [
+      "Copper wire mesh",
+      "Pumice stone",
+      "Sharkskin (or rayskin)",
+      "Obsidian glass"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why is true freshly grated wasabi paste typically consumed within 15 to 20 minutes of preparation?",
+    "options": [
+      "It turns black and toxic upon prolonged exposure to room air",
+      "It absorbs water and liquefies into a tasteless slime",
+      "Its pungent volatile isothiocyanates oxidize and evaporate rapidly once cells are ruptured",
+      "It rapidly ferments into vinegar"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Most green 'wasabi' served in Western sushi restaurants is actually a mixture of food coloring, mustard flour, and what root?",
+    "options": [
+      "Daikon radish",
+      "Horseradish (Armoracia rusticana)",
+      "Parsnip",
+      "Ginger root"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What is the culinary term for vegetables like carrots, celery, and onions slowly cooked in fat as an aromatic flavor base in French cooking?",
+    "options": [
+      "Bouquet garni",
+      "Roux",
+      "Remoulade",
+      "Mirepoix"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "In Cajun and Creole cooking, the 'Holy Trinity' of aromatics replaces French mirepoix's carrots with which vegetable?",
+    "options": [
+      "Green bell pepper",
+      "Okra",
+      "Garlic",
+      "Turnip"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What botanical phenomenon describes flowers and fruits developing directly from the main trunk or mature woody branches rather than leafy twigs?",
+    "options": [
+      "Geocarpy",
+      "Heterostyly",
+      "Apomixis",
+      "Cauliflory"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which of the following commercially harvested tree crops exhibits prominent cauliflory, with large pods growing straight from the trunk?",
+    "options": [
+      "Sweet orange",
+      "Cacao (Theobroma cacao)",
+      "Almond",
+      "Peach"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The Brazilian grape tree (Jabuticaba) is famous for what dramatic visual botanical trait?",
+    "options": [
+      "Leaves that change color every hour of daylight",
+      "Underground berries that grow beneath stones",
+      "Purplish-black grape-like fruits that encase the entire woody tree trunk",
+      "Fruits that detonate like popcorn when ripe"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What is the botanical difference between culinary herbs and spices?",
+    "options": [
+      "Herbs are always sweet while spices are always savory",
+      "Spices are exclusively grown in temperate climates",
+      "Herbs are the fresh or dried leaves of herbaceous plants, while spices come from seeds, bark, roots, fruits, or flowers",
+      "Herbs must be consumed raw while spices must be boiled"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Cilantro and coriander come from the exact same botanical plant (Coriandrum sativum). In North American culinary parlance, what is the distinction?",
+    "options": [
+      "Cilantro is the raw root while coriander is the processed leaf",
+      "Cilantro refers to the fresh leafy green herb, while coriander refers to the dried spherical seeds",
+      "Coriander is genetically modified cilantro",
+      "Cilantro is grown in winter while coriander is harvested in summer"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why does fresh cilantro taste soapy and unpleasant to a distinct percentage of the human population?",
+    "options": [
+      "Residual alkaline dish detergent absorbed during commercial washing",
+      "A genetic inability to digest chlorophyll",
+      "A variation in an olfactory receptor gene (OR6A2) allows detection of soap-like aldehyde compounds",
+      "An allergic response to plant histamines"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What botanical family do mint, basil, rosemary, oregano, thyme, and sage belong to, known for square stems and aromatic foliage?",
+    "options": [
+      "Lamiaceae (Labiatae)",
+      "Apiaceae",
+      "Brassicaceae",
+      "Solanaceae"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Bay leaves used to flavor soups and braises are harvested from which Mediterranean evergreen tree?",
+    "options": [
+      "Ficus carica",
+      "Olea europaea",
+      "Laurus nobilis (Sweet bay)",
+      "Pistacia lentiscus"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why are dried bay leaves almost universally removed from stews and stocks before serving?",
+    "options": [
+      "They turn deadly toxic if kept in liquid longer than an hour",
+      "They remain rigid and sharp after cooking, posing a choking and gastrointestinal laceration hazard",
+      "They dissolve into bitter black sludge if chewed",
+      "They emit intense radioactive isotopes upon cooling"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Tamarind pods are prized in cuisines of India, Southeast Asia, and Latin America primarily for which taste component?",
+    "options": [
+      "Intense numbness from eugenol",
+      "Heavy bitter astringency from caffeine",
+      "Fiery heat from capsaicinoids",
+      "Sharp sourness provided by high concentrations of natural tartaric acid"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What coarse, deep red powder with a tangy lemon flavor is made from ground wild berries of a shrub in the family Anacardiaceae?",
+    "options": [
+      "Sumac",
+      "Paprika",
+      "Cayenne",
+      "Annatto"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What reddish-orange natural food coloring and spice, also known as achiote, is extracted from the seeds of the tropical Bixa orellana tree?",
+    "options": [
+      "Saffron",
+      "Turmeric",
+      "Paprika",
+      "Annatto"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What botanical structure is grated or steeped to flavor Italian gin, distinct as a modified fleshy seed cone of a conifer?",
+    "options": [
+      "Juniper berry",
+      "Yew aril",
+      "Cypress nut",
+      "Pine kernel"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What highly prized subterranean culinary fungi grow in mycorrhizal symbiosis with the roots of oak and hazel trees?",
+    "options": [
+      "Morels",
+      "Truffles",
+      "Chanterelles",
+      "Shiitake"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which Italian city in Piedmont is world-renowned for its annual autumn auction of prized white truffles (Tuber magnatum)?",
+    "options": [
+      "Modena",
+      "Parma",
+      "Bologna",
+      "Alba"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What volatile steroid compound present in truffles is identical to a pheromone in pig saliva, explaining why female swine naturally hunt them?",
+    "options": [
+      "Estradiol",
+      "Androstenol",
+      "Testosterone",
+      "Cholesterol"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why do modern commercial truffle hunters overwhelmingly use trained dogs rather than pigs to search for truffles?",
+    "options": [
+      "Dogs can smell truffles from five miles away while pigs can only smell one foot",
+      "Pigs are banned in all European forests by wildlife authorities",
+      "Truffle spores cause respiratory paralysis in swine",
+      "Pigs tend to aggressively devour the truffles they find and damage delicate fungal mycelium in the root bed"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What type of vegetable is sea kale (Crambe maritima), historically prized in Victorian Britain by mounding stones or sand over shoots?",
+    "options": [
+      "A type of freshwater green algae",
+      "An edible brown kelp blade",
+      "A blanched halophyte (salt-tolerant coastal crucifer)",
+      "A root lichen"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Sauerkraut and traditional dill pickles are preserved through which biological fermentation process?",
+    "options": [
+      "Acetic acid distillation by acetobacter",
+      "Alcoholic fermentation by baker's yeast",
+      "Propionic acid fermentation by molds",
+      "Lactic acid fermentation by beneficial bacteria (such as Leuconostoc and Lactobacillus)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why is salt kneaded into shredded cabbage when making traditional sauerkraut?",
+    "options": [
+      "It chemically bleaches the chlorophyll into carotene",
+      "It sterilizes all microorganisms so no bacteria can grow",
+      "It hydrolyzes cellulose into simple syrup",
+      "It draws out cabbage juices via osmosis to create brine and inhibits spoilage bacteria while lactic acid bacteria thrive"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Kimchi, the iconic Korean fermented vegetable side dish, is most commonly made using which variety of cabbage?",
+    "options": [
+      "Napa cabbage (Brassica rapa subsp. pekinensis)",
+      "Savoy cabbage",
+      "Red cabbage",
+      "Green cannonball cabbage"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What Korean sun-dried chili pepper powder is the foundational seasoning in traditional kimchi?",
+    "options": [
+      "Shichimi",
+      "Paprika",
+      "Gochugaru",
+      "Piri piri"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Traditional balsamic vinegar of Modena (Aceto Balsamico Tradizionale) is produced by aging cooked grape must for a minimum of how long in wooden barrels?",
+    "options": [
+      "6 months",
+      "2 years",
+      "12 years",
+      "50 years"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What polysaccharide extracted from citrus peels and apple pomace forms the essential gelling agent in fruit jams and jellies?",
+    "options": [
+      "Pectin",
+      "Gelatin",
+      "Agar-agar",
+      "Guar gum"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "High-methoxyl commercial pectin requires which two conditions to form a stable gel in fruit preserves?",
+    "options": [
+      "Sub-zero freezing and intense ultrasound vibration",
+      "Complete absence of sugar and highly alkaline pH",
+      "Boiling under high pressure with dissolved calcium chloride",
+      "High sugar concentration (around 60%) and an acidic pH (around 3.0 to 3.5)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why do unripe green apples make firmer jelly than overripe soft apples?",
+    "options": [
+      "Unripe apples contain twice as much sucrose",
+      "Unripe apples contain abundant protopectin and pectin, which break down into non-gelling pectic acid as the fruit overripens",
+      "Overripe apples contain enzymes that dissolve glass jars",
+      "Overripe apples have no cell walls"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What traditional French preservation technique involves poaching whole fruits in increasingly concentrated sugar syrups over weeks until fully candied?",
+    "options": [
+      "En papillote",
+      "Sous vide",
+      "Glacéing (confiture)",
+      "Flambéing"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What dried fruit product is made by soaking whole plums in brine and drying them, popular in Mexican and Asian cuisines under names like saladitos or li hing mui?",
+    "options": [
+      "Dehydrated fig",
+      "Sun-dried persimmon",
+      "Raisin cluster",
+      "Preserved salted plum"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Prunes are simply dehydrated cultivars of which fruit?",
+    "options": [
+      "European plum (Prunus domestica)",
+      "Fig",
+      "Date",
+      "Apricot"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Raisins, sultanas, and currants are all dried varieties of which botanical fruit?",
+    "options": [
+      "Gooseberry",
+      "Plum",
+      "Grape",
+      "Cranberry"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Traditional Greek dried Zante currants are not true currants (Ribes), but rather tiny seedless raisins dried from which grape variety?",
+    "options": [
+      "Thompson Seedless",
+      "Black Corinth grape",
+      "Muscat of Alexandria",
+      "Concord"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The vast majority of commercial golden and dark raisins in the United States are made from which green seedless grape cultivar?",
+    "options": [
+      "Red Globe",
+      "Flame Seedless",
+      "Thompson Seedless (Sultana)",
+      "Cotton Candy"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "How are golden raisins treated differently from dark sun-dried raisins to preserve their bright translucent yellow color?",
+    "options": [
+      "They are bleached in chlorine water baths",
+      "They are harvested from albino grapevine mutations",
+      "They are treated with sulfur dioxide gas and dried in temperature-controlled dehydrators rather than in direct sun",
+      "They are dipped in yellow food dye"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which staple root crop contains toxic cyanogenic glucosides (linamarin) that must be removed through peeling, grating, and thorough cooking?",
+    "options": [
+      "Sweet potato",
+      "Beetroot",
+      "Cassava (bitter manioc)",
+      "Turnip"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What popular chewy pearls used in bubble tea and gluten-free puddings are manufactured from purified cassava starch?",
+    "options": [
+      "Sago",
+      "Tapioca pearls",
+      "Arrowroot",
+      "Polenta"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Taro corms must always be thoroughly cooked before consumption because raw taro contains microscopic, needle-sharp crystals of:",
+    "options": [
+      "Silicon dioxide",
+      "Calcium oxalate (raphides)",
+      "Uric acid",
+      "Potassium nitrate"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What traditional Hawaiian fermented staple dish is made by steaming, mashing, and fermenting taro corms with water?",
+    "options": [
+      "Poi",
+      "Poke",
+      "Lau lau",
+      "Haupia"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which fruit is famous across Southeast Asia for its spiky exterior, custard-like texture, and pungent smell likened to rotten onions and gym socks?",
+    "options": [
+      "Jackfruit",
+      "Rambutan",
+      "Mangosteen",
+      "Durian"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Why is the durian fruit strictly banned on public subway networks, airports, and hotels throughout Singapore and Thailand?",
+    "options": [
+      "Its volatile sulfur compounds produce an intensely lingering, pervasive odor",
+      "Its falling fruits are classified as lethal projectiles",
+      "Its spikes harbor venomous caterpillars",
+      "Its sap ruins carpet dye irreversibly"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What tropical fruit, covered in soft hairy red spines, takes its name from the Malay word for 'hair'?",
+    "options": [
+      "Rambutan",
+      "Lychee",
+      "Longan",
+      "Durian"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which fruit with a thick purple rind and delicate white segmented segments was famously dubbed the 'Queen of Fruits' in Southeast Asia?",
+    "options": [
+      "Passion fruit",
+      "Dragon fruit",
+      "Starfruit",
+      "Mangosteen (Garcinia mangostana)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "According to a persistent historical legend, which British monarch offered a reward of 100 pounds sterling to anyone who could bring her a fresh mangosteen?",
+    "options": [
+      "Queen Victoria",
+      "Queen Elizabeth I",
+      "Queen Anne",
+      "Queen Mary"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Starfruit is botanically known by which genus, and produces distinct five-pointed star cross-sections when sliced?",
+    "options": [
+      "Averrhoa (Averrhoa carambola)",
+      "Actinidia",
+      "Carica",
+      "Annona"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Individuals suffering from chronic kidney disease are strictly advised to avoid eating starfruit because it contains a potent neurotoxin called:",
+    "options": [
+      "Solanine",
+      "Amygdalin",
+      "Myristicin",
+      "Caramboxin"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Dragon fruit (pitaya) is the edible fruit produced by climbing cultivars of which plant family?",
+    "options": [
+      "Bromeliaceae",
+      "Orchidaceae",
+      "Arecaceae",
+      "Cactaceae (Cactus family)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What edible cactus pads are widely consumed in Mexican cuisine as a cooked vegetable or in salads?",
+    "options": [
+      "Nopales",
+      "Chayote",
+      "Jicama",
+      "Tomatillo"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What sweet, crisp Mexican root vegetable, also known as the yam bean, is traditionally peeled, sliced, and sprinkled with lime juice and chili powder?",
+    "options": [
+      "Cassava",
+      "Jicama (Pachyrhizus erosus)",
+      "Taro",
+      "Malanga"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Tomatillos, the essential ingredient in Mexican salsa verde, grow encased in what protective botanical structure?",
+    "options": [
+      "A thick woody exocarp",
+      "An inflated, papery calyx (husk)",
+      "A spiny floral bract",
+      "A fibrous coconut-like coir"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What small, sweet orange berry related to the tomatillo grows inside a delicate papery lantern husk and is also known as the ground cherry or goldenberry?",
+    "options": [
+      "Kumquat",
+      "Cape gooseberry (Physalis peruviana)",
+      "Sea buckthorn",
+      "Miracle berry"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "The cherimoya (Annona cherimola), praised by Mark Twain as 'the most delicious fruit known to men', is colloquially called the:",
+    "options": [
+      "Sugar pear",
+      "Cream melon",
+      "Custard apple",
+      "Honey peach"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What large green tropical fruit with soft spines and fibrous sweet-sour pulp is also known as guanábana?",
+    "options": [
+      "Breadfruit",
+      "Soursop (Annona muricata)",
+      "Jackfruit",
+      "Pawpaw"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "What is the largest edible tree fruit native to the temperate continental United States, possessing a custard-like flavor reminiscent of banana and mango?",
+    "options": [
+      "Pawpaw (Asimina triloba)",
+      "Osage orange",
+      "American persimmon",
+      "Black walnut"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Fruits & Veggies",
+    "q": "Which fruit tree native to the Mediterranean produces dark brown leathery pods whose sweet pulpy seeds were anciently used as units of weight, giving us the word 'carat'?",
+    "options": [
+      "Carob tree (Ceratonia siliqua)",
+      "Tamarind",
+      "Mesquite",
+      "Locust bean"
+    ],
+    "answer": 0,
+    "d": 2
+  }
+]

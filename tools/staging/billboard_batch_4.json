@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Billboard Hits",
+    "q": "What was Mariah Carey's debut single that reached #1 on the Billboard Hot 100 for four weeks in 1990?",
+    "options": [
+      "Vision of Love",
+      "Love Takes Time",
+      "Someday",
+      "I Don't Wanna Cry"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "How many consecutive #1 singles did Mariah Carey score on the Billboard Hot 100 from her self-titled 1990 debut album?",
+    "options": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Mariah Carey and Boyz II Men collaboration spent a record-setting 16 weeks at #1 on the Billboard Hot 100 in 1995-1996?",
+    "options": [
+      "End of the Road",
+      "I'll Make Love to You",
+      "One Sweet Day",
+      "Always Be My Baby"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which 1981 Tom Tom Club groove was heavily sampled in Mariah Carey's 1995 #1 hit 'Fantasy'?",
+    "options": [
+      "Wordy Rappinghood",
+      "Pleasure of Love",
+      "Lorelei",
+      "Genius of Love"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Who performed the iconic hip-hop remix verse on Mariah Carey's 'Fantasy', bridging mainstream pop and hip-hop?",
+    "options": [
+      "Ol' Dirty Bastard",
+      "Jay-Z",
+      "Notorious B.I.G.",
+      "Method Man"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Boyz II Men single broke Elvis Presley's 36-year record by spending 13 weeks at #1 on the Hot 100 in 1992?",
+    "options": [
+      "It's So Hard to Say Goodbye to Yesterday",
+      "End of the Road",
+      "Motownphilly",
+      "In the Still of the Nite"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Boyz II Men followed up 'End of the Road' with which 1994 ballad that spent 14 weeks at #1 on the Billboard Hot 100?",
+    "options": [
+      "On Bended Knee",
+      "Water Runs Dry",
+      "I'll Make Love to You",
+      "Song for Mama"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which song replaced Boyz II Men's 'I'll Make Love to You' at #1 on the Billboard Hot 100 in December 1994?",
+    "options": [
+      "Creep by TLC",
+      "Take a Bow by Madonna",
+      "Always by Bon Jovi",
+      "On Bended Knee by Boyz II Men"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which TLC anthem spent seven weeks at #1 on the Billboard Hot 100 in 1995, addressing HIV/AIDS and street crime?",
+    "options": [
+      "Waterfalls",
+      "Creep",
+      "No Scrubs",
+      "Red Light Special"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What phrase did TLC define in their 1999 #1 hit as 'a guy that thinks he's fly and is also known as a busta'?",
+    "options": [
+      "A pigeon",
+      "A scrub",
+      "A trick",
+      "A player"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which TLC member delivered the memorable rap verse on 'Waterfalls' and 'No Scrubs'?",
+    "options": [
+      "Rozonda 'Chilli' Thomas",
+      "Tionne 'T-Boz' Watkins",
+      "Lisa 'Left Eye' Lopes",
+      "Da Brat"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "TLC's 1994 studio album became the first by an American female group to be certified Diamond by the RIAA. What was its title?",
+    "options": [
+      "Ooooooohhh... On the TLC Tip",
+      "FanMail",
+      "3D",
+      "CrazySexyCool"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Whitney Houston recording spent 14 weeks at #1 on the Billboard Hot 100 in 1992-1993, featured in 'The Bodyguard'?",
+    "options": [
+      "I Will Always Love You",
+      "I Have Nothing",
+      "Run to You",
+      "I'm Every Woman"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Who wrote and originally recorded 'I Will Always Love You' in 1973 before Whitney Houston's record-breaking version?",
+    "options": [
+      "Linda Ronstadt",
+      "Dolly Parton",
+      "Emmylou Harris",
+      "Patsy Cline"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Whitney Houston's 'The Bodyguard' soundtrack spent how many weeks at #1 on the Billboard 200 album chart?",
+    "options": [
+      "12 weeks",
+      "28 weeks",
+      "20 weeks",
+      "35 weeks"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Celine Dion power ballad served as the theme to the 1997 film 'Titanic' and debuted at #1 on the Billboard Hot 100?",
+    "options": [
+      "Because You Loved Me",
+      "The Power of Love",
+      "It's All Coming Back to Me Now",
+      "My Heart Will Go On"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Who wrote the soaring music for Celine Dion's 'My Heart Will Go On' alongside lyricist Will Jennings?",
+    "options": [
+      "James Horner",
+      "David Foster",
+      "Hans Zimmer",
+      "John Williams"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Celine Dion single spent six weeks at #1 on the Billboard Hot 100 in 1996, featured in the film 'Up Close & Personal'?",
+    "options": [
+      "The Power of Love",
+      "Because You Loved Me",
+      "It's All Coming Back to Me Now",
+      "All by Myself"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which hit songwriter wrote Celine Dion's 'Because You Loved Me' and LeAnn Rimes' 'How Do I Live'?",
+    "options": [
+      "Carole Bayer Sager",
+      "Cynthia Weil",
+      "Diane Warren",
+      "Linda Perry"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was Britney Spears' debut single, which reached #1 on the Billboard Hot 100 in January 1999?",
+    "options": [
+      "Sometimes",
+      "(You Drive Me) Crazy",
+      "Born to Make You Happy",
+      "...Baby One More Time"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Who wrote and co-produced Britney Spears' breakthrough smash '...Baby One More Time' at Cheiron Studios in Sweden?",
+    "options": [
+      "Max Martin",
+      "Denniz Pop",
+      "Rami Yacoub",
+      "Dr. Luke"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Backstreet Boys song spent 39 weeks on the Hot 100 and peaked at #6 in 1999, becoming their signature anthem?",
+    "options": [
+      "Quit Playing Games (with My Heart)",
+      "I Want It That Way",
+      "As Long as You Love Me",
+      "Larger Than Life"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Backstreet Boys album sold over 1.13 million copies in its first week in the US in May 1999, debuting at #1 on the Billboard 200?",
+    "options": [
+      "Backstreet Boys",
+      "Black & Blue",
+      "Millennium",
+      "Never Gone"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which *NSYNC album shattered Millennium's first-week sales record by selling 2.4 million copies in March 2000?",
+    "options": [
+      "*NSYNC",
+      "Celebrity",
+      "Home for Christmas",
+      "No Strings Attached"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was *NSYNC's only #1 single on the US Billboard Hot 100, reaching the top in July 2000?",
+    "options": [
+      "It's Gonna Be Me",
+      "Bye Bye Bye",
+      "This I Promise You",
+      "Tearin' Up My Heart"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Toni Braxton ballad spent 11 weeks at #1 on the Billboard Hot 100 in 1996-1997, becoming one of the biggest hits in chart history?",
+    "options": [
+      "You're Makin' Me High",
+      "Un-Break My Heart",
+      "Breathe Again",
+      "Another Sad Love Song"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which 1996 double A-side single gave Toni Braxton her first Billboard Hot 100 #1 hit?",
+    "options": [
+      "Breathe Again / Another Sad Love Song",
+      "He Wasn't Man Enough / Spanish Guitar",
+      "You're Makin' Me High / Let It Flow",
+      "How Many Ways / I Belong to You"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Alanis Morissette album spent 12 non-consecutive weeks at #1 on the Billboard 200 and won four Grammy Awards in 1996?",
+    "options": [
+      "Supposed Former Infatuation Junkie",
+      "Under Rug Swept",
+      "Flavors of Entanglement",
+      "Jagged Little Pill"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Flea and Dave Navarro-assisted single from 'Jagged Little Pill' broke Alanis Morissette into the alternative rock mainstream?",
+    "options": [
+      "You Oughta Know",
+      "Hand in My Pocket",
+      "Ironic",
+      "You Learn"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Alanis Morissette track peaked at #4 on the Billboard Hot 100 in 1996, despite music critics pointing out its lyrical examples were not actual ironies?",
+    "options": [
+      "Head over Feet",
+      "Ironic",
+      "Hand in My Pocket",
+      "Thank U"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What debut single by the Spice Girls reached #1 on the Billboard Hot 100 for four weeks in early 1997?",
+    "options": [
+      "Say You'll Be There",
+      "2 Become 1",
+      "Wannabe",
+      "Spice Up Your Life"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Spice Girls member was known as 'Posh Spice'?",
+    "options": [
+      "Melanie Brown",
+      "Emma Bunton",
+      "Geri Halliwell",
+      "Victoria Beckham"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What 1997 Shania Twain album became the best-selling studio album by a female artist in history, spending 50 weeks in the Billboard 200 top 10?",
+    "options": [
+      "Come On Over",
+      "The Woman in Me",
+      "Up!",
+      "Now"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Shania Twain ballad reached #2 on the Billboard Hot 100 for nine weeks in 1998, held back only by 'The Boy Is Mine'?",
+    "options": [
+      "From This Moment On",
+      "You're Still the One",
+      "That Don't Impress Me Much",
+      "Man! I Feel Like a Woman!"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Who produced and co-wrote Shania Twain's record-breaking blockbuster album 'Come On Over'?",
+    "options": [
+      "David Foster",
+      "Max Martin",
+      "Robert John 'Mutt' Lange",
+      "Rick Rubin"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Ricky Martin smash hit sparked the 'Latin Pop explosion' of 1999 by spending five weeks at #1 on the Billboard Hot 100?",
+    "options": [
+      "She's All I Ever Had",
+      "The Cup of Life",
+      "Shake Your Bon-Bon",
+      "Livin' la Vida Loca"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was Destiny's Child's first Billboard Hot 100 #1 hit, topping the chart in July 1999?",
+    "options": [
+      "Bills, Bills, Bills",
+      "Say My Name",
+      "No, No, No Pt. 2",
+      "Jumpin', Jumpin'"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Destiny's Child song won two Grammy Awards and spent three weeks at #1 on the Billboard Hot 100 in spring 2000?",
+    "options": [
+      "Survivor",
+      "Say My Name",
+      "Independent Women Part I",
+      "Bootylicious"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Brandy and Monica duet spent 13 consecutive weeks at #1 on the Billboard Hot 100 during the summer of 1998?",
+    "options": [
+      "Have You Ever?",
+      "Angel of Mine",
+      "The Boy Is Mine",
+      "Almost Doesn't Count"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Who produced the 1998 R&B smash duet 'The Boy Is Mine' by Brandy and Monica?",
+    "options": [
+      "Teddy Riley",
+      "Babyface",
+      "Dallas Austin",
+      "Rodney 'Darkchild' Jerkins"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which pop trio of brothers scored a three-week Billboard Hot 100 #1 hit in May 1997 with 'MMMBop'?",
+    "options": [
+      "Hanson",
+      "The Moffatts",
+      "Jonas Brothers",
+      "BBMak"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "How old was drummer Zac Hanson when 'MMMBop' reached #1 on the Hot 100, making him one of the youngest chart-topping songwriters ever?",
+    "options": [
+      "8 years old",
+      "11 years old",
+      "14 years old",
+      "16 years old"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Australian duo spent four weeks at #1 on the Billboard Hot 100 in 1998 with the romantic ballad 'Truly Madly Deeply'?",
+    "options": [
+      "Crowded House",
+      "Air Supply",
+      "Savage Garden",
+      "INXS"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was Savage Garden's second #1 single on the US Billboard Hot 100, topping the chart for four weeks in early 2000?",
+    "options": [
+      "To the Moon and Back",
+      "Crash and Burn",
+      "The Animal Song",
+      "I Knew I Loved You"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Natalie Imbruglia acoustic pop track reached #1 on the Billboard Hot 100 Airplay chart for 14 weeks in 1998?",
+    "options": [
+      "Torn",
+      "Wishing I Was There",
+      "Smoke",
+      "Big Mistake"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which female vocal trio, consisting of Carnie Wilson, Wendy Wilson, and Chynna Phillips, scored three #1 hits from their 1990 debut?",
+    "options": [
+      "En Vogue",
+      "Wilson Phillips",
+      "Exposé",
+      "The Pointer Sisters"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Wilson Phillips hit spent two weeks at #1 and was crowned the Billboard Year-End #1 single of 1990?",
+    "options": [
+      "Release Me",
+      "Impulsive",
+      "Hold On",
+      "You're in Love"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which R&B vocal group scored Top 5 hits in the 1990s with 'Hold On', 'My Lovin' (You're Never Gonna Get It)', and 'Don't Let Go (Love)'?",
+    "options": [
+      "SWV",
+      "Total",
+      "Xscape",
+      "En Vogue"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which vocal quartet spent 11 weeks at #1 on the Billboard Hot 100 in 1994 with their pop cover of John Michael Montgomery's 'I Swear'?",
+    "options": [
+      "All-4-One",
+      "Boyz II Men",
+      "Color Me Badd",
+      "Shai"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which R&B group topped the Billboard Hot 100 in 1991 with 'All 4 Love' after their debut single 'I Wanna Sex You Up' reached #2?",
+    "options": [
+      "Hi-Five",
+      "Color Me Badd",
+      "Troop",
+      "Jodeci"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Vanessa Williams ballad spent five consecutive weeks at #1 on the Billboard Hot 100 in early 1992?",
+    "options": [
+      "Colors of the Wind",
+      "Love Is",
+      "Save the Best for Last",
+      "The Right Stuff"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Bryan Adams power ballad spent seven weeks at #1 on the Billboard Hot 100 in 1991, featured in 'Robin Hood: Prince of Thieves'?",
+    "options": [
+      "Please Forgive Me",
+      "Have You Ever Really Loved a Woman?",
+      "All for Love",
+      "(Everything I Do) I Do It for You"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Bryan Adams teamed up with Rod Stewart and Sting for which 1994 #1 hit from 'The Three Musketeers' soundtrack?",
+    "options": [
+      "All for Love",
+      "(Everything I Do) I Do It for You",
+      "Have You Ever Really Loved a Woman?",
+      "Can't Stop This Thing We Started"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Sinéad O'Connor emotional cover spent four weeks at #1 on the Billboard Hot 100 in 1990, originally written by Prince?",
+    "options": [
+      "The Emperor's New Clothes",
+      "Nothing Compares 2 U",
+      "Mandinka",
+      "Thank You for Hearing Me"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "In which iconic close-up music video did tears famously roll down Sinéad O'Connor's cheeks as she sang about lost love?",
+    "options": [
+      "Torn",
+      "Ironic",
+      "Nothing Compares 2 U",
+      "Breathe Again"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Roxette power ballad spent two weeks at #1 on the Billboard Hot 100 in June 1990, featured in the film 'Pretty Woman'?",
+    "options": [
+      "Listen to Your Heart",
+      "Joyride",
+      "Fading Like a Flower",
+      "It Must Have Been Love"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Madonna dance-pop track spent three weeks at #1 on the Billboard Hot 100 in 1990, inspired by Harlem ballroom dance culture?",
+    "options": [
+      "Vogue",
+      "Justify My Love",
+      "Deeper and Deeper",
+      "Secret"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Madonna single became the first music video banned by MTV due to sexually provocative imagery, later reaching #1 in January 1991?",
+    "options": [
+      "Erotica",
+      "Justify My Love",
+      "Like a Prayer",
+      "Human Nature"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Who co-wrote and produced Madonna's controversial #1 single 'Justify My Love'?",
+    "options": [
+      "Shep Pettibone",
+      "Babyface",
+      "Lenny Kravitz",
+      "Dallas Austin"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Janet Jackson single spent eight weeks at #1 on the Billboard Hot 100 in 1993, sampling 'Papa Don't Take No Mess' by James Brown?",
+    "options": [
+      "Again",
+      "Any Time, Any Place",
+      "If",
+      "That's the Way Love Goes"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Janet Jackson ballad reached #1 on the Billboard Hot 100 in late 1993, featured in the film 'Poetic Justice' in which she starred?",
+    "options": [
+      "Again",
+      "That's the Way Love Goes",
+      "Because of Love",
+      "Any Time, Any Place"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Janet Jackson upbeat dance track hit #1 on the Billboard Hot 100 in early 1998, written as a tribute to friends who died of AIDS?",
+    "options": [
+      "Got 'til It's Gone",
+      "Together Again",
+      "I Get Lonely",
+      "Go Deep"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which 1997 Cher dance-pop anthem spent four weeks at #1 on the Billboard Hot 100 and popularized the extreme use of Auto-Tune on pop vocals?",
+    "options": [
+      "Strong Enough",
+      "All or Nothing",
+      "Believe",
+      "If I Could Turn Back Time"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "How old was Cher when 'Believe' reached #1 in March 1999, making her the oldest female solo artist to top the Hot 100 at age 52?",
+    "options": [
+      "48 years old",
+      "56 years old",
+      "60 years old",
+      "52 years old"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which 1999 smash hit spent 12 weeks at #1 on the Billboard Hot 100 for Santana featuring Rob Thomas of Matchbox 20?",
+    "options": [
+      "Smooth",
+      "Maria Maria",
+      "Black Magic Woman",
+      "Oye Como Va"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Santana album spent 12 non-consecutive weeks at #1 on the Billboard 200 and won nine Grammy Awards in 2000?",
+    "options": [
+      "Abraxas",
+      "Supernatural",
+      "Caravanserai",
+      "Shaman"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was the second #1 single from Santana's 'Supernatural', featuring The Product G&B and sampling 'Wu-Tang Clan Ain't Nuthing ta F' Wit'?",
+    "options": [
+      "Smooth",
+      "Corazón Espinado",
+      "Maria Maria",
+      "Put Your Lights On"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Christina Aguilera debut single reached #1 on the Billboard Hot 100 in October 1999, spending five weeks at the top?",
+    "options": [
+      "What a Girl Wants",
+      "I Turn to You",
+      "Come On Over Baby (All I Want Is You)",
+      "Genie in a Bottle"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was Christina Aguilera's second consecutive Billboard Hot 100 #1 single, reaching the summit in January 2000?",
+    "options": [
+      "What a Girl Wants",
+      "Come On Over Baby",
+      "Genie in a Bottle",
+      "I Turn to You"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which teen pop star hit #1 on the Billboard Hot 100 in 1998 with '...Baby One More Time' while her album debuted at #1 on the Billboard 200 the same week?",
+    "options": [
+      "Christina Aguilera",
+      "Britney Spears",
+      "Jessica Simpson",
+      "Mandy Moore"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Spanish duo topped the Billboard Hot 100 for 14 weeks in 1996 with the Bayside Boys remix of 'Macarena'?",
+    "options": [
+      "Gipsy Kings",
+      "Los Lobos",
+      "Los del Río",
+      "Azúcar Moreno"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which LeAnn Rimes country-pop crossover spent a тогда-record 69 weeks on the Billboard Hot 100, peaking at #2 in 1997?",
+    "options": [
+      "Blue",
+      "One Way Ticket",
+      "I Need You",
+      "How Do I Live"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which artist released a competing version of 'How Do I Live' on the exact same day as LeAnn Rimes, reaching #7 on the Hot 100 for the movie 'Con Air'?",
+    "options": [
+      "Trisha Yearwood",
+      "Faith Hill",
+      "Martina McBride",
+      "Reba McEntire"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Faith Hill crossover smash peaked at #2 on the Billboard Hot 100 for four weeks and was the Billboard Year-End #1 single of 2000?",
+    "options": [
+      "This Kiss",
+      "Breathe",
+      "The Way You Love Me",
+      "There You'll Be"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Jewel acoustic ballad became a multi-format juggernaut, spending 65 weeks on the Hot 100 and peaking at #2 in 1997?",
+    "options": [
+      "Who Will Save Your Soul",
+      "Hands",
+      "Foolish Games / You Were Meant for Me",
+      "Down So Long"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What 1994 debut album by Jewel sold over 12 million copies in the US and peaked at #4 on the Billboard 200?",
+    "options": [
+      "Spirit",
+      "This Way",
+      "0304",
+      "Pieces of You"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Monica ballad spent four weeks at #1 on the Billboard Hot 100 in early 1999, written by Diane Warren?",
+    "options": [
+      "Angel of Mine",
+      "The First Night",
+      "Before You Walk Out of My Life",
+      "For You I Will"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was Monica's first solo Billboard Hot 100 #1 hit, produced by Jermaine Dupri in 1998?",
+    "options": [
+      "Don't Take It Personal",
+      "The First Night",
+      "Angel of Mine",
+      "So Gone"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Brandy ballad, written by Diane Warren and produced by David Foster, topped the Billboard Hot 100 for two weeks in early 1999?",
+    "options": [
+      "Baby",
+      "I Wanna Be Down",
+      "Have You Ever?",
+      "Sitting Up in My Room"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which R. Kelly ballad from the 1996 film 'Space Jam' peaked at #2 on the Billboard Hot 100 and won three Grammy Awards?",
+    "options": [
+      "Bump N' Grind",
+      "Ignition (Remix)",
+      "Step in the Name of Love",
+      "I Believe I Can Fly"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What 1994 R. Kelly slow jam spent four weeks at #1 on the Billboard Hot 100, opening with the phrase 'My mind is telling me no'?",
+    "options": [
+      "Bump N' Grind",
+      "Your Body's Callin'",
+      "Sex Me",
+      "Seems Like You're Ready"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Montell Jordan party track reached #1 on the Billboard Hot 100 in 1995, famous for the opening line 'This is how we do it'?",
+    "options": [
+      "Somethin' 4 da Honeyz",
+      "This Is How We Do It",
+      "Let's Ride",
+      "Get It On Tonite"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Slick Rick classic song was sampled as the foundation for Montell Jordan's #1 hit 'This Is How We Do It'?",
+    "options": [
+      "La Di Da Di",
+      "Mona Lisa",
+      "Children's Story",
+      "Hey Young World"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Blackstreet hit featuring Dr. Dre and Queen Pen spent four weeks at #1 on the Billboard Hot 100 in late 1996?",
+    "options": [
+      "Before I Let You Go",
+      "Don't Leave Me",
+      "Fix",
+      "No Diggity"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Bill Withers track was sampled for the unmistakable rhythm and piano loop in Blackstreet's 'No Diggity'?",
+    "options": [
+      "Grandma's Hands",
+      "Ain't No Sunshine",
+      "Lean on Me",
+      "Use Me"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Who was the pioneering New Jack Swing producer who founded Blackstreet and co-produced 'No Diggity'?",
+    "options": [
+      "Babyface",
+      "Teddy Riley",
+      "Dallas Austin",
+      "L.A. Reid"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Deborah Cox R&B ballad spent a then-record 14 weeks at #1 on the Hot R&B Singles chart and peaked at #2 on the Hot 100 in 1998?",
+    "options": [
+      "Sentimental",
+      "Where Do We Go from Here",
+      "Nobody's Supposed to Be Here",
+      "We Can't Be Friends"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which K-Ci & JoJo slow ballad spent three weeks at #1 on the Billboard Hot 100 in 1998, becoming an all-time wedding favorite?",
+    "options": [
+      "Tell Me It's Real",
+      "Crazy",
+      "Life",
+      "All My Life"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Before performing as a duo, K-Ci & JoJo were the lead vocalists for which multi-platinum 1990s R&B group?",
+    "options": [
+      "Jodeci",
+      "Dru Hill",
+      "Guy",
+      "112"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What 1999 Dru Hill lead singer Sisqó smash reached #3 on the Billboard Hot 100, celebrating female underwear?",
+    "options": [
+      "Incomplete",
+      "Thong Song",
+      "Got to Get It",
+      "Unleash the Dragon"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Sisqó ballad hit #1 on the Billboard Hot 100 for two weeks in August 2000, following the success of 'Thong Song'?",
+    "options": [
+      "How Deep Is Your Love",
+      "Never Make a Promise",
+      "Incomplete",
+      "Tell Me"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Next party anthem topped the Billboard Hot 100 for five weeks in 1998, asking 'Too close? Why you all in my ear?'",
+    "options": [
+      "Wifey",
+      "Butta Love",
+      "I Still Love You",
+      "Too Close"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was the Billboard Year-End #1 single of 1998, finishing ahead of 'The Boy Is Mine'?",
+    "options": [
+      "Too Close by Next",
+      "Truly Madly Deeply by Savage Garden",
+      "You're Still the One by Shania Twain",
+      "My Way by Usher"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Usher single from his 1997 album 'My Way' was his first #1 on the Billboard Hot 100?",
+    "options": [
+      "You Make Me Wanna...",
+      "Nice & Slow",
+      "My Way",
+      "U Remind Me"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Usher ballad peaked at #2 on the Billboard Hot 100 for seven weeks in 1997 and spent 11 weeks at #1 on the R&B chart?",
+    "options": [
+      "Nice & Slow",
+      "My Way",
+      "You Make Me Wanna...",
+      "Think of You"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which 1990 Mariah Carey Christmas recording became a perennial Billboard Hot 100 #1 hit decades after its initial release?",
+    "options": [
+      "Christmas (Baby Please Come Home)",
+      "O Holy Night",
+      "Miss You Most (At Christmas Time)",
+      "All I Want for Christmas Is You"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "In which year did Mariah Carey's 'All I Want for Christmas Is You' finally reach #1 on the Billboard Hot 100, 25 years after its debut?",
+    "options": [
+      "2019",
+      "2015",
+      "2017",
+      "2021"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Sixpence None the Richer pop hit reached #2 on the Billboard Hot 100 in 1999, featured in the teen movie 'She's All That'?",
+    "options": [
+      "There She Goes",
+      "Kiss Me",
+      "Breathe Your Name",
+      "Don't Dream It's Over"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Shawn Colvin folk-pop story song won Grammy Awards for Record and Song of the Year and peaked at #7 on the Hot 100 in 1997?",
+    "options": [
+      "You and the Mona Lisa",
+      "Get Out of This House",
+      "Sunny Came Home",
+      "Round of Blues"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Paula Cole song peaked at #7 on the Billboard Hot 100 in 1997, asking where all the happy endings and cowboys had gone?",
+    "options": [
+      "I Don't Want to Wait",
+      "Me",
+      "Feelin' Love",
+      "Where Have All the Cowboys Gone?"
+    ],
+    "answer": 3,
+    "d": 2
+  }
+]

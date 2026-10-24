@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Frasier",
+    "q": "What are the call letters and dial position of the Seattle radio station where Dr. Frasier Crane hosts his show?",
+    "options": [
+      "KACL 780 AM",
+      "KQZY 920 AM",
+      "KNDD 107.7 FM",
+      "KZOK 102.5 FM"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What is Dr. Frasier Crane's famous signature catchphrase when opening his radio program to callers?",
+    "options": [
+      "How does that make you feel?",
+      "I'm listening.",
+      "Tell me your thoughts.",
+      "Seattle, talk to me."
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Who serves as the producer and call screener of 'The Dr. Frasier Crane Show' for most of the series?",
+    "options": [
+      "Daphne Moon",
+      "Sherry Dempsey",
+      "Roz Doyle",
+      "Maris Crane"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What is the name of Bob 'Bulldog' Briscoe's high-energy sports program on KACL?",
+    "options": [
+      "Seattle Sports Beat",
+      "Bulldog's Locker Room",
+      "The Gridiron Hour",
+      "The Gonzo Sports Show"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What sound effect does Bob 'Bulldog' Briscoe frequently make on the air when hyping up a story or celebrating a victory?",
+    "options": [
+      "Barking like an aggressive dog",
+      "Honking an old car horn",
+      "Screaming a siren whistle",
+      "Clanging a boxing bell"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What catchphrase does Bulldog scream whenever he misplaces his notes or encounters minor frustration?",
+    "options": [
+      "What a crock of garbage!",
+      "This is total BS!",
+      "Are you kidding me?!",
+      "I can't take this anymore!"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What is the title of the culinary critique show hosted by Gil Chesterton on KACL?",
+    "options": [
+      "The Gourmet Palate",
+      "Bistro Banter",
+      "Restaurant Beat",
+      "Fine Dining Northwest"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In which small Wisconsin town was Roz Doyle raised before moving to Seattle?",
+    "options": [
+      "Fond du Lac",
+      "Oshkosh",
+      "Eau Claire",
+      "Bloomer"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What high-ranking state government office did Roz Doyle's mother, Alice Doyle, hold in Wisconsin?",
+    "options": [
+      "Attorney General",
+      "Lieutenant Governor",
+      "Chief Justice of the Supreme Court",
+      "Secretary of State"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What is the name of the annual local awards banquet honoring Seattle radio broadcasting excellence?",
+    "options": [
+      "The Emerald Mics",
+      "The SeaBees",
+      "The Sounders",
+      "The Rainier Trophies"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What language does KACL research staffer Noel Shempsky speak with near-native fluency due to his sci-fi obsession?",
+    "options": [
+      "Elvish",
+      "Esperanto",
+      "Klingon",
+      "Vulcan"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which beloved sci-fi franchise is Noel Shempsky fanatically dedicated to throughout the series?",
+    "options": [
+      "Doctor Who",
+      "Star Wars",
+      "Battlestar Galactica",
+      "Star Trek"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Who is the scruffy, doughnut-loving station manager introduced in Season 6 who previously worked as a DJ called 'The Big Butter'?",
+    "options": [
+      "Kenny Daly",
+      "Ned Miller",
+      "Tom Duran",
+      "Alistair Burke"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What was the name of KACL's loud helicopter traffic reporter who always shouted even while inside the studio?",
+    "options": [
+      "Sky Guy Steve",
+      "Chopper Dave",
+      "Helicopter Hank",
+      "Flyover Phil"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What was the name of the priest who hosted 'Religion on the Line' on KACL during early seasons?",
+    "options": [
+      "Father Frank",
+      "Father Thomas",
+      "Father Mike",
+      "Father Patrick"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In the Season 1 episode 'Selling Out', Frasier signs with an unscrupulous talent agent who convinces him to endorse a Chinese snack. What is her name?",
+    "options": [
+      "Mel Karnofsky",
+      "Kate Costas",
+      "Poppy Delafield",
+      "Bebe Glazer"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What nickname does Frasier frequently give Bebe Glazer due to her ruthless, manipulative nature?",
+    "options": [
+      "Lady Macbeth",
+      "The Black Widow",
+      "The Gorgon",
+      "The Siren of Seattle"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 3, what is the name of the tough, no-nonsense station manager played by Mercedes Ruehl with whom Frasier has a passionate affair?",
+    "options": [
+      "Kelly Kirkland",
+      "Kate Costas",
+      "Karen Cosgrove",
+      "Kristin Carlisle"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What embarrassing on-air nickname did Frasier and Kate Costas inadvertently shout over a live microphone in Season 3?",
+    "options": [
+      "Wild Tigress",
+      "Bad Boy",
+      "Dirty Girl",
+      "Naughty Nymph"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In the Season 7 episode 'They're Playing Our Song', what elaborate musical ensemble does Frasier hire to perform his new show jingle?",
+    "options": [
+      "A four-piece jazz quartet",
+      "A mariachi brass band",
+      "A traditional pipe organist",
+      "A full orchestra and choir"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What simple show jingle did Martin Crane write for Frasier's show, which Frasier initially dismissed as tacky?",
+    "options": [
+      "What's new? I'm listenin'!",
+      "Here in Seattle, we're listenin'!",
+      "Got the blues? Frasier's news!",
+      "Tossed salads, scrambled eggs!"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In the classic Season 4 episode 'Ham Radio', what is the title of the 1940s mystery radio play written and directed by Frasier?",
+    "options": [
+      "Murder in the Mist",
+      "Nightmare Inn",
+      "Terror on Rainier",
+      "The Bellhop Murders"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In 'Ham Radio', who is forced to perform multiple character voices including a dwarf, a German inspector, and an Irish maid?",
+    "options": [
+      "Gil Chesterton",
+      "Noel Shempsky",
+      "Niles Crane",
+      "Martin Crane"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In 'Ham Radio', what character voice does Gil Chesterton insist on performing despite Frasier's script cuts?",
+    "options": [
+      "A Scottish highlander bagpiper",
+      "A Russian sailor",
+      "A Parisian chef",
+      "A childhood monologue about a boyhood in Surrey"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What vocal impediment strikes the voice actor Mel White in 'Ham Radio' after getting dental injections right before the broadcast?",
+    "options": [
+      "Numb lips and slurred speech",
+      "Uncontrollable hiccups",
+      "Laryngitis",
+      "A high-pitched squeak"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In the Season 7 episode 'Radio Wars', what are the on-air monikers of the two morning shock jocks who ruthlessly prank Frasier?",
+    "options": [
+      "Spike and the Dude",
+      "Carlos and the Chicken",
+      "Smiley and the Bear",
+      "Barnaby and the Beast"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What fake award do rival shock jocks 'Carlos and the Chicken' claim to be presenting to Frasier live in his apartment?",
+    "options": [
+      "The Seattle Sucker Plaque",
+      "The Stuffed Shirt Trophy",
+      "The Golden Turkey Award",
+      "The Big Windbag Ribbon"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "What sound effect did Carlos and the Chicken repeatedly edit over clips of Frasier speaking?",
+    "options": [
+      "A donkey braying",
+      "A screaming baby",
+      "A toilet flushing",
+      "A loud fart noise"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 7, who becomes Frasier's temporary producer and quickly overshadows him with her warm, folksy advice and catchphrase 'OK? OK!'?",
+    "options": [
+      "Dr. Mary Thomas",
+      "Dr. Nora Fairchild",
+      "Dr. Clint Webber",
+      "Nurse Linda"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 6, who is the ultra-conservative, judgmental radio host hired by KACL who turns out to have an estranged, scandalous relationship with her own mother?",
+    "options": [
+      "Dr. Kelly Palmer",
+      "Dr. Nora Fairchild",
+      "Dr. Brenda Vance",
+      "Dr. Laura Schlessinger"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which celebrated actress played the sharp-tongued, hypocritical radio host Dr. Nora Fairchild in Season 6?",
+    "options": [
+      "Allison Janney",
+      "Sigourney Weaver",
+      "Christine Baranski",
+      "Glenn Close"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Who played Dr. Nora Fairchild's slovenly, chain-smoking mother whom Frasier brings into the station to expose Nora's hypocrisy?",
+    "options": [
+      "Shelley Winters",
+      "Estelle Parsons",
+      "Eileen Heckart",
+      "Piper Laurie"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 5, Roz gives birth to a baby girl. What name does she give her daughter?",
+    "options": [
+      "Alice",
+      "Emily",
+      "Chloe",
+      "Sarah"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What was the occupation of Rick, the young 20-year-old college student who fathered Roz's baby Alice?",
+    "options": [
+      "KACL sound engineer",
+      "Cafe Nervosa barista",
+      "Architecture student",
+      "French tutor"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What distinctive physical trait does Rick's family possess that Roz fears baby Alice might inherit?",
+    "options": [
+      "Unusually large ears",
+      "Bright red curly hair",
+      "A giant, prominent nose",
+      "Webbed toes"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What is the name of Roz Doyle's high-achieving, competitive sister who frequently visits from Wisconsin?",
+    "options": [
+      "Diane",
+      "Donna",
+      "Deborah",
+      "Denise"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 5, when KACL switches to an all-salsa music format, what new job does Bulldog end up taking to make ends meet?",
+    "options": [
+      "Pizza delivery driver",
+      "Sporting goods salesman",
+      "Used car dealer",
+      "Security guard"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What Latin music format did the station owner briefly convert KACL to when Frasier and the entire talk staff were fired?",
+    "options": [
+      "Mariachi classics",
+      "All-salsa music",
+      "Tejano pop",
+      "Reggaeton"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Who buys KACL and restores the original talk radio format in Season 6, saving Frasier and the staff from unemployment?",
+    "options": [
+      "Frasier and Niles Crane",
+      "Martin's wealthy buddy Duke",
+      "A local billionaire who loves Gil Chesterton's restaurant tips",
+      "Roz's mother Alice"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "What is the name of Gil Chesterton's mysterious, never-seen wife whom KACL staffers repeatedly doubt even exists?",
+    "options": [
+      "Babs",
+      "Pam",
+      "Beth",
+      "Deb"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What unexpected trade or business does Gil Chesterton claim his wife Deb operates?",
+    "options": [
+      "An auto-body repair shop",
+      "A commercial fishing boat",
+      "A demolition derby track",
+      "A lumber mill"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What breed was Deb's prize-winning dog that Gil proudly discusses, which staffers initially suspected was Deb herself?",
+    "options": [
+      "A miniature schnauzer",
+      "A Sarah Lawrence-educated cat",
+      "A champion boxer",
+      "An Afghan hound"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 1, what product endorsement offer tests Frasier's ethical integrity when Bebe Glazer presents the contract?",
+    "options": [
+      "Rainier bottled water",
+      "Pacific Roast coffee beans",
+      "The Golden Lotus diet salad dressing",
+      "Dr. Crane's calming herbal tea"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 4, Bebe Glazer orchestrates a daring stunt to negotiate a massive raise for Frasier. What does she do?",
+    "options": [
+      "Chains herself to the KACL broadcast console",
+      "Kidnaps the station manager's dog",
+      "Fakes a medical emergency during a live broadcast",
+      "Threatens to jump off the ledge of the radio station building"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What bad habit does Bebe Glazer attempt to quit in Season 3, prompting her to stay at Frasier's apartment under his care?",
+    "options": [
+      "Cigarette smoking",
+      "Compulsive gambling",
+      "Drinking martinis",
+      "Shopifting jewelry"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In the Season 1 episode 'The Crucible', what does Frasier discover about an expensive painting he purchased from a local gallery?",
+    "options": [
+      "It was painted by a convicted felon",
+      "It was not painted by Martha Paxton, but was a forgery",
+      "It was stolen from the Seattle Art Museum",
+      "It was painted upside down"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 2's 'The Matchmaker', who is the new KACL station manager whom Frasier invites home to date Daphne, unaware he is gay?",
+    "options": [
+      "Ned Miller",
+      "Alistair Burke",
+      "Tom Duran",
+      "Kenny Daly"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In 'The Matchmaker', what drink does Tom Duran order that Frasier interprets as refined, but Martin finds suspicious?",
+    "options": [
+      "A dry martini",
+      "A white port",
+      "A cosmopolitan",
+      "A sherry"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Who played station manager Tom Duran in the celebrated Season 2 episode 'The Matchmaker'?",
+    "options": [
+      "Eric Lutes",
+      "John Glover",
+      "Victor Garber",
+      "Campbell Scott"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In the Season 1 finale 'My Coffee with Niles', Frasier and Niles spend the entire episode seated where?",
+    "options": [
+      "The Elliott Bay Marina",
+      "Cafe Nervosa",
+      "The Seattle Public Library",
+      "The KACL break room"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In 'My Coffee with Niles', what big philosophical question does Niles ask Frasier right at the start of the episode?",
+    "options": [
+      "Do you miss Boston?",
+      "Do you ever regret moving?",
+      "Are you happy?",
+      "Was father right?"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 1's 'Call Me Irresponsible', with whom does Frasier become romantically involved after advising her boyfriend to dump her?",
+    "options": [
+      "Maris's personal trainer",
+      "Bulldog's sister",
+      "A KACL sound technician",
+      "Catherine, the caller Marco's ex-girlfriend"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which actress played Catherine in 'Call Me Irresponsible'?",
+    "options": [
+      "Amanda Donohoe",
+      "JoBeth Williams",
+      "Glenne Headly",
+      "Mercedes Ruehl"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 3's 'Look Before You Leap', what leap year advice does Frasier give his listeners that backfires spectacularly?",
+    "options": [
+      "Forgive your worst enemy face to face",
+      "Take a big leap and do something bold you've always feared",
+      "Quit your job and follow your artistic passion",
+      "Tell your true love your feelings without delay"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In 'Look Before You Leap', what classic song does Frasier disastrously attempt to sing live on television after his voice cracks?",
+    "options": [
+      "My Way",
+      "Oklahoma!",
+      "Buttons and Bows",
+      "Send in the Clowns"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What bizarre substitute lyrics does Frasier sing during 'Buttons and Bows' when he completely forgets the words?",
+    "options": [
+      "Where the wind blows free through the apple tree!",
+      "Down in the valley where the lilies bloom!",
+      "Silver bells and wishing wells in the snow!",
+      "Let's all go to a taco show / With a hip-hip hooray and a ballyhoo!"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In the Season 4 episode 'The Focus Group', what is the name of the lone man who dislikes Frasier's show, driving Frasier to obsession?",
+    "options": [
+      "Manu",
+      "Tony",
+      "Ramon",
+      "Ganesh"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "What type of small retail shop does Manu run in 'The Focus Group'?",
+    "options": [
+      "A dry cleaner",
+      "A newsstand and tobacco kiosk",
+      "A flower shop",
+      "A bakery"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "How does Frasier accidentally destroy Manu's newsstand at the climax of 'The Focus Group'?",
+    "options": [
+      "He backs his BMW into the shop front",
+      "He knocks over an electrical display heater",
+      "He drops a dropped match / lighter that sets the newspapers ablaze",
+      "He sets off the sprinkler system"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 5's 'The Candidate', what bizarre belief does congressional candidate Phil Patterson reveal to Frasier after Frasier endorses him?",
+    "options": [
+      "He believes the earth is completely hollow",
+      "He believes the government controls the weather with radar",
+      "He thinks he is the reincarnation of Thomas Jefferson",
+      "He was abducted by extraterrestrials who probed his mind"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In 'The Candidate', what television endorsement does Frasier shoot to try to backtrack gracefully?",
+    "options": [
+      "He expresses grave reservations about Phil Patterson's mental stability",
+      "He announces he is running for congress himself",
+      "He endorses Patterson's corrupt opponent",
+      "He breaks down in tears and begs viewers to forgive him"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What is the name of the high-society Seattle health and athletic club where Frasier and Niles play squash?",
+    "options": [
+      "The Rainier Tennis Club",
+      "The Seattle Athletic Club",
+      "The Cascade Health Spa",
+      "The Emerald City Racquet Club"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In the Season 6 episode 'Roz, a Loan', why does Roz become furious after borrowing $1,500 from Frasier?",
+    "options": [
+      "Frasier charges her high interest",
+      "Frasier tells all of KACL that she is bankrupt",
+      "Frasier monitors and judges every single purchase she makes",
+      "Frasier asks for collateral in vintage jewelry"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 2's 'Flour Child', what does Niles carry around for a week to test his readiness for fatherhood?",
+    "options": [
+      "A raw egg in a velvet box",
+      "A porcelain doll with a crying audio chip",
+      "A mechanical baby monkey",
+      "A 10-pound sack of flour dressed in baby clothes"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What tragic accident befalls Niles's flour child at the end of the experiment?",
+    "options": [
+      "It catches fire and is torn open by Eddie",
+      "It falls off the balcony into Puget Sound",
+      "It is baked into banana bread by Daphne",
+      "It gets dropped down an elevator shaft"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 4's 'Are You Being Served?', what legal document does Niles present to Maris in an attempt to finalize their divorce?",
+    "options": [
+      "A court order delivered by a singing telegram",
+      "A petition signed on a vintage legal parchment",
+      "A decree taped to her Mercedes windshield",
+      "A subpoena served at her health spa"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In the Season 1 episode 'A Mid-Winter Night's Dream', why are Niles and Daphne stranded alone overnight at Niles and Maris's mansion?",
+    "options": [
+      "The security system accidentally locks them in",
+      "Daphne loses her car keys in the snow",
+      "A severe winter windstorm knocks out power and blocks roads",
+      "Maris takes both sets of car keys to Zurich"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What is the name of Maris Crane's grand, sprawling estate where Niles lives during their marriage?",
+    "options": [
+      "Rainier Manor",
+      "Oakhaven Crest",
+      "Bellevue Hall",
+      "The Shangri-La is Niles's later bachelor pad; the estate is simply Maris's family mansion"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "What is the name of the run-down apartment complex where Niles is forced to live while his assets are frozen during the divorce?",
+    "options": [
+      "The Shangri-La",
+      "El Dorado Court",
+      "Paradise Arms",
+      "Cascade Vista"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What bizarre wall bed feature does Niles's bachelor apartment at the Shangri-La possess?",
+    "options": [
+      "A waterbed with an uncontrollable wave heater",
+      "A Murphy bed that snaps violently shut when he lies down",
+      "A bunk bed designed for military barracks",
+      "A futon that folds into a dining table"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What eccentric pet bird does Niles adopt while living at the Shangri-La, which glues itself to his head in 'To Tell the Truth'?",
+    "options": [
+      "Plato, an African grey parrot",
+      "Puck, a green parakeet",
+      "Baby, a cockatoo",
+      "Horace, a white cockatiel"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 8's 'Hooping Cranes', how does Frasier inadvertently become a Seattle sports hero during a Supersonics basketball game?",
+    "options": [
+      "He saves the team mascot from an electrical fire",
+      "He catches a wild pass from the VIP courtside seats",
+      "He successfully psychoanalyzes the star point guard",
+      "He sinks a miracle half-court shot during a fan contest"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What NBA basketball team did Martin Crane and the Crane brothers watch in Seattle throughout the series?",
+    "options": [
+      "The Seattle SuperSonics",
+      "The Portland Trail Blazers",
+      "The Golden State Warriors",
+      "The Vancouver Grizzlies"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What was the name of the eccentric, gravelly voiced janitor and handyman at KACL played by Cleto Augusto?",
+    "options": [
+      "Gus",
+      "Chopper Dave's engineer or Frank",
+      "Sal",
+      "Manny"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 3's 'Frasier Loves Roz', why does Niles mistakenly believe Frasier and Roz are deeply in love?",
+    "options": [
+      "He finds a love letter written by Frasier on Roz's desk",
+      "He overhears them whispering passionately in the sound booth",
+      "He misinterprets Frasier's advice to Roz about her new boyfriend",
+      "He spots them embracing outside a romantic restaurant"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 1's 'Burying a Grudge', where does Martin Crane run into his former police partner Artie Walsh?",
+    "options": [
+      "At Duke's bar during a retirement party",
+      "At the Seattle police precinct gun range",
+      "At an all-night diner near Pioneer Square",
+      "In a hospital room after Artie suffers a medical condition"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What longtime grievance did Martin harbor against his old police partner Artie Walsh?",
+    "options": [
+      "Artie had an affair with Martin's favorite waitress",
+      "Artie lost Martin's favorite antique revolver",
+      "Artie failed to back Martin up during a store robbery",
+      "Artie won a bet and refused to pay Martin back"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In the Season 6 premiere 'No Exit', where do Frasier, Niles, Martin, and Daphne get trapped in awkward confrontations?",
+    "options": [
+      "In an airport terminal during a blizzard",
+      "In separate adjoining dressing rooms and hallways at a department store",
+      "In the service elevator of Elliot Bay Towers",
+      "In the storage cellar of Cafe Nervosa"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 8's 'Motor Skills', what adult education class do Frasier and Niles enroll in, only to become disruptive class clowns?",
+    "options": [
+      "French cooking",
+      "Pottery making",
+      "Basic auto mechanics",
+      "Wine appreciation"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Who is the no-nonsense auto mechanics instructor who repeatedly scolds Frasier and Niles for passing notes and talking?",
+    "options": [
+      "Mr. Henderson",
+      "Mr. Kowalski",
+      "Mr. Carlson",
+      "Mr. Randy"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 9's 'The Two Hundredth', what landmark milestone does Frasier celebrate on the air?",
+    "options": [
+      "His 2,000th radio broadcast on KACL",
+      "His 1,000th broadcast",
+      "His 500th broadcast",
+      "His 10th anniversary on the air"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What obsessive problem ruins Frasier's 2,000th broadcast celebration?",
+    "options": [
+      "He loses his voice five minutes before going live",
+      "He discovers that Tape #312 is missing from his comprehensive personal archive",
+      "The mayor cancels the ceremonial city proclamation",
+      "Niles refuses to attend the celebration banquet"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Who possesses the missing Tape #312 of Frasier's broadcast archive in 'The Two Hundredth'?",
+    "options": [
+      "Roz, who taped over it with her nephew's birthday party",
+      "Bulldog, who used it to record a football game",
+      "An eccentric superfan named Tom who refuses to give it up easily",
+      "Martin, who accidentally recorded a Mariners game over it"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which veteran actor played Tom, the obsessive superfan who owned the missing tape in 'The Two Hundredth'?",
+    "options": [
+      "Bob Balaban",
+      "Stephen Root",
+      "Richard Kind",
+      "Adam Arkin"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 10's 'Star Mitzvah', what language does Noel Shempsky deliberately trick Frasier into reciting during Frederick's Bar Mitzvah?",
+    "options": [
+      "Klingon instead of Hebrew",
+      "Esperanto instead of Yiddish",
+      "Latin instead of Aramaic",
+      "Welsh instead of Hebrew"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Why does Noel trick Frasier into speaking Klingon at Frederick's Bar Mitzvah?",
+    "options": [
+      "Frasier refused to recommend Noel for a salary raise",
+      "Frasier failed to get Noel an autograph from William Shatner",
+      "Noel caught Frasier kissing Roz at the station",
+      "Frasier laughed at Noel's Star Trek uniform"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 4's 'To Kill a Talking Bird', what party is Niles hosting when his bird Baby attaches itself to his scalp?",
+    "options": [
+      "A celebration for his election as Wine Club Corkmaster",
+      "A birthday celebration for Martin",
+      "A dinner party to impress the tenants' board at his new building, The Montana",
+      "A reception for the Seattle Symphony board"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "What strict rule at The Montana does Niles violate by keeping Baby in his apartment?",
+    "options": [
+      "A prohibition against live plants on balconies",
+      "A restriction on wood-burning fireplaces",
+      "A ban on playing musical instruments after 8 PM",
+      "A strict 'no pets' covenant in the building charter"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "What prestigious apartment building does Niles eventually move into after leaving The Shangri-La?",
+    "options": [
+      "The Montana",
+      "The Dakota",
+      "The Cascadian",
+      "The Olympic Crest"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 5's 'The Zoo Story', who is the aggressive zoo monkey named after Frasier Crane?",
+    "options": [
+      "Crane the baboon",
+      "Frasier the chimp",
+      "Doc the orangutan",
+      "Niles the capuchin"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 2's 'Seat of Power', why do Frasier and Niles hire a plumber who turns out to be their middle school bully?",
+    "options": [
+      "To repair a leak in Niles's wine cellar",
+      "To install a luxury bidet for Maris",
+      "To fix a malfunctioning high-end toilet in Frasier's apartment",
+      "To clear a clogged drain at Cafe Nervosa"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "What was the name of the childhood bully who attends to Frasier's plumbing in 'Seat of Power'?",
+    "options": [
+      "Billy Jenkins",
+      "Chet Higgins",
+      "Butch Thompson",
+      "Danny Kriezel"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 3's 'The Show Where Diane Comes to Town', which former 'Cheers' star visits Frasier in Seattle to stage her play?",
+    "options": [
+      "Diane Chambers (Shelley Long)",
+      "Rebecca Howe (Kirstie Alley)",
+      "Carla Tortelli (Rhea Perlman)",
+      "Sam Malone (Ted Danson)"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What is the subject of the play Diane Chambers writes and stages in Seattle in 'The Show Where Diane Comes to Town'?",
+    "options": [
+      "A Victorian murder mystery set in Surrey",
+      "Her experiences working at a Boston bar with caricatures of Frasier and Sam",
+      "A psychological drama about an unfaithful psychiatrist",
+      "A romantic comedy set in an art museum"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 2's 'The Show Where Sam Shows Up', why does Sam Malone visit Frasier in Seattle?",
+    "options": [
+      "He wants Frasier to buy a minority share in Cheers",
+      "He is scouting locations to open a Seattle sports tavern",
+      "He left his fiancée at the altar because she slept with other men",
+      "He wants Frasier to psychoanalyze his baseball pitching yips"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In 'The Show Where Sam Shows Up', what shocking confession does Sam's fiancée Sheila make to Frasier?",
+    "options": [
+      "She had an affair with Cliff Clavin",
+      "She never actually loved Sam",
+      "She was secretly married to a baseball umpire",
+      "She had previously slept with Frasier's brother Niles"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which actress played Sam Malone's unfaithful fiancée Sheila in 'The Show Where Sam Shows Up'?",
+    "options": [
+      "Tea Leoni",
+      "Courteney Cox",
+      "Elisabeth Shue",
+      "Helen Hunt"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 9's 'The Show Where Woody Shows Up', what does Woody Boyd do that drives Frasier crazy during his visit to Seattle?",
+    "options": [
+      "He accidentally breaks Frasier's Dale Chihuly glass vase",
+      "He overstays his welcome and has nothing in common with Frasier anymore",
+      "He insults Martin's taste in Ballantine beer",
+      "He attempts to get hired as a KACL radio producer"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In Season 11's 'Caught in the Act', who catches Frasier in a compromising position backstage inside a giant children's entertainer costume?",
+    "options": [
+      "Roz Doyle and her daughter Alice",
+      "Station manager Kenny Daly",
+      "His ex-wife Nanny G's jealous husband",
+      "Martin Crane and Duke"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which famous actress played Frasier's first wife, children's entertainer Nanette Guzman ('Nanny G'), in Season 11?",
+    "options": [
+      "Dina Spybey",
+      "Emma Thompson",
+      "Patricia Heaton",
+      "Laurie Metcalf"
+    ],
+    "answer": 3,
+    "d": 3
+  }
+]

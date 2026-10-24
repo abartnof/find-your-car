@@ -1,0 +1,630 @@
+import json
+
+# 100 questions for Batch 3 (Seasons 8-10 Classic Golden Era Lore & Quotes)
+# Distribution: 25 answer 0, 25 answer 1, 25 answer 2, 25 answer 3
+# Difficulty: 30 d1, 40 d2, 30 d3
+
+raw_questions = [
+    # --- Group 0: Answer index 0 (25 questions) ---
+    {
+        "q": "In 'You Only Move Twice', what high-tech supervillain employer does Homer work for at Globex Corporation?",
+        "options": ["Hank Scorpio", "Ernst Stavro Blofeld", "Dr. Colossus", "Arthur Fortune"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'The Homer They Fall', which heavyweight boxing champion does Homer survive several rounds against before Moe rescues him?",
+        "options": ["Drederick Tatum", "Mike Tyson", "Carl 'The Truth' Williams", "Boxcar Bob"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'The City of New York vs. Homer Simpson', what street vendor food does Homer desperately purchase outside the World Trade Center?",
+        "options": ["Khlav Kalash and crab juice", "Hot dogs and soda", "Falafel and water", "Pretzels and cider"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Homer's Enemy', what is the name of Homer's hardworking, tragic new coworker at the nuclear plant who is driven insane by Homer's incompetence?",
+        "options": ["Frank Grimes", "Karl", "Eugene Fisk", "Larry Burns"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'The Cartridge Family', how many days is Homer forced to wait under the mandatory gun-purchase waiting period?",
+        "options": ["5 days", "10 days", "3 days", "7 days"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'The Joy of Sect', what is the mysterious supreme figure worshipped by the Movementarians cult called?",
+        "options": ["The Leader", "The Father", "The Shepherd", "The Builder"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Trash of the Titans', which iconic rock band appears at their Springfield tour stop and gets interrupted by Homer on stage?",
+        "options": ["U2", "The Rolling Stones", "Aerosmith", "The Who"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'The Wizard of Evergreen Terrace', which historical inventor inspires Homer to leave a legacy through eccentric home inventions?",
+        "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Benjamin Franklin"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Lisa Gets an \"A\"', what pet lobster does Homer adopt, fatten up, and accidentally boil for dinner while crying?",
+        "options": ["Pinchy", "Claws", "Shelly", "Barnacle"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Viva Ned Flanders', what are the names of the two cocktail waitresses Homer and Ned accidentally marry in Las Vegas?",
+        "options": ["Amber and Ginger", "Crystal and Tiffany", "Brandy and Candy", "Lurleen and Selma"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'Homer to the Max', what cool new legal name does Homer adopt after a television character named Homer Simpson makes him a laughingstock?",
+        "options": ["Max Power", "Hercules Rockefeller", "Rembrandt Q. Einstein", "Handsome B. Wonderful"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Maximum Homerdrive', what secret device in long-haul semi-trucks do truckers hide from the general public?",
+        "options": ["An automated self-driving system (Navitron Autodrive)", "Nitrous oxide fuel boosters", "Hidden radar detectors", "Built-in espresso bars"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'They Saved Lisa's Brain', which renowned theoretical physicist guest stars to assess Mensa's control of Springfield?",
+        "options": ["Stephen Hawking", "Carl Sagan", "Neil deGrasse Tyson", "Richard Feynman"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'The Mysterious Voyage of Our Homer', what hallucinogenic ingredient causes Homer's surreal spiritual vision in the desert?",
+        "options": ["The Merciless Peppers of Quetzalacatenango (Guatemalan Insanity Pepper)", "Blinky fish venom", "Spit-roasted peyote buttons", "Nuclear chili powder"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'In Marge We Trust', what Japanese dishwashing product features Homer's face combined with a fish and a lightbulb?",
+        "options": ["Mr. Sparkle", "Happy Detergent", "Shine Master", "Sparkle King"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Bart After Dark', what burlesque house does Bart secretly work at after accidentally damaging a stone gargoyle?",
+        "options": ["The Maison Derriere", "The Velvet Grotto", "The Springfield Follies", "The Pink Cabaret"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'A Milhouse Divided', what drawing does Kirk Van Houten fail to get his wife Luann to guess during Pictionary, prompting their divorce?",
+        "options": ["Dignity", "A cat", "Freedom", "Love"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Simpsoncalifragilisticexpiala(D'oh)cious', what eccentric British nanny arrives by umbrella to help the stressed Simpson household?",
+        "options": ["Shary Bobbins", "Mary Poppins", "Nanny McPhee", "Nanny Fine"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'The Itchy & Scratchy & Poochie Show', what new cartoon character voiced by Homer is introduced to boost declining ratings?",
+        "options": ["Poochie", "Roy", "Roach", "Scrappy"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'Lisa's Sax', how did young Lisa's original saxophone get destroyed, prompting Homer to tell the story of its purchase?",
+        "options": ["Bart tossed it out of an open upstairs bedroom window into street traffic", "Homer sat on it on the couch", "Santa's Little Helper buried it in the yard", "It was crushed under the school bus wheels"],
+        "answer": 0,
+        "d": 3
+    },
+    {
+        "q": "In 'Lard of the Dance', what business scheme do Homer and Bart start by stealing grease from Krusty Burger and the school cafeteria?",
+        "options": ["Recycling kitchen grease for money", "Selling homemade soap", "Running a biodiesel taxi", "Making tallow candles"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'Wild Barts Can't Be Broken', what town-wide restriction is placed on all Springfield children after the Isotopes win the pennant?",
+        "options": ["A strict nighttime curfew", "A ban on skateboards", "Mandatory Saturday school", "Confiscation of all radios"],
+        "answer": 0,
+        "d": 2
+    },
+    {
+        "q": "In 'Monty Can't Buy Me Love', what Scottish legendary beast does Mr. Burns travel to Loch Ness to capture for public adulation?",
+        "options": ["The Loch Ness Monster", "The Kelpie", "Morag", "The Nessie Beast"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'The Two Mrs. Nahasapeemapetilons', who does Apu marry in an elaborate Hindu ceremony in the Simpsons' backyard?",
+        "options": ["Manjula", "Sanjay", "Kavi", "Priya"],
+        "answer": 0,
+        "d": 1
+    },
+    {
+        "q": "In 'The Old Man and the Lisa', what animal slurry product does Mr. Burns manufacture after losing his nuclear power plant?",
+        "options": ["Li'l Lisa's Patented Animal Slurry", "Burns Bio-Paste", "Ocean Goo Supreme", "Mr. Burns Recycle Mash"],
+        "answer": 0,
+        "d": 2
+    },
+
+    # --- Group 1: Answer index 1 (25 questions) ---
+    {
+        "q": "In 'You Only Move Twice', what professional football team does Hank Scorpio give Homer as a farewell thank-you gift?",
+        "options": ["The Dallas Cowboys", "The Denver Broncos", "The New England Patriots", "The Green Bay Packers"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'The Springfield Files', which FBI agents from The X-Files travel to Springfield to investigate Homer's alien sighting?",
+        "options": ["Skinner and Krycek", "Fox Mulder and Dana Scully", "Doggett and Reyes", "Lone Gunmen"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'The Twisted World of Marge Simpson', what snack food franchise business does Marge invest in and operate from a wagon?",
+        "options": ["Fleet-A-Pita", "The Pretzel Wagon", "Donut Delight", "Cinn-A-Bite"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Homer vs. the Eighteenth Amendment', what famous alias does Homer adopt while illegally bootlegging liquor into Moe's tavern?",
+        "options": ["The Moonshine King", "The Beer Baron", "The Speakeasy Kid", "The Duff Bandit"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'The Principal and the Pauper', what is revealed to be Seymour Skinner's real birth name before stealing the real Skinner's identity in Vietnam?",
+        "options": ["Chester Lampwick", "Armin Tamzarian", "Frank Grimes", "Leon Kompowsky"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Lisa the Skeptic', what controversial discovery in an excavation trench leads Springfield to believe an angel skeleton has been unearthed?",
+        "options": ["A giant carved feather", "A skeleton with feathered stone wings", "A stone tablet with commandments", "A fossilized halo"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Trash of the Titans', what slogan helps Homer defeat Ray Patterson to become the town's Sanitation Commissioner?",
+        "options": ["Keep Springfield Clean!", "Can't Someone Else Do It?", "Garbage Out, Dollars In!", "Trash is Cash!"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Mayored to the Mob', which iconic Star Wars actor does Homer save from unruly nerds at the Springfield Bi-Mon-Sci-Fi-Con?",
+        "options": ["Harrison Ford", "Mark Hamill", "Carrie Fisher", "James Earl Jones"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Thirty Minutes Over Tokyo', what humiliating Japanese television game show do the Simpsons compete on to win plane tickets home?",
+        "options": ["Iron Chef", "The Happy Smile Super Challenge Family Wish Show", "Takeshi's Castle", "Ninja Warrior"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Burns, Baby Burns', which comedy legend guest stars as Mr. Burns' unrefined, long-lost son Larry Burns?",
+        "options": ["Don Rickles", "Rodney Dangerfield", "Bob Newhart", "Milton Berle"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Hurricane Neddy', what medical treatment did Ned Flanders undergo as a child that repressed all his natural anger?",
+        "options": ["Shock therapy", "The University of Minnesota Spankological Protocol", "Herbal tranquilizers", "Hypnotic suggestion"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Homer's Phobia', which cult filmmaker and actor guest stars as John, an antique dealer who befriends the Simpson family?",
+        "options": ["David Lynch", "John Waters", "Quentin Tarantino", "Jim Jarmusch"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Grade School Confidential', where do Principal Skinner and Mrs. Krabappel hide out after their romance is discovered at Martin's birthday?",
+        "options": ["Moe's Tavern", "Springfield Elementary School", "The Android's Dungeon", "The Aztec Theater"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'The Canine Mutiny', what purebred, highly trained collie does Bart purchase with a fraudulent credit card?",
+        "options": ["Colt", "Laddie", "Buster", "Rover"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'Bart Star', which former NFL quarterback stops by Springfield to help Homer coach peewee football, only to be constantly cut?",
+        "options": ["John Elway", "Joe Namath", "Dan Marino", "Troy Aikman"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Realty Bites', which shady lawyer works as a real estate agent at Red Blazer Realty under the alias Miguel Sanchez?",
+        "options": ["Gil Gunderson", "Lionel Hutz", "Blue-Haired Lawyer", "Professor Frink"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Bart Carny', what father-and-son carnival workers take over the Simpsons' house after losing their ring-toss booth?",
+        "options": ["Billy and Jethro", "Cooder and Spud", "Cletus and Brandine", "Snake and Jeremy"],
+        "answer": 1,
+        "d": 3
+    },
+    {
+        "q": "In 'Das Bus', what William Golding classic novel is parodied when the Springfield Elementary kids are stranded on a deserted island?",
+        "options": ["Treasure Island", "Lord of the Flies", "Robinson Crusoe", "The Coral Island"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'The Last Temptation of Krust', what massive gas-guzzling sport utility vehicle does Krusty endorse in commercials?",
+        "options": ["The Ferdinand F-150", "The Canyonero", "The Goliath XL", "The Mammothtruck"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'King of the Hill', what peak does Homer attempt to climb to impress Bart and promote Powersauce energy bars?",
+        "options": ["Mount Springfield", "The Murderhorn", "Widow's Peak", "Devil's Needle"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Bart the Mother', what creature hatches from the bird eggs Bart incubated after accidentally killing a bird?",
+        "options": ["Poisonous vipers", "Bolivian tree lizards", "Rare eagles", "Killer pigeons"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'When You Dish Upon a Star', what Hollywood celebrity couple does Homer befriend at their secluded Springfield vacation home?",
+        "options": ["Tom Hanks and Rita Wilson", "Alec Baldwin and Kim Basinger", "Bruce Willis and Demi Moore", "Brad Pitt and Jennifer Aniston"],
+        "answer": 1,
+        "d": 1
+    },
+    {
+        "q": "In 'D'oh-in in the Wind', what are the names of the two aging hippies running the organic juice company who knew Homer's mother?",
+        "options": ["Rainbow and Moonbeam", "Seth and Munchie", "Peace and Love", "Woodstock and Jerry"],
+        "answer": 1,
+        "d": 3
+    },
+    {
+        "q": "In 'Homer Simpson in: \"Kidney Trouble\"', which family member's kidneys explode because Homer refuses to pull over the car?",
+        "options": ["Uncle Herb", "Grampa Simpson", "Uncle Chet", "Aunt Selma"],
+        "answer": 1,
+        "d": 2
+    },
+    {
+        "q": "In 'Sunday, Cruddy Sunday', what fake travel agent scampers off with Homer and the guys' bogus tickets to Super Bowl XXXIII?",
+        "options": ["Lionel Hutz", "Wally Kogen", "Gil Gunderson", "Lyle Lanley"],
+        "answer": 1,
+        "d": 3
+    },
+
+    # --- Group 2: Answer index 2 (25 questions) ---
+    {
+        "q": "In 'You Only Move Twice', where does Hank Scorpio tell Homer he can purchase hammocks in Cypress Creek?",
+        "options": ["The Bed and Bath District", "The Furniture Alley", "The Hammock District on Third", "The Cypress Creek Plaza"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'Treehouse of Horror VII', who are the two space aliens who disguise themselves as Bill Clinton and Bob Dole in the 1996 election?",
+        "options": ["Gork and Morork", "Xerxes and Zod", "Kang and Kodos", "Klingon and Romulan"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'A Milhouse Divided', what pathetic bachelor demo cassette tape does Kirk Van Houten play for Homer after getting divorced?",
+        "options": ["Alone Again, Naturally", "Crying in the Dark", "Can I Borrow a Feeling?", "Bachelor Blues"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'Mountain of Madness', with whom is Homer paired during the nuclear power plant's winter team-building retreat at Mt. Useful?",
+        "options": ["Lenny Leonard", "Waylon Smithers", "Mr. Burns", "Carl Carlson"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'The Itchy & Scratchy & Poochie Show', what bizarre twist ends Poochie's brief tenure on the cartoon series?",
+        "options": ["He is hit by a falling anvil", "He gets arrested by the police", "A subtitle states he died on the way back to his home planet", "He falls off a surfboard into a volcano"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'Homer vs. the Eighteenth Amendment', what treasury officer arrives in Springfield to strictly enforce the town's forgotten prohibition law?",
+        "options": ["Eliot Ness", "J. Edgar Hoover", "Rex Banner", "Frank Drebin"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'The Canine Mutiny', what fake name does Bart write on his pre-approved credit card application to receive a gold card?",
+        "options": ["Bart Simpson Jr.", "Charles Montgomery Burns", "Santos L. Halper", "Homer J. Simpson"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Homer's Enemy', what children's model competition does Frank Grimes trick Homer into entering, hoping to expose his idiocy?",
+        "options": ["The Springfield Science Fair", "The Lego Architectural Challenge", "A contest to design a nuclear power plant for children", "The junior derby builder showdown"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'The Secret War of Lisa Simpson', what harrowing obstacle course challenge must Lisa complete to graduate from Rommelwood Military Academy?",
+        "options": ["The Gauntlet", "The Death Mile", "The Eliminator", "The Iron Barricade"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'The City of New York vs. Homer Simpson', why is Homer's car stranded at the World Trade Center for months?",
+        "options": ["It ran out of engine oil", "The tires were completely slashed", "Barney abandoned it there with a wheel boot attached", "The keys were locked in the trunk"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'The Cartridge Family', what firearm accessory does Homer use to speed up everyday household tasks, including turning off the TV?",
+        "options": ["A laser pointer", "A silencer", "A handgun (revolver)", "A shotgun with buckshot"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Lisa the Simpson', what genetic condition does Grampa reveal causes all Simpson males to lose their intelligence in adolescence?",
+        "options": ["The Homer Syndrome", "The J-Chromosome Defect", "The Simpson Gene", "The Baldness Factor"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'This Little Wiggy', what does Ralph Wiggum show Bart that allows them into any building or storefront in Springfield after hours?",
+        "options": ["A lockpick gun", "A crowbar from Herman's shop", "The Master Skeleton Key to the City of Springfield", "Chief Wiggum's official police badge"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Lost Our Lisa', what bus route does Lisa accidentally board when trying to visit the Springfield Museum's treasures of Isis?",
+        "options": ["The Number 24 Downtown", "The 12 Express", "The Route 22 bus to the boondocks", "The Crosstown 7"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "In 'Natural Born Kissers', where do Homer and Marge find their marital spark rekindled through the thrill of public romance?",
+        "options": ["In an elevator at the mall", "In the Springfield Library", "In a miniature golf course windmill", "In the back of a movie theater"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Treehouse of Horror IX', whose executed criminal hair is transplanted onto Homer's head, turning him into a murderer?",
+        "options": ["Sideshow Bob", "Fat Tony", "Snake Jailbird", "Frankie the Squealer"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'I'm with Cupid', what romantic gesture does Apu hire a skywriter to perform for Manjula, making every husband in Springfield look bad?",
+        "options": ["Write 'I Love You Manjula' in chocolate", "Drop thousands of rose petals on the town", "Write 'I Love You Manjula' across the sky in smoke", "Fly a massive diamond ring across town"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Mom and Pop Art', what failed backyard assembly of concrete and bricks turns Homer into a celebrated outsider artist?",
+        "options": ["A birdbath", "A pizza oven", "A barbecue pit", "A brick doghouse"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'The Old Man and the \"C\" Student', why does the International Olympic Committee revoke Springfield's selection to host the Summer Games?",
+        "options": ["The stadium collapsed during testing", "The water supply was irradiated", "Bart's offensive stand-up routine mocking foreign delegates", "Homer ate all the ceremonial food"],
+        "answer": 2,
+        "d": 3
+    },
+    {
+        "q": "In 'Brother from Another Series', which actor (who played Frasier Crane's brother Niles) voices Sideshow Bob's brother Cecil?",
+        "options": ["John Mahoney", "Ted Danson", "David Hyde Pierce", "Woody Harrelson"],
+        "answer": 2,
+        "d": 1
+    },
+    {
+        "q": "In 'My Sister, My Sitter', what does Lisa use to transport an injured, unconscious Bart through town to Dr. Nick's clinic?",
+        "options": ["A red wagon", "A grocery cart", "A wheelbarrow", "A skateboard"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Miracle on Evergreen Terrace', what does Bart accidentally do to the family Christmas tree on Christmas morning?",
+        "options": ["Knocks it over into the fireplace", "Pours gasoline on it", "Melted it and burned the presents with a toy fire truck", "Electrocutes it with faulty lights"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Dumbbell Indemnity', what does Moe ask Homer to do to his car so Moe can collect insurance money for his date with Renee?",
+        "options": ["Push it off a cliff", "Burn it with gasoline", "Park it on the railroad tracks and leave it to be hit by a train", "Dump it in Lake Springfield"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'Make Room for Lisa', what therapy device do Homer and Lisa float inside to bond spiritually?",
+        "options": ["An oxygen tent", "A cryotherapy chamber", "A sensory deprivation tank", "A sauna"],
+        "answer": 2,
+        "d": 2
+    },
+    {
+        "q": "In 'The Trouble with Trillions', what denomination US currency note does Homer steal from Mr. Burns and hand to Fidel Castro?",
+        "options": ["One-hundred-million-dollar bill", "One-billion-dollar bill", "One-trillion-dollar bill", "Ten-trillion-dollar bill"],
+        "answer": 2,
+        "d": 2
+    },
+
+    # --- Group 3: Answer index 3 (25 questions) ---
+    {
+        "q": "In 'You Only Move Twice', what idyllic planned community does the Simpson family move to when Homer joins Globex?",
+        "options": ["Shelbyville Estates", "Little Poot Bay", "Emerald Heights", "Cypress Creek"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'Treehouse of Horror VII', what is the name of Bart's conjoined 'evil' twin brother discovered living locked in the attic?",
+        "options": ["Chet", "Lester", "Bartholomew", "Hugo"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'Lisa's Date with Density', which Springfield elementary bully does Lisa develop a surprising romantic crush on?",
+        "options": ["Kearney Zzyzwicz", "Jimbo Jones", "Dolph Starbeam", "Nelson Muntz"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'The Mysterious Voyage of Our Homer', what spirit guide animal voiced by Johnny Cash appears to Homer in his hallucination?",
+        "options": ["A bald eagle", "A wise owl", "A golden tortoise", "A talking space coyote"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'The Springfield Files', what is revealed to be the true identity of the glowing extraterrestrial creature Homer spotted in the woods?",
+        "options": ["Professor Frink in an alien suit", "A weather balloon reflecting headlights", "Barney covered in glow-in-the-dark paint", "Mr. Burns glowing green from decades of nuclear radiation treatments"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'Homer vs. the Eighteenth Amendment', what famous toast does Homer make to a crowd of citizens at the end of prohibition?",
+        "options": ["Drink up, Springfield!", "Here's to good times and cold brew!", "May we never be sober again!", "To alcohol! The cause of, and solution to, all of life's problems"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'The Old Man and the Lisa', what environmental crusade does Lisa help Mr. Burns launch to win back his fortune?",
+        "options": ["Planting one million trees", "Solar energy initiative", "Windmill electric grid", "Starting a citywide recycling plant"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Homer's Enemy', how does Frank Grimes meet his tragic end at the nuclear power plant?",
+        "options": ["He falls into the cooling tower", "He is crushed by a falling crane", "He drinks contaminated heavy water", "He grabs high-voltage power cables without safety gloves while mocking Homer"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'The City of New York vs. Homer Simpson', when Homer needs to urinate while waiting for the parking officer, where is he forced to climb?",
+        "options": ["The Empire State Building", "Statue of Liberty", "Brooklyn Bridge", "The top of the World Trade Center South Tower observation deck"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'The Joy of Sect', what television orientation film are prospective Movementarians forced to watch for six hours?",
+        "options": ["The Dawn of Enlightenment", "The Journey to Bliss", "Springfield's True Path", "The Joy of Sects"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "In 'Das Bus', what snack food ration do the stranded children put on trial for supposedly being eaten secretly by Milhouse?",
+        "options": ["A bag of potato chips", "A box of cookies", "A pack of Twinkies", "A bag of gummy fish and grapefruit"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "In 'Trash of the Titans', how does the town solve Springfield's cataclysmic garbage overflow crisis at the end of the episode?",
+        "options": ["Dumping it all in Shelbyville", "Launching it into outer space", "Burying it under the nuclear plant", "Physically moving the entire town five miles down the road"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'King of the Hill', what athletic brand sponsors Homer's climb of the Murderhorn with free energy bars made of apple cores and Chinese newspapers?",
+        "options": ["MaxBar", "SuperPike", "MegaThrust", "Powersauce"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'The Wizard of Evergreen Terrace', which one of Homer's inventions does he take to the Edison Museum in West Orange, New Jersey to smash?",
+        "options": ["The electric hammer", "The makeup shotgun", "The automatic toilet seat", "The six-legged chair (anti-tip chair)"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Treehouse of Horror IX', what television set accessory pulls Bart and Lisa directly into an ultra-violent episode of The Itchy & Scratchy Show?",
+        "options": ["A radioactive antenna", "A magical VCR tape", "A high-def digital cable box", "A plutonium remote control battery"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "In 'When You Dish Upon a Star', which famous Hollywood director steals Homer's ridiculous movie pitches involving a killer robot driving instructor?",
+        "options": ["Steven Spielberg", "George Lucas", "James Cameron", "Ron Howard"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'D'oh-in in the Wind', what do Seth and Munchie's organic juices accidentally get contaminated with before shipping to Springfield?",
+        "options": ["Nuclear waste water", "Industrial grease", "Caterpillar pesticide", "Peyote hallucinogens from Homer's garden harvesting"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Lisa Gets an \"A\"', what handheld video game starring a dingo does Lisa become addicted to, neglecting her school homework?",
+        "options": ["Crash Bandicoot", "Kangaroo Jack", "Outback Dingo", "Dash Dingo"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Mayored to the Mob', what shady bodyguard academy run by Leavelle does Homer attend to protect Mayor Quimby?",
+        "options": ["Secret Service Prep", "Springfield Shield Academy", "Iron Wall Institute", "The Bodyguard Academy"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "In 'Wild Barts Can't Be Broken', what technology do the children use to broadcast the embarrassing adult secrets of Springfield's citizens?",
+        "options": ["A ham radio transmitter", "A walkie-talkie patched into television antennas", "A pirate internet stream", "A low-frequency AM transmitter and megaphone hidden in an abandoned billboard"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "In 'Homer to the Max', who sings the catchy theme song for the television cop show starring the cool character named Homer Simpson?",
+        "options": ["Tom Jones", "Barry White", "Tony Bennett", "Robert Goulet"],
+        "answer": 3,
+        "d": 3
+    },
+    {
+        "q": "In 'Marge Simpson in: \"Screaming Yellow Honkers\"', what aggressive behavior does Marge develop after driving Homer's massive Canyonero?",
+        "options": ["Speed racing", "Demolition derby driving", "Off-road rallying", "Severe road rage"],
+        "answer": 3,
+        "d": 1
+    },
+    {
+        "q": "In 'Maximum Homerdrive', what eating record does Homer attempt to break at The Slaughterhouse against trucker Red Barclay?",
+        "options": ["The 100-donut dash", "The Big Texas 72-ounce steak", "The 10-pound hamburger challenge", "The 72-ounce Sirloin Steak (The 'Ol' 96er') contest"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Thirty Minutes Over Tokyo', what popular attraction in Tokyo does Homer take the family to visit where American fast-food nostalgia is celebrated?",
+        "options": ["Burger Kingdom", "Tokyo Disneyland", "Uncle Sam's Grill", "Americatown"],
+        "answer": 3,
+        "d": 2
+    },
+    {
+        "q": "In 'Bart After Dark', what musical showstopper song do Homer and the townsfolk sing to convince Marge not to bulldoze the Maison Derriere?",
+        "options": ["Springfield, Our Town", "There's No Town Like Ours", "The House of Burlesque", "We Put the Spring in Springfield"],
+        "answer": 3,
+        "d": 1
+    }
+]
+
+output = []
+for q in raw_questions:
+    output.append({
+        "show": "The Simpsons",
+        "q": q["q"],
+        "options": q["options"],
+        "answer": q["answer"],
+        "d": q["d"]
+    })
+
+with open("tools/staging/simpsons_batch3.json", "w", encoding="utf-8") as f:
+    json.dump(output, f, indent=1)
+
+print(f"Generated {len(output)} questions for batch 3.")

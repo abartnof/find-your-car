@@ -1,0 +1,6002 @@
+[
+  {
+    "show": "Cheers",
+    "q": "What was Sam Malone's jersey number when pitching for the Boston Red Sox?",
+    "options": [
+      "16",
+      "24",
+      "7",
+      "33"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What nickname did Sam Malone earn during his Major League Baseball pitching career?",
+    "options": [
+      "\"Slaphappy\" Sam",
+      "\"Mayday\" Malone",
+      "\"Fastball\" Malone",
+      "\"The Boston Flamethrower\""
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did Sam Malone retire from professional baseball before opening Cheers?",
+    "options": [
+      "He suffered a career-ending torn rotator cuff",
+      "He was banned for gambling on games",
+      "He struggled with severe alcoholism",
+      "He lost passion for the sport after winning the pennant"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What classic sports car is Sam Malone's prized personal possession?",
+    "options": [
+      "1965 Ford Mustang Fastback",
+      "1969 Chevrolet Camaro SS",
+      "1970 Dodge Challenger",
+      "1967 Chevrolet Corvette Stingray"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What non-alcoholic beverage does Sam Malone typically drink while tending bar?",
+    "options": [
+      "Club soda with lime",
+      "Diet cola",
+      "Tomato juice",
+      "Ginger ale"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of Sam Malone's short-lived, self-absorbed agent who represented him during his baseball days?",
+    "options": [
+      "Rick Walker",
+      "Dave Richards",
+      "Brad Douglas",
+      "Phil Cooper"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 1, what does Sam Malone discover in his office safe that had been left behind by a former customer?",
+    "options": [
+      "A stash of Confederate currency",
+      "An unsigned Babe Ruth baseball",
+      "A lucky bottle cap from his first major league win",
+      "A stolen diamond ring"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What good luck charm does Sam Malone temporarily lose, causing him to believe he has lost his mojo with women?",
+    "options": [
+      "His Red Sox championship ring",
+      "His silver belt buckle",
+      "His vintage dice keychain",
+      "His lucky bottle cap"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Who buys Cheers from Sam at the end of Season 5 when Sam sails around the world?",
+    "options": [
+      "The Lillian Corporation",
+      "Gary from Olde Towne Tavern",
+      "Melville's Restaurant Group",
+      "The Boston Athletic Club"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "For how much money does Sam Malone buy Cheers back from the Lillian Corporation in Season 6?",
+    "options": [
+      "One dollar",
+      "85 cents",
+      "10,000 dollars",
+      "500 dollars"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Sam Malone's specific pitching role on the Boston Red Sox?",
+    "options": [
+      "Starting pitcher",
+      "Middle reliever",
+      "Relief pitcher / closer",
+      "Knuckleball specialist"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of the boat Sam purchased to sail around the world between Seasons 5 and 6?",
+    "options": [
+      "The Flying Diane",
+      "The Boston Lady",
+      "The Mayday Mariner",
+      "The Trudy"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What happened to Sam's sailboat 'The Trudy' during his voyage between Seasons 5 and 6?",
+    "options": [
+      "It sank in the Caribbean",
+      "It was confiscated by the Coast Guard",
+      "He sold it in Bermuda to pay bar debts",
+      "It was stolen in Miami"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which rival pitcher and former teammate of Sam's wrote a tell-all autobiography mentioning Sam's exploits?",
+    "options": [
+      "Dutch Kincaid",
+      "Rick Walker",
+      "Lefty Hernandez",
+      "Buzz Anderson"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In the episode 'Showdown: Part 2', what do Sam and Diane do right before their famous first passionate kiss?",
+    "options": [
+      "Recite a romantic Shakespearean sonnet",
+      "Spill a pitcher of beer across the mahogany bar",
+      "Engage in a screaming match threatening physical violence",
+      "Apologize tearfully in Sam's back office"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What physical feature is Sam Malone famously insecure about as he begins aging?",
+    "options": [
+      "His emerging beer belly",
+      "His crow's feet wrinkles",
+      "His aching pitching elbow",
+      "His thinning hair / hairline"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 3, what job does Sam take at a local Boston television station?",
+    "options": [
+      "Weekend sports anchor",
+      "Morning talk show co-host",
+      "Commercial pitchman for a car dealership",
+      "Color commentator for Red Sox broadcasts"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What made Sam Malone notoriously terrible during his audition as a television sports anchor?",
+    "options": [
+      "He insulted the Boston Celtics mascot live on air",
+      "He could not read the Teleprompter naturally and froze on camera",
+      "He repeatedly pronounced athlete names wrong",
+      "He started drinking soda on camera during commercials"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What sport does Sam play against rival bar owner Gary in an attempt to win back the Cheers sign?",
+    "options": [
+      "Softball",
+      "Basketball",
+      "Bowling",
+      "Darts"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the final line spoken by Sam Malone in the series finale 'One for the Road'?",
+    "options": [
+      "\"Goodnight, everybody.\"",
+      "\"See you tomorrow, Norm.\"",
+      "\"Have a good night, Boston.\"",
+      "\"Sorry, we're closed.\""
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In the pilot episode, what is Diane Chambers' initial profession or status when she enters Cheers?",
+    "options": [
+      "A literature student and teaching assistant engaged to her professor",
+      "A cocktail waitress seeking a new shift",
+      "A Boston globe journalist researching local pubs",
+      "A lawyer celebrating passing the Massachusetts bar exam"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of the snooty literature professor who abandoned Diane at Cheers in the pilot episode?",
+    "options": [
+      "Simon Finch-Royce",
+      "Sumner Sloane",
+      "Derek Underwood",
+      "Elliott Randolph"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Where were Sumner Sloane and Diane Chambers supposedly traveling before he abandoned her in the pilot?",
+    "options": [
+      "Paris",
+      "Florence",
+      "Barbados",
+      "Bermuda"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did Sumner Sloane leave Diane waiting at Cheers in the pilot episode?",
+    "options": [
+      "To confirm his flight tickets at Logan Airport",
+      "To grade his undergraduate midterm papers",
+      "To cash an academic fellowship check",
+      "To retrieve his grandmother's wedding ring from his ex-wife"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What breed of dog did Diane Chambers own, named Elizabeth Barrett Browning?",
+    "options": [
+      "Poodle",
+      "Golden Retriever",
+      "Cocker Spaniel",
+      "Yorkshire Terrier"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which 19th-century English Romantic poet does Diane Chambers frequently quote to annoy Carla and Sam?",
+    "options": [
+      "Lord Byron",
+      "John Keats",
+      "Percy Bysshe Shelley",
+      "William Wordsworth"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What type of facility did Diane Chambers check into between Seasons 2 and 3 following her breakup with Sam?",
+    "options": [
+      "A French culinary academy in Paris",
+      "A monastery retreat in Vermont",
+      "A psychiatric sanatorium / mental health clinic",
+      "An exclusive writing colony in Maine"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Whom did Diane Chambers meet and begin dating while staying at the psychiatric sanatorium?",
+    "options": [
+      "Dr. Simon Finch-Royce",
+      "Dr. Robert Caplan",
+      "Dr. Clinton Sternin",
+      "Dr. Frasier Crane"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 3, where does Frasier propose to Diane, only to be abandoned at the altar later in Europe?",
+    "options": [
+      "Italy",
+      "France",
+      "England",
+      "Switzerland"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the title of the epic novel Diane Chambers spent years attempting to write?",
+    "options": [
+      "The Crimson Beacon",
+      "A novel based on the lives and patrons of Cheers",
+      "The Ivy Leaves of Boston",
+      "Echoes of New England"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What high-culture art form did Diane Chambers obsessively practice, even auditioning for a local Boston company?",
+    "options": [
+      "Opera singing",
+      "Modern dance",
+      "Ballet",
+      "Classical cello"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What wealthy, eccentric intellectual did Diane date in Season 2 who challenged Sam to a high-stakes intellectual duel?",
+    "options": [
+      "Sumner Sloane",
+      "Dr. Simon Finch-Royce",
+      "Ludlow Fowler",
+      "Derek Drake"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What allergic reaction did Diane Chambers famously suffer from whenever she was around cats?",
+    "options": [
+      "Uncontrollable sneezing and watery eyes",
+      "Hives across her face",
+      "Severe asthma attacks",
+      "Temporary loss of speech"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 5 finale 'I Do, Adieu', why does Diane ultimately leave Boston and Sam Malone?",
+    "options": [
+      "To marry Frasier Crane in Seattle",
+      "To finish her manuscript in Los Angeles after getting a book deal",
+      "To take an endowed professorship at Oxford",
+      "To open her own French cafe in Montreal"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What gift does Sam Malone present to Diane in 'I Do, Adieu' that convinces her she must pursue her writing career?",
+    "options": [
+      "A first edition of John Keats poetry",
+      "A personalized fountain pen",
+      "A typewriter",
+      "A round-trip ticket to Los Angeles"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "When Diane returns in the series finale 'One for the Road', what Hollywood award is she celebrating having won?",
+    "options": [
+      "An Emmy Award",
+      "A Golden Globe Award",
+      "A Writers Guild of America Award",
+      "A CableACE Award"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In 'One for the Road', what fictional movie project does Diane claim she wrote that turned into an embarrassing TV movie?",
+    "options": [
+      "A dramatic script that was butchered into a cheesy telefilm",
+      "A high-concept romantic comedy with Tom Cruise",
+      "A Broadway musical adaptation of Hamlet",
+      "A historical biopic about Abigail Adams"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 1, what does Diane do when a customer pinches her rear while she is serving drinks?",
+    "options": [
+      "Pours a draft beer over his head",
+      "Slaps him across the face and demands an apology",
+      "Quietly informs Sam to throw him out",
+      "Ignores it to keep her tips high"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which painter did Diane Chambers hire to paint a portrait of her and Sam, leading to endless arguments?",
+    "options": [
+      "Henri Rousseau",
+      "Julian Martinez",
+      "Phillip Semenko",
+      "Claude Bennett"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Diane Chambers' mother's name, who visited the bar threatening to disinherit Diane unless she married?",
+    "options": [
+      "Eleanor Chambers",
+      "Victoria Chambers",
+      "Cordelia Chambers",
+      "Spencer Chambers"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Ernie Pantusso's primary role on the Boston Red Sox coaching staff under which he managed Sam Malone?",
+    "options": [
+      "Pitching coach",
+      "Hitting coach",
+      "Bench coach",
+      "Bullpen catcher"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Ernie Pantusso's universal nickname among all friends and patrons of Cheers?",
+    "options": [
+      "Skip",
+      "Coach",
+      "Pants",
+      "Cap"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of Coach's beloved, plain-looking daughter who visited the bar in Season 1?",
+    "options": [
+      "Maria Pantusso",
+      "Gina Pantusso",
+      "Lisa Pantusso",
+      "Angela Pantusso"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 1 episode 'Coach's Daughter', why was Coach initially devastated about Lisa's fiancé Roy?",
+    "options": [
+      "Roy was a passionate New York Yankees fan",
+      "Roy refused to get married in the Catholic Church",
+      "Roy wanted to move Lisa to Alaska permanently",
+      "Roy was an arrogant jerk who treated Lisa poorly and openly demeaned her"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Coach Ernie Pantusso's late wife's name, whom he frequently spoke of with deep love?",
+    "options": [
+      "Angela",
+      "Rose",
+      "Grace",
+      "Lucille"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What peculiar habit did Coach exhibit when answering the Cheers bar telephone?",
+    "options": [
+      "Whispering in fear of wiretaps",
+      "Shouting 'Cheers!' into the receiver or calling out the wrong person's name",
+      "Always hanging up after two seconds",
+      "Singing the opening bar of a fight song"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 1, what second job did Coach take that involved coaching an all-girls Little League team?",
+    "options": [
+      "Refereeing middle school basketball games",
+      "Umpiring high school softball",
+      "Managing a youth baseball team called the Red Sox",
+      "Directing youth bowling leagues"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 2 episode 'Fortune and Men's Weights', what con game is Coach tricked into by a shady grifter?",
+    "options": [
+      "A counterfeit rare coin swap",
+      "A phony real estate deed in Maine",
+      "A rigged underground poker match",
+      "Investing in a fraudulent scales-and-vending-machine venture"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Coach's response whenever Sam or Diane asked him a complex philosophical question?",
+    "options": [
+      "A hilariously literal or completely backward misunderstanding of the premise",
+      "Quoting Latin proverbs learned in parochial school",
+      "Pretending to have severe sudden hearing loss",
+      "Changing the subject to Red Sox batting averages"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 2, Coach attempts to earn his high school diploma by taking what evening class?",
+    "options": [
+      "World History",
+      "Geography",
+      "Basic Algebra",
+      "American Government"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Who was the strict evening school teacher who helped Coach study for his high school geography exam?",
+    "options": [
+      "Mr. Higgins",
+      "Professor Sumner Sloane",
+      "George Gaines",
+      "Mr. Hedenberg"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What mnemonic device did Coach Ernie Pantusso memorize to pass his geography exam about Albania?",
+    "options": [
+      "Tirana is the capital near the sea...",
+      "The Balkan peaks are snowy and grand...",
+      "Across from Italy lies the land...",
+      "Albania, Albania, you border on the Adriatic..."
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which grifter and street magician repeatedly tried to swindle Coach, only to be outwitted or beaten by the bar?",
+    "options": [
+      "Harry the Hat (Harry Gittes)",
+      "Slick Willy",
+      "Boston Benny",
+      "Fast Eddie"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What classic bar con does Harry the Hat pull on Coach involving a dollar bill under a glass of water?",
+    "options": [
+      "Guessing the serial number of the bill",
+      "Taking the dollar without touching the inverted glass of water",
+      "Balancing a quarter on the rim of the glass",
+      "Turning a dollar bill into a ten-dollar bill"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 3, what romantic interest does Coach pursue who happens to be an older woman named Katherine?",
+    "options": [
+      "A regular customer at Melville's",
+      "Carla's mother Mama Lozupone",
+      "A woman he met at an adult night school class",
+      "Norm's aunt Margaret"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Coach's standard reaction whenever someone ordered an exotic or complicated cocktail at Cheers?",
+    "options": [
+      "Consulting a massive leather-bound bartending manual",
+      "Calling Sam out from the back office in a panic",
+      "Pretending the bar was out of the liquor",
+      "Confused blinking followed by offering them a beer or pretzel"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Why was Nicholas Colasanto's character Coach written off the show between Seasons 3 and 4?",
+    "options": [
+      "Nicholas Colasanto tragically passed away from heart disease in 1985",
+      "He retired to live in Florida full-time",
+      "He took a role on another television sitcom",
+      "The character was written out to reduce the cast size"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How was Coach's absence initially explained in early Season 4 dialogue before acknowledging his passing?",
+    "options": [
+      "He was managing a baseball winter league in Florida",
+      "He was traveling to visit relatives and friends",
+      "He was hospitalized for minor knee surgery",
+      "He was scouting pitching prospects in Ohio"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 3 episode 'Cheerio, Cheers', what does Coach do when an English gentleman challenges him to a drinking game?",
+    "options": [
+      "Passes out after the second glass of sherry",
+      "Substitutes apple juice for dark ale",
+      "Drinks him under the table with polite modesty",
+      "Spills his drinks into an empty vase"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What framed portrait in the bar was touched by the cast at the end of episodes in memory of Nicholas Colasanto?",
+    "options": [
+      "A photograph of Babe Ruth",
+      "A vintage black-and-white print of Fenway Park",
+      "A painting of an American bald eagle",
+      "A photograph of Apache leader Geronimo"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Woody Boyd's hometown in Indiana before moving to Boston?",
+    "options": [
+      "Hanover",
+      "Muncie",
+      "Terre Haute",
+      "Kokomo"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How did Woody Boyd first connect with Ernie 'Coach' Pantusso before arriving at Cheers?",
+    "options": [
+      "Woody played junior college baseball against Coach's team",
+      "They were long-time pen pals who exchanged pens through the mail",
+      "They were third cousins twice removed",
+      "Coach had scouted Woody's high school baseball team"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did Woody Boyd travel to Cheers in the Season 4 premiere 'Birth, Death, Love and Rice'?",
+    "options": [
+      "To audition for Sam's open assistant bartender position",
+      "To attend Harvard University on an agricultural scholarship",
+      "To meet Coach in person, unaware that Coach had passed away",
+      "To escape a vengeful farming family in Indiana"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is Woody Boyd's full legal birth name?",
+    "options": [
+      "Woodrow Wilson Boyd",
+      "Woodrow Allen Boyd",
+      "Huckleberry Thomas Boyd",
+      "Huckleberry Edward Boyd"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of Woody Boyd's high school sweetheart from Hanover who visited him in Boston?",
+    "options": [
+      "Beth Marshall",
+      "Kelly Gaines",
+      "Daisy Sue Jenkins",
+      "Mary Lou Miller"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the peculiar shared habit Woody Boyd and his Indiana girlfriend Beth had when eating together?",
+    "options": [
+      "They chewed exactly twenty times per bite in silence",
+      "They both ate massive, gluttonous quantities of food in rapid succession",
+      "They only ate fried pork rinds dipping them in milk",
+      "They refused to speak while food was on the table"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of the wealthy Boston heiress Woody Boyd fell in love with and married?",
+    "options": [
+      "Victoria Drake",
+      "Elizabeth Stone",
+      "Kelly Gaines",
+      "Penelope Wentworth"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of Kelly Gaines' wealthy, snobbish father who looked down upon Woody?",
+    "options": [
+      "Arthur Gaines",
+      "Preston Gaines",
+      "Randolph Gaines",
+      "Walter Gaines"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 8, Kelly Gaines leaves for a year of study abroad in which European country?",
+    "options": [
+      "France",
+      "England",
+      "Switzerland",
+      "Italy"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What song does Woody Boyd perform at Kelly Gaines' high-society birthday party that becomes a surprise crowd hit?",
+    "options": [
+      "\"The Hanover Corn Song\"",
+      "\"Kelly, Kelly, Kelly, Kelly...\"",
+      "\"Indiana Sweetheart\"",
+      "\"My Girl From Boston\""
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 11, what surprising public office does Woody Boyd successfully run for and win?",
+    "options": [
+      "Massachusetts State Senate",
+      "Cambridge Mayor",
+      "Boston City Council",
+      "Suffolk County Commissioner"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What political strategy does Woody's rival use that accidentally backfires and wins Woody the election?",
+    "options": [
+      "Accusing Woody of financial corruption in Indiana",
+      "Challenging Woody to an intellectual televised debate",
+      "Exposing Woody's secret criminal past",
+      "Highlighting Woody's complete lack of knowledge, making him look disarmingly honest"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What odd Hanover tradition did Woody insist upon when preparing for his wedding with Kelly?",
+    "options": [
+      "Ice carvings of farm animals and traditional pig-related folk customs",
+      "A midnight corn-husking relay race for the groomsmen",
+      "A mandatory square dance in boots before the altar",
+      "Wrestling the bride's father in a mud pit"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "During Woody and Kelly's chaotic wedding ceremony in Season 10, what happened to the officiating minister?",
+    "options": [
+      "He got locked in the church cellar by Carla",
+      "He collapsed and died right before the vows",
+      "He was struck by lightning on the church steps",
+      "He passed out from drinking sacramental wine"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Who ended up performing Woody and Kelly's emergency marriage ceremony in the kitchen after the minister's collapse?",
+    "options": [
+      "Sam Malone using his ship captain's license",
+      "Dr. Frasier Crane via mail ordination",
+      "A visiting foreign priest / German minister",
+      "Cliff Clavin as a justice of the peace"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What theater role did Woody Boyd play in a local Boston avant-garde production of 'Hair'?",
+    "options": [
+      "Berger",
+      "Woof",
+      "Hud",
+      "Claude (in which he was required to perform nude)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What odd snack food did Woody Boyd frequently invent or crave from his childhood in Hanover?",
+    "options": [
+      "Veg-a-Loo / deep-fried corn concoctions and bizarre casseroles",
+      "Peanut butter and sardine toast",
+      "Pickled hog ears in hot sauce",
+      "Raw turnip sandwiches on sourdough"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What pet pig did Woody Boyd fondly reminisce about from his family farm in Hanover?",
+    "options": [
+      "Barnaby",
+      "Arnold",
+      "Wilbur",
+      "Pinky"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 6, what commercial did Woody Boyd film that aired on Boston local television?",
+    "options": [
+      "A commercial for a used pickup truck dealership",
+      "A public service announcement for fire safety",
+      "A commercial for 'Veg-a-Lax' laxative",
+      "An advertisement for Boston baked beans"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Why was Woody horrified by the Veg-a-Lax commercial after it aired on television?",
+    "options": [
+      "His face was replaced by a cartoon illustration of a prune",
+      "The company went bankrupt without paying him his acting fee",
+      "The advertisement aired during his family's church service in Hanover",
+      "His lines were edited to make it sound like he personally suffered from chronic constipation"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of the upscale seafood restaurant located directly above Cheers?",
+    "options": [
+      "Melville's Fine Sea Food",
+      "Captain's Galley",
+      "The Boston Chowder House",
+      "Harbor View Grill"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of the haughty, condescending owner of Melville's restaurant introduced in Season 9?",
+    "options": [
+      "Sumner Sloane",
+      "John Allen Hill",
+      "Derek Drake",
+      "Sterling Hall"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What financial dispute frequently erupts between John Allen Hill and Sam Malone regarding the building lease?",
+    "options": [
+      "Shared heating oil and utility meter readings",
+      "Fire escape maintenance fees",
+      "Lease rights over the shared bathrooms and alleyway parking spots",
+      "The roof antenna installation fees"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What romantic relationship involving John Allen Hill horrified Carla Tortelli in Season 10?",
+    "options": [
+      "Hill proposed marriage to Carla's daughter Serafina",
+      "Hill had a brief passionate affair with Carla herself",
+      "Hill secretly eloped with Carla's sister Annette",
+      "John Allen Hill started dating Carla's mother Mama Lozupone"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of Cheers' primary rival drinking establishment located across town in Boston?",
+    "options": [
+      "Gary's Olde Towne Tavern",
+      "McGinty's Ale House",
+      "The Boston Boathouse",
+      "O'Malley's Irish Pub"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the recurring series of multi-season prank wars between Cheers and Gary's Olde Towne Tavern called?",
+    "options": [
+      "The Tavern Feud",
+      "Bar Wars",
+      "Boston Pub Brawl",
+      "The Keg Clash"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In one of the most famous Bar Wars pranks, what animal did the Cheers gang place inside Gary's Olde Towne Tavern?",
+    "options": [
+      "A circus bear",
+      "A swarm of pigeons",
+      "A live sheep (or farm animal)",
+      "A baby alligator"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How did Gary retaliate against Cheers after the bar gang stole his prized bowling trophy?",
+    "options": [
+      "He poured blue dye into the Cheers draft beer kegs",
+      "He had the building condemned by fake city inspectors",
+      "He sent a marching band to play in the bar at 3 AM",
+      "He had the entire Cheers interior completely stripped down to bare walls overnight"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In 'Bar Wars V', what morbid prank does Gary appear to play on Cheers regarding his own life?",
+    "options": [
+      "Faking his own death and funeral to trick Cheers into public humiliation",
+      "Faking a catastrophic fire at his own tavern",
+      "Pretending he had lost his bar in a high-stakes poker game",
+      "Staging a fake kidnapping by the Boston mob"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What prank did the Cheers gang pull on Gary by posing as construction workers outside his tavern?",
+    "options": [
+      "Digging a massive trench through his beer delivery chute",
+      "Bricking up the front entrance of Gary's Olde Towne Tavern",
+      "Paving over his private parking lot with grass sod",
+      "Painting his brick facade bright neon pink"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What sporting event do Cheers and Gary's Olde Towne Tavern compete in during the Season 4 episode 'From Beer to Eternity'?",
+    "options": [
+      "A softball championship",
+      "A tug-of-war at Boston Common",
+      "A bowling tournament",
+      "A championship dart tournament"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In 'From Beer to Eternity', who turns out to be Cheers' secret weapon bowler despite her hatred of bowling?",
+    "options": [
+      "Carla Tortelli",
+      "Norm Peterson",
+      "Cliff Clavin",
+      "Diane Chambers"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 10, how does John Allen Hill acquire legal ownership of the Cheers back room and pool room?",
+    "options": [
+      "He purchases the building property parcel that boundaries the back room",
+      "He wins the back room in a game of craps with Sam",
+      "He claims eminent domain through the Boston city council",
+      "He discovers an 18th-century land grant in his name"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What does Sam Malone do to John Allen Hill's expensive Mercedes sedan in retaliation for rent hikes?",
+    "options": [
+      "Fills the sunroof with clam chowder",
+      "Carves up the parking lines or blocks it with trash bins",
+      "Slashes all four tires with a bottle opener",
+      "Has it towed to an impound lot in Providence"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which actor portrayed the pompous restaurant proprietor John Allen Hill across multiple seasons?",
+    "options": [
+      "Max Wright",
+      "Richard Venture",
+      "Keene Curtis",
+      "George Gaynes"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In the final installment of Bar Wars in Season 11, what does Harry the Hat reveal about the entire prank conflict?",
+    "options": [
+      "Gary had sold his tavern to a chain corporation two years earlier",
+      "Gary was actually Sam's long-lost second cousin",
+      "The Boston police department had been Gary's co-conspirators",
+      "Harry orchestrated the war himself to con money out of both bars"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What did the Cheers gang send to Gary disguised as a birthday present, which detonated in a cloud of glitter and flour?",
+    "options": [
+      "A booby-trapped fake champagne crate",
+      "A spring-loaded cigar humidor",
+      "A hollowed-out vintage jukebox",
+      "A helium-inflated balloon bomb"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In 'Bar Wars II', what did Gary steal from Cheers that served as the bar's beloved symbol of Boston pride?",
+    "options": [
+      "The authentic brass bar rail",
+      "Sam's prized portrait or the bar's wooden Indian statue",
+      "The brass bell behind the counter",
+      "The neon beer sign in the front window"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of the snooty French chef at Melville's who frequently complained about Cheers' grease fumes?",
+    "options": [
+      "Chef Pierre",
+      "Chef Marcel",
+      "Chef Henri",
+      "Chef Jacques"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What type of food did Melville's specialize in that caused seafood aromas to seep down into the Cheers barroom?",
+    "options": [
+      "Spicy Creole seafood boils",
+      "Fried calamari and oily sardines",
+      "Steamed crabs and clam chowder exclusively",
+      "Lobster, oysters, and fresh New England fish"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is Norm Peterson's iconic permanent seat in Cheers?",
+    "options": [
+      "The barstool at the corner near the entrance of the bar",
+      "The leather booth by the pool table",
+      "The middle barstool directly in front of the tap",
+      "The table by the front window"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What does the entire bar shout in unison whenever Norm Peterson walks into Cheers?",
+    "options": [
+      "\"Cheers!\"",
+      "\"Norm!\"",
+      "\"Peterson!\"",
+      "\"Beer time!\""
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of Norm Peterson's wife, whose face is famously never clearly seen on camera?",
+    "options": [
+      "Loretta",
+      "Doris",
+      "Vera",
+      "Martha"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 5 Thanksgiving episode, what covers Vera Peterson's face right before she can be seen by the audience?",
+    "options": [
+      "A massive turkey platter",
+      "A burst bottle of seltzer",
+      "A bouquet of autumn flowers",
+      "A thrown pumpkin pie"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Norm Peterson's primary profession in the early seasons of Cheers?",
+    "options": [
+      "Accountant",
+      "Dentist",
+      "Stockbroker",
+      "Real estate appraiser"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What second career does Norm Peterson stumble into in later seasons, often working with Woody or Cliff?",
+    "options": [
+      "Plumber",
+      "House painter / interior painter",
+      "Auto mechanic",
+      "Landscape architect"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of Norm's favorite, artery-clogging barbecue restaurant where 'the meat falls right off the bone'?",
+    "options": [
+      "The Rusty Rib",
+      "The Boston Brisket Barn",
+      "The Hungry Heifer",
+      "Big Dan's Smokehouse"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In the classic Norm entrance, Coach asks: 'What's shakin', Norm?' How does Norm reply?",
+    "options": [
+      "\"Just the ice in my glass.\"",
+      "\"Nothing a cold beer wouldn't fix.\"",
+      "\"My knees whenever Vera walks in.\"",
+      "\"All four cheeks and a couple of chins.\""
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "When Woody asks Norm: 'What's going down, Mr. Peterson?' how does Norm famously reply?",
+    "options": [
+      "\"My cheeks and my bank account.\"",
+      "\"The sun and my morale.\"",
+      "\"The Boston temperature.\"",
+      "\"My hopes of going home sober.\""
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "When Sam asks Norm: 'How's life treating you, Norm?' what is Norm's witty response?",
+    "options": [
+      "\"Like a dog treats a fire hydrant.\"",
+      "\"Like a baby treats a diaper.\"",
+      "\"Like a cat treats a ball of yarn.\"",
+      "\"Like a politician treats the truth.\""
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "When Woody asks Norm: 'Care for a beer, Mr. Peterson?' how does Norm respond?",
+    "options": [
+      "\"Does the sun rise in the morning?\"",
+      "\"Is water wet, Woody?\"",
+      "\"Does a bear sit in the woods?\"",
+      "\"Do you take credit cards?\""
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "When Woody asks: 'What's the story, Mr. Peterson?' what is Norm's summary of his life?",
+    "options": [
+      "\"Boy hates work, boy flees wife, boy finds tavern.\"",
+      "\"Boy pays taxes, boy gets thirsty, boy sits down.\"",
+      "\"Boy was born, boy bought a house, boy regretted both.\"",
+      "\"Boy meets beer, boy drinks beer, boy gets another beer.\""
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What dream job does Norm Peterson land in Season 10 that involves drinking beer for a living?",
+    "options": [
+      "Official beer taster for the Brewster Brewery",
+      "Quality control tester for Samuel Adams",
+      "Draft technician for Budweiser",
+      "Brewmaster apprentice at Boston Ale Works"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Why is Norm eventually fired from his dream job as a brewery beer taster?",
+    "options": [
+      "He was caught stealing kegs from the loading dock",
+      "He cannot bring himself to criticize or give a negative review to any beer",
+      "He fell asleep inside a copper fermentation vat",
+      "He was caught secretly drinking a competitor's brand"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of Norm Peterson's demanding accounting firm boss who cheats on his wife?",
+    "options": [
+      "Arthur Duncan",
+      "Preston Vance",
+      "Anton Kreitzer",
+      "Richard Sterling"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 1, what does Norm reveal about his financial debt to Cheers regarding his bar tab?",
+    "options": [
+      "He secretly owns 10% of the bar's equity to cover it",
+      "He trades free accounting services for beer",
+      "Coach accidentally forgave his tab every Christmas",
+      "He has a massive running tab that would bankrupt him if paid in full"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What happens when Rebecca Howe attempts to enforce payment on Norm's enormous outstanding bar tab?",
+    "options": [
+      "Norm abandons Cheers and drinks at another pub down the street",
+      "Norm sues Cheers for predatory lending",
+      "Norm hires a forensic accountant to audit Sam's books",
+      "Norm stages a hunger strike outside the bar door"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of the rival dive bar Norm temporarily frequents when boycotting Cheers?",
+    "options": [
+      "McGinty's Pub",
+      "The Hungry Heifer (or The Blue Shamrock)",
+      "The Boston Boathouse",
+      "The Brass Rail"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of the hungry basset hound / dog Norm adopts and brings into Cheers?",
+    "options": [
+      "Barney",
+      "Gus",
+      "Sammy",
+      "Buster"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 7, why does Norm Peterson end up in traction in the hospital?",
+    "options": [
+      "He fell off his high barstool during closing time",
+      "He slipped on ice outside the Hungry Heifer",
+      "He was tackled by an angry softball outfielder",
+      "He hurt his back painting Rebecca's office or lifting heavy furniture"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What color did Norm Peterson once accidentally paint an entire executive office suite?",
+    "options": [
+      "A garish, nauseating neon pink / peach",
+      "A pitch black gothic gloss",
+      "A blinding canary yellow",
+      "A drab camouflage olive drab"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What is Norm's middle name?",
+    "options": [
+      "Francis",
+      "Hillary",
+      "Aloysius",
+      "Eugene"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "When asked: 'What would you say to a nice cold beer, Norm?' what does Norm reply?",
+    "options": [
+      "\"I love you.\"",
+      "\"Where have you been all my life?\"",
+      "\"Going my way?\"",
+      "\"Make it a double.\""
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What does Norm declare to be 'the best smell in the world' in multiple episodes?",
+    "options": [
+      "Freshly cut grass on opening day",
+      "New car leather",
+      "Freshly baked Italian pizza dough",
+      "A freshly tapped keg of beer (or barbecue ribs)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In the series finale 'One for the Road', what does Norm state as his ultimate philosophy of life to Sam?",
+    "options": [
+      "That a person always comes back to the one true love of their life—which for Sam is Cheers",
+      "That a man should never let work get between him and a good beer",
+      "That happiness is simply sitting on a stool surrounded by friends",
+      "That Boston is the greatest city on Earth"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is Cliff Clavin's uniform and profession throughout all eleven seasons of Cheers?",
+    "options": [
+      "A meter maid for the Boston Traffic Commission",
+      "A letter carrier for the United States Postal Service",
+      "A train conductor for Amtrak",
+      "A security guard for the Boston Museum of Fine Arts"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is Cliff Clavin's signature catchphrase used before sharing unsolicited, dubious trivia?",
+    "options": [
+      "\"As common sense dictates...\"",
+      "\"According to historical record...\"",
+      "\"It's a little-known fact...\"",
+      "\"Science has clearly proven...\""
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "With whom does Cliff Clavin live for the majority of the series?",
+    "options": [
+      "His eccentric bachelor uncle",
+      "Roommates from the postal distribution center",
+      "He lives alone in a tiny studio apartment",
+      "His overbearing mother, Esther Clavin"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What game show does Cliff Clavin appear on in the legendary Season 8 episode 'What Is... Cliff Clavin?'?",
+    "options": [
+      "Jeopardy!",
+      "Wheel of Fortune",
+      "Who Wants to Be a Millionaire",
+      "The Price Is Right"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Who hosts the game show when Cliff Clavin makes his disastrous television appearance?",
+    "options": [
+      "Pat Sajak",
+      "Alex Trebek",
+      "Bob Barker",
+      "Dick Clark"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the category for Cliff Clavin's infamous Final Jeopardy question?",
+    "options": [
+      "World Postal Routes",
+      "Civil War Generals",
+      "Final Jeopardy! category: Movies (or Famous Names)",
+      "Bavarian Monarchs"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What bizarre answer did Cliff Clavin write down on Final Jeopardy! that cost him his runaway lead?",
+    "options": [
+      "\"Who are the postal workers of America?\"",
+      "\"What is the secret of the universe?\"",
+      "\"Who are my mother's third cousins?\"",
+      "\"Who are three people who have never been in my kitchen?\""
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How much money had Cliff Clavin accumulated before wagering and losing it all in Final Jeopardy?",
+    "options": [
+      "22,000 dollars",
+      "14,500 dollars",
+      "35,000 dollars",
+      "8,200 dollars"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What cosmetic surgery does Cliff Clavin secretly undergo in Season 4 to improve his dating life?",
+    "options": [
+      "Hair plug transplants",
+      "A nose job (rhinoplasty)",
+      "Teeth veneers",
+      "Chin implant"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of Cliff Clavin's fellow postal worker girlfriend who shares his eccentric personality?",
+    "options": [
+      "Brenda Walsh",
+      "Sally Albright",
+      "Margaret O'Keefe",
+      "Peggy Harris"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is Cliff Clavin's mother's name?",
+    "options": [
+      "Agnes Clavin",
+      "Mildred Clavin",
+      "Beatrice Clavin",
+      "Esther Clavin"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which actress played Cliff Clavin's beloved, no-nonsense mother Esther?",
+    "options": [
+      "Frances Sternhagen",
+      "Marion Ross",
+      "Estelle Getty",
+      "Charlotte Rae"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What holiday destination does Cliff take his mother to, only for her to become infatuated with Florida retirement life?",
+    "options": [
+      "Niagara Falls, New York",
+      "Walt Disney World in Orlando, Florida",
+      "Atlantic City boardwalk",
+      "The Grand Canyon"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What odd military/civilian organization is Cliff Clavin an obsessed and zealous member of?",
+    "options": [
+      "The Boston Coast Guard Auxiliaries",
+      "The Sons of the American Revolution",
+      "The Florida Postal Reserve / Civil Defense / Men's Lodge",
+      "The Royal Order of Water Buffaloes"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What bizarre fact does Cliff share about why postal workers wear gray uniforms instead of blue in certain districts?",
+    "options": [
+      "To save money on indigo dye during the Korean War",
+      "Because Benjamin Franklin personally specified gray wool",
+      "Because pigeons are colorblind to shades of gray",
+      "To blend into the New England fog or reduce dog attacks"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What does Cliff Clavin build inside his mother's house using thousands of popsicle sticks and toothpicks?",
+    "options": [
+      "A scale model of the Taj Mahal (or historic landmarks)",
+      "A scale model of the Boston Postal Distribution Center",
+      "A life-sized bust of Benjamin Franklin",
+      "A miniature replica of Fenway Park"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 11, what does Cliff Clavin believe he will receive at his retirement party that causes him intense anxiety?",
+    "options": [
+      "A gold watch that is cheap and broken",
+      "A humiliating roast by all his peers",
+      "A demotion to mail sorting in Alaska",
+      "A forced eviction from his mother's home"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What does Cliff claim is the most dangerous domestic animal in North America?",
+    "options": [
+      "The common Boston street rat",
+      "The feral Canadian goose",
+      "The postman's arch-enemy: the Pomeranian / small terriers",
+      "The suburban snapping turtle"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 9, what does Cliff Clavin discover in his family tree that leads him to believe he is European royalty?",
+    "options": [
+      "He claims to be the rightful Duke of Sussex",
+      "He claims descent from the King of Bavaria",
+      "He claims to be the Prince of Monaco",
+      "He claims to be related to the Russian Romanov royal family"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 6, what bizarre device does Cliff invent and attempt to patent?",
+    "options": [
+      "The 'Post-a-Bar' / hands-free mail delivery gadget",
+      "An automated dog-repelling whistle shoe",
+      "A stamp-licking moisture tongue",
+      "A thermal insulated mail pouch"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What food item is Cliff Clavin terrified of choking on in multiple episodes?",
+    "options": [
+      "Raw Boston clams",
+      "Hard-boiled eggs and party pretzels",
+      "Salt water taffy",
+      "Marshmallow circus peanuts"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What does Cliff do whenever anyone in the bar starts a serious intellectual or emotional discussion?",
+    "options": [
+      "Quietly leaves through the emergency fire exit",
+      "Quotes biblical passages in a booming monotone",
+      "Interrupts with an absurd, fabricated piece of trivia",
+      "Takes out his postal route map to plan detours"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 5, what does Cliff Clavin wear to the bar Halloween party that earns him endless mockery?",
+    "options": [
+      "A giant post-box costume",
+      "A pirate with a stuffed parrot",
+      "A French mime outfit",
+      "A suit of armor (or Ponce de Leon explorer costume)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What did Cliff Clavin's estranged father do when he briefly returned to Boston in Season 4?",
+    "options": [
+      "Conned Cliff with fake affection before fleeing from the law with stolen goods",
+      "Attempted to buy the Cheers building from Sam",
+      "Revealed he was an undercover FBI agent",
+      "Demanded back pay from Cliff's postal pension"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which actor portrayed Cliff Clavin's con-artist runaway father, Stephen Clavin?",
+    "options": [
+      "Max Gail",
+      "Dick O'Neill",
+      "Jerry Van Dyke",
+      "Ken Howard"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What is Carla Tortelli's primary role at Cheers throughout the entire run of the series?",
+    "options": [
+      "Head bartender",
+      "Assistant manager",
+      "Waitress / cocktail server",
+      "Bookkeeper"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is Carla Tortelli's general attitude toward Cheers customers and romantic patrons?",
+    "options": [
+      "Warm, motherly, and overly hospitable",
+      "Shy, withdrawn, and subservient",
+      "Polite and professionally detached",
+      "Fiercely sarcastic, combative, and quick to insult"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of Carla's sleazy, deadbeat first ex-husband who constantly torments her?",
+    "options": [
+      "Nick Tortelli",
+      "Sal Tortelli",
+      "Tony Tortelli",
+      "Gino Tortelli"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which actor played Carla's obnoxious ex-husband Nick Tortelli?",
+    "options": [
+      "Joe Mantegna",
+      "Dan Hedaya",
+      "Robert Pastorelli",
+      "Paul Sorvino"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of Nick Tortelli's bubble-headed second blonde trophy wife?",
+    "options": [
+      "Bambi",
+      "Tiffany",
+      "Loretta",
+      "Crystal"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which French-Canadian Boston Bruins hockey goaltender does Carla fall in love with and marry?",
+    "options": [
+      "Guy Lafleur",
+      "Rene Gagnon",
+      "Luc Robitaille",
+      "Eddie LeBec"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Eddie LeBec's hockey position for the Boston Bruins?",
+    "options": [
+      "Goaltender",
+      "Center",
+      "Defenseman",
+      "Right wing"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What superstition does Eddie LeBec believe makes him an invincible goaltender during his winning streak?",
+    "options": [
+      "Never washing his hockey jersey all season",
+      "Sleeping with Carla or wearing lucky pre-game ritual charms",
+      "Taping his stick with electrical tape counter-clockwise",
+      "Eating raw garlic cloves before stepping on the ice"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How does Eddie LeBec tragically die in Season 8?",
+    "options": [
+      "He crashes his snowmobile into a frozen lake in Quebec",
+      "He suffers a heart attack during an alumni hockey game",
+      "He is run over by an ice Zamboni while working in an ice traveling show",
+      "He is crushed by a falling arena scoreboard"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What shocking secret about Eddie LeBec is revealed at his memorial service in Cheers?",
+    "options": [
+      "He was secretly a multi-millionaire heir to a Canadian maple fortune",
+      "He was actually born in Cleveland, Ohio, not Canada",
+      "He had never actually legally married Carla",
+      "He had a secret second wife and family in another state"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How many total children does Carla Tortelli have by the end of the series?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "10"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What are the names of Carla's twin children fathered by Eddie LeBec?",
+    "options": [
+      "Frank and Dean",
+      "Elvis and Jesse",
+      "Sam and Woody",
+      "Anthony and Michael"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Who is the father of Carla's intellectual, bespectacled son Ludlow?",
+    "options": [
+      "Dr. Frasier Crane",
+      "Sumner Sloane",
+      "Dr. Bennett Ludlow (Frasier's mentor)",
+      "Cliff Clavin"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What cultural heritage is Carla Tortelli fiercely proud of?",
+    "options": [
+      "Irish-American",
+      "Greek-American",
+      "Portuguese-American",
+      "Italian-American"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What superstitious practice does Carla frequently threaten enemies with when enraged?",
+    "options": [
+      "The Italian 'Evil Eye' (malocchio) and family curses",
+      "Voodoo dolls filled with pine needles",
+      "Tarot death card readings",
+      "Spilling black pepper on their shoes"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of Carla's eldest son who drops out of school and gets married as a teenager?",
+    "options": [
+      "Gino Tortelli",
+      "Anthony Tortelli",
+      "Lucia Tortelli",
+      "Sal Tortelli"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of Carla's sister who looked identical to her and tried to seduce Sam?",
+    "options": [
+      "Gina",
+      "Rosalia",
+      "Annette",
+      "Carmela"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which Boston sports team does Carla revere with almost religious fanaticism?",
+    "options": [
+      "The New York Yankees",
+      "The Montreal Canadiens",
+      "The Philadelphia Flyers",
+      "The Boston Red Sox (and Boston Bruins)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What did Carla do when an obnoxious patron wore a New York Yankees cap into Cheers?",
+    "options": [
+      "Snagged it off his head and ripped or burned it",
+      "Poured an entire bottle of tabasco sauce into his beer",
+      "Challenged him to arm-wrestling for 50 dollars",
+      "Refused to speak English to him for an hour"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of Carla Tortelli's terrifying, domineering mother who speaks mostly Italian?",
+    "options": [
+      "Mama Corleone",
+      "Mama Lozupone",
+      "Mama Gambino",
+      "Mama Barzini"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In which season of Cheers was Dr. Frasier Crane introduced?",
+    "options": [
+      "Season 1",
+      "Season 2",
+      "Season 3",
+      "Season 4"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What brought Dr. Frasier Crane to Cheers for the first time?",
+    "options": [
+      "He answered an advertisement to rent the upstairs apartment",
+      "He was Sam Malone's court-ordered substance abuse therapist",
+      "He was conducting a sociological study on Boston pub regulars",
+      "He was dating Diane Chambers after treating her at a psychiatric clinic"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Dr. Frasier Crane's academic background and psychiatric training specialty?",
+    "options": [
+      "Harvard and Oxford-educated psychiatrist / Freudian psychoanalyst",
+      "Yale cognitive behavioral psychologist",
+      "Princeton neurosurgeon",
+      "Columbia addiction specialist"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Where does Diane leave Frasier standing at the altar in Season 3?",
+    "options": [
+      "At Boston City Hall",
+      "In Europe (Italy)",
+      "At Trinity Church in Copley Square",
+      "In Paris, France"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the profession of Frasier's stern, intellectual love interest Dr. Lilith Sternin?",
+    "options": [
+      "Corporate tax attorney",
+      "Pediatric cardiologist",
+      "Psychiatrist / research psychologist",
+      "Professor of ancient literature"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which actress portrayed the icy, monotone-voiced Dr. Lilith Sternin?",
+    "options": [
+      "Christine Baranski",
+      "Julie Hagerty",
+      "Patricia Clarkson",
+      "Bebe Neuwirth"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What signature hairstyle did Lilith Sternin wear throughout most of Cheers?",
+    "options": [
+      "A severely tight, pulled-back hair bun",
+      "A loose shoulder-length bob",
+      "A dramatic French twist",
+      "Short pixie cut"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of Frasier and Lilith's son born during the run of Cheers?",
+    "options": [
+      "Niles",
+      "Frederick",
+      "Martin",
+      "Julian"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was baby Frederick Crane's very first spoken word, uttered inside the Cheers bar?",
+    "options": [
+      "\"Beer!\"",
+      "\"Mama!\"",
+      "\"Norm!\"",
+      "\"Freud!\""
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 11, with whom does Lilith have an affair that nearly destroys her marriage to Frasier?",
+    "options": [
+      "Dr. Simon Finch-Royce",
+      "Dr. Bennett Ludlow",
+      "An artist colleague from Harvard",
+      "Dr. Louis Pascal (in an underground eco-pod / biosphere)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Where did Lilith and Dr. Pascal live during their scandalous environmental experiment?",
+    "options": [
+      "In an underground biosphere / artificial eco-pod",
+      "On an off-grid solar sailboat in the Pacific",
+      "In an Arctic research outpost in Greenland",
+      "In a high-altitude monastery in Tibet"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What dramatic stunt does a heartbroken Frasier threaten to pull when Lilith leaves him in Season 11?",
+    "options": [
+      "Setting fire to his Harvard diploma in the middle of Cheers",
+      "Jumping off the ledge of a high-rise building",
+      "Moving permanently to a remote sheep farm in New Zealand",
+      "Drinking an entire pitcher of tap beer in front of the regulars"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What musical instrument does Frasier Crane frequently play and sing alongside at the Cheers piano?",
+    "options": [
+      "Accordion",
+      "Acoustic guitar",
+      "Piano",
+      "Violin"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What dog breed was Lilith's beloved pet that despised Frasier?",
+    "options": [
+      "A Golden Retriever",
+      "A French Bulldog",
+      "A Great Dane",
+      "A small dog / Doberman / purebred"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 10 episode 'Smotherly Love', why does Frasier object to Lilith's mother visiting?",
+    "options": [
+      "She undermines their strict parenting methods and criticizes Frasier",
+      "She insists on smoking cigars inside their home",
+      "She constantly flirts with Sam Malone",
+      "She attempts to convert Frederick to another faith"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In which season was Rebecca Howe introduced as the new manager of Cheers?",
+    "options": [
+      "Season 4",
+      "Season 6",
+      "Season 5",
+      "Season 7"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which actress played Rebecca Howe, earning an Emmy and a Golden Globe for the role?",
+    "options": [
+      "Shelley Long",
+      "Kim Cattrall",
+      "Kirstie Alley",
+      "JoBeth Williams"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What large corporate conglomerate hired Rebecca Howe to manage Cheers in Season 6?",
+    "options": [
+      "Omni Consumer Products",
+      "The Boston Hospitality Group",
+      "Drake Enterprises",
+      "The Lillian Corporation"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of the smooth-talking corporate executive Rebecca Howe was desperately infatuated with in Season 6?",
+    "options": [
+      "Evan Drake",
+      "Robin Colcord",
+      "Gordon Finch",
+      "Franklin Stern"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which English multi-millionaire corporate raider did Rebecca date in Seasons 8 and 9?",
+    "options": [
+      "Arthur Sterling",
+      "Robin Colcord",
+      "Nigel Finch",
+      "Julian Croft"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which actor played English billionaire Robin Colcord?",
+    "options": [
+      "John Cleese",
+      "Timothy Dalton",
+      "Roger Rees",
+      "Ian McShane"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What white-collar crime did Robin Colcord commit using Rebecca's office computer at Cheers?",
+    "options": [
+      "Embezzling pension funds",
+      "Money laundering through offshore accounts",
+      "Corporate tax evasion",
+      "Insider trading"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What bad habit did Rebecca Howe constantly try to hide from the staff by smoking in Sam's back office?",
+    "options": [
+      "Chain smoking cigarettes",
+      "Drinking high-end gin",
+      "Eating whole tubs of chocolate ice cream",
+      "Popping anti-anxiety tranquilizers"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Rebecca Howe's recurring emotional reaction whenever her ambitious plans fell apart?",
+    "options": [
+      "Throwing glasses at the bar mirrors",
+      "Bursting into hysterical, high-pitched sobbing jags",
+      "Giving the staff the silent treatment for days",
+      "Writing formal letters of reprimand"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What secret childhood dream did Rebecca Howe confess to having before entering the corporate world?",
+    "options": [
+      "Becoming a professional ice skater",
+      "Directing broadway musicals",
+      "Becoming an actress / singer or marrying rich",
+      "Joining the Peace Corps in South America"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 9, what happens to Robin Colcord after his insider trading conviction?",
+    "options": [
+      "He flees to Switzerland on a private yacht",
+      "He receives a presidential pardon",
+      "He fakes his death in a helicopter crash",
+      "He goes to minimum-security prison and does community service"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What unglamorous profession does Rebecca Howe's eventual husband Don Santry hold in Season 11?",
+    "options": [
+      "Plumber",
+      "Garbage collector",
+      "Truck driver",
+      "Short-order cook"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which Hollywood star played Rebecca's blue-collar plumber husband Don Santry in Season 11?",
+    "options": [
+      "Kurt Russell",
+      "Tom Berenger",
+      "Kevin Bacon",
+      "Dennis Quaid"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Rebecca Howe's sister's name who visited Cheers and immediately charmed Sam?",
+    "options": [
+      "Karen Howe",
+      "Jennifer Howe",
+      "Susan Howe",
+      "Lisa Howe"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 10, what did Rebecca Howe accidentally do to Sam's back office with a lit cigarette?",
+    "options": [
+      "Melted a vintage vinyl record collection",
+      "Burnt a hole through Sam's prized leather sofa",
+      "Triggered the ceiling foam fire suppression system",
+      "Accidentally set the office desk and paperwork on fire"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In the classic Season 5 episode 'Thanksgiving Orphans', what legendary event breaks out among the entire gang?",
+    "options": [
+      "A chaotic, full-scale food fight across the dining room table",
+      "A heated political debate about the mayoral election",
+      "A poker tournament for all of Norm's savings",
+      "A musical sing-along of Broadway showtunes"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In 'Thanksgiving Orphans', why is the turkey delayed for hours, leaving everyone starving?",
+    "options": [
+      "Cliff forgot to turn on the gas stove",
+      "It is completely frozen solid and takes hours to roast in Carla's oven",
+      "Woody accidentally dropped it on the floor",
+      "The power went out on Carla's block in Boston"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Who throws the very first piece of food that initiates the legendary food fight in 'Thanksgiving Orphans'?",
+    "options": [
+      "Woody Boyd throwing cranberry sauce",
+      "Sam Malone throwing a bread roll",
+      "Carla Tortelli (throwing mashed potatoes or stuffing at Norm)",
+      "Diane Chambers throwing gravy"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 1, who is Sam Malone's suave, handsome brother who charms Diane and excels at everything?",
+    "options": [
+      "Danny Malone",
+      "Donald Malone",
+      "David Malone",
+      "Derek Malone"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What impressive talents does Sam's brother Derek possess that make Sam intensely jealous?",
+    "options": [
+      "He flies airplanes, speaks multiple languages, and plays classical cello",
+      "He won three World Series rings with the Yankees",
+      "He is a renowned thoracic surgeon and novelist",
+      "He is a champion polo player and state senator"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 6 premiere 'Home Is the Sailor', what does Sam discover upon returning to Cheers after sailing?",
+    "options": [
+      "The bar was closed down by the Boston board of health",
+      "The bar was sold to a corporation and is run by Rebecca Howe",
+      "Norm had legally taken over the lease of the building",
+      "Melville's had expanded downstairs and replaced the bar"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What position does Sam Malone have to accept when returning to Cheers under Rebecca's management?",
+    "options": [
+      "Assistant floor manager",
+      "Barback and dishwasher",
+      "A regular bartender working for hourly wages",
+      "Night custodian"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of the elderly, curmudgeonly bar regular who frequently delivers blunt one-word punchlines?",
+    "options": [
+      "Gus",
+      "Walter",
+      "Frank",
+      "Al"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What name does the elderly patron Al famously shout out whenever music or pop culture is mentioned?",
+    "options": [
+      "\"Sinatra!\"",
+      "\"Elvis!\"",
+      "\"Bing!\"",
+      "\"Beatles!\""
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of the recurring, round-faced bar regular played by Paul Willson?",
+    "options": [
+      "Phil Henderson",
+      "Paul Krapence",
+      "Pete Jenkins",
+      "Perry Stone"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the name of the quiet background bar regular portrayed by Rhea Perlman's real-life father?",
+    "options": [
+      "Vito",
+      "Rocco",
+      "Phil",
+      "Gino"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 10, where do Carla and Eddie LeBec hold their winter wedding ceremony?",
+    "options": [
+      "On the field at Fenway Park",
+      "In the backroom of Gary's Olde Towne Tavern",
+      "On a Boston Harbor cruise ferry",
+      "At a local ice-skating rink"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 9 episode 'Days of Wine and Neuroses', where does Robin propose to Rebecca after hiding an engagement ring?",
+    "options": [
+      "Inside a glass of champagne",
+      "Inside a lobster shell at Melville's",
+      "Inside a hollowed-out corporate annual report",
+      "Under a napkin on the corner of the bar"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 8, what wager does Sam make regarding his Corvette that he ends up losing to a sleazy sports bettor?",
+    "options": [
+      "He wagers his car in a high-stakes craps game in Atlantic City",
+      "He bets his Corvette on a Boston sporting event / bet with a rival",
+      "He bets his car that Woody cannot finish a marathon",
+      "He wagers his car in a pool trick-shot challenge"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In the Season 3 episode 'King of the Hill', what athletic contest does Sam enter against Coach?",
+    "options": [
+      "An arm-wrestling contest",
+      "A 100-meter dash in the alley",
+      "A table tennis (ping pong) match",
+      "A free-throw shooting match"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 11, what does Woody Boyd discover about his wife Kelly's religious background?",
+    "options": [
+      "She is an ordained minister in a new-age movement",
+      "Her family secretly converted to Quakerism",
+      "She was raised Greek Orthodox",
+      "She was raised Lutheran while he was raised in a strict, quirky rural church"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In the series finale 'One for the Road', what does Sam consider doing with Diane before realizing they don't belong together?",
+    "options": [
+      "Moving to California to marry her and start a new life",
+      "Opening a luxury wine tavern together in Napa Valley",
+      "Adopting a French orphan child together",
+      "Writing an autobiography about their relationship"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In 'One for the Road', what municipal government job does Norm finally secure with Woody's help?",
+    "options": [
+      "Chief postal route inspector",
+      "A city planning clerk / municipal desk job",
+      "Assistant commissioner of Boston parks",
+      "Harbor master deputy"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What happens to the bar's beloved wooden Indian statue in the episode 'The Barstool Home'?",
+    "options": [
+      "It is stolen by college fraternity pranksters from Harvard",
+      "It is struck by lightning during a nor'easter",
+      "Norm accidentally damages it or it is held for ransom",
+      "Carla chops it into firewood during a blizzard"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 1, what does Sam Malone keep locked in his desk drawer that he occasionally stares at to maintain his sobriety?",
+    "options": [
+      "His Red Sox championship ring",
+      "A silver AA sobriety medallion",
+      "A framed photo of his high school coach",
+      "A bottle of vodka / liquor that he never opens"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Primetime Emmy Awards did Cheers win during its 11-season run?",
+    "options": [
+      "28",
+      "18",
+      "37",
+      "42"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How many total Primetime Emmy Award nominations did Cheers receive throughout its run?",
+    "options": [
+      "75",
+      "117",
+      "92",
+      "144"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How many times did Cheers win the Primetime Emmy Award for Outstanding Comedy Series?",
+    "options": [
+      "2 times",
+      "6 times",
+      "4 times",
+      "8 times"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In which four television seasons did Cheers win Outstanding Comedy Series at the Emmys?",
+    "options": [
+      "1982, 1985, 1987, and 1990",
+      "1983, 1986, 1988, and 1992",
+      "1984, 1985, 1990, and 1993",
+      "1983, 1984, 1989, and 1991"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which comedy series eventually broke Cheers' all-time record for most Primetime Emmy Awards won?",
+    "options": [
+      "Frasier",
+      "Friends",
+      "Seinfeld",
+      "Modern Family"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Primetime Emmy Awards did Rhea Perlman win for portraying Carla Tortelli?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Out of 11 seasons of Cheers, how many times was Rhea Perlman nominated for an Emmy for Carla?",
+    "options": [
+      "6 times",
+      "8 times",
+      "10 times",
+      "11 times"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Primetime Emmy Awards did Ted Danson win for his portrayal of Sam Malone?",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How many consecutive seasons was Ted Danson nominated for Outstanding Lead Actor in a Comedy Series?",
+    "options": [
+      "All 11 seasons",
+      "8 seasons",
+      "9 seasons",
+      "10 seasons"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which year did Ted Danson finally win his first Emmy Award for Cheers after eight straight nominations?",
+    "options": [
+      "1986",
+      "1990",
+      "1988",
+      "1992"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which actress won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series for Season 1?",
+    "options": [
+      "Rhea Perlman",
+      "Kirstie Alley",
+      "Shelley Long",
+      "Bebe Neuwirth"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In which year did Kirstie Alley win both an Emmy Award and a Golden Globe for playing Rebecca Howe?",
+    "options": [
+      "1988",
+      "1989",
+      "1993",
+      "1991"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In what year did Woody Harrelson win the Primetime Emmy Award for Outstanding Supporting Actor?",
+    "options": [
+      "1989",
+      "1986",
+      "1987",
+      "1992"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Primetime Emmy Awards did Bebe Neuwirth win for her supporting role as Lilith Sternin?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which British comedy legend won an Emmy for Outstanding Guest Performer on Cheers in 1987?",
+    "options": [
+      "Michael Palin",
+      "Eric Idle",
+      "John Cleese",
+      "Rowan Atkinson"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What character did John Cleese play in his Emmy-winning Season 5 guest appearance on Cheers?",
+    "options": [
+      "Sir Reginald Drake",
+      "Professor Alistair Higgins",
+      "Dr. Arthur Campbell",
+      "Dr. Simon Finch-Royce"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Primetime Emmy nominations did George Wendt receive for playing Norm Peterson?",
+    "options": [
+      "6",
+      "3",
+      "8",
+      "10"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Primetime Emmy nominations did John Ratzenberger receive for playing Cliff Clavin?",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Primetime Emmy Awards for Outstanding Directing for a Comedy Series did James Burrows win for Cheers?",
+    "options": [
+      "1",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "For which pilot episode did James Burrows win his first directing Emmy for Cheers in 1983?",
+    "options": [
+      "\"Showdown: Part 2\"",
+      "\"Thanksgiving Orphans\"",
+      "\"I Do, Adieu\"",
+      "\"Give Me a Ring Sometime\""
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In what year was Cheers inducted into the Television Hall of Fame?",
+    "options": [
+      "It was recognized as one of TV Guide's 50 Greatest TV Shows of All Time in 2002",
+      "1988",
+      "1995",
+      "1999"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In 1997, which Cheers episode was ranked #7 on TV Guide's 100 Greatest Episodes of All Time?",
+    "options": [
+      "\"Showdown: Part 2\"",
+      "\"Thanksgiving Orphans\"",
+      "\"One for the Road\"",
+      "\"I Do, Adieu\""
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which prestigious broadcast journalism honor did Cheers win in 1983 for distinguished achievement?",
+    "options": [
+      "The Pulitzer Prize",
+      "The DuPont-Columbia Award",
+      "The Peabody Award",
+      "The Edward R. Murrow Award"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did the Peabody Board award Cheers in 1983?",
+    "options": [
+      "For pioneering multi-camera digital audio recording techniques",
+      "For addressing working-class economic struggles in urban Boston",
+      "For raising public awareness about substance abuse recovery",
+      "For bringing wit, rich character development, and literate humor to commercial television"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Golden Globe Awards did Cheers win across its entire series run?",
+    "options": [
+      "6",
+      "2",
+      "11",
+      "15"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How many times was Cheers nominated for Outstanding Comedy Series at the Emmys during its 11 seasons?",
+    "options": [
+      "7 times",
+      "Every single season (11 times)",
+      "9 times",
+      "10 times"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which show won the Emmy for Outstanding Comedy Series in 1985, preventing Cheers from a three-peat?",
+    "options": [
+      "Family Ties",
+      "Night Court",
+      "The Cosby Show",
+      "The Golden Girls"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which show won the Emmy for Outstanding Comedy Series in 1986, beating Cheers?",
+    "options": [
+      "The Cosby Show",
+      "Moonlighting",
+      "Night Court",
+      "The Golden Girls"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which show won the Emmy for Outstanding Comedy Series in 1990, defeating Cheers?",
+    "options": [
+      "Murphy Brown",
+      "The Golden Girls",
+      "The Wonder Years",
+      "Designing Women"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which show won Outstanding Comedy Series in 1993 for Cheers' final eligible season?",
+    "options": [
+      "Frasier",
+      "Seinfeld",
+      "Home Improvement",
+      "The Larry Sanders Show"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "On what date did the pilot episode of Cheers premiere on NBC?",
+    "options": [
+      "October 15, 1981",
+      "September 18, 1983",
+      "September 30, 1982",
+      "November 4, 1982"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Where did Cheers rank in the Nielsen television ratings during its first season (1982-1983)?",
+    "options": [
+      "25th out of 77 network shows",
+      "45th out of 77 network shows",
+      "60th out of 77 network shows",
+      "74th out of 77 network shows (near the absolute bottom)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which legendary NBC entertainment president championed Cheers and saved it from early cancellation?",
+    "options": [
+      "Brandon Tartikoff",
+      "Grant Tinker",
+      "Fred Silverman",
+      "Warren Littlefield"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did Brandon Tartikoff refuse to cancel Cheers despite catastrophic Season 1 ratings?",
+    "options": [
+      "Paramount Television threatened to pull all studio programming from NBC",
+      "He believed passionately in the show's exceptional writing quality and critical praise",
+      "The show was extraordinarily cheap to produce because of a single set",
+      "Ted Danson had a personal five-year non-cancellable contract"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What helped Cheers' viewership surge dramatically between Seasons 1 and 2?",
+    "options": [
+      "A massive billboard ad campaign launched in New York and Boston",
+      "A primetime television movie crossover with Taxi",
+      "Reruns aired in the summer of 1983 along with sweeping Emmy Award wins",
+      "A change in the theme song vocalist and tempo"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What famous NBC promotional marketing brand did Cheers help anchor on Thursday nights?",
+    "options": [
+      "\"Comedy Power Hour\"",
+      "\"NBC Thursday Night Live\"",
+      "\"Prime Time Showtime\"",
+      "\"Must See TV\""
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What time slot did Cheers occupy for most of its historic Thursday night run on NBC?",
+    "options": [
+      "9:00 PM Eastern / 8:00 PM Central",
+      "8:00 PM Eastern / 7:00 PM Central",
+      "8:30 PM Eastern / 7:30 PM Central",
+      "9:30 PM Eastern / 8:30 PM Central"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which blockbuster sitcom aired directly before Cheers at 8:30 PM in the mid-to-late 1980s?",
+    "options": [
+      "Night Court",
+      "Family Ties (and later A Different World)",
+      "Seinfeld",
+      "The Golden Girls"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which courtroom comedy sitcom aired immediately following Cheers at 9:30 PM on Thursdays?",
+    "options": [
+      "Wings",
+      "Empty Nest",
+      "Night Court",
+      "Dear John"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In which season did Cheers finally achieve the #1 ranking in all of US television ratings?",
+    "options": [
+      "Season 5 (1986-1987)",
+      "Season 7 (1988-1989)",
+      "Season 11 (1992-1993)",
+      "Season 9 (1990-1991)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "On what date did the series finale of Cheers, 'One for the Road', air on NBC?",
+    "options": [
+      "May 20, 1993",
+      "April 28, 1992",
+      "June 15, 1993",
+      "May 24, 1994"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Approximately how many viewers in the United States watched the series finale of Cheers live?",
+    "options": [
+      "Over 45 million viewers",
+      "Over 80 million viewers (approx. 80.4 to 84 million)",
+      "Over 60 million viewers",
+      "Over 105 million viewers"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What Nielsen household rating did the series finale 'One for the Road' achieve?",
+    "options": [
+      "32.1 rating",
+      "52.8 rating",
+      "45.5 rating",
+      "28.4 rating"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What audience share did the series finale of Cheers capture during its primetime broadcast?",
+    "options": [
+      "48 share",
+      "55 share",
+      "78 share",
+      "64 share (64% of all TVs in use)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "At the time of its 1993 broadcast, where did the Cheers finale rank among the most-watched TV episodes in history?",
+    "options": [
+      "Second most-watched finale in television history, behind only M*A*S*H",
+      "Most-watched finale of all time",
+      "Third most-watched, behind M*A*S*H and The Fugitive",
+      "Fifth most-watched episode in history"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How many total broadcast episodes of Cheers were produced across its 11 seasons?",
+    "options": [
+      "250",
+      "275",
+      "292",
+      "300"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How long was the super-sized series finale episode 'One for the Road' in its original broadcast window?",
+    "options": [
+      "60 minutes",
+      "75 minutes",
+      "98 minutes (commercial-inclusive triple episode / three-part finale)",
+      "120 minutes"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which live talk show broadcast special originated from the Bull & Finch Pub in Boston right after the finale?",
+    "options": [
+      "Late Night with David Letterman",
+      "The Arsenio Hall Show",
+      "Good Morning America",
+      "The Tonight Show with Jay Leno"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What notoriously chaotic condition were the Cheers cast members in during the live Jay Leno post-finale broadcast?",
+    "options": [
+      "Visibly intoxicated and unruly after celebrating hours of drinking at the Boston pub",
+      "Refusing to appear on stage due to a contract payment dispute",
+      "Trapped in an elevator beneath Beacon Hill",
+      "Devastated and weeping uncontrollably in silence"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the estimated cost for a 30-second commercial during the Cheers series finale in 1993?",
+    "options": [
+      "250,000 dollars",
+      "650,000 to 700,000 dollars",
+      "1.2 million dollars",
+      "400,000 dollars"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "During its peak seasons (Seasons 5 through 9), where did Cheers consistently rank in annual Nielsen ratings?",
+    "options": [
+      "Between 10th and 15th place",
+      "Exclusively at #1 every single year",
+      "In the Top 5 of all network television programs",
+      "Between 15th and 25th place"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Season 1, what other critically acclaimed but low-rated show debuted on NBC alongside Cheers?",
+    "options": [
+      "Miami Vice",
+      "Hill Street Blues",
+      "The Golden Girls",
+      "St. Elsewhere"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "How many households in the United States tuned in to watch the final episode of Cheers?",
+    "options": [
+      "Approximately 42.4 million homes",
+      "25.1 million homes",
+      "58.3 million homes",
+      "18.2 million homes"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What special television special preceded the Cheers finale broadcast on May 20, 1993?",
+    "options": [
+      "A documentary about the real Boston bars hosted by Tip O'Neill",
+      "A retrospective special hosted by Bob Costas titled 'Last Call: A Cheers Retrospective'",
+      "A musical salute to Cheers by the Boston Pops Orchestra",
+      "A blooper reel special narrated by Woody Harrelson"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which network executive took over from Brandon Tartikoff and oversaw Cheers' final seasons?",
+    "options": [
+      "Les Moonves",
+      "Robert Iger",
+      "Warren Littlefield",
+      "Jeff Zucker"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What rating did the final season of Cheers (Season 11) achieve in the overall seasonal Nielsen rankings?",
+    "options": [
+      "1st place overall",
+      "14th place overall",
+      "20th place overall",
+      "8th place overall"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the average weekly viewership for Cheers during its peak #1 season in 1990-1991?",
+    "options": [
+      "Over 21 million households (approx. 33 million viewers weekly)",
+      "12 million households",
+      "45 million households",
+      "16 million households"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Why was Season 11 announced as the final season of Cheers despite astronomical ratings?",
+    "options": [
+      "NBC canceled the series to cut escalating production costs",
+      "Ted Danson decided to leave the show, and creators felt Cheers could not continue without Sam",
+      "Paramount lost the rights to the bar set design in arbitration",
+      "The writing staff collectively resigned to develop cable television"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How much money was NBC reportedly willing to pay Ted Danson per episode to return for a Season 12?",
+    "options": [
+      "2 million dollars for the season",
+      "25 million dollars for the season",
+      "Over 10 million dollars for the season / nearly 500,000 dollars per episode",
+      "100,000 dollars per episode"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the final episode count of Shelley Long's tenure before her Season 5 departure?",
+    "options": [
+      "98 episodes",
+      "145 episodes",
+      "110 episodes",
+      "121 episodes"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the official title of the iconic Cheers theme song?",
+    "options": [
+      "\"Where Everybody Knows Your Name\"",
+      "\"A Place to Call Home\"",
+      "\"Here at Cheers\"",
+      "\"Down at the Bar\""
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Who wrote and composed the Cheers theme song 'Where Everybody Knows Your Name'?",
+    "options": [
+      "Mike Post and Pete Carpenter",
+      "Gary Portnoy and Judy Hart Angelo",
+      "Alan Thicke and Gloria Loring",
+      "Charles Fox and Norman Gimbel"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Who sang the vocal track on the iconic Cheers theme song?",
+    "options": [
+      "Michael McDonald",
+      "Kenny Loggins",
+      "Gary Portnoy",
+      "Randy Newman"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What opening line begins the televised cut of the Cheers theme song?",
+    "options": [
+      "\"When the work day is finally done and you want to sit right down...\"",
+      "\"Sometimes you want to go where everybody knows your name...\"",
+      "\"Roll out of bed and head for the door, heading into the rain...\"",
+      "\"Making your way in the world today takes everything you've got...\""
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What darker opening lyrics from the full version of the theme song were omitted from the TV version?",
+    "options": [
+      "\"All those nights when you've got no lights, the check is in the mail / And your little cat turned blue...\"",
+      "\"When you're down on your luck and your wallet is dry / And your lover said goodbye...\"",
+      "\"Your boss is a creep and your landlord is mad / And you're having the worst day you've had...\"",
+      "\"The subway was late and the coffee was cold / And you're feeling so tired and old...\""
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Who were the three co-creators of Cheers?",
+    "options": [
+      "Norman Lear, Bud Yorkin, and James Burrows",
+      "James Burrows, Glen Charles, and Les Charles",
+      "Garry Marshall, Lowell Ganz, and Babaloo Mandel",
+      "Larry David, Jerry Seinfeld, and James Burrows"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What production company was formed by the creators to produce Cheers?",
+    "options": [
+      "Boston Pub Television",
+      "Paramount Creative Partners",
+      "Charles-Burrows-Charles Productions",
+      "Beacon Hill Entertainment"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which critically acclaimed sitcom did James Burrows, Glen Charles, and Les Charles all write/direct for prior to Cheers?",
+    "options": [
+      "M*A*S*H",
+      "All in the Family",
+      "Happy Days",
+      "Taxi"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What legendary comedy writer was the father of director James Burrows?",
+    "options": [
+      "Abe Burrows (Pulitzer Prize-winning playwright and director)",
+      "Sammy Burrows",
+      "Edgar Burrows",
+      "Irving Burrows"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What major studio produced Cheers in association with Charles-Burrows-Charles Productions?",
+    "options": [
+      "Warner Bros. Television",
+      "Paramount Television",
+      "Universal Television",
+      "20th Century Fox Television"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What visual imagery is featured throughout the opening credits sequence of Cheers behind the actor titles?",
+    "options": [
+      "Live action video of the Boston Common and Charles River",
+      "Color watercolor illustrations of Beacon Hill pubs",
+      "Archival vintage black-and-white and sepia photographs of historical American taverns and patrons",
+      "Behind-the-scenes photographs of the cast on set"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Where did the producers source the vintage bar photographs featured in the opening title sequence?",
+    "options": [
+      "The Boston Globe newspaper morgue exclusively",
+      "Personal family albums of the Charles brothers",
+      "The Smithsonian Institution bar and brewing collection",
+      "Historical archives, library collections, and vintage photography books"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What font was famously used for the main title logo of 'Cheers' in yellow serif lettering?",
+    "options": [
+      "Wordian / custom modified Windsor EF Elongated",
+      "Cooper Black",
+      "Helvetica Neue Bold",
+      "Times New Roman Bold"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What phrase was spoken by an announcer at the start of every Cheers episode broadcast?",
+    "options": [
+      "\"Cheers was recorded on location in Boston, Massachusetts.\"",
+      "\"Cheers was filmed before a live studio audience.\"",
+      "\"Recorded live in front of a studio audience in Hollywood.\"",
+      "\"Cheers is brought to you live from Paramount Studios.\""
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What sound stage at Paramount Studios in Hollywood served as the permanent home of Cheers?",
+    "options": [
+      "Stage 12",
+      "Stage 9",
+      "Stage 25",
+      "Stage 18"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which other legendary sitcom later filmed on the same Paramount Stage 25 after Cheers ended?",
+    "options": [
+      "Friends",
+      "Seinfeld",
+      "The Golden Girls",
+      "Frasier"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What camera technique and format was used to shoot Cheers?",
+    "options": [
+      "A traditional multi-camera setup shot on 35mm film",
+      "Single camera 16mm film",
+      "Standard broadcast videotape (NTSC)",
+      "Early digital video cameras"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did the creators specifically choose to film Cheers on 35mm film instead of videotape?",
+    "options": [
+      "Videotape was legally prohibited by the Screen Actors Guild in 1982",
+      "Film provided a warmer, richer, timeless cinematic aesthetic suited to an old tavern",
+      "Paramount Studios had run out of videotape recording facilities",
+      "It was required for European syndication broadcast standards"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the original concept the Charles brothers and James Burrows considered before choosing a Boston bar?",
+    "options": [
+      "A radio station in Seattle",
+      "A diner in Queens, New York",
+      "A hotel in California or a desert tavern in the American West",
+      "An auto repair shop in Chicago"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did the creators ultimately settle on Boston as the setting for Cheers?",
+    "options": [
+      "James Burrows was born and raised in South Boston",
+      "The state of Massachusetts offered massive tax incentives for TV productions",
+      "Paramount already owned an authentic Boston bar set from a failed movie",
+      "Boston was a great sports city with a distinct history, intellectual universities, and a pub culture"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Out of 275 total episodes of Cheers, approximately how many were directed by James Burrows?",
+    "options": [
+      "243 episodes",
+      "115 episodes",
+      "175 episodes",
+      "275 episodes"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which core cast member directed four episodes of Cheers in later seasons?",
+    "options": [
+      "Ted Danson (Sam Malone)",
+      "John Ratzenberger (Cliff Clavin)",
+      "George Wendt (Norm Peterson)",
+      "Woody Harrelson (Woody Boyd)"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which future director of Seinfeld directed several acclaimed Cheers episodes in Seasons 7 through 10?",
+    "options": [
+      "David Steinberg",
+      "Rob Reiner",
+      "Andy Ackerman",
+      "Tom Cherones"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which prolific writing and producing duo penned classic Cheers episodes like 'Showdown' and 'The Heart Is a Lonely Snipehunter'?",
+    "options": [
+      "Marta Kauffman and David Crane",
+      "Larry David and Jerry Seinfeld",
+      "Matt Groening and Sam Simon",
+      "Ken Levine and David Isaacs"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which trio of Cheers writer-producers went on to co-create the spin-off Frasier?",
+    "options": [
+      "Peter Casey, David Lee, and David Angell",
+      "Ken Levine, David Isaacs, and Rob Long",
+      "Glen Charles, Les Charles, and James Burrows",
+      "Phoef Sutton, Dan O'Shannon, and Tom Anderson"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What tragedy struck Cheers and Frasier co-creator David Angell and his wife Lynn in 2001?",
+    "options": [
+      "They died in a private plane crash in the Rockies",
+      "They were passengers aboard American Airlines Flight 11 on September 11",
+      "They perished in a California wildfire",
+      "They were killed in an automobile accident in London"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which writer-producer served as showrunner for Cheers' acclaimed middle seasons and won two Emmys for writing?",
+    "options": [
+      "Chuck Lorre",
+      "David E. Kelley",
+      "Phoef Sutton",
+      "Steven Bochco"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which married writing team wrote iconic Cheers episodes including 'I Do, Adieu' and 'Thanksgiving Orphans'?",
+    "options": [
+      "Richard Levinson and William Link",
+      "Joshua Brand and John Falsey",
+      "Bob Weiskopf and Bob Schiller",
+      "Cheri Eichen and Bill Steinkellner"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What notable secondary career did Cheers writer Ken Levine pursue outside of television comedy?",
+    "options": [
+      "Major League Baseball play-by-play radio announcer",
+      "Professional poker champion",
+      "United States federal judge",
+      "Classical symphony conductor"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which baseball teams did Cheers writer Ken Levine broadcast for during and after the show's run?",
+    "options": [
+      "Boston Red Sox and New York Yankees",
+      "Baltimore Orioles, Seattle Mariners, and San Diego Padres",
+      "Chicago Cubs and White Sox",
+      "Los Angeles Dodgers and Angels"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What writing technique did the Cheers writers famously utilize during table reads and script rewrites?",
+    "options": [
+      "Testing jokes on random Paramount studio tour guests",
+      "Using an electronic laugh-meter machine",
+      "Pitching multiple 'alts' (alternative jokes) written directly in the margins of scripts",
+      "Letting the cast ad-lib all punchlines on the rehearsal stage"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In which season did co-creators Glen and Les Charles step back from day-to-day showrunning to let other writers lead?",
+    "options": [
+      "Season 2",
+      "Season 7",
+      "Season 10",
+      "Season 4"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Who took over as primary head writers/showrunners starting in Season 8 through the end of the series?",
+    "options": [
+      "Cheri Eichen, Bill Steinkellner, and Phoef Sutton",
+      "David Crane and Marta Kauffman",
+      "Garry Marshall and Lowell Ganz",
+      "Ken Levine and David Isaacs"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What writer, who later wrote 'Conversations with My Agent', started his television career in the Cheers writers' room?",
+    "options": [
+      "Dan Fogelman",
+      "Rob Long",
+      "David Chase",
+      "Aaron Sorkin"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was unique about the pacing of dialogue in Cheers compared to traditional 1970s multi-camera sitcoms?",
+    "options": [
+      "Extended slapstick pantomimes without spoken dialogue",
+      "Sing-song rhyming couplets in every scene",
+      "Fast-paced, character-driven repartee with overlapping lines and sophisticated wit",
+      "Heavy reliance on catchphrases and canned studio effects"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the very first spin-off series created from Cheers, debuting in 1987?",
+    "options": [
+      "Frasier",
+      "The Clavins",
+      "Boston Nights",
+      "The Tortellis"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which characters starred in the short-lived 1987 spin-off 'The Tortellis'?",
+    "options": [
+      "Nick and Loretta Tortelli",
+      "Carla Tortelli and Eddie LeBec",
+      "Anthony and Annie Tortelli",
+      "Norm and Vera Peterson"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In which city was the spin-off 'The Tortellis' set?",
+    "options": [
+      "Atlantic City, New Jersey",
+      "Las Vegas, Nevada",
+      "Miami, Florida",
+      "Providence, Rhode Island"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How many episodes of 'The Tortellis' aired before NBC canceled the series?",
+    "options": [
+      "6 episodes",
+      "22 episodes",
+      "13 episodes",
+      "30 episodes"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What legendary spin-off series debuted in autumn 1993, months after Cheers concluded?",
+    "options": [
+      "Woody's World",
+      "Boston Public",
+      "Becker",
+      "Frasier"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In which city is the spin-off series Frasier set?",
+    "options": [
+      "Seattle, Washington",
+      "Chicago, Illinois",
+      "San Francisco, California",
+      "Portland, Oregon"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Primetime Emmy Awards did the spin-off Frasier win during its 11-season run?",
+    "options": [
+      "28",
+      "37",
+      "45",
+      "52"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which Cheers cast member was the first to make a guest appearance on Frasier?",
+    "options": [
+      "Shelley Long (Diane Chambers)",
+      "Woody Harrelson (Woody Boyd)",
+      "Ted Danson (Sam Malone)",
+      "Rhea Perlman (Carla Tortelli)"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In which airport sitcom created by Cheers producers did Norm and Cliff make a guest appearance?",
+    "options": [
+      "Night Court",
+      "Coach",
+      "NewsRadio",
+      "Wings"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "On which fictional island in Massachusetts was the sitcom 'Wings' set?",
+    "options": [
+      "Nantucket",
+      "Martha's Vineyard",
+      "Cape Cod",
+      "Block Island"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which Cheers characters visited Nantucket in the Season 2 Wings episode 'The Storyteller'?",
+    "options": [
+      "Sam Malone and Carla Tortelli",
+      "Cliff Clavin and Norm Peterson",
+      "Woody Boyd and Kelly Gaines",
+      "Frasier Crane and Lilith Sternin"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which critically acclaimed medical drama featured a famous 1985 crossover episode set inside Cheers?",
+    "options": [
+      "ER",
+      "Trapper John, M.D.",
+      "St. Elsewhere",
+      "Chicago Hope"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In the St. Elsewhere crossover, which hospital doctors visit Cheers for a drink after work?",
+    "options": [
+      "Dr. Mark Greene and Dr. Doug Ross",
+      "Dr. John Becker and Dr. Leonard McCoy",
+      "Dr. Joe Gannon and Dr. Paul Lochner",
+      "Dr. Donald Westphall, Dr. Mark Craig, and Dr. Victor Auschlander"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In St. Elsewhere's crossover, what does Dr. Westphall remark about Cheers' bartender and atmosphere?",
+    "options": [
+      "He finds the service rude and the atmosphere thoroughly uninviting",
+      "He praises Sam's sobriety program",
+      "He attempts to recruit Diane as a hospital nurse",
+      "He recognizes Coach as his former high school baseball coach"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In The Simpsons Season 6 episode 'Fear of Flying', what happens when Homer Simpson walks into Cheers?",
+    "options": [
+      "Homer drinks all the draft beer and passes out on Norm's stool",
+      "The gang acts unwelcoming and Norm flees from Homer",
+      "Sam offers Homer a job as an assistant bartender",
+      "Carla challenges Homer to a doughnut-eating contest"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which Cheers cast members lent their voices to the parody scene in The Simpsons 'Fear of Flying'?",
+    "options": [
+      "Only Ted Danson and George Wendt",
+      "Only Kelsey Grammer and Bebe Neuwirth",
+      "Ted Danson, Woody Harrelson, Rhea Perlman, George Wendt, and John Ratzenberger",
+      "Kirstie Alley, Ted Danson, and Shelley Long"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which prominent Cheers cast member did NOT voice their character in The Simpsons parody?",
+    "options": [
+      "Ted Danson",
+      "George Wendt",
+      "Woody Harrelson",
+      "Kelsey Grammer (who was already voicing Sideshow Bob on the show)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which famous NBC promo featured the cast of Cheers interacting with the cast of other NBC shows?",
+    "options": [
+      "\"Let's All Be There\" / \"Come Home to NBC\"",
+      "\"Must See Magic\"",
+      "\"NBC All-Stars Live\"",
+      "\"Thursday Night Fever\""
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What British television sitcom remade Cheers for UK television in 2011, which flopped immediately?",
+    "options": [
+      "The Pub",
+      "No official UK remake was produced, but a Spanish remake titled 'Cheers' was broadcast in 2011",
+      "Down the Local",
+      "Boston Arms"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In which European country did an official licensed remake of Cheers air in 2011 on Telecinco?",
+    "options": [
+      "Italy",
+      "Germany",
+      "Spain",
+      "France"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the simulated beer served to the actors on the set of Cheers made of?",
+    "options": [
+      "Carbonated iced tea mixed with club soda",
+      "Apple cider with dish soap foam",
+      "Ginger ale colored with caramel food dye",
+      "Non-alcoholic near-beer (Moussy/Kaliber) sprinkled with salt to maintain head foam"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Why was table salt added to the actors' beer steins during filming?",
+    "options": [
+      "To release carbonation and keep the foamy beer head alive under hot studio lights",
+      "To prevent the beer from fermenting on stage",
+      "To make the actors drink slower during long takes",
+      "To enhance the golden color on 35mm color film"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What wood was used to construct the iconic Cheers bar counter on Paramount Stage 25?",
+    "options": [
+      "Pine with walnut stain",
+      "Solid mahogany and oak trim",
+      "Teak and cherry laminate",
+      "Plywood with fiberglass finish"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What day of the week was Cheers traditionally filmed in front of the live studio audience?",
+    "options": [
+      "Tuesday afternoons",
+      "Wednesday evenings",
+      "Friday evenings",
+      "Saturday nights"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "How many audience seats were in the bleachers on Paramount Stage 25 for Cheers tapings?",
+    "options": [
+      "50 seats",
+      "500 seats",
+      "1,000 seats",
+      "Approximately 200 to 250 seats"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was located immediately through the swinging doors stage right behind the bar?",
+    "options": [
+      "Sam Malone's private back office",
+      "The commercial kitchen",
+      "The liquor supply cellar",
+      "The fire escape to the alley"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was located stage left of the main bar area?",
+    "options": [
+      "The main street entrance stairs",
+      "The pool table room and secondary seating area",
+      "Melville's kitchen entrance",
+      "The jukebox and coat check"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Where were the restrooms located on the Cheers set layout?",
+    "options": [
+      "Directly behind the bar counter",
+      "At the top of the entrance stairs",
+      "Down a small hallway near the back pool room",
+      "Inside Sam's private office"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What famous prop hung on the wall of Sam's office throughout the entire run of the series?",
+    "options": [
+      "A framed photograph of Ted Williams",
+      "A pair of antique crossed fencing swords",
+      "A nautical ship's steering wheel",
+      "A framed photograph of Apache leader Geronimo"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Whose dressing room originally held the Geronimo photograph before it was moved to the Cheers set?",
+    "options": [
+      "Nicholas Colasanto (Coach)",
+      "Ted Danson (Sam)",
+      "James Burrows (Director)",
+      "Shelley Long (Diane)"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What wooden Native American figure stood near the front stairs of Cheers?",
+    "options": [
+      "A carved totem pole from Alaska",
+      "A traditional cigar store wooden Indian statue",
+      "A wooden carved black bear",
+      "A mahogany ship figurehead"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What brass instrument behind the bar did bartenders ring to celebrate large tips or special occasions?",
+    "options": [
+      "A copper dinner gong",
+      "A bicycle horn",
+      "A polished brass ship's bell",
+      "A silver service chime"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What kind of lighting did director of photography John Finger and James Burrows establish for Cheers?",
+    "options": [
+      "Bright, high-key fluorescent wash common to 1980s network sitcoms",
+      "Stark, high-contrast black-and-white noir lighting",
+      "Vibrant neon-tinted pastel hues",
+      "Warm, amber, low-key lighting reminiscent of a real cozy neighborhood pub"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What color was the neon sign in the front window visible from the street entrance?",
+    "options": [
+      "Red neon spelling 'Cheers'",
+      "Blue neon spelling 'Cold Beer'",
+      "Green neon shamrock sign",
+      "Yellow neon spelling 'Tavern'"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What brand of draft beer taps were visible on the central counter of Cheers?",
+    "options": [
+      "Coors Light exclusively",
+      "Fictional and generic craft taps along with regional New England labels",
+      "Guinness Stout exclusively",
+      "Heineken and Corona exclusively"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What did the studio crew do with the original mahogany bar set after Cheers concluded in 1993?",
+    "options": [
+      "Destroyed it with sledgehammers in a studio wrap party",
+      "Sold it at auction to a private collector in Tokyo",
+      "Preserved parts for the Smithsonian Institution and museum exhibits",
+      "Installed it permanently in Ted Danson's home"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which prestigious national museum acquired pieces of the original Cheers set and costumes?",
+    "options": [
+      "The Metropolitan Museum of Art in New York",
+      "The Museum of Fine Arts in Boston",
+      "The Rock and Roll Hall of Fame in Cleveland",
+      "The Smithsonian National Museum of American History in Washington, D.C."
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What specific item from Cheers is permanently displayed at the Smithsonian National Museum of American History?",
+    "options": [
+      "A section of the bar, barstools, and Sam Malone's Red Sox baseball jacket",
+      "The neon front sign and front door stairs",
+      "Cliff Clavin's postal delivery pouch only",
+      "Carla's serving tray and apron only"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How long did a typical Friday night filming session of Cheers take in front of the studio audience?",
+    "options": [
+      "90 minutes",
+      "3 to 4 hours",
+      "7 to 8 hours",
+      "12 hours"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What did warm-up comedians and the cast do to keep audience energy high during filming delays?",
+    "options": [
+      "Screened bloopers from previous seasons on overhead monitors",
+      "Gave away free kegs of beer to bleacher attendees",
+      "Performed stand-up comedy, tossed candy, and let the cast chat with the crowd",
+      "Held impromptu karaoke competitions among audience members"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "How many cameras were typically used simultaneously in the Cheers multi-camera setup?",
+    "options": [
+      "Two videotape cameras",
+      "Three 16mm film cameras",
+      "Six digital high-definition cameras",
+      "Four 35mm film cameras"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the purpose of the fourth camera in the Cheers multi-camera system?",
+    "options": [
+      "Capturing close-up reaction shots of barflies like Norm, Cliff, and Carla",
+      "Filming wide overhead establishing shots of the audience",
+      "Recording continuous wide masters for foreign dubbing",
+      "Filming behind-the-scenes promotional footage"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Who was the legendary production designer responsible for creating the look and floor plan of the Cheers set?",
+    "options": [
+      "Ken Adam",
+      "Richard Sylbert",
+      "Dean Tavoularis",
+      "Dante Ferretti"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What did the production designer intentionally do with the bar to encourage interaction among actors?",
+    "options": [
+      "Made the bar extraordinarily long to allow walking tracking shots",
+      "Added multiple levels with raised catwalks for servers",
+      "Built a circular, island-style bar so characters could face one another while talking",
+      "Installed a revolving turntable in the center of the tavern floor"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What real Boston architectural feature inspired the stairs descending into Cheers?",
+    "options": [
+      "Old North Church underground crypts",
+      "Boston Harbor wharf dry-docks",
+      "Back Bay carriage house cellars",
+      "Traditional Beacon Hill basement-level brownstone entranceways"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the name of the sound engineer who recorded Cheers' pristine dialogue and live studio laughter?",
+    "options": [
+      "Sam Black (and production sound mixers)",
+      "Ben Burtt",
+      "Gary Rydstrom",
+      "Walter Murch"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the policy regarding canned laughter / laugh tracks on Cheers?",
+    "options": [
+      "100% synthetic canned laughter recorded in the 1950s by Desilu",
+      "The show used authentic live audience reactions, with minimal sweetening only when edits required",
+      "No laughter was ever permitted on the audio soundtrack",
+      "Audience laughter was stripped and replaced with European studio laughs"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What did the studio audience often do spontaneously when Norm Peterson entered the set during tapings?",
+    "options": [
+      "Stand up and give a standing ovation",
+      "Applaud politely after his joke was delivered",
+      "Scream \"Norm!\" along with the cast members",
+      "Stomp their feet on the bleachers"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What did the cue cards show when George Wendt walked into the bar on set?",
+    "options": [
+      "Instructions for the audience to remain silent",
+      "The list of beer brands to recite",
+      "The camera number to look directly into",
+      "The scripted entrance joke response for George to deliver after the shout of 'Norm!'"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What happened to the physical set of Cheers after the series ended in 1993?",
+    "options": [
+      "It was carefully dismantled and placed into Paramount studio storage and museum archives",
+      "It was immediately repainted and reused as Central Perk in Friends",
+      "It was shipped to Boston and reassembled as a working pub in Beacon Hill",
+      "It was sold on the Home Shopping Network in pieces"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What parent corporate logo was shown after Charles-Burrows-Charles Productions at the end of 1980s Cheers episodes?",
+    "options": [
+      "Columbia Pictures Television",
+      "Paramount Television / Gulf+Western Company",
+      "Universal MCA Television",
+      "20th Century Fox Television"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In what year did Cheers enter off-network broadcast syndication, airing nightly on local stations?",
+    "options": [
+      "1982",
+      "1993",
+      "1987",
+      "1998"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which co-composer of the Cheers theme song also co-wrote the popular theme song for 'Growing Pains' and 'Mr. Belvedere'?",
+    "options": [
+      "Mike Post",
+      "Charles Fox",
+      "Alan Thicke",
+      "Judy Hart Angelo (with Gary Portnoy)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the characteristic casual attire frequently worn by Ted Danson as Sam Malone behind the bar?",
+    "options": [
+      "Layered collared shirts, open casual button-downs, and rolled-up sleeves",
+      "Formal tuxedo with black bow tie",
+      "All-black turtleneck and leather vest",
+      "Red Boston Red Sox jersey every episode"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "When Cheers entered off-network syndication in 1987, what financial milestone did it achieve?",
+    "options": [
+      "It became the first television show syndicated internationally in live satellite feeds",
+      "It set record-breaking syndication licensing prices of over 1.5 million dollars per episode in major markets",
+      "It was offered completely free of charge to public television stations",
+      "It sold only to independent cable networks without local affiliate broadcasts"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What is the street address of the real Boston pub whose exterior was used for Cheers?",
+    "options": [
+      "104 Tremont Street, Boston, Massachusetts",
+      "12 Hanover Street, Boston, Massachusetts",
+      "84 Beacon Street, Boston, Massachusetts",
+      "500 Boylston Street, Boston, Massachusetts"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the original real-life name of the Boston pub that served as the exterior of Cheers?",
+    "options": [
+      "The Black Rose",
+      "The Red Lion Inn",
+      "The Hampshire Ale House",
+      "The Bull & Finch Pub"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In which historic Boston neighborhood is the real Bull & Finch Pub located?",
+    "options": [
+      "Beacon Hill",
+      "North End",
+      "Back Bay",
+      "South Boston (Southie)"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which famous Boston public park is located directly across Beacon Street from the real pub?",
+    "options": [
+      "Boston Common",
+      "The Boston Public Garden",
+      "The Esplanade",
+      "Franklin Park"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Who was the Boston restaurateur and owner of the Bull & Finch Pub when Cheers scouted it in 1981?",
+    "options": [
+      "Patrick O'Malley",
+      "Francis Fitzgerald",
+      "Thomas A. Kershaw",
+      "Arthur McGinty"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In what year was the real Bull & Finch Pub originally founded inside the Hampshire House mansion?",
+    "options": [
+      "1955",
+      "1975",
+      "1982",
+      "1969"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What Georgian Revival mansion houses the real Bull & Finch Pub in its lower level?",
+    "options": [
+      "The Hampshire House",
+      "The Gibson House",
+      "The Somerset Club",
+      "The Ames Mansion"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How much money did the producers of Cheers reportedly pay the Bull & Finch owner in 1981 for rights to photograph the exterior?",
+    "options": [
+      "10,000 dollars",
+      "One dollar (nominal fee for location rights)",
+      "50,000 dollars",
+      "100,000 dollars plus 1% syndication royalties"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Why were many tourists visiting the real Bull & Finch Pub in the 1980s and 1990s surprised or disappointed upon entering?",
+    "options": [
+      "The real pub did not sell alcoholic beer",
+      "The pub had been converted into an Italian dry-cleaner",
+      "The real pub was tiny, narrow, and looked completely different from the spacious Hollywood set",
+      "The pub was closed to anyone who wasn't a Massachusetts resident"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the most common question tourists asked bartenders at the real Bull & Finch Pub?",
+    "options": [
+      "\"Is Sam Malone in the back office?\"",
+      "\"Can I pour my own draft beer?\"",
+      "\"Where is the upstairs seafood restaurant?\"",
+      "\"Where are the stairs leading down to the big bar?\""
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In what year was the Bull & Finch Pub officially renamed 'Cheers Beacon Hill'?",
+    "options": [
+      "2001",
+      "1987",
+      "1993",
+      "2010"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In 2001, where in Boston was a second 'Cheers' location built that featured an exact replica of the Hollywood TV set?",
+    "options": [
+      "Prudential Center",
+      "Faneuil Hall Marketplace",
+      "Harvard Square",
+      "Boston Seaport"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What happened to the replica Cheers bar at Faneuil Hall Marketplace in August 2020?",
+    "options": [
+      "It was destroyed by an accidental fire",
+      "It was purchased by Ted Danson and moved to Los Angeles",
+      "It closed permanently due to the COVID-19 pandemic and economic lease terms",
+      "It was converted into a sports museum"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What souvenir retail store was opened directly above the real Bull & Finch Pub to accommodate millions of tourists?",
+    "options": [
+      "The Sam Malone Baseball Pro Shop",
+      "The Norm Peterson Beer Emporium",
+      "The Cliff Clavin Postal Museum",
+      "The Cheers Gift Shop / Souvenir Store"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Approximately how many tourists visited the real Bull & Finch Pub annually at the height of Cheers' popularity?",
+    "options": [
+      "Nearly 1 million visitors per year",
+      "50,000 visitors per year",
+      "250,000 visitors per year",
+      "5 million visitors per year"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Where did the real pub rank among Boston's most visited tourist attractions in the late 1980s?",
+    "options": [
+      "In 25th place behind modern art galleries",
+      "Among the top three most-visited tourist sites in Boston, rivaling the Freedom Trail and Faneuil Hall",
+      "It was never tracked as an official tourist attraction",
+      "It was ranked below local high school sporting fields"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What iconic decorative items framed the real entrance at 84 Beacon Street in the series opening credits?",
+    "options": [
+      "Two stone gargoyles and an American flag banner",
+      "A large wooden barrel and neon shamrock",
+      "Black wrought-iron railings, a classic brass lantern, and window flower boxes",
+      "A granite archway with carved Celtic knots"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In real life, what restaurant is located on the upper floors of the Hampshire House above the pub (parallel to Melville's)?",
+    "options": [
+      "A seafood restaurant named Melville's",
+      "A French steakhouse named Bistro du Midi",
+      "A private gentlemen's athletic lounge",
+      "The Hampshire House private dining and banquet facility"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Did the real Bull & Finch Pub ever employ a bartender named Sam Malone in its history?",
+    "options": [
+      "No, Sam Malone was a completely fictional character created by the writers",
+      "Yes, the character was based on an Irish bartender who worked there in 1972",
+      "Yes, Tom Kershaw hired a real former Red Sox pitcher named Sam",
+      "Yes, but he was a dishwasher rather than a bartender"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which Cheers cast members traveled to Boston in 1993 to attend the series finale celebration at the Bull & Finch Pub?",
+    "options": [
+      "Only John Ratzenberger and George Wendt",
+      "Virtually the entire main cast including Ted Danson, Kelsey Grammer, Woody Harrelson, and George Wendt",
+      "Only Shelley Long and Ted Danson",
+      "None of the actors attended due to filming commitments in Los Angeles"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What happened to traffic in Boston's Beacon Hill during the live finale broadcast outside the Bull & Finch Pub?",
+    "options": [
+      "Police banned all pedestrians and kept the street completely deserted",
+      "A blizzard shut down the city and cancelled the street gathering",
+      "Tens of thousands of fans flooded Beacon Street, gridlocking the entire neighborhood",
+      "Fans staged a peaceful candlelit vigil across the Public Garden"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What cocktail on the real Bull & Finch menu was named after Carla Tortelli?",
+    "options": [
+      "Carla's Espresso Martini",
+      "Tortelli Chianti Spritzer",
+      "Carla's Lemon Drop",
+      "Carla's Revenge / Spiked Hurricane concoction"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What food item on the real Cheers Beacon Hill menu is named in honor of Norm Peterson?",
+    "options": [
+      "The 'Norm Burger' / Peterson Giant Bacon Cheeseburger",
+      "\"Norm's Barbecue Rib Platter\"",
+      "\"Norm's Deep-Fried Clam Basket\"",
+      "\"Norm's Loaded Buffalo Wings\""
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What real Boston landmark can be seen in exterior transition shots when establishing Boston's skyline?",
+    "options": [
+      "The Empire State Building",
+      "The John Hancock Tower and the Custom House Tower",
+      "The Gateway Arch",
+      "The Willis Tower"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In the exterior establishing shots, which famous body of water is occasionally shown with rowers or sailboats?",
+    "options": [
+      "Boston Harbor",
+      "Mystic River",
+      "The Charles River",
+      "Walden Pond"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What historic Boston athletic venue is frequently shown in background establishing clips before sports discussions?",
+    "options": [
+      "Boston Garden",
+      "Foxboro Stadium",
+      "Harvard Stadium",
+      "Fenway Park"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What statue inside the Boston Public Garden across from the real pub became a favorite photo stop for Cheers fans?",
+    "options": [
+      "The 'Make Way for Ducklings' bronze statue and the George Washington equestrian monument",
+      "The Benjamin Franklin bronze statue",
+      "The Paul Revere equestrian statue",
+      "The Samuel Adams granite memorial"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In 1983, what did the real Bull & Finch Pub do when customers began swarming the pub after Cheers won its first Emmys?",
+    "options": [
+      "Sued Paramount for trademark infringement",
+      "Quickly added Cheers merchandise, T-shirts, and glassware for purchase behind the bar",
+      "Banned tourists from photographing the entrance",
+      "Painted over the brick facade with white paint"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What real Boston street leads directly to the Cheers Beacon Hill front entrance?",
+    "options": [
+      "Newbury Street",
+      "Boylston Street",
+      "Beacon Street (between Arlington and Charles Streets)",
+      "Commonwealth Avenue"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did the city of Boston grant special commemorative status to the Bull & Finch Pub building in 2000?",
+    "options": [
+      "Because George Washington held military meetings in the tavern basement",
+      "Because the Boston Tea Party was planned on the second floor",
+      "Because it was the oldest continuously operated pub in the United States",
+      "For its cultural contribution to Boston tourism and global recognition as an American television icon"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did Shelley Long decide to leave Cheers at the end of Season 5?",
+    "options": [
+      "To pursue a film career in feature movies and spend time with her family",
+      "She was fired by the network over salary disputes",
+      "She suffered a vocal cord injury that prevented stage work",
+      "She left to star in a competing CBS drama series"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which major 1980s film comedies did Shelley Long star in around the time of her Cheers departure?",
+    "options": [
+      "Ghostbusters, Splash, and Big",
+      "Night Shift, The Money Pit, and Outrageous Fortune",
+      "Tootsie, Broadcast News, and Working Girl",
+      "Overboard, Protocol, and Private Benjamin"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What iconic sci-fi role had Kirstie Alley played prior to being cast as Rebecca Howe on Cheers?",
+    "options": [
+      "Princess Leia's stunt double in Return of the Jedi",
+      "A Viper pilot in Battlestar Galactica",
+      "Lt. Saavik in Star Trek II: The Wrath of Khan",
+      "Dr. Beverly Crusher in Star Trek: The Next Generation"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What hilarious practical joke did Kirstie Alley pull during her very first table read with the Cheers cast?",
+    "options": [
+      "She poured a pitcher of water over Ted Danson's head",
+      "She spoke entirely in a fake Cockney accent",
+      "She pretended to be a tourist looking for the bathroom",
+      "She wore a blonde wig modeled after Shelley Long's signature hairstyle"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "How did the Cheers producers deliberately differentiate Rebecca Howe from Diane Chambers?",
+    "options": [
+      "Making Rebecca an ambitious corporate climber whose confident facade constantly collapsed into neurotic tears",
+      "Making Rebecca an illiterate tomboy who loved mechanics",
+      "Giving Rebecca an aristocratic British royal background",
+      "Portraying Rebecca as an aggressive, street-smart loan shark"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In which season did Shelley Long make her highly anticipated guest return to Cheers?",
+    "options": [
+      "Season 8",
+      "Season 11 (the series finale 'One for the Road')",
+      "Season 9",
+      "Season 10"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What secret alternative ending was filmed for Season 5's finale 'I Do, Adieu' to prevent script leaks?",
+    "options": [
+      "An ending where Diane was hit by a taxi outside Cheers",
+      "An ending where Frasier interrupted the ceremony with a restraining order",
+      "An ending where Sam and Diane actually went through with their wedding ceremony",
+      "An ending where Sam sold the bar and moved to Hawaii alone"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How did the studio audience react during the taping of 'I Do, Adieu' when Sam and Diane didn't marry?",
+    "options": [
+      "They booed the cast off the stage in anger",
+      "They demanded their ticket money back",
+      "They laughed thinking it was an elaborate gag",
+      "Genuinely emotional with audible gasps and tearful applause"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Golden Globe Awards did Shelley Long win for playing Diane Chambers on Cheers?",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In what year did Shelley Long win her Primetime Emmy Award for Outstanding Lead Actress?",
+    "options": [
+      "1985",
+      "1983",
+      "1987",
+      "1990"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the critical and ratings reaction to Kirstie Alley's debut season (Season 6)?",
+    "options": [
+      "A massive ratings drop that nearly caused NBC to cancel the show",
+      "Widespread boycott from fans demanding Shelley Long's return",
+      "Huge critical and commercial success, keeping Cheers firmly in the top ratings",
+      "Critical panning followed by an immediate mid-season retooling"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the title of Kirstie Alley's memorable 1991 Emmy acceptance speech line about her husband Parker Stevenson?",
+    "options": [
+      "She thanked him for teaching her how to pour beer",
+      "She joked that he made better clam chowder than Melville's",
+      "She thanked him for letting her wear her high heels to bed",
+      "She famously thanked him for giving her 'the big one' for the last eight years"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What film franchise did Kirstie Alley star in alongside John Travolta while starring on Cheers?",
+    "options": [
+      "Look Who's Talking",
+      "Three Men and a Baby",
+      "Police Academy",
+      "National Lampoon's Vacation"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which actress was also considered for the role of Rebecca Howe before Kirstie Alley was cast?",
+    "options": [
+      "Julia Roberts",
+      "Sharon Stone (and Kim Cattrall)",
+      "Demi Moore",
+      "Sigourney Weaver"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Did Shelley Long ever reprise her role as Diane Chambers on the spin-off series Frasier?",
+    "options": [
+      "No, she declined all invitations to appear on Frasier",
+      "No, because the character of Diane was killed off off-screen",
+      "Yes, in multiple episodes including dream sequences and real visits",
+      "Only in an uncredited audio voiceover in the pilot"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What 1989 film starring Shelley Long and Craig T. Nelson became a cult comedy classic about the Wilderness Girls?",
+    "options": [
+      "Camp Nowhere",
+      "Don't Tell Mom the Babysitter's Dead",
+      "Baby Boom",
+      "Troop Beverly Hills"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the real reason producers decided not to recast Diane Chambers with another actress?",
+    "options": [
+      "They felt Shelley Long's portrayal was unique and replacing her directly would alienate the audience",
+      "The Screen Actors Guild prohibited recasting existing roles in prime time",
+      "NBC executives insisted on an all-male ensemble",
+      "Paramount had already signed a contract with another studio"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How was Shelley Long greeted by the Cheers cast when she returned to film the 1993 series finale?",
+    "options": [
+      "Tense silence with separate dressing trailers on opposite sides of the lot",
+      "With warmth and professional celebration after years apart",
+      "She refused to speak with Ted Danson outside of scripted scenes",
+      "The cast staged a walkout during the first rehearsal"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "In 1990, which television movie saw Shelley Long star alongside Barry Bostwick?",
+    "options": [
+      "The Burning Bed",
+      "A Mother's Courage",
+      "Fatal Charm / Voices Within: The Lives of Truddi Chase",
+      "Too Young to Die"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What Emmy Award did Kirstie Alley win for Cheers in 1991?",
+    "options": [
+      "Outstanding Supporting Actress in a Comedy Series",
+      "Outstanding Guest Actress in a Comedy Series",
+      "Outstanding Variety Performance",
+      "Outstanding Lead Actress in a Comedy Series"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In what year did beloved actor Nicholas Colasanto pass away during the production of Season 3?",
+    "options": [
+      "1985 (February 12, 1985)",
+      "1983",
+      "1987",
+      "1989"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What serious health condition had Nicholas Colasanto battled during the filming of Cheers?",
+    "options": [
+      "Lung cancer",
+      "Heart disease / coronary heart disease",
+      "Kidney failure",
+      "Parkinson's disease"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Nicholas Colasanto's notable career background in television before playing Coach?",
+    "options": [
+      "A professional opera singer at the New York Metropolitan Opera",
+      "A minor league baseball umpire in the Pacific Coast League",
+      "An accomplished television director, directing episodes of Columbo, Hawaii Five-O, and Starsky & Hutch",
+      "A stand-up comedian on the Ed Sullivan Show"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which iconic 1980 Martin Scorsese boxing masterpiece featured Nicholas Colasanto as mob boss Tommy Como?",
+    "options": [
+      "Goodfellas",
+      "Taxi Driver",
+      "Casino",
+      "Raging Bull"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What did the cast and crew do with Nicholas Colasanto's personal dressing room portrait of Geronimo?",
+    "options": [
+      "Hung it prominently on the Cheers bar set wall as a permanent tribute to him",
+      "Donated it to the Baseball Hall of Fame in Cooperstown",
+      "Auctioned it for charity at the Beverly Hills Hotel",
+      "Buried it under the soundstage floorboards"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What touching personal ritual did Ted Danson perform before filming every Cheers episode after Colasanto's death?",
+    "options": [
+      "Reciting Coach's Albania mnemonic song in the mirror",
+      "Touching the Geronimo portrait on the set wall for good luck and remembrance",
+      "Leaving an empty cold beer stein on the corner stool",
+      "Tying a black ribbon around his baseball jacket"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "In the final shot of the entire series in 1993, what does Sam Malone do before walking into the shadows?",
+    "options": [
+      "Pours one last beer down the sink drain",
+      "Turns off the neon sign in the front window",
+      "Straightens the framed picture of Geronimo hanging on the wall",
+      "Places Coach's baseball cap on the cash register"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What stage production on Broadway was Woody Harrelson understudying when he auditioned for Cheers?",
+    "options": [
+      "David Mamet's 'Glengarry Glen Ross'",
+      "Arthur Miller's 'Death of a Salesman'",
+      "Tom Stoppard's 'The Real Thing'",
+      "Neil Simon's 'Biloxi Blues'"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What did the producers find compelling about Woody Harrelson during his audition for the replacement role?",
+    "options": [
+      "His disarming, genuine, Midwestern country-boy innocence and boyish charm",
+      "His uncanny vocal impression of Nicholas Colasanto",
+      "His ability to juggle cocktail shakers and liquor bottles",
+      "His fast-talking, cynical Brooklyn comedic delivery"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the real-life background of Woody Harrelson's estranged father, Charles Harrelson?",
+    "options": [
+      "A prominent Texas oil tycoon and state senator",
+      "A convicted contract hitman who assassinated Federal Judge John H. Wood Jr.",
+      "A professional heavyweight boxer and Olympic medalist",
+      "A touring country-and-western bluegrass fiddle player"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In what small Ohio college did Woody Harrelson earn a degree in theater and English?",
+    "options": [
+      "Oberlin College in Ohio",
+      "Kenyon College in Ohio",
+      "Hanover College in Indiana (the town his character was named after)",
+      "DePauw University in Indiana"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did the Cheers writers name Woody Boyd's hometown 'Hanover, Indiana'?",
+    "options": [
+      "Because co-creator Glen Charles was born on a farm in Hanover",
+      "Because it was the home of the real manufacturer of the barstools",
+      "Because it won a viewer contest held in TV Guide in 1984",
+      "Because Woody Harrelson had attended Hanover College in Hanover, Indiana"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What blockbuster 1992 sports comedy film starred Woody Harrelson alongside Wesley Snipes?",
+    "options": [
+      "White Men Can't Jump",
+      "Major League",
+      "Hoosiers",
+      "Blue Chips"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What 1994 Oliver Stone crime satire starred Woody Harrelson as mass murderer Mickey Knox?",
+    "options": [
+      "Pulp Fiction",
+      "Natural Born Killers",
+      "The Usual Suspects",
+      "True Romance"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Academy Award (Oscar) nominations has Woody Harrelson received in his film career?",
+    "options": [
+      "0",
+      "1",
+      "3 (for The People vs. Larry Flynt, The Messenger, and Three Billboards Outside Ebbing, Missouri)",
+      "5"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Primetime Emmy nominations did Woody Harrelson earn for his role as Woody Boyd on Cheers?",
+    "options": [
+      "2 nominations",
+      "8 nominations",
+      "11 nominations",
+      "5 consecutive nominations (winning in 1989)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "How was Coach's passing handled in the narrative of Season 4's premiere?",
+    "options": [
+      "With poignant, gentle references to his death without showing a funeral",
+      "With an elaborate two-part funeral episode with flashbacks",
+      "By stating that Coach had moved to a nursing home in Arizona",
+      "The character was never mentioned again by any regular"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the final episode Nicholas Colasanto filmed before his death?",
+    "options": [
+      "\"Showdown: Part 2\"",
+      "\"Cheerio, Cheers\" in Season 3",
+      "\"King of the Hill\"",
+      "\"Rescue Me\""
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Nicholas Colasanto's final brief on-screen appearance in the Season 3 finale?",
+    "options": [
+      "A dream sequence where he appeared in angel wings",
+      "A voiceover phone call to Sam from Florida",
+      "A brief scene filmed earlier that was edited into the cold open",
+      "A photograph displayed on the front door"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What environmental cause did Woody Harrelson become famously known for promoting during his Cheers years?",
+    "options": [
+      "Nuclear energy expansion",
+      "Whale hunting regulation exclusively",
+      "Electric high-speed passenger rail networks",
+      "Organic farming, veganism, and industrial hemp advocacy"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What role did John Ratzenberger originally audition for when trying out for Cheers?",
+    "options": [
+      "Norm Peterson (or a generic bar customer)",
+      "Ernie 'Coach' Pantusso",
+      "Sam Malone",
+      "Dr. Frasier Crane"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How did John Ratzenberger invent the character of Cliff Clavin on the spot during his audition?",
+    "options": [
+      "He walked in dressed as a real Boston transit police officer",
+      "He asked the creators if they had a 'bar know-it-all' who pretends to know everything",
+      "He began reciting encyclopedia entries in a thick Irish brogue",
+      "He started checking the mail delivery boxes in the Paramount lobby"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Where was John Ratzenberger born and raised, giving him his authentic New England cadence?",
+    "options": [
+      "South Boston, Massachusetts",
+      "Providence, Rhode Island",
+      "Bridgeport, Connecticut",
+      "Portland, Maine"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What famous film animation studio has featured John Ratzenberger's voice in nearly all of its feature films?",
+    "options": [
+      "DreamWorks Animation",
+      "Studio Ghibli",
+      "Illumination Entertainment",
+      "Pixar Animation Studios"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which iconic piggy bank character did John Ratzenberger voice in the Toy Story film series?",
+    "options": [
+      "Hamm",
+      "Rex",
+      "Slinky Dog",
+      "Mr. Potato Head"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What famous sci-fi blockbuster featured John Ratzenberger in a minor role as Major Bren Derlin on Hoth?",
+    "options": [
+      "Star Trek: The Motion Picture",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Alien",
+      "Blade Runner"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which sci-fi blockbuster featured John Ratzenberger as a missile control officer alongside Christopher Reeve?",
+    "options": [
+      "Flash Gordon",
+      "Close Encounters of the Third Kind",
+      "Superman (1978) and Superman II",
+      "The Black Hole"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What improv comedy troupe in Chicago did George Wendt train with before landing the role of Norm?",
+    "options": [
+      "The Groundlings",
+      "Upright Citizens Brigade",
+      "ImprovOlympic",
+      "The Second City"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was George Wendt's character originally named in the pilot script before being developed into Norm?",
+    "options": [
+      "George",
+      "Barney",
+      "Gus",
+      "Ralph"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which famous Saturday Night Live comedy star is the real-life nephew of George Wendt?",
+    "options": [
+      "Will Forte",
+      "Jason Sudeikis",
+      "Bill Hader",
+      "Seth Meyers"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What landmark intellectual property lawsuit was filed by George Wendt and John Ratzenberger in 1993?",
+    "options": [
+      "A trademark suit against Samuel Adams brewery for using their faces on labels",
+      "A copyright infringement suit against the creators of The Simpsons",
+      "Wendt v. Host International, Inc. (over animatronic airport bar robots modeled after Norm and Cliff)",
+      "A contract lawsuit against Paramount over syndication residuals"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What were the names of the robotic animatronic figures created by Host International that prompted the lawsuit?",
+    "options": [
+      "\"Ned\" and \"Chet\"",
+      "\"Burt\" and \"Mack\"",
+      "\"Gus\" and \"Al\"",
+      "\"Hank\" and \"Bob\""
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What legal principle did the Ninth Circuit Court establish in Wendt v. Host International?",
+    "options": [
+      "An actor's right of publicity protects against unauthorized commercial robotic replicas evoking their identity",
+      "Sitcom characters cannot be copyrighted by individual actors",
+      "Airports have sovereign immunity against all civil copyright claims",
+      "Parody animatronics are entirely protected by the First Amendment"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which actor, famous for playing Fred Flintstone and in The Great Escape, originally auditioned for Coach?",
+    "options": [
+      "Alan Hale Jr.",
+      "Nicholas Colasanto won the role, beating out several veterans including Sid Caesar considerations",
+      "Denver Pyle",
+      "Jack Elam"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What actor was the creators' initial top choice for Sam Malone when the character was envisioned as a former football player?",
+    "options": [
+      "Joe Namath",
+      "Burt Reynolds",
+      "Fred Dryer (former NFL defensive end who later starred in Hunter)",
+      "Mark Harmon"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Why was the character of Sam Malone changed from a former football player to a former baseball pitcher?",
+    "options": [
+      "Because the NFL refused to license team names for the pilot",
+      "Because Boston did not have a professional football team in 1982",
+      "Because baseball was cheaper to film in stadium stock footage",
+      "To better fit Ted Danson's lean, athletic build rather than a bulky NFL physique"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which actress auditioned alongside Fred Dryer as a paired test for the roles of Sam and Diane?",
+    "options": [
+      "Julia Duffy",
+      "Courteney Cox",
+      "Geena Davis",
+      "Helen Hunt"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What other actress was paired with Ted Danson in final screen tests before Shelley Long was selected?",
+    "options": [
+      "Bess Armstrong",
+      "Lisa Eichhorn",
+      "Jane Curtin",
+      "Christine Ebersole"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What did the creators cite as the deciding factor in casting Ted Danson and Shelley Long together?",
+    "options": [
+      "They both agreed to work for lower initial salaries than other contenders",
+      "They had previously starred together in an off-Broadway romantic comedy",
+      "Their undeniable, combustible, romantic on-screen chemistry during paired chemistry reads",
+      "They were both personal friends of NBC executive Brandon Tartikoff"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What famous recurring Saturday Night Live sketch did George Wendt star in as a Chicago sports fanatic?",
+    "options": [
+      "\"Wayne's World\"",
+      "\"The Coneheads\"",
+      "\"Two Wild and Crazy Guys\"",
+      "\"Bill Swerski's Superfans\" (\"Da Bears!\")"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Why was actor Jay Thomas abruptly fired from his recurring role as Eddie LeBec in Season 8?",
+    "options": [
+      "He made disparaging remarks about kissing Rhea Perlman during a live morning radio broadcast",
+      "He demanded a co-lead credit alongside Ted Danson",
+      "He was arrested for vandalism at a Boston Bruins hockey game",
+      "He skipped rehearsals to film a primetime television movie in Toronto"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What exact insult did Jay Thomas deliver on his radio show that led to his character's immediate demise?",
+    "options": [
+      "He claimed Rhea Perlman couldn't remember her lines without cue cards",
+      "He said having to kiss Rhea Perlman on Cheers was brutal and required hazard pay",
+      "He mocked Rhea Perlman's real-life husband Danny DeVito on air",
+      "He said the Cheers writing staff was out of fresh ideas"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "How did the Cheers writers retaliate against Jay Thomas for his radio comments?",
+    "options": [
+      "They had Carla divorce him for an ugly French mime",
+      "They sent Eddie to play hockey in Soviet Siberia forever",
+      "They killed off Eddie LeBec in an absurd, off-screen accident involving an ice Zamboni",
+      "They never explained his disappearance and deleted his character name"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "For how many episodes was Kelsey Grammer originally contracted when cast as Frasier Crane in Season 3?",
+    "options": [
+      "A full 22-episode season",
+      "Only a single two-minute guest scene",
+      "A three-year series regular contract",
+      "Only 4 to 6 episodes"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did the Cheers producers decide to make Kelsey Grammer a permanent series regular?",
+    "options": [
+      "His comedic delivery, refined pomposity, and chemistry with the cast were extraordinarily popular",
+      "Paramount studio executives mandated the addition of a psychiatrist character",
+      "Shelley Long refused to film scenes unless Frasier remained in Boston",
+      "Kelsey Grammer purchased an ownership share in Charles-Burrows-Charles Productions"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "For how many total consecutive years did Kelsey Grammer play the character of Frasier Crane across Cheers and Frasier?",
+    "options": [
+      "11 years",
+      "20 consecutive years (1984 to 2004)",
+      "15 years",
+      "25 years"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What cosmetic secret about Ted Danson's hair was kept under wraps for much of the series run?",
+    "options": [
+      "His hair was completely dyed bright red naturally",
+      "He wore a full theatrical lace wig in every scene",
+      "He wore a small hairpiece (toupee) to conceal a bald spot on his crown",
+      "He had undergone experimental scalp grafting"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "On which late-night talk show did Ted Danson famously remove his hairpiece on camera to surprise the audience?",
+    "options": [
+      "The Tonight Show Starring Johnny Carson",
+      "Late Night with David Letterman",
+      "The Phil Donahue Show",
+      "The Arsenio Hall Show"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was Ted Danson's reported salary per episode for the 11th and final season of Cheers?",
+    "options": [
+      "Approximately 450,000 to 500,000 dollars per episode (making him the highest-paid actor on TV then)",
+      "100,000 dollars per episode",
+      "1 million dollars per episode",
+      "250,000 dollars per episode"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Who was Philip Perlman, who made over 30 non-speaking and bit appearances as bar regular Phil?",
+    "options": [
+      "Ted Danson's childhood uncle from San Diego",
+      "Rhea Perlman's real-life father",
+      "James Burrows' personal college roommate",
+      "George Wendt's father-in-law"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What Hollywood superstar is Rhea Perlman married to in real life?",
+    "options": [
+      "Joe Pesci",
+      "Harvey Keitel",
+      "Danny DeVito",
+      "Bob Hoskins"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Did Danny DeVito ever make an on-camera cameo appearance inside Cheers?",
+    "options": [
+      "Yes, as Carla's cousin Vinnie in Season 4",
+      "Yes, as a rival bar owner from Philadelphia in Season 7",
+      "Yes, as a postal supervisor inspecting Cliff's route",
+      "No, he never appeared on camera in Cheers despite his marriage to Rhea Perlman"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which core cast member had a severe fear of flying that required traveling across the country by train?",
+    "options": [
+      "John Ratzenberger (Cliff Clavin)",
+      "Ted Danson",
+      "George Wendt",
+      "Rhea Perlman"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "What Broadway musical did Bebe Neuwirth star in as Velma Kelly, winning a Tony Award?",
+    "options": [
+      "Cabaret",
+      "Chicago",
+      "A Chorus Line",
+      "Sweet Charity"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "How many Tony Awards has Bebe Neuwirth won in her illustrious Broadway stage career?",
+    "options": [
+      "0",
+      "1",
+      "2 Tony Awards (for Sweet Charity and Chicago)",
+      "4"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the atmosphere among the cast members during rehearsals throughout the 11-year run?",
+    "options": [
+      "Plagued by constant physical fistfights and police interventions",
+      "Actors refused to rehearse together, relying on stand-ins until tape day",
+      "Strictly formal with no personal socializing allowed by the studio",
+      "Remarkably harmonious, collaborative, and free of ego clashes compared to most hit shows"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What did the cast do together every week on set before taping began in front of the studio audience?",
+    "options": [
+      "Gathered in a tight group huddle to share words of encouragement and group affection",
+      "Drank a celebratory shot of real Irish whiskey together",
+      "Listened to James Burrows read fan mail from Boston",
+      "Held a moment of silence for Red Sox players"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "What did Ted Danson do immediately after Cheers wrapped in 1993 regarding his personal life and career?",
+    "options": [
+      "Retired from acting to become a commercial fisherman in Maine",
+      "Starred in the film 'Made in America' and later the CBS sitcom 'Becker'",
+      "Moved permanently to London to study classical Shakespeare",
+      "Directed an independent documentary on Boston baseball"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which core cast member appeared in every single one of the 275 broadcast episodes of Cheers?",
+    "options": [
+      "Only Ted Danson",
+      "Only Kelsey Grammer",
+      "Ted Danson (and Rhea Perlman & George Wendt)",
+      "Every single main cast member"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which female star appeared in the most episodes of Cheers across its 11 seasons?",
+    "options": [
+      "Shelley Long (Diane Chambers)",
+      "Kirstie Alley (Rebecca Howe)",
+      "Bebe Neuwirth (Lilith Sternin)",
+      "Rhea Perlman (Carla Tortelli)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which late-night television king made a surprise cameo as himself in the Season 10 episode 'The King of Beers'?",
+    "options": [
+      "Johnny Carson",
+      "David Letterman",
+      "Jay Leno",
+      "Ed McMahon"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which speaker of the U.S. House of Representatives and Massachusetts native made a Season 1 cameo in Cheers?",
+    "options": [
+      "Ted Kennedy",
+      "Tip O'Neill",
+      "John F. Kennedy Jr.",
+      "Michael Dukakis"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What does Speaker Tip O'Neill do in his Season 1 cameo when Diane Chambers begins venting to him?",
+    "options": [
+      "He offers Diane an internship on Capitol Hill",
+      "He buys a round of draft beers for Norm and Cliff",
+      "He quietly slips out of the bar into a waiting taxi to escape her pontificating",
+      "He debates politics with Coach over the bar counter"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which 1988 Democratic presidential candidate and Massachusetts governor made a guest cameo in Season 9?",
+    "options": [
+      "Bill Clinton",
+      "Walter Mondale",
+      "Paul Tsongas",
+      "Michael Dukakis"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which Boston Celtics Hall of Fame forward guest-starred as himself, obsessively counting parquet floorboards?",
+    "options": [
+      "Kevin McHale",
+      "Larry Bird",
+      "Robert Parish",
+      "Bill Russell"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What did the Cheers gang bet on involving Kevin McHale's basketball cameo?",
+    "options": [
+      "How many free throws he could make blindfolded in the alley",
+      "How many floorboards made up the Boston Garden parquet floor",
+      "Whether he could drink more beer than Norm Peterson",
+      "Whether he could dunk on the ten-foot bar entrance doorway"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which Boston Red Sox Hall of Fame third baseman appeared in Season 6, only to have the gang steal his pants?",
+    "options": [
+      "Roger Clemens",
+      "Carl Yastrzemski",
+      "Wade Boggs",
+      "Dwight Evans"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Why did the Cheers regulars steal Wade Boggs' pants during his guest appearance?",
+    "options": [
+      "They wanted to auction them for charity at Melville's",
+      "Carla wanted an authentic autograph on the back pocket",
+      "Norm bet Cliff fifty dollars he couldn't pants a major leaguer",
+      "They believed he was a fake imposter sent by Gary's Olde Towne Tavern to pull a prank"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which future Academy Award-winning actress guest-starred as Frasier's singing ex-wife Nanette Guzman ('Nanny G')?",
+    "options": [
+      "Emma Thompson",
+      "Kate Winslet",
+      "Cate Blanchett",
+      "Helena Bonham Carter"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What was the title of the Season 10 episode featuring Emma Thompson as Nanny G?",
+    "options": [
+      "\"Frasier's First Love\"",
+      "\"One Hugs, the Other Doesn't\"",
+      "\"The Song of Boston\"",
+      "\"Children's Hour\""
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which con artist and magician character did Harry Anderson portray in six early Cheers episodes?",
+    "options": [
+      "Magic Mike",
+      "Boston Benny",
+      "Harry the Hat (Harry Gittes)",
+      "Slick Sal"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which NBC sitcom was created around Harry Anderson following his popular guest appearances on Cheers?",
+    "options": [
+      "Wings",
+      "Empty Nest",
+      "My Two Dads",
+      "Night Court"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "Which game show host made a famous cameo when Cliff Clavin appeared on Jeopardy!?",
+    "options": [
+      "Alex Trebek",
+      "Pat Sajak",
+      "Chuck Woolery",
+      "Bob Eubanks"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Cheers",
+    "q": "What famous talk show host appeared as himself in Season 2, being insulted by Norm in the bar?",
+    "options": [
+      "Merv Griffin",
+      "Dick Cavett",
+      "Phil Donahue",
+      "Mike Douglas"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "In Dick Cavett's guest appearance, what does he suggest to Sam Malone about Diane?",
+    "options": [
+      "That Diane should write a book for his publishing imprint",
+      "That Sam should hire a public relations firm for the bar",
+      "That Sam and Diane's passionate fighting is a classic Freudian neurosis masking desire",
+      "That Coach should be booked as a guest on his literary talk show"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which famous Senator from Massachusetts made a cameo appearance in the series finale 'One for the Road'?",
+    "options": [
+      "Ted Kennedy",
+      "Mitt Romney",
+      "Edward Brooke",
+      "John Kerry"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Cheers",
+    "q": "Which famous Boston Red Sox pitcher appeared as himself in Season 2's episode 'Just Three Friends'?",
+    "options": [
+      "Luis Tiant",
+      "Jim Lonborg",
+      "Bill Lee",
+      "Roger Clemens"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which television star from 'Spenser: For Hire' made a brief cameo referencing Boston detective work?",
+    "options": [
+      "Tom Selleck",
+      "Robert Urich",
+      "Don Johnson",
+      "Lee Majors"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which member of the famous Kennedy family made a cameo appearance on Cheers in Season 10?",
+    "options": [
+      "Maria Shriver",
+      "Caroline Kennedy",
+      "Ethel Kennedy",
+      "Robert F. Kennedy Jr."
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Cheers",
+    "q": "Which legendary sports announcer made a voiceover cameo as a boxing commentator in Season 4?",
+    "options": [
+      "Al Michaels",
+      "Howard Cosell",
+      "Vin Scully",
+      "Bob Costas"
+    ],
+    "answer": 3,
+    "d": 3
+  }
+]

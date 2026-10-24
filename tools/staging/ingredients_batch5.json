@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Ingredients",
+    "q": "Which cured Italian pork product made from the jowl is the authentic meat for Spaghetti alla Carbonara?",
+    "options": [
+      "Prosciutto cotto",
+      "Guanciale",
+      "Pancetta affumicata",
+      "Bologna"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which ingredient is famously omitted in authentic Roman Spaghetti alla Carbonara, despite common international additions?",
+    "options": [
+      "Heavy cream",
+      "Egg yolks",
+      "Pecorino Romano",
+      "Black pepper"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which hard sheep's milk cheese is the quintessential traditional cheese used in Roman Cacio e Pepe and Carbonara?",
+    "options": [
+      "Pecorino Romano",
+      "Gorgonzola",
+      "Fontina",
+      "Taleggio"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What two primary seasoning ingredients, alongside starchy pasta cooking water, define Roman Cacio e Pepe?",
+    "options": [
+      "Parmesan cheese and heavy cream",
+      "Pecorino Romano cheese and freshly cracked black pepper",
+      "Garlic and olive oil",
+      "Butter and sage"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cured pork jowl cut provides the fat and savory base for authentic Pasta all'Amatriciana?",
+    "options": [
+      "Lardo",
+      "Pork loin",
+      "Speck",
+      "Guanciale"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which vegetable is the star ingredient of the Sicilian pasta dish Pasta alla Norma?",
+    "options": [
+      "Zucchini",
+      "Artichoke hearts",
+      "Bell peppers",
+      "Fried eggplant (aubergine)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which salted, aged ricotta cheese is grated over Pasta alla Norma before serving?",
+    "options": [
+      "Ricotta salata",
+      "Fresh ricotta",
+      "Mozzarella di bufala",
+      "Provolone piccante"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which meat cut is traditionally used to prepare authentic Italian Osso Buco alla Milanese?",
+    "options": [
+      "Beef flank steak",
+      "Pork chops",
+      "Boneless leg of lamb",
+      "Cross-cut veal shanks with marrow bone"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which zesty Italian herb garnish of minced lemon zest, garlic, and parsley finishes Osso Buco?",
+    "options": [
+      "Salsa verde",
+      "Salmoriglio",
+      "Gremolata",
+      "Pesto"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which precious golden spice gives authentic Risotto alla Milanese its rich golden color and earthy aroma?",
+    "options": [
+      "Turmeric",
+      "Saffron threads",
+      "Curry powder",
+      "Paprika"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which high-starch Italian short-grain rice variety is the most famous choice for cooking creamy risotto?",
+    "options": [
+      "Basmati rice",
+      "Jasmine rice",
+      "Wild rice",
+      "Arborio or Carnaroli rice"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Roman veal dish features thinly sliced veal topped with prosciutto crudo and fresh sage leaves pinned with a toothpick?",
+    "options": [
+      "Saltimbocca alla Romana",
+      "Veal Milanese",
+      "Piccata di vitello",
+      "Scaloppine al limone"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which aromatic herb leaf is pinned directly onto the veal in traditional Saltimbocca alla Romana?",
+    "options": [
+      "Sage leaf",
+      "Basil leaf",
+      "Rosemary sprig",
+      "Bay leaf"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which famous French dish consists of beef tenderloin wrapped in mushroom duxelles, prosciutto, and baked in puff pastry?",
+    "options": [
+      "Tournedos Rossini",
+      "Beef Wellington",
+      "Boeuf en croûte",
+      "Chateaubriand"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which finely minced seasoned mixture of sautéed mushrooms, shallots, and herbs coats the meat in Beef Wellington?",
+    "options": [
+      "Mushroom duxelles",
+      "Mushroom velouté",
+      "Tapenade",
+      "Mirepoix"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which pastry dough is wrapped around the exterior of a classic Beef Wellington to bake to a golden crisp?",
+    "options": [
+      "Shortcrust pastry",
+      "Puff pastry",
+      "Filo pastry",
+      "Choux pastry"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which summer vegetable medley from Provence combines stewed eggplant, zucchini, bell peppers, tomatoes, onions, and herbs?",
+    "options": [
+      "Piperade",
+      "Tian provençal",
+      "Barigoule",
+      "Ratatouille"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic French savory egg tart from northeastern France features a custard of eggs and heavy cream with smoked bacon lardons?",
+    "options": [
+      "Tarte flambée",
+      "Pissaladière",
+      "Quiche Lorraine",
+      "Gougère"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cooking method involves slowly cooking duck legs completely submerged in rendered duck fat at low temperature?",
+    "options": [
+      "Braising",
+      "Sous vide",
+      "Confit",
+      "Poaching"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Spanish national dish is a thick, round omelet made by pan-frying sliced potatoes and beaten eggs in olive oil?",
+    "options": [
+      "Frittata",
+      "Tortilla Española",
+      "Revuelto",
+      "Shakshuka"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Spanish tapa features tender shrimp sizzled in olive oil with generous sliced garlic, dried chili peppers, and parsley?",
+    "options": [
+      "Boquerones en vinagre",
+      "Gambas al Ajillo",
+      "Calamares a la romana",
+      "Puntillitas"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cephalopod is boiled until tender and sprinkled with coarse salt, sweet pimentón paprika, and olive oil in Pulpo a la Gallega?",
+    "options": [
+      "Squid",
+      "Cuttlefish",
+      "Octopus",
+      "Scallops"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Greek baked casserole layers spiced ground meat, sliced eggplant, and potatoes beneath a thick baked layer of béchamel sauce?",
+    "options": [
+      "Pastitsio",
+      "Spanakopita",
+      "Moussaka",
+      "Briami"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which paper-thin unleavened pastry dough is layered with butter to encase Greek Spanakopita and Baklava?",
+    "options": [
+      "Puff pastry",
+      "Shortcrust pastry",
+      "Choux pastry",
+      "Phyllo pastry (Filo)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which leafy green is the essential filling combined with feta cheese and dill inside Greek Spanakopita?",
+    "options": [
+      "Kale",
+      "Swiss chard",
+      "Grape leaves",
+      "Spinach"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What type of leaves are stuffed with a mixture of seasoned rice, herbs, and pine nuts to make traditional Greek Dolmades?",
+    "options": [
+      "Cabbage leaves",
+      "Grape leaves",
+      "Fig leaves",
+      "Beet leaves"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which minced meat is the mandatory protein in an authentic British Shepherd's Pie (as opposed to Cottage Pie)?",
+    "options": [
+      "Ground beef",
+      "Ground lamb",
+      "Ground pork",
+      "Ground turkey"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What vegetable dish forms the crispy, browned top crust of a classic British Shepherd's Pie?",
+    "options": [
+      "Mashed potatoes",
+      "Puff pastry crust",
+      "Breadcrumb crumble",
+      "Grated cheddar cheese only"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which side dish of dried marrowfat peas boiled into a thick green paste is the iconic partner to British fish and chips?",
+    "options": [
+      "Pea puree with mint",
+      "Split pea soup",
+      "Creamed peas",
+      "Mushy peas"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic Irish potato dish blends creamy mashed potatoes with tender chopped boiled cabbage or kale, butter, and scallions?",
+    "options": [
+      "Champ",
+      "Boxty",
+      "Coddle",
+      "Colcannon"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which two meats are the traditional meats simmered in an authentic Paella Valenciana, along with green beans and giant lima beans?",
+    "options": [
+      "Shrimp and mussels",
+      "Rabbit and chicken",
+      "Pork ribs and chorizo",
+      "Duck and snails only"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What is the broad, flat large white lima bean variety uniquely essential to authentic Paella Valenciana called?",
+    "options": [
+      "Cannellini beans",
+      "Fava beans",
+      "Butter beans",
+      "Garrofó beans"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What is the prized, crispy caramelized crust of toasted rice that forms on the bottom of a proper Spanish paella pan called?",
+    "options": [
+      "Socarrat",
+      "Tadigo",
+      "Tahdig",
+      "Kruska"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which short-grain Spanish rice variety from Valencia, famous for absorbing three times its volume in broth without bursting, is the gold standard for paella?",
+    "options": [
+      "Bomba rice",
+      "Arborio rice",
+      "Calasparra rice",
+      "Carnaroli rice"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Neapolitan pasta sauce features canned tomatoes, black Gaeta olives, capers, garlic, anchovies, and red chili flakes?",
+    "options": [
+      "Pasta all'Arrabbiata",
+      "Pasta alla Puttanesca",
+      "Pasta alla Marinara",
+      "Pasta alla Gricia"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy Roman tomato sauce is flavored with garlic, tomatoes, and dried red chili peppers cooked in olive oil?",
+    "options": [
+      "Sugo all'Arrabbiata",
+      "Sugo all'Amatriciana",
+      "Sugo alla Puttanesca",
+      "Sugo alla Nerano"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic Roman pasta dish, considered the ancestor to Amatriciana and Carbonara, contains only guanciale, pecorino cheese, and black pepper?",
+    "options": [
+      "Cacio e Pepe",
+      "Pasta alla Gricia",
+      "Pasta al Limone",
+      "Pasta all'Aglione"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Amalfi Coast pasta dish features fried zucchini rounds tossed with spaghetti, provolone del Monaco cheese, and fresh basil?",
+    "options": [
+      "Pasta alla Norma",
+      "Spaghetti alle Vongole",
+      "Pasta al Pesto",
+      "Spaghetti alla Nerano"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Italian seafood pasta dish features small clams cooked in white wine, garlic, olive oil, and fresh parsley with spaghetti?",
+    "options": [
+      "Spaghetti allo Scoglio",
+      "Spaghetti ai Frutti di Mare",
+      "Spaghetti alle Vongole",
+      "Calamarata"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Piedmontese dish features thin slices of cold poached veal blanketed in a smooth, creamy sauce made of tuna, capers, anchovies, and mayonnaise?",
+    "options": [
+      "Vitello Tonnato",
+      "Carpaccio di manzo",
+      "Carne cruda all'albese",
+      "Bresaola della Valtellina"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Venetian appetizer created at Harry's Bar consists of paper-thin raw beef sirloin drizzled with a light mustard-mayonnaise sauce?",
+    "options": [
+      "Beef Carpaccio",
+      "Vitello Tonnato",
+      "Steak tartare",
+      "Bresaola"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French beef dish features raw high-quality minced beef seasoned with capers, shallots, Worcestershire sauce, Dijon mustard, and topped with a raw egg yolk?",
+    "options": [
+      "Steak Tartare",
+      "Beef Carpaccio",
+      "Filet Américain",
+      "Tournedos Rossini"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which opulent French steak preparation places a seared beef tournedos atop a fried crouton, topped with a slice of pan-seared foie gras and black truffle slices?",
+    "options": [
+      "Steak au Poivre",
+      "Tournedos Rossini",
+      "Chateaubriand",
+      "Entrecôte bordelaise"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French steak dish features beef steak heavily coated in coarsely crushed whole black peppercorns, flambéed with Cognac and finished with heavy cream?",
+    "options": [
+      "Steak Diane",
+      "Tournedos Rossini",
+      "Entrecôte Café de Paris",
+      "Steak au Poivre"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which complex compound butter seasoned with chicken livers, curry powder, anchovies, herbs, and spices was created in Geneva for steak?",
+    "options": [
+      "Beurre Maître d'Hôtel",
+      "Beurre Marchand de Vin",
+      "Café de Paris butter",
+      "Beurre d'Anchois"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French sweet-and-sour culinary reduction of caramelized sugar deglazed with vinegar is the foundation for Duck à l'Orange?",
+    "options": [
+      "Agrodolce",
+      "Coulis",
+      "Glace de canard",
+      "Gastrique"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Alsatian specialty, meaning 'tarte baked in flames', features rolled bread dough topped with crème fraîche, sliced onions, and smoked bacon lardons?",
+    "options": [
+      "Tarte Flambée (Flammekueche)",
+      "Quiche Lorraine",
+      "Pissaladière",
+      "Fugasse"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which savory flatbread tart from Nice, France, features caramelized onions, black Niçoise olives, and salted anchovy fillets baked on bread dough?",
+    "options": [
+      "Tarte Flambée",
+      "Socca",
+      "Fougasse",
+      "Pissaladière"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which thin, unleavened pancake originating in Nice and Liguria is made entirely from chickpea flour, water, olive oil, and coarse black pepper, baked in a copper pan?",
+    "options": [
+      "Panisse",
+      "Pissaladière",
+      "Socca (Farinata)",
+      "Polenta"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French fries-like finger food from Marseille is made from chilled, sliced chickpea flour polenta deep-fried in oil?",
+    "options": [
+      "Socca",
+      "Gougères",
+      "Panisse",
+      "Pommes dauphine"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic French savory baked choux pastry puffs are blended with grated Gruyère or Comté cheese before baking?",
+    "options": [
+      "Profiteroles",
+      "Gougères",
+      "Gnocchi à la parisienne",
+      "Éclairs"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French potato preparation consists of thinly sliced potatoes layered with garlic, heavy cream, and butter, baked in a shallow gratin dish?",
+    "options": [
+      "Pommes Anna",
+      "Gratin Dauphinois",
+      "Pommes Aligot",
+      "Pommes Duchesse"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic French potato cake features thinly sliced potatoes arranged in neat overlapping concentric circles and baked with clarified butter?",
+    "options": [
+      "Gratin Dauphinois",
+      "Rösti",
+      "Pommes Anna",
+      "Pommes Darphin"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which elastic, stretchy potato puree from the Aubrac region of France is made by beating mashed potatoes with garlic, cream, and fresh Tomme de Laguiole cheese?",
+    "options": [
+      "Truffade",
+      "Gratin Dauphinois",
+      "Aligot",
+      "Pommes puree"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Swiss national dish consists of grated parboiled or raw potatoes pressed into a cake and pan-fried crisp in butter on both sides?",
+    "options": [
+      "Aligot",
+      "Tartiflette",
+      "Rösti",
+      "Kartoffelpuffer"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Savoyard gratin features sliced potatoes, smoked lardons, onions, and white wine smothered under a whole wheel of creamy Reblochon cheese?",
+    "options": [
+      "Gratin Dauphinois",
+      "Raclette",
+      "Aligot",
+      "Tartiflette"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which semi-hard Swiss cow's milk cheese is traditionally melted under a broiler or open fire and scraped over boiled new potatoes and gherkins?",
+    "options": [
+      "Raclette",
+      "Gruyère",
+      "Appenzeller",
+      "Emmental"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Swiss hot communal cheese dish combines melted Gruyère and Vacherin Fribourgeois cheeses with dry white wine, garlic, and kirsch in a caquelon?",
+    "options": [
+      "Raclette",
+      "Tartiflette",
+      "Cheese Fondue",
+      "Aligot"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Spanish Basque salt cod preparation relies on gently swirling salt cod steaks in warm garlic-infused olive oil to create an emulsion with fish gelatin?",
+    "options": [
+      "Bacalao al Pil-Pil",
+      "Bacalao a la Vizcaína",
+      "Brandade de Morue",
+      "Bacalao al Ajoarriero"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Basque salt cod dish is simmered in a rich red sauce made from sweet red choricero pepper pulp and slow-cooked onions?",
+    "options": [
+      "Bacalao a la Vizcaína",
+      "Bacalao al Pil-Pil",
+      "Marmitako",
+      "Merluza en salsa verde"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Basque tuna fisherman's stew combines fresh bonito tuna with stewed potatoes, onions, green peppers, and choricero pepper flesh?",
+    "options": [
+      "Caldeirada",
+      "Suquet de peix",
+      "Zarzuela",
+      "Marmitako"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which rich white bean stew from Asturias, Spain, is simmered with the 'compango': smoked chorizo, morcilla blood sausage, and pork shoulder?",
+    "options": [
+      "Cocido Madrileño",
+      "Cassoulet",
+      "Fabada Asturiana",
+      "Olla podrida"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which hearty chickpea-based Madrid stew is eaten in three courses: noodle soup, followed by chickpeas and vegetables, and finally stewed meats?",
+    "options": [
+      "Fabada Asturiana",
+      "Cocido Madrileño",
+      "Escudella",
+      "Puchero andaluz"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which iconic Portuguese sandwich from Porto layers toasted bread with steak, fresh sausage, linguiça, and ham, wrapped in melted cheese and smothered in beer sauce?",
+    "options": [
+      "Bifana",
+      "Prego",
+      "Francesinha",
+      "Sandes de pernil"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Greek baked pasta dish, often called Greek lasagna, combines tubular pasta, cinnamon-spiced ground beef, and a thick baked béchamel topping?",
+    "options": [
+      "Pastitsio",
+      "Moussaka",
+      "Giouvetsi",
+      "Kokkinisto"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Greek baked casserole dish consists of tender beef or lamb braised in a rich tomato sauce with orzo pasta (kritharaki) and kefalotyri cheese?",
+    "options": [
+      "Giouvetsi",
+      "Pastitsio",
+      "Stifado",
+      "Kleftiko"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Greek rustic stew features tender chunks of beef or rabbit braised with whole baby pearl onions, red wine, tomatoes, cinnamon, and allspice?",
+    "options": [
+      "Giouvetsi",
+      "Kleftiko",
+      "Stifado",
+      "Sofrito"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Greek dish, meaning 'bandit's meat', consists of bone-in lamb marinated with lemon, garlic, and oregano, wrapped tightly in parchment and slow-roasted?",
+    "options": [
+      "Souvlaki",
+      "Kleftiko",
+      "Gyros",
+      "Kontosouvli"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which British savory dish features whole pork sausages baked inside a risen, golden-brown Yorkshire pudding batter, served with onion gravy?",
+    "options": [
+      "Toad in the Hole",
+      "Bangers and Mash",
+      "Pigs in Blankets",
+      "Lancashire Hotpot"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which British slow-cooked lamb and sliced potato casserole originated in northern mill towns, baked with overlapping potato slices on top?",
+    "options": [
+      "Lancashire Hotpot",
+      "Shepherd's Pie",
+      "Scouse",
+      "Stovies"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which ancient Roman sweet and sour braised pork or wild boar dish was prepared with pine nuts, raisins, dark chocolate, and red wine vinegar?",
+    "options": [
+      "Stracotto di manzo",
+      "Peposo all'Imprunetina",
+      "Brasato al Barolo",
+      "Cinghiale in Dolceforte"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Tuscan peppered beef stew from Impruneta, famously eaten by kiln workers who built the Florence Duomo, uses only beef, Chianti wine, garlic, and copious black peppercorns without oil?",
+    "options": [
+      "Cinghiale in Dolceforte",
+      "Peposo all'Imprunetina",
+      "Brasato al Barolo",
+      "Stracotto alla fiorentina"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Piedmontese braised beef roast is marinated and slowly simmered for hours in an entire bottle of noble Nebbiolo Barolo wine with spices?",
+    "options": [
+      "Stracotto di manzo",
+      "Brasato al Barolo",
+      "Bollito Misto",
+      "Carbonnade"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which opulent northern Italian feast dish consists of seven different cuts of boiled meats, seven garnish meats, and seven sauces including salsa verde and mostarda?",
+    "options": [
+      "Cassoeula",
+      "Cotechino con lenticchie",
+      "Gran Bollito Misto",
+      "Porchetta"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which winter stew from Lombardy, Italy, cooks pork ribs, pork rind, and verzini sausages with sweet winter savoy cabbage after the first autumn frost?",
+    "options": [
+      "Gran Bollito Misto",
+      "Paniscia novarese",
+      "Pizzoccheri",
+      "Cassoeula"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which flat ribbon pasta from the Valtellina valley in Lombardy is made with buckwheat flour, cooked with Savoy cabbage, potatoes, butter, and Bitto cheese?",
+    "options": [
+      "Strangozzi",
+      "Pizzoccheri",
+      "Testaroli",
+      "Bigoli"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which ancient Tuscan pasta, considered one of the oldest recorded pasta shapes, is cooked as a batter in cast iron pans (testi), cut into diamonds, and tossed with pesto?",
+    "options": [
+      "Pizzoccheri",
+      "Garganelli",
+      "Testaroli",
+      "Corzetti"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Ligurian stamped coin-shaped pasta discs are embossed with wooden hand stamps depicting family crests or symbols?",
+    "options": [
+      "Testaroli",
+      "Trofie",
+      "Corzetti (Croxetti)",
+      "Orecchiette"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which small, tapered, spiral pasta shape twisted by hand in Liguria is the classic traditional pairing for Pesto Genovese along with boiled green beans and potatoes?",
+    "options": [
+      "Garganelli",
+      "Fusilli bucati",
+      "Campanelle",
+      "Trofie"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Apulian ear-shaped pasta is traditionally tossed with sautéed cime di rapa (broccoli rabe), garlic, anchovies, and chili flakes?",
+    "options": [
+      "Cavatelli",
+      "Orecchiette",
+      "Strascinati",
+      "Troccoli"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Sardinian pasta dish features gnocchi-like ridged semolina shells (malloreddus) tossed in a rich saffron-scented pork sausage and tomato ragù?",
+    "options": [
+      "Culurgiones",
+      "Malloreddus alla Campidanese",
+      "Fregola sarda",
+      "Pasta con le sarde"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which distinctive Sardinian handmade dumpling pocket, sealed with a decorative wheat-ear braid, is stuffed with mashed potatoes, pecorino cheese, and fresh mint?",
+    "options": [
+      "Culurgiones",
+      "Malloreddus",
+      "Seadas",
+      "Panadas"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which famous Palermo pasta dish features fresh sardines, wild fennel fronds, pine nuts, raisins, saffron, and toasted seasoned breadcrumbs (muddica)?",
+    "options": [
+      "Spaghetti alla Bottarga",
+      "Pasta alla Norma",
+      "Pasta con le Sarde",
+      "Spaghetti ai Ricci"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which salted and cured fish roe pouch, harvested from grey mullet or bluefin tuna and grated over pasta with olive oil, is known as Sardinian gold?",
+    "options": [
+      "Colatura",
+      "Mosciame",
+      "Garum",
+      "Bottarga"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Catalan fisherman's stew of assorted rockfish, clams, and prawns is cooked in a terracotta cazuela and thickened with a fried picada of almonds, garlic, and parsley?",
+    "options": [
+      "Marmitako",
+      "Zarzuela",
+      "Caldeirada",
+      "Suquet de Peix"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Catalan culinary finishing paste, pounded in a mortar with toasted nuts, garlic, fried bread, and parsley, is stirred into stews at the end to thicken?",
+    "options": [
+      "Sofregit",
+      "Picada",
+      "Samfaina",
+      "Allioli"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Valencian and Catalan noodle dish is cooked identically to seafood paella in a shallow pan, substituting thin fideo noodles for rice to form a crispy top?",
+    "options": [
+      "Arroz a banda",
+      "Caldereta",
+      "Fideuà",
+      "Escudella"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Balearic lobster stew from Menorca features spiny European lobster cooked with tomatoes, onions, garlic, and a picada made with lobster coral?",
+    "options": [
+      "Caldereta de Langosta",
+      "Suquet de peix",
+      "Zarzuela",
+      "Arroz caldoso"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic Portuguese salt cod casserole combines shredded bacalhau with matchstick fried potatoes, onions, and scrambled eggs, garnished with black olives?",
+    "options": [
+      "Bacalhau à Brás",
+      "Bacalhau com Natas",
+      "Bacalhau à Gomes de Sá",
+      "Bacalhau à Zé do Pipo"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Portuguese baked salt cod casserole layers flaked bacalhau with parboiled sliced potatoes, caramelized onions, and hard-boiled eggs in olive oil?",
+    "options": [
+      "Bacalhau à Brás",
+      "Bacalhau à Gomes de Sá",
+      "Bacalhau com Natas",
+      "Açorda de Bacalhau"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Portuguese rustic bread soup from the Alentejo region features day-old crusty bread soaked in boiling water infused with garlic, olive oil, copious fresh cilantro, and a poached egg?",
+    "options": [
+      "Caldo Verde",
+      "Migas Alentejanas",
+      "Sopa da Pedra",
+      "Açorda Alentejana"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Portuguese Alentejo dish uses day-old breadcrumbs soaked in water and fried with pork lard, garlic, and pork spare ribs marinated in red pepper paste (massa de pimentão)?",
+    "options": [
+      "Açorda Alentejana",
+      "Cozido à Portuguesa",
+      "Migas Alentejanas",
+      "Carne de Porco à Alentejana"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which iconic Portuguese surf-and-turf dish from the Alentejo combines cubes of marinated pork with fresh live clams, garlic, cilantro, and fried potato cubes?",
+    "options": [
+      "Ameijoas à Bulhão Pato",
+      "Carne de Porco à Alentejana",
+      "Bacalhau com Todos",
+      "Feijoada à Transmontana"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which popular Portuguese clam appetizer steams fresh clams in olive oil, generous minced garlic, white wine, lemon juice, and a handful of chopped fresh cilantro?",
+    "options": [
+      "Carne de Porco à Alentejana",
+      "Caldeirada de Marisco",
+      "Percebes cozidos",
+      "Amêijoas à Bulhão Pato"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional national dish of Slovakia consists of small boiled potato dumplings tossed with melted sheep milk bryndza cheese and topped with smoked bacon cracklings?",
+    "options": [
+      "Strapačky",
+      "Pierogi ruskie",
+      "Kluski śląskie",
+      "Bryndzové Halušky"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Silesian potato dumpling has a characteristic thumbprint dimple in the center designed to hold rich meat gravy?",
+    "options": [
+      "Kluski Śląskie",
+      "Bryndzové halušky",
+      "Knedlíky",
+      "Pampuchy"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Czech and Slovak steamed bread or potato dumplings are sliced with a wire cutter and served alongside roast pork, sauerkraut, and svíčková?",
+    "options": [
+      "Bryndzové halušky",
+      "Kluski",
+      "Uszka",
+      "Knedlíky"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Czech culinary national treasure features larded beef sirloin braised with root vegetables (carrots, celeriac, parsley root), pureed into a rich cream sauce with cranberries?",
+    "options": [
+      "Guláš",
+      "Vepřo knedlo zelo",
+      "Svíčková na Smetaně",
+      "Moravský vrabec"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Scottish dish, celebrated on Burns Night, minces sheep's heart, liver, and lungs with oatmeal, suet, onions, and spices, simmered in a sheep's stomach?",
+    "options": [
+      "Black pudding",
+      "White pudding",
+      "Haggis",
+      "Lorne sausage"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which two side vegetable mashes, colloquially called 'neeps and tatties', are the mandatory traditional accompaniment to Scottish haggis?",
+    "options": [
+      "Mashed peas and parsnips",
+      "Mashed carrots and sweet potatoes",
+      "Mashed yellow turnips (rutabaga) and mashed potatoes",
+      "Mashed cabbage and onions"
+    ],
+    "answer": 2,
+    "d": 3
+  }
+]

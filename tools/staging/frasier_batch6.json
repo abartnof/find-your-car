@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Frasier",
+    "q": "On which legendary 1980s sitcom was the character of Dr. Frasier Crane first introduced to television audiences?",
+    "options": [
+      "Cheers",
+      "Taxi",
+      "Night Court",
+      "Family Ties"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In which season of 'Cheers' did Kelsey Grammer first appear as Dr. Frasier Crane?",
+    "options": [
+      "Season 1 (1982)",
+      "Season 3 (1984)",
+      "Season 2 (1983)",
+      "Season 5 (1986)"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What was Frasier Crane's original narrative purpose when introduced on 'Cheers'?",
+    "options": [
+      "To serve as Norm Peterson's personal tax accountant",
+      "To act as the court-appointed therapist for Carla Tortelli",
+      "To serve as Diane Chambers' cultured rebound fiancé after her breakup with Sam Malone",
+      "To buy out Coach's share of the bar"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "How many episodes was Kelsey Grammer originally contracted to appear in on 'Cheers' before becoming a series regular?",
+    "options": [
+      "A full 24-episode season",
+      "Just two guest appearances",
+      "Twelve episodes across two seasons",
+      "Only four to six episodes"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "What major biographical detail about his family did Frasier tell the patrons of Cheers, which had to be retconned in 'Frasier'?",
+    "options": [
+      "He claimed both his parents were dead and that he was an only child",
+      "He claimed he was born and raised in London, England",
+      "He claimed his father was a wealthy French wine importer",
+      "He claimed he had never attended Harvard University"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "How does Frasier explain his past lie about Martin being dead when Sam Malone visits Seattle in Season 2?",
+    "options": [
+      "He claims it was a Freudian slip of the subconscious",
+      "He explains he was estranged from Martin after a bitter argument and said he was dead to avoid questions",
+      "He says Sam misheard him talking about his grandfather",
+      "He claims he was in a witness protection program"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What production company founded by creators David Angell, Peter Casey, and David Lee produced 'Frasier'?",
+    "options": [
+      "Ubu Productions",
+      "Carsey-Werner Productions",
+      "Grub Street Productions",
+      "Stephen J. Cannell Productions"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Why did the creators David Angell, Peter Casey, and David Lee choose Seattle as the setting for 'Frasier'?",
+    "options": [
+      "Because Kelsey Grammer grew up in Washington state",
+      "Because NBC offered tax incentives for filming in Washington",
+      "Because Paramount owned television studios in downtown Seattle",
+      "To place Frasier as far from Boston as possible and avoid constant 'Cheers' cast cameos in Season 1"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Who composed the iconic closing theme song 'Tossed Salads and Scrambled Eggs'?",
+    "options": [
+      "Bruce Miller",
+      "Kelsey Grammer",
+      "David Lee",
+      "Mike Post"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Who wrote the enigmatic lyrics for 'Tossed Salads and Scrambled Eggs'?",
+    "options": [
+      "Bruce Miller",
+      "Darryl Phinnessee",
+      "Joe Keenan",
+      "Christopher Lloyd"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Who performs the vocal track for the theme song 'Tossed Salads and Scrambled Eggs' at the end of every episode?",
+    "options": [
+      "David Hyde Pierce",
+      "Bruce Miller",
+      "Kelsey Grammer",
+      "Darryl Phinnessee"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "According to composer Bruce Miller, what do the 'tossed salads and scrambled eggs' in the theme song metaphorically represent?",
+    "options": [
+      "Frasier's gourmet culinary tastes compared to Martin's diner habits",
+      "The chaotic breakfast conversations at Elliot Bay Towers",
+      "The unpredictable Seattle weather and cloudy skies",
+      "The mixed-up, neurotic callers and psychological problems Frasier deals with on his show"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What spontaneous catchphrase did Kelsey Grammer frequently ad-lib at the very end of the closing theme music?",
+    "options": [
+      "Goodnight, Seattle! (or 'Frasier has left the building!')",
+      "I'm listening!",
+      "That's all, folks!",
+      "See you in Boston!"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What visual signature opens every single episode of 'Frasier' across all 11 seasons?",
+    "options": [
+      "A live-action aerial sweep of Puget Sound and Mount Rainier",
+      "A minimalist line-drawing animation of the Seattle skyline with the Space Needle",
+      "A montage of coffee cups and radio microphones",
+      "Photographs of the cast on location in Seattle"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What musical instrument plays the brief, varying jazz riffs accompanying the opening skyline logo in each episode?",
+    "options": [
+      "A full brass marching band fanfare",
+      "A solitary classical violin",
+      "An acoustic piano / bass riff with subtle brass or saxophone flourishes",
+      "An electric guitar power chord"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Which of the following was a playful animation variation seen on the Seattle skyline during the opening credits?",
+    "options": [
+      "A Boeing passenger jet crashing into Puget Sound",
+      "A giant cup of coffee spilling over downtown",
+      "The Space Needle revolving like a corkscrew",
+      "The Space Needle elevator moving up to the observation deck"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Which of the following was another animated variation used in the title sequence?",
+    "options": [
+      "A laser beam shooting from the top of the Space Needle",
+      "A submarine surfacing in Elliott Bay",
+      "Fireworks spelling out 'NBC'",
+      "A whale leaping over the skyline"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What structural storytelling device is famously used throughout 'Frasier' to introduce individual scenes within an episode?",
+    "options": [
+      "Voiceover narration by Kelsey Grammer",
+      "Silent black-and-white title cards with witty puns, literary references, or ironic chapter titles",
+      "Quick montage cuts of Seattle landmarks with dates",
+      "Comic book splash panels with speech bubbles"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "How were the voices of the radio callers to 'The Dr. Frasier Crane Show' recorded by the production crew?",
+    "options": [
+      "All guest stars came to the live studio audience tapings in person",
+      "Writers read the lines live from behind the camera",
+      "Celebrity guest stars recorded their lines over the telephone from studios in Los Angeles or New York",
+      "The voices were generated using electronic voice synthesizers"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What special tribute sequence aired at the conclusion of every season finale of 'Frasier'?",
+    "options": [
+      "A blooper reel of Kelsey Grammer and David Hyde Pierce forgetting lines",
+      "A live curtain call where the cast bowed to the studio audience",
+      "A musical number performed by the cast at Cafe Nervosa",
+      "A 'Thanks for Calling' photo montage showcasing all the celebrity caller guest stars of the season"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which famous actress was the very first celebrity caller in the series pilot 'The Good Son', calling as Clare who misses her ex-boyfriend?",
+    "options": [
+      "Linda Hamilton",
+      "Sigourney Weaver",
+      "Glenn Close",
+      "Carrie Fisher"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which Oscar-winning actor called into Frasier's show in Season 1 as 'Hank', an obsessive caller who couldn't stop whistling?",
+    "options": [
+      "Dustin Hoffman",
+      "Tom Hanks",
+      "Robin Williams",
+      "Jeff Bridges"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which legendary British actress called into Frasier's show in Season 1 as 'Babette', a woman frustrated by her husband's kleptomania?",
+    "options": [
+      "Judi Dench",
+      "Maggie Smith",
+      "Helen Mirren",
+      "Emma Thompson"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which beloved comedic actor called in during Season 2's 'Someone to Watch Over Me' as 'Jack', arguing on air with his wife Rita?",
+    "options": [
+      "Robin Williams",
+      "Steve Martin",
+      "Martin Short",
+      "Billy Crystal"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which sitcom superstar called into Frasier's show alongside Billy Crystal, playing his bickering wife 'Rita'?",
+    "options": [
+      "Roseanne Barr",
+      "Bette Midler",
+      "Carol Burnett",
+      "Whoopi Goldberg"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which Oscar-winning actor famous for his unique speech patterns called into Frasier's show in Season 9 as Walt, an eccentric caller?",
+    "options": [
+      "Al Pacino",
+      "Christopher Walken",
+      "Robert De Niro",
+      "Jack Nicholson"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which comedy legend and director of 'Blazing Saddles' called into Frasier's show in Season 7's 'Miracle on 3rd or 4th Street' / holiday season as Tom, a depressed man?",
+    "options": [
+      "Carl Reiner",
+      "Gene Wilder",
+      "Mel Brooks",
+      "Woody Allen"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which 'Ferris Bueller' and Broadway star called into Frasier's show in Season 2 as Mark, a caller speaking in an inaudible whisper?",
+    "options": [
+      "Jon Cryer",
+      "Michael J. Fox",
+      "Alan Ruck",
+      "Matthew Broderick"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which 'X-Files' star called into Frasier's show in Season 3's 'Frasier Loves Roz' as Tom, who suffered from severe romantic insecurities?",
+    "options": [
+      "David Duchovny",
+      "Mitch Pileggi",
+      "William B. Davis",
+      "Robert Patrick"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which 'X-Files' actress called into Frasier's show in Season 6 as Audrey, who couldn't stop judging her boyfriend's habits?",
+    "options": [
+      "Amanda Peet",
+      "Gillian Anderson",
+      "Sarah Michelle Gellar",
+      "Lucy Liu"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which actor, famous for the 'Six Degrees' parlor game, called into Frasier's show in Season 2 as Vic, a man who confused his dreams with reality?",
+    "options": [
+      "Kiefer Sutherland",
+      "Christian Slater",
+      "Kevin Bacon",
+      "Ethan Hawke"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which comedic superstar and 'Meet the Parents' actor called into Frasier's show in Season 4 as Barry, who screamed uncontrollably at small frustrations?",
+    "options": [
+      "Adam Sandler",
+      "Jim Carrey",
+      "Will Ferrell",
+      "Ben Stiller"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which Oscar-winning actress from 'The Silence of the Lambs' called into Frasier's show in Season 3 as Marnie, who was obsessed with supermarket coupons?",
+    "options": [
+      "Jodie Foster",
+      "Holly Hunter",
+      "Frances McDormand",
+      "Hilary Swank"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which 'Star Wars' icon who played Princess Leia called into Frasier's show in Season 3 as Phyllis, who had insomnia from anxiety?",
+    "options": [
+      "Mark Hamill",
+      "Carrie Fisher",
+      "Harrison Ford",
+      "Sigourney Weaver"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which famous television director and actress from 'Laverne & Shirley' called into Frasier's show in Season 4 as Celeste?",
+    "options": [
+      "Cindy Williams",
+      "Betty White",
+      "Penny Marshall",
+      "Bea Arthur"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which legendary creator of 'The Dick Van Dyke Show' called into Frasier's show in Season 1's pilot as Artie?",
+    "options": [
+      "Sid Caesar",
+      "Mel Brooks",
+      "Norman Lear",
+      "Carl Reiner"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which Oscar-winning director and former 'Happy Days' star called into Frasier's show in Season 4 as Stephen, who was terrified of public speaking?",
+    "options": [
+      "Ron Howard",
+      "Rob Reiner",
+      "Steven Spielberg",
+      "Robert Zemeckis"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which Oscar-winning actress from 'Monster's Ball' called into Frasier's show in Season 5 as Betsy, a woman anxious about her blind date?",
+    "options": [
+      "Angela Bassett",
+      "Halle Berry",
+      "Vivica A. Fox",
+      "Jada Pinkett Smith"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which rock guitar legend from the band Van Halen called into Frasier's show in Season 1 as Hank, who suffered from computer anxiety?",
+    "options": [
+      "Slash",
+      "Eric Clapton",
+      "Eddie Van Halen",
+      "Jimmy Page"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Which master of horror fiction called into Frasier's show in Season 8 as Brian, who had a bizarre phobia of being watched?",
+    "options": [
+      "Dean Koontz",
+      "Clive Barker",
+      "Peter Straub",
+      "Stephen King"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which 'Home Alone' child star called into Frasier's show in Season 2 as Elliot, an overly precocious youth?",
+    "options": [
+      "Macaulay Culkin",
+      "Kieran Culkin",
+      "Elijah Wood",
+      "Haley Joel Osment"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which iconic television legend from 'The Mary Tyler Moore Show' called into Frasier's show in Season 2 as Marjorie?",
+    "options": [
+      "Carol Burnett",
+      "Mary Tyler Moore",
+      "Lucille Ball",
+      "Bea Arthur"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which 'Tonight Show' host called into Frasier's show in Season 1 as Don, a caller with road rage issues?",
+    "options": [
+      "David Letterman",
+      "Conan O'Brien",
+      "Jay Leno",
+      "Johnny Carson"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which supermodel called into Frasier's show in Season 5 as Dorothy, who felt insecure about her appearance?",
+    "options": [
+      "Claudia Schiffer",
+      "Naomi Campbell",
+      "Christy Turlington",
+      "Cindy Crawford"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which 'Superman' actor called into Frasier's show in Season 1 as Leonard, an agoraphobic caller afraid to leave his home?",
+    "options": [
+      "Christopher Reeve",
+      "Dean Cain",
+      "George Reeves",
+      "Brandon Routh"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which acclaimed actor who played Lt. Dan in 'Forrest Gump' called into Frasier's show in Season 2 as Sid?",
+    "options": [
+      "Tom Berenger",
+      "Gary Sinise",
+      "Willem Dafoe",
+      "Ed Harris"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which Oscar-nominated star of 'Dumb and Dumber' and 'The Newsroom' called into Frasier's show in Season 1 as Doug?",
+    "options": [
+      "Bill Pullman",
+      "Greg Kinnear",
+      "Jeff Daniels",
+      "Michael Keaton"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which country music superstar called into Frasier's show in Season 1 as Rachel, who was heartbroken over her fiancé?",
+    "options": [
+      "Dolly Parton",
+      "Trisha Yearwood",
+      "Faith Hill",
+      "Reba McEntire"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which folk-rock legend from Simon & Garfunkel called into Frasier's show in Season 5 as Chester?",
+    "options": [
+      "Art Garfunkel",
+      "Paul Simon",
+      "James Taylor",
+      "Jackson Browne"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which fashion icon and designer called into Frasier's show in Season 7 as Robert, seeking advice on creative block?",
+    "options": [
+      "Calvin Klein",
+      "Tommy Hilfiger",
+      "Ralph Lauren",
+      "Giorgio Armani"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which Oscar-winning actress from 'Jurassic Park' and 'Marriage Story' called into Frasier's show in Season 3 as June?",
+    "options": [
+      "Julianne Moore",
+      "Annette Bening",
+      "Laura Dern",
+      "Meg Ryan"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which newspaper heiress and actress called into Frasier's show in Season 2 as Janice?",
+    "options": [
+      "Gloria Vanderbilt",
+      "Paris Hilton",
+      "Tori Spelling",
+      "Patricia Hearst"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which character actor who played Marco in Season 1 called in, prompting Frasier's affair with his ex-girlfriend Catherine?",
+    "options": [
+      "Bruno Kirby",
+      "Joe Mantegna",
+      "Chazz Palminteri",
+      "Harvey Keitel"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which 'O Brother, Where Art Thou?' and 'Barton Fink' star called into Frasier's show in Season 2 as Grant?",
+    "options": [
+      "Steve Buscemi",
+      "John Turturro",
+      "Tim Blake Nelson",
+      "John Goodman"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Which 'Star Trek' icon who played Captain Kirk called into Frasier's show in Season 7, despite Noel's obsession with him?",
+    "options": [
+      "Patrick Stewart",
+      "Leonard Nimoy",
+      "William Shatner did not call in as a radio voice; William Shatner was only spoken about and met off-camera",
+      "George Takei"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which 'Star Wars' actor called into Frasier's show in Season 4's premiere as a depressed man?",
+    "options": [
+      "Mark Hamill",
+      "Anthony Daniels",
+      "Frank Oz",
+      "James Earl Jones called into the show as Norman"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which pop superstar and Oscar winner called into Frasier's show in Season 10?",
+    "options": [
+      "Cher did not call in, but Queen Latifah or John Lithgow did; actually, John Lithgow called in Season 2 as Madman Martinez!",
+      "Madonna",
+      "Barbra Streisand",
+      "Diana Ross"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which Emmy-winning actor who played the High Commander on '3rd Rock from the Sun' called in as used-car salesman 'Madman Martinez'?",
+    "options": [
+      "Jeffrey Tambor",
+      "John Lithgow",
+      "Bryan Cranston",
+      "Kurtwood Smith"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In total, approximately how many famous celebrity voices called into Dr. Frasier Crane's radio program across its 11 seasons?",
+    "options": [
+      "Fewer than 25 celebrity callers",
+      "Exactly 50 celebrity callers",
+      "Over 100 celebrity callers",
+      "Over 500 celebrity callers"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Why were the celebrity caller spots so attractive to Hollywood stars, allowing the show to book A-list talent?",
+    "options": [
+      "NBC paid each caller a full guest-star fee of $100,000",
+      "Every caller was given an executive producer credit on the episode",
+      "It was a mandatory NBC promotional obligation for all studio actors",
+      "They could record their 30-second audio track from anywhere in the world over the telephone without hair, makeup, or travel"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What legendary comedy director directed the pilot episode of 'Frasier' ('The Good Son') as well as many early episodes?",
+    "options": [
+      "James Burrows",
+      "Pamela Fryman",
+      "Sheldon Epps",
+      "Jay Sandrich"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "How many total episodes did legendary director James Burrows direct across the run of 'Frasier'?",
+    "options": [
+      "Over 150 episodes",
+      "32 episodes",
+      "Only the pilot episode",
+      "Exactly 100 episodes"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which accomplished director, who later directed almost every episode of 'How I Met Your Mother', directed numerous episodes of 'Frasier'?",
+    "options": [
+      "Gail Mancuso",
+      "Bethany Rooney",
+      "Pamela Fryman",
+      "Ken Kwapis"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "How many episodes of 'Frasier' did Kelsey Grammer personally direct himself?",
+    "options": [
+      "Only 3 episodes",
+      "Over 100 episodes",
+      "Zero; he never directed",
+      "Over 30 episodes (specifically 36 episodes)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which co-creator and executive producer of 'Frasier' frequently directed episodes, including numerous season finales?",
+    "options": [
+      "David Lee",
+      "David Angell",
+      "Peter Casey",
+      "Christopher Lloyd"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which theatre director who directed the Broadway revival of 'Kiss Me, Kate' directed numerous episodes of 'Frasier'?",
+    "options": [
+      "Joe Mantello",
+      "Scott Ellis",
+      "George C. Wolfe",
+      "Jack O'Brien"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which celebrated Broadway and television director directed over 20 episodes of 'Frasier' including 'Something Borrowed, Someone Blue'?",
+    "options": [
+      "Sheldon Epps",
+      "Andy Ackerman",
+      "Pamela Fryman",
+      "Terry Hughes"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which prolific director directed 'The Ski Lodge', widely regarded as one of the greatest sitcom farce episodes of all time?",
+    "options": [
+      "James Burrows",
+      "Kelsey Grammer",
+      "Pamela Fryman",
+      "David Lee"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Who directed the pilot episode of 'Frasier' in 1993, establishing the visual style and multicamera staging of the Crane apartment?",
+    "options": [
+      "James Burrows",
+      "David Lee",
+      "Peter Casey",
+      "Kelsey Grammer"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which writer-producer wrote many of 'Frasier's most acclaimed farce masterpieces, including 'The Matchmaker' and 'The Ski Lodge'?",
+    "options": [
+      "Chuck Ranberg",
+      "Joe Keenan",
+      "Anne Flett-Giordano",
+      "Rob Greenberg"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which writer-producer served as executive producer/showrunner for most of 'Frasier's golden era alongside Joe Keenan?",
+    "options": [
+      "Chuck Ranberg",
+      "Jeffrey Richman",
+      "Christopher Lloyd",
+      "Dan O'Shannon"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What is the relationship between 'Frasier' executive producer Christopher Lloyd and the famous actor Christopher Lloyd ('Back to the Future')?",
+    "options": [
+      "They are the exact same person",
+      "They are identical twin brothers",
+      "They are completely unrelated with no family connection",
+      "The writer Christopher Lloyd is the actor's nephew"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What famous modern sitcom did 'Frasier' executive producer Christopher Lloyd go on to co-create with Steven Levitan in 2009?",
+    "options": [
+      "Modern Family",
+      "The Big Bang Theory",
+      "New Girl",
+      "Parks and Recreation"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Which female writing team wrote many classic 'Frasier' episodes, including 'My Coffee with Niles' and 'Daphne's Room'?",
+    "options": [
+      "Marta Kauffman and Crane",
+      "Anne Flett-Giordano and Chuck Ranberg",
+      "Tina Fey and Kay Cannon",
+      "Liz Feldman and Julie Ann Dawson"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What acclaimed farce novel did 'Frasier' writer Joe Keenan write prior to joining the show that convinced the creators of his comedic genius?",
+    "options": [
+      "The Importance of Being Earnest II",
+      "A Room with a View",
+      "Blue Heaven (and its sequel Gilbert)",
+      "Laughter in the Dark"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "What award-winning episode did Joe Keenan write in Season 2 that established 'Frasier's signature farcical misunderstanding format?",
+    "options": [
+      "The Innkeepers",
+      "Ham Radio",
+      "Look Before You Leap",
+      "The Matchmaker"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "Which episode written by Joe Keenan won the Primetime Emmy Award for Outstanding Writing for a Comedy Series in 1996?",
+    "options": [
+      "Moondance",
+      "The Ski Lodge",
+      "The Matchmaker",
+      "Ham Radio"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In which iconic Season 1 episode written by Christopher Lloyd does Frasier spend forty minutes agonizing over whether he is happy?",
+    "options": [
+      "The Good Son",
+      "My Coffee with Niles",
+      "Dinner at Eight",
+      "Author, Author"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What makes 'My Coffee with Niles' unique in terms of television sitcom structure?",
+    "options": [
+      "It has no spoken dialogue for the first fifteen minutes",
+      "It was shot entirely outdoors in the streets of Seattle",
+      "It takes place in real time at a single coffeehouse table with no scene changes",
+      "It features no laugh track or live audience"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What famous film did the title and concept of 'My Coffee with Niles' deliberately pay homage to?",
+    "options": [
+      "Coffee and Cigarettes (1986)",
+      "Breakfast at Tiffany's (1961)",
+      "Before Sunrise (1995)",
+      "My Dinner with Andre (1981)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In what year and month did the series finale of 'Frasier' ('Goodnight, Seattle') air on NBC?",
+    "options": [
+      "May 2004",
+      "May 2002",
+      "May 2005",
+      "February 2004"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "How many total seasons did 'Frasier' run during its original broadcast on NBC?",
+    "options": [
+      "9 seasons",
+      "11 seasons",
+      "10 seasons",
+      "12 seasons"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "How many total episodes of 'Frasier' were produced and broadcast during its original 11-season run?",
+    "options": [
+      "200 episodes",
+      "240 episodes",
+      "264 episodes",
+      "300 episodes"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What was the date of the premiere broadcast of 'Frasier' on NBC?",
+    "options": [
+      "October 12, 1992",
+      "September 22, 1994",
+      "November 5, 1993",
+      "September 16, 1993"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Frasier",
+    "q": "What landmark NBC promotional programming block was 'Frasier' a flagship anchor of during the 1990s?",
+    "options": [
+      "Must See TV (Thursday nights)",
+      "TGIF",
+      "Comedy Central Night",
+      "Super Prime Time"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In 1994, NBC boldly moved 'Frasier' to Tuesday nights at 9:00 PM to go head-to-head against which ratings monster?",
+    "options": [
+      "Roseanne on ABC",
+      "Home Improvement (starring Tim Allen on ABC)",
+      "The X-Files on FOX",
+      "Murphy Brown on CBS"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "How did 'Frasier' perform against 'Home Improvement' when moved to Tuesday nights in Season 2?",
+    "options": [
+      "It was crushed and moved back to Thursday within two weeks",
+      "It lost 75% of its viewers and was nearly canceled",
+      "It held its own remarkably well, severely denting 'Home Improvement' and winning critical raves and Emmys",
+      "It was forced to change its broadcast format to a sketch show"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "When NBC moved 'Frasier' back to Thursday nights at 9:00 PM in 1998, what hit show had just vacated that historic timeslot?",
+    "options": [
+      "Cheers",
+      "Friends",
+      "ER",
+      "Seinfeld"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What medical drama aired immediately following 'Frasier' on Thursday nights during NBC's powerhouse 1990s lineup?",
+    "options": [
+      "ER",
+      "Chicago Hope",
+      "NYPD Blue",
+      "Grey's Anatomy"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Approximately how many viewers tuned in to watch the one-hour series finale 'Goodnight, Seattle' on May 13, 2004?",
+    "options": [
+      "Around 10 million viewers",
+      "Over 33 million viewers",
+      "Over 75 million viewers",
+      "Around 18 million viewers"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "What record did Kelsey Grammer set by portraying Dr. Frasier Crane continuously across 'Cheers', 'Wings', and 'Frasier'?",
+    "options": [
+      "Earning the highest single-episode salary in television history",
+      "Winning more Golden Globes than any actor in history",
+      "Portraying the same character on prime-time television for 20 consecutive years (1984–2004)",
+      "Directing more prime-time episodes than any other lead actor"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "On which other NBC sitcom created by Angell, Casey, and Lee did Kelsey Grammer make an Emmy-nominated crossover guest appearance as Frasier Crane?",
+    "options": [
+      "Night Court",
+      "Mad About You",
+      "NewsRadio",
+      "Wings (in the episode 'Planes, Trains and Visiting Cranes')"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which 'Cheers' cast member NEVER made an appearance on 'Frasier' throughout its entire 11-season run?",
+    "options": [
+      "Kirstie Alley (Rebecca Howe)",
+      "Ted Danson (Sam Malone)",
+      "Shelley Long (Diane Chambers)",
+      "Rhea Perlman (Carla Tortelli)"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "Why did Kirstie Alley refuse to appear on 'Frasier' as Rebecca Howe?",
+    "options": [
+      "She was under exclusive contract with CBS for 'Veronica's Closet'",
+      "Her Scientology beliefs conflicted with the psychiatric profession depicted on the show",
+      "She had a bitter personal feud with Kelsey Grammer",
+      "The writers could not find an interesting storyline for her"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "Which other main 'Cheers' cast member guest starred in Season 9's 'Cheerful Goodbyes' alongside George Wendt (Norm) and Rhea Perlman (Carla)?",
+    "options": [
+      "Woody Harrelson",
+      "Ted Danson",
+      "John Ratzenberger (Cliff Clavin)",
+      "Kirstie Alley"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "In 'The Show Where Sam Shows Up', what does Sam tell Frasier about what happened to the old regulars at Cheers?",
+    "options": [
+      "The bar went bankrupt and was converted into a boutique",
+      "Carla moved to Los Angeles to manage a bowling alley",
+      "Woody was elected governor of Massachusetts",
+      "Norm and Cliff are still sitting on their barstools at the end of the counter"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Frasier",
+    "q": "What Emmy-winning lead actress won an Emmy for guest starring as Lilith Sternin on 'Frasier' in Season 1?",
+    "options": [
+      "Bebe Neuwirth",
+      "Shelley Long",
+      "Jean Smart",
+      "Christine Baranski"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "In how many consecutive seasons of 'Frasier' did David Hyde Pierce receive a Primetime Emmy nomination for Supporting Actor?",
+    "options": [
+      "Only the first 5 seasons",
+      "All 11 seasons (nominated every single year of the show's run)",
+      "7 seasons",
+      "9 seasons"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "How many Primetime Emmy Awards did David Hyde Pierce win for his performance as Niles Crane?",
+    "options": [
+      "2 Emmy Awards",
+      "3 Emmy Awards",
+      "4 Emmy Awards",
+      "5 Emmy Awards"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Frasier",
+    "q": "How many Primetime Emmy Awards did Kelsey Grammer win for Outstanding Lead Actor in a Comedy Series for playing Frasier?",
+    "options": [
+      "2 Emmy Awards",
+      "3 Emmy Awards",
+      "6 Emmy Awards",
+      "4 Emmy Awards"
+    ],
+    "answer": 3,
+    "d": 3
+  }
+]

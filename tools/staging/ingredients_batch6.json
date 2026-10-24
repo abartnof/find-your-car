@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Ingredients",
+    "q": "Which crushed nut is the traditional crunchy garnish sprinkled over classic Thai Pad Thai?",
+    "options": [
+      "Roasted peanuts",
+      "Cashews",
+      "Almonds",
+      "Sesame seeds"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fruit paste provides the essential sour and sweet tang in authentic Thai Pad Thai sauce?",
+    "options": [
+      "Tomato paste",
+      "Lime pickle",
+      "Tamarind paste",
+      "Plum paste"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which green herb is the key aromatic stirred into Thai Green Curry along with kaffir lime leaves?",
+    "options": [
+      "Spearmint",
+      "Parsley",
+      "Coriander root",
+      "Thai sweet basil"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which liquid provides the rich, creamy sauce base for traditional Thai red and green curries?",
+    "options": [
+      "Heavy cow cream",
+      "Soy milk",
+      "Almond milk",
+      "Coconut milk"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What type of short-grain rice, seasoned with rice vinegar, sugar, and salt, forms the base of Japanese sushi?",
+    "options": [
+      "Jasmine rice",
+      "Basmati rice",
+      "Brown glutinous rice",
+      "Sumeshi (seasoned sushi rice)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sheet of dried edible seaweed is wrapped around sushi rolls and onigiri?",
+    "options": [
+      "Wakame",
+      "Kombu",
+      "Nori",
+      "Dulse"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese dish consists of seafood and vegetables dipped in a light batter of ice water and flour, then deep-fried crisp?",
+    "options": [
+      "Karaage",
+      "Tonkatsu",
+      "Katsu",
+      "Tempura"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which coarse Japanese breadcrumbs give tonkatsu and fried cutlets their light, airy, extra-crunchy texture?",
+    "options": [
+      "Cornstarch",
+      "Puffed rice",
+      "Panko",
+      "Bread flour"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which meat cut is traditionally breaded in panko and deep-fried to make Japanese Tonkatsu?",
+    "options": [
+      "Pork cutlet",
+      "Beef short rib",
+      "Chicken drumstick",
+      "Lamb chop"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese skewered chicken pieces grilled over charcoal are brushed with a savory-sweet soy glaze called tare?",
+    "options": [
+      "Yakitori-don",
+      "Yakitori",
+      "Kushikatsu",
+      "Satay"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic Chinese dish features roast duck with crisp lacquered skin, served with paper-thin pancakes and sweet bean sauce?",
+    "options": [
+      "Cantonese roast duck",
+      "Peking duck",
+      "Nanjing salted duck",
+      "Zhangcha tea-smoked duck"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Sichuan tofu dish combines soft tofu cubes and minced meat in a fiery chili oil and fermented bean sauce scented with Sichuan peppercorns?",
+    "options": [
+      "Mapo Tofu",
+      "Kung Pao Tofu",
+      "Stinky Tofu",
+      "Braised Home-style Tofu"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which distinctive spice causes the famous mouth-numbing tingling sensation (ma) in Sichuan Mapo Tofu and Kung Pao chicken?",
+    "options": [
+      "Black pepper",
+      "Sichuan peppercorn",
+      "White pepper",
+      "Pink peppercorn"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which nut is classically tossed into Sichuan Kung Pao Chicken along with dried red chilies and scallions?",
+    "options": [
+      "Roasted peanuts",
+      "Pistachios",
+      "Walnuts",
+      "Pine nuts"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What liquid element is sealed inside Shanghainese Xiao Long Bao (soup dumplings) that turns into hot soup when steamed?",
+    "options": [
+      "Injected chicken bouillon",
+      "Chilled gelatinized meat aspic broth",
+      "Melted cheese",
+      "Soy sauce and vinegar"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French-influenced Vietnamese sandwich is served in an airy baguette spread with pâté and filled with pickled daikon and carrots?",
+    "options": [
+      "Bánh Mì",
+      "Bánh Xèo",
+      "Bánh Cuốn",
+      "Bao"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which pickled root vegetable duo provides the signature crunchy sweet-sour bite inside a Vietnamese Bánh Mì?",
+    "options": [
+      "Pickled onions and cucumbers",
+      "Sauerkraut and beets",
+      "Pickled daikon and carrots (Đồ chua)",
+      "Pickled ginger and cabbage"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which thin, translucent sheets made from rice flour and water are soaked in warm water to roll Vietnamese fresh spring rolls (Gỏi cuốn)?",
+    "options": [
+      "Wonton wrappers",
+      "Egg roll wrappers",
+      "Phyllo dough",
+      "Rice paper (Bánh tráng)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which long-grain fragrant rice variety native to the foothills of the Himalayas is the benchmark rice for Indian Biryani?",
+    "options": [
+      "Jasmine rice",
+      "Basmati rice",
+      "Sushi rice",
+      "Bomba rice"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which non-melting fresh curd cheese made by curdling heated cow or buffalo milk with lemon juice is standard in Indian cooking?",
+    "options": [
+      "Halloumi",
+      "Paneer",
+      "Queso fresco",
+      "Tofu"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which leafy green vegetable forms the smooth green spiced gravy of Indian Palak Paneer?",
+    "options": [
+      "Fenugreek",
+      "Spinach",
+      "Mustard greens",
+      "Kale"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which clarified butter, heated until water evaporates and milk solids are strained out, is the sacred cooking fat of traditional Indian cuisine?",
+    "options": [
+      "Lard",
+      "Ghee",
+      "Suet",
+      "Tallow"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Indian curry features tandoori chicken simmered in a velvety sauce of tomatoes, butter, cream, and aromatic spices?",
+    "options": [
+      "Chicken Vindaloo",
+      "Chicken Korma",
+      "Butter Chicken (Murgh Makhani)",
+      "Chicken Madras"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which legume is cooked with spices, ginger, and garlic to prepare the everyday Indian staple known as dal?",
+    "options": [
+      "Soybeans",
+      "Lima beans",
+      "Green peas",
+      "Lentils (or split pulses)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which crisp, triangular deep-fried pastry pocket is stuffed with spiced potatoes, green peas, and cumin seeds in India?",
+    "options": [
+      "Pakora",
+      "Bhajji",
+      "Samosa",
+      "Kachori"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which deep-fried fritter balls or patties are made of soaked ground chickpeas or fava beans mixed with parsley, cilantro, and garlic?",
+    "options": [
+      "Kibbeh",
+      "Kofta",
+      "Falafel",
+      "Sambousek"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which North African and Middle Eastern skillet dish consists of gently poached whole eggs in a simmering sauce of tomatoes, bell peppers, garlic, and cumin?",
+    "options": [
+      "Shakshuka",
+      "Menemen",
+      "Huevos rancheros",
+      "Matbucha"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Middle Eastern flatbread baked in hot ovens forms the traditional pocket for shawarma and falafel?",
+    "options": [
+      "Naan",
+      "Lavash",
+      "Roti",
+      "Pita bread"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which roasted ground spice gives Indian curry dishes their earthy flavor and characteristic warm brown undertone?",
+    "options": [
+      "Cardamom",
+      "Vanilla",
+      "Nutmeg",
+      "Ground cumin"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which ground spice root gives Indian curries their intense golden-yellow hue?",
+    "options": [
+      "Paprika",
+      "Saffron",
+      "Ginger",
+      "Turmeric"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Thai street food dish features minced chicken or pork stir-fried violently with holy basil, garlic, and bird's eye chilies, served with a crispy fried egg?",
+    "options": [
+      "Pad See Ew",
+      "Pad Kee Mao",
+      "Khao Pad",
+      "Pad Kra Pao"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which distinct variety of basil, having a slightly peppery clove-like taste, is strictly required for authentic Thai Pad Kra Pao?",
+    "options": [
+      "Thai sweet basil (Bai Horapha)",
+      "Lemon basil (Bai Maenglak)",
+      "Thai holy basil (Bai Krapow)",
+      "Genovese sweet basil"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which wide, flat rice noodle dish, whose name translates to 'drunken noodles', is stir-fried with meat, holy basil, garlic, and fresh peppercorns?",
+    "options": [
+      "Pad See Ew",
+      "Pad Thai",
+      "Kuay Teow",
+      "Pad Kee Mao"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Thai stir-fried flat noodle dish combines broad rice noodles with Chinese broccoli (gai lan), egg, and dark sweet soy sauce?",
+    "options": [
+      "Pad See Ew",
+      "Pad Kee Mao",
+      "Pad Thai",
+      "Rad Na"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which rich, peanut-studded Thai curry influenced by Muslim spice traders incorporates whole warm spices like cardamom, cinnamon, cloves, and star anise with potatoes?",
+    "options": [
+      "Panang Curry",
+      "Green Curry",
+      "Yellow Curry",
+      "Massaman Curry"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Northern Thai noodle soup features egg noodles in a rich coconut-curry broth, topped with fried crispy egg noodles, shallots, and pickled greens?",
+    "options": [
+      "Laksa",
+      "Mohinga",
+      "Khao Man Gai",
+      "Khao Soi"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese savory pancake, whose name means 'grilled as you like', features shredded cabbage, batter, pork belly, okonomiyaki sauce, and dancing bonito flakes?",
+    "options": [
+      "Okonomiyaki",
+      "Takoyaki",
+      "Monjayaki",
+      "Taiyaki"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which street food balls from Osaka are made by pouring seasoned batter into spherical molds with diced octopus tentacles, pickled ginger, and green onions?",
+    "options": [
+      "Okonomiyaki",
+      "Kushikatsu",
+      "Yakitori",
+      "Takoyaki"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese comfort food bowl, whose name translates to 'parent and child bowl', simmers chicken pieces, beaten eggs, and sliced onions in sweet dashi broth over rice?",
+    "options": [
+      "Gyudon",
+      "Oyakodon",
+      "Katsudon",
+      "Tendon"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese rice bowl tops steamed white rice with a crisp deep-fried pork cutlet and sliced onions simmered in egg and sweet dashi?",
+    "options": [
+      "Gyudon",
+      "Oyakodon",
+      "Katsudon",
+      "Unadon"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese beef bowl tops steamed rice with paper-thin beef slices and onions gently simmered in a sweet soy-mirin-dashi sauce?",
+    "options": [
+      "Katsudon",
+      "Butadon",
+      "Oyakodon",
+      "Gyudon"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese grilled eel dish served over rice is glazed continuously with a sticky, caramelized sauce made from eel bones, soy sauce, and mirin?",
+    "options": [
+      "Katsudon",
+      "Anago don",
+      "Unadon (Unagi Kabayaki)",
+      "Tendon"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Chinese roasted pork delicacy from Canton is marinated in fermented red bean curd, hoisin sauce, maltose, five-spice powder, and Shaoxing wine?",
+    "options": [
+      "Siu Yuk",
+      "Char Siu",
+      "Dongpo Pork",
+      "Twice-Cooked Pork"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Cantonese roast pork dish features tender pork belly roasted until its rind puffs up into intensely crispy, bubbly, golden crackling skin?",
+    "options": [
+      "Char Siu",
+      "Dongpo Pork",
+      "Siu Yuk (Crispy Roast Pork Belly)",
+      "Sweet and Sour Pork"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Hangzhou braised pork belly dish, named after a famous Song Dynasty poet, is braised in Shaoxing wine, sugar, and soy sauce until melt-in-the-mouth tender?",
+    "options": [
+      "Hong Shao Rou",
+      "Char Siu",
+      "Lu Rou Fan",
+      "Dongpo Pork"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which famous Hunanese red-braised pork dish, famously loved by Chairman Mao, simmers pork belly with caramelized rock sugar, dark soy, and spices?",
+    "options": [
+      "Dongpo Pork",
+      "Char Siu",
+      "Mao Tofu",
+      "Hong Shao Rou (Red-Braised Pork)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Sichuan noodle dish features spicy chili oil, toasted sesame paste, Sichuan pepper, and savory ground pork cooked with preserved mustard greens (sui mi ya cai)?",
+    "options": [
+      "Dan Dan Noodles",
+      "Zha Jiang Mian",
+      "Biang Biang Noodles",
+      "Liangpi"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which northern Chinese noodle dish features thick wheat noodles topped with a rich dark sauce made by frying ground pork in sweet bean sauce and fermented bean paste?",
+    "options": [
+      "Dan Dan Noodles",
+      "Wonton Noodles",
+      "Dapanji",
+      "Zha Jiang Mian"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Shaanxi specialty features thick, wide hand-ripped wheat noodles tossed with hot oil poured over garlic, chili flakes, and scallions to sizzle?",
+    "options": [
+      "Dan Dan Noodles",
+      "Biang Biang Noodles",
+      "Lamian",
+      "Dao Xiao Mian"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Shaanxi hand-held street food, often called the 'Chinese hamburger', features tender braised spiced pork belly stuffed into a crisp griddled flatbread (baijimo)?",
+    "options": [
+      "Rou Jia Mo",
+      "Gua Bao",
+      "Baozi",
+      "Shengjianbao"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Taiwanese steamed open bun, resembling a 'tiger bites pig', is filled with braised pork belly, pickled mustard greens, crushed sweetened peanuts, and cilantro?",
+    "options": [
+      "Rou Jia Mo",
+      "Xiaolongbao",
+      "Mantou",
+      "Gua Bao"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Taiwanese comfort food dish consists of finely minced pork belly braised with fried shallots, soy sauce, five spice, and rock sugar spooned over steamed white rice?",
+    "options": [
+      "Gua Bao",
+      "Zongzi",
+      "Lu Rou Fan (Braised Pork Rice)",
+      "Minced Beef Rice"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic Cantonese dim sum dumpling features whole shrimp encased in a translucent, pleated wrapper made from wheat and tapioca starch?",
+    "options": [
+      "Shumai",
+      "Har Gow",
+      "Wonton",
+      "Potsticker"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which open-topped steamed Cantonese dim sum dumpling has a filling of ground pork, diced shrimp, and shiitake mushrooms, wrapped in a thin yellow egg skin?",
+    "options": [
+      "Har Gow",
+      "Shu Mai (Siu Mai)",
+      "Cheong Fun",
+      "Lo Mai Gai"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Cantonese dim sum dish features glutinous sticky rice filled with chicken, Chinese sausage, salted egg yolk, and shiitake mushrooms, wrapped and steamed in lotus leaves?",
+    "options": [
+      "Zongzi",
+      "Har Gow",
+      "Cheong Fun",
+      "Lo Mai Gai"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which crispy, sizzling Vietnamese crepe made from rice flour, coconut milk, and turmeric is stuffed with sliced pork, shrimp, and bean sprouts?",
+    "options": [
+      "Bánh Xèo",
+      "Bánh Cuốn",
+      "Bánh Khốt",
+      "Bánh Mì"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Hanoi noodle dish features grilled seasoned pork patties and pork belly strips served in a bowl of warm diluted fish sauce with pickled papaya, herbs, and vermicelli?",
+    "options": [
+      "Bún Bò Huế",
+      "Bún Chả",
+      "Bún Riêu",
+      "Bún Thịt Nướng"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Southern Vietnamese noodle bowl layers rice vermicelli with char-grilled marinated pork slices, crispy egg rolls, fresh greens, and nước chấm dressing?",
+    "options": [
+      "Bún Chả",
+      "Bún Thịt Nướng",
+      "Bún Bò Nam Bộ",
+      "Hủ Tiếu"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which royal Kashmiri meat stew features braised lamb cooked with Kashmiri red chilies, ground fennel seeds, dried ginger, and yogurt in mustard oil?",
+    "options": [
+      "Lamb Korma",
+      "Lamb Vindaloo",
+      "Rogan Josh",
+      "Lamb Madras"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which spicy Goan curry of Portuguese origin is characterized by pork or meat marinated in garlic, red chilies, and sharp wine vinegar?",
+    "options": [
+      "Vindaloo",
+      "Xacuti",
+      "Cafreal",
+      "Balchão"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Goan spiced chicken or meat dish features chicken braised in a green paste of fresh coriander, green chilies, mint, garlic, and rum/vinegar?",
+    "options": [
+      "Vindaloo",
+      "Cafreal",
+      "Xacuti",
+      "Korma"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which famous creamy North Indian lentil dish from Delhi is made by slow-cooking whole black lentils (urad dal) and kidney beans with butter, tomato puree, and cream for 24 hours?",
+    "options": [
+      "Dal Makhani",
+      "Dal Tadka",
+      "Chana Masala",
+      "Sambar"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What culinary technique in Indian cooking involves frying whole spices (such as mustard seeds, cumin, and dried chilies) in hot oil or ghee before pouring over a dish?",
+    "options": [
+      "Dum",
+      "Bhunao",
+      "Tadka (Tempering / Chaunk)",
+      "Tandoor"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which slow-cooking method in Indian cuisine involves sealing a heavy cooking pot with dough to trap steam while meats and rice cook slowly over embers?",
+    "options": [
+      "Tandoor",
+      "Tadka",
+      "Dum cooking",
+      "Tawa"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fermented South Indian breakfast crepe is made from a ground, fermented batter of parboiled rice and skinned black gram (urad dal)?",
+    "options": [
+      "Idli",
+      "Uttapam",
+      "Dosa",
+      "Appam"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which steamed, fluffy South Indian savory cakes are made from the same fermented rice and black gram batter as dosas?",
+    "options": [
+      "Dosa",
+      "Vada",
+      "Puttu",
+      "Idli"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which crisp, doughnut-shaped deep-fried savory snack from South India is made from spiced black gram (urad dal) batter?",
+    "options": [
+      "Medu Vada",
+      "Samosa",
+      "Pakora",
+      "Bonda"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Persian festive stew features chicken or duck simmered gently in a thick, velvety brown sauce made of toasted ground walnuts and tart pomegranate molasses?",
+    "options": [
+      "Ghormeh Sabzi",
+      "Fesenjān",
+      "Gheimeh",
+      "Abgoosht"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Persian slow-cooked comfort stew consists of lamb cubes, yellow split peas, and dried Persian limes, topped with matchstick fried potatoes?",
+    "options": [
+      "Ghormeh Sabzi",
+      "Fesenjān",
+      "Khoresh Gheimeh",
+      "Baghali Polo"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fragrant Persian rice pilaf is layered with dill weed and tender young fava beans (broad beans), traditionally served with slow-braised lamb shanks?",
+    "options": [
+      "Zereshk Polo",
+      "Sabzi Polo",
+      "Baghali Polo",
+      "Tahchin"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which prized crisp, golden layer of crust that forms at the bottom of a Persian rice pot is called:",
+    "options": [
+      "Socarrat",
+      "Nurungji",
+      "Guoba",
+      "Tahdig"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Persian baked saffron rice cake is layered with braised chicken or lamb, egg yolks, thick yogurt, and topped with tart barberries?",
+    "options": [
+      "Tahchin",
+      "Baghali Polo",
+      "Zereshk Polo",
+      "Chelo Kabab"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which tart, tiny dried red berries, sautéed in butter with sugar and saffron, are scattered across Persian basmati rice in Zereshk Polo?",
+    "options": [
+      "Pomegranate arils",
+      "Dried cranberries",
+      "Barberries (Zereshk)",
+      "Red currants"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Iranian meat and chickpea stew, also known as Dizi, is cooked in clay pots where the broth is strained first and solids mashed with a goosht-koob?",
+    "options": [
+      "Abgoosht (Dizi)",
+      "Kashk-e Bademjan",
+      "Haleem",
+      "Ash-e Reshteh"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Persian eggplant dip features roasted mashed eggplant topped with fermented drained whey (kashk), crispy fried onions, and bloomed dried mint oil?",
+    "options": [
+      "Mirza Ghassemi",
+      "Kashk-e Bademjan",
+      "Baba Ghanoush",
+      "Borani"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Northern Iranian eggplant dish from the Caspian province of Gilan features smoked grilled eggplants mashed with ripe tomatoes, copious garlic, and scrambled eggs?",
+    "options": [
+      "Mirza Ghassemi",
+      "Kashk-e Bademjan",
+      "Shakshuka",
+      "Zaalouk"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which national dish of Jordan features bone-in lamb cooked in a rich, tangy broth made from fermented, sun-dried goat's milk yogurt (jameed), served over rice and markook bread?",
+    "options": [
+      "Maqluba",
+      "Kabsa",
+      "Mansaf",
+      "Mandi"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "What specific stone-hard fermented sheep or goat milk yogurt ball, reconstituted in water, creates the distinctive sour broth for Jordanian Mansaf?",
+    "options": [
+      "Kashk",
+      "Labneh",
+      "Jameed",
+      "Chanklish"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Palestinian and Levantine upside-down layered rice dish, whose name literally translates to 'upside-down', is cooked with chicken, fried cauliflower, and eggplant?",
+    "options": [
+      "Mansaf",
+      "Kabsa",
+      "Maqluba",
+      "Musakhan"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which national dish of Palestine consists of roast chicken spiced with mountains of tangy red sumac and sweet caramelized onions, served atop taboon flatbread?",
+    "options": [
+      "Maqluba",
+      "Musakhan",
+      "Mansaf",
+      "Shish Taouk"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which national dish of Saudi Arabia features long-grain spiced basmati rice simmered with chicken or meat, tomatoes, dried black limes, cardamom, and toasted nuts?",
+    "options": [
+      "Mandi",
+      "Majboos",
+      "Kabsa",
+      "Sayadieh"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Yemeni meat and rice dish is cooked inside an underground tandoor-style pit oven, allowing roasting lamb fat to drip onto the smoking rice below?",
+    "options": [
+      "Mandi",
+      "Kabsa",
+      "Zurbian",
+      "Mansaf"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which national dish of Yemen is a bubbling hot meat stew served in a basalt stone bowl (harra), topped with a thick layer of frothy whipped fenugreek paste (hulbah)?",
+    "options": [
+      "Saltah",
+      "Fahsa",
+      "Mandi",
+      "Zurbian"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "What frothy, whipped paste made from soaked ground fenugreek seeds forms the cooling, frothy crown atop Yemeni Saltah and Fahsa stews?",
+    "options": [
+      "Hulbah",
+      "Tahini",
+      "Toum",
+      "Zhug"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which ancient Levantine and Mesopotamian dish features whole wheat kernels and shredded lamb or chicken slow-beaten together for hours into a porridge consistency?",
+    "options": [
+      "Kashk",
+      "Harees (Harissa / Haleem)",
+      "Frikeh",
+      "Kousa"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which cereal food made from green durum wheat that is roasted while immature and rubbed to remove hulls has a smoky, nutty flavor in Levantine cooking?",
+    "options": [
+      "Bulgur",
+      "Freekeh",
+      "Farro",
+      "Couscous"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which royal Awadhi Mughal dish from Lucknow, India, features melt-in-your-mouth spiced lamb patties tenderized with raw papaya paste, smoked via dhungar?",
+    "options": [
+      "Kakori Kebab",
+      "Shami Kebab",
+      "Seekh Kebab",
+      "Galouti Kebab"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which natural fruit enzyme from unripe raw papayas is classically used to tenderize meat for Awadhi royal kebabs?",
+    "options": [
+      "Bromelain",
+      "Papain",
+      "Actinidin",
+      "Ficin"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which extremely tender skewered minced mutton kebab was historically invented in Awadh for an aging toothless Nawab?",
+    "options": [
+      "Seekh Kebab",
+      "Chapli Kebab",
+      "Bihari Kebab",
+      "Kakori Kebab"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which flat, disc-shaped spicy minced beef patty flavored with pomegranate seeds, coriander seeds, and tomatoes originated in Peshawar, Pakistan?",
+    "options": [
+      "Galouti Kebab",
+      "Chapli Kebab",
+      "Shami Kebab",
+      "Reshmi Kebab"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which royal Kashmiri multi-course feast, consisting of up to 36 elaborate courses prepared by master chefs (wazas), is called:",
+    "options": [
+      "Wazwan",
+      "Dawat",
+      "Thali",
+      "Langar"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which signature dish of Kashmiri Wazwan consists of spongy mutton dumplings pounded by hand on stone slabs, poached in a fragrant saffron and curd yogurt gravy?",
+    "options": [
+      "Rista",
+      "Tabak Maaz",
+      "Aab Gosh",
+      "Gushtaba"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which companion dish to Gushtaba in Kashmiri Wazwan features hand-pounded mutton meatballs simmered in a fiery red gravy colored with maval (cockscomb flower)?",
+    "options": [
+      "Gushtaba",
+      "Rogan Josh",
+      "Rista",
+      "Dhanyawal Korma"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Kashmiri Wazwan dish consists of tender lamb ribs boiled with spices and then fried crisp in pure ghee until crackling?",
+    "options": [
+      "Tabak Maaz",
+      "Gushtaba",
+      "Rista",
+      "Marchwangan Korma"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which slow-simmered Awadhi stew of shank meat and bone marrow, flavored with over 50 spices, is traditionally eaten for breakfast with kulcha flatbread?",
+    "options": [
+      "Haleem",
+      "Nihari",
+      "Paya",
+      "Kunna"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which rich, gelatinous soup made by slow-cooking goat or sheep trotters and hooves with onions, ginger, and spices is an Indian winter staple?",
+    "options": [
+      "Paya (Trotters soup)",
+      "Nihari",
+      "Haleem",
+      "Yakhni"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Indian aromatic herb, known in Hindi as 'Kasuri Methi', is crushed between palms as the definitive finishing touch for Butter Chicken and Dal Makhani?",
+    "options": [
+      "Dried curry leaves",
+      "Dried fenugreek leaves",
+      "Dried coriander",
+      "Dried mint"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which pungent resin extracted from the roots of Ferula plants is used in minute quantities in Indian vegetarian cooking to impart an onion-garlic aroma?",
+    "options": [
+      "Asafoetida (Hing)",
+      "Kalonji",
+      "Ajwain",
+      "Amchur"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which small, ribbed seeds tasting strongly of thyme and caraway are commonly added to samosa pastry dough and Indian pakoras for digestion?",
+    "options": [
+      "Ajwain (Carom seeds)",
+      "Kalonji (Nigella seeds)",
+      "Fennel seeds",
+      "Cumin seeds"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which black, tear-shaped seeds, often mistakenly called black cumin or onion seeds, are sprinkled atop traditional tandoori naan bread?",
+    "options": [
+      "Black sesame seeds",
+      "Ajwain",
+      "Kalonji (Nigella sativa)",
+      "Chia seeds"
+    ],
+    "answer": 2,
+    "d": 3
+  }
+]

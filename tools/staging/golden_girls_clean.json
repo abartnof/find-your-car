@@ -1,0 +1,6002 @@
+[
+  {
+    "show": "The Golden Girls",
+    "q": "What dessert do the four women most frequently eat late at night in the kitchen while discussing their problems?",
+    "options": [
+      "Cheesecake",
+      "Key lime pie",
+      "Tiramisu",
+      "Apple strudel"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the street address of Blanche Devereaux's Miami home where the women live?",
+    "options": [
+      "742 Evergreen Terrace",
+      "6151 Richmond Street",
+      "124 Conch Street",
+      "4321 Palm Boulevard"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What iconic phrase does Sophia Petrillo habitually use to begin her nostalgic anecdotes?",
+    "options": [
+      "Listen closely, children...",
+      "Back in the old country...",
+      "Picture it: Sicily...",
+      "Remember Brooklyn in the thirties..."
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of the Minnesota hometown where Rose Nylund grew up?",
+    "options": [
+      "Lake Wobegon",
+      "Duluth Falls",
+      "Little Norway",
+      "St. Olaf"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Dorothy Zbornak works primarily in which profession throughout the series?",
+    "options": [
+      "Substitute teacher",
+      "Museum curator",
+      "Travel agent",
+      "Real estate broker"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What retirement home did Sophia live in before it burned down, forcing her to move in with Dorothy?",
+    "options": [
+      "Whispering Palms",
+      "Shady Pines",
+      "Sunny Acres",
+      "Golden Meadows"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What warning does Dorothy frequently utter to her mother whenever Sophia misbehaves or insults someone?",
+    "options": [
+      "Back to Brooklyn, Ma!",
+      "Quiet down, Sophia!",
+      "Shady Pines, Ma!",
+      "To your room, Ma!"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What accessory does Sophia Petrillo carry with her everywhere, even inside the house?",
+    "options": [
+      "A silver locket",
+      "A leather satchel",
+      "A beaded clutch",
+      "A woven wicker purse"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Dorothy's ex-husband who left her after 38 years of marriage?",
+    "options": [
+      "Stan Zbornak",
+      "Artie Levine",
+      "Murray Guttman",
+      "Dennis Douglas"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the profession of Chrissy, the young woman Stan left Dorothy for?",
+    "options": [
+      "Tennis instructor",
+      "Flight attendant",
+      "Dental hygienist",
+      "Cocktail waitress"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What pet name does Stan repeatedly and annoying call Dorothy whenever he visits?",
+    "options": [
+      "Sweetheart",
+      "Doll",
+      "Babe",
+      "Honeybun"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What novelty invention does Stan create that runs on a common vegetable?",
+    "options": [
+      "A carrot flashlight",
+      "A turnip radio",
+      "An onion battery",
+      "A potato clock"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is Blanche Devereaux's middle name?",
+    "options": [
+      "Elizabeth",
+      "Ann",
+      "Marie",
+      "Lee"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What distinctive wallpaper design covers Blanche's bedroom walls throughout the series?",
+    "options": [
+      "Pink flamingos",
+      "Tropical banana palm leaves",
+      "Southern magnolia blossoms",
+      "Blue damask silk"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How did Rose's late husband, Charlie Nylund, pass away?",
+    "options": [
+      "In a tractor accident on their farm",
+      "During a blizzard in St. Olaf",
+      "He had a heart attack while making love to Rose",
+      "From food poisoning at a lutefisk dinner"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How did Blanche's late husband, George Devereaux, die according to the series backstory?",
+    "options": [
+      "From a plane crash",
+      "Of a heart attack on a golf course",
+      "During an overseas sailing trip",
+      "In a car accident"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What medical event caused Sophia to lose her filter and speak whatever unfiltered thought comes to mind?",
+    "options": [
+      "A stroke",
+      "A concussion",
+      "A mild heart attack",
+      "A fainting spell at church"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Where did Blanche first place the notice advertising for roommates for her house?",
+    "options": [
+      "The classifieds in the Miami Herald",
+      "A bulletin board at a local supermarket",
+      "A community board at the library",
+      "A flyer at the senior center"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What fish is central to dozens of Rose Nylund's St. Olaf stories, folk traditions, and recipes?",
+    "options": [
+      "Cod",
+      "Trout",
+      "Herring",
+      "Haddock"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's beloved father, whom she affectionately calls 'Big Daddy'?",
+    "options": [
+      "Beauregard Devereaux",
+      "Jackson Hollingsworth",
+      "Calhoun Montgomery",
+      "Curtis Hollingsworth"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the Georgia estate where Blanche grew up as a southern belle?",
+    "options": [
+      "Twin Oaks",
+      "Tara",
+      "Twelve Oaks",
+      "Belle Rive"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What physical feature of Stan Zbornak was a frequent target of Dorothy and Sophia's jokes?",
+    "options": [
+      "His fake glass eye",
+      "His baldness and terrible toupees",
+      "His oversized mustache",
+      "His elevator shoes"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is Sophia Petrillo's maiden name?",
+    "options": [
+      "Castorini",
+      "Grisanti",
+      "Spirelli",
+      "Barone"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Sophia's late husband and Dorothy's father?",
+    "options": [
+      "Giuseppe",
+      "Vito",
+      "Antonio",
+      "Salvadore"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why did Dorothy marry Stan Zbornak when they were teenagers?",
+    "options": [
+      "Dorothy got pregnant after high school prom",
+      "Stan won a bet with her father",
+      "They eloped to escape Brooklyn",
+      "To combine their families' bakery businesses"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What subject does Dorothy most frequently mention teaching as a substitute high school teacher?",
+    "options": [
+      "Chemistry and Biology",
+      "English and American History",
+      "French and Spanish",
+      "Home Economics and Art"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What college professor becomes Rose's steady, long-term romantic partner in later seasons?",
+    "options": [
+      "Arnie Peterson",
+      "Jonathan Newman",
+      "Miles Webber",
+      "Lucas Hollingsworth"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What surprise true identity does Miles Webber reveal after being tracked down by a mobster?",
+    "options": [
+      "Arthur Miller, a retired CIA operative",
+      "Vincent Falcone, an undercover FBI agent",
+      "Charles Lindstrom, Rose's distant cousin",
+      "Nicholas Carbone, who entered witness protection"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the alias of the mob hitman from whom Miles Webber is hiding in the federal witness protection program?",
+    "options": [
+      "The Cheese Man",
+      "The Butcher",
+      "The Claw",
+      "The Ice Pick"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Dorothy's musician son who frequently needs money and couch space?",
+    "options": [
+      "David",
+      "Michael",
+      "Tommy",
+      "Anthony"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What instrument does Dorothy's slacker son Michael play?",
+    "options": [
+      "Saxophone",
+      "Bass guitar",
+      "Drums",
+      "Trumpet"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Dorothy's daughter whose wedding takes place early in the series?",
+    "options": [
+      "Rebecca",
+      "Janet",
+      "Maria",
+      "Kate"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What profession does Kate's fiancé Dennis practice when they marry in Season 1?",
+    "options": [
+      "Podiatrist",
+      "Accountant",
+      "Chiropractor",
+      "Architect"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Sophia's son who was a cross-dresser and lived in Newark?",
+    "options": [
+      "Gino",
+      "Phil",
+      "Dominic",
+      "Frankie"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How does Sophia's unseen son Phil die in the emotional Season 6 episode 'Ebbtide's Revenge'?",
+    "options": [
+      "A stroke",
+      "A car accident",
+      "A sudden heart attack",
+      "Pneumonia"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was Phil Petrillo's wife's name who clashed with Sophia at his funeral?",
+    "options": [
+      "Carmela",
+      "Lucia",
+      "Theresa",
+      "Angela"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Sophia's sister who moved from Sicily and frequently bickered with her?",
+    "options": [
+      "Angela",
+      "Concetta",
+      "Rosalia",
+      "Gina"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Sophia's brother who was a Catholic priest before leaving the priesthood?",
+    "options": [
+      "Giovanni",
+      "Angelo",
+      "Marco",
+      "Pietro"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What Scandinavian exclamation does Rose frequently utter when startled, exasperated, or amazed?",
+    "options": [
+      "Mamma mia!",
+      "Holy yutz!",
+      "Uff-da!",
+      "Gee whiz!"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What job did Rose hold in the early seasons before working at a local television station?",
+    "options": [
+      "Dental assistant",
+      "Elementary school nurse",
+      "Public library clerk",
+      "Grief counselor at a counseling center"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of the eccentric TV consumer reporter Rose works for at the Miami news station?",
+    "options": [
+      "Enrique Mas",
+      "Hector Alvarez",
+      "Ricardo Gomez",
+      "Carlos Ramos"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's daughter who arrives in Miami visibly overweight, shocking Blanche?",
+    "options": [
+      "Janet",
+      "Rebecca",
+      "Virginia",
+      "Charmaine"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Rebecca's baby daughter born via artificial insemination?",
+    "options": [
+      "Scarlett",
+      "Savannah",
+      "Aurora",
+      "Belle"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's gay brother who visits Miami to come out to her?",
+    "options": [
+      "Tad",
+      "Buford",
+      "Sterling",
+      "Clayton"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Clayton's fiancé whom he plans to marry in Season 6?",
+    "options": [
+      "Doug",
+      "Gary",
+      "Brian",
+      "Keith"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's sister who comes to Miami needing a kidney transplant?",
+    "options": [
+      "Charmaine",
+      "Virginia",
+      "Magnolia",
+      "Emmaline"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's rivalrous sister who writes an erotic romance novel based on Blanche's life?",
+    "options": [
+      "Virginia",
+      "Lucinda",
+      "Charmaine",
+      "Clementine"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the title of the steamy romance novel Charmaine publishes about Blanche's love life?",
+    "options": [
+      "Southern Heat",
+      "Georgia Nights",
+      "The Scent of Magnolias",
+      "Vixen: Story of a Woman"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In St. Olaf folklore, what legendary leader was known as 'Olaf the Berserk'?",
+    "options": [
+      "A Viking chieftain with a terrible sense of direction",
+      "A baker who invented the square pretzel",
+      "A blacksmith who fought with giant spoons",
+      "A farmer who married a snow yeti"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What St. Olaf competition involves tossing a heavy fish across a field for distance and accuracy?",
+    "options": [
+      "The Flounder Fling",
+      "The Great Herring Toss",
+      "The Salmon Slam",
+      "The Cod Catapult"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What animal does Rose claim could tell fortunes in St. Olaf?",
+    "options": [
+      "A rooster named Thor",
+      "A cow named Greta",
+      "A pig named Elmer",
+      "A goat named Sven"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Rose's beloved childhood teddy bear that was held hostage by a Girl Scout?",
+    "options": [
+      "Barnaby",
+      "Olaf",
+      "Teddy Ruxpin",
+      "Fernando"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of the ruthless Sunshine Cadet scout who refuses to return Rose's teddy bear Fernando?",
+    "options": [
+      "Daisy",
+      "Amber",
+      "Chloe",
+      "Megan"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How does Dorothy get Rose's teddy bear back from Daisy the Sunshine Cadet?",
+    "options": [
+      "She pays the 50-dollar ransom demand",
+      "She snatches it out of Daisy's hands and kicks her out of the house",
+      "She calls Daisy's mother and troop leader",
+      "She trades it for an autographed encyclopedia"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What Miami museum does Blanche work at as an assistant or administrator during the show?",
+    "options": [
+      "The Florida Natural History Museum",
+      "The Coral Gables Cultural Center",
+      "The Miami Museum of Art",
+      "The Biscayne Historical Society"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Sophia's elderly fiancé who married her in a Season 4 two-part premiere?",
+    "options": [
+      "Murray Guttman",
+      "Rocco",
+      "Alvin",
+      "Max Weinstock"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What joint business venture did Sophia and her new husband Max open on the boardwalk?",
+    "options": [
+      "A pizza knish stand",
+      "A gelato cart",
+      "A pastrami and cannoli trailer",
+      "An espresso kiosk"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What business did Dorothy's father Sal and Max Weinstock originally run together decades earlier?",
+    "options": [
+      "A dry-cleaning service in Queens",
+      "A novelty and catering company that burned down",
+      "A bowling alley in Brooklyn",
+      "A tailor shop in Little Italy"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the dog Rose briefly adopted that belonged to a deceased neighbor?",
+    "options": [
+      "Rusty",
+      "Buster",
+      "Pepe",
+      "Bruno"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What musical production do the four women stage in order to save a local park or community center?",
+    "options": [
+      "South Pacific revue",
+      "The Wizard of Oz",
+      "Fiddler on the Roof",
+      "The Henny Penny musical"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which character dresses up as Henny Penny in the school play?",
+    "options": [
+      "Dorothy",
+      "Rose",
+      "Blanche",
+      "Sophia"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which bird does Rose portray in the Henny Penny play?",
+    "options": [
+      "Foxy Loxy",
+      "Goosey Loosey",
+      "Turkey Lurkey",
+      "Ducky Lucky"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which bird does Blanche portray in the Henny Penny musical?",
+    "options": [
+      "Goosey Loosey",
+      "Chicken Little",
+      "Foxy Loxy",
+      "Turkey Lurkey"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What color hair does Dorothy's sister Gloria have, who arrives in town with financial problems?",
+    "options": [
+      "Red",
+      "Jet black",
+      "Brunette",
+      "Blonde"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What shocking romantic betrayal does Gloria commit against Dorothy in Season 7?",
+    "options": [
+      "She sleeps with Dorothy's ex-husband Stan",
+      "She steals Dorothy's fiancé Lucas",
+      "She sells Dorothy's wedding ring",
+      "She dates Dorothy's high school sweetheart"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of the hotel where the girls are mistaken for prostitutes while waiting to attend a Burt Reynolds taping?",
+    "options": [
+      "The Biltmore Miami",
+      "The Falcon Nest Hotel",
+      "The Fontainebleau",
+      "The Biscayne Bay Towers"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What famous actor tells the girls 'Which one's the slut?' after Sophia meets him at the hotel?",
+    "options": [
+      "Tom Selleck",
+      "Clint Eastwood",
+      "Burt Reynolds",
+      "Robert Redford"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What game show do Dorothy, Blanche, and Rose appear on together where they win absolutely nothing?",
+    "options": [
+      "Jeopardy!",
+      "Wheel of Fortune",
+      "The Price is Right",
+      "Grab That Dough"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What contestant teammate do the girls get stuck with on 'Grab That Dough' who ruins their chances?",
+    "options": [
+      "An eccentric elderly man named Guy",
+      "A competitive teenager named Kevin",
+      "A sleepy tourist named Harold",
+      "A nervous cab driver named Sal"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What prize do the women choose at the end of 'Grab That Dough' instead of taking the cash?",
+    "options": [
+      "A lifetime supply of soup",
+      "The mystery envelope containing a skillet",
+      "A set of patio luggage",
+      "A trip to Milwaukee"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What illness does Dorothy struggle to get diagnosed in the acclaimed two-part episode 'Sick and Tired'?",
+    "options": [
+      "Fibromyalgia",
+      "Lyme disease",
+      "Chronic Fatigue Syndrome",
+      "Mononucleosis"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What doctor finally takes Dorothy seriously and validates her Chronic Fatigue Syndrome diagnosis?",
+    "options": [
+      "Dr. Newman",
+      "Dr. Harris",
+      "Dr. McDermott",
+      "Dr. Chang"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What dismissive medical practitioner does Dorothy confront at a restaurant after getting properly diagnosed?",
+    "options": [
+      "Dr. Budd",
+      "Dr. Stevens",
+      "Dr. Miller",
+      "Dr. Warren"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What contest does Rose enter where she is mistakenly named St. Olaf's 'Woman of the Year'?",
+    "options": [
+      "Butter Queen of Minnesota",
+      "St. Olaf Woman of the Year",
+      "Lutefisk Princess of Crow Wing County",
+      "Miss Dairy Days"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What St. Olaf award did Rose actually win when she was a young girl?",
+    "options": [
+      "Best Milker at 4-H",
+      "Fastest Herring Scaler",
+      "Little Miss St. Olaf runner-up",
+      "Junior Yodeler"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's childhood nanny who comes to visit her in Miami?",
+    "options": [
+      "Mammy Lou",
+      "Delilah Jackson",
+      "Bernice Washington",
+      "Viola Watkins"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What shocking truth about Big Daddy does Viola Watkins reveal to Blanche?",
+    "options": [
+      "Big Daddy had a long-term secret affair with Viola",
+      "Big Daddy was deeply in debt and lost Twin Oaks",
+      "Big Daddy wasn't Blanche's biological father",
+      "Big Daddy was secretly married to another woman"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the wealthy older gentleman Blanche dated who turned out to have a secret heart condition?",
+    "options": [
+      "Arthur",
+      "Harry",
+      "Richard",
+      "Edward"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Sophia's friend who decides to end her own life due to terminal illness, sparking an ethical debate?",
+    "options": [
+      "Clara",
+      "Evelyn",
+      "Martha",
+      "Gladys"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What dance contest do Blanche and Rose enter together where Blanche becomes obsessively competitive?",
+    "options": [
+      "A salsa competition",
+      "A ballroom tango tournament",
+      "A tap dancing showcase",
+      "A charity dance marathon"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What St. Olaf holiday celebrates a legendary hero who drove all the flies out of town?",
+    "options": [
+      "St. Sigmund's Day",
+      "St. Olaf Founder's Day",
+      "The Feast of King Sven",
+      "Herring Jubilee"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of Rose's biological father, whom she meets in Season 4?",
+    "options": [
+      "Sven Lindstrom, a dairy farmer",
+      "Brother Martin, a monk",
+      "Lars Peterson, a sailor",
+      "Olaf Gunder, a carpenter"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What famous television personality does Rose convince herself is her biological father in 'You Gotta Have Hope'?",
+    "options": [
+      "Johnny Carson",
+      "Milton Berle",
+      "Bob Hope",
+      "George Burns"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the gay cook who appeared in the pilot episode but was subsequently dropped from the series?",
+    "options": [
+      "Enzo",
+      "Mateo",
+      "Julio",
+      "Coco"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why was the character of Coco the cook dropped after the pilot episode?",
+    "options": [
+      "Sophia was promoted to a main character and took over the cooking role",
+      "The actor was cast in another series",
+      "Test audiences complained about the kitchen size",
+      "The network banned male roommate characters"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What Italian dish does Sophia claim can cure practically any ailment or broken heart?",
+    "options": [
+      "Spaghetti carbonara",
+      "Her homemade marinara sauce with meatballs",
+      "Baked ziti with ricotta",
+      "Veal marsala"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the pilot episode, Blanche plans to marry an affluent suitor named Harry, but what crime is he arrested for?",
+    "options": [
+      "Embezzlement",
+      "Art forgery",
+      "Bigamy",
+      "Jewel theft"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of the high school where Dorothy frequently substitute-teaches and encounters troubled students?",
+    "options": [
+      "Biscayne Bay High",
+      "Miami Central High",
+      "Sunshine State Academy",
+      "Southside High"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What musical instrument does Dorothy play whenever she wants to express deep melancholy or irritation?",
+    "options": [
+      "Piano",
+      "Accordion",
+      "Violin",
+      "Flute"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What musical instrument does Rose play, including leading a band of local seniors?",
+    "options": [
+      "The clarinet",
+      "The tuba",
+      "The banjo",
+      "The tambourine"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the high school student Dorothy helps to stay in school despite him wanting to drop out to play baseball?",
+    "options": [
+      "Tony Rodriguez",
+      "Carlos Mendoza",
+      "Mario Lopez played him as Michael Gonzalez",
+      "Ramon Sanchez"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What future teen star played Dorothy's undocumented student Mario Sanchez in Season 2?",
+    "options": [
+      "Mark-Paul Gosselaar",
+      "Ricky Martin",
+      "Wilmer Valderrama",
+      "Mario Lopez"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What happens to the house roof in Season 3, forcing the girls to raise thousands of dollars?",
+    "options": [
+      "It collapses and needs total replacement",
+      "It is destroyed by a hurricane",
+      "Termites eat through the rafters",
+      "A fallen palm tree crushes it"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What fundraiser performance do the girls put on to pay for their leaky roof?",
+    "options": [
+      "A fashion show at the mall",
+      "A vaudeville talent show",
+      "A bake sale and car wash",
+      "A telethon on local cable"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What song do Blanche, Dorothy, and Rose perform in top hats and tails during their talent show act?",
+    "options": [
+      "Give My Regards to Broadway",
+      "New York, New York",
+      "Miami, You've Got Style",
+      "There's No Business Like Show Business"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Blanche's grandson who visits and exhibits rebellious, spoiled behavior?",
+    "options": [
+      "Travis",
+      "Hunter",
+      "Cody",
+      "David"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which daughter of Blanche is David's mother?",
+    "options": [
+      "Janet",
+      "Rebecca",
+      "Charmaine",
+      "Virginia"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What St. Olaf dish does Rose make that smells so putrid the other women refuse to let it in the kitchen?",
+    "options": [
+      "Boiled rutabaga pudding",
+      "Lefse with fermented herring and goat cheese",
+      "Pickled pig snouts",
+      "Smoked cod gelatin"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What kind of car did Stan drive that Dorothy frequently ridiculed?",
+    "options": [
+      "A rusty station wagon with wood paneling",
+      "An oversized Cadillac with broken AC",
+      "A cheap imported convertible that constantly broke down",
+      "A yellow compact hatchback"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the outdoor patio called where the Golden Girls frequently have breakfast and morning coffee?",
+    "options": [
+      "The veranda",
+      "The sunroom",
+      "The courtyard",
+      "The lanai"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 5 episode '72 Hours', why must Rose undergo an urgent medical test?",
+    "options": [
+      "She received a transfusion that may have been contaminated with HIV",
+      "She was exposed to tuberculosis at the hospital",
+      "She had an abnormal mammogram result",
+      "She was bitten by a rabid stray dog"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'High Anxiety', what substance has Rose been secretly addicted to for thirty years?",
+    "options": [
+      "Diet pills",
+      "Prescription pain pills and tranquilizers",
+      "Sleeping syrups",
+      "Alcohol"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the classic Season 1 episode 'A Little Romance', what surprises the girls about Rose's handsome date Dr. Jonathan Newman?",
+    "options": [
+      "He is half her age",
+      "He is an escaped felon",
+      "He is a little person",
+      "He cannot speak English"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 2 episode 'Isn't It Romantic?', which of the roommates does Dorothy's lesbian friend Jean fall in love with?",
+    "options": [
+      "Blanche",
+      "Dorothy",
+      "Sophia",
+      "Rose"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What happens when mean neighbor Mrs. Frieda Claxton refuses to save an ancient oak tree and Rose yells at her at a city council meeting?",
+    "options": [
+      "Mrs. Claxton drops dead on the spot",
+      "Mrs. Claxton slaps Rose across the face",
+      "Mrs. Claxton donates the property to the church",
+      "Mrs. Claxton sues Rose for slander"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why do the girls attend Mrs. Claxton's funeral when none of her family or neighbors show up?",
+    "options": [
+      "Out of Christian guilt and shame",
+      "To fulfill a legal requirement to secure land for a public park",
+      "Because Sophia mistook it for an Italian wake",
+      "To retrieve a borrowed gardening rake"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the touching Season 3 episode 'Old Friends', what condition affects Sophia's new boardwalk friend Alvin?",
+    "options": [
+      "Parkinson's disease",
+      "Terminal lung cancer",
+      "Alzheimer's disease",
+      "Macular degeneration"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 7 two-part murder mystery weekend episode 'The Case of the Libertine Belle', who is framed for real murder?",
+    "options": [
+      "Dorothy",
+      "Rose",
+      "Sophia",
+      "Blanche"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Case of the Libertine Belle', which roommate channels her inner detective to solve the real murder and clear Blanche?",
+    "options": [
+      "Dorothy",
+      "Rose",
+      "Sophia",
+      "Blanche"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the abusive, condescending fiancé Blanche's daughter Rebecca brought home in Season 3?",
+    "options": [
+      "Bradley",
+      "Jeremy",
+      "Trevor",
+      "Todd"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 6's 'My Brother, My Father', what do Dorothy and Stan pretend to be to fool visiting Uncle Angelo?",
+    "options": [
+      "Wealthy real estate tycoons",
+      "Devout church deacons",
+      "Still happily married",
+      "Professional ballroom dancers"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What holy persona does Sophia adopt in 'My Brother, My Father' when Uncle Angelo arrives?",
+    "options": [
+      "A missionary nurse from Africa",
+      "A cloistered mother superior",
+      "A parish choir director",
+      "A Catholic nun who took a vow of poverty"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What valuable object does Sophia claim to have hidden in her wicker purse when mugged?",
+    "options": [
+      "Her emergency cannoli and family rosary",
+      "A solid gold crucifix",
+      "A bearer bond from 1954",
+      "A diamond engagement ring"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 2, after a home break-in, the girls purchase a mace can and a handgun. What does Rose accidentally shoot?",
+    "options": [
+      "The living room television",
+      "Blanche's prized antique vase",
+      "The kitchen refrigerator",
+      "Stan's toupee on the hat rack"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What guard dog breed do the girls briefly adopt for home security after the robbery, only to find it completely docile?",
+    "options": [
+      "A German Shepherd",
+      "A Rottweiler",
+      "A Doberman Pinscher",
+      "A Bullmastiff"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What name does Rose give to the supposedly terrifying guard dog they adopt?",
+    "options": [
+      "Killer",
+      "Fang",
+      "Hercules",
+      "Baby"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 2's 'The Actor', what is the name of the handsome community theater lead who secretly seduces all three women?",
+    "options": [
+      "Patrick Vaughn",
+      "Julian Drake",
+      "Harrison Stone",
+      "Derek Richardson"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What local theater production is Patrick Vaughn starring in when the girls compete for the female lead?",
+    "options": [
+      "A Streetcar Named Desire",
+      "The Postman Always Rings Twice",
+      "Cat on a Hot Tin Roof",
+      "Death of a Salesman"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Housekeeper', what spiritual practice does housekeeper Marguerite allegedly use against the roommates?",
+    "options": [
+      "Wiccan witchcraft",
+      "Astrological hexes",
+      "Santería voodoo curses",
+      "Gypsy spells"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What physical symptom causes the girls to panic and believe Marguerite's curse is working?",
+    "options": [
+      "Rose losing her voice completely",
+      "Sophia getting locked in the pantry",
+      "All the house lights flickering",
+      "Dorothy's toothache and Blanche's unexplained spots"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 5's 'Love Under the Big Top', what profession does Dorothy's lawyer boyfriend Ken decide to pursue instead?",
+    "options": [
+      "Circus clown",
+      "Trapeze artist",
+      "Lion tamer",
+      "Magician"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What legendary comedy actor played Ken, Dorothy's clown-turned lawyer boyfriend?",
+    "options": [
+      "Carl Reiner",
+      "Dick Van Dyke",
+      "Tim Conway",
+      "Bob Newhart"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 4's 'Brother, Can You Spare That Jacket?', what valuable item is accidentally donated inside an old jacket to a thrift store?",
+    "options": [
+      "A diamond tennis bracelet",
+      "Five thousand dollars in cash",
+      "A winning lottery ticket",
+      "Blanche's deed to the house"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Where do the girls end up spending the night while searching for the donated jacket with the lottery ticket?",
+    "options": [
+      "A Miami police precinct cell",
+      "A bus terminal waiting room",
+      "An all-night laundromat",
+      "A homeless shelter"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What do the girls decide to do after retrieving the winning ticket at the homeless shelter?",
+    "options": [
+      "They donate the entire prize money to the shelter",
+      "They buy a brand-new roof for their house",
+      "They split the cash four ways",
+      "They take a luxury cruise to the Bahamas"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 7 episode 'Questions and Answers', what iconic TV game show does Dorothy audition for in her dream?",
+    "options": [
+      "Wheel of Fortune",
+      "Jeopardy!",
+      "The $25,000 Pyramid",
+      "Tic-Tac-Dough"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who hosts the game show in Dorothy's dream audition on 'Jeopardy!'?",
+    "options": [
+      "Art Fleming",
+      "Pat Sajak",
+      "Alex Trebek",
+      "Bob Barker"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What talk show icon and Jeopardy! creator appears in Dorothy's dream to declare Rose a genius?",
+    "options": [
+      "Dick Cavett",
+      "Johnny Carson",
+      "Mike Douglas",
+      "Merv Griffin"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 1 episode 'The Heart Attack', who experiences severe chest pains during an intense late-night storm?",
+    "options": [
+      "Sophia",
+      "Dorothy",
+      "Rose",
+      "Blanche"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Operation' (Season 1), what procedure does Dorothy require that terrifies her due to a childhood phobia?",
+    "options": [
+      "Cataract surgery",
+      "Foot surgery",
+      "Tonsillectomy",
+      "Appendectomy"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What dance do Dorothy and Rose practice to perform at an upcoming charity banquet in 'The Operation'?",
+    "options": [
+      "A waltz",
+      "A tango",
+      "A tap-dance routine",
+      "A polka"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 4's 'Yes, We Have No Havanas', what dashing Cuban widower do Sophia and Blanche both compete to date?",
+    "options": [
+      "Mateo Alvarez",
+      "Eduardo Morales",
+      "Alejandro Cruz",
+      "Fidel Santiago"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Competition' (Season 1), what sport do Dorothy and Blanche play against each other where Blanche cheats?",
+    "options": [
+      "Bowling",
+      "Tennis",
+      "Golf",
+      "Racquetball"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What bet did Dorothy and Blanche make on the outcome of their bowling match?",
+    "options": [
+      "The loser must pay a month of rent",
+      "The loser must wait on the winner hand and foot for a week",
+      "The loser must clean all the bathrooms",
+      "The loser must dye her hair gray"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Flu' (Season 1), all the women come down with the flu right before attending what major event?",
+    "options": [
+      "A governor's charity ball",
+      "A high school reunion",
+      "The South Florida Medical Society awards banquet",
+      "A local premiere of an opera"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Break-In' (Season 1), where were the girls when their house was burglarized?",
+    "options": [
+      "At a church bingo game",
+      "At an all-you-can-eat seafood buffet",
+      "At an art gallery reception",
+      "At a drive-in movie theater seeing 'Psycho'"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'In a Bed of Rose's' (Season 1), what tragic event occurs when Rose spends the night with her new boyfriend Al?",
+    "options": [
+      "He dies in Rose's bed during the night",
+      "He steals her mother's heirloom necklace",
+      "He turns out to be Stan's cousin",
+      "He reveals he is married to Dorothy's principal"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Nice and Easy' (Season 1), who visits Blanche and quickly drives the roommates crazy with her promiscuity?",
+    "options": [
+      "Blanche's niece Cindy",
+      "Blanche's niece Lucy",
+      "Blanche's cousin Melanie",
+      "Blanche's stepdaughter Brenda"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Blind Ambitions' (Season 1), who visits Rose and reveals she has suddenly become blind?",
+    "options": [
+      "Rose's daughter Kirsten",
+      "Rose's aunt Sigrid",
+      "Rose's sister Lily",
+      "Rose's cousin Ingrid"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'A Visit From Little Sven' (Season 3), who comes from St. Olaf and falls for Blanche?",
+    "options": [
+      "Rose's nephew Lars",
+      "Rose's brother Hans",
+      "Rose's childhood sweetheart Ole",
+      "Rose's cousin Sven"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Second Motherhood' (Season 1), what man does Blanche date who expects her to help raise his young children?",
+    "options": [
+      "Dirk",
+      "Jerry",
+      "Frank",
+      "David"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Family Affair' (Season 2), which two family members are caught in bed together, horrifying Dorothy and Blanche?",
+    "options": [
+      "Stan and Blanche's sister Virginia",
+      "Dorothy's son Michael and Blanche's daughter Bridget",
+      "Uncle Angelo and Aunt Angela",
+      "Michael and Blanche's niece Lucy"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Take Him, He's Mine' (Season 2), why does Dorothy spend time with Stan, causing tension with Blanche?",
+    "options": [
+      "Stan offers to buy Dorothy a brand-new condo",
+      "Stan needs a bone marrow donor",
+      "Stan is depressed over Chrissy leaving him",
+      "Stan asks Dorothy to co-sign a loan"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 2's 'It's a Miserable Life', what town relic do the girls fight Mrs. Claxton to preserve?",
+    "options": [
+      "A historic cobblestone fountain",
+      "The city's first post office",
+      "A memorial statue of a civil war general",
+      "A 200-year-old oak tree"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Whose Face Is This, Anyway?' (Season 6), what cosmetic procedure does Blanche consider undergoing?",
+    "options": [
+      "Plastic surgery / a face-lift",
+      "Liposuction",
+      "Rhinoplasty",
+      "Hair transplant"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Miles to Go' (Season 6), what is the profession of Nicholas Carbone (Miles Webber) in his past life?",
+    "options": [
+      "A hitman for the Gambino family",
+      "An accountant for the Chicago mob",
+      "A corrupt federal judge",
+      "A getaway driver for bank robberies"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Where must Rose travel to visit Miles while he is temporarily relocated into witness protection?",
+    "options": [
+      "A remote cabin in Alaska",
+      "A desert town in New Mexico",
+      "A cheese farm in Pennsylvania / Amish country",
+      "A motel in North Dakota"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of the younger, athletic fitness instructor Blanche dates in Season 3's 'In a Nutshell'?",
+    "options": [
+      "Brad",
+      "Troy",
+      "Brett",
+      "Dirk"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How much younger is Dirk than Blanche, leading Blanche to realize she cannot keep up with him?",
+    "options": [
+      "Nearly twenty years younger",
+      "Five years younger",
+      "Ten years younger",
+      "Thirty years younger"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 6's 'There Goes the Bride', who does Dorothy almost remarry before walking away at the altar?",
+    "options": [
+      "Miles Webber",
+      "Stan Zbornak",
+      "Glen O'Brien",
+      "Lucas Hollingsworth"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What document does Stan demand Dorothy sign right before their planned second wedding, prompting her to call it off?",
+    "options": [
+      "A life insurance policy",
+      "A deed transfer for her mother's house",
+      "A prenuptial agreement",
+      "A waiver for alimony"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The President's Coming! The President's Coming!' (Season 5), which U.S. President is scheduled to visit Miami and meet the girls?",
+    "options": [
+      "Ronald Reagan",
+      "Bill Clinton",
+      "Jimmy Carter",
+      "George H.W. Bush"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which future Oscar-winning director made an uncredited appearance as an Elvis impersonator in 'Sophia's Wedding'?",
+    "options": [
+      "Quentin Tarantino",
+      "Steven Spielberg",
+      "James Cameron",
+      "Ron Howard"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The One That Got Away' (Season 4), Blanche is eager to reunite with Ham Lushbough, but is shocked to discover what?",
+    "options": [
+      "He has become a Catholic monk",
+      "He has gained enormous weight and let himself go",
+      "He has gone completely deaf",
+      "He has lost all his fortune"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Artist' (Season 3), what famous European artist invites the girls to pose for him in his studio?",
+    "options": [
+      "Marcel",
+      "Jean-Pierre",
+      "Laszlo",
+      "Marco"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What do Blanche, Dorothy, and Rose discover when they arrive at Laszlo's studio to pose for him?",
+    "options": [
+      "He only paints still-life bowls of fruit",
+      "He wants them to scrub his kitchen floors",
+      "He has hired a police sketch artist",
+      "He expects them to pose completely nude"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Days and Nights of Sophia Petrillo' (Season 4), what does Sophia actually do all day while the girls assume she is napping?",
+    "options": [
+      "She volunteers at a hospital, shops for groceries, and plays in an orchestra",
+      "She goes to the dog track and places bets",
+      "She visits her secret second apartment in Miami Beach",
+      "She runs an illegal bingo game in the park"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'An Illegitimate Concern' (Season 5), what does Blanche discover about George Devereaux's past?",
+    "options": [
+      "He had an annulled marriage in high school",
+      "He fathered a son out of wedlock named David",
+      "He secretly worked for the CIA in Cuba",
+      "He was disinherited by his wealthy parents"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'All Bets Are Off' (Season 5), what vice does Dorothy struggle with after accompanying Sophia to the race track?",
+    "options": [
+      "Chain-smoking cigarettes",
+      "Binge drinking martinis",
+      "Compulsive gambling",
+      "Shoplifting designer scarves"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Allies' (Season 5), Dorothy's student tries to bribe her with concert tickets for what rock band?",
+    "options": [
+      "Led Zeppelin",
+      "The Who",
+      "Aerosmith",
+      "The Rolling Stones"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Cheaters' (Season 5), where do Blanche and Sophia get arrested during a raid on an illicit establishment?",
+    "options": [
+      "An illegal gambling club",
+      "A counterfeit purse warehouse",
+      "An underground drag parlor",
+      "An unlicensed bingo hall"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Like the Beickets of the Field' (Season 5), what glamorous hobby does Blanche take up to boost her self-esteem?",
+    "options": [
+      "Ballroom dancing",
+      "High-fashion modeling",
+      "French gourmet cooking",
+      "Equestrian horse jumping"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Ebb Tide' (Season 5), Blanche returns to Georgia for Big Daddy's funeral and clashes with Virginia over what item?",
+    "options": [
+      "His antique pocket watch",
+      "His plantation burial plot",
+      "Big Daddy's estate and personal possessions",
+      "His prize-winning hunting rifle"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Snap Out of It' (Season 6), what condition does Sophia suffer from that causes Dorothy immense worry?",
+    "options": [
+      "Temporary amnesia",
+      "Acute appendicitis",
+      "Severe hearing loss",
+      "Severe clinical depression"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Wham, Bam, Thank You, Mammy' (Season 6), what song does Blanche sing with her former nanny Viola Watkins?",
+    "options": [
+      "I Wanna Be Loved by You",
+      "Dixie",
+      "Moon River",
+      "Amazing Grace"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'How Do You Solve a Problem Like Sophia?' (Season 6), what institution does Sophia decide to enter after her friend passes away?",
+    "options": [
+      "A monastery in Vermont",
+      "A convent to become a nun",
+      "A full-time silent retreat",
+      "A culinary institute in Rome"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Mrs. George Devereaux' (Season 6), what shocking event apparently happens to Blanche's deceased husband George?",
+    "options": [
+      "His body is exhumed for a murder investigation",
+      "His secret twin brother arrives to claim his estate",
+      "He appears at her front door, having faked his death for nine years",
+      "His voice is heard through a psychic channeler"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is revealed at the end of the emotional episode 'Mrs. George Devereaux'?",
+    "options": [
+      "George was actually an impostor named Frank",
+      "George had lost his memory in Europe",
+      "George was in the federal witness protection program",
+      "The entire return of George was only a vivid dream Blanche had"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'What a Difference a Date Makes' (Season 6), what does Dorothy wear to meet John Neretti, the man who stood her up in high school?",
+    "options": [
+      "A replica of her original prom dress",
+      "A black leather jacket and jeans",
+      "A glamorous sequined evening gown",
+      "Her high school graduation robe"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What actor played Dorothy's long-lost high school prom date John Neretti?",
+    "options": [
+      "Alan Alda",
+      "Hal Linden",
+      "Gene Saks",
+      "Peter Falk"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Stand by Your Man' (Season 6), what physical condition does Blanche's wealthy new suitor Ted have?",
+    "options": [
+      "He is completely blind",
+      "He is hard of hearing",
+      "He uses a wheelchair",
+      "He walks with two canes"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Never Yell Fire in a Crowded Retirement Home' (Season 6), who is accused of deliberately starting the Shady Pines fire?",
+    "options": [
+      "Stan",
+      "Dorothy",
+      "Uncle Angelo",
+      "Sophia"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What appliance was Sophia supposedly using that was blamed for sparking the Shady Pines fire?",
+    "options": [
+      "An illegal hot plate in her room",
+      "A faulty electric toaster",
+      "A space heater",
+      "A curling iron left plugged in"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Witness' (Season 6), what does Miles Webber buy for Rose that makes her suspicious he is hiding something?",
+    "options": [
+      "A five-carat diamond ring",
+      "An expensive new car with cash",
+      "A vacation home in the Keys",
+      "A luxury mink coat"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Ro$e Love$ Mile$' (Season 6), what cheapskate habit of Miles frustrates Rose when they go out on dates?",
+    "options": [
+      "He makes her split the bill down to the penny",
+      "He sneaks food out of restaurants in napkins",
+      "He uses expired coupons and takes her to budget buffets",
+      "He refuses to tip the waitstaff"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Pope's Ring' (Season 6), what heirloom does Sophia acquire from a visiting relative that causes high drama?",
+    "options": [
+      "A crucifix made from the True Cross",
+      "A rosary carved by St. Francis",
+      "A chalice used in the Vatican",
+      "A ring blessed by the Pope"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Commitments' (Season 7), who takes Dorothy on a date to a rock-and-roll concert?",
+    "options": [
+      "A Beatles tribute band promoter named Frank",
+      "An aging motorcycle enthusiast",
+      "A high school gym teacher",
+      "A radio disk jockey"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Beauty and the Beast' (Season 7), what does Blanche hire a hunky handyman to do around the house?",
+    "options": [
+      "Paint the entire exterior white",
+      "Install a hot tub on the lanai",
+      "Build a walk-in shoe closet",
+      "Repair the kitchen cabinets"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Room 7' (Season 7), Blanche visits her childhood home Twin Oaks and is devastated to discover what plan?",
+    "options": [
+      "It has been converted into a pig farm",
+      "It was seized by the federal tax authorities",
+      "The house is scheduled to be demolished to build a retail development",
+      "It was purchased by a northern textile company"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'From Here to the Pharmacy' (Season 7), what returning soldier from the Gulf War catches Blanche's eye?",
+    "options": [
+      "An army captain named Steve",
+      "A naval aviator named Brad",
+      "An air force pilot named Tom",
+      "A handsome marine named Bill"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Men in Our Lives' (Season 7), who is the legendary baseball player Rose claims stayed with her family in Minnesota?",
+    "options": [
+      "Ted Williams",
+      "Babe Ruth",
+      "Joe DiMaggio",
+      "Mickey Mantle"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Home Again, Rose' (Season 7 two-parter), what life-threatening medical emergency does Rose suffer?",
+    "options": [
+      "A ruptured brain aneurysm",
+      "A massive heart attack requiring triple bypass surgery",
+      "Severe kidney failure",
+      "A ruptured appendix"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "During Rose's heart surgery in 'Home Again, Rose', who initially bars Dorothy, Blanche, and Sophia from visiting Rose in ICU?",
+    "options": [
+      "A strict head nurse who enforces blood-relative rules",
+      "The hospital administrator",
+      "Rose's estranged, hostile daughter Kirsten",
+      "Rose's boyfriend Miles"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What blistering speech does Dorothy give to Kirsten outside Rose's intensive care hospital room?",
+    "options": [
+      "She demands Kirsten repay Charlie's funeral expenses",
+      "She threatens to have Kirsten banned from Florida",
+      "She reveals Rose wrote Kirsten out of her will",
+      "She explains that the roommates are Rose's true daily family through thick and thin"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the series finale 'One Flew Out of the Cuckoo's Nest', who does Blanche set Dorothy up with on a blind date as a joke?",
+    "options": [
+      "Blanche's wealthy uncle Lucas Hollingsworth",
+      "Blanche's eccentric cousin Billy",
+      "Stan's former divorce lawyer",
+      "A country-western singer named Bobby"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What acclaimed comic movie actor portrayed Blanche's uncle Lucas Hollingsworth in the series finale?",
+    "options": [
+      "Lloyd Bridges",
+      "Leslie Nielsen",
+      "Jack Lemmon",
+      "Walter Matthau"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How do Dorothy and Lucas initially react to Blanche setting them up on a blind date?",
+    "options": [
+      "They get into a shouting match at the restaurant",
+      "Dorothy dumps a drink on Lucas's head",
+      "They pretend to be madly in love to play an elaborate prank on Blanche",
+      "Lucas abandons Dorothy at a gas station"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What happens while Dorothy and Lucas are pretending to be engaged to prank Blanche?",
+    "options": [
+      "Stan finds out and challenges Lucas to a duel",
+      "Lucas reveals he is penniless and living in his car",
+      "Dorothy discovers Lucas is secretly married",
+      "They realize they have genuinely fallen deeply in love with each other"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Where does Dorothy move with her new husband Lucas after their wedding in the series finale?",
+    "options": [
+      "Atlanta, Georgia",
+      "Savannah, Georgia",
+      "Charleston, South Carolina",
+      "New York City"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why does Sophia decide not to move to Atlanta with Dorothy and Lucas at the end of the series finale?",
+    "options": [
+      "She hates the climate in Atlanta",
+      "She realizes Blanche and Rose still need her, and she wants Dorothy to have her own life",
+      "Stan buys her a luxury condo in Miami Beach",
+      "She decides to move back to Sicily with Angela"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the final scene of the series finale, how many times does Dorothy come back into the house to hug her friends before finally leaving?",
+    "options": [
+      "Once",
+      "Five times",
+      "Three times",
+      "Twice"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What iconic final words does Dorothy say through tears to Rose, Blanche, and Sophia in the finale's final embrace?",
+    "options": [
+      "'Thank you for being my friends.'",
+      "'I will love you forever and ever.'",
+      "'Don't you dare eat cheesecake without me.'",
+      "'You'll always be my sisters. Always.'"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 3's 'Three on a Couch', why do the four women see a professional psychologist together?",
+    "options": [
+      "Nonstop bickering and household friction threaten to tear them apart",
+      "To get certified as foster parents",
+      "To prepare for a joint appearance on a television talk show",
+      "Because Blanche believes the house is haunted"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What therapist helps the women resolve their conflicts in 'Three on a Couch'?",
+    "options": [
+      "Dr. Freud",
+      "Dr. Ashley",
+      "Dr. Miller",
+      "Dr. Stone"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 4's 'The Auction', what do the girls buy at an estate auction hoping it will be worth a fortune?",
+    "options": [
+      "A vintage mahogany wardrobe",
+      "A silver tea service from the 1800s",
+      "A painting by a famous artist",
+      "A rare stamp collection"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Accurate Conception' (Season 5), what does Blanche's daughter Rebecca announce she is doing to have a baby?",
+    "options": [
+      "Adopting a child from an overseas agency",
+      "Hiring a surrogate mother in California",
+      "Marrying a wealthy older aristocrat",
+      "Undergoing artificial insemination at a fertility clinic"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How does Blanche initially react to Rebecca's plan to have a baby via artificial insemination?",
+    "options": [
+      "She is horrified and considers it scandalous and unnatural",
+      "She offers to pay for the entire procedure",
+      "She organizes a baby shower immediately",
+      "She suggests adopting Dorothy's grandson instead"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Yokel Hero' (Season 4), what exaggerated claim does Rose make in an application that wins St. Olaf's Woman of the Year?",
+    "options": [
+      "She caught a runaway bull with her bare hands",
+      "She saved the town from a devastating flood by sticking her arm in a dam",
+      "She personally cured a town epidemic with herbal tea",
+      "She milked 500 cows in a single afternoon"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Audit' (Season 3), what agency investigates Dorothy and Stan's past joint finances?",
+    "options": [
+      "The Florida Department of Revenue",
+      "The FBI Fraud Bureau",
+      "The Internal Revenue Service (IRS)",
+      "The Miami Municipal Court"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Audit', what bizarre deduction did Stan claim on their taxes that triggers the audit?",
+    "options": [
+      "Tuition for a clown college in France",
+      "Hairpiece maintenance fees as medical expenses",
+      "Church tithes paid in lottery scratchers",
+      "Novelty gag gifts and an offshore pleasure yacht as business expenses"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 7 episode 'Journey to the Center of Attention', what local bar do Blanche and Dorothy visit where Dorothy unexpectedly becomes the singing sensation?",
+    "options": [
+      "The Rusty Anchor",
+      "The Pelican Cove",
+      "The Flaming Star",
+      "The Blue Marlin"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What torch ballad does Dorothy sing at The Rusty Anchor that brings down the house and infuriates Blanche?",
+    "options": [
+      "Stormy Weather",
+      "What'll I Do?",
+      "The Man That Got Away",
+      "My Funny Valentine"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Monkey Show' (Season 7), what object does Stan cling to during his nervous breakdown and therapy sessions?",
+    "options": [
+      "A sock puppet",
+      "A bowling pin",
+      "A traffic cone",
+      "A rubber chicken"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of Stan's younger, obnoxious brother who visits Miami and tries to seduce Dorothy in Season 7?",
+    "options": [
+      "Irving",
+      "Morty",
+      "Lou",
+      "Ted"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 2 episode 'Dorothy's Prized Pupil', what threat does Dorothy's gifted high school student Mario Sanchez face?",
+    "options": [
+      "Deportation by the Immigration and Naturalization Service (INS)",
+      "Expulsion for cheating on a standardized test",
+      "Losing his college baseball scholarship",
+      "Arrest for grand theft auto"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Goodbye, Mr. Gordon' (Season 7), who is the visiting teacher Dorothy has an intellectual romance with?",
+    "options": [
+      "Her college poetry professor Dr. Vance",
+      "Her former high school English teacher Mr. Gordon",
+      "Her former high school principal Mr. Allen",
+      "Her summer writing seminar instructor Mr. Miller"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why does Dorothy break off her romance with Mr. Gordon in 'Goodbye, Mr. Gordon'?",
+    "options": [
+      "He confesses he is secretly married with four children",
+      "He insults Sophia's cooking at dinner",
+      "He plagiarizes her article and submits it under his own name",
+      "He asks her for a five-thousand-dollar personal loan"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Sisters' (Season 2), what animal does Sophia's sister Angela bring with her from Sicily to the house?",
+    "options": [
+      "A caged rooster",
+      "A Sicilian donkey",
+      "A prize-winning pig",
+      "A live goat"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the man Angela and Sophia fought over in Sicily sixty years prior?",
+    "options": [
+      "Guido Spirelli",
+      "Salvadore Petrillo",
+      "Giancarlo Rossi",
+      "Marco Moretti"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Larceny and Old Lace' (Season 3), what eccentric criminal history does Sophia's boyfriend Rocco claim to have?",
+    "options": [
+      "He claims to have hijacked an armored car",
+      "He claims to have robbed a bank",
+      "He claims to have stolen a diamond from the Vatican",
+      "He claims to have run illegal rum during Prohibition"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What legendary actor portrayed Sophia's elderly boyfriend Rocco in 'Larceny and Old Lace'?",
+    "options": [
+      "Red Buttons",
+      "Art Carney",
+      "Mickey Rooney",
+      "Milton Berle"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Letter to Gorbachev' (Season 3), why does Rose receive an official invitation to meet Soviet leader Mikhail Gorbachev?",
+    "options": [
+      "Rose was mistakenly identified as a top Cold War diplomat",
+      "Mikhail Gorbachev was a huge fan of St. Olaf herring",
+      "Sophia forged Rose's signature on a diplomatic petition",
+      "A little girl wrote a letter to him and signed Rose's name, or Rose wrote a heartfelt letter about world peace"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Stan Who Came to Dinner' (Season 2), why does Stan move into Blanche's house and demand constant care from Dorothy?",
+    "options": [
+      "He underwent quadruple bypass heart surgery",
+      "He broke both legs in a skiing accident",
+      "He was evicted from his luxury apartment",
+      "He claimed to have temporary blindness"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Mixed Blessings' (Season 3), what causes Dorothy anxiety about her son Michael's upcoming wedding to Lorraine?",
+    "options": [
+      "Lorraine is a high-stakes poker player in Las Vegas",
+      "Lorraine is an African-American woman who is considerably older than Michael",
+      "Michael plans to drop out of music school to join a carnival",
+      "Lorraine's family refuses to allow any Italian food at the reception"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What happens to Michael and Lorraine's wedding when both sets of parents object to their marriage?",
+    "options": [
+      "They cancel the wedding permanently",
+      "Dorothy and Lorraine's mother team up to stop the minister",
+      "Michael and Lorraine decide to elope on their own",
+      "Stan bribes the minister to delay the vows"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'My Father, My Brother' (Season 6), what does Sophia tell Uncle Angelo happened to Dorothy's husband Stan?",
+    "options": [
+      "She claims Stan passed away in a tragic yacht explosion",
+      "She claims Stan became a missionary in South America",
+      "She claims Stan was elected to the United States Senate",
+      "She claims Stan is a successful neurosurgeon"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The President's Coming! The President's Coming!' (Season 5), who is assigned by the Secret Service to vet the girls and their home?",
+    "options": [
+      "Secret Service agents who interrogate the girls and sweep the house",
+      "Local Miami police detectives",
+      "The mayor of Miami Beach",
+      "A White House protocol officer"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Monkey Show' Part 2, how does Dorothy discover that her sister Gloria slept with Stan?",
+    "options": [
+      "Sophia finds Gloria's earring in Stan's convertible",
+      "Stan confesses to Dorothy because he feels overwhelming guilt",
+      "Blanche spots them kissing at the marina",
+      "Gloria brags about it at dinner to spite Dorothy"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Mother's Day' (Season 3), where is Rose traveling when she gets stranded at an airport and comforts a lonely mother?",
+    "options": [
+      "She is flying to Minneapolis for a dairy convention",
+      "She is flying to Chicago to see her grandchildren",
+      "She is flying to St. Olaf to visit Charlie's grave",
+      "She is flying to New York to visit the Empire State Building"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the series finale, what gift do Rose, Blanche, and Sophia give Dorothy right before her wedding to Lucas?",
+    "options": [
+      "A solid gold friendship locket",
+      "A ticket back to Miami if things don't work out",
+      "A cookbook of all their late-night cheesecake recipes",
+      "A beautiful photo album and heartfelt family blessings"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who created the television sitcom 'The Golden Girls'?",
+    "options": [
+      "Susan Harris",
+      "Diane English",
+      "Marta Kauffman",
+      "Linda Bloodworth-Thomason"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which television network originally broadcast 'The Golden Girls' during its prime-time run from 1985 to 1992?",
+    "options": [
+      "CBS",
+      "NBC",
+      "ABC",
+      "Fox"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "On which night of the week did 'The Golden Girls' air on NBC, anchoring a dominant comedy block?",
+    "options": [
+      "Thursday night",
+      "Tuesday night",
+      "Saturday night",
+      "Sunday night"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the regular prime-time time slot for 'The Golden Girls' on NBC's Saturday night lineup?",
+    "options": [
+      "8:00 PM Eastern / 7:00 PM Central",
+      "9:30 PM Eastern / 8:30 PM Central",
+      "10:00 PM Eastern / 9:00 PM Central",
+      "9:00 PM Eastern / 8:00 PM Central"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the title of the iconic theme song for 'The Golden Girls'?",
+    "options": [
+      "Thank You for Being a Friend",
+      "As Long as We Got Each Other",
+      "Forever Friends",
+      "Through the Years with You"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who wrote and originally recorded the song 'Thank You for Being a Friend' in 1978?",
+    "options": [
+      "Paul Williams",
+      "Andrew Gold",
+      "Barry Manilow",
+      "Harry Nilsson"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which vocalist recorded the upbeat version of 'Thank You for Being a Friend' used as the opening theme for 'The Golden Girls'?",
+    "options": [
+      "Jennifer Warnes",
+      "Rita Coolidge",
+      "Cindy Fee",
+      "Maureen McGovern"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did 'The Golden Girls' premiere on NBC?",
+    "options": [
+      "1983",
+      "1987",
+      "1989",
+      "1985"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did the original series of 'The Golden Girls' conclude its final broadcast season?",
+    "options": [
+      "1992",
+      "1990",
+      "1994",
+      "1995"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many total seasons of 'The Golden Girls' were produced and broadcast?",
+    "options": [
+      "Six",
+      "Seven",
+      "Eight",
+      "Nine"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many total half-hour episodes of 'The Golden Girls' aired across its seven seasons?",
+    "options": [
+      "154 episodes",
+      "204 episodes",
+      "180 episodes",
+      "222 episodes"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which legendary television production company produced 'The Golden Girls'?",
+    "options": [
+      "Carsey-Werner Productions",
+      "Tandem Productions",
+      "MTM Enterprises",
+      "Witt/Thomas/Harris Productions"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who were the primary male executive producers alongside creator Susan Harris?",
+    "options": [
+      "Paul Junger Witt and Tony Thomas",
+      "Norman Lear and Bud Yorkin",
+      "Marcy Carsey and Tom Werner",
+      "James L. Brooks and Allan Burns"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which studio's television division co-produced and distributed 'The Golden Girls'?",
+    "options": [
+      "Paramount Television",
+      "Touchstone Television (Walt Disney Studios)",
+      "Warner Bros. Television",
+      "Columbia Pictures Television"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What NBC entertainment president famously championed greenlighting 'The Golden Girls' despite skepticism about a show about older women?",
+    "options": [
+      "Fred Silverman",
+      "Grant Tinker",
+      "Brandon Tartikoff",
+      "Warren Littlefield"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What historic Primetime Emmy milestone did 'The Golden Girls' achieve regarding its four lead actresses?",
+    "options": [
+      "All four actresses were nominated in the same category in a single year",
+      "All four actresses shared a single ensemble Emmy trophy",
+      "Each actress won back-to-back Emmys three years in a row",
+      "All four lead actresses won Primetime Emmy Awards for their roles on the show"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Along with 'All in the Family' and later 'Schitt's Creek', 'The Golden Girls' is one of only three comedy series in Emmy history to achieve what honor?",
+    "options": [
+      "Having all principal cast members win Primetime Emmy Awards",
+      "Sweeping all writing and directing categories every season",
+      "Winning Best Comedy Series five consecutive years",
+      "Averaging over 40 million viewers every season"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which of the four Golden Girls actresses was the first to win a Primetime Emmy for her performance on the show in 1986?",
+    "options": [
+      "Bea Arthur",
+      "Betty White",
+      "Rue McClanahan",
+      "Estelle Getty"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 1987, which actress won the Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series for 'The Golden Girls'?",
+    "options": [
+      "Betty White",
+      "Bea Arthur",
+      "Rue McClanahan",
+      "Estelle Getty"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 1988, which actress won the Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series for 'The Golden Girls'?",
+    "options": [
+      "Betty White",
+      "Rue McClanahan",
+      "Estelle Getty",
+      "Bea Arthur"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 1988, in which Emmy category did Estelle Getty win her Primetime Emmy Award?",
+    "options": [
+      "Outstanding Supporting Actress in a Comedy Series",
+      "Outstanding Lead Actress in a Comedy Series",
+      "Outstanding Guest Actress in a Comedy Series",
+      "Outstanding Supporting Actress in a Miniseries"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many times did 'The Golden Girls' win the Primetime Emmy Award for Outstanding Comedy Series?",
+    "options": [
+      "One time (1986)",
+      "Two times (1986 and 1987)",
+      "Three times (1986, 1987, 1988)",
+      "Four times (1986-1989)"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many times did 'The Golden Girls' win the Golden Globe Award for Best Television Series – Musical or Comedy?",
+    "options": [
+      "One time (1986)",
+      "Two times (1986, 1987)",
+      "Three consecutive times (1986, 1987, 1988)",
+      "Five consecutive times (1986-1990)"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Approximately how many total Primetime Emmy nominations did 'The Golden Girls' receive during its seven-year run?",
+    "options": [
+      "34 nominations",
+      "92 nominations",
+      "115 nominations",
+      "68 nominations"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who directed the pilot episode of 'The Golden Girls' and helped establish the show's comedic timing and blocking?",
+    "options": [
+      "Jay Sandrich",
+      "Terry Hughes",
+      "James Burrows",
+      "John Rich"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which British director took over directing duties after Season 1, helming over 100 episodes and winning two Emmy Awards for directing?",
+    "options": [
+      "Peter Bonerz",
+      "Terry Hughes",
+      "Noam Pitlik",
+      "David Steinberg"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which future creator of 'Desperate Housewives' worked as a writer and producer on 'The Golden Girls' in its later seasons?",
+    "options": [
+      "David E. Kelley",
+      "Chuck Lorre",
+      "Marc Cherry",
+      "Ryan Murphy"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which future creator of 'Arrested Development' got his early start as a staff writer on 'The Golden Girls'?",
+    "options": [
+      "Greg Daniels",
+      "Dan Harmon",
+      "Mike Schur",
+      "Mitchell Hurwitz"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Approximately how many viewers tuned in to watch the one-hour series finale of 'The Golden Girls' on May 9, 1992?",
+    "options": [
+      "Over 38 million viewers",
+      "18 million viewers",
+      "24 million viewers",
+      "55 million viewers"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Where did 'The Golden Girls' rank in the overall Nielsen television ratings for each of its first six seasons?",
+    "options": [
+      "Consistently inside the Top 3",
+      "Consistently inside the Top 10",
+      "Hovering between #15 and #25",
+      "Ranked #1 every single year"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the highest Nielsen year-end ranking achieved by 'The Golden Girls' during its run?",
+    "options": [
+      "Number 1 (Season 3)",
+      "Number 2 (Season 4)",
+      "Number 5 (Seasons 2 and 3)",
+      "Number 8 (Season 1)"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What spin-off series followed the characters of Rose, Blanche, and Sophia after Dorothy's departure?",
+    "options": [
+      "Miami Nights",
+      "Golden Years",
+      "Retirement Living",
+      "The Golden Palace"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "On which television network did the spin-off 'The Golden Palace' air during the 1992–1993 season?",
+    "options": [
+      "CBS",
+      "NBC",
+      "ABC",
+      "Fox"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Golden Palace', what new business venture do Rose, Blanche, and Sophia invest in and operate?",
+    "options": [
+      "A bed and breakfast in Key West",
+      "A boutique hotel in Miami Beach",
+      "A cruise ship travel agency",
+      "An Italian fine dining restaurant"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What future Oscar-nominated actor starred alongside Betty White, Rue McClanahan, and Estelle Getty in 'The Golden Palace' as hotel manager Roland Wilson?",
+    "options": [
+      "Cuba Gooding Jr.",
+      "Forest Whitaker",
+      "Don Cheadle",
+      "Denzel Washington"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What comedy legend co-starred in 'The Golden Palace' as Mexican chef Chuy Castillos?",
+    "options": [
+      "Paul Rodriguez",
+      "George Lopez",
+      "Tommy Chong",
+      "Cheech Marin"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many seasons did the spin-off 'The Golden Palace' last before being canceled?",
+    "options": [
+      "One season (24 episodes)",
+      "Two seasons",
+      "Three seasons",
+      "Half a season (13 episodes)"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Did Bea Arthur reprise her role as Dorothy Zbornak on 'The Golden Palace'?",
+    "options": [
+      "No, she refused to appear on the spin-off entirely",
+      "Yes, as a guest star in a two-part special episode",
+      "Yes, as a regular recurring character in the second half",
+      "No, her character was killed off off-screen"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What successful spin-off sitcom, also created by Susan Harris, was set next door to the Golden Girls in Miami?",
+    "options": [
+      "Nurses",
+      "Dear John",
+      "Empty Nest",
+      "Night Court"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who played the lead character, widowed pediatrician Dr. Harry Weston, in the sister series 'Empty Nest'?",
+    "options": [
+      "Hal Linden",
+      "Jerry Orbach",
+      "David Ogden Stiers",
+      "Richard Mulligan"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the beloved Saint Bernard/Golden Retriever mix dog featured on 'Empty Nest'?",
+    "options": [
+      "Dreyfuss",
+      "Barnaby",
+      "Pepe",
+      "Buddy"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which spin-off series focused on the staff of Miami's Community Memorial Hospital, sharing continuity with 'The Golden Girls'?",
+    "options": [
+      "Scrubs",
+      "Nurses",
+      "ER Miami",
+      "General Ward"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In November 1991, NBC aired an interconnected three-show crossover event involving 'The Golden Girls', 'Empty Nest', and 'Nurses' centered on what weather disaster?",
+    "options": [
+      "A record heat wave causing a citywide blackout",
+      "A freak winter blizzard in South Florida",
+      "A major hurricane hitting Miami",
+      "A tropical tsunami threatening the coast"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the official promotional name given to the three-show hurricane crossover night on NBC?",
+    "options": [
+      "Stormy Evening",
+      "Miami Tempest Night",
+      "The Great Gale of 1991",
+      "Hurricane Saturday"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which production company produced both 'The Golden Girls' and its hit 1970s predecessor 'Soap'?",
+    "options": [
+      "Witt/Thomas/Harris Productions",
+      "Norman Lear Productions",
+      "Lorimar Television",
+      "Stephen J. Cannell Productions"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What groundbreaking 1970s sitcom did Susan Harris create before creating 'The Golden Girls'?",
+    "options": [
+      "Rhoda",
+      "Soap",
+      "Phyllis",
+      "Alice"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which iconic sitcom starred Bea Arthur and Rue McClanahan together in the 1970s before 'The Golden Girls'?",
+    "options": [
+      "The Mary Tyler Moore Show",
+      "All in the Family",
+      "Maude",
+      "One Day at a Time"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What character did Rue McClanahan play on 'Maude' opposite Bea Arthur?",
+    "options": [
+      "Carol Traynor",
+      "Florida Evans",
+      "Mrs. Naugatuck",
+      "Vivian Harmon"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which classic 1970s sitcom starred Betty White as the scheming, man-hungry Happy Homemaker Sue Ann Nivens?",
+    "options": [
+      "The Mary Tyler Moore Show",
+      "Rhoda",
+      "The Bob Newhart Show",
+      "WKRP in Cincinnati"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many total Primetime Emmy nominations did Betty White receive specifically for playing Rose Nylund?",
+    "options": [
+      "Three nominations",
+      "Seven nominations (nominated every single season)",
+      "Five nominations",
+      "Nine nominations"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many total Primetime Emmy nominations did Estelle Getty receive for playing Sophia Petrillo?",
+    "options": [
+      "Four nominations",
+      "Five nominations",
+      "Seven nominations (nominated every single season)",
+      "Six nominations"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many total Primetime Emmy nominations did Bea Arthur receive for playing Dorothy Zbornak?",
+    "options": [
+      "Seven nominations",
+      "Two nominations",
+      "Five nominations",
+      "Four nominations"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many total Primetime Emmy nominations did Rue McClanahan receive for playing Blanche Devereaux?",
+    "options": [
+      "Four nominations",
+      "Two nominations",
+      "Seven nominations",
+      "Five nominations"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In which season of 'The Golden Girls' did both Bea Arthur and Estelle Getty win their respective Emmy Awards on the same night?",
+    "options": [
+      "Season 1 (1986)",
+      "Season 3 (1988)",
+      "Season 2 (1987)",
+      "Season 4 (1989)"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was unique about the four lead actresses' Emmy categories during the run of 'The Golden Girls'?",
+    "options": [
+      "All four competed in the Lead Actress category every year",
+      "All four competed in the Supporting Actress category every year",
+      "Bea Arthur, Betty White, and Rue McClanahan competed in Lead Actress, while Estelle Getty competed in Supporting Actress",
+      "They rotated who entered the Lead category each season"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who was the president of NBC Entertainment who envisioned an ensemble comedy about mature women after seeing a skit on an NBC special?",
+    "options": [
+      "Les Moonves",
+      "Robert Iger",
+      "Michael Eisner",
+      "Brandon Tartikoff"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What 1984 NBC preview special featured a comedy sketch with Selma Diamond and Doris Roberts that inspired the concept for 'The Golden Girls'?",
+    "options": [
+      "Miami Nice (a parody of Miami Vice)",
+      "Golden Seniors",
+      "Old Wives' Tales",
+      "Autumn Leaves"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the initial working title or pitch inspiration inspired by NBC's hit drama 'Miami Vice'?",
+    "options": [
+      "Miami Sunset",
+      "Miami Nice",
+      "Retirement Vice",
+      "Sunny Seniors"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why did Bea Arthur decide to leave 'The Golden Girls' in 1992, bringing the series to an end?",
+    "options": [
+      "She was offered a multi-million-dollar movie contract in Hollywood",
+      "She had a severe falling out with the studio executives over syndication",
+      "She felt the show had reached its creative peak and wanted to leave while still on top",
+      "She decided to retire from acting entirely"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which soundstage at Sunset Gower Studios in Hollywood served as the primary taping location for 'The Golden Girls'?",
+    "options": [
+      "Stage 3",
+      "Stage 18",
+      "Stage 24",
+      "Stage 9"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What live taping setup was used to record 'The Golden Girls' in front of a studio audience?",
+    "options": [
+      "Multi-camera setup with four cameras",
+      "Single-camera cinematic film setup",
+      "Two-camera live broadcast setup",
+      "Three-camera videotape setup"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why did the kitchen set of 'The Golden Girls' feature only three chairs around the round kitchen table?",
+    "options": [
+      "The fourth chair was broken during the pilot taping and never replaced",
+      "To leave the camera-facing side completely open for clean sightlines and multi-camera blocking",
+      "Because Sophia always preferred to stand while serving food",
+      "The kitchen set was physically too small to accommodate a fourth chair"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What cable network purchased the exclusive off-network syndication rights for 'The Golden Girls' in the late 1990s, driving a major resurgence in popularity?",
+    "options": [
+      "USA Network",
+      "TBS Superstation",
+      "Lifetime Television",
+      "Nick at Nite"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did 'The Golden Girls' enter national broadcast syndication in local television markets?",
+    "options": [
+      "Fall 1988",
+      "Fall 1992",
+      "Fall 1994",
+      "Fall 1990"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What cable network aired marathons of 'The Golden Girls' with the popular tagline 'Television for Women'?",
+    "options": [
+      "Lifetime",
+      "Oxygen",
+      "WE tv",
+      "Hallmark Channel"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which television comedy block did NBC build on Saturday nights around 'The Golden Girls' and 'Empty Nest' in the late 1980s?",
+    "options": [
+      "Must See TV Saturday",
+      "The Florida Comedy Block",
+      "Golden Comedy Night",
+      "Sunshine State Hour"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What other NBC Saturday sitcom followed 'The Golden Girls' at 9:30 PM for several seasons?",
+    "options": [
+      "227",
+      "Amen",
+      "Empty Nest",
+      "Dear John"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What popular sitcom starring Marla Gibbs preceded 'The Golden Girls' at 8:30 PM on NBC's Saturday night lineup in earlier seasons?",
+    "options": [
+      "Amen",
+      "Gimme a Break!",
+      "Diff'rent Strokes",
+      "227"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What popular church-centered sitcom starring Sherman Hemsley anchored Saturday nights on NBC alongside 'The Golden Girls'?",
+    "options": [
+      "Amen",
+      "Family Matters",
+      "Night Court",
+      "Good Times"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who composed the upbeat incidental and transition music used throughout 'The Golden Girls' between scenes?",
+    "options": [
+      "Mike Post",
+      "George Aliceson Tipton",
+      "David Shire",
+      "Earle Hagen"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 2014, the Writers Guild of America ranked 'The Golden Girls' at what position on its list of the 101 Best Written TV Series of All Time?",
+    "options": [
+      "Number 12",
+      "Number 34",
+      "Number 69",
+      "Number 98"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What famous design firm created the iconic banana leaf palm wallpaper originally featured in the Beverly Hills Hotel and seen in Blanche's bedroom?",
+    "options": [
+      "Schumacher",
+      "Laura Ashley",
+      "Cole & Son",
+      "CW Stockwell (the 'Martinique' pattern)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year were the complete series DVD box sets of 'The Golden Girls' first released by Buena Vista Home Entertainment?",
+    "options": [
+      "2004 to 2007",
+      "1998 to 2001",
+      "2010 to 2012",
+      "2015 to 2017"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the format of the series finale 'One Flew Out of the Cuckoo's Nest' when it originally aired?",
+    "options": [
+      "A two-hour television movie",
+      "A special one-hour broadcast event",
+      "Two separate half-hour episodes aired over two weeks",
+      "A live broadcast from New York"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which major streaming service secured the exclusive streaming rights for all seven seasons of 'The Golden Girls' in 2017 in the US?",
+    "options": [
+      "Netflix",
+      "Amazon Prime Video",
+      "Hulu",
+      "Max"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What real-life residential house in California was used for the exterior establishing shots of Blanche's Miami home?",
+    "options": [
+      "A mansion on Ocean Drive in South Beach, Miami",
+      "A house on Palm Way in Coral Gables",
+      "A home on Sunset Boulevard in Beverly Hills",
+      "A private residence on North Saltair Avenue in Brentwood, Los Angeles"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What theme park featured a replica of the exterior Golden Girls house on its residential street tour until 2003?",
+    "options": [
+      "Disney-MGM Studios (now Disney's Hollywood Studios) in Florida",
+      "Universal Studios Florida",
+      "Paramount's Kings Island",
+      "Six Flags Great Adventure"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "On what famous backlot attraction at Disney-MGM Studios was the Golden Girls house facade located?",
+    "options": [
+      "New York Street",
+      "Residential Street on the Studio Backlot Tour",
+      "Sunset Plaza",
+      "Boulevard of the Stars"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year was the Golden Girls house facade on Residential Street at Disney's Hollywood Studios torn down?",
+    "options": [
+      "1995",
+      "1999",
+      "2003",
+      "2012"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which television rating classification was commonly assigned to 'The Golden Girls' during its broadcast runs for adult humor and sexual innuendo?",
+    "options": [
+      "TV-G",
+      "TV-14",
+      "TV-MA",
+      "TV-PG"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What personal medical experience inspired creator Susan Harris to write Dorothy's battle with Chronic Fatigue Syndrome in 'Sick and Tired'?",
+    "options": [
+      "Susan Harris suffered from the illness and was dismissed and misdiagnosed by numerous doctors",
+      "Susan Harris had a sister who contracted malaria in Africa",
+      "Susan Harris suffered from mononucleosis while in college",
+      "Susan Harris broke her back during a horseback riding accident"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the acclaimed 1990 episode '72 Hours', what critical public health issue did 'The Golden Girls' tackle during the height of the epidemic?",
+    "options": [
+      "Lyme disease tick infections",
+      "HIV and AIDS testing and social stigma",
+      "Secondhand cigarette smoke exposure",
+      "Breast cancer mammography screenings"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What groundbreaking social issue did 'The Golden Girls' address in the 1991 episode 'Sister of the Bride' over a decade before it became legal in the US?",
+    "options": [
+      "Single-payer universal healthcare",
+      "Decriminalization of recreational marijuana",
+      "Same-sex marriage and legal equality",
+      "Banning smoking on domestic airplane flights"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Isn't It Romantic?' (1986), what taboo topic for 1980s network television was handled with warmth and acceptance through Dorothy's friend Jean?",
+    "options": [
+      "Interracial adoption of infants",
+      "Divorce in the Catholic Church",
+      "Living with physical paraplegia",
+      "Lesbian sexual orientation and coming out"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which future 'Modern Family' co-creator wrote several acclaimed episodes of 'The Golden Girls' in its early seasons?",
+    "options": [
+      "Christopher Lloyd",
+      "Steven Levitan",
+      "Chuck Lorre",
+      "Bill Lawrence"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What Emmy Award-winning costume designer created the signature pastel silks, stylish shoulder pads, and flowy loungewear for the cast?",
+    "options": [
+      "Bob Mackie",
+      "Judy Evans",
+      "Edith Head",
+      "Patricia Field"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Approximately how many real cheesecakes were reportedly prepared and consumed by the cast and crew across the seven seasons of filming?",
+    "options": [
+      "Fewer than 15 cheesecakes",
+      "Exactly 25 cheesecakes",
+      "Over 100 cheesecakes",
+      "Over 1,000 cheesecakes"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which art director and production designer won a Primetime Emmy Award for creating the iconic sets of Blanche's Miami home?",
+    "options": [
+      "Ken Adam and Cedric Gibbons",
+      "Thomas E. Azzari and Roy Christopher",
+      "Mary Ann Biddle and Rick Gentz",
+      "John C. Mula and Edward Stephenson"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What type of tropical furniture dominated the living room set, becoming a hallmark of 1980s South Florida chic?",
+    "options": [
+      "Rattan and wicker furniture with floral pastel cushions",
+      "Dark mahogany Victorian parlor sets",
+      "Mid-century modern chrome and leather",
+      "Brutalist concrete and oak tables"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 5 episode 'Not Another Monday', what controversial and sensitive ethical dilemma did Sophia confront with her friend Martha?",
+    "options": [
+      "Undergoing experimental clinical drug trials",
+      "Assisted suicide and the right to die with dignity",
+      "Donating one's body to medical science",
+      "Writing family members out of a will"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 4 episode 'Dorothy's New Friend', what form of discrimination does Dorothy discover her snooty intellectual friend Barbara practices?",
+    "options": [
+      "Racial discrimination against African-American waitstaff",
+      "Ageism against senior citizens",
+      "Anti-Semitism against Sophia and Jewish country club members",
+      "Snobbery against non-college graduates"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the standard running time for a standard broadcast episode of 'The Golden Girls', excluding commercial breaks?",
+    "options": [
+      "Approximately 15 minutes",
+      "Approximately 28 to 30 minutes",
+      "Approximately 35 minutes",
+      "Approximately 22 to 24 minutes"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which prominent writing and executive producing duo wrote many of the show's sharpest rapid-fire comedic scripts in Seasons 1-4?",
+    "options": [
+      "Barry Fanaro and Mort Nathan",
+      "David Angell and Peter Casey",
+      "Garry Marshall and Jerry Belson",
+      "Dick Clair and Jenna McMahon"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which writer served as executive producer and showrunner for 'The Golden Girls' during its middle and later seasons?",
+    "options": [
+      "David Lee",
+      "Marc Sotkin",
+      "Glen Charles",
+      "Les Charles"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What unique comedic visual motif was frequently used as a transition between scenes in 'The Golden Girls'?",
+    "options": [
+      "A spinning newspaper graphic",
+      "A slide whistle with a wipe transition",
+      "An exterior establishing shot of the Miami house set to bouncy woodwind music",
+      "A fade to black with traffic noise"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did TV Guide rank 'The Golden Girls' at Number 54 on its list of the 60 Best Series of All Time?",
+    "options": [
+      "2001",
+      "2008",
+      "2020",
+      "2013"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many Golden Globe Award nominations for Best Actress in a Television Comedy did the four stars accumulate collectively?",
+    "options": [
+      "19 nominations",
+      "8 nominations",
+      "12 nominations",
+      "28 nominations"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which of the four Golden Girls was the only one to win a Golden Globe Award for Best Actress in a Comedy for her role on the show?",
+    "options": [
+      "Bea Arthur",
+      "Estelle Getty (1986)",
+      "Betty White",
+      "Rue McClanahan"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did Estelle Getty tie with Cybill Shepherd for the Golden Globe for Best Actress in a Television Series - Musical or Comedy?",
+    "options": [
+      "1988",
+      "1990",
+      "1986",
+      "1992"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What British television network bought the broadcast rights and aired 'The Golden Girls' to massive success in the United Kingdom starting in 1986?",
+    "options": [
+      "BBC One",
+      "ITV",
+      "BBC Two",
+      "Channel 4"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what German television network did 'The Golden Girls' become a legendary late-night cult phenomenon under the title 'Golden Girls'?",
+    "options": [
+      "RTL",
+      "ZDF",
+      "ARD",
+      "Sat.1"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What major American television network attempted to create a remake or companion project titled 'Golden Girls' in numerous foreign markets?",
+    "options": [
+      "CBS Paramount International",
+      "Touchstone / Disney Television International",
+      "Sony Pictures International",
+      "Universal Television Worldwide"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which episode of 'The Golden Girls' served as the backdoor pilot for the spin-off 'Empty Nest' in Season 2?",
+    "options": [
+      "'The Neighbor Next Door'",
+      "'Dr. Weston Moves In'",
+      "'Empty Nests' (featuring Rita Moreno and Paul Dooley)",
+      "'Miami Physicians'"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why was the original backdoor pilot of 'Empty Nest' in Season 2 completely retooled before the series actually premiered in 1988?",
+    "options": [
+      "Rita Moreno had scheduling conflicts with a Broadway show",
+      "NBC wanted the show set in New York instead of Miami",
+      "The producers ran out of financing for the original concept",
+      "Test audiences disliked the original characters, so Susan Harris rewrote it around pediatrician Dr. Harry Weston and his daughters"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which famous actress and singer played the lead role of Renee Corliss in the original failed backdoor pilot of 'Empty Nest' on 'The Golden Girls'?",
+    "options": [
+      "Rita Moreno",
+      "Chita Rivera",
+      "Carol Channing",
+      "Eartha Kitt"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What famous country music star and actress played nurse Laverne Todd on the spin-off 'Empty Nest'?",
+    "options": [
+      "Reba McEntire",
+      "Park Overall",
+      "Dolly Parton",
+      "Barbara Mandrell"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What famous actress from 'Little House on the Prairie' played police officer Barbara Weston on 'Empty Nest'?",
+    "options": [
+      "Melissa Gilbert",
+      "Melissa Sue Anderson",
+      "Kristy McNichol",
+      "Alison Arngrim"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What actress played high-strung daughter Carol Weston on 'Empty Nest' and made multiple guest appearances on 'The Golden Girls'?",
+    "options": [
+      "Valerie Bertinelli",
+      "Mackenzie Phillips",
+      "Nancy McKeon",
+      "Dinah Manoff"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which Golden Girl character made the most guest crossover appearances on 'Empty Nest' and 'Nurses'?",
+    "options": [
+      "Sophia Petrillo",
+      "Dorothy Zbornak",
+      "Blanche Devereaux",
+      "Rose Nylund"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In fact, Sophia Petrillo became a permanent regular cast member on which spin-off series in 1993 after 'The Golden Palace' was cancelled?",
+    "options": [
+      "Nurses",
+      "Empty Nest (for its final two seasons)",
+      "Blossom",
+      "Wings"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many total television series did Estelle Getty portray Sophia Petrillo in across her career?",
+    "options": [
+      "Two series",
+      "Three series",
+      "Five series (The Golden Girls, The Golden Palace, Empty Nest, Nurses, and Blossom)",
+      "Seven series"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In which teen sitcom did Estelle Getty appear as Sophia Petrillo in a 1991 dream sequence?",
+    "options": [
+      "Saved by the Bell",
+      "Boy Meets World",
+      "Full House",
+      "Blossom"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the total number of Primetime Emmy Awards won by 'The Golden Girls' across all categories throughout its run?",
+    "options": [
+      "11 Emmy Awards",
+      "5 Emmy Awards",
+      "22 Emmy Awards",
+      "35 Emmy Awards"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did Rue McClanahan receive her Primetime Emmy for Outstanding Lead Actress?",
+    "options": [
+      "1985",
+      "1987",
+      "1989",
+      "1991"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did Bea Arthur receive her Primetime Emmy for Outstanding Lead Actress?",
+    "options": [
+      "1986",
+      "1987",
+      "1988",
+      "1990"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did Betty White receive her Primetime Emmy for Outstanding Lead Actress?",
+    "options": [
+      "1987",
+      "1988",
+      "1992",
+      "1986"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What record for Emmy nominations did 'The Golden Girls' achieve in the Lead Actress in a Comedy category in 1986 and 1987?",
+    "options": [
+      "Three of the five nominees in the category were stars from 'The Golden Girls'",
+      "All five nominees were from 'The Golden Girls'",
+      "All four stars tied for the award",
+      "No other show was nominated for comedy writing"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In which category was Estelle Getty nominated for a Primetime Emmy for seven consecutive years?",
+    "options": [
+      "Outstanding Lead Actress in a Comedy Series",
+      "Outstanding Supporting Actress in a Comedy Series",
+      "Outstanding Guest Actress in a Comedy Series",
+      "Outstanding Variety Performer"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What award did 'The Golden Girls' win from the Television Critics Association (TCA) in 1986?",
+    "options": [
+      "Program of the Year",
+      "Heritage Award",
+      "Outstanding Achievement in Comedy",
+      "Best New Drama"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which producer/director directed the Season 1 episodes before Terry Hughes took over in Season 2?",
+    "options": [
+      "James Burrows",
+      "Gene Saks",
+      "Peter Bonerz",
+      "Jay Sandrich (and Jim Drake)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the soundstage complex where 'The Golden Girls' was filmed in front of live studio audiences in Los Angeles?",
+    "options": [
+      "Sunset Gower Studios (formerly Columbia Pictures Studios)",
+      "Universal City Studios",
+      "Warner Bros. Studios Burbank",
+      "Paramount Studios Hollywood"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What famous daytime talk show did the four actresses appear on together in 1988 to celebrate their show's runaway success?",
+    "options": [
+      "The Phil Donahue Show",
+      "The Oprah Winfrey Show",
+      "The Joan Rivers Show",
+      "Geraldo"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was unique about the opening credits of 'The Golden Girls' throughout all seven seasons?",
+    "options": [
+      "They featured cartoon caricatures of the characters",
+      "They showed the Miami skyline with no cast members",
+      "They featured clips of the women laughing, hugging, and interacting rather than formal posed portraits",
+      "They were filmed on location on Miami Beach every season"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What color was the signature text font used for the show's title logo during the opening theme?",
+    "options": [
+      "Hot pink neon block",
+      "Navy blue serif italic",
+      "Bright turquoise cursive",
+      "Yellow / gold script with shadow"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which character speaks the very first line of dialogue in the 1985 pilot episode of 'The Golden Girls'?",
+    "options": [
+      "Rose Nylund",
+      "Dorothy Zbornak",
+      "Blanche Devereaux",
+      "Sophia Petrillo"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which character speaks the very last line of dialogue in the 1992 series finale?",
+    "options": [
+      "Dorothy Zbornak",
+      "Sophia Petrillo",
+      "Blanche Devereaux",
+      "Rose Nylund"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the final action seen in the series finale before the end credits roll?",
+    "options": [
+      "The four women eating cheesecake at the kitchen table",
+      "Blanche hanging a new roommate advertisement at the supermarket",
+      "Rose, Blanche, and Sophia sobbing in an embrace in the living room after Dorothy exits",
+      "Sophia packing her wicker purse and heading for the bus"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What major American holiday always coincided with special holiday-themed episodes of 'The Golden Girls'?",
+    "options": [
+      "Fourth of July and Labor Day",
+      "Halloween and Thanksgiving",
+      "Memorial Day and New Year's Eve",
+      "Mother's Day and Christmas"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 2 Christmas episode 'Twas the Nightmare Before Christmas', where do the women get stranded on Christmas Eve?",
+    "options": [
+      "At a counseling center held hostage by a man dressed as Santa Claus",
+      "At the Miami airport during a snow cancellation up north",
+      "In a highway diner with a broken radiator",
+      "In an elevator at the department store"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who played the desperate man dressed as Santa in 'Twas the Nightmare Before Christmas'?",
+    "options": [
+      "Jim Carrey",
+      "David Spade",
+      "Jon Lovitz",
+      "Dana Carvey"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What weapon does the desperate Santa pull out at the grief center in the Christmas episode?",
+    "options": [
+      "A switchblade knife",
+      "A live grenade",
+      "A gun, which turns out to be a toy gun or loaded with blanks",
+      "A stick of dynamite"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which major television honor was awarded to 'The Golden Girls' in 1986 by the Peabody Awards committee?",
+    "options": [
+      "The Humanitas Prize",
+      "The Television Academy Hall of Fame Induction",
+      "The NAACP Image Award",
+      "The George Foster Peabody Award for broadcasting excellence"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why did the Peabody Board specifically commend 'The Golden Girls' in its 1986 citation?",
+    "options": [
+      "For dealing with mature women and senior citizen issues with wit, intelligence, and dignity",
+      "For achieving record-breaking advertising revenue on Saturday nights",
+      "For pioneering the use of digital multi-camera editing",
+      "For filming on location throughout Florida communities"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the primary syndication distributor that sold 'The Golden Girls' into broadcast reruns?",
+    "options": [
+      "King World Productions",
+      "Buena Vista Television",
+      "Viacom Enterprises",
+      "Tribune Entertainment"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many times did 'The Golden Girls' appear on the cover of TV Guide during its original network run?",
+    "options": [
+      "Once",
+      "Three times",
+      "Seven times",
+      "Fifteen times"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did Betty White host 'Saturday Night Live' following a massive viral Facebook campaign, referencing 'The Golden Girls'?",
+    "options": [
+      "2005",
+      "2015",
+      "2020",
+      "2010"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What Primetime Emmy did Betty White win for hosting 'Saturday Night Live' in 2010?",
+    "options": [
+      "Outstanding Guest Actress in a Comedy Series",
+      "Outstanding Variety Special Host",
+      "Outstanding Supporting Actress in a Comedy",
+      "Lifetime Achievement Emmy"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which writer/producer created the character of Sophia Petrillo as an Italian matriarch specifically based on her own Italian-American family roots?",
+    "options": [
+      "Paul Junger Witt",
+      "Susan Harris",
+      "Tony Thomas",
+      "Marc Sotkin"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What sitcom did Witt/Thomas/Harris produce immediately following 'The Golden Girls' that also starred an ensemble of women?",
+    "options": [
+      "Designing Women",
+      "Murphy Brown",
+      "Nurses",
+      "Kate & Allie"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What CBS comedy was often compared to 'The Golden Girls' as its Southern counterpart airing during the same late-1980s era?",
+    "options": [
+      "The Facts of Life",
+      "Alice",
+      "Mama's Family",
+      "Designing Women"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did Bea Arthur and Rue McClanahan reunite on television to guest-star on the sitcom 'Empty Nest'?",
+    "options": [
+      "1989 and 1991",
+      "1985",
+      "1995",
+      "1998"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the title of the 1990 retrospective special hosted by the cast highlighting the best moments of the first five seasons?",
+    "options": [
+      "Thank You for Being a Friend: 5 Years",
+      "The Golden Girls: Their Greatest Moments",
+      "Golden Memories",
+      "Miami Gold Retrospective"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which famous theater critic and lyricist was the father of executive producer Tony Thomas?",
+    "options": [
+      "Lowell Thomas",
+      "Dylan Thomas",
+      "Danny Thomas (the legendary comedian and television pioneer)",
+      "Marlo Thomas"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who was executive producer Paul Junger Witt married to throughout the show's run?",
+    "options": [
+      "Actress Rue McClanahan",
+      "Director Jay Sandrich",
+      "Producer Marcy Carsey",
+      "Creator Susan Harris"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What production company logo featuring a blue script and music fanfare appeared at the end of each Golden Girls episode?",
+    "options": [
+      "Witt/Thomas/Harris Productions with Touchstone Television",
+      "MTM Enterprises with kitten mewing",
+      "Stephen J. Cannell throwing paper",
+      "Tandem Productions with torch"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the episode 'The Golden Globe' (not the awards show), what happens to the girls' prized possessions?",
+    "options": [
+      "Their house is put up for sale by mistake",
+      "They reminisce through flashbacks of classic scenes",
+      "They win a local trophy for civic service",
+      "Sophia sells their antiques at a swap meet"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many total clip-show flashback episodes did 'The Golden Girls' produce over its seven-season run?",
+    "options": [
+      "Two clip-show episodes",
+      "Twelve clip-show episodes",
+      "Eight clip-show episodes",
+      "None"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did 'The Golden Girls' celebrate its 30th broadcast anniversary with widespread retrospective coverage?",
+    "options": [
+      "2010",
+      "2020",
+      "2005",
+      "2015"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What popular streaming platform made 'The Golden Palace' available to stream for the first time in 2022?",
+    "options": [
+      "Hulu",
+      "Netflix",
+      "Disney+",
+      "Paramount+"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the title of the popular off-Broadway parody puppet show celebrating 'The Golden Girls' that debuted in 2016?",
+    "options": [
+      "Puppet Pals in Miami",
+      "That Golden Girls Show! A Puppet Parody",
+      "Thank You for the Puppets",
+      "Golden Marionettes Live"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What famous casting swap occurred during the development and audition process of 'The Golden Girls'?",
+    "options": [
+      "Bea Arthur was originally cast as Sophia and Estelle Getty as Dorothy",
+      "Rue McClanahan was originally cast as Dorothy and Bea Arthur as Blanche",
+      "Betty White was initially slated for Blanche and Rue McClanahan for Rose, but they switched roles",
+      "Betty White was originally cast as Sophia and Estelle Getty as Rose"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which director suggested swapping Betty White and Rue McClanahan into the roles of Rose and Blanche to avoid typecasting?",
+    "options": [
+      "James Burrows",
+      "Terry Hughes",
+      "Hal Cooper",
+      "Jay Sandrich"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why was director Jay Sandrich concerned about casting Betty White as Blanche and Rue McClanahan as Rose?",
+    "options": [
+      "Betty had already played a vixen on 'Mary Tyler Moore' and Rue had played a naive scatterbrain on 'Maude'",
+      "Both actresses had accents that didn't fit the original script",
+      "Betty White refused to play a character who dated younger men",
+      "Rue McClanahan wanted to play a tough Sicilian mother instead"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What surprising real-life age relationship existed between Estelle Getty (Sophia) and Bea Arthur (Dorothy)?",
+    "options": [
+      "Estelle Getty was twenty years older than Bea Arthur",
+      "Estelle Getty was actually one year and two months younger than Bea Arthur",
+      "Estelle Getty and Bea Arthur were identical twin sisters in real life",
+      "Estelle Getty was ten years older than Bea Arthur"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was Estelle Getty's exact birth year compared to Bea Arthur's birth year of 1922?",
+    "options": [
+      "1910",
+      "1915",
+      "1923",
+      "1932"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How long did Estelle Getty spend in the makeup chair each filming day to transform into the 80-something Sophia?",
+    "options": [
+      "Over four hours of full prosthetic body casting",
+      "Ten minutes with just a dusting of baby powder",
+      "Two full hours with silicone facial appliances",
+      "Roughly 45 to 60 minutes applying aging latex, wrinkles, and a gray wig"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What psychological challenge did Estelle Getty famously suffer from throughout her entire time on 'The Golden Girls'?",
+    "options": [
+      "Severe stage fright and anxiety about forgetting her lines in front of the live audience",
+      "Agoraphobia that prevented her from leaving her dressing room",
+      "Claustrophobia on the small kitchen soundstage",
+      "Severe depression due to her character's dowdy wardrobe"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What footwear quirk was Bea Arthur known for on the set of 'The Golden Girls'?",
+    "options": [
+      "She insisted on wearing custom 6-inch stiletto heels in every scene",
+      "She despised wearing shoes and walked around barefoot whenever cameras didn't show her feet",
+      "She wore roller skates behind the kitchen counter",
+      "She refused to wear anything other than orthopedic bowling shoes"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What common culinary item featured on the show did Bea Arthur genuinely dislike eating in real life?",
+    "options": [
+      "Marinara sauce",
+      "Italian cannoli",
+      "Cheesecake",
+      "Coffee"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What common habit on set did Bea Arthur famously despise, to the point of banning people from doing it near her?",
+    "options": [
+      "Whistling show tunes",
+      "Drinking iced tea from a straw",
+      "Smoking cigars outside Stage 9",
+      "Chewing gum"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How tall was Bea Arthur, giving her an imposing and commanding physical presence on stage?",
+    "options": [
+      "5 feet 10 inches (178 cm)",
+      "5 feet 4 inches (163 cm)",
+      "6 feet 2 inches (188 cm)",
+      "5 feet 6 inches (168 cm)"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What branch of the United States military did Bea Arthur serve in during World War II before pursuing acting?",
+    "options": [
+      "The Women's Army Corps (WAC)",
+      "The United States Marine Corps Women's Reserve",
+      "The Navy WAVES",
+      "The Coast Guard SPARS"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What military duties did Bea Arthur perform during her service in the Marine Corps Women's Reserve?",
+    "options": [
+      "She was a flight nurse in the Pacific",
+      "She decoded Japanese naval communications",
+      "She worked as a truck driver and typist",
+      "She trained military guard dogs"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was Bea Arthur's legal birth name before adopting her stage name?",
+    "options": [
+      "Beatrice Arkin",
+      "Bernadette Arthur",
+      "Barbara Feldman",
+      "Bernice Frankel"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was Rue McClanahan's full birth name?",
+    "options": [
+      "Eddi-Rue McClanahan",
+      "Ruth Ann McClanahan",
+      "Ruby Mae McClanahan",
+      "Rochelle McClanahan"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what US state was Rue McClanahan born and raised, giving her an authentic Southern heritage?",
+    "options": [
+      "Georgia",
+      "Oklahoma",
+      "Alabama",
+      "Mississippi"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What special clause did Rue McClanahan negotiate into her contract for 'The Golden Girls' regarding her character's wardrobe?",
+    "options": [
+      "She was allowed to choose her own hair color every season",
+      "She received 10% of all merchandise sales",
+      "She was legally entitled to keep all of Blanche Devereaux's custom designer clothing",
+      "She had veto power over all male guest star casting"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Approximately how many custom designer outfits from Blanche's wardrobe did Rue McClanahan keep in her private collection?",
+    "options": [
+      "Fewer than 10 pieces",
+      "Around 25 pieces",
+      "Only her wedding dresses",
+      "Hundreds of custom dresses, robes, and suits (over 500 pieces)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was Betty White's lifelong philanthropic passion outside of show business?",
+    "options": [
+      "Animal health, welfare, and wildlife conservation",
+      "Classical opera restoration",
+      "Youth tennis academy coaching",
+      "Historic lighthouse preservation"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What prestigious animal organization did Betty White serve on the board of trustees for over four decades?",
+    "options": [
+      "The World Wildlife Fund International",
+      "The Morris Animal Foundation and the Greater Los Angeles Zoo Association",
+      "The American Humane Association",
+      "PETA"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who was Betty White's beloved third husband and legendary game show host whom she called the love of her life?",
+    "options": [
+      "Bill Cullen",
+      "Gene Rayburn",
+      "Allen Ludden",
+      "Peter Marshall"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What famous game show did Allen Ludden host, where Betty White appeared as a frequent celebrity panelist?",
+    "options": [
+      "Match Game",
+      "Jeopardy!",
+      "The Hollywood Squares",
+      "Password"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did Allen Ludden pass away from stomach cancer, just four years before Betty White was cast in 'The Golden Girls'?",
+    "options": [
+      "1981",
+      "1975",
+      "1985",
+      "1990"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What Tony Award did Bea Arthur win in 1966 for her role as Vera Charles on Broadway?",
+    "options": [
+      "Best Leading Actress in a Musical for 'Fiddler on the Roof'",
+      "Best Featured Actress in a Musical for 'Mame'",
+      "Best Actress in a Play for 'The Threepenny Opera'",
+      "Best Featured Actress in a Musical for 'Gypsy'"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What iconic role did Bea Arthur originate on Broadway in the 1964 original production of 'Fiddler on the Roof'?",
+    "options": [
+      "Golde",
+      "Tzeitel",
+      "Yente the Matchmaker",
+      "Fruma-Sarah"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What Broadway role brought Estelle Getty national acclaim and led directly to her casting on 'The Golden Girls'?",
+    "options": [
+      "Mama Rose in 'Gypsy'",
+      "Kate Jerome in 'Brighton Beach Memoirs'",
+      "Golde in 'Fiddler on the Roof'",
+      "Mrs. Beckoff in Harvey Fierstein's 'Torch Song Trilogy'"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was Estelle Getty's birth name?",
+    "options": [
+      "Estelle Scher",
+      "Estelle Gettleman",
+      "Estelle Shapiro",
+      "Estelle Schwartz"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who was Estelle Getty married to from 1947 until his death in 2004?",
+    "options": [
+      "Max Weinstock",
+      "Arthur Gettleman",
+      "Irving Scher",
+      "Sal Petrillo"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which of the four Golden Girls was the oldest in real life, born in January 1922?",
+    "options": [
+      "Bea Arthur (born May 1922)",
+      "Estelle Getty (born July 1923)",
+      "Betty White",
+      "Rue McClanahan (born February 1934)"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which of the four Golden Girls was the youngest in real life, born in 1934?",
+    "options": [
+      "Estelle Getty",
+      "Bea Arthur",
+      "Betty White",
+      "Rue McClanahan"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which British royal family member personally requested that the cast of 'The Golden Girls' perform live at the Royal Variety Performance in London in 1988?",
+    "options": [
+      "Queen Elizabeth The Queen Mother",
+      "Queen Elizabeth II",
+      "Princess Margaret",
+      "Diana, Princess of Wales"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "At which iconic London venue did the cast perform their special live sketch for the Royal Family in November 1988?",
+    "options": [
+      "The Royal Albert Hall",
+      "The London Palladium",
+      "The Drury Lane Theatre",
+      "The Savoy Theatre"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What question did the producers and cast face when preparing their sketch for the 1988 Royal Variety Performance?",
+    "options": [
+      "Whether to replace Estelle Getty with a British actress",
+      "Whether to film the sketch on location in Miami beforehand",
+      "Whether to tone down Blanche's bawdy sexual innuendos for the Royal Family",
+      "Whether to sing the British national anthem instead of the theme"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which character on 'The Golden Girls' was reportedly the Queen Mother's absolute favorite?",
+    "options": [
+      "Rose Nylund",
+      "Dorothy Zbornak",
+      "Blanche Devereaux",
+      "Sophia Petrillo"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What did the Queen Mother tell the cast during the post-show receiving line at the London Palladium?",
+    "options": [
+      "She told them she watched the show religiously and found them utterly delightful",
+      "She asked them to film an episode at Windsor Castle",
+      "She questioned why they ate so much cheesecake",
+      "She invited Betty White to care for her royal corgis"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which future Hollywood superstar played Miami undercover vice cop Bobby Hopkins in the Season 2 episode 'To Catch a Neighbor'?",
+    "options": [
+      "Brad Pitt",
+      "George Clooney",
+      "Johnny Depp",
+      "Tom Cruise"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How old was George Clooney approximately when he appeared as Officer Bobby Hopkins on 'The Golden Girls' in 1987?",
+    "options": [
+      "19 years old",
+      "33 years old",
+      "26 years old",
+      "38 years old"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which future Oscar-winning filmmaker appeared as an Elvis Presley impersonator in the 1988 episode 'Sophia's Wedding'?",
+    "options": [
+      "David Fincher",
+      "Spike Jonze",
+      "Paul Thomas Anderson",
+      "Quentin Tarantino"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How did Quentin Tarantino's small cameo on 'The Golden Girls' critically impact his early filmmaking career?",
+    "options": [
+      "The SAG residual checks paid his living expenses while he wrote and pre-produced 'Reservoir Dogs'",
+      "It introduced him to Harvey Keitel who was visiting the set",
+      "It funded the camera rental for his debut short film",
+      "It earned him an audition for 'Pulp Fiction'"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What iconic movie star made a memorable guest appearance in Season 2's 'Ladies of the Evening', delivering the punchline 'Which one's the slut?'?",
+    "options": [
+      "Clint Eastwood",
+      "Burt Reynolds",
+      "Paul Newman",
+      "Robert Redford"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which acclaimed comedy actor played Blanche's uncle Lucas Hollingsworth and married Dorothy in the series finale?",
+    "options": [
+      "Lloyd Bridges",
+      "Jack Lemmon",
+      "Leslie Nielsen",
+      "Mel Brooks"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which legendary Hollywood actress and singer played Trisha, a potential roommate who interviews with the girls in Season 5?",
+    "options": [
+      "Shirley MacLaine",
+      "Doris Day",
+      "Lauren Bacall",
+      "Debbie Reynolds"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which iconic entertainer guest-starred as himself in 'You Gotta Have Hope', where Rose believes he is her biological father?",
+    "options": [
+      "Bob Hope",
+      "Bing Crosby",
+      "Milton Berle",
+      "Danny Kaye"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which international pop singer guest-starred as Sophia's dream Valentine's Day date in Season 4?",
+    "options": [
+      "Plácido Domingo",
+      "Julio Iglesias",
+      "Enrique Iglesias",
+      "Tom Jones"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which future indie rock musician and lead singer of Rilo Kiley played the devious Sunshine Cadet Daisy who kidnapped Rose's teddy bear?",
+    "options": [
+      "Fiona Apple",
+      "Chan Marshall",
+      "Jenny Lewis",
+      "Alanis Morissette"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which 'Law & Order' icon played Glenn O'Brien, Dorothy's married lover who returns after his divorce in Season 5?",
+    "options": [
+      "Sam Waterston",
+      "Fred Thompson",
+      "Paul Sorvino",
+      "Jerry Orbach"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which TV veteran and 'Barney Miller' star played John Neretti, Dorothy's high school prom date who stood her up?",
+    "options": [
+      "Hal Linden",
+      "Abe Vigoda",
+      "Max Gail",
+      "Ron Glass"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which legendary 1960s TV Batman villain (The Joker) played Tony Delvecchio, a suitor who dates Sophia in Season 5?",
+    "options": [
+      "Burgess Meredith",
+      "Cesar Romero",
+      "Frank Gorshin",
+      "Vincent Price"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which Emmy-winning actor, famous for 'Arrested Development' and 'The Larry Sanders Show', played two different guest roles across the series?",
+    "options": [
+      "Garry Shandling",
+      "Rip Torn",
+      "Jeffrey Tambor",
+      "Eugene Levy"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which beloved comic actor played Sophia's bank-robbing boyfriend Rocco in Season 3?",
+    "options": [
+      "Red Buttons",
+      "Don Knotts",
+      "Jack Albertson",
+      "Mickey Rooney"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which long-time 'Jeopardy!' host played himself in Dorothy's nightmare audition in Season 7?",
+    "options": [
+      "Alex Trebek",
+      "Art Fleming",
+      "Pat Sajak",
+      "Chuck Woolery"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which media mogul and creator of 'Jeopardy!' and 'Wheel of Fortune' appeared alongside Alex Trebek in Dorothy's dream?",
+    "options": [
+      "Mark Goodson",
+      "Merv Griffin",
+      "Bill Todman",
+      "Chuck Barris"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which famous television star and singer appeared as himself in Blanche's romantic fantasy in 'Mrs. George Devereaux'?",
+    "options": [
+      "Cher",
+      "Gene Simmons",
+      "Sonny Bono",
+      "Paul Anka"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which 'Carol Burnett Show' regular appeared alongside Sonny Bono in Blanche's dream as a rival suitor?",
+    "options": [
+      "Harvey Korman",
+      "Tim Conway",
+      "Dick Van Dyke",
+      "Lyle Waggoner"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which 'Mission: Impossible' star played a suave doctor who takes Blanche out on his yacht in Season 5?",
+    "options": [
+      "Peter Graves",
+      "Martin Landau",
+      "Greg Morris",
+      "Robert Conrad"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which comedy legend played Ken, Dorothy's attorney beau who gave up the law to become a circus clown?",
+    "options": [
+      "Jerry Lewis",
+      "Dick Van Dyke",
+      "Carl Reiner",
+      "Tim Conway"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which 'Saved by the Bell' star made an early acting appearance as Mario Sanchez, Dorothy's star pupil facing deportation?",
+    "options": [
+      "Mark-Paul Gosselaar",
+      "Dustin Diamond",
+      "Mario Lopez",
+      "Brian Austin Green"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which actress played Dorothy's daughter Kate Zbornak in the Season 1 wedding episode?",
+    "options": [
+      "Deena Freeman",
+      "Christine Ebersole",
+      "Dinah Manoff",
+      "Lisa Jane Persky"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which actress replaced Lisa Jane Persky as Kate Zbornak in Season 2 when Dennis had an affair?",
+    "options": [
+      "Deena Freeman",
+      "Lee Garlington",
+      "Christine Ebersole",
+      "Brenda Vaccaro"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which Broadway star and Tony winner played Rose's suspicious daughter Kirsten in Season 8 / later episodes?",
+    "options": [
+      "Patti LuPone",
+      "Christine Ebersole",
+      "Bernadette Peters",
+      "Audra McDonald"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which actress originally played Rose's daughter Kirsten in Season 1 when Charlie's will was examined?",
+    "options": [
+      "Christine Ebersole",
+      "Lisa Jane Persky",
+      "Lee Garlington",
+      "Melora Hardin"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which character actor played Stan Zbornak in 26 episodes, earning two Primetime Emmy nominations?",
+    "options": [
+      "Harold Gould",
+      "Bill Dana",
+      "Richard Libertini",
+      "Herb Edelman"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which distinguished character actor played Rose's long-time beau Miles Webber (Nicholas Carbone)?",
+    "options": [
+      "Harold Gould",
+      "Herb Edelman",
+      "Edward Winter",
+      "John Randolph"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Before playing Miles Webber, Harold Gould appeared in Season 1 of 'The Golden Girls' as which different suitor of Rose?",
+    "options": [
+      "Dr. Jonathan Newman",
+      "Arnie Peterson",
+      "Fidel Santiago",
+      "Al Beatty"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which veteran comedy actor played Sophia's Italian brother, Uncle Angelo Petrillo?",
+    "options": [
+      "Pat Cooper",
+      "Frank Fontaine",
+      "Bill Dana",
+      "Jack Carter"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which veteran TV actress played Sophia's feud-loving Sicilian sister Angela in Season 2?",
+    "options": [
+      "Selma Diamond",
+      "Ruth Gordon",
+      "Alice Ghostley",
+      "Nancy Walker"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Besides playing sister Angela, what behind-the-scenes role did Nancy Walker perform on 'The Golden Girls' in Season 1?",
+    "options": [
+      "She directed four episodes of the series",
+      "She wrote the musical score",
+      "She was the lead casting director",
+      "She was the head dialect coach"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which actress played Dorothy's wealthy sister Gloria in Season 1 before the character returned in Season 7?",
+    "options": [
+      "Dena Dietrich",
+      "Doris Belack",
+      "Sheree North",
+      "Barbara Babcock"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which famous actress, known as Mother Nature in 1970s margarine commercials, played Gloria in Season 7?",
+    "options": [
+      "Doris Belack",
+      "Rue McClanahan",
+      "Dena Dietrich",
+      "Charlotte Rae"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which legendary Southern actor played Blanche's father 'Big Daddy' Hollingsworth in his first appearance in Season 1?",
+    "options": [
+      "David Wayne",
+      "Denver Pyle",
+      "Strother Martin",
+      "Murray Hamilton"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which veteran actor took over the role of 'Big Daddy' Hollingsworth in Season 2 after Murray Hamilton passed away?",
+    "options": [
+      "David Wayne",
+      "Murray Hamilton",
+      "Pat Hingle",
+      "Arthur O'Connell"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which actress played Blanche's sister Virginia in Season 1 when Virginia asked for a kidney?",
+    "options": [
+      "Barbara Babcock",
+      "Sheree North",
+      "Dixie Carter",
+      "Delta Burke"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which Emmy-winning actress played Blanche's rival sister Charmaine in Season 1?",
+    "options": [
+      "Sheree North",
+      "Faye Dunaway",
+      "Barbara Babcock",
+      "Lee Grant"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which actor played Blanche's gay brother Clayton in both Season 4 and Season 6?",
+    "options": [
+      "Richard Mulligan",
+      "Robert Mandan",
+      "Charles Frank",
+      "Monte Markham"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which actor played Dorothy's son Michael Zbornak in multiple episodes across the series?",
+    "options": [
+      "Scott Jacoby",
+      "Rob Lowe",
+      "Michael J. Fox",
+      "Matthew Broderick"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What major acting honor had Scott Jacoby (Michael Zbornak) won before appearing on 'The Golden Girls'?",
+    "options": [
+      "A Tony Award for Best Actor",
+      "A Primetime Emmy Award for Outstanding Supporting Actor (for 'That Certain Summer')",
+      "An Academy Award for Best Supporting Actor",
+      "A Golden Globe Award"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which actor played Blanche's late husband George Devereaux in the dream episode 'Mrs. George Devereaux'?",
+    "options": [
+      "Richard Dysart",
+      "Donald Moffat",
+      "George Grizzard",
+      "Philip Bosco"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What difference in working styles occasionally caused friction between Bea Arthur and Betty White on set?",
+    "options": [
+      "Betty White constantly rewrote the scripts without telling the other actresses",
+      "Bea Arthur refused to share dressing room hallways with Betty",
+      "Betty White demanded top billing over Bea in the opening titles",
+      "Bea was an introspective stage actress who valued quiet focus, while Betty was cheerful, chatty, and played with the audience"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How did Rue McClanahan describe Bea Arthur's feelings toward Betty White in her autobiography?",
+    "options": [
+      "Bea admired Betty's talent but sometimes found her unrelenting perkiness exhausting",
+      "They actively sabotaged each other's comedic scenes",
+      "They refused to speak to each other unless through lawyers",
+      "They were inseparable best friends who vacationed together every summer"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the title of Rue McClanahan's bestselling 2007 autobiography?",
+    "options": [
+      "Thank You for Being Blanche",
+      "My First Five Husbands... And the Ones Who Got Away",
+      "Golden Memories of a Southern Belle",
+      "Life in the Lanai"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many times was Rue McClanahan married in real life, a fact she frequently joked about in comparison to Blanche?",
+    "options": [
+      "Three times",
+      "Eight times",
+      "Six times",
+      "Twice"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did Estelle Getty pass away at the age of 84?",
+    "options": [
+      "2005",
+      "2010",
+      "2012",
+      "2008"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What progressive neurological condition did Estelle Getty battle in the final decade of her life?",
+    "options": [
+      "Lewy body dementia",
+      "Multiple sclerosis",
+      "Amyotrophic lateral sclerosis (ALS)",
+      "Huntington's disease"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did Bea Arthur pass away from cancer at the age of 86?",
+    "options": [
+      "2006",
+      "2009",
+      "2011",
+      "2013"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What substantial charitable bequest did Bea Arthur leave in her will to help homeless youth in New York City?",
+    "options": [
+      "$1,000,000 to the Actors Fund of America",
+      "$500,000 to the Juilliard School of Drama",
+      "$300,000 to the Ali Forney Center for homeless LGBT youth",
+      "$250,000 to the ASPCA of New York"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What facility was opened in Manhattan in 2017 in honor of Bea Arthur's generous bequest to homeless LGBT youth?",
+    "options": [
+      "The Dorothy Zbornak House",
+      "The Arthur Memorial Shelter",
+      "The Maude Center",
+      "The Bea Arthur Residence"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did Rue McClanahan pass away from a brain hemorrhage at the age of 76?",
+    "options": [
+      "2010",
+      "2008",
+      "2012",
+      "2014"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "On what date did Betty White pass away, just 17 days shy of celebrating her 100th birthday?",
+    "options": [
+      "January 17, 2022",
+      "December 31, 2021",
+      "November 28, 2021",
+      "February 14, 2022"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which of the four Golden Girls actresses was the longest-surviving member of the main cast?",
+    "options": [
+      "Rue McClanahan",
+      "Bea Arthur",
+      "Betty White",
+      "Estelle Getty"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what city was the first official 'Golden-Con: Thank You for Being a Fan' convention held in April 2022?",
+    "options": [
+      "Miami, Florida",
+      "Los Angeles, California",
+      "Atlanta, Georgia",
+      "Chicago, Illinois"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What unique culinary cafe dedicated to Rue McClanahan and 'The Golden Girls' opened in Manhattan's Washington Heights in 2017?",
+    "options": [
+      "Rue La Rue Cafe",
+      "The Lanai Bakery",
+      "Sophia's Kitchen Cafe",
+      "Blanche's Southern Tea"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who founded the Rue La Rue Cafe using personal memorabilia and costumes inherited from Rue McClanahan?",
+    "options": [
+      "Marc Cherry",
+      "Michael J. LaRue (Rue's close friend and executor)",
+      "Brandon Tartikoff",
+      "Norman Lear"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What popular drag stage show touring major cities features all-male drag performers portraying the Golden Girls word-for-word?",
+    "options": [
+      "Queens in Miami",
+      "Wicker Purses and Wigs",
+      "The Golden Girls Live! on Stage",
+      "Lanai Queens Revue"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which major collectible toy brand released official stylized vinyl figures of Dorothy, Rose, Blanche, and Sophia in 2016?",
+    "options": [
+      "Hasbro Action Heroes",
+      "Mattel Barbie Collector",
+      "McFarlane Toys",
+      "Funko (Pop! Vinyl)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What novelty pottery plant brand produced popular Golden Girls ceramic planters that sprout green chia seeds as hair?",
+    "options": [
+      "Chia Pet",
+      "Veg-O-Matic",
+      "Pocket Planter",
+      "Flora-Pot"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What popular board game company released official custom editions for 'The Golden Girls', including Clue and Monopoly?",
+    "options": [
+      "Mattel Games",
+      "Hasbro / USAopoly",
+      "Milton Bradley Classic",
+      "Ravensburger"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the custom 'Golden Girls Clue' board game, what crime are the players trying to solve?",
+    "options": [
+      "Who stole Sophia's wicker purse",
+      "Who dented Stan's car in the driveway",
+      "Who ate the last piece of cheesecake, with what weapon, and in what room",
+      "Who tore Blanche's palm wallpaper"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What popular restaurant chain launched a pop-up dining experience called 'The Golden Girls Kitchen' in Beverly Hills, New York, and Chicago?",
+    "options": [
+      "Hard Rock Cafe",
+      "Planet Hollywood",
+      "The Cheesecake Factory",
+      "Bucket Listers"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What food was naturally the centerpiece of the dessert menu at 'The Golden Girls Kitchen' pop-up restaurant?",
+    "options": [
+      "Cheesecake in assorted flavors",
+      "Cannoli with powdered sugar",
+      "Southern peach cobbler",
+      "St. Olaf herring pie"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which of the following actresses was offered the role of Dorothy Zbornak before Bea Arthur officially signed on?",
+    "options": [
+      "Angela Lansbury",
+      "Lee Grant (who turned it down because she didn't want to play a grandmother)",
+      "Lucille Ball",
+      "Carol Burnett"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which actress was Susan Harris's original template and ideal choice for Dorothy when writing the pilot script?",
+    "options": [
+      "Elaine Stritch",
+      "Maureen Stapleton",
+      "Bea Arthur",
+      "Colleen Dewhurst"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why was Bea Arthur initially hesitant to accept the role of Dorothy Zbornak when first approached?",
+    "options": [
+      "She had retired from acting to live permanently in England",
+      "She refused to work in comedy after winning a Tony for drama",
+      "She wanted to play Blanche Devereaux instead",
+      "She worried the show would feel like an uninspired retread of 'Maude'"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who personally called Bea Arthur and convinced her to read Susan Harris's script, assuring her it was brilliant and unique?",
+    "options": [
+      "Rue McClanahan",
+      "Brandon Tartikoff",
+      "Betty White",
+      "Paul Junger Witt"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which Broadway legend famously auditioned for the role of Dorothy Zbornak but blew the audition by cursing at creator Susan Harris?",
+    "options": [
+      "Patti LuPone",
+      "Elaine Stritch",
+      "Chita Rivera",
+      "Carol Channing"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year did Elaine Stritch recount her disastrous Golden Girls audition in her one-woman Broadway show 'Elaine Stritch at Liberty'?",
+    "options": [
+      "1995",
+      "2010",
+      "2002",
+      "1988"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What did Elaine Stritch do during her audition that she admitted cost her the role of Dorothy?",
+    "options": [
+      "She walked out after three minutes saying the script was terrible",
+      "She showed up two hours late smelling of gin",
+      "She refused to read opposite Estelle Getty",
+      "She used vulgar expletives when improvising dialogue after her joke didn't land"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What did Estelle Getty wear to her final audition for Sophia to convince producers she could look like an 80-year-old woman?",
+    "options": [
+      "An oversized dowdy thrift-store dress, sensible orthotics, and unstyled graying hair",
+      "A black Sicilian mourning veil and a cane",
+      "Prosthetic latex wrinkles she bought at a costume shop",
+      "A nurse's uniform from a retirement home"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Where did Estelle Getty find the signature wicker purse that became Sophia's trademark prop?",
+    "options": [
+      "It was custom-designed by the Disney prop department",
+      "She spotted it on a flea market stand during a shopping trip in Los Angeles",
+      "It was inherited from Bea Arthur's grandmother",
+      "It was purchased from a high-end Beverly Hills boutique"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which of the four Golden Girls was the only one born in California?",
+    "options": [
+      "Betty White",
+      "Rue McClanahan",
+      "None of them (Betty White was born in Illinois, Bea Arthur in New York, Rue McClanahan in Oklahoma, Estelle Getty in New York)",
+      "Estelle Getty"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In which city and state was Betty White born on January 17, 1922?",
+    "options": [
+      "Chicago, Illinois",
+      "Evanston, Illinois",
+      "Springfield, Illinois",
+      "Oak Park, Illinois"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In which New York borough was Estelle Getty born to Polish-Jewish immigrant parents?",
+    "options": [
+      "Manhattan (Lower East Side)",
+      "Brooklyn (Flatbush)",
+      "The Bronx",
+      "Queens (Astoria)"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In which New York borough was Bea Arthur born before her family moved to Maryland?",
+    "options": [
+      "Manhattan",
+      "Brooklyn",
+      "Queens",
+      "Staten Island"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In which Oklahoma town was Rue McClanahan born in 1934?",
+    "options": [
+      "Tulsa, Oklahoma",
+      "Oklahoma City, Oklahoma",
+      "Healdton, Oklahoma",
+      "Norman, Oklahoma"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What Guinness World Record did Betty White earn in 2014 for her entertainment career?",
+    "options": [
+      "Most television guest appearances in history",
+      "Oldest person to win an Emmy Award",
+      "Most game show appearances by a celebrity",
+      "Longest TV career by an entertainer (female)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How many total decades did Betty White's television broadcasting career span before her death in 2021?",
+    "options": [
+      "Over eight decades (starting in 1939)",
+      "Four decades",
+      "Six decades",
+      "Ten decades"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What popular sitcom did Betty White star in from 2010 to 2015 as feisty caretaker Elka Ostrovsky?",
+    "options": [
+      "Mom",
+      "Hot in Cleveland",
+      "Grace and Frankie",
+      "The Cool Kids"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which former 'Golden Girls' co-star made a guest appearance on Betty White's sitcom 'Hot in Cleveland' before passing away?",
+    "options": [
+      "Rue McClanahan",
+      "Bea Arthur",
+      "None of them (all three co-stars had passed away before or around the premiere)",
+      "Estelle Getty"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What popular Disney animated film featured Estelle Getty as the voice of Mrs. Tweet, or did she voice characters in animation?",
+    "options": [
+      "She voiced the Fairy Godmother in 'Cinderella II'",
+      "She voiced Mama Odie in 'The Princess and the Frog'",
+      "She voiced Mrs. Potts in 'Beauty and the Beast'",
+      "She voiced characters in 'Stuart Little' and animated TV shows like 'Duckman' and 'Hercules'"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What buddy-cop action comedy movie did Estelle Getty star in alongside Sylvester Stallone in 1992?",
+    "options": [
+      "Stop! Or My Mom Will Shoot",
+      "Tango & Cash",
+      "Kindergarten Cop",
+      "Cop and a Half"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What iconic Golden Globe and Emmy award-winning role did Bea Arthur play in a Norman Lear 1970s sitcom before 'The Golden Girls'?",
+    "options": [
+      "Edith Bunker on 'All in the Family'",
+      "Maude Findlay on 'Maude'",
+      "Ann Romano on 'One Day at a Time'",
+      "Florida Evans on 'Good Times'"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "On which hit sitcom did Bea Arthur's character Maude first appear as Edith Bunker's outspoken, liberal cousin?",
+    "options": [
+      "Sanford and Son",
+      "The Jeffersons",
+      "All in the Family",
+      "Mary Hartman, Mary Hartman"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What famous 1983 science fiction comedy film featured Rue McClanahan alongside John Candy and Dan Aykroyd?",
+    "options": [
+      "Ghostbusters",
+      "Spaceballs",
+      "The Blues Brothers",
+      "Doctor Detroit"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which Golden Girl was a licensed medical laboratory technician before she became a professional actress?",
+    "options": [
+      "Bea Arthur",
+      "Betty White",
+      "Rue McClanahan",
+      "Estelle Getty"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what branch of wartime clinical medicine was Bea Arthur certified during the 1940s?",
+    "options": [
+      "Surgical dental hygienist",
+      "Medical technician specializing in blood and clinical lab work",
+      "Radiological technician",
+      "Physical therapy nurse"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What game show host did Betty White decline to marry multiple times before finally saying yes on the set of 'Password'?",
+    "options": [
+      "Bert Convy",
+      "Gene Rayburn",
+      "Allen Ludden",
+      "Jack Barry"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the pet poodle Betty White famously kept and brought onto production sets?",
+    "options": [
+      "Fifi",
+      "Fernando",
+      "Pepe",
+      "Bandit"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which Golden Girl received a posthumous star on the Hollywood Walk of Fame in November 2008?",
+    "options": [
+      "Estelle Getty",
+      "Bea Arthur",
+      "Rue McClanahan",
+      "None of them"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Where is Betty White's star on the Hollywood Walk of Fame located relative to her husband Allen Ludden's star?",
+    "options": [
+      "Three blocks apart across Vine Street",
+      "Side-by-side right next to Allen Ludden's star on Hollywood Boulevard",
+      "In front of the Chinese Theatre while his is at Sunset",
+      "Directly opposite each other across the street"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What prestigious television institution inducted all four Golden Girls into its Hall of Fame in 2009?",
+    "options": [
+      "The National Broadcasters Hall of Fame",
+      "The Hollywood Comedy Hall of Fame",
+      "The Television Academy Hall of Fame",
+      "The Paley Center for Media Walk of Fame"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In what year was 'The Golden Girls' honored with the Pop Culture Award at the TV Land Awards, reunited on stage by Betty White and Rue McClanahan?",
+    "options": [
+      "2003",
+      "2012",
+      "2015",
+      "2008"
+    ],
+    "answer": 3,
+    "d": 2
+  }
+]

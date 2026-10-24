@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Ingredients",
+    "q": "Which Italian creamy dessert cheese is the mandatory star component in authentic Tiramisu?",
+    "options": [
+      "Ricotta",
+      "Burrata",
+      "Gorgonzola",
+      "Mascarpone"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which beverage are the ladyfinger cookies (savoiardi) dipped into when assembling traditional Tiramisu?",
+    "options": [
+      "Earl Grey tea",
+      "Hot cocoa",
+      "Espresso coffee",
+      "Red wine"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which powder is dusted across the top surface of a finished Tiramisu right before serving?",
+    "options": [
+      "Cinnamon powder",
+      "Powdered sugar",
+      "Unsweetened cocoa powder",
+      "Matcha powder"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What dairy cheese forms the sweet, creamy filling inside crisp Sicilian Cannoli shells?",
+    "options": [
+      "Cream cheese",
+      "Sheep's milk ricotta",
+      "Brie",
+      "Mozzarella"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What dessert features a rich baked egg custard topped with a brittle sheet of caramelized sugar cracked with a spoon?",
+    "options": [
+      "Panna Cotta",
+      "Chocolate Mousse",
+      "Flan",
+      "Crème Brûlée"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fruit juice is the defining flavor of authentic Florida Key lime pie?",
+    "options": [
+      "Persian lime juice",
+      "Lemon juice",
+      "Calamansi juice",
+      "Key lime juice"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which canned milk product is whisked with egg yolks and lime juice to create the filling of authentic Key lime pie?",
+    "options": [
+      "Sweetened condensed milk",
+      "Evaporated milk",
+      "Almond milk",
+      "Coconut milk"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "What crumb crust is the traditional base for classic American Key lime pie and cheesecakes?",
+    "options": [
+      "Oreo cookie crust",
+      "Graham cracker crust",
+      "Shortbread crust",
+      "Puff pastry crust"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which three types of milk soak into the sponge cake of a traditional Latin American Tres Leches cake?",
+    "options": [
+      "Evaporated milk, condensed milk, and heavy cream",
+      "Whole milk, skim milk, and almond milk",
+      "Buttermilk, sour cream, and butter",
+      "Coconut milk, oat milk, and soy milk"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which leavening gas-producing reaction gives traditional Red Velvet cake its tender crumb when vinegar is mixed with which powder?",
+    "options": [
+      "Baking soda",
+      "Baking powder",
+      "Cornstarch",
+      "Cream of tartar"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sweet and tangy frosting is the classic partner spread across American Red Velvet cake layers?",
+    "options": [
+      "Chocolate ganache",
+      "Cream cheese frosting",
+      "Royal icing",
+      "Marshmallow fluff"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which pastry dough, made by boiling butter and water with flour and beating in eggs, expands into hollow shells for éclairs and cream puffs?",
+    "options": [
+      "Puff pastry",
+      "Shortcrust pastry",
+      "Filo dough",
+      "Choux pastry (Pâte à choux)"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which finely ground nut flour is the mandatory foundation for classic French macarons?",
+    "options": [
+      "Coconut flour",
+      "Hazelnut flour",
+      "Walnut flour",
+      "Almond flour"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which whipped egg white and sugar mixture forms the structural base for French macarons and pavlovas?",
+    "options": [
+      "Sabayon",
+      "Custard",
+      "Meringue",
+      "Pâte sablée"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which nut is the exclusive star topping and filling of the quintessential Southern American Thanksgiving pecan pie?",
+    "options": [
+      "Walnuts",
+      "Almonds",
+      "Macadamias",
+      "Pecan halves"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which viscous corn-derived syrup is blended with eggs, brown sugar, and butter to form the gooey base of classic pecan pie?",
+    "options": [
+      "Agave nectar",
+      "Maple syrup",
+      "Honey",
+      "Dark or light corn syrup"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Italian dessert translates directly to 'cooked cream' and is set with gelatin without using eggs?",
+    "options": [
+      "Crème Brûlée",
+      "Zabaglione",
+      "Semifreddo",
+      "Panna Cotta"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which setting agent derived from animal collagen is traditionally used to set Italian Panna Cotta?",
+    "options": [
+      "Pectin",
+      "Gelatin",
+      "Agar-agar",
+      "Cornstarch"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Italian hot espresso and cold gelato dessert translates literally to 'drowned'?",
+    "options": [
+      "Affogato",
+      "Macchiato",
+      "Corretto",
+      "Marocchino"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which sweet caramelized milk spread is sandwiched between tender cornstarch shortbread cookies to make South American Alfajores?",
+    "options": [
+      "Dulce de leche",
+      "Nutella",
+      "Guava paste",
+      "Fruit jam"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fried dough treat, piped through a star-shaped nozzle and rolled in cinnamon sugar, is served with hot thick chocolate in Spain?",
+    "options": [
+      "Churros",
+      "Beignets",
+      "Buñuelos",
+      "Sopapillas"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French upside-down caramelized apple tart is baked with pastry dough on top and inverted onto a platter when warm?",
+    "options": [
+      "Clafoutis",
+      "Mille-feuille",
+      "Tarte Tatin",
+      "Tarte Bourdaloue"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fruit is caramelized in butter and sugar as the classic star of a French Tarte Tatin?",
+    "options": [
+      "Pears",
+      "Plums",
+      "Peaches",
+      "Apples"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French dessert from the Limousin region consists of black cherries baked in a flan-like batter dusted with powdered sugar?",
+    "options": [
+      "Clafoutis",
+      "Canelé",
+      "Madeleine",
+      "Financier"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dessert, named after Russian ballerina Anna Pavlova, features a crisp meringue shell with a marshmallow center topped with whipped cream and fresh fruit?",
+    "options": [
+      "Charlotte Russe",
+      "Eton Mess",
+      "Pavlova",
+      "Baked Alaska"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which British dessert created at Eton College combines crushed meringue nests, whipped cream, and sliced macerated strawberries?",
+    "options": [
+      "Trifle",
+      "Eton Mess",
+      "Knickerbocker Glory",
+      "Cranachan"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fruit puree or sliced fruit is combined with toffee and cream on a buttery biscuit base to create British Banoffee pie?",
+    "options": [
+      "Apples",
+      "Bananas",
+      "Strawberries",
+      "Pineapples"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Middle Eastern sweet pastry layers dozens of sheets of buttered phyllo dough with chopped nuts, drenched in fragrant honey syrup?",
+    "options": [
+      "Baklava",
+      "Kadaif",
+      "Halva",
+      "Basbousa"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which nut is the premier signature filling in Turkish Gaziantep-style Baklava?",
+    "options": [
+      "Almonds",
+      "Cashews",
+      "Peanuts",
+      "Green pistachios"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dried fruit is the secret moisture ingredient pureed and baked into British Sticky Toffee Pudding?",
+    "options": [
+      "Figs",
+      "Prunes",
+      "Medjool dates",
+      "Raisins"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Italian whipped custard dessert is made by vigorously whisking egg yolks, sugar, and Marsala wine over simmering water?",
+    "options": [
+      "Zabaione (Zabaglione)",
+      "Panna Cotta",
+      "Semifreddo",
+      "Crema pasticcera"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fortified wine from Sicily is the classic alcohol used to flavor authentic Italian Zabaione and Tiramisu?",
+    "options": [
+      "Marsala wine",
+      "Vin Santo",
+      "Grappa",
+      "Limoncello"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which twice-baked Tuscan almond cookies from Prato are traditionally dipped into sweet Vin Santo dessert wine?",
+    "options": [
+      "Amaretti",
+      "Brutti ma buoni",
+      "Cantucci (Biscotti di Prato)",
+      "Ricciarelli"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Italian soft, chewy almond cookies from Siena are made from ground almonds, sugar, egg whites, and scented with bitter almond oil?",
+    "options": [
+      "Ricciarelli di Siena",
+      "Cantucci",
+      "Baci di Dama",
+      "Panforte"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dense, chewy Tuscan Christmas fruitcake from Siena is packed with candied citrus peel, honey, nuts, and dusted with powdered sugar?",
+    "options": [
+      "Panettone",
+      "Panforte di Siena",
+      "Pandoro",
+      "Colomba"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Milanese tall, dome-shaped sweet Christmas bread is enriched with butter, eggs, candied orange peel, and raisins?",
+    "options": [
+      "Panettone",
+      "Pandoro",
+      "Panforte",
+      "Babà al rum"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Veronese star-shaped Christmas sweet yeast bread is golden with egg yolks and vanilla, served dusted solely with vanilla powdered sugar?",
+    "options": [
+      "Panettone",
+      "Colomba Pasquale",
+      "Brioche",
+      "Pandoro di Verona"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Neapolitan yeasted cake, soaked in rum-flavored citrus syrup and often filled with pastry cream, originated in Poland and France?",
+    "options": [
+      "Sfogliatella",
+      "Pastiera Napoletana",
+      "Babà al Rum",
+      "Cannolo"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which ridged, shell-shaped Neapolitan pastry, meaning 'thin leaf', is made of dozens of layers of crisp pastry filled with semolina and ricotta?",
+    "options": [
+      "Sfogliatella riccia",
+      "Sfogliatella frolla",
+      "Cannolo",
+      "Pastiera"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Easter tart from Naples combines cooked wheat berries (grano cotto), ricotta cheese, eggs, and orange blossom water?",
+    "options": [
+      "Sfogliatella",
+      "Pastiera Napoletana",
+      "Torta Caprese",
+      "Cassata Siciliana"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which flourless Italian cake originating on the island of Capri combines dark chocolate, ground almonds or hazelnuts, butter, and eggs?",
+    "options": [
+      "Torta Mimosa",
+      "Torta Caprese",
+      "Torta della Nonna",
+      "Zuccotto"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Tuscan tart features a sweet shortcrust pastry filled with lemon-scented pastry cream and topped with whole pine nuts and powdered sugar?",
+    "options": [
+      "Torta Caprese",
+      "Pastiera",
+      "Torta della Nonna",
+      "Crostata"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French dessert, meaning 'a thousand leaves', features three crisp layers of puff pastry alternating with two layers of vanilla pastry cream?",
+    "options": [
+      "Opera Cake",
+      "Paris-Brest",
+      "Saint-Honoré",
+      "Mille-Feuille (Napoleon)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which wheel-shaped French ring of choux pastry, created to commemorate a bicycle race, is filled with praline buttercream and flaked almonds?",
+    "options": [
+      "Paris-Brest",
+      "Saint-Honoré",
+      "Mille-Feuille",
+      "Religieuse"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which elaborate French cake, named after the patron saint of bakers, features a puff pastry base ringed with caramel-dipped cream puffs and Chiboust cream?",
+    "options": [
+      "Paris-Brest",
+      "Gâteau Saint-Honoré",
+      "Croquembouche",
+      "Pithiviers"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French showpiece dessert consists of a tall conical tower of choux pastry profiteroles glued together with golden spun caramel sugar?",
+    "options": [
+      "Saint-Honoré",
+      "Religieuse",
+      "Croquembouche",
+      "Pièce montée"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which French choux pastry dessert consists of two stacked choux buns resembling a nun, filled with coffee or chocolate pastry cream and glazed?",
+    "options": [
+      "Profiterole",
+      "Religieuse",
+      "Éclair",
+      "Paris-Brest"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which small, shell-shaped French sponge cakes from Commercy, famously immortalized by Marcel Proust, are flavored with lemon zest and melted butter?",
+    "options": [
+      "Financiers",
+      "Canelés",
+      "Macarons",
+      "Madeleines"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which small French rectangular almond cakes, named because their shape resembles a gold bar, are flavored with nutty brown butter (beurre noisette)?",
+    "options": [
+      "Madeleines",
+      "Financiers",
+      "Canelés",
+      "Friands"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which small French fluted cylinder pastry from Bordeaux features a dark, caramelized crunchy beeswax crust and a soft, custard-like rum-vanilla interior?",
+    "options": [
+      "Madeleine",
+      "Canelé de Bordeaux",
+      "Financier",
+      "Baba au rhum"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What unique substance is traditionally brushed onto copper molds along with butter to give Canelés de Bordeaux their glossy, crispy caramelized crust?",
+    "options": [
+      "Carnauba wax",
+      "Beeswax",
+      "Paraffin",
+      "Cocoa butter"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which round, enclosed French puff pastry pie from Pithiviers is filled with rich frangipane almond cream and decorated with spiral score marks?",
+    "options": [
+      "Tourte aux pommes",
+      "Mille-feuille",
+      "Tarte Bourdaloue",
+      "Pithiviers (Galette des Rois)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "What rich, nutty filling made from equal parts almond cream and pastry cream is baked inside French Galette des Rois?",
+    "options": [
+      "Crème mousseline",
+      "Frangipane",
+      "Crème chantilly",
+      "Crème diplomate"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which layered French cake features almond sponge cake (Joconde) soaked in coffee syrup, layered with ganache and coffee buttercream, topped with chocolate glaze?",
+    "options": [
+      "Mille-Feuille",
+      "Opéra Cake",
+      "Forêt-Noire",
+      "Dacquoise"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which light French sponge cake made with almond flour and whipped egg whites is the essential structural cake layer in an Opéra cake?",
+    "options": [
+      "Joconde sponge (Biscuit Joconde)",
+      "Genoise",
+      "Chiffon cake",
+      "Angel food cake"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dessert features thin crêpes flambéed tableside in a sauce of caramelized sugar, fresh orange juice, orange zest, and Grand Marnier liqueur?",
+    "options": [
+      "Crêpes Bretonnes",
+      "Pancakes flambé",
+      "Crêpes Suzette",
+      "Crêpes Dentelle"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Austrian shortcrust tart from the city of Linz features a nutty ground hazelnut or almond crust spiced with cinnamon and cloves, filled with red currant jam?",
+    "options": [
+      "Linzer Torte",
+      "Sachertorte",
+      "Apfelstrudel",
+      "Esterházy torte"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which famous Viennese chocolate cake created by Franz Sacher features dense chocolate cake coated with a thin layer of apricot jam and dark chocolate glaze?",
+    "options": [
+      "Linzer Torte",
+      "Sachertorte",
+      "Black Forest Cake",
+      "Dobos Torte"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which fruit jam is spread between the layers and over the surface of an authentic Viennese Sachertorte before glazing?",
+    "options": [
+      "Raspberry jam",
+      "Apricot jam",
+      "Strawberry jam",
+      "Orange marmalade"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Hungarian drum-topped sponge cake features five thin sponge layers filled with chocolate buttercream, topped with a hard caramel slice crust?",
+    "options": [
+      "Esterházy Torte",
+      "Dobos Torte",
+      "Sachertorte",
+      "Krémes"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Hungarian and Austrian torte features almond meringue layers filled with spiced buttercream, decorated with a distinctive chocolate spiderweb glaze?",
+    "options": [
+      "Dobos Torte",
+      "Linzer Torte",
+      "Rigo Jancsi",
+      "Esterházy Torte"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which German gateau from the Black Forest layers chocolate sponge soaked in Kirschwasser cherry brandy with sour morello cherries and whipped cream?",
+    "options": [
+      "Black Forest Cake (Schwarzwälder Kirschtorte)",
+      "Sachertorte",
+      "Bienenstich",
+      "Baumkuchen"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which German yeast cake, meaning 'bee sting cake', has a baked honey-almond caramelized crunch topping and a rich vanilla custard filling?",
+    "options": [
+      "Donauwelle",
+      "Streuselkuchen",
+      "Stollen",
+      "Bienenstich"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional German Christmas yeast bread is studded with rum-soaked dried fruits, candied peel, and a cylinder of marzipan running through the center?",
+    "options": [
+      "Panettone",
+      "Stollen (Christstollen)",
+      "Bienenstich",
+      "Lebkuchen"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Nuremberg spiced gingerbread cookies are baked atop thin edible wafer paper discs called Oblaten, glazed with sugar or dark chocolate?",
+    "options": [
+      "Pfeffernüsse",
+      "Spekulatius",
+      "Lebkuchen",
+      "Printen"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which German and Austrian rolled pastry stretches unleavened dough paper-thin before wrapping it around tart apples, rum-soaked raisins, cinnamon, and toasted breadcrumbs?",
+    "options": [
+      "Topfenstrudel",
+      "Linzer Torte",
+      "Gugelhupf",
+      "Apple Strudel (Apfelstrudel)"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which layered British dessert consists of sponge cake soaked in sherry or fruit juice, fruit jam, fresh fruit, custard, and a topping of whipped cream?",
+    "options": [
+      "Eton Mess",
+      "Summer Pudding",
+      "Traditional English Trifle",
+      "Bread and Butter Pudding"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which classic British summer dessert is made by lining a bowl with slices of stale white bread and filling it with stewed red berries until bread is stained crimson?",
+    "options": [
+      "Summer Pudding",
+      "English Trifle",
+      "Bread and Butter Pudding",
+      "Spotted Dick"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional British steamed suet pudding is studded with dried currants and raisins, commonly served hot with custard?",
+    "options": [
+      "Plum Pudding",
+      "Treacle Sponge",
+      "Spotted Dick",
+      "Roly-Poly"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which British tart features a shortcrust pastry shell filled with a mixture of golden syrup, lemon juice, and fresh white breadcrumbs?",
+    "options": [
+      "Bakewell Tart",
+      "Treacle Tart",
+      "Manchester Tart",
+      "Custard Tart"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Derbyshire English tart consists of a shortcrust pastry shell spread with jam, covered with a spongy frangipane almond paste, and flaked almonds?",
+    "options": [
+      "Bakewell Tart",
+      "Treacle Tart",
+      "Gypsy Tart",
+      "Eccles Cake"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which small, round British flaky pastry cake from Lancashire is stuffed with spiced currants, butter, and brown sugar?",
+    "options": [
+      "Chorley Cake",
+      "Banbury Cake",
+      "Eccles Cake",
+      "Bakewell Tart"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which historic Kentish tart features a blind-baked pastry case filled with an intensely sweet, whipped mixture of evaporated milk and dark muscovado sugar?",
+    "options": [
+      "Treacle Tart",
+      "Butter Tart",
+      "Shoofly Pie",
+      "Gypsy Tart"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which quintessential Canadian pastry consists of small flaky pastry tart shells filled with butter, sugar, syrup, and eggs, often with raisins or pecans?",
+    "options": [
+      "Nanaimo Bar",
+      "Sugar Pie",
+      "Butter Tart",
+      "Flapper Pie"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which no-bake Canadian layered bar originating on Vancouver Island consists of a wafer and coconut crumb base, custard-flavored buttercream, and chocolate ganache?",
+    "options": [
+      "Butter Tart",
+      "Matrimonial Cake",
+      "Pemmican Bar",
+      "Nanaimo Bar"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which famous Scottish dessert features toasted pinhead oatmeal, whipped cream, heather honey, Scotch whisky, and fresh Scottish raspberries folded together?",
+    "options": [
+      "Eton Mess",
+      "Atholl Brose",
+      "Cranachan",
+      "Clootie Dumpling"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Scottish spiced fruit pudding is wrapped in a floured cloth (cloot) and boiled in a pot for hours, forming a thick skin on the outside?",
+    "options": [
+      "Clootie Dumpling",
+      "Cranachan",
+      "Spotted Dick",
+      "Black Bun"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Portuguese egg tart pastry from Belém features blistered caramelized custard baked at high heat in a super-crispy laminated puff pastry crust, dusted with cinnamon?",
+    "options": [
+      "Pastel de Nata",
+      "Queijada",
+      "Travesseiro de Sintra",
+      "Bola de Berlim"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which historic Portuguese sweet pillows from Sintra feature light puff pastry filled with sweet almond cream and egg yolks, dusted with granulated sugar?",
+    "options": [
+      "Pastéis de Nata",
+      "Pastéis de Tentúgal",
+      "Travesseiros de Sintra",
+      "Ovos Moles"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Portuguese conventual sweet from Aveiro consists of a rich, velvety paste of egg yolks and sugar encased in delicate wafer paper shells?",
+    "options": [
+      "Fios de Ovos",
+      "Toucinho do Céu",
+      "Papoilas",
+      "Ovos Moles de Aveiro"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which historic Iberian conventual dessert, meaning 'bacon from heaven', was traditionally made with pork lard, sugar syrup, egg yolks, and ground almonds?",
+    "options": [
+      "Toucinho do Céu",
+      "Ovos Moles",
+      "Sericaia",
+      "Pão de Ló"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which traditional Portuguese sponge cake, dating back to the 15th century, uses only eggs, sugar, and flour, baked so the center remains creamy and gooey?",
+    "options": [
+      "Bolo de Rolo",
+      "Pão de Ló",
+      "Castella",
+      "Toucinho do Céu"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which popular Japanese sponge cake from Nagasaki, adapted from Portuguese merchants in the 16th century, is sweetened with mizuame starch syrup?",
+    "options": [
+      "Pão de Ló",
+      "Dorayaki",
+      "Taiyaki",
+      "Castella (Kasutera)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese confection features two small pancake-like patties wrapped around a sweet red adzuki bean paste (anko) filling?",
+    "options": [
+      "Dorayaki",
+      "Taiyaki",
+      "Imagawayaki",
+      "Dango"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese fish-shaped waffle cake, molded in the shape of a sea bream, is commonly filled with sweet red bean paste or custard?",
+    "options": [
+      "Dorayaki",
+      "Monaka",
+      "Taiyaki",
+      "Manju"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Japanese traditional confection features a sweet red bean paste filling sandwiched between two delicate, crisp mochi wafer shells?",
+    "options": [
+      "Daifuku",
+      "Yokan",
+      "Monaka",
+      "Uiro"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which dense, jellied Japanese dessert block is made of red bean paste, agar-agar (kanten), and sugar, sliced into glossy rectangles?",
+    "options": [
+      "Yōkan",
+      "Uiro",
+      "Warabimochi",
+      "Kuzumochi"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which jelly-like Japanese summer confection made from bracken starch (warabiko) is dipped in toasted soybean flour (kinako) and black sugar syrup (kuromitsu)?",
+    "options": [
+      "Yōkan",
+      "Daifuku",
+      "Botamochi",
+      "Warabimochi"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "What roasted yellow soybean flour provides a nutty, peanut-like dusting over Japanese mochi and dango desserts?",
+    "options": [
+      "Kanten",
+      "Matcha",
+      "Kinako",
+      "Kuromitsu"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "What dense, unrefined black sugar syrup from Okinawa is drizzled over Japanese shaved ice and warabimochi?",
+    "options": [
+      "Mizuame",
+      "Mirin",
+      "Kuromitsu",
+      "Wasanbon"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which highly prized, fine-grained traditional Japanese sugar, made through elaborate hand-pressing processes in Shikoku, is used for luxury wasanbon sweets?",
+    "options": [
+      "Kuromitsu",
+      "Rock sugar",
+      "Wasanbon sugar",
+      "Palm sugar"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Levantine sweet cheese pastry is made with spun shredded kataifi pastry dough, mild stretchy goat or sheep cheese, soaked in orange blossom sugar syrup?",
+    "options": [
+      "Baklava",
+      "Basbousa",
+      "Knafeh (Kanafeh)",
+      "Ma'amoul"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which shredded, thread-like wheat pastry dough is used to wrap Turkish and Greek desserts like Knafeh and Kataifi?",
+    "options": [
+      "Phyllo dough",
+      "Brik dough",
+      "Yufka",
+      "Kataifi dough (Kadaif)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Middle Eastern semolina cake soaked in sweet rosewater or orange blossom syrup is garnished with an almond atop each diamond slice?",
+    "options": [
+      "Knafeh",
+      "Basbousa (Revani / Harissa)",
+      "Ma'amoul",
+      "Qatayef"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which delicate Middle Eastern shortbread cookies, stamped in carved wooden molds, are filled with date paste, pistachios, or walnuts during Eid and Easter?",
+    "options": [
+      "Basbousa",
+      "Ghorayeba",
+      "Barazek",
+      "Ma'amoul"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which melt-in-your-mouth Middle Eastern butter cookies, topped with a single clove or pistachio, are made simply of ghee, powdered sugar, and flour?",
+    "options": [
+      "Ma'amoul",
+      "Ghorayeba (Ghraybeh)",
+      "Barazek",
+      "Halva"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which crisp Syrian cookies from Damascus are dipped on one side in toasted sesame seeds and studded on the other with crushed green pistachios?",
+    "options": [
+      "Ghorayeba",
+      "Ma'amoul",
+      "Barazek",
+      "Kleicha"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which small folded Arab yeasted pancakes, stuffed with sweet cheese or spiced nuts and deep-fried, are eaten hot during the month of Ramadan?",
+    "options": [
+      "Qatayef",
+      "Luqaimat",
+      "Zalabiya",
+      "Awameh"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which golden, crispy deep-fried sweet dough dumplings, drenched in date syrup or honey and sprinkled with sesame seeds, are a favorite Emirati treat?",
+    "options": [
+      "Qatayef",
+      "Luqaimat",
+      "Gulab Jamun",
+      "Jalebi"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Ingredients",
+    "q": "Which Indian sweet consists of deep-fried reduced milk solids (khoya) dumplings soaked in a warm sugar syrup scented with rosewater and cardamom?",
+    "options": [
+      "Rasgulla",
+      "Jalebi",
+      "Rasmalai",
+      "Gulab Jamun"
+    ],
+    "answer": 3,
+    "d": 3
+  }
+]

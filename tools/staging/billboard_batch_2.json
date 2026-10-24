@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "Billboard Hits",
+    "q": "Which Stevie Wonder funk classic from the 1972 album 'Talking Book' reached #1 on the Billboard Hot 100 with its distinctive Hohner Clavinet groove?",
+    "options": [
+      "Superstition",
+      "Higher Ground",
+      "Living for the City",
+      "Sir Duke"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was Fleetwood Mac's only #1 single on the US Billboard Hot 100, written and sung by Stevie Nicks for the 1977 album 'Rumours'?",
+    "options": [
+      "Go Your Own Way",
+      "Dreams",
+      "Don't Stop",
+      "Rhiannon"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Fleetwood Mac's blockbuster 1977 album 'Rumours' spent how many non-consecutive weeks at #1 on the Billboard 200?",
+    "options": [
+      "15 weeks",
+      "24 weeks",
+      "31 weeks",
+      "42 weeks"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Elton John ballad, originally released in 1973 as a tribute to Marilyn Monroe, hit #1 on the Billboard Hot 100 in a revised 1997 version for Princess Diana?",
+    "options": [
+      "Rocket Man",
+      "Goodbye Yellow Brick Road",
+      "Tiny Dancer",
+      "Candle in the Wind"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was Elton John's very first #1 single on the Billboard Hot 100, topping the chart in February 1973?",
+    "options": [
+      "Crocodile Rock",
+      "Daniel",
+      "Bennie and the Jets",
+      "Your Song"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which 1971 Don McLean epic topped the Billboard Hot 100 for four weeks and famously lamented 'the day the music died'?",
+    "options": [
+      "Vincent",
+      "American Pie",
+      "Castles in the Air",
+      "And I Love You So"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "In Don McLean's 'American Pie', which tragedy is referenced by the line 'the day the music died'?",
+    "options": [
+      "The assassination of John F. Kennedy",
+      "The breakup of The Beatles",
+      "The 1959 plane crash that killed Buddy Holly, Ritchie Valens, and the Big Bopper",
+      "The Kent State shootings"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Eagles album became the first album certified Platinum by the RIAA and became one of the best-selling albums in US history?",
+    "options": [
+      "Hotel California",
+      "One of These Nights",
+      "Desperado",
+      "Their Greatest Hits (1971–1975)"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Eagles classic reached #1 on the Billboard Hot 100 in May 1977, featuring an extended dual-guitar interplay between Don Felder and Joe Walsh?",
+    "options": [
+      "Hotel California",
+      "New Kid in Town",
+      "Life in the Fast Lane",
+      "One of These Nights"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What song by Queen topped the Billboard Hot 100 in early 1980 after Freddie Mercury wrote it in a bathtub in a rockabilly style?",
+    "options": [
+      "Another One Bites the Dust",
+      "Crazy Little Thing Called Love",
+      "Bohemian Rhapsody",
+      "Killer Queen"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What peak position did Queen's iconic 'Bohemian Rhapsody' reach on the US Billboard Hot 100 during its original 1976 release?",
+    "options": [
+      "#1",
+      "#2",
+      "#9",
+      "#5"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Following its appearance in the 1992 film 'Wayne's World', what peak did Queen's 'Bohemian Rhapsody' reach on the Billboard Hot 100?",
+    "options": [
+      "#1",
+      "#4",
+      "#7",
+      "#2"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which disco trio dominated 1977 and 1978 with six consecutive #1 singles on the Billboard Hot 100, including 'Stayin' Alive'?",
+    "options": [
+      "Bee Gees",
+      "KC and the Sunshine Band",
+      "The Trammps",
+      "Earth, Wind & Fire"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "The soundtrack to which 1977 film spent 24 straight weeks at #1 on the Billboard 200 and won Album of the Year at the Grammys?",
+    "options": [
+      "Grease",
+      "Saturday Night Fever",
+      "Thank God It's Friday",
+      "A Star Is Born"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Bee Gees ballad from 'Saturday Night Fever' spent 17 weeks in the Billboard Hot 100 top 10, a record at the time?",
+    "options": [
+      "Stayin' Alive",
+      "Night Fever",
+      "How Deep Is Your Love",
+      "More Than a Woman"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Who was the youngest Gibb brother who scored three consecutive #1 Billboard Hot 100 hits in 1977 and 1978, including 'I Just Want to Be Your Everything'?",
+    "options": [
+      "Barry Gibb",
+      "Robin Gibb",
+      "Maurice Gibb",
+      "Andy Gibb"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Swedish pop group scored their sole Billboard Hot 100 #1 hit in April 1977 with 'Dancing Queen'?",
+    "options": [
+      "ABBA",
+      "Ace of Base",
+      "Roxette",
+      "Boney M."
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Donna Summer track spent five weeks at #1 on the Billboard Hot 100 in 1979 and featured a rock guitar solo by Jeff 'Skunk' Baxter?",
+    "options": [
+      "Bad Girls",
+      "Hot Stuff",
+      "Last Dance",
+      "Love to Love You Baby"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which album made Donna Summer the first female artist in the modern era to have three multi-week #1 hits from a single double-album?",
+    "options": [
+      "Once Upon a Time",
+      "Live and More",
+      "Bad Girls",
+      "The Wanderer"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Gloria Gaynor disco anthem reached #1 on the Billboard Hot 100 in 1979 and was originally released as the B-side to a cover of 'Substitute'?",
+    "options": [
+      "Never Can Say Goodbye",
+      "Honey Bee",
+      "Reach Out, I'll Be There",
+      "I Will Survive"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Pink Floyd single, featuring a children's choir singing 'We don't need no education', reached #1 on the Hot 100 in 1980?",
+    "options": [
+      "Another Brick in the Wall (Part II)",
+      "Comfortably Numb",
+      "Money",
+      "Wish You Were Here"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What 1973 Pink Floyd album spent a record-breaking 741 consecutive weeks on the Billboard 200 from 1973 to 1988?",
+    "options": [
+      "The Wall",
+      "The Dark Side of the Moon",
+      "Wish You Were Here",
+      "Animals"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Earth, Wind & Fire funk classic hit #1 on both the Billboard Hot 100 and Soul charts simultaneously in May 1975?",
+    "options": [
+      "September",
+      "Boogie Wonderland",
+      "Shining Star",
+      "Sing a Song"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What position did Earth, Wind & Fire's timeless celebratory party anthem 'September' peak at on the Billboard Hot 100 in 1979?",
+    "options": [
+      "#1",
+      "#2",
+      "#5",
+      "#8"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Billy Joel album won the Grammy for Album of the Year and topped the Billboard 200 for eight weeks in late 1978?",
+    "options": [
+      "52nd Street",
+      "The Stranger",
+      "Glass Houses",
+      "Turnstiles"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What 1977 Billy Joel ballad earned him two Grammy Awards and peaked at #3 on the Billboard Hot 100?",
+    "options": [
+      "Piano Man",
+      "Just the Way You Are",
+      "She's Always a Woman",
+      "Scenes from an Italian Restaurant"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Rod Stewart track spent eight straight weeks at #1 on the Billboard Hot 100 in late 1976, becoming the top song of 1977?",
+    "options": [
+      "Maggie May",
+      "Da Ya Think I'm Sexy?",
+      "Tonight's the Night (Gonna Be Alright)",
+      "You're in My Heart"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Rod Stewart breakthrough single reached #1 in October 1971 as a double A-side backed with 'Reason to Believe'?",
+    "options": [
+      "Tonight's the Night",
+      "Stay with Me",
+      "Mandolin Wind",
+      "Maggie May"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Chic hit spent three separate stints at #1 on the Billboard Hot 100 in 1978-1979 and became Atlantic Records' biggest-selling single ever?",
+    "options": [
+      "Le Freak",
+      "Good Times",
+      "I Want Your Love",
+      "Dance, Dance, Dance"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "The iconic bass line played by Bernard Edwards in Chic's 1979 #1 hit 'Good Times' was directly sampled in which groundbreaking rap song?",
+    "options": [
+      "The Message by Grandmaster Flash",
+      "Rapper's Delight by The Sugarhill Gang",
+      "Planet Rock by Afrika Bambaataa",
+      "Push It by Salt-N-Pepa"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which KC and the Sunshine Band dance anthem reached #1 on the Billboard Hot 100 in 1975, repeating the title phrase in the chorus?",
+    "options": [
+      "Get Down Tonight",
+      "(Shake, Shake, Shake) Shake Your Booty",
+      "That's the Way (I Like It)",
+      "Boogie Shoes"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which sibling duo scored their first Billboard Hot 100 #1 in 1970 with '(They Long to Be) Close to You', written by Bacharach and David?",
+    "options": [
+      "Donny & Marie Osmond",
+      "The Osmonds",
+      "The Captain & Tennille",
+      "The Carpenters"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which 1971 Marvin Gaye concept album spent over a year on the Billboard 200 and produced three Top 10 Hot 100 singles?",
+    "options": [
+      "What's Going On",
+      "Let's Get It On",
+      "I Want You",
+      "Here, My Dear"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which seductive 1973 Marvin Gaye single stayed at #1 on the Billboard Hot 100 for two weeks, co-written with Ed Townsend?",
+    "options": [
+      "What's Going On",
+      "Let's Get It On",
+      "Mercy Mercy Me (The Ecology)",
+      "Inner City Blues"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Paul McCartney and Wings album topped the Billboard 200 in three separate runs during 1974?",
+    "options": [
+      "Venus and Mars",
+      "Wings at the Speed of Sound",
+      "Band on the Run",
+      "Red Rose Speedway"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was the biggest Billboard Hot 100 hit of 1976, spending five weeks at #1 for Paul McCartney and Wings?",
+    "options": [
+      "Band on the Run",
+      "My Love",
+      "Listen to What the Man Said",
+      "Silly Love Songs"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Who was the only artist to share lead vocal credit on John Lennon's only Billboard Hot 100 #1 single during his lifetime, 'Whatever Gets You thru the Night'?",
+    "options": [
+      "Elton John",
+      "Paul McCartney",
+      "David Bowie",
+      "Harry Nilsson"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which former Beatle was the first to score a solo Billboard Hot 100 #1 hit, doing so with 'My Sweet Lord' in December 1970?",
+    "options": [
+      "Paul McCartney",
+      "George Harrison",
+      "John Lennon",
+      "Ringo Starr"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "George Harrison's 1970 triple LP that topped the Billboard 200 for seven weeks was titled what?",
+    "options": [
+      "Living in the Material World",
+      "Dark Horse",
+      "All Things Must Pass",
+      "Extra Texture"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What folk ballad by Harry Chapin hit #1 on the Billboard Hot 100 in December 1974, recounting an emotionally distant father and son?",
+    "options": [
+      "Taxi",
+      "W-O-L-D",
+      "30,000 Pounds of Bananas",
+      "Cat's in the Cradle"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which singer-songwriter reached #1 posthumously in early 1974 with 'Time in a Bottle' after his tragic death in an airplane crash?",
+    "options": [
+      "Jim Croce",
+      "Harry Chapin",
+      "Gram Parsons",
+      "Tim Buckley"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was Jim Croce's other Billboard Hot 100 #1 hit, released earlier in 1973, about a south side Chicago tough guy?",
+    "options": [
+      "You Don't Mess Around with Jim",
+      "Bad, Bad Leroy Brown",
+      "Operator (That's Not the Way It Feels)",
+      "I'll Have to Say I Love You in a Song"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Roberta Flack hit spent five weeks at #1 on the Billboard Hot 100 in 1973 and won both Record and Song of the Year?",
+    "options": [
+      "The First Time Ever I Saw Your Face",
+      "Feel Like Makin' Love",
+      "Killing Me Softly with His Song",
+      "Where Is the Love"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Roberta Flack song won Record of the Year in 1972 after spending six weeks at #1 on the Hot 100, featured in Clint Eastwood's 'Play Misty for Me'?",
+    "options": [
+      "Killing Me Softly with His Song",
+      "Feel Like Makin' Love",
+      "The Closer I Get to You",
+      "The First Time Ever I Saw Your Face"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which rock band scored a #5 Hot 100 hit in 1976 with 'More Than a Feeling', from an album that set records for fastest-selling debut in US history?",
+    "options": [
+      "Boston",
+      "Kansas",
+      "Foreigner",
+      "Journey"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Peter Frampton's 1976 breakthrough live double album spent 10 weeks at #1 on the Billboard 200 under what title?",
+    "options": [
+      "Frampton in Concert",
+      "Frampton Comes Alive!",
+      "Show Me the Way Live",
+      "Peter Frampton Live at Winterland"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which sound-altering device did Peter Frampton popularize on his Top 10 hits 'Show Me the Way' and 'Do You Feel Like We Do'?",
+    "options": [
+      "Wah-wah pedal",
+      "Ring modulator",
+      "Talk box",
+      "Octaver"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What hard rock band reached #7 on the Hot 100 in 1976 with the acoustic ballad 'Beth', sung by drummer Peter Criss?",
+    "options": [
+      "Aerosmith",
+      "Alice Cooper",
+      "Cheap Trick",
+      "KISS"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What new wave band fronted by Debbie Harry hit #1 on the Billboard Hot 100 in 1979 with the disco-infused track 'Heart of Glass'?",
+    "options": [
+      "Blondie",
+      "The Pretenders",
+      "Talking Heads",
+      "The Cars"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which power-pop group spent six weeks at #1 on the Billboard Hot 100 in 1979 with 'My Sharona', the year's top-selling single?",
+    "options": [
+      "Cheap Trick",
+      "The Knack",
+      "The Romantics",
+      "The Babys"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Village People dance hit peaked at #2 on the Billboard Hot 100 in early 1979 and became an enduring stadium staple?",
+    "options": [
+      "In the Navy",
+      "Macho Man",
+      "Y.M.C.A.",
+      "Go West"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Carly Simon track topped the Billboard Hot 100 for three weeks in 1973, sparking decades of speculation over its subject?",
+    "options": [
+      "Anticipation",
+      "Nobody Does It Better",
+      "Haven't Got Time for the Pain",
+      "You're So Vain"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Who sang uncredited backing vocals on the chorus of Carly Simon's 1972 hit 'You're So Vain'?",
+    "options": [
+      "Mick Jagger",
+      "Warren Beatty",
+      "James Taylor",
+      "Paul McCartney"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Carole King album topped the Billboard 200 for 15 consecutive weeks in 1971 and remained on the charts for over 300 weeks?",
+    "options": [
+      "Writer",
+      "Tapestry",
+      "Music",
+      "Rhymes & Reasons"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which song was Carole King's double-sided #1 hit from 'Tapestry' that topped the Billboard Hot 100 for five weeks in 1971?",
+    "options": [
+      "You've Got a Friend / So Far Away",
+      "Will You Love Me Tomorrow / Smackwater Jack",
+      "It's Too Late / I Feel the Earth Move",
+      "Natural Woman / Beautiful"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which James Taylor cover of a Carole King composition reached #1 on the Billboard Hot 100 in July 1971?",
+    "options": [
+      "Fire and Rain",
+      "How Sweet It Is (To Be Loved by You)",
+      "Handy Man",
+      "You've Got a Friend"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Neil Young acoustic folk ballad was his only #1 single on the US Billboard Hot 100, reaching the top in 1972?",
+    "options": [
+      "Heart of Gold",
+      "Old Man",
+      "Harvest",
+      "Southern Man"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which folk-rock trio topped the Billboard Hot 100 in 1972 with their debut single 'A Horse with No Name'?",
+    "options": [
+      "Crosby, Stills & Nash",
+      "America",
+      "Seals and Crofts",
+      "Bread"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Al Green classic spent one week at #1 on the Billboard Hot 100 in February 1972, recorded with producer Willie Mitchell at Royal Studios?",
+    "options": [
+      "Love and Happiness",
+      "Tired of Being Alone",
+      "Let's Stay Together",
+      "I'm Still in Love with You"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Bill Withers soul classic topped the Billboard Hot 100 for three weeks in July 1972, inspired by his childhood in a West Virginia coal mining town?",
+    "options": [
+      "Ain't No Sunshine",
+      "Use Me",
+      "Lovely Day",
+      "Lean on Me"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Bill Withers ballad peaked at #3 on the Billboard Hot 100 in 1971, famously repeating the phrase 'I know' 26 consecutive times?",
+    "options": [
+      "Ain't No Sunshine",
+      "Lean on Me",
+      "Grandma's Hands",
+      "Just the Two of Us"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which rock band had an eight-minute epic titled 'Free Bird' reach #19 on the Hot 100, while their anthem 'Sweet Home Alabama' reached #8 in 1974?",
+    "options": [
+      "The Allman Brothers Band",
+      "Lynyrd Skynyrd",
+      "The Marshall Tucker Band",
+      "Molly Hatchet"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which 1973 Aerosmith power ballad became a slow-building sleeper hit, finally peaking at #6 on the Hot 100 in 1976?",
+    "options": [
+      "Walk This Way",
+      "Sweet Emotion",
+      "Dream On",
+      "Mama Kin"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What song by Led Zeppelin from 'Led Zeppelin IV' was never commercially released as a US single but became one of the most played songs in album-rock radio history?",
+    "options": [
+      "Black Dog",
+      "Rock and Roll",
+      "Going to California",
+      "Stairway to Heaven"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was Led Zeppelin's highest-charting single on the US Billboard Hot 100, peaking at #4 in early 1970?",
+    "options": [
+      "Whole Lotta Love",
+      "Immigrant Song",
+      "Black Dog",
+      "D'yer Mak'er"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which singer reached #1 on the Billboard Hot 100 in 1975 with 'Fame', co-written with John Lennon and Carlos Alomar?",
+    "options": [
+      "Iggy Pop",
+      "David Bowie",
+      "Mick Jagger",
+      "Lou Reed"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was David Bowie's second #1 single on the US Billboard Hot 100, topping the chart eight years after 'Fame' in 1983?",
+    "options": [
+      "Modern Love",
+      "China Girl",
+      "Let's Dance",
+      "Golden Years"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which funk ensemble led by George Clinton had a #1 R&B and Top 15 pop hit in 1978 with 'One Nation Under a Groove'?",
+    "options": [
+      "Parliament",
+      "The Ohio Players",
+      "The Commodores",
+      "Funkadelic"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Parliament funk anthem reached #16 on the Billboard Hot 100 in 1976 and featured the subtitle '(Tear the Roof off the Sucker)'?",
+    "options": [
+      "Give Up the Funk",
+      "Flash Light",
+      "P. Funk (Wants to Get Funked Up)",
+      "Mothership Connection"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Lionel Richie-led group topped the Billboard Hot 100 in 1978 with the smooth ballad 'Three Times a Lady'?",
+    "options": [
+      "The Spinners",
+      "The Commodores",
+      "The O'Jays",
+      "The Stylistics"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Commodores funk track peaked at #5 on the Billboard Hot 100 in 1977, celebrating a woman built like a 'brick outhouse'?",
+    "options": [
+      "Easy",
+      "Lady (You Bring Me Up)",
+      "Brick House",
+      "Too Hot ta Trot"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What 1977 ballad by The Commodores peaked at #4 on the Billboard Hot 100 with the opening line 'I know it sounds funny but I just can't stand the pain'?",
+    "options": [
+      "Sail On",
+      "Three Times a Lady",
+      "Still",
+      "Easy"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which John Denver song reached #1 on the Billboard Hot 100 in 1974, inspired by an idyllic ride on a ski lift in Aspen, Colorado?",
+    "options": [
+      "Annie's Song",
+      "Sunshine on My Shoulders",
+      "Thank God I'm a Country Boy",
+      "Take Me Home, Country Roads"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What 1971 John Denver anthem peaked at #2 on the Billboard Hot 100, paying homage to West Virginia's Blue Ridge Mountains?",
+    "options": [
+      "Rocky Mountain High",
+      "Take Me Home, Country Roads",
+      "Annie's Song",
+      "Leaving on a Jet Plane"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Gladys Knight & the Pips classic topped the Billboard Hot 100 in late 1973, describing a train ride departing for the South?",
+    "options": [
+      "Neither One of Us",
+      "Best Thing That Ever Happened to Me",
+      "Midnight Train to Georgia",
+      "I've Got to Use My Imagination"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was the original title of 'Midnight Train to Georgia' before it was altered to suit Gladys Knight?",
+    "options": [
+      "Night Bus to Atlanta",
+      "Morning Train to Dallas",
+      "Last Flight to Memphis",
+      "Midnight Plane to Houston"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Olivia Newton-John ballad topped the Billboard Hot 100 in 1974, winning Grammy Awards for Record of the Year and Best Pop Vocal Performance?",
+    "options": [
+      "I Honestly Love You",
+      "Have You Never Been Mellow",
+      "Hopelessly Devoted to You",
+      "Magic"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which duet by Olivia Newton-John and John Travolta spent one week at #1 on the Billboard Hot 100 in June 1978 from the 'Grease' soundtrack?",
+    "options": [
+      "Summer Nights",
+      "You're the One That I Want",
+      "Hopelessly Devoted to You",
+      "Sandy"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Barry Gibb-written title song for the movie 'Grease' hit #1 on the Billboard Hot 100 in 1978, performed by Frankie Valli?",
+    "options": [
+      "Sandy",
+      "Beauty School Dropout",
+      "Grease",
+      "Born to Hand Jive"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What 1975 Frankie Valli solo single reached #1 on the Billboard Hot 100, featuring a lush orchestral pop arrangement?",
+    "options": [
+      "Swearin' to God",
+      "Can't Take My Eyes Off You",
+      "Our Day Will Come",
+      "My Eyes Adored You"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Four Seasons disco hit topped the Billboard Hot 100 for three weeks in early 1976, celebrating 'late December back in '63'?",
+    "options": [
+      "December, 1963 (Oh, What a Night)",
+      "Who Loves You",
+      "Silver Star",
+      "Rag Doll"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which singer topped the Billboard Hot 100 for three weeks in 1973 with 'The Night the Lights Went Out in Georgia'?",
+    "options": [
+      "Cher",
+      "Vicki Lawrence",
+      "Tanya Tucker",
+      "Lulu"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Cher single topped the Billboard Hot 100 in 1973, telling the story of a girl whose parents 'called the local preacher'?",
+    "options": [
+      "Gypsys, Tramps & Thieves",
+      "Dark Lady",
+      "Half-Breed",
+      "The Way of Love"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What was Cher's very first solo #1 single on the US Billboard Hot 100, topping the chart in November 1971?",
+    "options": [
+      "Half-Breed",
+      "Dark Lady",
+      "Bang Bang (My Baby Shot Me Down)",
+      "Gypsys, Tramps & Thieves"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Tony Orlando and Dawn pop smash was the Billboard Year-End #1 single of 1973, urging someone to tie a yellow ribbon?",
+    "options": [
+      "Tie a Yellow Ribbon Round the Ole Oak Tree",
+      "Candida",
+      "Knock Three Times",
+      "He Don't Love You (Like I Love You)"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Barry Manilow romantic ballad was his first #1 single on the Billboard Hot 100, topping the chart in January 1975?",
+    "options": [
+      "I Write the Songs",
+      "Mandy",
+      "Copacabana",
+      "Can't Smile Without You"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Who wrote Barry Manilow's 1976 Billboard Hot 100 #1 hit 'I Write the Songs'?",
+    "options": [
+      "Barry Manilow",
+      "Paul Williams",
+      "Bruce Johnston of The Beach Boys",
+      "Neil Sedaka"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Captain & Tennille cover of a Neil Sedaka song spent four weeks at #1 and was the Billboard Year-End #1 single of 1975?",
+    "options": [
+      "Do That to Me One More Time",
+      "Muskrat Love",
+      "The Way I Want to Touch You",
+      "Love Will Keep Us Together"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What 1976 hit by Wild Cherry reached #1 on both the Hot 100 and R&B charts, inspired by a crowd demanding dance music?",
+    "options": [
+      "Play That Funky Music",
+      "Disco Duck",
+      "The Rubberband Man",
+      "Boogie Fever"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which rock band hit #1 on the Billboard Hot 100 in 1973 with 'Frankenstein', an instrumental featuring an ARP 2600 synthesizer?",
+    "options": [
+      "The Alan Parsons Project",
+      "The Edgar Winter Group",
+      "Focus",
+      "Emerson, Lake & Palmer"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which 1973 soft rock classic by Seals and Crofts reached #6 on the Billboard Hot 100, featuring the opening line 'Summer breeze, makes me feel fine'?",
+    "options": [
+      "Diamond Girl",
+      "Get Closer",
+      "Summer Breeze",
+      "We May Never Pass This Way Again"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Boz Scaggs single from his 1976 album 'Silk Degrees' peaked at #3 on the Billboard Hot 100 and won a Grammy for Best R&B Song?",
+    "options": [
+      "Lido Shuffle",
+      "We're All Alone",
+      "What Can I Say",
+      "Lowdown"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which band members who played on Boz Scaggs' 'Silk Degrees' went on to form the hit-making group Toto in 1977?",
+    "options": [
+      "Jeff Porcaro and David Paich",
+      "Donald Fagen and Walter Becker",
+      "Steve Lukather and Michael McDonald",
+      "Kenny Loggins and Jim Messina"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Steely Dan song peaked at #4 on the Billboard Hot 100 in 1974, becoming their highest-charting single of all time?",
+    "options": [
+      "Do It Again",
+      "Rikki Don't Lose That Number",
+      "Peg",
+      "Hey Nineteen"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Steely Dan album peaked at #3 on the Billboard 200 in 1977 and featured jazz luminaries Wayne Shorter and Larry Carlton?",
+    "options": [
+      "Pretzel Logic",
+      "Gaucho",
+      "Aja",
+      "Can't Buy a Thrill"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Foreigner hard rock ballad reached #4 on the Billboard Hot 100 in 1977, taken from their self-titled debut album?",
+    "options": [
+      "Cold as Ice",
+      "Double Vision",
+      "Hot Blooded",
+      "Feels Like the First Time"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Foreigner single reached #2 on the Billboard Hot 100 for five weeks in 1981, held back from #1 by Olivia Newton-John's 'Physical'?",
+    "options": [
+      "Waiting for a Girl Like You",
+      "Urgent",
+      "I Want to Know What Love Is",
+      "Juke Box Hero"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which 1976 hit single by Kansas peaked at #11, while their 1977 acoustic-led philosophical anthem 'Dust in the Wind' reached #6 on the Hot 100?",
+    "options": [
+      "Carry On Wayward Son",
+      "Dust in the Wind",
+      "Point of Know Return",
+      "Hold On"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "Which Sister Sledge anthem, written and produced by Nile Rodgers and Bernard Edwards, peaked at #2 on the Billboard Hot 100 in 1979?",
+    "options": [
+      "He's the Greatest Dancer",
+      "Lost in Music",
+      "We Are Family",
+      "Thinking of You"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "Billboard Hits",
+    "q": "What Donna Summer ballad featuring Barbra Streisand reached #1 on the Billboard Hot 100 for two weeks in late 1979?",
+    "options": [
+      "The Main Event/Fight",
+      "Evergreen",
+      "Tell Him",
+      "No More Tears (Enough Is Enough)"
+    ],
+    "answer": 3,
+    "d": 3
+  }
+]

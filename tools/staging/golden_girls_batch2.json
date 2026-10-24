@@ -1,0 +1,1202 @@
+[
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 5 episode '72 Hours', why must Rose undergo an urgent medical test?",
+    "options": [
+      "She received a transfusion that may have been contaminated with HIV",
+      "She was exposed to tuberculosis at the hospital",
+      "She had an abnormal mammogram result",
+      "She was bitten by a rabid stray dog"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'High Anxiety', what substance has Rose been secretly addicted to for thirty years?",
+    "options": [
+      "Diet pills",
+      "Prescription pain pills and tranquilizers",
+      "Sleeping syrups",
+      "Alcohol"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the classic Season 1 episode 'A Little Romance', what surprises the girls about Rose's handsome date Dr. Jonathan Newman?",
+    "options": [
+      "He is half her age",
+      "He is an escaped felon",
+      "He is a little person",
+      "He cannot speak English"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 2 episode 'Isn't It Romantic?', which of the roommates does Dorothy's lesbian friend Jean fall in love with?",
+    "options": [
+      "Blanche",
+      "Dorothy",
+      "Sophia",
+      "Rose"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What happens when mean neighbor Mrs. Frieda Claxton refuses to save an ancient oak tree and Rose yells at her at a city council meeting?",
+    "options": [
+      "Mrs. Claxton drops dead on the spot",
+      "Mrs. Claxton slaps Rose across the face",
+      "Mrs. Claxton donates the property to the church",
+      "Mrs. Claxton sues Rose for slander"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why do the girls attend Mrs. Claxton's funeral when none of her family or neighbors show up?",
+    "options": [
+      "Out of Christian guilt and shame",
+      "To fulfill a legal requirement to secure land for a public park",
+      "Because Sophia mistook it for an Italian wake",
+      "To retrieve a borrowed gardening rake"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the touching Season 3 episode 'Old Friends', what condition affects Sophia's new boardwalk friend Alvin?",
+    "options": [
+      "Parkinson's disease",
+      "Terminal lung cancer",
+      "Alzheimer's disease",
+      "Macular degeneration"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 7 two-part murder mystery weekend episode 'The Case of the Libertine Belle', who is framed for real murder?",
+    "options": [
+      "Dorothy",
+      "Rose",
+      "Sophia",
+      "Blanche"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Case of the Libertine Belle', which roommate channels her inner detective to solve the real murder and clear Blanche?",
+    "options": [
+      "Dorothy",
+      "Rose",
+      "Sophia",
+      "Blanche"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What was the name of the abusive, condescending fiancé Blanche's daughter Rebecca brought home in Season 3?",
+    "options": [
+      "Bradley",
+      "Jeremy",
+      "Trevor",
+      "Todd"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 6's 'My Brother, My Father', what do Dorothy and Stan pretend to be to fool visiting Uncle Angelo?",
+    "options": [
+      "Wealthy real estate tycoons",
+      "Devout church deacons",
+      "Still happily married",
+      "Professional ballroom dancers"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What holy persona does Sophia adopt in 'My Brother, My Father' when Uncle Angelo arrives?",
+    "options": [
+      "A missionary nurse from Africa",
+      "A cloistered mother superior",
+      "A parish choir director",
+      "A Catholic nun who took a vow of poverty"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What valuable object does Sophia claim to have hidden in her wicker purse when mugged?",
+    "options": [
+      "Her emergency cannoli and family rosary",
+      "A solid gold crucifix",
+      "A bearer bond from 1954",
+      "A diamond engagement ring"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 2, after a home break-in, the girls purchase a mace can and a handgun. What does Rose accidentally shoot?",
+    "options": [
+      "The living room television",
+      "Blanche's prized antique vase",
+      "The kitchen refrigerator",
+      "Stan's toupee on the hat rack"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What guard dog breed do the girls briefly adopt for home security after the robbery, only to find it completely docile?",
+    "options": [
+      "A German Shepherd",
+      "A Rottweiler",
+      "A Doberman Pinscher",
+      "A Bullmastiff"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What name does Rose give to the supposedly terrifying guard dog they adopt?",
+    "options": [
+      "Killer",
+      "Fang",
+      "Hercules",
+      "Baby"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 2's 'The Actor', what is the name of the handsome community theater lead who secretly seduces all three women?",
+    "options": [
+      "Patrick Vaughn",
+      "Julian Drake",
+      "Harrison Stone",
+      "Derek Richardson"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What local theater production is Patrick Vaughn starring in when the girls compete for the female lead?",
+    "options": [
+      "A Streetcar Named Desire",
+      "The Postman Always Rings Twice",
+      "Cat on a Hot Tin Roof",
+      "Death of a Salesman"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Housekeeper', what spiritual practice does housekeeper Marguerite allegedly use against the roommates?",
+    "options": [
+      "Wiccan witchcraft",
+      "Astrological hexes",
+      "Santería voodoo curses",
+      "Gypsy spells"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What physical symptom causes the girls to panic and believe Marguerite's curse is working?",
+    "options": [
+      "Rose losing her voice completely",
+      "Sophia getting locked in the pantry",
+      "All the house lights flickering",
+      "Dorothy's toothache and Blanche's unexplained spots"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 5's 'Love Under the Big Top', what profession does Dorothy's lawyer boyfriend Ken decide to pursue instead?",
+    "options": [
+      "Circus clown",
+      "Trapeze artist",
+      "Lion tamer",
+      "Magician"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What legendary comedy actor played Ken, Dorothy's clown-turned lawyer boyfriend?",
+    "options": [
+      "Carl Reiner",
+      "Dick Van Dyke",
+      "Tim Conway",
+      "Bob Newhart"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 4's 'Brother, Can You Spare That Jacket?', what valuable item is accidentally donated inside an old jacket to a thrift store?",
+    "options": [
+      "A diamond tennis bracelet",
+      "Five thousand dollars in cash",
+      "A winning lottery ticket",
+      "Blanche's deed to the house"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Where do the girls end up spending the night while searching for the donated jacket with the lottery ticket?",
+    "options": [
+      "A Miami police precinct cell",
+      "A bus terminal waiting room",
+      "An all-night laundromat",
+      "A homeless shelter"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What do the girls decide to do after retrieving the winning ticket at the homeless shelter?",
+    "options": [
+      "They donate the entire prize money to the shelter",
+      "They buy a brand-new roof for their house",
+      "They split the cash four ways",
+      "They take a luxury cruise to the Bahamas"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 7 episode 'Questions and Answers', what iconic TV game show does Dorothy audition for in her dream?",
+    "options": [
+      "Wheel of Fortune",
+      "Jeopardy!",
+      "The $25,000 Pyramid",
+      "Tic-Tac-Dough"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Who hosts the game show in Dorothy's dream audition on 'Jeopardy!'?",
+    "options": [
+      "Art Fleming",
+      "Pat Sajak",
+      "Alex Trebek",
+      "Bob Barker"
+    ],
+    "answer": 2,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What talk show icon and Jeopardy! creator appears in Dorothy's dream to declare Rose a genius?",
+    "options": [
+      "Dick Cavett",
+      "Johnny Carson",
+      "Mike Douglas",
+      "Merv Griffin"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the Season 1 episode 'The Heart Attack', who experiences severe chest pains during an intense late-night storm?",
+    "options": [
+      "Sophia",
+      "Dorothy",
+      "Rose",
+      "Blanche"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Operation' (Season 1), what procedure does Dorothy require that terrifies her due to a childhood phobia?",
+    "options": [
+      "Cataract surgery",
+      "Foot surgery",
+      "Tonsillectomy",
+      "Appendectomy"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What dance do Dorothy and Rose practice to perform at an upcoming charity banquet in 'The Operation'?",
+    "options": [
+      "A waltz",
+      "A tango",
+      "A tap-dance routine",
+      "A polka"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 4's 'Yes, We Have No Havanas', what dashing Cuban widower do Sophia and Blanche both compete to date?",
+    "options": [
+      "Mateo Alvarez",
+      "Eduardo Morales",
+      "Alejandro Cruz",
+      "Fidel Santiago"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Competition' (Season 1), what sport do Dorothy and Blanche play against each other where Blanche cheats?",
+    "options": [
+      "Bowling",
+      "Tennis",
+      "Golf",
+      "Racquetball"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What bet did Dorothy and Blanche make on the outcome of their bowling match?",
+    "options": [
+      "The loser must pay a month of rent",
+      "The loser must wait on the winner hand and foot for a week",
+      "The loser must clean all the bathrooms",
+      "The loser must dye her hair gray"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Flu' (Season 1), all the women come down with the flu right before attending what major event?",
+    "options": [
+      "A governor's charity ball",
+      "A high school reunion",
+      "The South Florida Medical Society awards banquet",
+      "A local premiere of an opera"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Break-In' (Season 1), where were the girls when their house was burglarized?",
+    "options": [
+      "At a church bingo game",
+      "At an all-you-can-eat seafood buffet",
+      "At an art gallery reception",
+      "At a drive-in movie theater seeing 'Psycho'"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'In a Bed of Rose's' (Season 1), what tragic event occurs when Rose spends the night with her new boyfriend Al?",
+    "options": [
+      "He dies in Rose's bed during the night",
+      "He steals her mother's heirloom necklace",
+      "He turns out to be Stan's cousin",
+      "He reveals he is married to Dorothy's principal"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Nice and Easy' (Season 1), who visits Blanche and quickly drives the roommates crazy with her promiscuity?",
+    "options": [
+      "Blanche's niece Cindy",
+      "Blanche's niece Lucy",
+      "Blanche's cousin Melanie",
+      "Blanche's stepdaughter Brenda"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Blind Ambitions' (Season 1), who visits Rose and reveals she has suddenly become blind?",
+    "options": [
+      "Rose's daughter Kirsten",
+      "Rose's aunt Sigrid",
+      "Rose's sister Lily",
+      "Rose's cousin Ingrid"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'A Visit From Little Sven' (Season 3), who comes from St. Olaf and falls for Blanche?",
+    "options": [
+      "Rose's nephew Lars",
+      "Rose's brother Hans",
+      "Rose's childhood sweetheart Ole",
+      "Rose's cousin Sven"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Second Motherhood' (Season 1), what man does Blanche date who expects her to help raise his young children?",
+    "options": [
+      "Dirk",
+      "Jerry",
+      "Frank",
+      "David"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Family Affair' (Season 2), which two family members are caught in bed together, horrifying Dorothy and Blanche?",
+    "options": [
+      "Stan and Blanche's sister Virginia",
+      "Dorothy's son Michael and Blanche's daughter Bridget",
+      "Uncle Angelo and Aunt Angela",
+      "Michael and Blanche's niece Lucy"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Take Him, He's Mine' (Season 2), why does Dorothy spend time with Stan, causing tension with Blanche?",
+    "options": [
+      "Stan offers to buy Dorothy a brand-new condo",
+      "Stan needs a bone marrow donor",
+      "Stan is depressed over Chrissy leaving him",
+      "Stan asks Dorothy to co-sign a loan"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 2's 'It's a Miserable Life', what town relic do the girls fight Mrs. Claxton to preserve?",
+    "options": [
+      "A historic cobblestone fountain",
+      "The city's first post office",
+      "A memorial statue of a civil war general",
+      "A 200-year-old oak tree"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Whose Face Is This, Anyway?' (Season 6), what cosmetic procedure does Blanche consider undergoing?",
+    "options": [
+      "Plastic surgery / a face-lift",
+      "Liposuction",
+      "Rhinoplasty",
+      "Hair transplant"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Miles to Go' (Season 6), what is the profession of Nicholas Carbone (Miles Webber) in his past life?",
+    "options": [
+      "A hitman for the Gambino family",
+      "An accountant for the Chicago mob",
+      "A corrupt federal judge",
+      "A getaway driver for bank robberies"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Where must Rose travel to visit Miles while he is temporarily relocated into witness protection?",
+    "options": [
+      "A remote cabin in Alaska",
+      "A desert town in New Mexico",
+      "A cheese farm in Pennsylvania / Amish country",
+      "A motel in North Dakota"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is the name of the younger, athletic fitness instructor Blanche dates in Season 3's 'In a Nutshell'?",
+    "options": [
+      "Brad",
+      "Troy",
+      "Brett",
+      "Dirk"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How much younger is Dirk than Blanche, leading Blanche to realize she cannot keep up with him?",
+    "options": [
+      "Nearly twenty years younger",
+      "Five years younger",
+      "Ten years younger",
+      "Thirty years younger"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 6's 'There Goes the Bride', who does Dorothy almost remarry before walking away at the altar?",
+    "options": [
+      "Miles Webber",
+      "Stan Zbornak",
+      "Glen O'Brien",
+      "Lucas Hollingsworth"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What document does Stan demand Dorothy sign right before their planned second wedding, prompting her to call it off?",
+    "options": [
+      "A life insurance policy",
+      "A deed transfer for her mother's house",
+      "A prenuptial agreement",
+      "A waiver for alimony"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The President's Coming! The President's Coming!' (Season 5), which U.S. President is scheduled to visit Miami and meet the girls?",
+    "options": [
+      "Ronald Reagan",
+      "Bill Clinton",
+      "Jimmy Carter",
+      "George H.W. Bush"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Which future Oscar-winning director made an uncredited appearance as an Elvis impersonator in 'Sophia's Wedding'?",
+    "options": [
+      "Quentin Tarantino",
+      "Steven Spielberg",
+      "James Cameron",
+      "Ron Howard"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The One That Got Away' (Season 4), Blanche is eager to reunite with Ham Lushbough, but is shocked to discover what?",
+    "options": [
+      "He has become a Catholic monk",
+      "He has gained enormous weight and let himself go",
+      "He has gone completely deaf",
+      "He has lost all his fortune"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Artist' (Season 3), what famous European artist invites the girls to pose for him in his studio?",
+    "options": [
+      "Marcel",
+      "Jean-Pierre",
+      "Laszlo",
+      "Marco"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What do Blanche, Dorothy, and Rose discover when they arrive at Laszlo's studio to pose for him?",
+    "options": [
+      "He only paints still-life bowls of fruit",
+      "He wants them to scrub his kitchen floors",
+      "He has hired a police sketch artist",
+      "He expects them to pose completely nude"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Days and Nights of Sophia Petrillo' (Season 4), what does Sophia actually do all day while the girls assume she is napping?",
+    "options": [
+      "She volunteers at a hospital, shops for groceries, and plays in an orchestra",
+      "She goes to the dog track and places bets",
+      "She visits her secret second apartment in Miami Beach",
+      "She runs an illegal bingo game in the park"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'An Illegitimate Concern' (Season 5), what does Blanche discover about George Devereaux's past?",
+    "options": [
+      "He had an annulled marriage in high school",
+      "He fathered a son out of wedlock named David",
+      "He secretly worked for the CIA in Cuba",
+      "He was disinherited by his wealthy parents"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'All Bets Are Off' (Season 5), what vice does Dorothy struggle with after accompanying Sophia to the race track?",
+    "options": [
+      "Chain-smoking cigarettes",
+      "Binge drinking martinis",
+      "Compulsive gambling",
+      "Shoplifting designer scarves"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Allies' (Season 5), Dorothy's student tries to bribe her with concert tickets for what rock band?",
+    "options": [
+      "Led Zeppelin",
+      "The Who",
+      "Aerosmith",
+      "The Rolling Stones"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Cheaters' (Season 5), where do Blanche and Sophia get arrested during a raid on an illicit establishment?",
+    "options": [
+      "An illegal gambling club",
+      "A counterfeit purse warehouse",
+      "An underground drag parlor",
+      "An unlicensed bingo hall"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Like the Beickets of the Field' (Season 5), what glamorous hobby does Blanche take up to boost her self-esteem?",
+    "options": [
+      "Ballroom dancing",
+      "High-fashion modeling",
+      "French gourmet cooking",
+      "Equestrian horse jumping"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Ebb Tide' (Season 5), Blanche returns to Georgia for Big Daddy's funeral and clashes with Virginia over what item?",
+    "options": [
+      "His antique pocket watch",
+      "His plantation burial plot",
+      "Big Daddy's estate and personal possessions",
+      "His prize-winning hunting rifle"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Snap Out of It' (Season 6), what condition does Sophia suffer from that causes Dorothy immense worry?",
+    "options": [
+      "Temporary amnesia",
+      "Acute appendicitis",
+      "Severe hearing loss",
+      "Severe clinical depression"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Wham, Bam, Thank You, Mammy' (Season 6), what song does Blanche sing with her former nanny Viola Watkins?",
+    "options": [
+      "I Wanna Be Loved by You",
+      "Dixie",
+      "Moon River",
+      "Amazing Grace"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'How Do You Solve a Problem Like Sophia?' (Season 6), what institution does Sophia decide to enter after her friend passes away?",
+    "options": [
+      "A monastery in Vermont",
+      "A convent to become a nun",
+      "A full-time silent retreat",
+      "A culinary institute in Rome"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Mrs. George Devereaux' (Season 6), what shocking event apparently happens to Blanche's deceased husband George?",
+    "options": [
+      "His body is exhumed for a murder investigation",
+      "His secret twin brother arrives to claim his estate",
+      "He appears at her front door, having faked his death for nine years",
+      "His voice is heard through a psychic channeler"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What is revealed at the end of the emotional episode 'Mrs. George Devereaux'?",
+    "options": [
+      "George was actually an impostor named Frank",
+      "George had lost his memory in Europe",
+      "George was in the federal witness protection program",
+      "The entire return of George was only a vivid dream Blanche had"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'What a Difference a Date Makes' (Season 6), what does Dorothy wear to meet John Neretti, the man who stood her up in high school?",
+    "options": [
+      "A replica of her original prom dress",
+      "A black leather jacket and jeans",
+      "A glamorous sequined evening gown",
+      "Her high school graduation robe"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What actor played Dorothy's long-lost high school prom date John Neretti?",
+    "options": [
+      "Alan Alda",
+      "Hal Linden",
+      "Gene Saks",
+      "Peter Falk"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Stand by Your Man' (Season 6), what physical condition does Blanche's wealthy new suitor Ted have?",
+    "options": [
+      "He is completely blind",
+      "He is hard of hearing",
+      "He uses a wheelchair",
+      "He walks with two canes"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Never Yell Fire in a Crowded Retirement Home' (Season 6), who is accused of deliberately starting the Shady Pines fire?",
+    "options": [
+      "Stan",
+      "Dorothy",
+      "Uncle Angelo",
+      "Sophia"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What appliance was Sophia supposedly using that was blamed for sparking the Shady Pines fire?",
+    "options": [
+      "An illegal hot plate in her room",
+      "A faulty electric toaster",
+      "A space heater",
+      "A curling iron left plugged in"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Witness' (Season 6), what does Miles Webber buy for Rose that makes her suspicious he is hiding something?",
+    "options": [
+      "A five-carat diamond ring",
+      "An expensive new car with cash",
+      "A vacation home in the Keys",
+      "A luxury mink coat"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Ro$e Love$ Mile$' (Season 6), what cheapskate habit of Miles frustrates Rose when they go out on dates?",
+    "options": [
+      "He makes her split the bill down to the penny",
+      "He sneaks food out of restaurants in napkins",
+      "He uses expired coupons and takes her to budget buffets",
+      "He refuses to tip the waitstaff"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Pope's Ring' (Season 6), what heirloom does Sophia acquire from a visiting relative that causes high drama?",
+    "options": [
+      "A crucifix made from the True Cross",
+      "A rosary carved by St. Francis",
+      "A chalice used in the Vatican",
+      "A ring blessed by the Pope"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Commitments' (Season 7), who takes Dorothy on a date to a rock-and-roll concert?",
+    "options": [
+      "A Beatles tribute band promoter named Frank",
+      "An aging motorcycle enthusiast",
+      "A high school gym teacher",
+      "A radio disk jockey"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Beauty and the Beast' (Season 7), what does Blanche hire a hunky handyman to do around the house?",
+    "options": [
+      "Paint the entire exterior white",
+      "Install a hot tub on the lanai",
+      "Build a walk-in shoe closet",
+      "Repair the kitchen cabinets"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Room 7' (Season 7), Blanche visits her childhood home Twin Oaks and is devastated to discover what plan?",
+    "options": [
+      "It has been converted into a pig farm",
+      "It was seized by the federal tax authorities",
+      "The house is scheduled to be demolished to build a retail development",
+      "It was purchased by a northern textile company"
+    ],
+    "answer": 2,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'From Here to the Pharmacy' (Season 7), what returning soldier from the Gulf War catches Blanche's eye?",
+    "options": [
+      "An army captain named Steve",
+      "A naval aviator named Brad",
+      "An air force pilot named Tom",
+      "A handsome marine named Bill"
+    ],
+    "answer": 3,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Men in Our Lives' (Season 7), who is the legendary baseball player Rose claims stayed with her family in Minnesota?",
+    "options": [
+      "Ted Williams",
+      "Babe Ruth",
+      "Joe DiMaggio",
+      "Mickey Mantle"
+    ],
+    "answer": 0,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Home Again, Rose' (Season 7 two-parter), what life-threatening medical emergency does Rose suffer?",
+    "options": [
+      "A ruptured brain aneurysm",
+      "A massive heart attack requiring triple bypass surgery",
+      "Severe kidney failure",
+      "A ruptured appendix"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "During Rose's heart surgery in 'Home Again, Rose', who initially bars Dorothy, Blanche, and Sophia from visiting Rose in ICU?",
+    "options": [
+      "A strict head nurse who enforces blood-relative rules",
+      "The hospital administrator",
+      "Rose's estranged, hostile daughter Kirsten",
+      "Rose's boyfriend Miles"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What blistering speech does Dorothy give to Kirsten outside Rose's intensive care hospital room?",
+    "options": [
+      "She demands Kirsten repay Charlie's funeral expenses",
+      "She threatens to have Kirsten banned from Florida",
+      "She reveals Rose wrote Kirsten out of her will",
+      "She explains that the roommates are Rose's true daily family through thick and thin"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the series finale 'One Flew Out of the Cuckoo's Nest', who does Blanche set Dorothy up with on a blind date as a joke?",
+    "options": [
+      "Blanche's wealthy uncle Lucas Hollingsworth",
+      "Blanche's eccentric cousin Billy",
+      "Stan's former divorce lawyer",
+      "A country-western singer named Bobby"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What acclaimed comic movie actor portrayed Blanche's uncle Lucas Hollingsworth in the series finale?",
+    "options": [
+      "Lloyd Bridges",
+      "Leslie Nielsen",
+      "Jack Lemmon",
+      "Walter Matthau"
+    ],
+    "answer": 1,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How do Dorothy and Lucas initially react to Blanche setting them up on a blind date?",
+    "options": [
+      "They get into a shouting match at the restaurant",
+      "Dorothy dumps a drink on Lucas's head",
+      "They pretend to be madly in love to play an elaborate prank on Blanche",
+      "Lucas abandons Dorothy at a gas station"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What happens while Dorothy and Lucas are pretending to be engaged to prank Blanche?",
+    "options": [
+      "Stan finds out and challenges Lucas to a duel",
+      "Lucas reveals he is penniless and living in his car",
+      "Dorothy discovers Lucas is secretly married",
+      "They realize they have genuinely fallen deeply in love with each other"
+    ],
+    "answer": 3,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Where does Dorothy move with her new husband Lucas after their wedding in the series finale?",
+    "options": [
+      "Atlanta, Georgia",
+      "Savannah, Georgia",
+      "Charleston, South Carolina",
+      "New York City"
+    ],
+    "answer": 0,
+    "d": 1
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "Why does Sophia decide not to move to Atlanta with Dorothy and Lucas at the end of the series finale?",
+    "options": [
+      "She hates the climate in Atlanta",
+      "She realizes Blanche and Rose still need her, and she wants Dorothy to have her own life",
+      "Stan buys her a luxury condo in Miami Beach",
+      "She decides to move back to Sicily with Angela"
+    ],
+    "answer": 1,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In the final scene of the series finale, how many times does Dorothy come back into the house to hug her friends before finally leaving?",
+    "options": [
+      "Once",
+      "Five times",
+      "Three times",
+      "Twice"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What iconic final words does Dorothy say through tears to Rose, Blanche, and Sophia in the finale's final embrace?",
+    "options": [
+      "'Thank you for being my friends.'",
+      "'I will love you forever and ever.'",
+      "'Don't you dare eat cheesecake without me.'",
+      "'You'll always be my sisters. Always.'"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 3's 'Three on a Couch', why do the four women see a professional psychologist together?",
+    "options": [
+      "Nonstop bickering and household friction threaten to tear them apart",
+      "To get certified as foster parents",
+      "To prepare for a joint appearance on a television talk show",
+      "Because Blanche believes the house is haunted"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "What therapist helps the women resolve their conflicts in 'Three on a Couch'?",
+    "options": [
+      "Dr. Freud",
+      "Dr. Ashley",
+      "Dr. Miller",
+      "Dr. Stone"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In Season 4's 'The Auction', what do the girls buy at an estate auction hoping it will be worth a fortune?",
+    "options": [
+      "A vintage mahogany wardrobe",
+      "A silver tea service from the 1800s",
+      "A painting by a famous artist",
+      "A rare stamp collection"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Accurate Conception' (Season 5), what does Blanche's daughter Rebecca announce she is doing to have a baby?",
+    "options": [
+      "Adopting a child from an overseas agency",
+      "Hiring a surrogate mother in California",
+      "Marrying a wealthy older aristocrat",
+      "Undergoing artificial insemination at a fertility clinic"
+    ],
+    "answer": 3,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "How does Blanche initially react to Rebecca's plan to have a baby via artificial insemination?",
+    "options": [
+      "She is horrified and considers it scandalous and unnatural",
+      "She offers to pay for the entire procedure",
+      "She organizes a baby shower immediately",
+      "She suggests adopting Dorothy's grandson instead"
+    ],
+    "answer": 0,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'Yokel Hero' (Season 4), what exaggerated claim does Rose make in an application that wins St. Olaf's Woman of the Year?",
+    "options": [
+      "She caught a runaway bull with her bare hands",
+      "She saved the town from a devastating flood by sticking her arm in a dam",
+      "She personally cured a town epidemic with herbal tea",
+      "She milked 500 cows in a single afternoon"
+    ],
+    "answer": 1,
+    "d": 3
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Audit' (Season 3), what agency investigates Dorothy and Stan's past joint finances?",
+    "options": [
+      "The Florida Department of Revenue",
+      "The FBI Fraud Bureau",
+      "The Internal Revenue Service (IRS)",
+      "The Miami Municipal Court"
+    ],
+    "answer": 2,
+    "d": 2
+  },
+  {
+    "show": "The Golden Girls",
+    "q": "In 'The Audit', what bizarre deduction did Stan claim on their taxes that triggers the audit?",
+    "options": [
+      "Tuition for a clown college in France",
+      "Hairpiece maintenance fees as medical expenses",
+      "Church tithes paid in lottery scratchers",
+      "Novelty gag gifts and an offshore pleasure yacht as business expenses"
+    ],
+    "answer": 3,
+    "d": 3
+  }
+]
