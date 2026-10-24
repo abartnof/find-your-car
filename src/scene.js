@@ -166,6 +166,23 @@ const moonTex = () => pixelCanvas(24, 24, (x) => {
   x.globalCompositeOperation = 'destination-out'; x.beginPath(); x.arc(16, 9, 7.5, 0, 7); x.fill();
 });
 
+let blobShadowCached = null;
+function blobShadowTex() {
+  if (blobShadowCached) return blobShadowCached;
+  const c = document.createElement('canvas');
+  c.width = c.height = 128;
+  const ctx = c.getContext('2d');
+  const g = ctx.createRadialGradient(64, 64, 0, 64, 64, 64);
+  g.addColorStop(0, 'rgba(0, 0, 0, 0.75)');
+  g.addColorStop(0.35, 'rgba(0, 0, 0, 0.45)');
+  g.addColorStop(0.7, 'rgba(0, 0, 0, 0.15)');
+  g.addColorStop(1, 'rgba(0, 0, 0, 0)');
+  ctx.fillStyle = g;
+  ctx.fillRect(0, 0, 128, 128);
+  const t = new THREE.CanvasTexture(c);
+  return (blobShadowCached = t);
+}
+
 class Sky {
   constructor(scene) {
     this.layers = [];
@@ -246,8 +263,10 @@ export class Lot {
     this.time = 0; this.shake = 0;
     this.camPos = new THREE.Vector3(); this.camLook = new THREE.Vector3();
     this.buildWorld();
+    this.initPreview();
     this.resize();
     addEventListener('resize', () => this.resize());
+    if (typeof ResizeObserver !== 'undefined') new ResizeObserver(() => this.resize()).observe(this.canvas);
     this.loop = this.loop.bind(this);
   }
 
@@ -367,6 +386,107 @@ export class Lot {
     }
   }
 
+  initPreview() {
+    // Character preview scene (left)
+    this.previewCharScene = new THREE.Scene();
+    this.previewCharScene.background = new THREE.Color(0x16151a);
+    this.previewCharCam = new THREE.PerspectiveCamera(38, 1, 0.1, 50);
+    this.previewCharCam.position.set(0, 0.95, 2.8);
+    this.previewCharCam.lookAt(0, 0.85, 0);
+
+    const charHemi = new THREE.HemisphereLight(0xffffff, 0x444455, 1.8);
+    this.previewCharScene.add(charHemi);
+    const charSun = new THREE.DirectionalLight(0xfff5ea, 2.2);
+    charSun.position.set(4, 8, 6);
+    this.previewCharScene.add(charSun);
+    const charFill = new THREE.DirectionalLight(0x8a9abb, 0.8);
+    charFill.position.set(-5, 4, -4);
+    this.previewCharScene.add(charFill);
+
+    this.previewCharTurntable = new THREE.Group();
+    this.previewCharScene.add(this.previewCharTurntable);
+
+    // Ground blob shadow for character
+    const charShadowMat = new THREE.MeshBasicMaterial({
+      map: blobShadowTex(),
+      transparent: true,
+      opacity: 0.65,
+      depthWrite: false,
+    });
+    this.previewCharShadow = new THREE.Mesh(new THREE.PlaneGeometry(1.2, 1.2), charShadowMat);
+    this.previewCharShadow.rotation.x = -Math.PI / 2;
+    this.previewCharShadow.position.y = 0.005;
+    this.previewCharTurntable.add(this.previewCharShadow);
+
+    // Car preview scene (right)
+    this.previewCarScene = new THREE.Scene();
+    this.previewCarScene.background = new THREE.Color(0x16151a);
+    this.previewCarCam = new THREE.PerspectiveCamera(36, 1, 0.1, 50);
+    this.previewCarCam.position.set(0, 2.5, 5.8);
+    this.previewCarCam.lookAt(0, 0.6, 0);
+
+    const carHemi = new THREE.HemisphereLight(0xffffff, 0x444455, 1.8);
+    this.previewCarScene.add(carHemi);
+    const carSun = new THREE.DirectionalLight(0xfff5ea, 2.2);
+    carSun.position.set(4, 8, 6);
+    this.previewCarScene.add(carSun);
+    const carFill = new THREE.DirectionalLight(0x8a9abb, 0.8);
+    carFill.position.set(-5, 4, -4);
+    this.previewCarScene.add(carFill);
+
+    this.previewCarTurntable = new THREE.Group();
+    this.previewCarTurntable.rotation.y = Math.PI * 0.2;
+    this.previewCarScene.add(this.previewCarTurntable);
+
+    // Ground blob shadow for car
+    const carShadowMat = new THREE.MeshBasicMaterial({
+      map: blobShadowTex(),
+      transparent: true,
+      opacity: 0.7,
+      depthWrite: false,
+    });
+    this.previewCarShadow = new THREE.Mesh(new THREE.PlaneGeometry(2.4, 4.4), carShadowMat);
+    this.previewCarShadow.rotation.x = -Math.PI / 2;
+    this.previewCarShadow.position.y = 0.005;
+    this.previewCarTurntable.add(this.previewCarShadow);
+  }
+
+  updatePreviewCharacter(id) {
+    if (!this.previewCharTurntable) return;
+    if (this.previewWalker) {
+      this.previewCharTurntable.remove(this.previewWalker.pivot);
+    }
+    this.previewWalker = new Walker(id);
+    this.previewWalker.pivot.rotation.y = 0;
+    this.previewWalker.update(0, 0);
+    this.previewCharTurntable.add(this.previewWalker.pivot);
+  }
+
+  updatePreviewCar(carIdx, texIdx) {
+    if (!this.previewCarTurntable) return;
+    if (this.previewCar) {
+      this.previewCarTurntable.remove(this.previewCar);
+    }
+    const pc = buildCar(CARS[carIdx].id, texIdx);
+    pc.scale.setScalar(0.85);
+    this.previewCarTurntable.add(pc);
+    this.previewCar = pc;
+
+    const carDims = {
+      1: [2.2, 4.2],
+      2: [2.4, 4.4],
+      3: [2.2, 3.8],
+      4: [2.6, 4.3],
+      5: [2.3, 4.8],
+      7: [2.2, 3.9],
+      8: [2.5, 4.6],
+    };
+    const [sw, sl] = carDims[CARS[carIdx].id] || [2.4, 4.4];
+    if (this.previewCarShadow) {
+      this.previewCarShadow.scale.set(sw / 2.4, sl / 4.4, 1);
+    }
+  }
+
   setCharacter(id) {
     while (this.walkerHolder.children.length) this.walkerHolder.remove(this.walkerHolder.children[0]);
     this.walker = new Walker(id);
@@ -374,12 +494,14 @@ export class Lot {
     this.walkerHolder.add(this.walker.pivot);
     this.walker.pivot.rotation.y = Math.PI;
     this.walkerHolder.position.set(0, 0, this.z);
+    this.updatePreviewCharacter(id);
   }
   setCar(carIdx, texIdx) {
     while (this.goal.children.length > 3) this.goal.remove(this.goal.children[this.goal.children.length - 1]);
     for (const c of [...this.goal.children]) if (c.userData.isCar) this.goal.remove(c);
     const c = buildCar(CARS[carIdx].id, texIdx); c.userData.isCar = true; c.scale.setScalar(1.12);
     this.goal.add(c); this.goalCar = c;
+    this.updatePreviewCar(carIdx, texIdx);
   }
 
   resize() {
@@ -389,6 +511,18 @@ export class Lot {
     this.camera.aspect = w / h;
     this.camera.fov = w / h < 1 ? 66 : 54;
     this.camera.updateProjectionMatrix();
+
+    if (this.previewCharCam && this.previewCarCam) {
+      const halfW = w / 2;
+      const aspect = halfW / h;
+      this.previewCharCam.aspect = aspect;
+      this.previewCharCam.fov = aspect < 0.9 ? Math.min(50, 38 * (0.9 / aspect)) : 38;
+      this.previewCharCam.updateProjectionMatrix();
+
+      this.previewCarCam.aspect = aspect;
+      this.previewCarCam.fov = aspect < 1.2 ? Math.min(56, 36 * (1.2 / aspect)) : 36;
+      this.previewCarCam.updateProjectionMatrix();
+    }
   }
 
   // game hooks
@@ -398,6 +532,7 @@ export class Lot {
     this.walkerHolder.position.set(0, 0, 0);
     this.walkerHolder.rotation.set(0, 0, 0);
     this.goal.position.set(0, 0, -LOT_END); this.driveSpeed = 0;
+    this.camPos.set(1.1, 2.0, 4.6);
     this.camLook.set(0, 11, -10);
   }
   advance() { this.stepZ -= stepLen(); }
@@ -424,6 +559,44 @@ export class Lot {
     requestAnimationFrame(this.loop);
     const dt = Math.min(0.05, this.clock.getDelta());
     this.time += dt;
+
+    if (this.mode === 'menu') {
+      if (this.previewWalker) this.previewWalker.update(dt, 0);
+      if (this.previewCharTurntable) this.previewCharTurntable.rotation.y += dt * 0.75;
+      if (this.previewCarTurntable) this.previewCarTurntable.rotation.y += dt * 0.75;
+
+      const rw = this.renderer.domElement.width;
+      const rh = this.renderer.domElement.height;
+      const halfW = Math.floor(rw / 2);
+      const aspect = halfW / rh;
+
+      this.previewCharCam.aspect = aspect;
+      this.previewCharCam.fov = aspect < 0.9 ? Math.min(50, 38 * (0.9 / aspect)) : 38;
+      this.previewCharCam.updateProjectionMatrix();
+
+      this.previewCarCam.aspect = aspect;
+      this.previewCarCam.fov = aspect < 1.2 ? Math.min(56, 36 * (1.2 / aspect)) : 36;
+      this.previewCarCam.updateProjectionMatrix();
+
+      this.renderer.setScissorTest(true);
+
+      // Left: Character
+      this.renderer.setViewport(0, 0, halfW, rh);
+      this.renderer.setScissor(0, 0, halfW, rh);
+      this.renderer.render(this.previewCharScene, this.previewCharCam);
+
+      // Right: Car
+      this.renderer.setViewport(halfW, 0, rw - halfW, rh);
+      this.renderer.setScissor(halfW, 0, rw - halfW, rh);
+      this.renderer.render(this.previewCarScene, this.previewCarCam);
+
+      this.renderer.setScissorTest(false);
+      return;
+    }
+
+    this.renderer.setScissorTest(false);
+    this.renderer.setViewport(0, 0, this.renderer.domElement.width, this.renderer.domElement.height);
+
     // walk toward step target
     let spd = 0;
     if (this.mode !== 'drive' || this.walkerHolder.visible) {
