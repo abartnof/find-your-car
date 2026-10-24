@@ -1441,7 +1441,7 @@
   },
   {
     "show": "Parks and Recreation",
-    "q": "What did Andy Dwyer call the song he wrote after falling into the pit?",
+    "q": "What did Andy Dwyer call the Mouse Rat song he wrote inspired by his disastrous fall into the construction trench?",
     "options": [
       "\"The Pit\"",
       "\"Fell Down\"",
@@ -2283,10 +2283,10 @@
     "show": "Parks and Recreation",
     "q": "Who was originally cast or intended to play the straight-man male love interest before Adam Scott was cast?",
     "options": [
-      "Paul Schneider (Mark Brendanawicz was the original intended lead love interest)",
-      "Jason Sudeikis",
-      "Rob Huebel",
-      "Louis C.K."
+      "Paul Schneider",
+      "Rob Lowe",
+      "Nick Offerman",
+      "Chris Pratt"
     ],
     "answer": 0,
     "d": 1
@@ -2931,10 +2931,10 @@
     "show": "Parks and Recreation",
     "q": "What musical organization is Marshall Langman heavily involved with?",
     "options": [
-      "The Pawnee Gay Men's Chorus (which he claims is just musical theater enthusiasts)",
-      "The Barbershop Quartet",
-      "The Church Choir",
-      "The Indiana Trombone Society"
+      "The Pawnee Gay Men's Chorus",
+      "The Sweetums Vocal Troupe",
+      "The Snakehole Lounge Choir",
+      "The Pawnee Chamber Singers"
     ],
     "answer": 0,
     "d": 1
@@ -3193,12 +3193,12 @@
   },
   {
     "show": "Parks and Recreation",
-    "q": "What misspelled inscription is on Garry Gergich's gravestone in the series finale?",
+    "q": "How is Mayor Gergich's first name famously misspelled on his gravestone in the series finale?",
     "options": [
-      "\"Garry Gergich\" (spelled \"Gerry\")",
-      "\"Jerry Girgich\"",
-      "\"Terry Gergich\"",
-      "\"Larry Gergich\""
+      "Gerry",
+      "Jerry",
+      "Larry",
+      "Terry"
     ],
     "answer": 0,
     "d": 1

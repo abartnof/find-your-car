@@ -265,7 +265,7 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "What profession does Robbie Hart have in \"The Wedding Singer\"?",
+    "q": "What is Robbie Hart's primary musical occupation in the 1998 Adam Sandler comedy set in 1985?",
     "options": [
       "High school music teacher",
       "Wedding singer",
@@ -973,7 +973,7 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "In \"Midnight in Paris\", what time of night does the antique car arrive to take Gil Pender back to the 1920s?",
+    "q": "In Woody Allen's 'Midnight in Paris', at the stroke of what hour does the antique Peugeot arrive each night to transport Gil back to the 1920s?",
     "options": [
       "3:00 AM",
       "1:00 AM",
@@ -1549,7 +1549,7 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "In 'The Princess Bride', which character delivers the famous revenge pledge: 'Hello. My name is Inigo Montoya. You killed my father. Prepare to die'?",
+    "q": "In 'The Princess Bride', which Spanish fencing master repeatedly declares: 'Hello. My name is... You killed my father. Prepare to die'?",
     "options": [
       "Westley",
       "Fezzik",
@@ -3109,12 +3109,12 @@
   },
   {
     "show": "Romantic Comedies",
-    "q": "Which director helmed the hit Sandra Bullock romantic comedies 'Miss Congeniality' and 'Two Weeks Notice'?",
+    "q": "Which filmmaker wrote the hit Sandra Bullock romantic comedy 'Miss Congeniality' and directed her in 'Two Weeks Notice'?",
     "options": [
       "Jon Turteltaub",
       "Andy Tennant",
       "Garry Marshall",
-      "Marc Lawrence (Two Weeks Notice) / Donald Petrie (Miss Congeniality)"
+      "Marc Lawrence"
     ],
     "answer": 3,
     "d": 2

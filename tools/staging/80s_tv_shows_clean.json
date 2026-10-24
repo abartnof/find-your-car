@@ -1705,7 +1705,7 @@
   },
   {
     "show": "80s TV Shows",
-    "q": "Which Colombian drug lord did Crockett and Tubbs pursue across multiple episodes, culminating in 'Calderone's Demise'?",
+    "q": "Which notorious Colombian drug kingpin, responsible for the murder of Tubbs' brother, did Crockett and Tubbs relentlessly pursue across early seasons of Miami Vice?",
     "options": [
       "Esteban Calderone",
       "Orlando Montoya",
@@ -3399,12 +3399,12 @@
     "show": "80s TV Shows",
     "q": "What character did Julia Duffy play during season 6 before leaving the series?",
     "options": [
+      "Allison Sugarbaker",
       "Bernice Clifton",
       "Carlene Dobber",
-      "BJ Poteet",
-      "Allison Sugarbaker (Julia and Suzanne's snobbish cousin)"
+      "Mary Jo Shively"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 3
   },
   {
@@ -5185,7 +5185,7 @@
   },
   {
     "show": "80s TV Shows",
-    "q": "Which singer and pop star guest-starred in the season 4 episode 'Cowboy George'?",
+    "q": "Which flamboyant British Culture Club frontman guest-starred on The A-Team when Face accidentally booked him to perform at a country-western saloon?",
     "options": [
       "Adam Ant",
       "Cyndi Lauper",
@@ -5641,7 +5641,7 @@
   },
   {
     "show": "80s TV Shows",
-    "q": "What cold, chilling line did Magnum speak before shooting Ivan in 'Did You See the Sunrise?'?",
+    "q": "What cold, chilling question did Thomas Magnum ask KGB operative Ivan before executing him in the legendary Season 3 two-part episode?",
     "options": [
       "This is for Mac.",
       "Ivan, did you see the sunrise?",
@@ -5689,7 +5689,7 @@
   },
   {
     "show": "80s TV Shows",
-    "q": "What was the title of the season 7 finale where Magnum was shot, drifted in limbo as a ghost, and was meant to die?",
+    "q": "What was the title of the Season 7 finale where Magnum was shot, drifted between life and death as a spirit, and was originally meant to be the series finale?",
     "options": [
       "Aloha, Magnum",
       "Ghost of Hawaii",
@@ -6193,7 +6193,7 @@
   },
   {
     "show": "80s TV Shows",
-    "q": "What was the name of Lucy Ewing's character, J.R.'s petite niece played by Charlene Tilton?",
+    "q": "What was the name of J.R.'s petite, rebellious niece played by Charlene Tilton on Dallas?",
     "options": [
       "Kristin Shepard",
       "Lucy Ewing",
@@ -6325,7 +6325,7 @@
   },
   {
     "show": "80s TV Shows",
-    "q": "Which actress played Jenna Wade, Bobby's former girlfriend who was played by Priscilla Presley from 1983 to 1988?",
+    "q": "Which actress and former wife of Elvis Presley portrayed Bobby Ewing's old flame Jenna Wade on Dallas from 1983 to 1988?",
     "options": [
       "Morgan Fairchild",
       "Francine Tacker",
@@ -7407,12 +7407,12 @@
     "show": "80s TV Shows",
     "q": "Who composed the music and sang the smooth jazz theme song 'Moonlighting'?",
     "options": [
-      "Kenny G",
+      "Al Jarreau",
       "George Benson",
-      "Al Jarreau (music by Lee Holdridge)",
-      "Bobby McFerrin"
+      "Kenny Loggins",
+      "Michael McDonald"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
@@ -7537,7 +7537,7 @@
   },
   {
     "show": "80s TV Shows",
-    "q": "What Billy Joel song soundtracked David Addison's elaborate dance sequence in 'Big Man on Mulberry Street'?",
+    "q": "In Moonlighting's stylish Season 3 episode, what brassy Billy Joel track from 'The Bridge' soundtracked David Addison's elaborate dream sequence dance?",
     "options": [
       "Big Man on Mulberry Street",
       "Matter of Trust",
@@ -7957,10 +7957,10 @@
   },
   {
     "show": "80s TV Shows",
-    "q": "Which legendary Hollywood producer's company (MTM Enterprises) produced Remington Steele?",
+    "q": "Which legendary production company, founded by Mary Tyler Moore and Grant Tinker, produced Remington Steele and St. Elsewhere?",
     "options": [
       "Universal Television",
-      "Mary Tyler Moore (MTM Enterprises)",
+      "MTM Enterprises",
       "Aaron Spelling Productions",
       "Stephen J. Cannell Productions"
     ],
@@ -8377,12 +8377,12 @@
   },
   {
     "show": "80s TV Shows",
-    "q": "What was the title of the feature-length pilot movie that launched Moonlighting on ABC in March 1985?",
+    "q": "What was the on-air broadcast title of the two-hour television movie that launched Bruce Willis and Cybill Shepherd's detective series on ABC in March 1985?",
     "options": [
-      "Moonlighting (The Pilot)",
-      "Pilot to Steele",
-      "City of Angels",
-      "The First Case"
+      "Moonlighting",
+      "Blue Moon Detective Agency",
+      "Tears of a Model",
+      "The Case of the Smuggled Diamonds"
     ],
     "answer": 0,
     "d": 2
@@ -8631,12 +8631,12 @@
     "show": "80s TV Shows",
     "q": "Who composed the melancholy piano-and-guitar instrumental theme song for Hill Street Blues?",
     "options": [
+      "Mike Post",
       "Jan Hammer",
-      "Mike Post (featuring Larry Carlton)",
-      "Henry Mancini",
-      "Bill Conti"
+      "Stu Phillips",
+      "Dominic Frontiere"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 2
   },
   {
@@ -8931,10 +8931,10 @@
     "show": "80s TV Shows",
     "q": "Which classic bar sitcom characters made a famous crossover appearance in a St. Elsewhere episode at a local tavern?",
     "options": [
-      "Cheers patrons (Norm, Cliff, and Carla appeared in an episode)",
-      "Barney Miller detectives",
-      "Night Court bailiffs",
-      "Taxi drivers from the Sunshine Cab Company"
+      "Cheers patrons",
+      "The Golden Girls",
+      "Taxi drivers",
+      "Barney Miller detectives"
     ],
     "answer": 0,
     "d": 2
@@ -9795,12 +9795,12 @@
     "show": "80s TV Shows",
     "q": "What household food item did MacGyver use in the pilot episode to plug a sulfuric acid leak?",
     "options": [
-      "Mashed potatoes",
+      "Chocolate candy bars",
+      "Chewing gum",
       "Peanut butter",
-      "Baking flour",
-      "Chocolate candy bars (sugars react with the acid to form a carbon plug)"
+      "Baking flour"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 2
   },
   {
@@ -10155,12 +10155,12 @@
     "show": "80s TV Shows",
     "q": "Which British secret agent buddy of Jessica was played recurringly by Len Cariou?",
     "options": [
+      "Michael Hagarty",
       "Harry McGraw",
       "Dennis Stanton",
-      "Charlie Garrett",
-      "Michael Hagarty (MI6 agent)"
+      "Mort Metzger"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 3
   },
   {
@@ -10431,12 +10431,12 @@
     "show": "80s TV Shows",
     "q": "Which movie remake in 2012 featured Johnny Depp and Peter DeLuise in a surprise cameo as their original characters?",
     "options": [
-      "Starsky & Hutch",
+      "21 Jump Street",
       "Miami Vice",
-      "The A-Team",
-      "21 Jump Street (starring Jonah Hill and Channing Tatum)"
+      "Starsky & Hutch",
+      "The A-Team"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 1
   },
   {
@@ -11559,12 +11559,12 @@
     "show": "80s TV Shows",
     "q": "What physical gesture and catchphrase did Joey Gladstone use when delivering comedy bits?",
     "options": [
+      "Cut... it... out!",
       "Have mercy!",
-      "Cut... it... out! (with hand scissor gesture)",
-      "Bada-bing bada-boom!",
-      "Don't be ridiculous!"
+      "How rude!",
+      "You got it, dude!"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 3
   },
   {
@@ -11953,7 +11953,7 @@
   },
   {
     "show": "80s TV Shows",
-    "q": "Which groundbreaking blue-collar sitcom debuted on ABC in 1988 starring Roseanne Barr and John Goodman?",
+    "q": "Which groundbreaking blue-collar sitcom set in the fictional town of Lanford debuted on ABC in 1988 starring John Goodman and a titular comedian?",
     "options": [
       "The Conners",
       "Roseanne",

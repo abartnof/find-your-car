@@ -769,7 +769,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Four Tops single knocked The Beatles' 'Reach Out I'll Be There' predecessor off the charts and became their second Hot 100 #1 in 1966?",
+    "q": "Which Four Tops soul anthem topped the Billboard Hot 100 for two weeks in October 1966 with Levi Stubbs passionately shouting the dramatic lead vocals?",
     "options": [
       "Reach Out I'll Be There",
       "I Can't Help Myself (Sugar Pie Honey Bunch)",
@@ -2137,7 +2137,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Barry Gibb-written title song for the movie 'Grease' hit #1 on the Billboard Hot 100 in 1978, performed by Frankie Valli?",
+    "q": "Which Barry Gibb-written title track for the 1978 musical film starring John Travolta and Olivia Newton-John hit #1 on the Billboard Hot 100, performed by Frankie Valli?",
     "options": [
       "Sandy",
       "Beauty School Dropout",
@@ -2281,7 +2281,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which 1973 soft rock classic by Seals and Crofts reached #6 on the Billboard Hot 100, featuring the opening line 'Summer breeze, makes me feel fine'?",
+    "q": "Which 1973 soft rock classic by Seals and Crofts reached #6 on the Billboard Hot 100, featuring the line 'blowing through the jasmine in my mind'?",
     "options": [
       "Diamond Girl",
       "Get Closer",
@@ -2365,7 +2365,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which 1976 hit single by Kansas peaked at #11, while their 1977 acoustic-led philosophical anthem 'Dust in the Wind' reached #6 on the Hot 100?",
+    "q": "Which 1977 acoustic-led philosophical ballad by Kansas reached #6 on the Billboard Hot 100, featuring a famous fingerpicked guitar melody and violin solo?",
     "options": [
       "Carry On Wayward Son",
       "Dust in the Wind",
@@ -3481,7 +3481,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Toto soft-rock hit reached #1 on the Billboard Hot 100 in February 1983, featuring the lyric 'I bless the rains down in Africa'?",
+    "q": "Which Toto soft-rock hit reached #1 on the Billboard Hot 100 in February 1983, featuring the famous chorus about blessing the rains down on a distant continent?",
     "options": [
       "Rosanna",
       "Hold the Line",
@@ -4573,7 +4573,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Montell Jordan party track reached #1 on the Billboard Hot 100 in 1995, famous for the opening line 'This is how we do it'?",
+    "q": "Which Montell Jordan party track reached #1 on the Billboard Hot 100 in 1995, declaring 'It's Friday night, and I feel all right'?",
     "options": [
       "Somethin' 4 da Honeyz",
       "This Is How We Do It",
@@ -4693,7 +4693,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Next party anthem topped the Billboard Hot 100 for five weeks in 1998, asking 'Too close? Why you all in my ear?'",
+    "q": "Which Next R&B party anthem topped the Billboard Hot 100 for five weeks in 1998, describing the friction of slow-dancing on the club dance floor?",
     "options": [
       "Wifey",
       "Butta Love",
@@ -5173,7 +5173,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which member of Fugees released the landmark 1998 solo album 'The Miseducation of Lauryn Hill'?",
+    "q": "Which member of the Fugees won five Grammy Awards in 1999 for her critically acclaimed, multi-platinum solo debut album 'The Miseducation of...'?",
     "options": [
       "Wyclef Jean",
       "Pras Michel",
@@ -5449,14 +5449,14 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Jay-Z single from 1998 sampled 'It's the Hard Knock Life' from the musical 'Annie' and peaked at #15 on the Hot 100?",
+    "q": "Which 1998 breakout single by Jay-Z, produced by The 45 King, sampled a children's chorus from the Broadway musical 'Annie'?",
     "options": [
+      "Hard Knock Life",
       "Can I Get A...",
-      "Big Pimpin'",
-      "Hard Knock Life (Ghetto Anthem)",
-      "Dead Presidents"
+      "Money, Cash, Hoes",
+      "Nigga What, Nigga Who"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 3
   },
   {
@@ -5809,7 +5809,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Barenaked Ladies novelty pop-rock track reached #1 on the Billboard Hot 100 for one week in October 1998?",
+    "q": "Which rapid-fire pop-rock single by Barenaked Ladies reached #1 on the Billboard Hot 100 in October 1998 with references to Sailor Moon and Kurosawa films?",
     "options": [
       "One Week",
       "If I Had $1000000",
@@ -5953,7 +5953,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Juvenile single reached #19 on the Hot 100 in 1999 and popularized the phrase 'Back That Azz Up' nationwide for Cash Money Records?",
+    "q": "Which bounce anthem by Juvenile (featuring Mannie Fresh and Lil Wayne) became Cash Money Records' breakout national hit in 1999?",
     "options": [
       "Back That Azz Up",
       "Ha",
@@ -6229,7 +6229,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Nelly party anthem topped the Billboard Hot 100 for seven weeks in summer 2002, repeating 'it's getting hot in herre'?",
+    "q": "Which Neptunes-produced party anthem topped the Billboard Hot 100 for seven weeks in summer 2002, advising clubgoers to take off all their clothes?",
     "options": [
       "Dilemma",
       "Country Grammar",
@@ -6723,7 +6723,7 @@
     "show": "Billboard Hits",
     "q": "Which Soulja Boy track topped the Billboard Hot 100 for seven non-consecutive weeks in 2007, accompanied by an instructional viral dance?",
     "options": [
-      "Crank That (Soulja Boy)",
+      "Crank That",
       "Kiss Me Thru the Phone",
       "Turn My Swag On",
       "Yahhh!"
@@ -6793,7 +6793,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Coldplay ballad from their 2008 album 'Viva la Vida or Death and All His Friends' was the band's first US Billboard Hot 100 #1?",
+    "q": "Which orchestral pop-rock anthem from Coldplay's 2008 Brian Eno-produced fourth album became the British band's first US Billboard Hot 100 #1?",
     "options": [
       "Yellow",
       "Clocks",
@@ -6901,7 +6901,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which band formed by Chris Daughtry saw their debut album spend two weeks at #1 on the Billboard 200 in 2007?",
+    "q": "Which post-grunge rock band formed by a fifth-place American Idol finalist saw their self-titled debut album become the top-selling album of 2007?",
     "options": [
       "Fuel",
       "Theory of a Deadman",
@@ -7009,7 +7009,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "What Danity Kane album debuted at #1 on the Billboard 200 in 2006, making them the first female group in history to debut at #1 with their first two albums?",
+    "q": "What self-titled debut album by the girl group formed on MTV's 'Making the Band 3' debuted at #1 on the Billboard 200 in 2006?",
     "options": [
       "Danity Kane",
       "Welcome to the Dollhouse",
@@ -7345,7 +7345,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Right Said Fred 1991 hit 'I'm Too Sexy' was officially credited as interpolated in Taylor Swift's 2017 #1 hit 'Look What You Made Me Do'?",
+    "q": "Which 1991 novelty dance hit by Right Said Fred was officially credited as interpolated into the rhythm and cadence of Taylor Swift's 2017 #1 hit 'Look What You Made Me Do'?",
     "options": [
       "I'm Too Sexy",
       "Deeply Dippy",
@@ -7393,7 +7393,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Drake single spent 10 weeks at #1 in summer 2018, fueled by comedian Shiggy's viral 'In My Feelings' dance challenge?",
+    "q": "Which Drake single spent 10 weeks at #1 in summer 2018, fueled by comedian Shiggy's viral 'Kiki, do you love me?' dance challenge?",
     "options": [
       "In My Feelings",
       "Nice for What",
@@ -7777,7 +7777,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "How many weeks did Maroon 5's 'Girls Like You' spend in the Billboard Hot 100 top 10, tying an all-time record at 33 weeks?",
+    "q": "Maroon 5 and Cardi B's collaboration 'Girls Like You' tied an all-time Billboard Hot 100 record by spending how many weeks inside the top 10?",
     "options": [
       "33 weeks",
       "26 weeks",
@@ -8101,7 +8101,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Walk the Moon indie-pop anthem peaked at #4 on the Billboard Hot 100 in 2015, repeating 'Shut up and dance with me'?",
+    "q": "Which Walk the Moon indie-pop anthem peaked at #4 on the Billboard Hot 100 in 2015, featuring a backless dress and retro 80s dance rhythm?",
     "options": [
       "Anna Sun",
       "One Foot",
@@ -8629,7 +8629,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which film by Quentin Tarantino provided the direct title and thematic inspiration for SZA's 'Kill Bill'?",
+    "q": "Which martial-arts revenge film directed by Quentin Tarantino provided the storyline and title inspiration for SZA's 2023 Hot 100 #1 hit?",
     "options": [
       "Pulp Fiction",
       "Jackie Brown",
@@ -8845,7 +8845,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "How many total weeks did Glass Animals' 'Heat Waves' spend on the Billboard Hot 100, breaking the all-time record with 91 weeks?",
+    "q": "Glass Animals' sleeper hit 'Heat Waves' broke the record for the most total weeks on the Billboard Hot 100 by charting for how many weeks?",
     "options": [
       "87 weeks",
       "91 weeks",
@@ -9205,7 +9205,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Kendrick Lamar diss track aimed at Drake debuted at #1 on the Billboard Hot 100 in May 2024, repeating 'They not like us'?",
+    "q": "Which Mustard-produced West Coast diss track by Kendrick Lamar aimed at Drake debuted at #1 on the Billboard Hot 100 in May 2024?",
     "options": [
       "Euphoria",
       "Meet the Grahams",
@@ -9289,7 +9289,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Tommy Richman alternative R&B single reached #2 on the Billboard Hot 100 in May 2024 after going viral on TikTok with 'Million Dollar Baby'?",
+    "q": "Which Tommy Richman alternative R&B single reached #2 on the Billboard Hot 100 in May 2024 after going viral on TikTok with its catchy falsetto hook?",
     "options": [
       "Devil Is a Lie",
       "Whitney",
@@ -9433,7 +9433,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Charli XCX album topped UK charts and reached #3 on the Billboard 200 in summer 2024, sparking the cultural 'Brat summer' phenomenon?",
+    "q": "Which Charli XCX studio album featuring a lime-green cover reached #3 on the Billboard 200 in summer 2024, sparking a defining viral summer aesthetic?",
     "options": [
       "Crash",
       "Charli",
@@ -10081,7 +10081,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Motown legend had a 26-year gap between their Billboard Hot 100 #1 hits with 'Little Stevie Wonder' (1963) and 'Part-Time Lover' (1985)?",
+    "q": "Which blind Motown multi-instrumentalist had a 22-year gap between his 1963 breakthrough #1 'Fingertips' and his 1985 chart-topper 'Part-Time Lover'?",
     "options": [
       "Stevie Wonder",
       "Marvin Gaye",
@@ -10191,12 +10191,12 @@
     "show": "Billboard Hits",
     "q": "Which Canadian rock band had their 1999 single 'Smooth' with Santana spend 30 weeks in the Billboard Hot 100 top 10?",
     "options": [
-      "The Tragically Hip",
-      "Matchbox 20 (featuring singer Rob Thomas)",
-      "Barenaked Ladies",
-      "Our Lady Peace"
+      "Matchbox 20",
+      "Counting Crows",
+      "Third Eye Blind",
+      "Goo Goo Dolls"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 2
   },
   {
@@ -11017,7 +11017,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which British synth-pop group topped the Billboard Hot 100 in 1986 with 'Human', written and produced by Jimmy Jam and Terry Lewis?",
+    "q": "Which British synth-pop group topped the Billboard Hot 100 in 1986 with a mid-tempo R&B ballad written and produced by Jimmy Jam and Terry Lewis?",
     "options": [
       "Heaven 17",
       "New Order",
@@ -11269,14 +11269,14 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which 1980 Peter Gabriel album's opening track 'Intruder' was the first recording where Hugh Padgham and Gabriel discovered the gated reverb drum sound?",
+    "q": "On which 1980 solo album (nicknamed 'Melt') did Peter Gabriel and engineer Hugh Padgham pioneer the famous gated reverb drum sound on the track 'Intruder'?",
     "options": [
-      "Security",
+      "Peter Gabriel 3",
       "So",
       "Us",
-      "Peter Gabriel (Melt)"
+      "Security"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 2
   },
   {
@@ -11557,7 +11557,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which Miami bass anthem by Tag Team reached #2 on the Billboard Hot 100 in 1993, chanting 'Whoomp! (There It Is)'?",
+    "q": "Which Miami bass party anthem by Tag Team reached #2 on the Billboard Hot 100 in 1993, featuring the energetic chant 'Party people! Say, ho!'?",
     "options": [
       "Whoot, There It Is",
       "Tootsee Roll",
@@ -11581,7 +11581,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "What 1996 Quad City DJ's track served as the theme song for the Michael Jordan movie 'Space Jam', peaking at #37 on the Hot 100?",
+    "q": "What 1996 Quad City DJ's party track served as the theme song for the live-action and animated basketball blockbuster starring Michael Jordan?",
     "options": [
       "Fly Like an Eagle",
       "Space Jam",
@@ -11893,14 +11893,14 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which West Coast producer is famous for his signature 'Mustard on the beat, ho' tag on hits for YG, Tyga, and Kendrick Lamar?",
+    "q": "Which Los Angeles hip-hop producer, known for defining the 2010s ratchet sound, produced Kendrick Lamar's 2024 #1 smash 'Not Like Us'?",
     "options": [
+      "Mustard",
+      "Metro Boomin",
       "Hit-Boy",
-      "London on da Track",
-      "Tay Keith",
-      "Mustard (DJ Mustard)"
+      "Mike WiLL Made-It"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 2
   },
   {
@@ -11965,7 +11965,7 @@
   },
   {
     "show": "Billboard Hits",
-    "q": "Which 1971 Black Sabbath heavy metal ballad was covered and interpolated in Eminem's 2010 #1 hit 'Going Through Changes'?",
+    "q": "Which 1972 Black Sabbath piano ballad was covered by Ozzy Osbourne and sampled for the hook in Eminem's 2010 song 'Going Through Changes'?",
     "options": [
       "Iron Man",
       "Changes",

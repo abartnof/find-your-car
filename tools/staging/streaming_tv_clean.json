@@ -937,7 +937,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In Netflix's 'Ozark', what business scheme does financial planner Marty Byrde propose to save his life from the Navarro drug cartel?",
+    "q": "In the pilot of Netflix's hit crime drama, what money laundering scheme does financial advisor Marty Byrde pitch to save his life from Camino Del Rio?",
     "options": [
       "Setting up offshore shell accounts in Panama",
       "Laundering $500 million in the Missouri Ozarks",
@@ -1381,7 +1381,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In Apple TV+'s 'Severance', what surgical medical procedure surgically separates employees' work memories from their non-work memories?",
+    "q": "In Apple TV+'s dystopian workplace thriller, what controversial brain surgery separates employees' work memories from their personal memories?",
     "options": [
       "The Bifurcation protocol",
       "The Lumon partition",
@@ -1585,7 +1585,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "In Apple TV+'s spy thriller 'Slow Horses', what is the derogatory nickname for Slough House's disgraced MI5 intelligence officers?",
+    "q": "In Apple TV+'s spy thriller, what derogatory nickname is given to the disgraced MI5 service rejects relegated to Slough House under Jackson Lamb?",
     "options": [
       "Lame Ducks",
       "Slow Horses",
@@ -2257,12 +2257,12 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What is the name of the fictional morning show broadcast at the center of Apple TV+'s 'The Morning Show'?",
+    "q": "What is the on-air title of the fictional breakfast news program hosted by Alex Levy on the UBA network?",
     "options": [
-      "Daybreak America (on NBS)",
-      "The Morning Show (on UBA)",
-      "Good Morning USA (on CNA)",
-      "Rise & Shine (on GBS)"
+      "Daybreak America",
+      "The Morning Show",
+      "Good Morning USA",
+      "Rise & Shine"
     ],
     "answer": 1,
     "d": 2
@@ -3025,7 +3025,7 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What graphic novel within 'Station Eleven' provides spiritual meaning and prophecy to both Kirsten and the Prophet?",
+    "q": "In the post-apocalyptic saga based on Emily St. John Mandel's novel, what fictional graphic novel created by Miranda Carroll becomes a sacred text for survivors?",
     "options": [
       "Dr. Eleven's Orbit",
       "Station Eleven",
@@ -3265,14 +3265,14 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "What haunting funeral speech is delivered via holographic projection from a brick on Ferrix in the 'Andor' Season 1 finale?",
+    "q": "In the Season 1 finale of 'Andor', which deceased resident of Ferrix delivers a posthumous holographic funeral speech inciting the citizens to 'Fight the Empire!'?",
     "options": [
-      "Bix Caleen's call to arms",
-      "Maarva Andor's speech inciting the crowd to 'Fight the Empire!'",
-      "Brasso's memorial poem",
-      "Luthen Rael's declaration of war"
+      "Maarva Andor",
+      "Bix Caleen",
+      "Salman Paak",
+      "Taramyn Barcona"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 2
   },
   {
@@ -3985,14 +3985,14 @@
   },
   {
     "show": "Streaming TV Shows",
-    "q": "Which major broadcast and entertainment conglomerate initially launched Hulu in 2007 as a joint venture between NBCUniversal and News Corporation?",
+    "q": "Which pair of media giants initially founded Hulu in 2007 as a joint venture streaming platform to compete with YouTube?",
     "options": [
-      "Sony Pictures and Paramount",
-      "CBS Corporation and Time Warner",
-      "NBCUniversal and News Corporation (later joined by Disney)",
-      "Viacom and Metro-Goldwyn-Mayer"
+      "NBCUniversal and News Corporation",
+      "CBS and Viacom",
+      "Disney and WarnerMedia",
+      "Sony Pictures and Time Warner"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 3
   },
   {
@@ -5343,10 +5343,10 @@
     "show": "Streaming TV Shows",
     "q": "What real-life architectural marvel in Holmdel, New Jersey—designed by legendary modernist Eero Saarinen—serves as the corporate headquarters exterior of Lumon Industries in 'Severance'?",
     "options": [
-      "Bell Works (the former Bell Labs Holmdel Complex)",
-      "The Armstrong Rubber Building",
-      "The TWA Flight Center",
-      "The IBM Somers Complex"
+      "Bell Works",
+      "MetLife Complex",
+      "AT&T Center",
+      "Prudential Plaza"
     ],
     "answer": 0,
     "d": 2
@@ -5415,12 +5415,12 @@
     "show": "Streaming TV Shows",
     "q": "In 'The Crown', which historic English country house stood in for Buckingham Palace's grand interior state rooms across multiple seasons?",
     "options": [
+      "Lancaster House",
+      "Chatsworth House",
       "Blenheim Palace",
-      "Lancaster House (and Wilton House)",
-      "Highclere Castle",
-      "Chatsworth House"
+      "Highclere Castle"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 3
   },
   {
@@ -5475,12 +5475,12 @@
     "show": "Streaming TV Shows",
     "q": "What historic converted psychiatric hospital in Atlanta, Georgia was used as the exterior filming location for the Hawkins National Laboratory in 'Stranger Things'?",
     "options": [
-      "Central State Hospital in Milledgeville",
-      "Emory University's Briarcliff Campus (former Georgia Mental Health Institute)",
-      "Danvers State Hospital",
-      "Trenton Psychiatric Hospital"
+      "Emory University's Briarcliff Campus",
+      "Peachtree Sanitarium",
+      "Decatur State Hospital",
+      "Buckhead Memorial"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 3
   },
   {
@@ -5559,12 +5559,12 @@
     "show": "Streaming TV Shows",
     "q": "What iconic New York skyscraper served as the real-world filming location for the sleek executive offices of Waystar Royco in 'Succession' Season 1?",
     "options": [
-      "The Empire State Building",
-      "Rockefeller Plaza",
-      "4 World Trade Center (and later 7 World Trade Center)",
-      "The Chrysler Building"
+      "4 World Trade Center",
+      "One Vanderbilt",
+      "Chrysler Building",
+      "Empire State Building"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 3
   },
   {
@@ -5895,12 +5895,12 @@
     "show": "Streaming TV Shows",
     "q": "Which streaming platform rescued the canceled Fox police comedy 'Brooklyn Nine-Nine' in 2018 within 31 hours of Fox canceling it?",
     "options": [
-      "Netflix",
-      "NBC (broadcast network with immediate streaming on Hulu and Peacock)",
-      "Amazon Prime Video",
-      "TBS"
+      "NBC",
+      "CBS",
+      "ABC",
+      "The CW"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 2
   },
   {

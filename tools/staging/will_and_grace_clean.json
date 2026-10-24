@@ -63,12 +63,12 @@
     "show": "Will & Grace",
     "q": "What is Will Truman's middle name?",
     "options": [
-      "Alexander",
-      "None (his legal first name is William)",
-      "Edward",
-      "Charles"
+      "None",
+      "Michael",
+      "Patrick",
+      "Edward"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -1069,7 +1069,7 @@
   },
   {
     "show": "Will & Grace",
-    "q": "What is the name of Grace Adler's first serious fianc\u00e9 seen in the Pilot episode?",
+    "q": "What is the name of Grace Adler's first serious fiancé seen in the Pilot episode?",
     "options": [
       "Leo",
       "Danny",
@@ -1239,7 +1239,7 @@
     "show": "Will & Grace",
     "q": "Which celebrity singer and actor played Leo Markus?",
     "options": [
-      "Michael Bubl\u00e9",
+      "Michael Bublé",
       "Bobby Darin",
       "Marc Anthony",
       "Harry Connick Jr."
@@ -1323,7 +1323,7 @@
     "show": "Will & Grace",
     "q": "What shocking revelation does Grace learn about Diane (played by Mira Sorvino)?",
     "options": [
-      "Diane was Leo's former fianc\u00e9e",
+      "Diane was Leo's former fiancée",
       "Diane was Karen's estranged half-sister",
       "Diane was the only woman Will Truman ever slept with",
       "Diane was Grace's college roommate"
@@ -1657,7 +1657,7 @@
   },
   {
     "show": "Will & Grace",
-    "q": "Who was Grace's fianc\u00e9 in the very first episode (Pilot) of Will & Grace?",
+    "q": "Who was Grace's fiancé in the very first episode (Pilot) of Will & Grace?",
     "options": [
       "Nathan",
       "Leo",
@@ -1731,7 +1731,7 @@
     "show": "Will & Grace",
     "q": "Whom did Barry ultimately choose between Will and Jack?",
     "options": [
-      "Neither\u2014he wanted to play the field and date around",
+      "Neither—he wanted to play the field and date around",
       "Will",
       "Jack",
       "A random man at the gym"
@@ -2089,7 +2089,7 @@
   },
   {
     "show": "Will & Grace",
-    "q": "Which White Collar and Magic Mike star played Will's handsome news anchor fianc\u00e9 McCoy Whitman in the revival?",
+    "q": "Which White Collar and Magic Mike star played Will's handsome news anchor fiancé McCoy Whitman in the revival?",
     "options": [
       "Cheyenne Jackson",
       "Jonathan Groff",
@@ -2130,7 +2130,7 @@
       "Benito Skinner",
       "Brian Jordan Alvarez",
       "Bowen Yang",
-      "Harvey Guill\u00e9n"
+      "Harvey Guillén"
     ],
     "answer": 1,
     "d": 3
@@ -2269,7 +2269,7 @@
   },
   {
     "show": "Will & Grace",
-    "q": "What was the name of the hunky closeted cop Jack dated named Drew?",
+    "q": "What was the name of the hunky closeted NYPD officer Jack dated across multiple seasons?",
     "options": [
       "Greg",
       "Drew",
@@ -2405,7 +2405,7 @@
     "options": [
       "Shelley Morrison",
       "Lupe Ontiveros",
-      "Elizabeth Pe\u00f1a",
+      "Elizabeth Peña",
       "Alma Martinez"
     ],
     "answer": 0,
@@ -2538,14 +2538,14 @@
       "\"Farewell Rosario\"",
       "\"Goodbye, Little Smudge\"",
       "\"A Maid to Remember\"",
-      "\"Rosario's Quincea\u00f1era\""
+      "\"Rosario's Quinceañera\""
     ],
     "answer": 3,
     "d": 1
   },
   {
     "show": "Will & Grace",
-    "q": "Where does Karen spend most of the episode 'Rosario's Quincea\u00f1era' before attending the memorial?",
+    "q": "Where does Karen spend most of the episode 'Rosario's Quinceañera' before attending the memorial?",
     "options": [
       "At a local bar drinking and reminiscing in denial",
       "In her penthouse walk-in closet",
@@ -2644,7 +2644,7 @@
     "q": "How did Beverley Leslie's character die in the 2017 revival series?",
     "options": [
       "He was blown off a balcony in high winds during a storm",
-      "He choked on a caviar canap\u00e9",
+      "He choked on a caviar canapé",
       "He had a heart attack on his yacht",
       "He was struck by lightning on a golf course"
     ],
@@ -3051,7 +3051,7 @@
     "show": "Will & Grace",
     "q": "What does Grace try to force her sister Joyce to do during her stay in New York?",
     "options": [
-      "Break up with her fianc\u00e9 from Schenectady",
+      "Break up with her fiancé from Schenectady",
       "Audition for a Broadway musical chorus",
       "Stick to an intense diet and makeover regimen",
       "Take a job at Grace Adler Designs"
@@ -4441,14 +4441,14 @@
   },
   {
     "show": "Will & Grace",
-    "q": "In which production city were the exterior establishing shots of New York City buildings filmed?",
+    "q": "While Will & Grace was filmed in front of a live studio audience in Los Angeles, where were the iconic exterior building shots actually filmed?",
     "options": [
-      "Los Angeles",
-      "Toronto",
-      "New York City (Manhattan)",
-      "Vancouver"
+      "New York City",
+      "Chicago",
+      "Boston",
+      "Philadelphia"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 2
   },
   {
@@ -4827,12 +4827,12 @@
     "show": "Will & Grace",
     "q": "Why did Kevin Bacon hire Will Truman as his lawyer in 'Bacon and Eggs'?",
     "options": [
-      "To negotiate a contract for an independent film",
-      "To sue a tabloid magazine for libel",
-      "To file a restraining order against an obsessive stalker (who turned out to be Jack)",
-      "To purchase a Park Avenue penthouse"
+      "To file a restraining order against an obsessive stalker",
+      "To negotiate a Broadway musical contract",
+      "To contest an unfair copyright lawsuit",
+      "To draft an adoption pre-nuptial agreement"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
@@ -5283,10 +5283,10 @@
     "show": "Will & Grace",
     "q": "At what university do Will's son Ben and Grace's daughter Laila meet as freshmen in the 2006 finale?",
     "options": [
-      "Columbia University (the same college Will and Grace attended)",
-      "New York University",
-      "Harvard University",
-      "Princeton University"
+      "Columbia University",
+      "NYU",
+      "Harvard",
+      "Vassar"
     ],
     "answer": 0,
     "d": 2
@@ -5535,12 +5535,12 @@
     "show": "Will & Grace",
     "q": "For what episode did Gene Wilder win the Primetime Emmy for Outstanding Guest Actor in a Comedy Series in 2003?",
     "options": [
-      "\"Pilot\"",
-      "\"Boardroom Bunny\" (playing Mr. Stein)",
+      "\"Boardroom Bunny\"",
       "\"Cheaters\"",
-      "\"The Move\""
+      "\"Lows in the Mid-Eighties\"",
+      "\"Mad Dogs and Average Men\""
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -5907,10 +5907,10 @@
     "show": "Will & Grace",
     "q": "Which cast member was nominated for an Emmy in both the original run AND the 2017 revival run?",
     "options": [
-      "Megan Mullally (nominated in 2018 for Outstanding Supporting Actress)",
-      "Eric McCormack",
+      "Megan Mullally",
       "Debra Messing",
-      "Sean Hayes"
+      "Sean Hayes",
+      "Eric McCormack"
     ],
     "answer": 0,
     "d": 1
@@ -5980,7 +5980,7 @@
     "q": "What international television awards recognized Will & Grace in the UK and Australia?",
     "options": [
       "The BAFTA Film Awards",
-      "The C\u00e9sar Awards",
+      "The César Awards",
       "The British Comedy Awards and the Logie Awards",
       "The Goya Awards"
     ],
@@ -6145,7 +6145,7 @@
   },
   {
     "show": "Will & Grace",
-    "q": "In the Season 9 episode 'Rosario's Quincea\u00f1era', how is Rosario's death acknowledged?",
+    "q": "In the Season 9 episode 'Rosario's Quinceañera', how is Rosario's death acknowledged?",
     "options": [
       "She passes away from a heart attack, and the characters hold an emotional memorial",
       "She moves to El Salvador to open a charitable school",
@@ -6157,7 +6157,7 @@
   },
   {
     "show": "Will & Grace",
-    "q": "Where does Karen go in 'Rosario's Quincea\u00f1era' to mourn Rosario alone before attending the service?",
+    "q": "Where does Karen go in 'Rosario's Quinceañera' to mourn Rosario alone before attending the service?",
     "options": [
       "To Rosario's favorite church in Queens",
       "To a local pub where she drinks alone in emotional denial",
@@ -6229,7 +6229,7 @@
   },
   {
     "show": "Will & Grace",
-    "q": "Which White Collar star plays Will's high-profile news anchor fianc\u00e9 McCoy Whitman in Seasons 10 & 11?",
+    "q": "Which White Collar star plays Will's high-profile news anchor fiancé McCoy Whitman in Seasons 10 & 11?",
     "options": [
       "Neil Patrick Harris",
       "Cheyenne Jackson",
@@ -6457,7 +6457,7 @@
   },
   {
     "show": "Will & Grace",
-    "q": "In the Season 11 episode 'I Love Lucy', what classic sitcom does the cast recreate in fantasy dream sequences?",
+    "q": "In a special Season 11 tribute episode, what classic 1950s sitcom do Grace, Jack, and Karen recreate in fantasy dream sequences with Lucie Arnaz guest-starring?",
     "options": [
       "\"The Golden Girls\"",
       "\"The Honeymooners\"",
@@ -6762,7 +6762,7 @@
       "Best Actress for Debra Messing only",
       "Best Supporting Actor for Sean Hayes only",
       "Zero Golden Globe nominations",
-      "Best Television Series \u2013 Musical or Comedy and Best Actor for Eric McCormack"
+      "Best Television Series – Musical or Comedy and Best Actor for Eric McCormack"
     ],
     "answer": 3,
     "d": 2
@@ -7069,7 +7069,7 @@
   },
   {
     "show": "Will & Grace",
-    "q": "What award did the revival episode 'Rosario's Quincea\u00f1era' receive nomination for?",
+    "q": "What award did the revival episode 'Rosario's Quinceañera' receive nomination for?",
     "options": [
       "The Academy Award for Best Live Action Short",
       "The Primetime Emmy for Outstanding Multi-Camera Picture Editing",
@@ -7421,7 +7421,7 @@
     "options": [
       "\"Make sure you exaggerate your vocal pitch for laughs\"",
       "\"Focus only on the romantic storylines\"",
-      "\"Don't play gay, just play Will \u2014 the comedy comes from who he is, not a caricature\"",
+      "\"Don't play gay, just play Will — the comedy comes from who he is, not a caricature\"",
       "\"Avoid physical humor and stick to dry lawyer dialogue\""
     ],
     "answer": 2,
@@ -7575,12 +7575,12 @@
     "show": "Will & Grace",
     "q": "What other hit sitcom did Will & Grace writer Kari Lizer later create for CBS?",
     "options": [
+      "\"The New Adventures of Old Christine\"",
       "\"Two and a Half Men\"",
-      "\"Mom\"",
       "\"The Big Bang Theory\"",
-      "\"The New Adventures of Old Christine\" (starring Julia Louis-Dreyfus)"
+      "\"Mike & Molly\""
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 1
   },
   {
@@ -7827,10 +7827,10 @@
     "show": "Will & Grace",
     "q": "What other mega-hit 1990s sitcom theme did Jonathan Wolff famously compose?",
     "options": [
-      "Seinfeld (the slap-bass theme)",
-      "Friends (I'll Be There for You)",
-      "The Fresh Prince of Bel-Air",
-      "Full House"
+      "Seinfeld",
+      "Friends",
+      "Mad About You",
+      "The Fresh Prince of Bel-Air"
     ],
     "answer": 0,
     "d": 3
@@ -7983,12 +7983,12 @@
     "show": "Will & Grace",
     "q": "Who was the very first actor officially cast among the four leads of Will & Grace?",
     "options": [
+      "Eric McCormack",
+      "Sean Hayes",
       "Debra Messing",
-      "Eric McCormack (Will Truman)",
-      "Megan Mullally",
-      "Sean Hayes"
+      "Megan Mullally"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 2
   },
   {
@@ -8103,12 +8103,12 @@
     "show": "Will & Grace",
     "q": "Which actress was originally offered the role of Karen Walker before Megan Mullally was cast?",
     "options": [
-      "Jane Krakowski",
-      "Lisa Kudrow",
-      "Kim Cattrall",
-      "Nicollette Sheridan (who later guest-starred in Season 6)"
+      "Nicollette Sheridan",
+      "Christine Baranski",
+      "Bebe Neuwirth",
+      "Julia Louis-Dreyfus"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 2
   },
   {
@@ -8967,7 +8967,7 @@
     "show": "Will & Grace",
     "q": "Which pop superstar singer played herself in the Season 6 finale and Season 7 premiere?",
     "options": [
-      "Beyonc\u00e9",
+      "Beyoncé",
       "Mariah Carey",
       "Celine Dion",
       "Jennifer Lopez"

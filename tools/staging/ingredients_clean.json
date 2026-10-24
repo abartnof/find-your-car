@@ -337,7 +337,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "What sweetener made from equal parts water and granulated sugar is a staple simple syrup in cocktail making?",
+    "q": "What staple liquid sweetener made from equal parts water and granulated sugar is an essential component in classic cocktail making?",
     "options": [
       "Simple syrup",
       "Molasses",
@@ -757,7 +757,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which grape brandy produced in the Cognac and Gascony regions of France is distilled in column stills and known as Armagnac?",
+    "q": "Which distinctive French grape brandy produced in Gascony is traditionally column-distilled and aged in oak barrels?",
     "options": [
       "Calvados",
       "Grappa",
@@ -817,7 +817,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which Japanese melon liqueur with a vibrant neon green color is the key flavor component in a Japanese Slipper and Midori Sour?",
+    "q": "Which Japanese muskmelon-flavored liqueur with an electric neon green hue is the key ingredient in a Japanese Slipper and neon melon cocktails?",
     "options": [
       "Pisang Ambon",
       "Midori",
@@ -889,7 +889,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which rare, highly prized bitter vermouth produced in Turin features cinchona bark and is named 'Punt e Mes' (meaning 'a point and a half')?",
+    "q": "Which Italian vermouth produced by Carpano in Turin combines classic sweet vermouth with a point of bitterness from quina, meaning 'a point and a half' in Piedmontese?",
     "options": [
       "Carpano Bianco",
       "Cocchi Vermouth di Torino",
@@ -1009,7 +1009,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which aniseed-flavored national spirit of Greece turns milky white (the ouzo effect) when water or ice is added due to the louche effect?",
+    "q": "Which aniseed-flavored national spirit of Greece turns cloudy milky-white when water or ice is added due to the spontaneous emulsification louche effect?",
     "options": [
       "Tsikoudia",
       "Ouzo",
@@ -1645,7 +1645,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which tangy, dark red ground spice derived from dried sumac berries gives Fattoush salad its sour lemony flavor?",
+    "q": "Which tangy, deep-red ground spice derived from dried Mediterranean shrub berries gives Fattoush salad its distinctive tart, lemony zing?",
     "options": [
       "Paprika",
       "Za'atar",
@@ -1983,10 +1983,10 @@
     "show": "Ingredients",
     "q": "Which Russian salad, invented in Moscow by Belgian chef Lucien Olivier, features boiled diced potatoes, carrots, peas, pickles, and hard-boiled eggs in mayonnaise?",
     "options": [
-      "Shuba (Herring under a fur coat)",
-      "Olivier salad (Russian salad)",
-      "Vinegret",
-      "Mimosa salad"
+      "Shuba",
+      "Olivier salad",
+      "Mimosa salad",
+      "Vinaigrette salad"
     ],
     "answer": 1,
     "d": 2
@@ -2103,10 +2103,10 @@
     "show": "Ingredients",
     "q": "Which dried, smoked, and fermented skipjack tuna flakes provide the smoky umami base of Japanese dashi broth alongside kombu kelp?",
     "options": [
-      "Katsuobushi (bonito flakes)",
-      "Niboshi (dried sardines)",
-      "Shiitake powder",
-      "Nori strips"
+      "Katsuobushi",
+      "Niboshi",
+      "Kombu",
+      "Shiitake"
     ],
     "answer": 0,
     "d": 3
@@ -2175,9 +2175,9 @@
     "show": "Ingredients",
     "q": "Which gelatinous gray block made from the corm of the elephant yam (konnyaku) is simmered in Japanese oden stews?",
     "options": [
-      "Konjac (Konnyaku)",
-      "Yuba (tofu skin)",
-      "Aburaage",
+      "Konjac",
+      "Yuba",
+      "Kamaboko",
       "Chikuwa"
     ],
     "answer": 0,
@@ -2677,7 +2677,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which cultured dairy beverage provides the tangy base for classic homemade buttermilk ranch dressing?",
+    "q": "Which traditional cultured, slightly acidic dairy beverage provides the rich tangy base for classic homemade ranch dressing?",
     "options": [
       "Buttermilk",
       "Evaporated milk",
@@ -2725,7 +2725,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "What sweet beehive product is paired with prepared mustard to make classic honey mustard dressing?",
+    "q": "What golden nectar produced by bees is blended with prepared mustard and mayonnaise to create classic sweet sandwich dressing?",
     "options": [
       "Honey",
       "Maple syrup",
@@ -3385,12 +3385,12 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which Modena specialty spread, known as 'cunza' or Pesto Modenese, is made of finely beaten pork lard, rosemary, and garlic, spread over warm tigelle?",
+    "q": "Which Modena specialty spread, traditionally known as 'cunza', is made of finely beaten pork lard, rosemary, and garlic, spread over warm tigelle?",
     "options": [
       "Lardo di Colonnata",
       "Pesto alla Trapanese",
       "Nduja",
-      "Pesto Modenese (Cunza)"
+      "Pesto Modenese"
     ],
     "answer": 3,
     "d": 3
@@ -3520,9 +3520,9 @@
     "q": "Which fermented Chinese sweet bean sauce made from fermented wheat flour and yellow soybeans is an indispensable base for Zha Jiang Mian?",
     "options": [
       "Doubanjiang",
-      "Tianmianjiang (Sweet Bean Sauce)",
+      "Tianmianjiang",
       "Hoisin sauce",
-      "Shahe paste"
+      "Chujang"
     ],
     "answer": 1,
     "d": 3
@@ -3879,10 +3879,10 @@
     "show": "Ingredients",
     "q": "Which pork cut is slow-smoked over hickory or oak and shredded to make Carolina pulled pork barbecue?",
     "options": [
-      "Pork shoulder (pork butt)",
-      "Pork tenderloin",
+      "Pork shoulder",
       "Pork belly",
-      "Pork chops"
+      "Pork tenderloin",
+      "Spare ribs"
     ],
     "answer": 0,
     "d": 1
@@ -4047,12 +4047,12 @@
     "show": "Ingredients",
     "q": "What flavorful liquid meat trimmings and gravy are used to make a classic New Orleans roast beef Po' Boy?",
     "options": [
-      "Au jus broth",
-      "Debris (gravy with braised roast beef shreds)",
-      "Pot roast jus",
-      "Béchamel sauce"
+      "Debris",
+      "Au jus",
+      "Remoulade",
+      "Potlikker"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 2
   },
   {
@@ -4167,12 +4167,12 @@
     "show": "Ingredients",
     "q": "Which Midwestern sandwich, famous at Maid-Rite restaurants in Iowa, features unseasoned ground beef cooked loose without tomato binders on a steamed bun?",
     "options": [
+      "Loose meat sandwich",
+      "Patty melt",
       "Sloppy Joe",
-      "Chopped cheese",
-      "Runza",
-      "Loose meat sandwich (Tavern sandwich)"
+      "Chopped cheese"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 2
   },
   {
@@ -6051,12 +6051,12 @@
     "show": "Ingredients",
     "q": "What type of short-grain rice, seasoned with rice vinegar, sugar, and salt, forms the base of Japanese sushi?",
     "options": [
-      "Jasmine rice",
-      "Basmati rice",
-      "Brown glutinous rice",
-      "Sumeshi (seasoned sushi rice)"
+      "Sumeshi",
+      "Genmai",
+      "Mochigome",
+      "Haiga-mai"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 1
   },
   {
@@ -6433,7 +6433,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which Japanese savory pancake, whose name means 'grilled as you like', features shredded cabbage, batter, pork belly, okonomiyaki sauce, and dancing bonito flakes?",
+    "q": "Which Japanese savory cabbage pancake, whose name translates to 'grilled as you like', is griddled on a teppan and topped with sweet brown sauce, kewpie mayo, and bonito flakes?",
     "options": [
       "Okonomiyaki",
       "Takoyaki",
@@ -6520,11 +6520,11 @@
     "q": "Which Cantonese roast pork dish features tender pork belly roasted until its rind puffs up into intensely crispy, bubbly, golden crackling skin?",
     "options": [
       "Char Siu",
-      "Dongpo Pork",
-      "Siu Yuk (Crispy Roast Pork Belly)",
-      "Sweet and Sour Pork"
+      "Siu Yuk",
+      "Lechon Kawali",
+      "Pork belly adobo"
     ],
-    "answer": 2,
+    "answer": 1,
     "d": 2
   },
   {
@@ -6544,11 +6544,11 @@
     "q": "Which famous Hunanese red-braised pork dish, famously loved by Chairman Mao, simmers pork belly with caramelized rock sugar, dark soy, and spices?",
     "options": [
       "Dongpo Pork",
-      "Char Siu",
-      "Mao Tofu",
-      "Hong Shao Rou (Red-Braised Pork)"
+      "Hong Shao Rou",
+      "Twice Cooked Pork",
+      "Mao Family Chicken"
     ],
-    "answer": 3,
+    "answer": 1,
     "d": 2
   },
   {
@@ -6615,12 +6615,12 @@
     "show": "Ingredients",
     "q": "Which Taiwanese comfort food dish consists of finely minced pork belly braised with fried shallots, soy sauce, five spice, and rock sugar spooned over steamed white rice?",
     "options": [
-      "Gua Bao",
-      "Zongzi",
-      "Lu Rou Fan (Braised Pork Rice)",
-      "Minced Beef Rice"
+      "Lu Rou Fan",
+      "Hainanese Chicken Rice",
+      "Claypot Rice",
+      "Bibimbap"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 2
   },
   {
@@ -6867,22 +6867,22 @@
     "show": "Ingredients",
     "q": "Which tart, tiny dried red berries, sautéed in butter with sugar and saffron, are scattered across Persian basmati rice in Zereshk Polo?",
     "options": [
-      "Pomegranate arils",
-      "Dried cranberries",
-      "Barberries (Zereshk)",
-      "Red currants"
+      "Barberries",
+      "Dried sour cherries",
+      "Sumac berries",
+      "Pomegranate arils"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 3
   },
   {
     "show": "Ingredients",
     "q": "Which traditional Iranian meat and chickpea stew, also known as Dizi, is cooked in clay pots where the broth is strained first and solids mashed with a goosht-koob?",
     "options": [
-      "Abgoosht (Dizi)",
-      "Kashk-e Bademjan",
-      "Haleem",
-      "Ash-e Reshteh"
+      "Abgoosht",
+      "Ghormeh Sabzi",
+      "Fesenjan",
+      "Khoresht Gheimeh"
     ],
     "answer": 0,
     "d": 3
@@ -7143,7 +7143,7 @@
     "show": "Ingredients",
     "q": "Which rich, gelatinous soup made by slow-cooking goat or sheep trotters and hooves with onions, ginger, and spices is an Indian winter staple?",
     "options": [
-      "Paya (Trotters soup)",
+      "Paya",
       "Nihari",
       "Haleem",
       "Yakhni"
@@ -7179,10 +7179,10 @@
     "show": "Ingredients",
     "q": "Which small, ribbed seeds tasting strongly of thyme and caraway are commonly added to samosa pastry dough and Indian pakoras for digestion?",
     "options": [
-      "Ajwain (Carom seeds)",
-      "Kalonji (Nigella seeds)",
+      "Ajwain",
+      "Kalonji",
       "Fennel seeds",
-      "Cumin seeds"
+      "Coriander seeds"
     ],
     "answer": 0,
     "d": 3
@@ -7285,7 +7285,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which dough made of nixtamalized corn flour (masa) and lard is wrapped in corn husks and steamed to make Mexican Tamales?",
+    "q": "Which traditional dough made of nixtamalized corn flour and lard is wrapped in corn husks or banana leaves and steamed to make Mexican Tamales?",
     "options": [
       "Masa",
       "Polenta",
@@ -7431,10 +7431,10 @@
     "show": "Ingredients",
     "q": "Which small, starchy legume is cooked with long-grain rice and sofrito to make Puerto Rican Arroz con Gandules?",
     "options": [
-      "Pigeon peas (Gandules)",
+      "Pigeon peas",
       "Black beans",
-      "Chickpeas",
-      "Lentils"
+      "Red kidney beans",
+      "Pink beans"
     ],
     "answer": 0,
     "d": 1
@@ -7491,12 +7491,12 @@
     "show": "Ingredients",
     "q": "What root starch gives Brazilian Pão de Queijo cheese breads their unique elastic, chewy chewiness?",
     "options": [
+      "Tapioca starch",
       "Cornstarch",
-      "Tapioca starch (Manioc starch)",
       "Potato starch",
-      "Wheat flour"
+      "Arrowroot starch"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -7516,7 +7516,7 @@
     "q": "Which red oil, extracted from the fruit of the African oil palm, gives Bahian Brazilian cooking its bright orange color and earthy flavor?",
     "options": [
       "Achiote oil",
-      "Dendê oil (Red palm oil)",
+      "Dendê oil",
       "Sesame oil",
       "Avocado oil"
     ],
@@ -7611,7 +7611,7 @@
     "show": "Ingredients",
     "q": "Which chilled Peruvian terrine layers smooth mashed yellow potatoes seasoned with lime juice and ají amarillo with shredded chicken or tuna salad and avocado?",
     "options": [
-      "Causa Rellena (Causa Limeña)",
+      "Causa Rellena",
       "Papa Rellena",
       "Papa a la Huancaína",
       "Pastel de Papa"
@@ -7767,7 +7767,7 @@
     "show": "Ingredients",
     "q": "Which traditional alkaline compound (calcium hydroxide) is dissolved in water to nixtamalize field corn for tortillas?",
     "options": [
-      "Slaked lime (Cal)",
+      "Slaked lime",
       "Baking soda",
       "Potassium carbonate",
       "Wood ash only"
@@ -8152,9 +8152,9 @@
     "q": "Which fermented African locust bean condiment (Parkia biglobosa), known as Iru or Dawadawa, provides a deep pungent umami funk to West African soups?",
     "options": [
       "Ogiri",
-      "Crayfish powder",
-      "Iru (Dawadawa)",
-      "Potash"
+      "Soumbala",
+      "Iru",
+      "Sumbala"
     ],
     "answer": 2,
     "d": 3
@@ -8295,7 +8295,7 @@
     "show": "Ingredients",
     "q": "Which classic South African baked dessert tart consists of a sweet pastry crust filled with a creamy cooked milk, egg, and flour custard, dusted generously with cinnamon?",
     "options": [
-      "Melktert (Milk Tart)",
+      "Melktert",
       "Malva pudding",
       "Koeksister",
       "Hertzoggie"
@@ -8346,7 +8346,7 @@
       "Yassa",
       "Thieboudienne",
       "Ndole",
-      "Maafe (Groundnut Stew)"
+      "Maafe"
     ],
     "answer": 3,
     "d": 3
@@ -8689,7 +8689,7 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which dessert, named after Russian ballerina Anna Pavlova, features a crisp meringue shell with a marshmallow center topped with whipped cream and fresh fruit?",
+    "q": "Which Australasian dessert, created in honor of a touring Russian ballerina, features a crisp meringue shell with a marshmallow center topped with whipped cream and fresh fruit?",
     "options": [
       "Charlotte Russe",
       "Eton Mess",
@@ -8789,7 +8789,7 @@
     "options": [
       "Amaretti",
       "Brutti ma buoni",
-      "Cantucci (Biscotti di Prato)",
+      "Cantucci",
       "Ricciarelli"
     ],
     "answer": 2,
@@ -9013,14 +9013,14 @@
   },
   {
     "show": "Ingredients",
-    "q": "Which round, enclosed French puff pastry pie from Pithiviers is filled with rich frangipane almond cream and decorated with spiral score marks?",
+    "q": "Which round, enclosed French puff pastry pie from the Loiret region is filled with rich frangipane almond cream and decorated with spiral score marks?",
     "options": [
-      "Tourte aux pommes",
-      "Mille-feuille",
-      "Tarte Bourdaloue",
-      "Pithiviers (Galette des Rois)"
+      "Pithiviers",
+      "Kouign-amann",
+      "Tarte Tatin",
+      "Mille-feuille"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 2
   },
   {

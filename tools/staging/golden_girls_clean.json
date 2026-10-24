@@ -877,9 +877,9 @@
   },
   {
     "show": "The Golden Girls",
-    "q": "What contest does Rose enter where she is mistakenly named St. Olaf's 'Woman of the Year'?",
+    "q": "In Season 4, what prestigious hometown civic honor does Rose mistakenly receive before discovering she wasn't the intended recipient?",
     "options": [
-      "Butter Queen of Minnesota",
+      "St. Olaf Butter Queen",
       "St. Olaf Woman of the Year",
       "Lutefisk Princess of Crow Wing County",
       "Miss Dairy Days"
@@ -2101,7 +2101,7 @@
   },
   {
     "show": "The Golden Girls",
-    "q": "In 'The Pope's Ring' (Season 6), what heirloom does Sophia acquire from a visiting relative that causes high drama?",
+    "q": "In Season 6, what sacred heirloom does Sophia acquire from a visiting relative that she believes brings miracles, causing major drama in the house?",
     "options": [
       "A crucifix made from the True Cross",
       "A rosary carved by St. Francis",
@@ -3231,24 +3231,24 @@
     "show": "The Golden Girls",
     "q": "How many total Primetime Emmy nominations did Betty White receive specifically for playing Rose Nylund?",
     "options": [
-      "Three nominations",
-      "Seven nominations (nominated every single season)",
+      "Seven nominations",
       "Five nominations",
+      "Three nominations",
       "Nine nominations"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 3
   },
   {
     "show": "The Golden Girls",
     "q": "How many total Primetime Emmy nominations did Estelle Getty receive for playing Sophia Petrillo?",
     "options": [
-      "Four nominations",
+      "Seven nominations",
       "Five nominations",
-      "Seven nominations (nominated every single season)",
-      "Six nominations"
+      "Three nominations",
+      "Nine nominations"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 3
   },
   {
@@ -3865,11 +3865,11 @@
   },
   {
     "show": "The Golden Girls",
-    "q": "Which episode of 'The Golden Girls' served as the backdoor pilot for the spin-off 'Empty Nest' in Season 2?",
+    "q": "Which Season 2 episode focusing on the girls' neurotic neighboring couple served as the backdoor pilot for a spin-off sitcom?",
     "options": [
       "'The Neighbor Next Door'",
       "'Dr. Weston Moves In'",
-      "'Empty Nests' (featuring Rita Moreno and Paul Dooley)",
+      "'Empty Nests'",
       "'Miami Physicians'"
     ],
     "answer": 2,
@@ -4347,12 +4347,12 @@
     "show": "The Golden Girls",
     "q": "Which famous theater critic and lyricist was the father of executive producer Tony Thomas?",
     "options": [
-      "Lowell Thomas",
-      "Dylan Thomas",
-      "Danny Thomas (the legendary comedian and television pioneer)",
-      "Marlo Thomas"
+      "Danny Thomas",
+      "Bob Hope",
+      "Shecky Greene",
+      "Milton Berle"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 2
   },
   {
@@ -4779,10 +4779,10 @@
     "show": "The Golden Girls",
     "q": "Which of the four Golden Girls was the oldest in real life, born in January 1922?",
     "options": [
-      "Bea Arthur (born May 1922)",
-      "Estelle Getty (born July 1923)",
+      "Bea Arthur",
+      "Estelle Getty",
       "Betty White",
-      "Rue McClanahan (born February 1934)"
+      "Rue McClanahan"
     ],
     "answer": 2,
     "d": 1
@@ -5536,7 +5536,7 @@
     "q": "Who founded the Rue La Rue Cafe using personal memorabilia and costumes inherited from Rue McClanahan?",
     "options": [
       "Marc Cherry",
-      "Michael J. LaRue (Rue's close friend and executor)",
+      "Michael J. LaRue",
       "Brandon Tartikoff",
       "Norman Lear"
     ],
@@ -5631,12 +5631,12 @@
     "show": "The Golden Girls",
     "q": "Which of the following actresses was offered the role of Dorothy Zbornak before Bea Arthur officially signed on?",
     "options": [
-      "Angela Lansbury",
-      "Lee Grant (who turned it down because she didn't want to play a grandmother)",
-      "Lucille Ball",
-      "Carol Burnett"
+      "Lee Grant",
+      "Elaine Stritch",
+      "Doris Roberts",
+      "Marion Ross"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 3
   },
   {
@@ -5741,7 +5741,7 @@
     "options": [
       "Betty White",
       "Rue McClanahan",
-      "None of them (Betty White was born in Illinois, Bea Arthur in New York, Rue McClanahan in Oklahoma, Estelle Getty in New York)",
+      "None of them",
       "Estelle Getty"
     ],
     "answer": 2,
@@ -5837,7 +5837,7 @@
     "options": [
       "Rue McClanahan",
       "Bea Arthur",
-      "None of them (all three co-stars had passed away before or around the premiere)",
+      "None of them",
       "Estelle Getty"
     ],
     "answer": 2,

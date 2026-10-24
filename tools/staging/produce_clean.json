@@ -867,12 +867,12 @@
     "show": "Fruits & Veggies",
     "q": "The edible stalk of celery is botanically which plant part?",
     "options": [
-      "Main stem axis",
-      "Taproot",
-      "Petiole (leaf stalk)",
-      "Floral peduncle"
+      "Petiole",
+      "Blade",
+      "Root",
+      "Stem internode"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 2
   },
   {
@@ -1707,12 +1707,12 @@
     "show": "Fruits & Veggies",
     "q": "What volatile compound gives freshly crushed cucumber its classic cooling green aroma?",
     "options": [
-      "Methyl salicylate",
-      "(E,Z)-3,6-nonadien-1-ol (cucumber aldehyde)",
-      "Benzaldehyde",
-      "Ethyl butyrate"
+      "(E,Z)-3,6-nonadien-1-ol",
+      "Linalool",
+      "Myrcene",
+      "Geraniol"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 3
   },
   {
@@ -2017,7 +2017,7 @@
   },
   {
     "show": "Fruits & Veggies",
-    "q": "What British research station developed the famous 'Malling' series of dwarfing rootstocks (like M9) for apple trees?",
+    "q": "What historic Kent research station developed the globally famous numbered series of dwarfing rootstocks (such as M9 and M26) for apple trees?",
     "options": [
       "Kew Royal Botanic Gardens",
       "Rothamsted Experimental Station",
@@ -2917,14 +2917,14 @@
   },
   {
     "show": "Fruits & Veggies",
-    "q": "The Russet Burbank potato, the primary potato used for fast-food French fries worldwide, was developed from a seedling of which variety?",
+    "q": "In 1873, which classic red-skinned potato variety produced the seedling that botanist Luther Burbank selected to develop the legendary Burbank potato?",
     "options": [
+      "Early Rose",
       "Yukon Gold",
       "Kennebec",
-      "Irish Cobbler",
-      "Burbank potato (selected by Luther Burbank)"
+      "Katahdin"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 2
   },
   {
@@ -3161,7 +3161,7 @@
     "options": [
       "Central leader system",
       "Spindle bush system",
-      "Open center (vase) system",
+      "Open center system",
       "Trellis cordons"
     ],
     "answer": 2,
@@ -3243,10 +3243,10 @@
     "show": "Fruits & Veggies",
     "q": "Which bizarre citron variety produces segmented, elongated finger-like carpels resembling a human hand?",
     "options": [
-      "Buddha's hand (Fingered citron)",
-      "Dragon's eye",
-      "Devil's claw",
-      "Monkey orange"
+      "Buddha's hand",
+      "Etrog",
+      "Corsican citron",
+      "Diamante citron"
     ],
     "answer": 0,
     "d": 1
@@ -5127,12 +5127,12 @@
     "show": "Fruits & Veggies",
     "q": "Which pepper from Assam, India, became the first pepper in history to be scientifically verified at over 1,000,000 Scoville Heat Units in 2007?",
     "options": [
-      "Bird's eye chili",
-      "Cayenne",
-      "Bhut Jolokia (Ghost Pepper)",
-      "Habanero"
+      "Bhut Jolokia",
+      "Habanero",
+      "Trinidad Moruga Scorpion",
+      "Carolina Reaper"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 2
   },
   {
@@ -5691,17 +5691,17 @@
     "show": "Fruits & Veggies",
     "q": "Which fruit festival in the Okanagan Valley of British Columbia celebrates the regional harvest with fruit pie competitions and parades?",
     "options": [
-      "Kelowna Cherry Carnival",
-      "Vancouver Apple Fair",
-      "Penticton Peach Festival (Peach Fest)",
-      "Victoria Berry Jubilee"
+      "Penticton Peach Festival",
+      "Kelowna Apple Fair",
+      "Vernon Cherry Jubilee",
+      "Osoyoos Grape Gala"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 3
   },
   {
     "show": "Fruits & Veggies",
-    "q": "What Ohio city calls itself the 'Bratwurst and Sauerkraut Capital' and hosts an annual Ohio Sauerkraut Festival drawing over 300,000 visitors to Waynesville?",
+    "q": "What southwest Ohio village hosts an annual Sauerkraut Festival that draws hundreds of thousands of visitors to celebrate fermented cabbage?",
     "options": [
       "Waynesville",
       "Akron",
@@ -5787,12 +5787,12 @@
     "show": "Fruits & Veggies",
     "q": "What nickname was given to Roman Emperor Nero by mocking citizens due to his daily diet of leeks with oil?",
     "options": [
-      "Cabbagemonger",
-      "Onion-breather",
-      "Porrophagus (Leek-eater)",
-      "The Radish King"
+      "Porrophagus",
+      "Alliumphile",
+      "Scorodite",
+      "Cepaicus"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 3
   },
   {

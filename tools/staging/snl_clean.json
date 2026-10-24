@@ -649,7 +649,7 @@
   },
   {
     "show": "SNL",
-    "q": "Which legendary R&B singer made a guest appearance on SNL and judged an Eddie Murphy look-alike contest as Stevie Wonder?",
+    "q": "Which legendary blind Motown superstar made a guest appearance on SNL and hilariously failed to win a look-alike contest judged against Eddie Murphy?",
     "options": [
       "Stevie Wonder",
       "Ray Charles",
@@ -913,7 +913,7 @@
   },
   {
     "show": "SNL",
-    "q": "What was the opening greeting Mike Myers used as Dieter, the black-turtleneck-wearing German avant-garde host of 'Sprockets'?",
+    "q": "What famous invitation did Mike Myers repeatedly declare as Dieter, the black-turtlenecked German avant-garde talk show host, before gyrating to techno music?",
     "options": [
       "Let us now celebrate nihilism!",
       "Welcome to the emptiness of modern Munich!",
@@ -1885,7 +1885,7 @@
   },
   {
     "show": "SNL",
-    "q": "What catchphrase did Tracy Morgan repeatedly deliver on 'Brian Fellow's Safari Planet'?",
+    "q": "What introductory catchphrase did Tracy Morgan's unqualified, animal-hating nature show host repeatedly exclaim on his Safari Planet show?",
     "options": [
       "I'm Brian Fellow!",
       "Look at that wild beast!",
@@ -1921,7 +1921,7 @@
   },
   {
     "show": "SNL",
-    "q": "Which real U.S. Attorney General made a cameo appearance to dance alongside Will Ferrell during the final 'Janet Reno's Dance Party' sketch in 2001?",
+    "q": "Which real Clinton administration Attorney General made a surprise cameo appearance to dance alongside Will Ferrell during her namesake sketch in 2001?",
     "options": [
       "Madeleine Albright",
       "Janet Reno",
@@ -3325,11 +3325,11 @@
   },
   {
     "show": "SNL",
-    "q": "Which pop superstar pulled double duty as host and musical guest in 2024 and performed the hit song 'Espresso'?",
+    "q": "Which pop superstar was the musical guest on the Season 49 finale in May 2024 and performed her breakthrough smash hit 'Espresso'?",
     "options": [
       "Billie Eilish",
       "Dua Lipa",
-      "Sabrina Carpenter (musical guest) / Ariana Grande (double duty)",
+      "Sabrina Carpenter",
       "Olivia Rodrigo"
     ],
     "answer": 2,
@@ -3421,7 +3421,7 @@
   },
   {
     "show": "SNL",
-    "q": "Which actual celebrity appeared on the 'Dionne Warwick Talk Show' to be interviewed by Ego Nwodim as herself?",
+    "q": "Which legendary singer appeared as a surprise guest on Ego Nwodim's parody talk show to be interviewed by her own fictionalized self?",
     "options": [
       "Dionne Warwick",
       "Diana Ross",
@@ -3577,14 +3577,14 @@
   },
   {
     "show": "SNL",
-    "q": "In a classic 2012 sketch, what did host Louis C.K. play as a 19th-century Abraham Lincoln look-alike in a gritty sitcom?",
+    "q": "In a classic 2012 sketch parodying his FX comedy series, what historical U.S. President did Louis C.K. portray as an awkward stand-up comedian living in NYC?",
     "options": [
-      "Gettysburg Dad",
-      "Abe in the City",
-      "Emancipation Louie",
-      "Lincoln (Louie parody)"
+      "Abraham Lincoln",
+      "George Washington",
+      "Andrew Jackson",
+      "Theodore Roosevelt"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 3
   },
   {
@@ -4251,12 +4251,12 @@
     "show": "SNL",
     "q": "Who made a surprise appearance alongside Amy Poehler and Bill Hader to bid farewell to Seth Meyers on his last Update show?",
     "options": [
-      "Drunk Uncle",
-      "David S. Pumpkins",
-      "Stefon (who revealed he was married to Seth)",
-      "The Church Lady"
+      "Stefon",
+      "The Continental",
+      "Jacob the Bar Mitzvah Boy",
+      "Herb Welch"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 2
   },
   {
@@ -6951,10 +6951,10 @@
     "show": "SNL",
     "q": "Which fake razor commercial from the 1970s famously joked about a razor with an absurd number of blades, decades before it became real?",
     "options": [
-      "The Triple-Trac razor (three blades)",
-      "The Quintuple-Blade 5000",
-      "The Octo-Shave",
-      "The Mach-Seven"
+      "The Triple-Trac razor",
+      "The Mach Speed razor",
+      "The Quattro Sharp",
+      "The Infinity Edge"
     ],
     "answer": 0,
     "d": 2
@@ -7705,7 +7705,7 @@
   },
   {
     "show": "SNL",
-    "q": "Which Academy Award-nominated actor and brother of Randy Quaid was an SNL cast member during the 1985-1986 season?",
+    "q": "Which Academy Award-nominated actor and brother of Dennis Quaid was an SNL cast member during the 1985-1986 season?",
     "options": [
       "Dennis Quaid",
       "Randy Quaid",
@@ -7719,12 +7719,12 @@
     "show": "SNL",
     "q": "What ranking did Rolling Stone notoriously give to Robert Downey Jr. in its 2015 retrospective ranking of all 145 SNL cast members?",
     "options": [
+      "Dead last",
       "Number 100",
-      "Dead last (Number 145)",
-      "Number 120",
-      "Number 135"
+      "Top 50",
+      "Runner-up"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 3
   },
   {
@@ -8105,7 +8105,7 @@
     "options": [
       "Thomas Middleditch",
       "Martin Starr",
-      "Kumail Nanjiani (auditioned) / Carrie Brownstein",
+      "Kumail Nanjiani",
       "Zach Woods"
     ],
     "answer": 2,

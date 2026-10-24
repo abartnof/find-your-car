@@ -314,12 +314,12 @@
   {
     "show": "How Did This Get Made?",
     "section": "The Hosts, Format & Origins",
-    "q": "What animal is Jason Mantzoukas severely allergic to in real life, a fact frequently discussed when discussing pets?",
+    "q": "What food is Jason Mantzoukas deathly allergic to in real life, a fact frequently referenced whenever meals or diner scenes come up?",
     "options": [
-      "Dogs",
-      "Cats",
-      "Eggs / Egg-bearing animals (and severely allergic to nuts/eggs)",
-      "Ferrets"
+      "Peanuts",
+      "Shellfish",
+      "Eggs",
+      "Soy"
     ],
     "answer": 2,
     "d": 1
@@ -834,7 +834,7 @@
   {
     "show": "How Did This Get Made?",
     "section": "Classic Episodes & Iconic Movies",
-    "q": "What movie featured Sylvester Stallone eating pizza with scissors and carrying a custom gun with a cobra on the grip?",
+    "q": "What 1986 action film featured Sylvester Stallone eating pizza with scissors and playing tough street cop Marion Cobretti?",
     "options": [
       "Over the Top",
       "Cobra",
@@ -1692,7 +1692,7 @@
   {
     "show": "How Did This Get Made?",
     "section": "Metadata, Episode Details & Guests",
-    "q": "Which movie covered on the show features a teenage girl falling in love with a mannequin that comes to life (played by Andrew McCarthy and Kim Cattrall)?",
+    "q": "Which 1987 romantic comedy covered on the show features a department store worker who falls in love with a window display figure that magically comes to life?",
     "options": [
       "Mannequin",
       "Mannequin Two: On the Move",

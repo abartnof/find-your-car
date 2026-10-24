@@ -13,7 +13,7 @@
   },
   {
     "show": "Arrested Development",
-    "q": "What phrase is painted in red across the chest of Tobias Fünke during his audition for the Blue Man Group?",
+    "q": "What first name does Dr. Fünke paint across his own bare chest in red letters during his audition for the Blue Man Group?",
     "options": [
       "I just blue myself",
       "Tobias",
@@ -385,7 +385,7 @@
   },
   {
     "show": "Arrested Development",
-    "q": "What is the name of Oscar Bluth's lemon grove property?",
+    "q": "What is the name of Oscar Bluth's citrus orchard property?",
     "options": [
       "Lemon Grove Estates",
       "Motherboy Acres",
@@ -661,7 +661,7 @@
   },
   {
     "show": "Arrested Development",
-    "q": "What does Michael famously whisper upon seeing Ann's picture: \"Her?\" or \"Who?\"",
+    "q": "What one-word question does Michael repeatedly and incredulously utter whenever George Michael mentions his girlfriend Ann?",
     "options": [
       "\"Who?\"",
       "\"Her?\"",
@@ -1935,7 +1935,7 @@
     "show": "Arrested Development",
     "q": "What unexpected side effect did Tobias suffer from his ill-fated hair transplant?",
     "options": [
-      "Graft versus host disease (his body rejected the hair)",
+      "Graft versus host disease",
       "Blue skin",
       "Temporary muteness",
       "Severe blindness"
@@ -1948,7 +1948,7 @@
     "q": "What was the name of the doctor famous for delivering horrifyingly ambiguous news to the Bluths?",
     "options": [
       "Dr. Stein",
-      "Dr. Fishman (\"The Literal Doctor\")",
+      "Dr. Fishman",
       "Dr. Zuckerkorn",
       "Dr. Roberts"
     ],
@@ -1961,7 +1961,7 @@
     "options": [
       "\"He's gone.\"",
       "\"It looks like he's dead.\"",
-      "\"He's going to be all right\" (because he lost his left hand)",
+      "\"He's going to be all right\"",
       "\"There is nothing left of him.\""
     ],
     "answer": 2,
@@ -2197,14 +2197,14 @@
   },
   {
     "show": "Arrested Development",
-    "q": "What is the name of Tobias's black-clad alter-ego when auditioning for the Blue Man Group?",
+    "q": "What performance art company does Tobias obsessively attempt to join, leading him to constantly cover his skin in blue diamond lotion?",
     "options": [
-      "Shadow Tobias",
-      "Blue Man",
-      "Tobias Onyx",
-      "The Blue Illusion"
+      "Blue Man Group",
+      "Cirque du Soleil",
+      "The Living Theatre",
+      "Stomp"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -2365,7 +2365,7 @@
   },
   {
     "show": "Arrested Development",
-    "q": "What award-winning actor played Martin Short's wheelchair-bound, wildly energetic character Uncle Jack?",
+    "q": "What comedy legend played the wheelchair-bound, wildly energetic character Uncle Jack who needed to be carried everywhere?",
     "options": [
       "Martin Short",
       "Steve Martin",
@@ -2464,7 +2464,7 @@
     "q": "What award did Buster win in Army for his target practice skills?",
     "options": [
       "Sharpshooter Medal",
-      "Marksmanship Medal (using his drone-like toy skills)",
+      "Marksmanship Medal",
       "Purple Heart",
       "Distinguished Service Cross"
     ],
@@ -2905,7 +2905,7 @@
   },
   {
     "show": "Arrested Development",
-    "q": "What did Buster call the claw game in the arcade where he honed his skills?",
+    "q": "What did Buster call the mechanical prize-grabbing arcade game where he honed his uncanny retrieval skills?",
     "options": [
       "The Prize Snatcher",
       "The Claw",
@@ -3157,10 +3157,10 @@
   },
   {
     "show": "Arrested Development",
-    "q": "Who won the annual mother-son Motherboy competition before Buster and Lucille's streak ended?",
+    "q": "Which mother-son duo dominated the annual Motherboy pageant costume competition for years with matching elaborate outfits?",
     "options": [
       "Michael and Lucille",
-      "Buster and Lucille (for decades)",
+      "Buster and Lucille",
       "George Michael and Lindsay",
       "G.O.B. and Lucille"
     ],
@@ -3294,7 +3294,7 @@
       "Stan Sitwell",
       "Bob Loblaw",
       "Wayne Jarvis",
-      "Ted (the Bluth Company accountant)"
+      "Ted"
     ],
     "answer": 3,
     "d": 1

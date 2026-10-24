@@ -1287,10 +1287,10 @@
     "show": "30 Rock",
     "q": "What are the names of the twin children Liz and Criss adopt in the series finale?",
     "options": [
-      "Terry and Janet (who look and act exactly like Tracy and Jenna)",
-      "Jack and Colleen",
-      "Peter and Wendy",
-      "Floyd and Carol"
+      "Terry and Janet",
+      "Lemon and Criss Jr.",
+      "Tracy and Jenna",
+      "Frank and Cerie"
     ],
     "answer": 0,
     "d": 1
@@ -2727,10 +2727,10 @@
     "show": "30 Rock",
     "q": "What character did Rachel Dratch play in the original, unaired pilot before being recast?",
     "options": [
-      "Jenna DeCarlo (later Jenna Maroney)",
-      "Liz Lemon",
-      "Cerie",
-      "Verna"
+      "Jenna DeCarlo",
+      "Jenna Vance",
+      "Jenna Maroney",
+      "Jenna Smith"
     ],
     "answer": 0,
     "d": 1
@@ -3001,7 +3001,7 @@
   },
   {
     "show": "30 Rock",
-    "q": "What actor played Liz Lemon's boyfriend Astronaut Buzz Aldrin's fellow flyer, who turned out to be an actual guest star playing himself?",
+    "q": "Which Apollo 11 astronaut famously guest-starred as himself in Season 4, yelling at the night sky with Liz Lemon?",
     "options": [
       "Buzz Aldrin",
       "Neil Armstrong",

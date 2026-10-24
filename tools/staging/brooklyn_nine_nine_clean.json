@@ -25,7 +25,7 @@
   },
   {
     "show": "Brooklyn Nine-Nine",
-    "q": "Which character has an elusive, shadowy personal life and used to go by names like \"Rosa Diaz\"?",
+    "q": "Which badass detective in the 99th precinct is so fiercely private about her personal life that nobody even knows her real home address or if her name is real?",
     "options": [
       "Rosa Diaz",
       "Gina Linetti",
@@ -2091,12 +2091,12 @@
     "show": "Brooklyn Nine-Nine",
     "q": "What nickname does Jake give to his Pontiac Bandit-hunting duo with Boyle?",
     "options": [
-      "The Fire and Ice Detectives",
-      "The Midnight Men",
-      "The PB&J (Pontiac Bandit and Jake)",
-      "The dynamic dicks"
+      "The PB&J",
+      "The Dynamic Duo",
+      "The Nine-Nine Enforcers",
+      "The Pontiac Patrol"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
@@ -2713,9 +2713,9 @@
   },
   {
     "show": "Brooklyn Nine-Nine",
-    "q": "What toy was Terry searching for outside his home in \"Moo Moo\"?",
+    "q": "In the critically acclaimed Season 4 episode dealing with racial profiling, what favorite bedtime toy belonging to his twin daughters was Terry searching for outside his home?",
     "options": [
-      "A plush blanket / stuffed cow named Moo Moo",
+      "A plush stuffed toy cow",
       "A toy fire truck",
       "A plastic tiara",
       "A baby doll"

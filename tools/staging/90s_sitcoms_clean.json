@@ -1,7 +1,7 @@
 [
   {
     "show": "90s Sitcoms",
-    "q": "In the Season 6 episode 'The Switch', what is Cosmo Kramer's first name finally revealed to be after years of mystery?",
+    "q": "In the Season 6 episode 'The Switch', what is Kramer's first name finally revealed to be after years of mystery?",
     "options": [
       "Casper",
       "Cosmo",
@@ -2271,12 +2271,12 @@
     "show": "90s Sitcoms",
     "q": "Who provided the iconic, high-pitched voice for Baby Sinclair throughout Dinosaurs?",
     "options": [
+      "Kevin Clash",
       "Jim Henson",
-      "Carroll Spinney",
       "Frank Oz",
-      "Kevin Clash (the original puppeteer and voice of Elmo)"
+      "Steve Whitmire"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 3
   },
   {
@@ -3457,7 +3457,7 @@
   },
   {
     "show": "90s Sitcoms",
-    "q": "What New York City borough serves as the setting for Doug and Carrie's home on The King of Queens?",
+    "q": "What New York City borough serves as the residential setting for Doug and Carrie Heffernan?",
     "options": [
       "Queens",
       "Brooklyn",
@@ -7453,14 +7453,14 @@
   },
   {
     "show": "90s Sitcoms",
-    "q": "Which popular Thursday night sitcom featured characters from Seinfeld, Friends, and Mad About You crossing over in the same NBC universe?",
+    "q": "Which Paul Reiser and Helen Hunt NBC comedy established a shared universe with Friends through Ursula Buffay, and with Seinfeld via Kramer subletting Paul's apartment?",
     "options": [
-      "NewsRadio",
       "Mad About You",
-      "The Single Guy",
-      "Wings"
+      "Frasier",
+      "Wings",
+      "NewsRadio"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 2
   },
   {
@@ -7945,7 +7945,7 @@
   },
   {
     "show": "90s Sitcoms",
-    "q": "What Fox sitcom set in Detroit starred Martin Lawrence and anchored Fox's successful Thursday night urban comedy expansion?",
+    "q": "What self-titled Fox comedy set in Detroit anchored the network's successful Thursday night programming from 1992 to 1997?",
     "options": [
       "Living Single",
       "South Central",
@@ -8137,14 +8137,14 @@
   },
   {
     "show": "90s Sitcoms",
-    "q": "In 1999, which Fox live-action sitcom won the Primetime Emmy Award for Outstanding Comedy Series, becoming the only animated series nominated in modern times?",
+    "q": "In 1999, which quirky legal comedy-drama created by David E. Kelley won the Primetime Emmy Award for Outstanding Comedy Series for Fox?",
     "options": [
-      "Family Guy",
-      "The Simpsons (nominated in 1993 for comedy writing, but Ally McBeal won Comedy Series in 1999)",
-      "King of the Hill",
-      "Futurama"
+      "Ally McBeal",
+      "Spin City",
+      "Dharma & Greg",
+      "NewsRadio"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 2
   },
   {
@@ -8247,12 +8247,12 @@
     "show": "90s Sitcoms",
     "q": "Who wrote and performed the bluesy opening saxophone and harmonica theme song for Roseanne?",
     "options": [
-      "Branford Marsalis",
-      "Kenny G",
-      "Dan Foliart and Howard Pearl (featuring John Popper on harmonica in Season 9)",
-      "Clarence Clemons"
+      "Dan Foliart and Howard Pearl",
+      "Danny Elfman",
+      "Mark Snow",
+      "W.G. Snuffy Walden"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 2
   },
   {
@@ -8341,10 +8341,10 @@
   },
   {
     "show": "90s Sitcoms",
-    "q": "What R&B supergroup composed and performed the vocal theme for Sister, Sister in its early seasons?",
+    "q": "Who performed the catchy opening vocal theme song for the hit 1990s sitcom 'Sister, Sister' in its early seasons?",
     "options": [
       "SWV",
-      "Tia and Tamera Mowry themselves (singing 'Sister, Sister, talk about a two-way tolerance...')",
+      "Tia and Tamera Mowry",
       "En Vogue",
       "TLC"
     ],
@@ -8989,14 +8989,14 @@
   },
   {
     "show": "90s Sitcoms",
-    "q": "What was the name of the executive producer who originally conceived the idea of a street-smart kid in Bel-Air based on his own manager Benny Medina?",
+    "q": "Which music manager and executive originally conceived the premise for The Fresh Prince of Bel-Air based on his own life story of moving from East L.A. to Beverly Hills?",
     "options": [
-      "Andre Harrell",
-      "Clarence Avant",
+      "Benny Medina",
+      "Quincy Jones",
       "Russell Simmons",
-      "Benny Medina (with Jeff Pollack)"
+      "Clarence Avant"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 1
   },
   {
@@ -9375,12 +9375,12 @@
     "show": "90s Sitcoms",
     "q": "In 1998, what animated feature film released by DreamWorks was dedicated to the memory of Phil Hartman?",
     "options": [
+      "Small Soldiers",
       "Antz",
-      "Toy Story 2",
       "The Prince of Egypt",
-      "Small Soldiers (in which he played Phil Fimple)"
+      "Toy Story 2"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 3
   },
   {
@@ -10251,12 +10251,12 @@
     "show": "90s Sitcoms",
     "q": "Which young actor auditioned for the role of Cory Matthews on Boy Meets World before Ben Savage was selected?",
     "options": [
-      "Jonathan Taylor Thomas",
-      "Joseph Gordon-Levitt",
-      "Rider Strong (who was subsequently cast as his best friend Shawn Hunter)",
-      "Elijah Wood"
+      "Rider Strong",
+      "Will Friedle",
+      "Ben Savage",
+      "Matthew Lawrence"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 2
   },
   {
@@ -10287,12 +10287,12 @@
     "show": "90s Sitcoms",
     "q": "What major star auditioned for the role of Kramer on Seinfeld before Michael Richards secured the role?",
     "options": [
-      "Jeff Goldblum",
-      "John Malkovich",
-      "Christopher Lloyd",
-      "Tony Shalhoub (as well as Larry Hankin, who later played 'TV Kramer')"
+      "Tony Shalhoub",
+      "Steve Buscemi",
+      "Larry David",
+      "Hank Azaria"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 2
   },
   {
@@ -10311,10 +10311,10 @@
     "show": "90s Sitcoms",
     "q": "Which actress was considered for the role of Kelly Kapowski on Saved by the Bell before Tiffani-Amber Thiessen won it?",
     "options": [
-      "Jennie Garth (who was subsequently cast in Beverly Hills, 90210)",
-      "Alyssa Milano",
+      "Jennie Garth",
+      "Shannen Doherty",
       "Tori Spelling",
-      "Shannen Doherty"
+      "Alyssa Milano"
     ],
     "answer": 0,
     "d": 1
@@ -11475,12 +11475,12 @@
     "show": "90s Sitcoms",
     "q": "What question causes Monica and Rachel to lose the trivia contest in 'The One with the Embryos'?",
     "options": [
-      "What is Chandler's middle name?",
-      "Where did Chandler go to high school?",
-      "What is Chandler Bing's actual job? (Rachel guesses 'A transponster!')",
-      "What is the name of Chandler's childhood imaginary friend?"
+      "What is Chandler Bing's actual job?",
+      "What is the name of Joey's childhood imaginary friend?",
+      "How many towel categories does Monica have?",
+      "What is Rachel's actual favorite movie?"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 2
   },
   {
@@ -11605,7 +11605,7 @@
   },
   {
     "show": "90s Sitcoms",
-    "q": "What surreal Season 4 episode of NewsRadio transported the entire WNYX office staff onto a spacecraft in deep space?",
+    "q": "What surreal Season 4 episode of NewsRadio transported the entire WNYX office staff onto a futuristic vessel in deep orbit?",
     "options": [
       "\"Cosmic WNYX\"",
       "\"Starship News\"",

@@ -1035,12 +1035,12 @@
     "show": "Cheers",
     "q": "In one of the most famous Bar Wars pranks, what animal did the Cheers gang place inside Gary's Olde Towne Tavern?",
     "options": [
-      "A circus bear",
-      "A swarm of pigeons",
-      "A live sheep (or farm animal)",
-      "A baby alligator"
+      "A live sheep",
+      "A baby pig",
+      "A noisy goat",
+      "A caged rooster"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {
@@ -2185,7 +2185,7 @@
   },
   {
     "show": "Cheers",
-    "q": "What musical instrument does Frasier Crane frequently play and sing alongside at the Cheers piano?",
+    "q": "What musical instrument does Frasier Crane frequently play and sing showtunes alongside in the bar?",
     "options": [
       "Accordion",
       "Acoustic guitar",
@@ -3459,10 +3459,10 @@
     "show": "Cheers",
     "q": "What legendary comedy writer was the father of director James Burrows?",
     "options": [
-      "Abe Burrows (Pulitzer Prize-winning playwright and director)",
-      "Sammy Burrows",
-      "Edgar Burrows",
-      "Irving Burrows"
+      "Abe Burrows",
+      "Neil Simon",
+      "George S. Kaufman",
+      "Moss Hart"
     ],
     "answer": 0,
     "d": 3
@@ -4527,12 +4527,12 @@
     "show": "Cheers",
     "q": "How much money did the producers of Cheers reportedly pay the Bull & Finch owner in 1981 for rights to photograph the exterior?",
     "options": [
-      "10,000 dollars",
-      "One dollar (nominal fee for location rights)",
-      "50,000 dollars",
-      "100,000 dollars plus 1% syndication royalties"
+      "One dollar",
+      "One thousand dollars",
+      "Five thousand dollars",
+      "Ten thousand dollars"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 2
   },
   {
@@ -5377,12 +5377,12 @@
   },
   {
     "show": "Cheers",
-    "q": "What was George Wendt's character originally named in the pilot script before being developed into Norm?",
+    "q": "Before writers renamed him Norm Peterson, what first name was given to the barfly in the original pilot script (matching the actor's real first name)?",
     "options": [
       "George",
-      "Barney",
-      "Gus",
-      "Ralph"
+      "John",
+      "Ted",
+      "Woody"
     ],
     "answer": 0,
     "d": 2
@@ -5451,12 +5451,12 @@
     "show": "Cheers",
     "q": "What actor was the creators' initial top choice for Sam Malone when the character was envisioned as a former football player?",
     "options": [
-      "Joe Namath",
-      "Burt Reynolds",
-      "Fred Dryer (former NFL defensive end who later starred in Hunter)",
-      "Mark Harmon"
+      "Fred Dryer",
+      "William Devane",
+      "Ed O'Neill",
+      "Tom Selleck"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 3
   },
   {
@@ -5883,12 +5883,12 @@
     "show": "Cheers",
     "q": "Which con artist and magician character did Harry Anderson portray in six early Cheers episodes?",
     "options": [
-      "Magic Mike",
-      "Boston Benny",
-      "Harry the Hat (Harry Gittes)",
-      "Slick Sal"
+      "Harry the Hat",
+      "Slick Harry",
+      "Fast Eddie",
+      "Magic Harry"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 1
   },
   {

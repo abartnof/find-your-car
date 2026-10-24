@@ -1333,14 +1333,14 @@
   },
   {
     "show": "Frasier",
-    "q": "What language does Marta speak when speaking to Maris's German fencing instructor?",
+    "q": "In 'An Affair to Forget', what foreign language did Marta learn while working for a family in Guatemala, allowing her to converse with Maris's fencing instructor?",
     "options": [
-      "Spanish",
+      "German",
+      "Italian",
       "French",
-      "Esperanto",
-      "German"
+      "Portuguese"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 3
   },
   {
@@ -2101,7 +2101,7 @@
   },
   {
     "show": "Frasier",
-    "q": "In Season 2's 'Daphne's Room', what boundary does Frasier repeatedly violate, causing Daphne to threaten to quit?",
+    "q": "In a memorable Season 2 episode, what private boundary of Daphne's does Frasier repeatedly violate while trying to replace a mattress, causing her to threaten to quit?",
     "options": [
       "Reading her personal diary hidden in the kitchen",
       "Listening to her private phone calls with Manchester",
@@ -2341,7 +2341,7 @@
   },
   {
     "show": "Frasier",
-    "q": "In Season 3's 'Chess Pains', what classic board game does Frasier obsessively try to beat Martin at, suffering repeated defeats?",
+    "q": "In a memorable Season 3 episode, what classic two-player board game does Frasier obsessively try to defeat Martin at, suffering repeated humiliating losses?",
     "options": [
       "Scrabble",
       "Backgammon",
@@ -5941,7 +5941,7 @@
   },
   {
     "show": "Frasier",
-    "q": "In Season 11's 'Goodnight, Seattle', what is the final word Frasier speaks into his KACL microphone before signing off for good?",
+    "q": "In the series finale, what closing farewell words does Frasier speak into his KACL microphone before signing off the Seattle airwaves for good?",
     "options": [
       "Goodbye, my friends",
       "I'm still listening",
@@ -5994,7 +5994,7 @@
       "Goodnight, Seattle.",
       "Here's to new beginnings.",
       "I'm listening.",
-      "Wish me luck. (spoken by Frasier to the flight attendant upon landing in Chicago)"
+      "\"Wish me luck.\""
     ],
     "answer": 3,
     "d": 1
@@ -6493,7 +6493,7 @@
   },
   {
     "show": "Frasier",
-    "q": "Which iconic television legend from 'The Mary Tyler Moore Show' called into Frasier's show in Season 2 as Marjorie?",
+    "q": "Which iconic television comedy legend who played news producer Mary Richards called into Frasier's radio show in Season 2 as Marjorie?",
     "options": [
       "Carol Burnett",
       "Mary Tyler Moore",
@@ -7023,10 +7023,10 @@
     "show": "Frasier",
     "q": "In 1994, NBC boldly moved 'Frasier' to Tuesday nights at 9:00 PM to go head-to-head against which ratings monster?",
     "options": [
-      "Roseanne on ABC",
-      "Home Improvement (starring Tim Allen on ABC)",
-      "The X-Files on FOX",
-      "Murphy Brown on CBS"
+      "Grace Under Fire",
+      "Home Improvement",
+      "Roseanne",
+      "Full House"
     ],
     "answer": 1,
     "d": 3
@@ -7167,12 +7167,12 @@
     "show": "Frasier",
     "q": "In how many consecutive seasons of 'Frasier' did David Hyde Pierce receive a Primetime Emmy nomination for Supporting Actor?",
     "options": [
-      "Only the first 5 seasons",
-      "All 11 seasons (nominated every single year of the show's run)",
+      "All 11 seasons",
+      "9 seasons",
       "7 seasons",
-      "9 seasons"
+      "5 seasons"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 3
   },
   {
@@ -7647,12 +7647,12 @@
     "show": "Frasier",
     "q": "What was the fictional view from Frasier's 19th-floor balcony that is actually impossible in real-world Seattle geography?",
     "options": [
-      "Mount Rainier visible behind the Seattle Great Wheel",
-      "The Space Needle perfectly framed in front of downtown skyscrapers (they are actually in opposite directions)",
-      "The Kingdome floating on Lake Washington",
-      "Puget Sound bordering the east side of the city"
+      "The Space Needle perfectly framed in front of downtown skyscrapers",
+      "Mount Rainier hovering directly above Puget Sound ferries",
+      "The Pacific Ocean visible on the western horizon",
+      "The Kingdome immediately adjacent to Lake Union"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
@@ -7696,7 +7696,7 @@
     "q": "Which episode of 'Frasier' won the Primetime Emmy Award for Outstanding Writing for a Comedy Series in 1994 (Season 1)?",
     "options": [
       "My Coffee with Niles",
-      "The Good Son (written by David Angell, Peter Casey, and David Lee)",
+      "The Good Son",
       "Dinner at Eight",
       "Author, Author"
     ],
@@ -7709,7 +7709,7 @@
     "options": [
       "The Matchmaker",
       "The Innkeepers",
-      "An Affair to Forget (written by Chuck Ranberg and Anne Flett-Giordano)",
+      "An Affair to Forget",
       "Flour Child"
     ],
     "answer": 2,
@@ -7717,12 +7717,12 @@
   },
   {
     "show": "Frasier",
-    "q": "Which episode of 'Frasier' won the Primetime Emmy Award for Outstanding Writing for a Comedy Series in 1998 (Season 5)?",
+    "q": "Which celebrated Season 5 episode of 'Frasier' written by Joe Keenan was nominated for the Primetime Emmy Award for Outstanding Writing?",
     "options": [
       "Voyage of the Damned",
       "Room Service",
       "Halloween",
-      "The Ski Lodge (nominated; Restaurant Beat won writing, or 'The Ski Lodge' was the celebrated submission)"
+      "The Ski Lodge"
     ],
     "answer": 3,
     "d": 3
@@ -7731,10 +7731,10 @@
     "show": "Frasier",
     "q": "Which episode won the Emmy for Outstanding Writing for a Comedy Series in 1999 (Season 6)?",
     "options": [
-      "Merry Christmas, Mrs. Moskowitz (written by Jay Kogen)",
-      "Three Valentines",
+      "Merry Christmas, Mrs. Moskowitz",
+      "Frasier's Curse",
       "Dial M for Martin",
-      "The Seal Who Came to Dinner"
+      "Three Valentines"
     ],
     "answer": 0,
     "d": 2
@@ -7897,11 +7897,11 @@
   },
   {
     "show": "Frasier",
-    "q": "What was the name of the sound effects specialist who performed live Foley work during the broadcast recording of 'Ham Radio'?",
+    "q": "In the classic farcical radio drama episode 'Ham Radio', what was the name of the elderly Foley sound effects artist who loses his voice before broadcast?",
     "options": [
       "Mel White",
       "Gil Chesterton",
-      "The character of the Foley artist in 'Ham Radio' was Wing, but in real life sound effects were handled by studio Foley editors",
+      "Mr. Wing",
       "Noel Shempsky"
     ],
     "answer": 2,
@@ -8079,10 +8079,10 @@
     "show": "Frasier",
     "q": "Which episode of 'Frasier' won the Writers Guild of America (WGA) Award in 1995 for Episodic Comedy?",
     "options": [
-      "The Good Son",
-      "The Matchmaker (written by Joe Keenan)",
-      "Flour Child",
-      "Author, Author"
+      "The Candidate",
+      "The Matchmaker",
+      "Adventures in Paradise",
+      "A Word to the Wiseguy"
     ],
     "answer": 1,
     "d": 3
@@ -8091,10 +8091,10 @@
     "show": "Frasier",
     "q": "Which episode won the WGA Award for Episodic Comedy in 2000?",
     "options": [
-      "Dark Side of the Moon",
+      "Out with Dad",
       "They're Playing Our Song",
-      "Something Borrowed, Someone Blue (written by Christopher Lloyd and Joe Keenan)",
-      "Whine Club"
+      "Something Borrowed, Someone Blue",
+      "Radio Days"
     ],
     "answer": 2,
     "d": 3
@@ -8245,24 +8245,24 @@
   },
   {
     "show": "Frasier",
-    "q": "Which actor from 'Cheers' directed Kelsey Grammer in multiple episodes of 'Frasier'?",
+    "q": "Which legendary director from 'Cheers' directed the pilot and dozens of episodes of 'Frasier'?",
     "options": [
-      "Ted Danson",
-      "Woody Harrelson",
-      "George Wendt",
-      "James Burrows (co-creator/director of Cheers)"
+      "James Burrows",
+      "Pamela Fryman",
+      "Andy Ackerman",
+      "David Trainer"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 3
   },
   {
     "show": "Frasier",
-    "q": "What was the working title of 'Frasier' during early pre-production before the creators settled on Frasier Crane?",
+    "q": "Before agreeing to reprise Frasier Crane in a spin-off, what character concept did Kelsey Grammer initially want to play in a new sitcom?",
     "options": [
-      "Kelsey Grammer initially wanted to play a paralyzed, eccentric billionaire in a Manhattan penthouse, not Frasier Crane",
-      "Seattle Blues",
-      "The Radio Doctor",
-      "Doctor in the House"
+      "A paralyzed, eccentric media mogul living in a Manhattan penthouse",
+      "A cynical political consultant in Washington D.C.",
+      "A disgraced Ivy League law professor starting over",
+      "A high-end art dealer navigating romance in Paris"
     ],
     "answer": 0,
     "d": 2
@@ -8367,24 +8367,24 @@
     "show": "Frasier",
     "q": "On which episode of 'Cheers' had Peri Gilpin previously guest-starred before landing the role of Roz?",
     "options": [
-      "The Season 8 episode 'The Two Frasiers'",
-      "The Season 11 episode 'Woody Gets An Election' (playing Holly Matheson)",
-      "The series finale 'One for the Road'",
-      "The Season 9 episode 'Cheers Follies'"
+      "Woody Gets An Election",
+      "One for the Road",
+      "The Last Picture Show",
+      "Bar Wars VII"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 3
   },
   {
     "show": "Frasier",
     "q": "On which episode of 'Cheers' had John Mahoney previously guest-starred before being cast as Martin Crane?",
     "options": [
-      "The Season 7 episode 'Bar Wars'",
-      "The Season 5 premiere",
-      "The Season 11 episode 'Do Not Forsake Me, O' My Postman' (playing Sy Flembeck)",
-      "The Season 10 finale"
+      "Do Not Forsake Me, O' My Postman",
+      "Rebecca Gaines, Rebecca Loses",
+      "The King of Beers",
+      "It's a Wonderful Wife"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 2
   },
   {
@@ -8847,17 +8847,17 @@
     "show": "Frasier",
     "q": "Which actress who played Daphne Moon got her big break in America as a regular cast member on 'Murphy Brown'?",
     "options": [
-      "Peri Gilpin",
-      "Jane Leeves (playing Audrey Cohen)",
-      "Jane Adams",
-      "Marsha Mason"
+      "Jane Leeves",
+      "Faith Ford",
+      "Julia Campbell",
+      "Lisa Darr"
     ],
-    "answer": 1,
+    "answer": 0,
     "d": 1
   },
   {
     "show": "Frasier",
-    "q": "What British Benny Hill comedy show featured Jane Leeves as one of the dancers ('Hill's Angels') early in her career?",
+    "q": "Which British slapstick sketch comedy show featured Jane Leeves as one of the glamorous 'Hill's Angels' dancers early in her career?",
     "options": [
       "Monty Python's Flying Circus",
       "The Two Ronnies",

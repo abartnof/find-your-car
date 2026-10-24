@@ -145,7 +145,7 @@
   },
   {
     "show": "Friends",
-    "q": "In 'The One Where Underdog Gets Away', what Thanksgiving Day parade balloon breaks free and floats over Manhattan?",
+    "q": "In the Season 1 Thanksgiving episode, what giant superhero dog parade balloon breaks free from the Macy's Thanksgiving Day Parade and floats over Manhattan?",
     "options": [
       "Snoopy",
       "Underdog",
@@ -2017,7 +2017,7 @@
   },
   {
     "show": "Friends",
-    "q": "What Japanese concept of total situational awareness does Ross claim to possess in 'The One with Unagi'?",
+    "q": "In Season 6, what Japanese concept of total situational awareness (which Rachel and Phoebe point out is actually freshwater eel) does Ross claim to possess?",
     "options": [
       "Sashimi",
       "Wasabi",
@@ -4455,10 +4455,10 @@
     "show": "Friends",
     "q": "What famous framing model's picture did Phoebe believe was her father until high school?",
     "options": [
-      "Fabio Lanzoni",
-      "The Marlboro Man",
-      "The frame insert model (later revealed to be framed picture model)",
-      "A portrait of Ernest Hemingway"
+      "Her actual biological father",
+      "A famous actor",
+      "The frame insert model",
+      "An album cover musician"
     ],
     "answer": 2,
     "d": 3
@@ -4611,12 +4611,12 @@
     "show": "Friends",
     "q": "What other client of Estelle's is an entertainer who eats paper and performs pyramid tricks?",
     "options": [
-      "A dog that plays poker",
-      "A juggling fire-eater",
-      "A contortionist tap dancer",
-      "Al Zebooker (the guy who eats paper)"
+      "Al Zebooker",
+      "Billy Crystal",
+      "Bobcat Goldthwait",
+      "Pauly Shore"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 3
   },
   {
@@ -4741,11 +4741,11 @@
   },
   {
     "show": "Friends",
-    "q": "What sport does the gang play on the foosball table inside Joey and Chandler's apartment?",
+    "q": "What miniature tabletop bar game do Joey and Chandler obsessively play in their apartment instead of having a dining table?",
     "options": [
       "Air hockey",
       "Table tennis",
-      "Table football (foosball)",
+      "Foosball",
       "Billiards"
     ],
     "answer": 2,
@@ -5977,14 +5977,14 @@
   },
   {
     "show": "Friends",
-    "q": "What was the title of the official Friends soundtrack album released by Reprise Records in autumn 1995?",
+    "q": "What 1995 soundtrack album featuring The Rembrandts, Hootie & the Blowfish, and Lou Reed reached the top 5 of the Billboard 200?",
     "options": [
-      "'Songs from Central Perk'",
-      "'I'll Be There for You: The Central Perk Collection'",
-      "'Friends (Music from the TV Series)'",
-      "'Must See Music: Friends Volume 1'"
+      "Friends Original Soundtrack",
+      "Central Perk Melodies",
+      "Coffeehouse Jams",
+      "The One with All the Music"
     ],
-    "answer": 2,
+    "answer": 0,
     "d": 2
   },
   {
@@ -6567,12 +6567,12 @@
     "show": "Friends",
     "q": "What television studio head at Warner Bros. Television initially negotiated the network deal with NBC?",
     "options": [
+      "Leslie Moonves",
       "Peter Roth",
-      "Garth Ancier",
-      "Ted Harbert",
-      "Leslie Moonves (then president of Warner Bros. Television)"
+      "Warren Littlefield",
+      "Don Ohlmeyer"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 3
   },
   {
@@ -7117,11 +7117,11 @@
   },
   {
     "show": "Friends",
-    "q": "What French title was given to Friends during its broadcast in France and French-speaking territories?",
+    "q": "When the hit NBC sitcom premiered on French television in 1996, under what title did it air in France and French-speaking territories?",
     "options": [
       "Les Amis",
       "Copains de Manhattan",
-      "Friends (retaining the English title)",
+      "Friends",
       "La Bande"
     ],
     "answer": 2,
@@ -7129,10 +7129,10 @@
   },
   {
     "show": "Friends",
-    "q": "What German title was given to Friends when broadcast in Germany and Austria?",
+    "q": "When broadcast on German television, under what title was the hit NBC comedy series aired?",
     "options": [
       "Sechs in Manhattan",
-      "Friends (subtitled 'Freunde')",
+      "Friends",
       "Die Kumpel",
       "New Yorker Nächte"
     ],
@@ -7888,9 +7888,9 @@
     "q": "What popular handheld electronic game did the cast frequently play together on set between scene takes in early seasons?",
     "options": [
       "Sega Game Gear",
-      "Tamagotchi",
-      "Game Boy (playing Tetris)",
-      "Nintendo DS"
+      "Atari Lynx",
+      "Game Boy",
+      "Tamagotchi"
     ],
     "answer": 2,
     "d": 3
@@ -7935,10 +7935,10 @@
     "show": "Friends",
     "q": "Which cast member's father was a veteran daytime soap opera actor on 'Days of Our Lives' in real life?",
     "options": [
-      "Matt LeBlanc",
       "Courteney Cox",
-      "Jennifer Aniston (her father John Aniston played Victor Kiriakis)",
-      "Matthew Perry"
+      "Lisa Kudrow",
+      "Jennifer Aniston",
+      "Matt LeBlanc"
     ],
     "answer": 2,
     "d": 1
@@ -7959,10 +7959,10 @@
     "show": "Friends",
     "q": "What actor father of Matthew Perry made a cameo guest appearance in 'The One with Rachel's New Dress'?",
     "options": [
-      "John Bennett Perry (playing Joshua Burgin's father)",
+      "John Bennett Perry",
+      "Keith Morrison",
       "Dick Van Dyke",
-      "James Brolin",
-      "Robert Foxworth"
+      "Alan Thicke"
     ],
     "answer": 0,
     "d": 2
@@ -8137,12 +8137,12 @@
   },
   {
     "show": "Friends",
-    "q": "What television commercial for Coca-Cola featured Matt LeBlanc roller-skating through a warm city street?",
+    "q": "What popular soft drink brand featured a young Matt LeBlanc roller-skating through warm city streets in a memorable 1990 TV commercial?",
     "options": [
-      "A 1990 Cherry 7-Up commercial (and Coca-Cola commercial)",
-      "Pepsi Generation ad",
-      "Mountain Dew extreme ad",
-      "Dr Pepper retro ad"
+      "Cherry 7-Up",
+      "Coca-Cola",
+      "Pepsi",
+      "Mountain Dew"
     ],
     "answer": 0,
     "d": 3
@@ -8703,12 +8703,12 @@
     "show": "Friends",
     "q": "What acoustic musical artist performed 'Smelly Cat' with Lisa Kudrow during a live stadium concert at Staples Center in 2015?",
     "options": [
-      "Taylor Swift (during 'The 1989 World Tour')",
-      "Phoebe Bridgers",
-      "Kacey Musgraves",
-      "Alanis Morissette"
+      "Katy Perry",
+      "Taylor Swift",
+      "Selena Gomez",
+      "Lady Gaga"
     ],
-    "answer": 0,
+    "answer": 1,
     "d": 1
   },
   {
@@ -9265,7 +9265,7 @@
   },
   {
     "show": "Friends",
-    "q": "Which actress portrayed Carol Willick in the Pilot episode before Anita Barone was replaced by Jane Sibbett?",
+    "q": "Which actress portrayed Ross's ex-wife Carol Willick in the pilot episode before being replaced by Jane Sibbett for the rest of the series?",
     "options": [
       "Jane Sibbett",
       "Anita Barone",
@@ -9435,12 +9435,12 @@
     "show": "Friends",
     "q": "Which iconic talk-show host cameos in 'The One with the Mugging' walking past Central Perk?",
     "options": [
+      "Conan O'Brien",
       "Jay Leno",
-      "Jon Stewart",
       "David Letterman",
-      "Conan O'Brien (sitting as an extra in the background of Central Perk)"
+      "Jon Stewart"
     ],
-    "answer": 3,
+    "answer": 0,
     "d": 3
   },
   {
@@ -9555,10 +9555,10 @@
     "show": "Friends",
     "q": "What was the name of the white capuchin monkey who played Ross's pet Marcel in Season 1?",
     "options": [
-      "Katie the monkey (with a backup named Monkey)",
-      "Bubbles the monkey",
-      "Barnaby the monkey",
-      "Coco the monkey"
+      "Katie the monkey",
+      "Marcel Jr.",
+      "Bubbles",
+      "Cheeta"
     ],
     "answer": 0,
     "d": 3
