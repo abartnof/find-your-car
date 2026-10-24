@@ -12,7 +12,7 @@ export const CHARACTERS = [
 export const CARS = [
   { id: 1, name: 'Hatchback', tex: 4 }, { id: 2, name: 'Coupe', tex: 3 },
   { id: 3, name: 'Roadster', tex: 3 }, { id: 4, name: 'Wagon', tex: 4 },
-  { id: 5, name: 'Sedan', tex: 3 }, { id: 7, name: 'Vintage', tex: 6 }, { id: 8, name: 'Pickup', tex: 3 },
+  { id: 5, name: 'Sedan', tex: 3 }, { id: 7, name: 'Vintage', tex: 6 }, { id: 8, name: 'Delivery Van', tex: 3 },
 ];
 
 export const STEPS = 10;
